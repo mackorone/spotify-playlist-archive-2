@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 668880,
+  "num_followers": 668996,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "Excuse the Mess",
-        "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
+        "name": "Living Proof (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
       },
       "artists": [
         {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 171819,
-      "name": "Excuse the Mess",
-      "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
+      "duration_ms": 218986,
+      "name": "Living Proof (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "Living Proof (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
+        "name": "Excuse the Mess",
+        "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 218986,
-      "name": "Living Proof (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+      "duration_ms": 171819,
+      "name": "Excuse the Mess",
+      "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
-        "name": "Time Bomb",
-        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
     },
     {
       "added_at": "2026-06-26 04:01:34",

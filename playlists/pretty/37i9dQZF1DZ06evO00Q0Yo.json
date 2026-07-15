@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 20531,
+  "num_followers": 20536,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACsIeCvGjaYQIBS+VMKytWN",
+  "snapshot_id": "alQqgAAAAADS1jrCTCHWYpJKF0tBEU5s",
   "tracks": [
     {
       "added_at": null,
@@ -758,11 +758,15 @@
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
         }
       ],
-      "duration_ms": 107322,
-      "name": "Got The Juice",
-      "url": "https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq"
+      "duration_ms": 173858,
+      "name": "New Me (feat. Anycia)",
+      "url": "https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1015047,
+  "num_followers": 1015045,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 192144,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Dick Arkive: Issue 2",
-        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
-      },
-      "artists": [
-        {
-          "name": "r mccarthy",
-          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
-        }
-      ],
-      "duration_ms": 242345,
-      "name": "I Think I Lost That Love",
-      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "I Ask Nothing of You",
         "url": "https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Dick Arkive: Issue 2",
+        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+      },
+      "artists": [
+        {
+          "name": "r mccarthy",
+          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+        }
+      ],
+      "duration_ms": 242345,
+      "name": "I Think I Lost That Love",
+      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Above Me",
         "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
       },
@@ -1015,26 +1015,6 @@
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Rockie",
-        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
-      },
-      "artists": [
-        {
-          "name": "Rockie Rode",
-          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
-        },
-        {
-          "name": "Samba Jean-Baptiste",
-          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1067,6 +1047,26 @@
       "duration_ms": 238479,
       "name": "S.I.T.L.",
       "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        },
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
-        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Lionel Boy",
         "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 224133,
       "name": "Flower Girl",
       "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
+        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M"
       },
       "artists": [
         {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+          "name": "SadGirl",
+          "url": "https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+      "duration_ms": 170434,
+      "name": "Little Queenie (2023 Remastered Version)",
+      "url": "https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M"
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
       "artists": [
         {
-          "name": "SadGirl",
-          "url": "https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2"
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
         }
       ],
-      "duration_ms": 170434,
-      "name": "Little Queenie (2023 Remastered Version)",
-      "url": "https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj"
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "I Just Can't Be Alone (with Billy Lemos)",
-        "url": "https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6"
-      },
-      "artists": [
-        {
-          "name": "Lexa Gates",
-          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
-        },
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        }
-      ],
-      "duration_ms": 160062,
-      "name": "I Just Can't Be Alone (with Billy Lemos)",
-      "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "I Just Can't Be Alone (with Billy Lemos)",
+        "url": "https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "duration_ms": 160062,
+      "name": "I Just Can't Be Alone (with Billy Lemos)",
+      "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "HOMESICK",
-        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Evening News",
-      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 197511,
       "name": "I'll Never Leave",
       "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "HOMESICK",
+        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Evening News",
+      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Holy Waters",
-        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Dream Of You",
-      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "What\u2019s In The Tea?",
         "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
       },
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Haunted Disc",
-        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 203864,
-      "name": "Digital Girl",
-      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Twilight Zone",
         "url": "https://open.spotify.com/album/0GjQV3glseW1A5baoTqQWH"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 142174,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/6lpUGFAILreoiA83KUpt7T"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Holy Waters",
+        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 203864,
+      "name": "Digital Girl",
+      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Simpatico",
+        "url": "https://open.spotify.com/album/2lK6kmV26bYb9CcTFvrmLz"
+      },
+      "artists": [
+        {
+          "name": "Golden Daze",
+          "url": "https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/3LG0fOHDELxUJadCiGpyCF"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "It's All a Bit Fuzzy",
         "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Simpatico",
-        "url": "https://open.spotify.com/album/2lK6kmV26bYb9CcTFvrmLz"
-      },
-      "artists": [
-        {
-          "name": "Golden Daze",
-          "url": "https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/3LG0fOHDELxUJadCiGpyCF"
     }
   ],
   "unique_name": "late night vibes",

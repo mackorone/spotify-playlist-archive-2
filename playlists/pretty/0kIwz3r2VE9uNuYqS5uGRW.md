@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 277 songs - 14 hr 41 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 283 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,5 +285,11 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 275 | [i forgive the world because it has you](https://open.spotify.com/track/2OnukW55TRUtQeW2GkS8Rd) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT) | [i forgive the world because it has you](https://open.spotify.com/album/4Seqmn9ryTWxm0v3TBEHdC) | 3:18 |
 | 276 | [Never Had](https://open.spotify.com/track/45EKsEATCU3KLdyitu8bjm) | [Charlie Sly](https://open.spotify.com/artist/4qvTP5uRYPsE9qHJHgDrKr) | [The Waiter](https://open.spotify.com/album/4fVJZw78OQ25XSYahysgzv) | 4:18 |
 | 277 | [Çanta](https://open.spotify.com/track/5PciuGV2uEpN04euyW0GW8) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Çanta](https://open.spotify.com/album/3kMlCInlvl5Rz6miGkC3R6) | 3:47 |
+| 278 | [Ke quiere hacer](https://open.spotify.com/track/5G2lTc0aqQDDRlnEUkPWBS) | [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy), [Dearriba](https://open.spotify.com/artist/38VgmuXdTEYy63tcL1E5oV) | [Ke quiere hacer](https://open.spotify.com/album/1rLRlbJS1LvRdbwDHdrDYB) | 2:33 |
+| 279 | [Whisk Me Away](https://open.spotify.com/track/2m66V7Uh9lFryiqXErE4Tv) | [Gwyn English Nielsen](https://open.spotify.com/artist/2qiQLmWs81Zno7WFH4lLiS) | [Whisk Me Away](https://open.spotify.com/album/5DcxQ2t4ir9F7jRbixSsqp) | 2:30 |
+| 280 | [A Song to Sleep](https://open.spotify.com/track/5P4Oqyd5zg4myjKvUqRr9A) | [Tina Para Dos](https://open.spotify.com/artist/0sZOpXDHlQtZXDGtGhijnQ) | [A Song to Sleep](https://open.spotify.com/album/4W4pmuOgTcMHQRkBJoXVPf) | 2:32 |
+| 281 | [Celestial](https://open.spotify.com/track/5gcoaokLTC7ZdJEYwYtQJS) | [Assey](https://open.spotify.com/artist/2xeEHeQMEqevIxTnHp2OCN) | [Celestial](https://open.spotify.com/album/0Fpdy4Owrkflqt1VoDrrd9) | 2:47 |
+| 282 | [Excluxive](https://open.spotify.com/track/2JkTAL3pCmwYtFqhzBlou1) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Excluxive](https://open.spotify.com/album/33UYXfMD1q46GGiShatDNr) | 2:25 |
+| 283 | [Yo quiero ser rico](https://open.spotify.com/track/30PpjvLUzJHpovp9Na4Z5H) | [draco boss](https://open.spotify.com/artist/08GHLzYQVYYf0ayA4u3cGp) | [Yo quiero ser rico](https://open.spotify.com/album/3IG1jsGSSYanpypTwngNod) | 3:07 |
 
-Snapshot ID: `AAAWG/WBGlz5xmfxnR7CLgFWv8v9GyjZ`
+Snapshot ID: `AAAWIUzu+y5A03WKhM2Q+NUoLSFr5vrB`

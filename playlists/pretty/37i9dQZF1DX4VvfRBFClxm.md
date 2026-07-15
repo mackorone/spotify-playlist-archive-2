@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,462,646 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,462,632 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 63 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
 | 64 | [Shouldn't Matter but It Does](https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:56 |
 | 65 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
-| 66 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
+| 66 | [Happier \- Acoustic](https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Happier \(Acoustic\)](https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm) | 3:26 |
 | 67 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
 | 68 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
 | 69 | [Slow Dancing in a Burning Room \- Acoustic](https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Village Sessions](https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX) | 3:52 |
 | 70 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
-| 71 | [Happier \- Acoustic](https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Happier \(Acoustic\)](https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm) | 3:26 |
+| 71 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
 | 72 | [One Step Ahead](https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj) | 3:11 |
 | 73 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 74 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 120 | [Blindside \- Acoustic](https://open.spotify.com/track/3r5x5Y6xj4WQ8b6ig63VvS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside \(Acoustic\)](https://open.spotify.com/album/2T1VAV84jseAzOnK6l48PY) | 3:53 |
 | 121 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |
 | 122 | [Brother \- Acoustic](https://open.spotify.com/track/2tjb7JbJj7sl4ykpIeAMoA) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Brother](https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV) | 3:36 |
-| 123 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
-| 124 | [Dream \- Acoustic](https://open.spotify.com/track/67l1tytshju3Ily8uIAVKH) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Dream \(Acoustic\)](https://open.spotify.com/album/5Me78hMJtqwiroQEDoFGYh) | 3:18 |
-| 125 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
+| 123 | [Dream \- Acoustic](https://open.spotify.com/track/67l1tytshju3Ily8uIAVKH) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Dream \(Acoustic\)](https://open.spotify.com/album/5Me78hMJtqwiroQEDoFGYh) | 3:18 |
+| 124 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
+| 125 | [This Fire](https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [A Good Storm](https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8) | 3:46 |
 
 Snapshot ID: `AAAAANL1Ma+vhXMuiVNh2wfaFOwbrt5w`

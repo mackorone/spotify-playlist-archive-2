@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,282 likes - 35 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,283 likes - 35 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 10 | [Taillights](https://open.spotify.com/track/38vArX5IoSoYL9r2lkn0P5) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Taillights](https://open.spotify.com/album/3TwRph25WYSUaoYqhedZ9g) | 2:59 |
 | 11 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 12 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 |
-| 13 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
-| 14 | [Now I Know](https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Now I Know](https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a) | 3:31 |
+| 13 | [Now I Know](https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Now I Know](https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a) | 3:31 |
+| 14 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
 | 15 | [Seeing Someone Else](https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:26 |
 | 16 | [Both](https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:23 |
 | 17 | [Good As Gone](https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good As Gone](https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB) | 3:07 |
 | 18 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 19 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 | 20 | [We're Not Friends](https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:12 |
-| 21 | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:33 |
-| 22 | [Any Day Now](https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 3:13 |
+| 21 | [Any Day Now](https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 3:13 |
+| 22 | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:33 |
 | 23 | [How Honest Do You Want Me To Be?](https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:54 |
 | 24 | [Life of the Party](https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 2:56 |
 | 25 | [Treated Me Good](https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:20 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 34 | [Boys](https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 2:43 |
 | 35 | [Bed on Fire \(feat\. Ingrid Andress\)](https://open.spotify.com/track/06IC4v8Smdm5fVQuMAOxe2) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [songs for sad eyes](https://open.spotify.com/album/6NS3kVO5BUMDdWlIOvOk65) | 3:48 |
 
-Snapshot ID: `alLZAAAAAABn2crYCLE/g5wlAppt7xCS`
+Snapshot ID: `alQqgAAAAAD55+5FQ6NS7YOmbZCOa5hh`

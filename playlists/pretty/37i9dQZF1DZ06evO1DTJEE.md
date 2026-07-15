@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,852 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,917 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,21 +27,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 17 | [Hard To Leave](https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:35 |
 | 18 | [Georgia Time](https://open.spotify.com/track/5XqHOqbjKb7YsQV6f3eGeD) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Georgia Time](https://open.spotify.com/album/0jj8xYfd6vh54BN4PyuWts) | 3:41 |
 | 19 | [Pick A Place](https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:59 |
-| 20 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 |
-| 21 | [Go Again](https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Go Again](https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g) | 4:00 |
+| 20 | [Go Again](https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Go Again](https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g) | 4:00 |
+| 21 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 |
 | 22 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
 | 23 | [I Hope She's Drinkin' Tonight](https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [I Hope She’s Drinkin' Tonight / Get Back Home](https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl) | 3:08 |
 | 24 | [Get That Man A Beer](https://open.spotify.com/track/5xYI4ZcyAHq3ruRnFazHnN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:22 |
-| 25 | [Workin' On Me](https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:36 |
-| 26 | [I Just Need You](https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:03 |
+| 25 | [I Just Need You](https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:03 |
+| 26 | [Workin' On Me](https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:36 |
 | 27 | [If It Wasn’t For Trucks](https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:17 |
 | 28 | [That's A Mistake](https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 4:17 |
-| 29 | [They Don’t Make 'Em Like That No More](https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:15 |
-| 30 | [Good Morning From Mexico](https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:08 |
+| 29 | [Good Morning From Mexico](https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:08 |
+| 30 | [They Don’t Make 'Em Like That No More](https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:15 |
 | 31 | [Same Old Song](https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 |
 | 32 | [Rather Be](https://open.spotify.com/track/2EWouyr1NipXylaziIXyye) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 2:51 |
-| 33 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
-| 34 | [Way Out Here](https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:41 |
+| 33 | [Way Out Here](https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:41 |
+| 34 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
 | 35 | [Mississippi Or Me](https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
 | 36 | [Waitin' All Day](https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:18 |
 | 37 | [Break Up More Often](https://open.spotify.com/track/6FpSqJRS0786oDMKIDqISd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Smoke](https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Smoke](https://open.spotify.com/album/4uI9tXHHbtAAhNX3q0fZq4) | 3:11 |
 | 50 | [Huntin' Land \(feat\. Riley Green\)](https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 3:01 |
 
-Snapshot ID: `alLZAAAAAAABqA+CA5+T3T+14R8ilyrv`
+Snapshot ID: `alQqgAAAAACYD8YVR/Gj/zZ/ckFPWqs0`

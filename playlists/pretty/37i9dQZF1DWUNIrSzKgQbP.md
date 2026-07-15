@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,649,501 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,422 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 35 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
 | 36 | [Villain](https://open.spotify.com/track/0sUJVa3AFcEqdy11QtiZCY) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 4:30 |
 | 37 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
-| 38 | [Big Jet Plane](https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 3:59 |
-| 39 | [Crucified Son](https://open.spotify.com/track/0dAVs6Bzri2ivspQ0E7vM7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Crucified Son](https://open.spotify.com/album/2NOFo26dGaPq2Z0QJIfdPg) | 3:29 |
+| 38 | [Crucified Son](https://open.spotify.com/track/0dAVs6Bzri2ivspQ0E7vM7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Crucified Son](https://open.spotify.com/album/2NOFo26dGaPq2Z0QJIfdPg) | 3:29 |
+| 39 | [Big Jet Plane](https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 3:59 |
 | 40 | [High and Dry](https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [High and Dry](https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT) | 2:33 |
 | 41 | [Quiet Eyes](https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Quiet Eyes](https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW) | 3:37 |
 | 42 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 53 | [Somebody Like Me](https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:56 |
 | 54 | [Summer of Love](https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 4:48 |
 | 55 | [Bad Luck Bad Habit](https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj) | [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Bad Luck Bad Habit](https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA) | 3:30 |
-| 56 | [Sister Moon](https://open.spotify.com/track/6gkgd7ayZdwvd8z7wYIMeL) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 2:54 |
-| 57 | [Let There Be Music](https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 4:41 |
+| 56 | [Let There Be Music](https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 4:41 |
+| 57 | [Sister Moon](https://open.spotify.com/track/6gkgd7ayZdwvd8z7wYIMeL) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 2:54 |
 | 58 | [blue jean](https://open.spotify.com/track/40vvgzQb8LSURO2Vh7dJgz) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 4:36 |
 | 59 | [Artichoke](https://open.spotify.com/track/4bM74eqvr4Pr9CmYeDYOht) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 2:43 |
 | 60 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 63 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 64 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
 | 65 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
-| 66 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
-| 67 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 |
+| 66 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 |
+| 67 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
 | 68 | [Julia](https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:10 |
 | 69 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
 | 70 | [Ancient Light](https://open.spotify.com/track/42Xt27QoxLh1XxxG8ILEMI) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Ancient Light](https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl) | 3:34 |

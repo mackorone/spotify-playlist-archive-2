@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,749 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,753 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 70 | [Lluvia](https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Lluvia](https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo) | 3:48 |
 | 71 | [Decir Adiós](https://open.spotify.com/track/0eQpNMgtRDmG3XKypbvhsc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Decir Adiós](https://open.spotify.com/album/2kM3apVttjWFLjGPMrEwCS) | 4:49 |
 | 72 | [Aeroplanos](https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Aeroplanos](https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz) | 3:59 |
-| 73 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
+| 73 | [Tiempo](https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG) | [Andrés Almeida](https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk) | [Tiempo](https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9) | 4:02 |
 | 74 | [No Soy Yo](https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [No Soy Yo](https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09) | 3:13 |
-| 75 | [Tiempo](https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG) | [Andrés Almeida](https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk) | [Tiempo](https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9) | 4:02 |
+| 75 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
 | 76 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 |
 | 77 | [Mi Amigo Chapulín](https://open.spotify.com/track/7bS79av4K7hPcAemnQabIl) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Mi Amigo Chapulín](https://open.spotify.com/album/6k8Qp0O4XZhnIyw8pPE2TX) | 3:36 |
 | 78 | [Cupido \- Acústico](https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cupido \(Acústico\)](https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d) | 3:16 |

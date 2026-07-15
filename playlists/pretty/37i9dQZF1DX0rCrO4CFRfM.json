@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1095724,
+  "num_followers": 1095806,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "SoCal Sessions",
         "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 262253,
       "name": "Youth Of The Nation - Acoustic Version",
       "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2026-04-08 19:46:17",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Seventeen Going Under (Acoustic)",
-        "url": "https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Seventeen Going Under - Acoustic",
-      "url": "https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Seventeen Going Under (Acoustic)",
+        "url": "https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 312226,
+      "name": "Seventeen Going Under - Acoustic",
+      "url": "https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN"
     },
     {
       "added_at": "2026-04-08 19:46:17",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Wrong Side Of Heaven (Acoustic)",
-        "url": "https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 269787,
-      "name": "Wrong Side Of Heaven - Acoustic",
-      "url": "https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "Bad Life (acoustic)",
         "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 220239,
       "name": "Bad Life - acoustic",
       "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Wrong Side Of Heaven (Acoustic)",
+        "url": "https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 269787,
+      "name": "Wrong Side Of Heaven - Acoustic",
+      "url": "https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy"
     },
     {
       "added_at": "2026-04-08 19:46:17",

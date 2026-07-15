@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108719,
+  "num_followers": 108725,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADsfT/CkVBe3Xw0tLczEv8W",
+  "snapshot_id": "alQqgAAAAACIfzdHtq1HvlEmNv2/VDHg",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry (Holland Zingt Hazes)",
         "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 244106,
       "name": "Al Jouw Woorden Zijn Teveel",
       "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wij Gaan Gezellig Naar De Kroeg (Andre's Oranje Favorieten)",
-        "url": "https://open.spotify.com/album/6Ce3SCEkeVB73ynSPvcHYa"
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 172560,
-      "name": "Wij Houden Van Oranje - Live From The Amsterdam Arena, Netherlands / 2008",
-      "url": "https://open.spotify.com/track/6M7I3yVYUvSZ3agth5j8Bo"
+      "duration_ms": 210173,
+      "name": "'T Is Voorbij",
+      "url": "https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ"
     },
     {
       "added_at": null,

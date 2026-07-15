@@ -436,10 +436,36 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 185333,
       "name": "Boom Body",
       "url": "https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE"
+    },
+    {
+      "album": {
+        "name": "Lottery",
+        "url": "https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Boom Body",
+      "url": "https://open.spotify.com/track/2FIGowzgXPaIuZhcFNdT2P"
     },
     {
       "album": {

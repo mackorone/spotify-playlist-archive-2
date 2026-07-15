@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 25346,
+  "num_followers": 25351,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "NINA REVISITED: A Tribute to Nina Simone",
-        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        }
-      ],
-      "duration_ms": 399531,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Cherry Bomb + Instrumentals",
         "url": "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 180613,
       "name": "FIND YOUR WINGS - Instrumental",
       "url": "https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "NINA REVISITED: A Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        }
+      ],
+      "duration_ms": 399531,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -3535,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "Soldier of Love",
+      "url": "https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB"
+    },
+    {
+      "album": {
         "name": "Grave Dancers Union (2022 Remaster)",
         "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
       },

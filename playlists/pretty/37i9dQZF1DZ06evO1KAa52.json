@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 669907,
+  "num_followers": 669932,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADkE24322syN9Ac60i7NnQu",
+  "snapshot_id": "alQqgAAAAAD9PDAy21l762q60NGl5Ya0",
   "tracks": [
     {
       "added_at": null,
@@ -1091,46 +1091,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
       },
       "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
         {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Zooey Deschanel",
-          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
-        },
-        {
-          "name": "Kunal Nayyar",
-          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
         },
         {
           "name": "Icona Pop",
           "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Ron Funches",
-          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+          "name": "The Pop Trolls",
+          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
         }
       ],
-      "duration_ms": 189520,
-      "name": "Let's Get Married",
-      "url": "https://open.spotify.com/track/7AZiiOuTA8WPWJ7vEdFmue"
+      "duration_ms": 61923,
+      "name": "Trolls 2 Many Hits Mashup",
+      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

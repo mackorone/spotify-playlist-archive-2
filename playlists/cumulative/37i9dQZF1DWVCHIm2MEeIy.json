@@ -350,7 +350,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 250327,
       "name": "Alelele",
       "url": "https://open.spotify.com/track/0xjDB0xOosNejbk6X9Zrzv"
@@ -4758,6 +4758,24 @@
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6J5ilFhuhNabaHEOgc20IP"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236625,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/15CXWtEaOlVG2Yj5L77zc8"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 592046,
+  "num_followers": 592071,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACbAv7+fT1GM76wP0j12TzK",
+  "snapshot_id": "alQqgAAAAADzyY6L+Spoj1RIddaiFu6J",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 202805,
-      "name": "Buckets of Rain",
-      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Dylan",
         "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 165318,
       "name": "Song to Woody",
       "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 202805,
+      "name": "Buckets of Rain",
+      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 454005,
-      "name": "Visions of Johanna",
-      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 305089,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 454005,
+      "name": "Visions of Johanna",
+      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
     },
     {
       "added_at": null,

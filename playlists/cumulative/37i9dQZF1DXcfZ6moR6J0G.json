@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 198280,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm"
@@ -2798,6 +2798,24 @@
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "album": {
+        "name": "Lo-Pro",
+        "url": "https://open.spotify.com/album/4W9EVHlCopmUbCdMsOG63e"
+      },
+      "artists": [
+        {
+          "name": "Lo-Pro",
+          "url": "https://open.spotify.com/artist/3hjOsJlTGeQ9Ho5S6C3pbs"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3OUqz6I3Q8Kjz3PFeZA78e"
     },
     {
       "album": {

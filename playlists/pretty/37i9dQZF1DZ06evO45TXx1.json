@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16120,
+  "num_followers": 16124,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABIzleuJRz6fpbwRJVHVBhs",
+  "snapshot_id": "alQqgAAAAACk02CF1UV7q8pIlFrZrGxL",
   "tracks": [
     {
       "added_at": null,
@@ -243,34 +243,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voc\u00ea Precisa do \u00c1libi",
-        "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
+        "name": "Poetisas no Topo 3",
+        "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Sodomita",
+          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        },
-        {
-          "name": "Mahai",
-          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
         }
       ],
-      "duration_ms": 165525,
-      "name": "NOITES TRAI\u00c7OEIRAS",
-      "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
+      "duration_ms": 374400,
+      "name": "Poetisas no Topo 3",
+      "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
     },
     {
       "added_at": null,
@@ -319,50 +335,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetisas no Topo 3",
-        "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
+        "name": "Voc\u00ea Precisa do \u00c1libi",
+        "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Sodomita",
-          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        },
+        {
+          "name": "Mahai",
+          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
         }
       ],
-      "duration_ms": 374400,
-      "name": "Poetisas no Topo 3",
-      "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+      "duration_ms": 165525,
+      "name": "NOITES TRAI\u00c7OEIRAS",
+      "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/5Ba9p1oenxnVkFosipeZQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Botano (\u00datero Baixo)",
         "url": "https://open.spotify.com/album/76LH5qUwb68C2J1RGtzzTp"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 166153,
       "name": "Botano (\u00datero Baixo)",
       "url": "https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/5Ba9p1oenxnVkFosipeZQP"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/0ooMUK7RvS1L74XFbZd8qy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 172941,
       "name": "Ainda Sinto Muito",
       "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/0ooMUK7RvS1L74XFbZd8qy"
     },
     {
       "added_at": null,
@@ -963,6 +963,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 161642,
+      "name": "Fofoca",
+      "url": "https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Essa Minha Vida Bandida",
         "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
@@ -991,34 +1019,6 @@
       "duration_ms": 152380,
       "name": "Intriga",
       "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 161642,
-      "name": "Fofoca",
-      "url": "https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Mundo das Espertas",
+      "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -1099,30 +1123,6 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Mundo das Espertas",
-      "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
     },
     {
       "added_at": null,

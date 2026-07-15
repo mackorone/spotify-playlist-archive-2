@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,167 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,249 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,19 +15,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 5 | [Le Creí](https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:58 |
 | 6 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
 | 7 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
-| 8 | [Tu Sombra en Mi](https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:55 |
-| 9 | [Conmigo Te Gustó](https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:13 |
+| 8 | [Conmigo Te Gustó](https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:13 |
+| 9 | [Tu Sombra en Mi](https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:55 |
 | 10 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
 | 11 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 12 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
-| 13 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
-| 14 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
+| 13 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
+| 14 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
 | 15 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
 | 16 | [Nada](https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [Nada](https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA) | 3:06 |
 | 17 | [Hoy](https://open.spotify.com/track/6a0FNGCFye7YPJc02S6vDF) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Hoy](https://open.spotify.com/album/7h6O8lvTXdxyGMuC8990Ca) | 3:07 |
 | 18 | [El Chancho Come Caviar](https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:35 |
-| 19 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
-| 20 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
+| 19 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
+| 20 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
 | 21 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
 | 22 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 23 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 76 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
 | 77 | [Antes](https://open.spotify.com/track/2WkYydyAY8QsFhy16KgsCY) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 |
 | 78 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 |
-| 79 | [Pechos Calientes \- En Vivo](https://open.spotify.com/track/5LCWD4A4yYPWhYKCYtpUei) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Uriel Lozano: Sin Miedo Session \#44 \(Lado S\) \[En Vivo\]](https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7) | 1:08 |
+| 79 | [El No Va A Venir \- En Vivo](https://open.spotify.com/track/2noZkOgZTfgvKNQeNcNtYn) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Uriel Lozano: Sin Miedo Session \#44 \(Lado S\) \[En Vivo\]](https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7) | 1:09 |
 | 80 | [Hasta el Sol de Hoy \- En Vivo](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
 
 Snapshot ID: `AAAAAIJr4gbnXJGs906xOWuP5u9yLZHc`

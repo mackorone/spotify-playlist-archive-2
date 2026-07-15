@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: 7co",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u690e\u540d\u6797\u6a8e",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -26009,6 +26009,24 @@
     },
     {
       "album": {
+        "name": "Oi AG!",
+        "url": "https://open.spotify.com/album/2URiIZ2kHFP1V2NLFE9AzI"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Oi AG!",
+      "url": "https://open.spotify.com/track/2rBT5nSYEVhVKEhWsIzzWt"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/2qUZYHZL8wIABuv5OOcA9Q"
       },
@@ -26600,7 +26618,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 193000,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu"
@@ -28262,6 +28280,24 @@
       "duration_ms": 205000,
       "name": "possum",
       "url": "https://open.spotify.com/track/4xKaz6C5QChu5U4L20EWuY"
+    },
+    {
+      "album": {
+        "name": "Power of Love",
+        "url": "https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220172,
+      "name": "Power of Love",
+      "url": "https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9"
     },
     {
       "album": {
@@ -34687,6 +34723,24 @@
     },
     {
       "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6dKA5LfNGimTv9IAyHhVPp"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/6nmRFTaSwwoZ2e2Q45Pa9l"
+    },
+    {
+      "album": {
         "name": "Lovely Freak",
         "url": "https://open.spotify.com/album/169i1oYUigI1O81pKl5Csx"
       },
@@ -35338,7 +35392,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 207490,
       "name": "Swing Swing Heart",
       "url": "https://open.spotify.com/track/3sk0eT30FYPi2oYnb2psKX"
@@ -43344,7 +43398,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 228865,
       "name": "\u304a\u306f\u3088\u3046",
       "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
@@ -66816,7 +66870,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 214158,
       "name": "\u771f\u590f\u306e\u30d1\u30f3\u30af\u30ea\u30a2\u30b9",
       "url": "https://open.spotify.com/track/5KuPSLOKN4L2VNCghXmkPS"
@@ -69348,6 +69402,24 @@
       "duration_ms": 183139,
       "name": "\u88cf\u5ead",
       "url": "https://open.spotify.com/track/6h6NKW5mJ8UZUZCXkzTFw1"
+    },
+    {
+      "album": {
+        "name": "\u88f8",
+        "url": "https://open.spotify.com/album/1p22fJ5uoVoKfy0NDTWGqA"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "\u88f8",
+      "url": "https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA"
     },
     {
       "album": {

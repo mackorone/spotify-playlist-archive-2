@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,232 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,248 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 22 | [LULULEMON](https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14) | [LULULEMON](https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5) | 2:51 |
 | 23 | [Marybel \- Remix](https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Gaelo](https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [Marybel \(Remix\)](https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU) | 3:38 |
 | 24 | [Round 1](https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 1 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ) | 3:54 |
-| 25 | [Round 7](https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 7](https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N) | 3:34 |
-| 26 | [Mijo… ¿y la novia?](https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mijo… ¿y la novia?](https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u) | 3:08 |
+| 25 | [Mijo… ¿y la novia?](https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mijo… ¿y la novia?](https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u) | 3:08 |
+| 26 | [Round 7](https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 7](https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N) | 3:34 |
 | 27 | [La Que Decía Que No](https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 2:28 |
 | 28 | [Ya no hay nada](https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:23 |
 | 29 | [Tumbao](https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Esta Vida Me Encanta Remix \(feat\. Smoky, MC Davo, T\-Killa, Don Aero, Tanke, Little el Crack, Big Metra, Santa RM & DJ Maxo\)](https://open.spotify.com/track/4EMnuIxITWPhErDRfxQUuK) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv), [Tanke](https://open.spotify.com/artist/4IUiUtBRDlsoaOVtAMuTKp), [Little el Crack](https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm), [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [DJ Maxo](https://open.spotify.com/artist/1egxVNTkxulcLB6iBDwdV6) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 7:26 |
 | 50 | [Química \(feat\. i\-Majesty\)](https://open.spotify.com/track/7HuVcnjU28gSmHPjvPchpY) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [I\-Majesty](https://open.spotify.com/artist/4yNVJTZaepHWcdaicjksLR) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:45 |
 
-Snapshot ID: `alLZAAAAAACqmXGVFeoZEjk8H27Zdvxn`
+Snapshot ID: `alQqgAAAAABk923TbTImzRh59klJSqTv`

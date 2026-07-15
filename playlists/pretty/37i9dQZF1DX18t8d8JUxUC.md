@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: selines
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,071 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 58 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 |
 | 59 | [el wey que otra vez confio :\(](https://open.spotify.com/track/68Fp40NMOxP5qmeppEeQVz) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Besasa](https://open.spotify.com/artist/7K3q9xfxjmU07gyu0MdFOS) | [el wey que otra vez confio :\(](https://open.spotify.com/album/1qxpHT9Gqbd3BAvhPSq5nE) | 5:10 |
 | 60 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 |
-| 61 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 |
-| 62 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
+| 61 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
+| 62 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 |
 | 63 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
-| 64 | [Por Ahorita](https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:24 |
-| 65 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
+| 64 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
+| 65 | [Por Ahorita](https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:24 |
 | 66 | [Una Noche Más](https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Una Noche Más](https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD) | 3:20 |
 | 67 | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU) | 3:55 |
 | 68 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 81 | [Ahi Estaré](https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ahi Estaré](https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS) | 3:00 |
 | 82 | [Fases](https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Fases](https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp) | 3:45 |
 | 83 | [Dicen Que Llora](https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt) | [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc), [Elena Medina](https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj) | [Dicen Que Llora](https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d) | 3:29 |
-| 84 | [Luces](https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 3:22 |
-| 85 | [Valles](https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Valles](https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm) | 2:45 |
-| 86 | [New Dawn](https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Dusk](https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE) | 3:25 |
-| 87 | [Disfruto](https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:04 |
+| 84 | [Valles](https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Valles](https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm) | 2:45 |
+| 85 | [Luces](https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 3:22 |
+| 86 | [Disfruto](https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:04 |
+| 87 | [New Dawn](https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Dusk](https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE) | 3:25 |
 | 88 | [Luces de bengala](https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Luces de bengala](https://open.spotify.com/album/40mdyXPVKvGinpTommcy3h) | 2:45 |
 | 89 | [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 |
 | 90 | [Todo Es Falso](https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Todo Es Falso](https://open.spotify.com/album/5m3r8NFD47f3mlUG3kxO83) | 3:36 |

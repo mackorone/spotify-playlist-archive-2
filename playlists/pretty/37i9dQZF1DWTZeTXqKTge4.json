@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Souldia",
-  "num_followers": 90056,
+  "num_followers": 90054,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7jQPmZ/m3ETHFKPE3u1ycMkfvj",
+  "snapshot_id": "AAAAALWCyrn9KyUzPMew+VJj8Tf97GS1",
   "tracks": [
     {
       "added_at": "2026-07-10 14:15:18",
@@ -87,6 +87,26 @@
       "duration_ms": 230418,
       "name": "MURDA",
       "url": "https://open.spotify.com/track/0eZGhUhnRq73yTWM5se93o"
+    },
+    {
+      "added_at": "2026-07-14 19:45:27",
+      "album": {
+        "name": "D\u00c9TOUR",
+        "url": "https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "St-Prince",
+          "url": "https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "D\u00c9TOUR",
+      "url": "https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4"
     },
     {
       "added_at": "2026-07-10 14:15:18",
@@ -195,6 +215,26 @@
       "duration_ms": 246951,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6ERE4MVf0gqXr0FMdyccRx"
+    },
+    {
+      "added_at": "2026-07-10 14:15:18",
+      "album": {
+        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
+        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 245950,
+      "name": "SEPT ANS DE MALHEUR (titre permanent)",
+      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
     },
     {
       "added_at": "2026-07-10 14:15:18",
@@ -543,6 +583,22 @@
     {
       "added_at": "2026-07-10 14:15:18",
       "album": {
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
+    },
+    {
+      "added_at": "2026-07-10 14:15:18",
+      "album": {
         "name": "N\u00e9m\u00e9sis",
         "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
       },
@@ -651,26 +707,6 @@
       "duration_ms": 190000,
       "name": "Civilis\u00e9, Pt. III",
       "url": "https://open.spotify.com/track/6LUlBqmoTEldzJ5RSA1KKP"
-    },
-    {
-      "added_at": "2026-07-10 14:15:18",
-      "album": {
-        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
-        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 245950,
-      "name": "SEPT ANS DE MALHEUR (titre permanent)",
-      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
     },
     {
       "added_at": "2026-07-10 14:15:18",
@@ -1279,22 +1315,6 @@
       "duration_ms": 179853,
       "name": "Stuck dans mon mind",
       "url": "https://open.spotify.com/track/28MYgGOrEUf7sKyvbYWMUA"
-    },
-    {
-      "added_at": "2026-07-10 14:15:18",
-      "album": {
-        "name": "BASSE COUTURE",
-        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "BASSE COUTURE",
-      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-07-10 14:15:18",

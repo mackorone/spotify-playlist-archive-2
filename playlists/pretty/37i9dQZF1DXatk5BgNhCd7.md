@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Luciano Pereyra & Sebastián Mendoza
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,024 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,039 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

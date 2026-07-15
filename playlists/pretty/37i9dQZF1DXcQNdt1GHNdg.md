@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Cheema Y & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,685 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,748 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cartel](https://open.spotify.com/track/31NP3kpDutZWYcHAY4Vmze) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:36 |
 | 2 | [At Peace](https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [At Peace](https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL) | 2:44 |
-| 3 | [Refugee](https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:28 |
+| 3 | [Refugee](https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:28 |
 | 4 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 |
 | 5 | [532](https://open.spotify.com/track/1Oy4z47SHdUV18tfqG619O) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [AAZZAD](https://open.spotify.com/artist/5nKtqAfzif2POIB7V94U4L) | [dnd](https://open.spotify.com/album/44fqkzaV0q6XLan7MXf2fL) | 2:43 |
 | 6 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |

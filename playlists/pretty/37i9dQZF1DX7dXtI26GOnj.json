@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rauw Alejandro",
-  "num_followers": 243842,
+  "num_followers": 243882,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-06-17 15:55:40",
       "album": {
+        "name": "MONOBLOCK",
+        "url": "https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 126352,
+      "name": "MONOBLOCK",
+      "url": "https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l"
+    },
+    {
+      "added_at": "2026-06-17 15:55:40",
+      "album": {
         "name": "UM CORA\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/7KBgtmjaOsqG713ktl7bsU"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 106487,
       "name": "UM CORA\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/6r42UuAbQBjgeV8goH0vTR"
-    },
-    {
-      "added_at": "2026-06-17 15:55:40",
-      "album": {
-        "name": "MONOBLOCK",
-        "url": "https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 126352,
-      "name": "MONOBLOCK",
-      "url": "https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l"
     },
     {
       "added_at": "2026-06-17 15:55:40",

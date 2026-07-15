@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,180 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,223 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 2 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/59F5qOMpqqclD21cIAxFEo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:45 |
 | 3 | [Texas](https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:26 |
 | 4 | [The Largest](https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:12 |
-| 5 | [Back On My BS](https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:34 |
+| 5 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 |
 | 6 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 |
 | 7 | [Levels](https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:37 |
 | 8 | [About You \(feat\. Tucker Wetmore\)](https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:56 |
-| 9 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 |
+| 9 | [Back On My BS](https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:34 |
 | 10 | [Whip It](https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:17 |
 | 11 | [Holy Ground \(feat\. Jessie Murph\)](https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:57 |
 | 12 | [2AM](https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [DOPEMAN](https://open.spotify.com/track/6lTxBTBNE8NCLfSs5LflhJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:01 |
 | 50 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 2:43 |
 
-Snapshot ID: `alLZAAAAAAAHsH1Br4/N93iQ1qsqR6rQ`
+Snapshot ID: `alQqgAAAAADBtGuVgkS+iwpKMqUV6mqt`

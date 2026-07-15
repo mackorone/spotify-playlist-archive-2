@@ -4,7 +4,7 @@
 
 > This is a normal day playlist with RM\. Vote for the NORMAL day song that best suits RM! Then, the NORMAL Day BTS playlist will be complete!
 
-19 songs - 1 hr 13 min
+20 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Into the Sun](https://open.spotify.com/track/3mFWOqkxOecRIwcD7wIHcr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:47 | 2026-07-13 |  |
 | [Intro : Persona](https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 2:51 | 2026-07-13 |  |
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2026-07-13 |  |
+| [Lost](https://open.spotify.com/track/2So2zLatKtnIP0cy3a4Fn0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:01 | 2026-07-15 |  |
 | [Magic Shop](https://open.spotify.com/track/37nOpaUof3d4Xsmr6moAiI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:35 | 2026-07-13 |  |
 | [Moving On](https://open.spotify.com/track/0jo4304s0u51JHHCv7it9K) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.1](https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X) | 4:52 | 2026-07-13 |  |
 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 | 2026-07-13 |  |

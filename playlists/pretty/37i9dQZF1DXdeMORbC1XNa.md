@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: NSG
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,145 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,142 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 32 | [Cyah Behave](https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Cyah Behave](https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G) | 2:41 |
 | 33 | [Black Girl Magic](https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:17 |
 | 34 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 |
-| 35 | [Pepper Me](https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c) | [KFMD](https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Pepper Me](https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ) | 2:35 |
+| 35 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
 | 36 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
-| 37 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
+| 37 | [Pepper Me](https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c) | [KFMD](https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Pepper Me](https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ) | 2:35 |
 | 38 | [OFE NSALA](https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [OFE NSALA](https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi) | 2:10 |
 | 39 | [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 |
 | 40 | [Worthwhile](https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Worthwhile](https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0) | 2:53 |
 | 41 | [FINE SHYT \(feat\. Tml Vibez\)](https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [No Excuses Deluxe](https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0) | 2:12 |
 | 42 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
-| 43 | [Isn't It Beautiful](https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Isn't It Beautiful](https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK) | 2:36 |
-| 44 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
+| 43 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
+| 44 | [Isn't It Beautiful](https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Isn't It Beautiful](https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK) | 2:36 |
 | 45 | [NEW TINGZ](https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:39 |
 | 46 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 47 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
-| 48 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 |
-| 49 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
+| 48 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
+| 49 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 |
 | 50 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 
 Snapshot ID: `AAAAAPUarqoQiNby3klks1dzxCINOwUT`

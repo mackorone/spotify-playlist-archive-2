@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 496390,
+  "num_followers": 496532,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
-        "name": "Up Down Jumper",
-        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Up Down Jumper",
-      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
         "name": "SCANDAL ANTHEM",
         "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 244500,
       "name": "SCANDAL ANTHEM",
       "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
+        "name": "Up Down Jumper",
+        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Up Down Jumper",
+      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
     },
     {
       "added_at": "2026-07-10 04:01:01",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 169105,
+      "name": "Testo Skin Part 1",
+      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
         "name": "our frequency",
         "url": "https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 193500,
       "name": "GIRLBOSS",
       "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 169105,
-      "name": "Testo Skin Part 1",
-      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
     },
     {
       "added_at": "2026-07-10 04:01:01",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 211928,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
         "name": "Acid Blood",
         "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
       },
@@ -791,30 +811,6 @@
       "duration_ms": 211741,
       "name": "Acid Blood",
       "url": "https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
     },
     {
       "added_at": "2026-07-10 04:01:01",
@@ -859,6 +855,30 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2026-07-10 04:01:01",
+      "album": {
         "name": "Wavey",
         "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 143379,
       "name": "Wavey",
       "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
-    },
-    {
-      "added_at": "2026-07-10 04:01:01",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 211928,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
     },
     {
       "added_at": "2026-07-10 04:01:01",
@@ -947,26 +947,18 @@
     {
       "added_at": "2026-07-10 04:01:01",
       "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
         }
       ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     }
   ],
   "unique_name": "Techno Workout",

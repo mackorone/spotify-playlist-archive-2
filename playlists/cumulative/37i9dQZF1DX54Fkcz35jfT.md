@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Survive Said The Prophet
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Doona
 
-495 songs - 1 day 4 hr 32 min
+496 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 | 2023-07-20 |  |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-07-20 | 2025-09-14 |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 | 2025-10-01 |
+| [MUBÖ](https://open.spotify.com/track/6ENKK7AHETyUo61PmDe2UK) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [MUBÖ](https://open.spotify.com/album/2Vl7Inp9H00O5Ji2aDQEjb) | 3:40 | 2026-07-14 |  |
 | [MUSIC](https://open.spotify.com/track/1nEqHv1JzL3d8f9Kh7IJNE) | [SHIFT\_CONTROL](https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9) | [MUSIC](https://open.spotify.com/album/0mo1q8CqwCzEIarbF64a6L) | 2:45 | 2024-06-11 | 2024-07-10 |
 | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/track/0odBL83MoM37MynrPRbSgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [My girlfriend is PIZZA OF DEATH](https://open.spotify.com/album/158mQFq64E1JBkbiU1tTyp) | 1:11 | 2025-04-15 | 2025-05-14 |
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2024-03-04 |
@@ -308,7 +309,7 @@
 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 | 2023-10-03 | 2025-07-09 |
 | [Run](https://open.spotify.com/track/0qGMiFAWCcYHLqH8pXO2bh) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Run](https://open.spotify.com/album/2xZsO0ZevuTrehe87zAdS3) | 3:17 | 2023-12-19 | 2024-02-21 |
 | [Run](https://open.spotify.com/track/6sPC05thY2Yw0PCX9pOQKH) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Run](https://open.spotify.com/album/6VyKCu5YNdH5DjQ0OmHwRo) | 3:17 | 2023-12-19 | 2023-12-21 |
-| [RUN](https://open.spotify.com/track/2oeWrzaLuMg7sYEdFxqZ1c) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [RUN](https://open.spotify.com/album/7Hddb9WtN6df9DFD7DgQjL) | 3:51 | 2025-05-13 |  |
+| [RUN](https://open.spotify.com/track/2oeWrzaLuMg7sYEdFxqZ1c) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [RUN](https://open.spotify.com/album/7Hddb9WtN6df9DFD7DgQjL) | 3:51 | 2025-05-13 | 2026-07-15 |
 | [R★STAR](https://open.spotify.com/track/786JuYz9Shz9pYpn0B8bdn) | [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [MOON](https://open.spotify.com/artist/6r5W7XKP7KNzxUby9XNzQd) | [R★STAR](https://open.spotify.com/album/25TmtkdwNibjDI9RcnFzCQ) | 3:07 | 2023-07-20 | 2023-08-25 |
 | [Sad Dream](https://open.spotify.com/track/1tBmgjH2QLQEAZOCNlizgH) | [UNDEAD CORPORATION](https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf) | [Flash Back](https://open.spotify.com/album/2KcAV6KysLCrNb2zyakHv2) | 4:26 | 2023-07-20 | 2023-11-22 |
 | [Sad Song](https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Sad Song](https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF) | 3:23 | 2023-08-22 | 2023-09-27 |

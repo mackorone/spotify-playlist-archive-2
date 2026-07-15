@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Ram\u00f3n & Ylva",
-  "num_followers": 87518,
+  "num_followers": 87515,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
-        "name": "the cure",
-        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "added_at": "2026-07-09 22:00:50",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "added_at": "2026-07-09 22:00:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
-      "added_at": "2026-07-09 22:00:50",
-      "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-07-09 22:00:50",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-07-09 22:00:50",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Bottom Of Your Boots",
-      "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
-    },
-    {
-      "added_at": "2026-07-09 22:00:50",
-      "album": {
         "name": "The Visitor",
         "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 228908,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+    },
+    {
+      "added_at": "2026-07-09 22:00:50",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Bottom Of Your Boots",
+      "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
     },
     {
       "added_at": "2026-07-09 22:00:50",
@@ -883,22 +883,18 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
-        "name": "Bring Your Love",
-        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 222161,
-      "name": "Bring Your Love",
-      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
     },
     {
       "added_at": "2026-07-09 22:00:50",
@@ -919,18 +915,22 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
-        "name": "Watch It Burn",
-        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 175555,
-      "name": "Watch It Burn",
-      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
+      "duration_ms": 222161,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "added_at": "2026-07-09 22:00:50",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
+    },
+    {
+      "added_at": "2026-07-09 22:00:50",
+      "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
-    },
-    {
-      "added_at": "2026-07-09 22:00:50",
-      "album": {
-        "name": "Promise?",
-        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 192100,
-      "name": "Promise?",
-      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
     },
     {
       "added_at": "2026-07-09 22:00:50",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-09 22:00:50",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 204233,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
-    },
-    {
-      "added_at": "2026-07-09 22:00:50",
-      "album": {
         "name": "Something In The Heavens",
         "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 198028,
       "name": "Something In The Heavens",
       "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
+    },
+    {
+      "added_at": "2026-07-09 22:00:50",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 204233,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
     },
     {
       "added_at": "2026-07-09 22:00:50",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Glayden",
+  "description": "The best new music by independent artists in the Nordics. Cover: The Square",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -10195,6 +10195,24 @@
     },
     {
       "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206407,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
+    },
+    {
+      "album": {
         "name": "gods last chance",
         "url": "https://open.spotify.com/album/1tslCSJOQI9uIFLgG91BLJ"
       },
@@ -11535,6 +11553,24 @@
     },
     {
       "album": {
+        "name": "Higher than Mount Everest",
+        "url": "https://open.spotify.com/album/0jT9uv4npjN4tETppAA41k"
+      },
+      "artists": [
+        {
+          "name": "MYKKE",
+          "url": "https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198716,
+      "name": "Higher than Mount Everest",
+      "url": "https://open.spotify.com/track/1L4MJdES5EHIhLm7LA7oUE"
+    },
+    {
+      "album": {
         "name": "hold me",
         "url": "https://open.spotify.com/album/4gk7tCXb9whGQbRinQZC8M"
       },
@@ -12188,7 +12224,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 197443,
       "name": "Hwasong-12",
       "url": "https://open.spotify.com/track/4tkgZJ1nesz7Z8Ifx2Fak1"
@@ -13968,6 +14004,24 @@
       "duration_ms": 152940,
       "name": "introvert",
       "url": "https://open.spotify.com/track/4BEgC8E3yuE8nmevDUNbMK"
+    },
+    {
+      "album": {
+        "name": "INVINCIBLE",
+        "url": "https://open.spotify.com/album/1sT0yn1hLGTNh24kjKs0xK"
+      },
+      "artists": [
+        {
+          "name": "The Square",
+          "url": "https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127438,
+      "name": "INVINCIBLE",
+      "url": "https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9"
     },
     {
       "album": {
@@ -16756,6 +16810,24 @@
       "duration_ms": 152500,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/0QXGgPqYuONre4dq860mwz"
+    },
+    {
+      "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/1xYlqbZxWCXIL8oGiLTItF"
+      },
+      "artists": [
+        {
+          "name": "7ebra",
+          "url": "https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188052,
+      "name": "Magical Thinking",
+      "url": "https://open.spotify.com/track/2Qb7MEZRVY7ji0ZjkdQuqC"
     },
     {
       "album": {
@@ -25276,7 +25348,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 179320,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
@@ -27048,7 +27120,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 161100,
       "name": "The Space Between",
       "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
@@ -27178,7 +27250,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 235733,
       "name": "The ugliest",
       "url": "https://open.spotify.com/track/0Ujnr8Jh0SyCrcRc4ExFLd"
@@ -27402,7 +27474,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 129605,
       "name": "Thinking Of Us",
       "url": "https://open.spotify.com/track/52lNE2bs2ToX2eo4u0J8n2"
@@ -29086,6 +29158,24 @@
       "duration_ms": 263040,
       "name": "Wanna Wou",
       "url": "https://open.spotify.com/track/7CIlustqP30AQsM2Guy6o7"
+    },
+    {
+      "album": {
+        "name": "Want It",
+        "url": "https://open.spotify.com/album/3Le6lFQ59vWI615ehmdLAd"
+      },
+      "artists": [
+        {
+          "name": "Love Stenmarck",
+          "url": "https://open.spotify.com/artist/3tOz9LCUfLcFAgKjknAQYz"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156060,
+      "name": "Want It",
+      "url": "https://open.spotify.com/track/40Y6RVSXsSwdN51EV6df4K"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46072,
+  "num_followers": 46077,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADOj8eX8CrOu8RT/aDNFd9D",
+  "snapshot_id": "alQqgAAAAADXf6xcDzU43RpwKJfv56Y4",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 225923,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piloncillo y Bacanora",
         "url": "https://open.spotify.com/album/3GMPhAVHTmc2k57kXPnNSN"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/6PpwTN6oWZoSE1goj9Su96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 225923,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ"
     },
     {
       "added_at": null,
@@ -787,54 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/17YMQetTh8jx0V5oX7vkFP"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/1zcK9axMCoDFFHCDH18ief"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 321951,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los de la A",
         "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
       },
@@ -871,6 +823,54 @@
       "duration_ms": 226813,
       "name": "Los de la A",
       "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 321951,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/17YMQetTh8jx0V5oX7vkFP"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/1zcK9axMCoDFFHCDH18ief"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solo Tuya",
+        "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Solo Tuya",
+      "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo Tuya",
-        "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Solo Tuya",
-      "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"
     },
     {
       "added_at": null,
@@ -1195,26 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Problema Eras T\u00fa",
-        "url": "https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "El Problema Eras T\u00fa",
-      "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqu\u00ed Estamos",
         "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Problema Eras T\u00fa",
+        "url": "https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "El Problema Eras T\u00fa",
+      "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
     },
     {
       "added_at": null,

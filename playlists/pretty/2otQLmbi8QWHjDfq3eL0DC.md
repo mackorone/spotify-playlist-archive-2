@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Dive into the best House Music &amp; Electronic Dance hits\. Featuring energetic beats from David Guetta, Calvin Harris, &amp; Fisher\. Perfect for parties, workouts, or feel\-good vibes\. Updated Weekly! Like &amp; Save for your next groove.
+> Dive into the best House Music 2026! 🚀 Your ultimate Electronic Dance playlist featuring Fred Again.., Calvin Harris, Disclosure, and fresh sounds from Eliza Rose, SG Lewis\. Perfect for parties, workouts, or just vibing out\. Updated Weekly – Like &amp; Save for endless good times!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,312,293 likes - 100 songs - 5 hr 10 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,312,250 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 22 | [Giving U](https://open.spotify.com/track/1F0IPLyOoXYgRfjpRj1B9P) | [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Giving U](https://open.spotify.com/album/7DWQB3oUJ3GNXtnscP92oF) | 2:22 |
 | 23 | [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 |
 | 24 | [Let Me Be In Your Arms](https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Let Me Be In Your Arms](https://open.spotify.com/album/2fa72V2RpinQQIzeZ1NiPs) | 3:13 |
-| 25 | [Would U Still Love Me \(feat\. Cameron Whitcomb\) \- VIP](https://open.spotify.com/track/0Pbten8NbqYu33F8MIcANC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\) \- VIP](https://open.spotify.com/album/3rFJsvbc9D6kKFE5vibqft) | 2:14 |
+| 25 | [Would U Still Love Me \- VIP](https://open.spotify.com/track/0Pbten8NbqYu33F8MIcANC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\) \- VIP](https://open.spotify.com/album/3rFJsvbc9D6kKFE5vibqft) | 2:14 |
 | 26 | [Get Down](https://open.spotify.com/track/11huWitHljzRi2a0uMhBvo) | [Owen Andrews](https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s), [Luke Andrews](https://open.spotify.com/artist/4HXTQukv28KsVXxf1uXQoA) | [Get Down](https://open.spotify.com/album/77bxZ8YH4sVw7dUDS5mXFP) | 3:00 |
 | 27 | [ON MY WAY](https://open.spotify.com/track/2Hu6TCze05jFXOPED8VGXI) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G) | [ON MY WAY](https://open.spotify.com/album/6jRFiAXmtJ7I9UgPQCIuXk) | 2:26 |
 | 28 | [Run \(feat\. O.MMY\)](https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV), [O.MMY](https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS) | [Run EP](https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Come To Life](https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Come To Life](https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD) | 3:12 |
 | 100 | [FREAK IN THE SHEETS](https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [FREAK IN THE SHEETS](https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi) | 3:13 |
 
-Snapshot ID: `AAARx8YJKPY27CdDjntXFcUTAmouEEXA`
+Snapshot ID: `AAARyDCq1HQLa9odNv/VlhF9jDiF/i/s`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,225 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,267 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 2 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 |
-| 3 | [God’s Favorite \(feat\. Sultaan\)](https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:52 |
+| 3 | [God’s Favorite \(feat\. Sultaan\)](https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:52 |
 | 4 | [Hammer](https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/73KLRC3DRuQLl3WMxgdVVm) | 2:42 |
 | 5 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 |
 | 6 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 |

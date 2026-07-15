@@ -1,12 +1,12 @@
 {
   "description": "Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock. ",
-  "num_followers": 182163,
+  "num_followers": 182540,
   "original_name": "Love Island USA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvcO3A/Nlx84ahFhi1O9UJ6d1ML",
+  "snapshot_id": "AAAAAE9Jot9NY43req1aG/3PTiefWvEc",
   "tracks": [
     {
       "added_at": "2026-07-13 13:38:18",
@@ -59,6 +59,26 @@
       "duration_ms": 140800,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
+    },
+    {
+      "added_at": "2026-07-14 13:43:46",
+      "album": {
+        "name": "Say You Do",
+        "url": "https://open.spotify.com/album/2gP1d2TwDKThO22i1XtRn8"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Swander",
+          "url": "https://open.spotify.com/artist/7ePtw1M5DLelNZ2u7F6qOa"
+        },
+        {
+          "name": "sweetbaby",
+          "url": "https://open.spotify.com/artist/3ig5zgQfzBap3h2RzHks1n"
+        }
+      ],
+      "duration_ms": 233771,
+      "name": "Say You Do",
+      "url": "https://open.spotify.com/track/19afVIlHHLFNCyO5iQkT8t"
     },
     {
       "added_at": "2026-07-13 13:38:18",

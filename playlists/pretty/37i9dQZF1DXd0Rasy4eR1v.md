@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Faheem uddin Hunzai
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,413 likes - 79 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,416 likes - 79 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 56 | [Infatuation](https://open.spotify.com/track/5MFH8Y9ZnaovBH2toVshXN) | [Ahmad Hassan](https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7), [Ammad Khan](https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV), [Amaizy](https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK) | [Infatuation](https://open.spotify.com/album/2iD3sS3urwxpwFSssWGQai) | 3:11 |
 | 57 | [Pukaar](https://open.spotify.com/track/1yCSA4BGEQxQtY95xoJ7JB) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Pukaar](https://open.spotify.com/album/7y65wUE4UqkYY2Dqzb0ohV) | 3:15 |
 | 58 | [Uraan](https://open.spotify.com/track/0IblAZHmyWiE86j452xiJf) | [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [Uraan](https://open.spotify.com/album/6aTkm2tiSEScayy84b0aqX) | 2:59 |
-| 59 | [Alvida](https://open.spotify.com/track/25ftdkpJMoyZXiJcueBzRP) | [Rafae Bokhari](https://open.spotify.com/artist/48ZE3YLMktVHKnX78oNUUm) | [Alvida](https://open.spotify.com/album/05nEffZiDSlbeQyRUoNzbO) | 3:52 |
+| 59 | [Alvida](https://open.spotify.com/track/25ftdkpJMoyZXiJcueBzRP) | [Rafae Bokhari](https://open.spotify.com/artist/1zNTZaTb1hfkZCynCw6kUq) | [Alvida](https://open.spotify.com/album/05nEffZiDSlbeQyRUoNzbO) | 3:52 |
 | 60 | [Ashes & Roses](https://open.spotify.com/track/0t2VM10v6UBekkGfsmBm3K) | [Baqir Jafri](https://open.spotify.com/artist/3KcgHMwtM9y5HxATtpLJRt), [SAYF](https://open.spotify.com/artist/2BcCC0BfNPqCQuH2tlPG30) | [Ashes & Roses](https://open.spotify.com/album/1N3xRpHBtmRvOJtMBVECbE) | 2:23 |
 | 61 | [My Side](https://open.spotify.com/track/18MamckgtZPW6yhvOUNiIw) | [Abdullah Khan](https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr) | [My Side](https://open.spotify.com/album/5cMdZgHwTHQ9r4t9mYSdp5) | 2:18 |
 | 62 | [Distracted](https://open.spotify.com/track/2tSkRDbsIRWQJtMmRr2HvV) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Distracted](https://open.spotify.com/album/3X8DMqhDdOa66rcxLndoKg) | 3:41 |

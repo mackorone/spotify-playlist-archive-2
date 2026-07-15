@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-66 songs - 8 hr 3 min
+67 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Be Glorified \- Live](https://open.spotify.com/track/0a0hccemmo7qMCkxtXQdeg) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [All My Life \(Live\)](https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba) | 7:26 | 2024-06-13 |  |
 | [Behold \(The King Is Calling\) \- Live](https://open.spotify.com/track/5B4Y3nTIUB3BQBrTEFHHd6) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [The King Is Calling \(Live\)](https://open.spotify.com/album/4X32ypJuS9uJhv0X9LyiUH) | 13:29 | 2024-06-13 |  |
 | [Catch Me](https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE) | [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Wearing A Blindfold And Running](https://open.spotify.com/album/7zripDxuWx37nhLnYDtSoj) | 4:41 | 2024-06-13 |  |
+| [Chain Breaker \(Spontaneous\) \- Live](https://open.spotify.com/track/279wBfsKKh3VsDUFXJHaTu) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Jonathan Stamper](https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA) | [Chain Breaker \(Spontaneous\) \[Live\]](https://open.spotify.com/album/3y1YEE74BqJq3ZDJ6sFnEL) | 6:38 | 2026-07-14 |  |
 | [Christ And Christ Crucified \(Spontaneous\) \- Live](https://open.spotify.com/track/04hFX9fSewa7eBFZ9LtmLW) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 12:52 | 2024-06-13 | 2025-10-29 |
 | [Christ and Christ Crucified \(Spontaneous\) \- Live](https://open.spotify.com/track/4saVVi6OV9f2MtwzxD055P) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [MBL Moments 2](https://open.spotify.com/album/3698vZdjncbzQgIw0NTLJV) | 10:07 | 2025-10-28 |  |
 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/32adupKO13M1j6hWpysy0U) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 6:34 | 2024-06-13 |  |

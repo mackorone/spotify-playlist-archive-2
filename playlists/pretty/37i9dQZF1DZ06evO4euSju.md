@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 27 | [Sparkle / Fade](https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 5:39 |
 | 28 | [Bloom \(Remastered\)](https://open.spotify.com/track/1g299OyEF4WpiZ2DIq32u3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:37 |
 
-Snapshot ID: `alLZAAAAAAB/Xt9t81IK0CdrUBY5nTQ0`
+Snapshot ID: `alQqgAAAAAB1jbEcPZA/Cg8l9L806obL`

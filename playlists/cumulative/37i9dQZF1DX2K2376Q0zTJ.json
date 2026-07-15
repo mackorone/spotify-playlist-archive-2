@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "7Star",
+        "url": "https://open.spotify.com/album/52yodHfQ2FoIS6bPXvHIEp"
+      },
+      "artists": [
+        {
+          "name": "nana",
+          "url": "https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232324,
+      "name": "7Star",
+      "url": "https://open.spotify.com/track/4CwSuKxxvKLlfiRhr3bqbo"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/5uTR2WsUcfuKJYbMktSgop"
       },
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 179012,
       "name": "Chanka Chanka",
       "url": "https://open.spotify.com/track/6BHCsXVZbOSB5wLoqF0Utc"
@@ -4170,6 +4188,24 @@
       "duration_ms": 235000,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/1ttCejZkkNIclvWMeDD16U"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6QcdD6JruztbnYXAAyCAqJ"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201463,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/6XqaixJ7Jn0kiM8c7d26LP"
     },
     {
       "album": {
@@ -6770,7 +6806,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 182000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam"
@@ -13765,6 +13801,24 @@
     },
     {
       "album": {
+        "name": "Oi AG!",
+        "url": "https://open.spotify.com/album/2URiIZ2kHFP1V2NLFE9AzI"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Oi AG!",
+      "url": "https://open.spotify.com/track/2rBT5nSYEVhVKEhWsIzzWt"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/7wkkVgP63cZWwOu3ra0L13"
       },
@@ -14588,7 +14642,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 137297,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2jXew7QWhx2dWtzibYmOLN"
@@ -25160,7 +25214,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 231580,
       "name": "\u30cf\u30fc\u30c9\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/1pcQn8sbT0RcVc2UDzE8H8"
@@ -25788,6 +25842,24 @@
       "duration_ms": 180773,
       "name": "\u30e9\u30b9\u30c8\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/4NJnYJ9D2sT1GDWoRYqw4J"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30c3\u30ad\u30fc",
+        "url": "https://open.spotify.com/album/6hpC9SlFsWO5j7n9K4krRY"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210842,
+      "name": "\u30e9\u30c3\u30ad\u30fc",
+      "url": "https://open.spotify.com/track/2nqgcGVlHKjCgVf7s2AD1d"
     },
     {
       "album": {
@@ -28890,7 +28962,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 221133,
       "name": "\u7070\u304b\u3076\u308a",
       "url": "https://open.spotify.com/track/0gPPcSZ5dlAncGsxa56Ck2"
@@ -29822,6 +29894,24 @@
       "duration_ms": 228026,
       "name": "\u884c\u304f\u305c\u3063!\u602a\u76d7\u5c11\u5973 -ZZ ver.-",
       "url": "https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55"
+    },
+    {
+      "album": {
+        "name": "\u88f8",
+        "url": "https://open.spotify.com/album/1p22fJ5uoVoKfy0NDTWGqA"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "\u88f8",
+      "url": "https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA"
     },
     {
       "album": {

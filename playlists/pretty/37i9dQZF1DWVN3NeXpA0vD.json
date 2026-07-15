@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26294,
+  "num_followers": 26295,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
         "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Swing (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
       },
@@ -939,18 +955,26 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+        "name": "Looking for Me",
+        "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
         }
       ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+      "duration_ms": 211452,
+      "name": "Looking for Me",
+      "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -991,30 +1015,6 @@
       "duration_ms": 184558,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/0U6bQIAh6MCGo1xjbIIx2S"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Looking for Me",
-        "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
-      },
-      "artists": [
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 211452,
-      "name": "Looking for Me",
-      "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 168982,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 168982,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo"
     }
   ],
   "unique_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",

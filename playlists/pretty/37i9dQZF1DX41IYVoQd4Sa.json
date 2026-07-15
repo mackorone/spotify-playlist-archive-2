@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : IDIOT!\tPeled",
-  "num_followers": 34134,
+  "num_followers": 34140,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+    },
+    {
+      "added_at": "2026-07-09 21:00:20",
+      "album": {
         "name": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d6\u05d4 \u05dc\u05d0 \u05de\u05e1\u05e4\u05d9\u05e7",
         "url": "https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 204255,
       "name": "\u05e0\u05e9\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2"
-    },
-    {
-      "added_at": "2026-07-09 21:00:20",
-      "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2026-07-09 21:00:20",
@@ -771,38 +771,6 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
-        "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
-        "url": "https://open.spotify.com/album/2NV2v2cOtEWOSeyqkXJVff"
-      },
-      "artists": [
-        {
-          "name": "Mashina",
-          "url": "https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g"
-        }
-      ],
-      "duration_ms": 286467,
-      "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
-      "url": "https://open.spotify.com/track/4Pv9IHO3mgrVFT2USdZGan"
-    },
-    {
-      "added_at": "2026-07-09 21:00:20",
-      "album": {
-        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
-        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
-      },
-      "artists": [
-        {
-          "name": "Hila Ruach",
-          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
-        }
-      ],
-      "duration_ms": 340387,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
-      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
-    },
-    {
-      "added_at": "2026-07-09 21:00:20",
-      "album": {
         "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
         "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
       },
@@ -823,22 +791,34 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/0l2nqwARVKUviyTmgFnCyY"
+        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
+        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
       },
       "artists": [
         {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Dekel",
-          "url": "https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7"
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
         }
       ],
-      "duration_ms": 164235,
-      "name": "Let Your Love",
-      "url": "https://open.spotify.com/track/3gII3Lj0n7eNttRsa9qbn7"
+      "duration_ms": 340387,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
+      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
+    },
+    {
+      "added_at": "2026-07-09 21:00:20",
+      "album": {
+        "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
+        "url": "https://open.spotify.com/album/2NV2v2cOtEWOSeyqkXJVff"
+      },
+      "artists": [
+        {
+          "name": "Mashina",
+          "url": "https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g"
+        }
+      ],
+      "duration_ms": 286467,
+      "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
+      "url": "https://open.spotify.com/track/4Pv9IHO3mgrVFT2USdZGan"
     },
     {
       "added_at": "2026-07-09 21:00:20",
@@ -863,6 +843,26 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0l2nqwARVKUviyTmgFnCyY"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Dekel",
+          "url": "https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7"
+        }
+      ],
+      "duration_ms": 164235,
+      "name": "Let Your Love",
+      "url": "https://open.spotify.com/track/3gII3Lj0n7eNttRsa9qbn7"
+    },
+    {
+      "added_at": "2026-07-09 21:00:20",
+      "album": {
         "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
         "url": "https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u"
       },
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+      "duration_ms": 231000,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -4,7 +4,7 @@
 
 > alt rock \| alternative rock \| 90s alternative rock \| 1990s alt rock \| 90s hits \| grunge \| 90s rock \| 90s throwbacks \| punk \| nirvana \| alice in chains \| incubus \| radiohead \| pearl jam \| foo fighters \| metallica \| soundgarden \| oasis \| audioslave
 
-253 songs - 17 hr 38 min
+254 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-04-07 |  |
 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 | 2023-07-10 | 2025-04-30 |
 | [Sober](https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:06 | 2023-07-10 |  |
+| [Soldier of Love](https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 2:54 | 2026-07-14 |  |
 | [Somebody to Shove \(2022 Remaster\)](https://open.spotify.com/track/41TVMXb9THdtTlo2KojUDe) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 3:15 | 2022-04-07 | 2025-04-30 |
 | [Sometimes Always](https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned](https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb) | 2:31 | 2025-04-29 |  |
 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 | 2023-07-10 |  |

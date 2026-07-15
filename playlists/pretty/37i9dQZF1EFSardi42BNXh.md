@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 33 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 32 | [Now That We're Done](https://open.spotify.com/track/7lMiwAH0WuFDoqPtved0P4) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 1:56 |
 | 33 | [This I Pray For You](https://open.spotify.com/track/4hxvSOSi7kAgVf3wPmhKWT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 |
 
-Snapshot ID: `AcWx0gAAAAB1zjUYOAJfDdOoRL90Y2q8`
+Snapshot ID: `AcW3NgAAAABphUZ1yWTUadKZTvfcHQTg`

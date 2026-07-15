@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 149160,
+  "num_followers": 149152,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
         "name": "Look at My Life",
         "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 190533,
       "name": "Look at My Life",
       "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 235771,
+      "name": "Danceteria",
+      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 235771,
-      "name": "Danceteria",
-      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
-        "name": "Sun Has Set",
-        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 141804,
-      "name": "Sun Has Set",
-      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
         "name": "Another Drink",
         "url": "https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 153103,
       "name": "Another Drink",
       "url": "https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
-        "name": "First Born Daughter",
-        "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 225641,
-      "name": "First Born Daughter",
-      "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
+      "duration_ms": 232375,
+      "name": "i wish i knew how to quit you",
+      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "First Born Daughter",
+        "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 232375,
-      "name": "i wish i knew how to quit you",
-      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+      "duration_ms": 225641,
+      "name": "First Born Daughter",
+      "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
-        "name": "Red Bottoms",
-        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 186941,
-      "name": "Red Bottoms",
-      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
         "name": "A Minute...",
         "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
+        "name": "Red Bottoms",
+        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 186941,
+      "name": "Red Bottoms",
+      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
-        "name": "Is This Heaven? (Extended)",
-        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 169121,
-      "name": "Good At Leaving",
-      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
-        "name": "GATHER",
-        "url": "https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        }
-      ],
-      "duration_ms": 188747,
-      "name": "TOKYO DRIFT",
-      "url": "https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
         "name": "NOTA",
         "url": "https://open.spotify.com/album/7AQ1vE4tY1dMceu9sTTyfO"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
+        "name": "GATHER",
+        "url": "https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "duration_ms": 188747,
+      "name": "TOKYO DRIFT",
+      "url": "https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
         "name": "Old Lovers (feat. The Lumineers)",
         "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
       },
@@ -1575,6 +1575,26 @@
       "duration_ms": 213188,
       "name": "Old Lovers (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "added_at": "2026-07-09 15:00:47",
@@ -1627,46 +1647,6 @@
     {
       "added_at": "2026-07-09 15:00:47",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
-        "name": "LA GUARACHA (Oh Oh Oh)",
-        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "LA GUARACHA (Oh Oh Oh)",
-      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
-    },
-    {
-      "added_at": "2026-07-09 15:00:47",
-      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 243026,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+    },
+    {
+      "added_at": "2026-07-09 15:00:47",
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     }
   ],
   "unique_name": "\u5143\u6c17Booster",

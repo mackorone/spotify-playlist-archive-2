@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,115 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,123 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 11 | [It's Only Make Believe](https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Conway Twitty Sings](https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP) | 2:12 |
 | 12 | [The Battle Of New Orleans](https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [Johnny Horton'S Greatest Hits](https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI) | 2:31 |
 | 13 | [Three Cigarettes In An Ashtray](https://open.spotify.com/track/2iiVG1xHHu2zZrDNVm8NJ3) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:13 |
-| 14 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:10 |
+| 14 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:05 |
 | 15 | [Long Tall Sally](https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 1:59 |
 | 16 | [Saddle Tramp](https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 2:03 |
 | 17 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 |
 | 18 | [Five Feet High and Rising](https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songs Of Our Soil](https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP) | 1:50 |
-| 19 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:05 |
+| 19 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:10 |
 | 20 | [Folsom Prison Blues](https://open.spotify.com/track/1Vw5YUBbtlUmkhEnee55Zo) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [With His Hot and Blue Guitar](https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E) | 2:48 |
 | 21 | [They're Hanging Me Tonight](https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:04 |
 | 22 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 48 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
 | 49 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
-| 51 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
-| 52 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
+| 51 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
+| 52 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
 | 53 | [Goin' Steady](https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:41 |
 | 54 | [A Satisfied Mind](https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk) | 2:46 |
 | 55 | [Honky Tonk Man](https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [The Essential Johnny Horton](https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN) | 2:10 |

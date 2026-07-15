@@ -4,7 +4,7 @@
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-121 songs - 7 hr 42 min
+122 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 | 2022-09-22 |  |
 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 | 2022-09-22 |  |
 | [Sangue latino](https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [A volta de Secos & Molhados](https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi) | 2:08 | 2022-09-22 |  |
-| [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 | 2022-09-22 |  |
+| [Sina](https://open.spotify.com/track/5gQeBRDlFEreoxtojHnzn1) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Grandes Sucessos](https://open.spotify.com/album/3OvI3t1sL2yYkFHgsMjaSw) | 5:29 | 2025-10-04 |  |
+| [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 | 2022-09-22 | 2026-07-15 |
 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 | 2022-09-22 |  |
 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 | 2022-09-22 |  |
 | [São Jorge](https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM) | [Juçara Marçal e Kiko Dinucci](https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m) | [Padê](https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU) | 3:05 | 2022-09-22 |  |

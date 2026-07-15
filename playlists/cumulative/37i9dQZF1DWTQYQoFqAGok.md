@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-110 songs - 8 hr 53 min
+111 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Dulces y caramelos](https://open.spotify.com/track/4XxaUIzWA7pRXWyTk9GE2X) | [Cris Lobo](https://open.spotify.com/artist/56x9ETUTHSCk1q7OshZWqD) | [Tati](https://open.spotify.com/album/43GUikhIGxaAOfidGHCm8Z) | 4:30 | 2021-07-28 | 2025-01-05 |
 | [El Fantasma Enamorado](https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Tren de la Alegría](https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6) | 4:22 | 2021-07-28 | 2024-04-19 |
 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr) | [Cuco Valtierra](https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa) | [Bonita](https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb) | 2:40 | 2021-07-28 | 2024-04-19 |
-| [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 | 2021-07-28 |  |
+| [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 | 2021-07-28 | 2026-07-15 |
 | [Entrega Total](https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC) | [Andrea Básef](https://open.spotify.com/artist/7Ekf6XS5tD24ZZf6slGP1A) | [Deseo del Tiempo](https://open.spotify.com/album/4XJBrYgnGUpkpIaj2HOLph) | 4:04 | 2021-07-28 |  |
 | [Entronque](https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf) | [David Chanson](https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK) | [La Institución Te Reclama](https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ) | 5:49 | 2021-07-28 |  |
 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 | 2022-08-16 |  |
@@ -90,6 +90,7 @@
 | [Orbita 13](https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Musica Infinita](https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ) | 4:43 | 2021-07-28 | 2023-05-23 |
 | [Orfeo en los Tambores](https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Tino Contreras](https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2) | 2:48 | 2021-07-28 |  |
 | [Paisaje Gris](https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60) | [Jenny Beaujean](https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3), [Benjamín García](https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE) | [Paisaje Gris](https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG) | 4:19 | 2021-07-28 | 2024-04-19 |
+| [Papantla Tus Hijos Vuelan](https://open.spotify.com/track/0WMRsWC3byYXZoc5yFVioa) | [Fernando Toussaint](https://open.spotify.com/artist/4cSn3njGY4NwuWdqTPdOZS), [Enrique Pat](https://open.spotify.com/artist/7embISvbgUYz3kkyT4vpJJ), [Bernardo Ron](https://open.spotify.com/artist/2VGhLzdGosv8P6QxMtJPGx) | [Aguamala](https://open.spotify.com/album/4Zt7zF8uP5TM06ENi90FT8) | 8:23 | 2021-07-28 |  |
 | [Paq\-Man](https://open.spotify.com/track/3cRDVtteYW537cdLCxkoMF) | [Abraham Barrera](https://open.spotify.com/artist/2G6Dj9QYAC86ZLOBVbf4Uh), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [Ocaso](https://open.spotify.com/album/3Uh18mM8A9l4KbeuYHKh47) | 5:36 | 2021-07-28 | 2024-02-16 |
 | [Pinot noir](https://open.spotify.com/track/457xW1Wa1Tzp98BbX3ykku) | [Eugenio Toussaint Trio](https://open.spotify.com/artist/4wZez3y034S80LmKJ3ykOW) | [Eugenio Toussaint Trio: Oinos \- Musica Para Beber Vino \(Music To Enjoy Wine\)](https://open.spotify.com/album/1O9vgJ3kfT0a8kOaP2vJuq) | 6:30 | 2021-07-28 | 2024-10-03 |
 | [Piscis](https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:34 | 2023-03-16 |  |

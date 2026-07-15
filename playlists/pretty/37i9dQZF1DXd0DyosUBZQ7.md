@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,763 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,864 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 69 | [Goodbye My Lover](https://open.spotify.com/track/3Iya0xOCXhgSdDwIYM75wh) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK) | 4:18 |
 | 70 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 |
 | 71 | [Too Serious Too Soon](https://open.spotify.com/track/3dLoqgmXNaloiPpue3AxSA) | [Gareth Gates](https://open.spotify.com/artist/4nNwfeVaNJlfz8RdCT5MJO) | [What My Heart Wants To Say](https://open.spotify.com/album/6qjh64nv2k5MIrjewpj0Vv) | 3:43 |
-| 72 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 |
-| 73 | [The Reason](https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH) | 3:52 |
+| 72 | [The Reason](https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH) | 3:52 |
+| 73 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 |
 | 74 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 |
 | 75 | [Have You Ever](https://open.spotify.com/track/2wkoy95ZlmANduYJcq5v6K) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [Sunshine](https://open.spotify.com/album/1JXF1JKw7WPhqvBO8t8oPl) | 3:21 |
 

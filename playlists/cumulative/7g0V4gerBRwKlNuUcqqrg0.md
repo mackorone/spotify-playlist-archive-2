@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-193 songs - 11 hr 6 min
+194 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Sleepless City](https://open.spotify.com/track/6BZVXqng1IJ5PRNUjKFlIC) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something Good](https://open.spotify.com/album/7uHDUPls4X3mraMagaEw99) | 2:37 | 2025-07-04 | 2025-11-06 |
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-07-04 | 2026-03-28 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-03 |  |
+| [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Simone Ashley](https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0) | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6) | 2:16 | 2026-07-14 |  |
 | [somebody you're supposed to love](https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 3:10 | 2026-02-13 |  |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-19 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 | 2025-07-04 | 2025-10-09 |

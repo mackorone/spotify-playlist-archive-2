@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-534 songs - 1 day 7 hr 6 min
+535 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |
 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 | 2022-08-27 |  |
 | [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 | 2025-11-18 |  |
+| [アルカリレットウセイ](https://open.spotify.com/track/4omwS3Lmbfbc6gAHQfX4aW) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [アルカリレットウセイ](https://open.spotify.com/album/2g8NCUxGjOVCs2BkqwosQS) | 3:29 | 2026-07-14 |  |
 | [イドラのサーカス](https://open.spotify.com/track/2FvGW1qdjJwSzyB31IeeJj) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:31 | 2022-08-18 |  |
 | [ウィルス・バスター](https://open.spotify.com/track/2GdNzu0rSlebLnhmuTK2kr) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [天国も地獄もない場所へ](https://open.spotify.com/album/2en6z39Ksz1igDKtJdGGpK) | 3:30 | 2026-04-07 |  |
 | [カリスマティック・スーパードゥーパー・ロックスター](https://open.spotify.com/track/0lZbtgvlgjamaFfqLI27EL) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [獅子型アラベスク超午前、青](https://open.spotify.com/album/0rgdlXM5DIXKfq751vkr4P) | 3:39 | 2025-09-09 |  |

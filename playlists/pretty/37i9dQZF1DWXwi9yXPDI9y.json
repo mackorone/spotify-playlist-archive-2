@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 199505,
+  "num_followers": 199536,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Candy (Remastered)",
         "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 339333,
       "name": "Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster",
       "url": "https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -147,22 +147,18 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 258106,
-      "name": "The Masquerade Is Over",
-      "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -187,6 +183,26 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 258106,
+      "name": "The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Tommy Flanagan Trio",
         "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 319626,
       "name": "Velvet Moon",
       "url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 250746,
       "name": "Fantastic, That's You",
       "url": "https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
         }
       ],
-      "duration_ms": 222880,
-      "name": "Something To Remember You By",
-      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
+      "duration_ms": 184293,
+      "name": "Excerpts From The Blues",
+      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Something To Remember You By",
+      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Whisper For You",
         "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 203733,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Excerpts From The Blues",
-      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -867,6 +867,38 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 292106,
+      "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        }
-      ],
-      "duration_ms": 292106,
-      "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Comin' On",
+        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 377933,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Comin' On",
-        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
       },
       "artists": [
         {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 377933,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
+      "duration_ms": 528226,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 528226,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "The Imperious Dinah Washington",
-        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "All About Chris",
         "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+        "name": "The Imperious Dinah Washington",
+        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
+      "duration_ms": 154933,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1251,6 +1235,22 @@
       "duration_ms": 167560,
       "name": "I Concentrate On You",
       "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "added_at": "2026-04-01 09:07:54",

@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 246781,
       "name": "Wah wah wah",
       "url": "https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl"
@@ -4550,6 +4550,32 @@
       "duration_ms": 318512,
       "name": "\u0642\u0627\u0644\u0648 \u0639\u0644\u064a\u0647\u0627 \u0637\u0627\u0637\u0629 \u0634\u0627\u0628\u0629 \u0645\u0627\u0634\u064a \u062e\u0644\u0627\u0637\u0629",
       "url": "https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0648\u0644\u0648 \u0644\u0644\u062d\u0628 \u0644\u064a \u063a\u0627\u064a\u0628 \u064a\u0646\u0633\u0627\u0646\u064a \u0645\u0627 \u064a\u062c\u064a\u0634",
+        "url": "https://open.spotify.com/album/6sdnpKT7iOeyltAlNF4VSt"
+      },
+      "artists": [
+        {
+          "name": "Cheb Reda Chahir",
+          "url": "https://open.spotify.com/artist/2h3GjJKu3rssiawYWfLPXR"
+        },
+        {
+          "name": "Hocine Ghouila",
+          "url": "https://open.spotify.com/artist/6ZVzzAtaJk22OPFgiiACHt"
+        },
+        {
+          "name": "Moncef Nassifo",
+          "url": "https://open.spotify.com/artist/5S9qBN1ceKWFtUqOGmrfFw"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236193,
+      "name": "\u0642\u0648\u0644\u0648 \u0644\u0644\u062d\u0628 \u0644\u064a \u063a\u0627\u064a\u0628 \u064a\u0646\u0633\u0627\u0646\u064a \u0645\u0627 \u064a\u062c\u064a\u0634",
+      "url": "https://open.spotify.com/track/59AfVijg1Yo10WsYaJEBxe"
     },
     {
       "album": {

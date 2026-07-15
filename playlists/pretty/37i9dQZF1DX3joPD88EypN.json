@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 99057,
+  "num_followers": 99073,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "As If The Ghost \u2026 Was Me!?",
-        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "As If The Ghost \u2026 Was Me!?",
-      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "As If The Ghost \u2026 Was Me!?",
+        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "As If The Ghost \u2026 Was Me!?",
+      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "How Could It Be?",
         "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 285773,
       "name": "How Could It Be?",
       "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1399,30 +1399,6 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Sanctus",
-        "url": "https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9"
-      },
-      "artists": [
-        {
-          "name": "John B\u00f8rge Askeland",
-          "url": "https://open.spotify.com/artist/1UeZl6B4gsbDOigsEf7NVc"
-        },
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "Sanctus",
-      "url": "https://open.spotify.com/track/3spHdmdcQ1Qs3XnyGNZEYA"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1455,6 +1431,30 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Sanctus",
+        "url": "https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9"
+      },
+      "artists": [
+        {
+          "name": "John B\u00f8rge Askeland",
+          "url": "https://open.spotify.com/artist/1UeZl6B4gsbDOigsEf7NVc"
+        },
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "Sanctus",
+      "url": "https://open.spotify.com/track/3spHdmdcQ1Qs3XnyGNZEYA"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Kingdom of Coldness",
         "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 457853,
       "name": "Kingdom of Coldness",
       "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Origin Story",
-        "url": "https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K"
-      },
-      "artists": [
-        {
-          "name": "Kaisa's Machine",
-          "url": "https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl"
-        },
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 348149,
-      "name": "Origin Story",
-      "url": "https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "P\u00e5 havets bunn",
         "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K"
+      },
+      "artists": [
+        {
+          "name": "Kaisa's Machine",
+          "url": "https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl"
+        },
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 348149,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
-      },
-      "artists": [
-        {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
-        }
-      ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 350720,
       "name": "Anten",
       "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+      },
+      "artists": [
+        {
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+        }
+      ],
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1815,22 +1815,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "A Letter to Eje Thelin",
-        "url": "https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL"
+        "name": "Funeral Dance",
+        "url": "https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE"
       },
       "artists": [
         {
-          "name": "G\u00f6teborg Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
         },
         {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Jumnien",
-      "url": "https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l"
+      "duration_ms": 320534,
+      "name": "S\u00e6velid",
+      "url": "https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1867,22 +1867,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Funeral Dance",
-        "url": "https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE"
+        "name": "A Letter to Eje Thelin",
+        "url": "https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL"
       },
       "artists": [
         {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+          "name": "G\u00f6teborg Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
         },
         {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 320534,
-      "name": "S\u00e6velid",
-      "url": "https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq"
+      "duration_ms": 221000,
+      "name": "Jumnien",
+      "url": "https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6teborg Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 333853,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Magnetic Works 1993-2001",
         "url": "https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L"
       },
@@ -1971,6 +1951,30 @@
       "duration_ms": 296320,
       "name": "Flying Thing - Remastered",
       "url": "https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Sun Blowing",
+        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 263047,
+      "name": "Evening Song for B",
+      "url": "https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc"
     }
   ],
   "unique_name": "Nordic Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > OYSTER kiest 20 tunes!  zomer ID: 🚗 dakje open\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,341 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,350 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 | 32 | [50KG](https://open.spotify.com/track/2RfClfmY59U946jZ8I7XHc) | [Klemma](https://open.spotify.com/artist/1iL5mkCy8kbG1shtgGQY6i), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pergio](https://open.spotify.com/artist/4gUzXRDRTdIogRLkgLhyVW) | [50KG](https://open.spotify.com/album/3mjBldTBjTxrcBBjTGNqc0) | 2:04 |
 | 33 | [U23 \- Freestyle](https://open.spotify.com/track/61saPoK8jz62MCcnWcRkmr) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [U23 \- Freestyle](https://open.spotify.com/album/5KKRZt3Yi7PmctbZNqRjfb) | 2:16 |
 | 34 | [Grimmig](https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Grimmig](https://open.spotify.com/album/0pnHayMlrea3RqrkY0h0ay) | 2:08 |
-| 35 | [AaAAaa](https://open.spotify.com/track/03ylxisG0KM0VlvyGLSSxu) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:26 |
+| 35 | [AaAAaa](https://open.spotify.com/track/03ylxisG0KM0VlvyGLSSxu) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:26 |
 | 36 | [Philly Haal](https://open.spotify.com/track/2oGiZAtGD70Oe3cEu0aRnX) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Philly Haal](https://open.spotify.com/album/26Fzw5N60KJPEWsnzb0bxU) | 2:37 |
 | 37 | [WHAT THE HELLY](https://open.spotify.com/track/3PrlxQtFCyAlKFC0uZwSXf) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [WHAT THE HELLY](https://open.spotify.com/album/5ESn5GFLsSdYanFcoBxwQl) | 2:10 |
 | 38 | [MULALA](https://open.spotify.com/track/3ZEZUgpOUO4Po0eXtBt4oF) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [MULALA](https://open.spotify.com/album/7ykykZsyyh5fEVBmkkZZwc) | 2:36 |

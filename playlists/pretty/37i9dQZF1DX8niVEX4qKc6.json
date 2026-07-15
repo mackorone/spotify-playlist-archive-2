@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 193454,
+  "num_followers": 193464,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Todas las Flores de Enero",
         "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 198650,
       "name": "Lara",
       "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Vuela Lejos",
+        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 307414,
+      "name": "Vuela Lejos",
+      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 223096,
       "name": "Lo Que Perd\u00ed",
       "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Vuela Lejos",
-        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 307414,
-      "name": "Vuela Lejos",
-      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Congelamiento Global",
-        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
-      },
-      "artists": [
-        {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
-        }
-      ],
-      "duration_ms": 185644,
-      "name": "Amar No Est\u00e1 de Moda",
-      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 169487,
       "name": "el film - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Congelamiento Global",
+        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "duration_ms": 185644,
+      "name": "Amar No Est\u00e1 de Moda",
+      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Hasta el final (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/3PiF0wHxkUVQgEsBZNv0TH"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Hasta el final - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/55D25UsKwBPaplvh4JWAgN"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Mil Caminos",
         "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Hasta el final (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/3PiF0wHxkUVQgEsBZNv0TH"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Hasta el final - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/55D25UsKwBPaplvh4JWAgN"
     },
     {
       "added_at": "2026-06-26 15:53:51",

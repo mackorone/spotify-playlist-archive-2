@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,644 likes - 88 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,635 likes - 88 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

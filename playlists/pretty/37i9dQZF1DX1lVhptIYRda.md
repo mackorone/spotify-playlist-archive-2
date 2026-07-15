@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,656,767 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,657,004 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 32 | [Think About Me](https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Think About Me](https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA) | 2:39 |
 | 33 | [Runnin' On E](https://open.spotify.com/track/7m1mj6F9bUtxKJTKf8HpXh) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Runnin' On E](https://open.spotify.com/album/3VGbvxcnoPaVGXp9WKjCVS) | 2:27 |
 | 34 | [Marry You Again](https://open.spotify.com/track/7GW3ySPXF49BKJ6HQQ1FiJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Marry You Again](https://open.spotify.com/album/0d8GtPFvul3BhoSAvT98ID) | 3:06 |
-| 35 | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
+| 35 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
 | 36 | [Another Drink](https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Another Drink](https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2) | 2:33 |
 | 37 | [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 |
 | 38 | [Bet On That](https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Bet On That](https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf) | 3:10 |

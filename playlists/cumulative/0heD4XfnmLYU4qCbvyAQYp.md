@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-139 songs - 8 hr 59 min
+140 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Sweet Cream](https://open.spotify.com/track/4aroO5zetdRxhBwVyB4tsG) | [The Galentines](https://open.spotify.com/artist/2Xn7EfGdxCwn5fxjEWmNoP) | [1140](https://open.spotify.com/album/4Q0aacEIQ4ClOYnCzzCK4l) | 2:55 | 2025-11-24 | 2026-02-07 |
 | [Tales of Illusion ad Truth](https://open.spotify.com/track/32swzSSwkfqriDTMWyoHKy) | [Nightingale News](https://open.spotify.com/artist/197QL7L2MIBrlqDrxp5V99) | [Echoes of a Dreamscape](https://open.spotify.com/album/1AIBf5YhsX2yfl4UdOYxT6) | 5:22 | 2025-11-02 |  |
 | [Tattoo Graveyard](https://open.spotify.com/track/3kmG45gXLrTfZqC8IPDcDY) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Music Is a Scam](https://open.spotify.com/album/1FxsajJ8Bvmv9U3NRo65KA) | 4:25 | 2025-12-17 | 2026-02-07 |
+| [Tell me](https://open.spotify.com/track/7Kii5doWDpS5BlMb8ZinhX) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Tell me](https://open.spotify.com/album/128I92xeAqGBMdLzBqCGdR) | 2:16 | 2026-07-14 |  |
 | [Tell Me Why](https://open.spotify.com/track/0BjA7kC1AjbGuoNV1xcvPS) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Tell Me Why](https://open.spotify.com/album/3UhghdeJ61tvS5CBACFWi5) | 3:07 | 2026-02-06 | 2026-04-05 |
 | [Terrestrial](https://open.spotify.com/track/1gkS2fy9B3j8puwIS22DmR) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [The Kingdom of Trees](https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea) | 4:33 | 2025-10-19 | 2026-05-16 |
 | [Tesla](https://open.spotify.com/track/6iJSBzhwuo10snNpJPlT6o) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Tesla](https://open.spotify.com/album/7fPZmtfCwbZfbMZNk5o4KG) | 4:44 | 2025-11-02 |  |

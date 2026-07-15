@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 175454,
+  "num_followers": 175505,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADKnV0j4XFipn9A5htCmswv",
+  "snapshot_id": "alQqgAAAAADZOL7SeaPVcyqfXHRRhNy4",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 171366,
-      "name": "Make a Mil",
-      "url": "https://open.spotify.com/track/2c1jezYXHqGN8C0AJhIE1S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 239009,
       "name": "S o r r y, B u t I\u2019 m O u t s i d e",
       "url": "https://open.spotify.com/track/4UL6S1pHHKqmsNOfsPJqgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 171366,
+      "name": "Make a Mil",
+      "url": "https://open.spotify.com/track/2c1jezYXHqGN8C0AJhIE1S"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 228602,
       "name": "fue mejor",
       "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B"
     },
     {
       "added_at": null,

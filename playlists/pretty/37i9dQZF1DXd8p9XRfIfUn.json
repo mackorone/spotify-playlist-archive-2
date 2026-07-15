@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81189,
+  "num_followers": 81195,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 125615,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 125615,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -499,6 +499,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Perdon\u00e9monos",
+        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Perdon\u00e9monos",
+      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Reggaeto\u00f1erito",
         "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 187200,
       "name": "Dale Bogueto",
       "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Perdon\u00e9monos",
-        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Perdon\u00e9monos",
-      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Algarete",
-        "url": "https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 131497,
-      "name": "Algarete",
-      "url": "https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Que Loco Mami",
         "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Algarete",
+        "url": "https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 131497,
+      "name": "Algarete",
+      "url": "https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "La del Tik Tok",
-        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 257592,
-      "name": "La del Tik Tok",
-      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Pal' Otro A\u00f1o",
         "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 150894,
       "name": "Pal' Otro A\u00f1o",
       "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "La del Tik Tok",
+        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 257592,
+      "name": "La del Tik Tok",
+      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Manzana",
+        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 173936,
+      "name": "Manzana",
+      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Enemigo",
         "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Manzana",
-        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+        "name": "X Ti Lo Digo",
+        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 173936,
-      "name": "Manzana",
-      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+      "duration_ms": 191323,
+      "name": "X Ti Lo Digo",
+      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1179,22 +1195,6 @@
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "X Ti Lo Digo",
-        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 191323,
-      "name": "X Ti Lo Digo",
-      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
     },
     {
       "added_at": "2025-09-18 23:00:14",

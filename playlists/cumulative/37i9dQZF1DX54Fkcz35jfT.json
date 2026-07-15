@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Survive Said The Prophet ",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Doona",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "MUB\u00d6",
+        "url": "https://open.spotify.com/album/2Vl7Inp9H00O5Ji2aDQEjb"
+      },
+      "artists": [
+        {
+          "name": "Doona",
+          "url": "https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "MUB\u00d6",
+      "url": "https://open.spotify.com/track/6ENKK7AHETyUo61PmDe2UK"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0mo1q8CqwCzEIarbF64a6L"
       },
@@ -5644,7 +5662,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 231809,
       "name": "RUN",
       "url": "https://open.spotify.com/track/2oeWrzaLuMg7sYEdFxqZ1c"

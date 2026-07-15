@@ -1,6 +1,6 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 405429,
+  "num_followers": 405535,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
+        "name": "Without a Whisper",
+        "url": "https://open.spotify.com/album/2lCaqPn2EZ4CtwFz1JLBvK"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "duration_ms": 257532,
+      "name": "Without a Whisper",
+      "url": "https://open.spotify.com/track/6Bs8snxnfC0ZmiEkei4ehn"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
         "name": "Your face",
         "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 227439,
       "name": "Your face",
       "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Adrenalize",
-      "url": "https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX"
     },
     {
       "added_at": "2026-02-13 21:18:20",

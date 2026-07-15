@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 
 > This is Elmiene\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,355 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,369 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 4 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 5 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 |
 | 6 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
-| 7 | [Useless \(Without You\)](https://open.spotify.com/track/22AbBg7GdbP7sjxQ0SLQZi) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:46 |
+| 7 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 8 | [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 |
 | 9 | [Lie With Me](https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:19 |
 | 10 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 |
-| 11 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
+| 11 | [Useless \(Without You\)](https://open.spotify.com/track/22AbBg7GdbP7sjxQ0SLQZi) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:46 |
 | 12 | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/track/6hVfkxD7h8aQtmSgmPlMM5) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/album/4wuPuMG4g7JHwhTopjBPwG) | 4:11 |
 | 13 | [I Want In](https://open.spotify.com/track/58OYkYalN6lTulISeBYz64) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:06 |
 | 14 | [Special](https://open.spotify.com/track/0WAFfVSUu7ynXpg8zM5aUw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 2:49 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 17 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
 | 18 | [Light By The Window](https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:54 |
 | 19 | [Different Too](https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:45 |
-| 20 | [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 |
-| 21 | [Is This Love](https://open.spotify.com/track/5jMgUW0jGeKT5Jzm8rqf9R) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:16 |
+| 20 | [Is This Love](https://open.spotify.com/track/5jMgUW0jGeKT5Jzm8rqf9R) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:16 |
+| 21 | [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 |
 | 22 | [Time Doesn’t Heal](https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 2:45 |
 | 23 | [Dull Jewellery](https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:24 |
 | 24 | [TLC](https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 3:20 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 26 | [Saviour](https://open.spotify.com/track/181XIyJMPKxgFkSIs0lboa) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:00 |
 | 27 | [Give Me A Smile](https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:57 |
 | 28 | [Until It's Dust](https://open.spotify.com/track/616o0X9kcvy732UKKnL68j) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 2:35 |
-| 29 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
-| 30 | [Pool \(feat\. Elmiene\)](https://open.spotify.com/track/0csHRGsK3gKsERufowurNK) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 4:34 |
+| 29 | [Pool \(feat\. Elmiene\)](https://open.spotify.com/track/0csHRGsK3gKsERufowurNK) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 4:34 |
+| 30 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 31 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 32 | [Ode To Win](https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 4:07 |
 | 33 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 49 | [Remember](https://open.spotify.com/track/4L2xiqRQ5IKQoIwn3XaVkr) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time \(Again\)](https://open.spotify.com/album/4iJJ7qtR7T8v0CarMWIM04) | 3:55 |
 | 50 | [Coraline \- Live From 525](https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From 525](https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA) | 2:50 |
 
-Snapshot ID: `alLZAAAAAAC+VIu2gNMb5FI6kuYqKrIh`
+Snapshot ID: `alQqgAAAAAC9xa7mvHCc1ZTKZfXdxvV0`

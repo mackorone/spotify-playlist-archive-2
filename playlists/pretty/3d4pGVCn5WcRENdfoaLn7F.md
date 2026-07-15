@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 781 likes - 85 songs - 5 hr 0 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 785 likes - 86 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 83 | [Run \- Cover](https://open.spotify.com/track/7qCzuCpMsiQqPqyjsURAQZ) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [Run \(Cover\)](https://open.spotify.com/album/4PSIjA7XCryTRa4ynqt0vL) | 2:38 |
 | 84 | [Fear](https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN) | [Revolana](https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC) | [Fear](https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb) | 2:31 |
 | 85 | [United](https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [United](https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s) | 4:02 |
+| 86 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
 
-Snapshot ID: `AAADzhoy84vn7JFYF+vYrap2bceZk1g1`
+Snapshot ID: `AAADzx1cqerj2k9EvETr6KDVzvcE5i1M`

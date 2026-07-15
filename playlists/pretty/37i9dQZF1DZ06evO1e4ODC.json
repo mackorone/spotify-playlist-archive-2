@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 214133,
+  "num_followers": 214152,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAlQnKw+NCw1EswcSFLEHZ4",
+  "snapshot_id": "alQqgAAAAAAwpNtWaXSlFrLRt/JaKdVf",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Esperar En Ti - En Vivo",
-      "url": "https://open.spotify.com/track/0u8VsRafqJ4kXcdl8iDtBi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
         "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 257613,
       "name": "Razones Pa' vivir",
       "url": "https://open.spotify.com/track/2bSiqgJdac8Jysx7AoXguQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Esperar En Ti - En Vivo",
+      "url": "https://open.spotify.com/track/0u8VsRafqJ4kXcdl8iDtBi"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Cerca De Ti - En Vivo",
-      "url": "https://open.spotify.com/track/6waY2sAiBJzHdmXyKYmr1w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
         "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 244440,
       "name": "Mi Entorno",
       "url": "https://open.spotify.com/track/5CUuYGpyh3o9CR8izoLofQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "Cerca De Ti - En Vivo",
+      "url": "https://open.spotify.com/track/6waY2sAiBJzHdmXyKYmr1w"
     },
     {
       "added_at": null,

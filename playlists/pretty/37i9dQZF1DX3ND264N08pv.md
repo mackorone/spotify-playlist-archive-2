@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,819 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,820 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 43 | [Ain't No Thing](https://open.spotify.com/track/5SpaC3YsMTtv2WamENm0TP) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Ain't No Thing](https://open.spotify.com/album/5wwb036FaZ5tfNmV4OD23R) | 2:21 |
 | 44 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
 | 45 | [Sound The Alarm](https://open.spotify.com/track/77RXsitsubxemClFhtM8Kr) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Sound The Alarm](https://open.spotify.com/album/1bSFo51TYynrW9FGhJiuJG) | 3:29 |
-| 46 | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/track/4FEKWUDChRiAbJZpgVrV7z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/album/4oFYkPDrLs77KONze5TbhJ) | 3:54 |
-| 47 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
+| 46 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
+| 47 | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/track/4FEKWUDChRiAbJZpgVrV7z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/album/4oFYkPDrLs77KONze5TbhJ) | 3:54 |
 | 48 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 |
 | 49 | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Outblast](https://open.spotify.com/artist/7izfdXPLe9PjsIN0A0k2pE), [The Supreme Team](https://open.spotify.com/artist/3lojVS6Lt1JUvkHSwFXauZ) | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0) | 4:58 |
 | 50 | [Heavy Kickdrum](https://open.spotify.com/track/5FCQP1z9oNKDo0yjlZypWk) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Heavy Kickdrum](https://open.spotify.com/album/2md9H6p9vC9hJpkoi0RORN) | 3:39 |

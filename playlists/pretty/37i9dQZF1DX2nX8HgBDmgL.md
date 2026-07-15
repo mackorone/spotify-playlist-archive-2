@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,866 likes - 89 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,958 likes - 89 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 62 | [Naam Chale](https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y) | [Naam Chale](https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign) | 2:29 |
 | 63 | [Soulmate](https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:33 |
 | 64 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 |
-| 65 | [Thoda Thoda Pyaar](https://open.spotify.com/track/6kjxzcV8xl6gUQ4Y5caoeA) | [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:04 |
+| 65 | [Thoda Thoda Pyaar](https://open.spotify.com/track/6kjxzcV8xl6gUQ4Y5caoeA) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:04 |
 | 66 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
 | 67 | [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 |
 | 68 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 |

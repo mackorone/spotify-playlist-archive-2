@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,051 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,052 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 14 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
 | 15 | [Je cours](https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:00 |
 | 16 | [Qui de nous deux](https://open.spotify.com/track/0PZiPbrDCdORrSW6IIICRG) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Qui de nous deux](https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc) | 3:45 |
-| 17 | [La cerise](https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La cerise](https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC) | 3:35 |
-| 18 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
+| 17 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
+| 18 | [La cerise](https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La cerise](https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC) | 3:35 |
 | 19 | [Comme elle vient](https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 2:25 |
 | 20 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 21 | [Manu Chao \- Single Version](https://open.spotify.com/track/3iP2zPzKv47zEB6FsQ5gKW) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro](https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH) | 2:47 |

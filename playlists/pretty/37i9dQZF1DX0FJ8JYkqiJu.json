@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 417342,
+  "num_followers": 417358,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "2 Little 2 Late",
         "url": "https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 171050,
       "name": "2 Little 2 Late",
       "url": "https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
-      },
-      "artists": [
-        {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "STANDOUT",
+        "url": "https://open.spotify.com/album/7zrAaDBtgjDprzv1zXRtm4"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 135762,
+      "name": "FAR",
+      "url": "https://open.spotify.com/track/6gmSMIDB3CjwWxFwWQXy0v"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "STANDOUT",
-        "url": "https://open.spotify.com/album/7zrAaDBtgjDprzv1zXRtm4"
-      },
-      "artists": [
-        {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
-        }
-      ],
-      "duration_ms": 135762,
-      "name": "FAR",
-      "url": "https://open.spotify.com/track/6gmSMIDB3CjwWxFwWQXy0v"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Zula",
         "url": "https://open.spotify.com/album/4MPX4o0L94BZs0wNQXpMA7"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 130819,
       "name": "Zula",
       "url": "https://open.spotify.com/track/2OC0kob06GxOeWL9TxCHds"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Flow Free",
         "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 239523,
       "name": "Flow Free",
       "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Gotta Move",
-        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+        "name": "Afterimage",
+        "url": "https://open.spotify.com/album/1WJXyItDdHj9jC3yOlX8sZ"
       },
       "artists": [
         {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+          "name": "Kaikobad",
+          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
         }
       ],
-      "duration_ms": 179125,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
+      "duration_ms": 158906,
+      "name": "Afterimage",
+      "url": "https://open.spotify.com/track/3fT7WUp5U1JPCm7biQJ9Dd"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Afterimage",
-        "url": "https://open.spotify.com/album/1WJXyItDdHj9jC3yOlX8sZ"
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
       },
       "artists": [
         {
-          "name": "Kaikobad",
-          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
         }
       ],
-      "duration_ms": 158906,
-      "name": "Afterimage",
-      "url": "https://open.spotify.com/track/3fT7WUp5U1JPCm7biQJ9Dd"
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "added_at": "2026-06-02 14:00:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,531 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,536 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 36 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 37 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 |
 | 38 | [Chocolate Rain](https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Chocolate Rain](https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL) | 2:42 |
-| 39 | [Got The Juice](https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 1:47 |
+| 39 | [New Me \(feat\. Anycia\)](https://open.spotify.com/track/3b1r6l4SX8j4TSN8f4OogB) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:53 |
 | 40 | [Roaring 20s](https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Roaring 20s](https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af) | 2:09 |
 | 41 | [BGC](https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [BGC](https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR) | 2:36 |
 | 42 | [Like That Bitch](https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 |
 | 50 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 |
 
-Snapshot ID: `alLZAAAAAACsIeCvGjaYQIBS+VMKytWN`
+Snapshot ID: `alQqgAAAAADS1jrCTCHWYpJKF0tBEU5s`

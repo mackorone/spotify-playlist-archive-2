@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2228,
+  "num_followers": 2226,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAB/4scWycaJBBKKOcLkOYge",
+  "snapshot_id": "alQqgAAAAABSPrDns3dPjr1exDfP4kZ+",
   "tracks": [
     {
       "added_at": null,
@@ -619,34 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobra y Falta",
-        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "Sobra y Falta",
-      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlett\u00b4s",
         "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
       },
@@ -671,6 +643,34 @@
       "duration_ms": 170250,
       "name": "Scarlett\u00b4s",
       "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobra y Falta",
+        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 190161,
+      "name": "Sobra y Falta",
+      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
     },
     {
       "added_at": null,
@@ -719,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Perro",
-        "url": "https://open.spotify.com/album/0xYL2r1YGEsWYUOy1zFx4F"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 151697,
-      "name": "De Perro",
-      "url": "https://open.spotify.com/track/4TZJtSjuPGClUKDXcfvcU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Est\u00e1 Funcionando",
         "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
       },
@@ -763,6 +739,50 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Perro",
+        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 151697,
+      "name": "De Perro",
+      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GUZBYE",
+        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "GUZBYE",
+      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
     },
     {
       "added_at": null,
@@ -791,30 +811,6 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GUZBYE",
-        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "GUZBYE",
-      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
     },
     {
       "added_at": null,
@@ -883,30 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os de la Clika",
         "url": "https://open.spotify.com/album/2IxCJCJ38SMYibMNgntmAJ"
       },
@@ -931,6 +903,30 @@
       "duration_ms": 128138,
       "name": "Sue\u00f1os de la Clika",
       "url": "https://open.spotify.com/track/5cI2CcuDA9ZOpXgg30eBIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,

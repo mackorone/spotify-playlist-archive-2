@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,626 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,655 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 35 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
 | 36 | [Two Feet & A Heartbeat](https://open.spotify.com/track/6usSjDLorJNv7yzSOKz94p) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [WHAT NOW?](https://open.spotify.com/album/65R2GmV5GViuywAOfbB0Dj) | 2:44 |
 | 37 | [The Darkness](https://open.spotify.com/track/2e4FrUm8CiGmNvIgSOu4CF) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Reason To Believe](https://open.spotify.com/album/4XdLdI1tIzVWuLX5JjLvGu) | 3:39 |
-| 38 | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
+| 38 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
 | 39 | [Something to Someone](https://open.spotify.com/track/5vdFFlRScGbp09cS0l4fU3) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Something to Someone](https://open.spotify.com/album/1hof5rzb7Jq7WPuWjDwKQS) | 3:55 |
 | 40 | [Prettiest Wreck](https://open.spotify.com/track/7CP672eSuZocHYcW7jtxYj) | [Tori Darke](https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj) | [Prettiest Wreck](https://open.spotify.com/album/5QfDmAPoZ5iE4f1Nk7ntpY) | 2:49 |
 | 41 | [Campdraft Queen](https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Campdraft Queen](https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D) | 3:33 |

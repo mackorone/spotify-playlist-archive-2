@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-471 songs - 22 hr 14 min
+473 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Hands In The Sky](https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Hands In The Sky](https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW) | 2:44 | 2026-04-03 |  |
 | [Hands of Peace](https://open.spotify.com/track/09k98ZBBIc5Dn261HfMaO7) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Hands of Peace](https://open.spotify.com/album/4Dktl0OS3gUY0CrymbhZns) | 3:27 | 2026-04-03 |  |
 | [Handwritten](https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Handwritten](https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl) | 2:10 | 2025-05-21 |  |
+| [Harmony Embrace](https://open.spotify.com/track/2BvGnRld5Kg2pjnL1JRhYq) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Harmony Embrace](https://open.spotify.com/album/1ISODSwPtvU8UF3OiFRXHY) | 3:39 | 2026-07-03 |  |
 | [Healing gaze](https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [Healing gaze](https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h) | 2:40 | 2025-10-15 |  |
 | [Heart of nature](https://open.spotify.com/track/0PydlHyHt06LIZ21X9jS7l) | [Aponian Flow](https://open.spotify.com/artist/0ECZqa8KVFTuyM92asZRy1) | [Heart of nature](https://open.spotify.com/album/4q1LDuZ78fHCF9Eilb74pw) | 3:01 | 2026-04-03 |  |
 | [Held in the Jungle's Sleep](https://open.spotify.com/track/08DivxvdYawXBq4C63a2VI) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Held in the Jungle's Sleep](https://open.spotify.com/album/5YqsYVMj3qJD8rCTEwhVR1) | 2:44 | 2026-04-03 |  |
@@ -232,7 +233,7 @@
 | [Journey](https://open.spotify.com/track/1JOCD6al50iWJDu0AblwPo) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Journey](https://open.spotify.com/album/2pCfZPRgrNQrgJ2TteOUIP) | 3:10 | 2024-12-20 | 2026-04-04 |
 | [Kalon](https://open.spotify.com/track/4lTYfckXObPwG01RVckXUT) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Kalon](https://open.spotify.com/album/6GXbNBCi9K7sGEyOPSUgUb) | 3:12 | 2026-06-26 |  |
 | [Key Of Dreams \(Nature\)](https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Key Of Dreams](https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3) | 2:59 | 2023-04-28 | 2025-03-06 |
-| [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 |  |
+| [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 | 2026-07-15 |
 | [Lagoon](https://open.spotify.com/track/7mXIfR2N9mNUhI1ypzm4Qf) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Lagoon](https://open.spotify.com/album/1QryRlE4bklvPidGi30ovp) | 3:00 | 2025-02-10 |  |
 | [Lake Quietude](https://open.spotify.com/track/3gGpRVCJPslykac2T6q0u9) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Lake Quietude](https://open.spotify.com/album/533cM8FSanZTR2SUtcIfjc) | 2:31 | 2025-03-19 | 2026-04-04 |
 | [Lapse of Time](https://open.spotify.com/track/7qgX4p0tNEfxWarc1KgY6d) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Lapse of Time](https://open.spotify.com/album/4vOLXGeE4xrCmrtEIqCjVm) | 2:32 | 2023-04-28 | 2025-05-22 |
@@ -250,6 +251,7 @@
 | [Liora](https://open.spotify.com/track/5zJtd9HHO0K1s0itagJpJA) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Liora](https://open.spotify.com/album/1pxslN8y8JWJ9TmbPUU0SR) | 4:27 | 2025-07-22 | 2026-04-04 |
 | [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 | 2026-01-29 |
 | [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 | 2026-04-04 |
+| [Lotus River Dawn](https://open.spotify.com/track/2V6Ld2fLYbY2MSk3fC1JjX) | [Jade Spirit](https://open.spotify.com/artist/3KNtyFOfcME4NLV6WoPDz6) | [Lotus River Dawn](https://open.spotify.com/album/7oI44hno2Aez1v7PUEGP7s) | 2:20 | 2026-07-03 |  |
 | [Lumenfall](https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Lumenfall](https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ) | 2:39 | 2026-04-03 |  |
 | [Manipura](https://open.spotify.com/track/6aIwo3IbhqllcTWPDBsnYY) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Manipura](https://open.spotify.com/album/7HEjtDjMGvbkHm7mr0RQNR) | 2:45 | 2026-01-08 | 2026-02-05 |
 | [Meadow’s Fountain](https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [OHM](https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb) | 3:00 | 2023-04-28 | 2025-05-22 |
@@ -340,7 +342,7 @@
 | [Resting Awareness](https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Resting Awareness](https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd) | 3:02 | 2023-04-28 | 2025-05-22 |
 | [Returning](https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Returning](https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux) | 3:02 | 2023-06-02 | 2025-10-16 |
 | [Revelation](https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Revelation](https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj) | 3:10 | 2025-06-04 | 2026-04-04 |
-| [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 |  |
+| [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 | 2026-07-15 |
 | [River Breath](https://open.spotify.com/track/1jbmHQILuPj4Tt9AkyMc55) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [River Breath](https://open.spotify.com/album/0RItQrTpmdXnV34eOSVQWP) | 3:30 | 2024-12-12 | 2025-05-22 |
 | [Robin Choir](https://open.spotify.com/track/3Hb6TtTURzwXFaBoMkUj2u) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Robin Choir](https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez) | 2:59 | 2023-11-24 | 2025-05-22 |
 | [Roots](https://open.spotify.com/track/7dR4I3Gvrx9njBICv4jsz4) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Roots](https://open.spotify.com/album/51PNlBZV4CCQItG7h7LrcP) | 3:31 | 2023-04-28 | 2024-04-02 |

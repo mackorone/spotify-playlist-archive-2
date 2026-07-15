@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894 likes - 137 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 895 likes - 137 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 81 | [essential](https://open.spotify.com/track/7hXBQubLTgHqjyJWRovnQa) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [so here you are, drowning](https://open.spotify.com/album/6ao5NAirCG56jFXuwO0fo3) | 2:42 |
 | 82 | [If My Heart Was A House](https://open.spotify.com/track/4gUBKK0CR57iovGWBXcVOq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 2:55 |
 | 83 | [Nobody \- Radio Edit](https://open.spotify.com/track/4HD4FRMS1WVcUicTXPLjMp) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Nobody](https://open.spotify.com/album/0K0Xjl0oZeqTrvSZtg89w5) | 3:25 |
-| 84 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
-| 85 | [S.I.N.G.L.E](https://open.spotify.com/track/0Rs2UGxt1HwI9ZxcuywX9k) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [S.I.N.G.L.E](https://open.spotify.com/album/2PeCHxcEBzPUwodr7oWZ0V) | 2:42 |
+| 84 | [S.I.N.G.L.E](https://open.spotify.com/track/0Rs2UGxt1HwI9ZxcuywX9k) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [S.I.N.G.L.E](https://open.spotify.com/album/2PeCHxcEBzPUwodr7oWZ0V) | 2:42 |
+| 85 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 86 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
 | 87 | [Man Still Cries](https://open.spotify.com/track/37Sq87EEERNJbGulpfmTYA) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Things I Can't Say Out Loud](https://open.spotify.com/album/1KRP8aalo8bVkOuYhMFO10) | 2:55 |
 | 88 | [autopilot](https://open.spotify.com/track/7o7A2Ne5pe7JHBzdpSgBua) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [about the party](https://open.spotify.com/album/3tfHqNvu8jksogQMBd7VX8) | 2:34 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 98 | [Melody](https://open.spotify.com/track/6cTXUjWG4QUUSivqrthXRc) | [Basic Tape](https://open.spotify.com/artist/6EzGm3fYBR8QcdIZ0xvHsl) | [Melody](https://open.spotify.com/album/1BwYTc2Gh3MLmoPjIQwid8) | 3:04 |
 | 99 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
 | 100 | [Autopilot](https://open.spotify.com/track/5LnfaCLBIPBtf8qECZbBaR) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 3:02 |
-| 101 | [Catching Feelings](https://open.spotify.com/track/3T43QRIbWVeheG5PK1qRU7) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Catching Feelings \- EP](https://open.spotify.com/album/2fWdTO8Pv4UY5vu6zQP85e) | 3:22 |
-| 102 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 |
+| 101 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 |
+| 102 | [Catching Feelings](https://open.spotify.com/track/3T43QRIbWVeheG5PK1qRU7) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Catching Feelings \- EP](https://open.spotify.com/album/2fWdTO8Pv4UY5vu6zQP85e) | 3:22 |
 | 103 | [Cold](https://open.spotify.com/track/0lOzZUQbBx45rOiFCxL2sP) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:09 |
 | 104 | [Silence](https://open.spotify.com/track/60hmi2DksV0PYXBMoyiz88) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 1:57 |
 | 105 | [100 Ways \- MK Remix](https://open.spotify.com/track/1NDFWFXR8Jctvpm6vxZRFJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Ways \(MK Remix\)](https://open.spotify.com/album/5kHChDjJaFpPwedDPqkWJ6) | 3:51 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 136 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 137 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `AcWxtAAAAADaxn27O9WoD2qWKft+ZlFY`
+Snapshot ID: `AcW3LAAAAADNKr7vUVpdD/zWdcNUZ7VT`

@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109657,
+  "num_followers": 109651,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Akhirah",
-        "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
-      },
-      "artists": [
-        {
-          "name": "Official TS",
-          "url": "https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf"
-        }
-      ],
-      "duration_ms": 221570,
-      "name": "Akhirah",
-      "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 167172,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Akhirah",
+        "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
+      },
+      "artists": [
+        {
+          "name": "Official TS",
+          "url": "https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf"
+        }
+      ],
+      "duration_ms": 221570,
+      "name": "Akhirah",
+      "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Nothing's Changed",
-        "url": "https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS"
-      },
-      "artists": [
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Nothing's Changed",
-      "url": "https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "duck duck goose",
         "url": "https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 192000,
       "name": "duck duck goose",
       "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Nothing's Changed",
+        "url": "https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS"
+      },
+      "artists": [
+        {
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Nothing's Changed",
+      "url": "https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Mad About Bars - S5-E8",
-        "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        },
-        {
-          "name": "Kenny Allstar",
-          "url": "https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV"
-        }
-      ],
-      "duration_ms": 125995,
-      "name": "Mad About Bars - S5-E8 Pt2",
-      "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Deleted (Alfonzo)",
         "url": "https://open.spotify.com/album/0RLhWZNL0pkURtBvO7vmDF"
       },
@@ -1347,6 +1323,30 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Mad About Bars - S5-E8",
+        "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        },
+        {
+          "name": "Kenny Allstar",
+          "url": "https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV"
+        }
+      ],
+      "duration_ms": 125995,
+      "name": "Mad About Bars - S5-E8 Pt2",
+      "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Scorpio Trait",
         "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
       },
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Drunk and Confused 2.0",
         "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
       },
@@ -1407,6 +1423,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Next Up - S3-E47",
         "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
@@ -1423,22 +1455,6 @@
       "duration_ms": 141740,
       "name": "Next Up - S3-E47, Pt.1",
       "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+        "name": "I Thought I'd Die In Your Arms",
+        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "I Thought I'd Die In Your Arms",
-        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 134193,
       "name": "Again",
       "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 97436,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1575,38 +1591,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 97436,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "2:30AM",
-        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 182937,
-      "name": "2:30AM",
-      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "2:30AM",
+        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 182937,
+      "name": "2:30AM",
+      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 80613,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2025-10-10 12:01:08",

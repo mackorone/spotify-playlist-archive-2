@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1644693,
+  "num_followers": 1644830,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
+        "name": "Never Let Go (Of Me) [Heist Edit]",
+        "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "duration_ms": 94028,
+      "name": "Never Let Go (Of Me) - Slowed",
+      "url": "https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
         "name": "PURPLE ICON (CHOPNOTSLOP REMIX)",
         "url": "https://open.spotify.com/album/2hLRqbKFipxAUgEMaV0k4O"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
-        "name": "Never Let Go (Of Me) [Heist Edit]",
-        "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
+        "name": "3:15 (OG, Slowed Down + Reverb, Sped Up)",
+        "url": "https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV"
       },
       "artists": [
         {
-          "name": "Baltra",
-          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 94028,
-      "name": "Never Let Go (Of Me) - Slowed",
-      "url": "https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK"
+      "duration_ms": 195428,
+      "name": "3:15 - Slowed Down + Reverb",
+      "url": "https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP"
     },
     {
       "added_at": "2026-06-11 16:08:55",
@@ -899,22 +915,6 @@
       "duration_ms": 134000,
       "name": "WASTE - Slowed Version",
       "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
-        "name": "3:15 (OG, Slowed Down + Reverb, Sped Up)",
-        "url": "https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "3:15 - Slowed Down + Reverb",
-      "url": "https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP"
     },
     {
       "added_at": "2026-06-11 16:08:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmLnyEEapP8.md) - [plain]
 
 > Adventure begins at retirement\. The official soundtrack and score of The Boroughs, where you'll have the time of your life! Now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,281 likes - 33 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,309 likes - 33 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

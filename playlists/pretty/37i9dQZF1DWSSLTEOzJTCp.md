@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > Spotify editors' picks for the best bass songs of 2025\. Featuring Skrillex 🤘
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,910 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,917 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 60 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
 | 61 | [WAITING](https://open.spotify.com/track/4K4itwcuTopegq8qWQnRzk) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [WAITING](https://open.spotify.com/album/2iYFhXy1kMSJwxvd2OB4YM) | 4:00 |
 | 62 | [On Repeat](https://open.spotify.com/track/3omJaHrNFLXojdXfDiuZr3) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On Repeat](https://open.spotify.com/album/3I2lDwSVxoaXWo8FMtWjtR) | 2:01 |
-| 63 | [HOOLIGANS](https://open.spotify.com/track/0bcoPdat6SIiixawZvWNws) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [HOOLIGANS](https://open.spotify.com/album/4assuAhpOy71OEyYQqhIJT) | 2:07 |
+| 63 | [HOOLIGANS](https://open.spotify.com/track/0bcoPdat6SIiixawZvWNws) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l) | [HOOLIGANS](https://open.spotify.com/album/4assuAhpOy71OEyYQqhIJT) | 2:07 |
 | 64 | [Healing](https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Healing](https://open.spotify.com/album/3lt8HF91bthKnbiGO1uN83) | 2:50 |
 | 65 | [Around The World \(La La La\)](https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Around The World \(La La La\)](https://open.spotify.com/album/4gG3KDbKZX4wHJvOM4z1WH) | 3:37 |
 | 66 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 |

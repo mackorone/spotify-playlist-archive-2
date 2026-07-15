@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,794 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,800 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 35 | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3) | 3:37 |
 | 36 | [Toastee](https://open.spotify.com/track/61l0rngjY01On8ZlgiLYCL) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Wave Gods 2: Cosmos Brothers](https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU) | 2:43 |
 | 37 | [I Wanna Rock](https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [I Wanna Rock](https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z) | 3:44 |
-| 38 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
+| 38 | [Is Loving Really Bad?](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad?](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 39 | [ROLLIN](https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:29 |
 | 40 | [Put Em On](https://open.spotify.com/track/7KXUTtTH2kulxuMfPXdBvR) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Put Em On](https://open.spotify.com/album/6NBL3eBNlPlt6Aawn6Djkw) | 3:38 |
 | 41 | [Talk Shows \(feat\. Raekwon\)](https://open.spotify.com/track/1RSRsuzoI486TlrGI8lJDC) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [The Plugs I Met 2.5](https://open.spotify.com/album/3dE6joteTJNZV7sRu9ps6t) | 2:30 |

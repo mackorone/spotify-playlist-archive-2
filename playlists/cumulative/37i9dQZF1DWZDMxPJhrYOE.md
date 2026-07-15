@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,184 songs - 2 day 13 hr 46 min
+1,185 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Jeg Vil Hjem](https://open.spotify.com/track/2aA9cIKoK3wVKb9PVoJW5L) | [Emma Winther](https://open.spotify.com/artist/2ekgiJGJ8TQVbMSaWNIzbv) | [Jeg Vil Hjem](https://open.spotify.com/album/15XkaR6Y021rp7UgsUvtUY) | 2:29 | 2024-11-21 | 2024-12-06 |
 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 | 2026-01-15 | 2026-04-18 |
 | [Jordskælv](https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Jordskælv](https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm) | 3:05 | 2026-06-26 |  |
+| [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 | 2026-07-09 |  |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-08-07 | 2025-10-17 |
 | [Just In Case](https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Just In Case](https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4) | 2:46 | 2025-03-20 | 2025-06-20 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-29 | 2025-08-29 |
@@ -1175,7 +1176,7 @@
 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 | 2025-10-30 | 2026-01-25 |
 | [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 | 2025-04-23 | 2025-07-18 |
 | [Yellow Bike](https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr) | [Yellow Bike](https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba) | 3:20 | 2025-04-10 | 2025-04-18 |
-| [Yellow Top](https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Yellow Top](https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S) | 2:41 | 2026-07-09 |  |
+| [Yellow Top](https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Yellow Top](https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S) | 2:41 | 2026-07-09 | 2026-07-15 |
 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 | 2025-09-18 | 2026-01-02 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-07-01 | 2024-08-01 |
 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 | 2024-11-21 | 2025-01-31 |

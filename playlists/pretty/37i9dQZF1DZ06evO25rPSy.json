@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25223,
+  "num_followers": 25225,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAC1X+haaUKpjFm0cN5lBHsl",
+  "snapshot_id": "alQqgAAAAAB/zos8bIO1oG+UvvCO2Bxc",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Recu\u00e9stame",
-      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 237573,
       "name": "Buscando Raz\u00f3n",
       "url": "https://open.spotify.com/track/6AXzOb7rKHui82CU8Q5WNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Recu\u00e9stame",
+      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 248346,
-      "name": "Tren Sexual",
-      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
+      "duration_ms": 273933,
+      "name": "Cuando El Sol Va A Salir",
+      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 273933,
-      "name": "Cuando El Sol Va A Salir",
-      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
+      "duration_ms": 248346,
+      "name": "Tren Sexual",
+      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
     },
     {
       "added_at": null,

@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Nerd Connection\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: MRCH\(윤마치\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,923 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,953 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cool K'IDs Rock: 이승윤 Takeover](https://open.spotify.com/track/6oyMw8cQ6EeRvzevg9rZSm) | [이승윤](https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4) | [Cool K'IDs Rock: 이승윤 Takeover](https://open.spotify.com/album/0egspcYYHEkAAZhvibhgaR) | 0:03 |
-| 2 | [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 |
-| 3 | [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 |
-| 4 | [Ivy](https://open.spotify.com/track/6wAJpkOPk0mZRCsue9W6X1) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Ivy](https://open.spotify.com/album/2SWsW9JZ3fHmfpifUP6kDL) | 4:35 |
+| 2 | [documentary](https://open.spotify.com/track/171mGT1HdxM2HdqZrWNY31) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:16 |
+| 3 | [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 |
+| 4 | [Left to Try](https://open.spotify.com/track/7MAPkD3vZKn64KW1N8YmPh) | [Julywantsmore](https://open.spotify.com/artist/0T7h3NCSaAyO9XfyguJvTT) | [Left to Try](https://open.spotify.com/album/2zHZIjcH1M0Pq2XCMAbG22) | 3:36 |
 | 5 | [blue daisy \(feat\. Mulasaki Ima\)](https://open.spotify.com/track/3Fm1m14KmAljsk4CSNJe81) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [can't be blue](https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam) | 3:25 |
-| 6 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
-| 7 | [Summer Equation](https://open.spotify.com/track/35cHw3u8SKKmjlunF9yWmR) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [Summer Equation](https://open.spotify.com/album/7vxxHrc0G4FVWoBsG8auNQ) | 2:51 |
-| 8 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 |
-| 9 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
-| 10 | [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 |
+| 6 | [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 |
+| 7 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
+| 8 | [It Comes Back](https://open.spotify.com/track/1DvxyzGPAH7SK8osEzeJic) | [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF) | [Petrichor](https://open.spotify.com/album/6FKkjyDABSBbad5ZEQ8Whk) | 2:57 |
+| 9 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 |
+| 10 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
 | 11 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 |
 | 12 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
 | 13 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
@@ -30,21 +30,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 20 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 21 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
 | 22 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
-| 23 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
-| 24 | [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 |
+| 23 | [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 |
+| 24 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
 | 25 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 |
 | 26 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 |
 | 27 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 |
-| 28 | [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 |
-| 29 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
+| 28 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
+| 29 | [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 |
 | 30 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
 | 31 | [Coming Of Age Story](https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Youth](https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO) | 4:35 |
 | 32 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 33 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 |
 | 34 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
 | 35 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
-| 36 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
-| 37 | [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 |
+| 36 | [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 |
+| 37 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
 | 38 | [Flowering](https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm) | 4:11 |
 | 39 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
 | 40 | [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 50 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
 
-Snapshot ID: `AAAAAItVCI+LQ5BEc13sxF/xcn994uYP`
+Snapshot ID: `AAAAAMa/Pm0b8UXwnJqYvfbJDy///H3Y`

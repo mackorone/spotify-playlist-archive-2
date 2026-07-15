@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 98671,
+  "num_followers": 98703,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAB6lZbAub+9l7ksTK85KZzj",
+  "snapshot_id": "alQqgAAAAACsCLgsg/9LIiMxjAR9E1ud",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/169r7ouPxlMvgNZSIVBtY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
       },
@@ -387,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/169r7ouPxlMvgNZSIVBtY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Somos De Guerra",
         "url": "https://open.spotify.com/album/3nyOttSBrL1aFt70bdlGnE"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
         "url": "https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 225512,
       "name": "En Pl\u00e1ticas (Los Hermanos) [En Vivo]",
       "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 187119,
-      "name": "Coordinando Gente",
-      "url": "https://open.spotify.com/track/3zXHraACnTEbNmtv6ncDeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 187119,
+      "name": "Coordinando Gente",
+      "url": "https://open.spotify.com/track/3zXHraACnTEbNmtv6ncDeF"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Fletes",
+        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 111186,
+      "name": "Los Fletes",
+      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRAVES\u00cdA",
         "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 170546,
       "name": "Agarrense De Los Pelos",
       "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Fletes",
-        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 111186,
-      "name": "Los Fletes",
-      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
       "duration_ms": 118656,
       "name": "El 50 - En Vivo",
       "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bienvenidos a Durango (En Vivo)",
-        "url": "https://open.spotify.com/album/3ESxQqYpPl6X1lppH2W6qS"
-      },
-      "artists": [
-        {
-          "name": "Arley Perez",
-          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 163084,
-      "name": "De Ah\u00ed Pal Real (En Vivo)",
-      "url": "https://open.spotify.com/track/0S871eJczQPGefjUryFPcD"
     },
     {
       "added_at": null,
@@ -939,6 +919,22 @@
       "duration_ms": 216746,
       "name": "Que Emoci\u00f3n",
       "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 154318,
+      "name": "Como No Quererte",
+      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

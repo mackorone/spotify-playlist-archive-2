@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 415320,
+  "num_followers": 415463,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Mediterranea (Dumar Remix)",
-        "url": "https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4"
+        "name": "Another Life (LP)",
+        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
       },
       "artists": [
         {
-          "name": "Giuni Russo",
-          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
-        },
-        {
-          "name": "Dumar",
-          "url": "https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba"
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
         }
       ],
-      "duration_ms": 184672,
-      "name": "Mediterranea - Dumar Remix",
-      "url": "https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx"
+      "duration_ms": 432080,
+      "name": "Another Life - Original",
+      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -539,18 +535,22 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Another Life (LP)",
-        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
+        "name": "Mediterranea (Dumar Remix)",
+        "url": "https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4"
       },
       "artists": [
         {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+          "name": "Giuni Russo",
+          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
+        },
+        {
+          "name": "Dumar",
+          "url": "https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba"
         }
       ],
-      "duration_ms": 432080,
-      "name": "Another Life - Original",
-      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
+      "duration_ms": 184672,
+      "name": "Mediterranea - Dumar Remix",
+      "url": "https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "I Need You Tonite / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
-      },
-      "artists": [
-        {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
-        }
-      ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200782,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "I Need You Tonite / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+        }
+      ],
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
-      },
-      "artists": [
-        {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
-        }
-      ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "Dedicated To The Moon",
         "url": "https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 290866,
       "name": "Easy Lady",
       "url": "https://open.spotify.com/track/2tHiQoEBpbwpoPJQ435LJ8"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+      },
+      "artists": [
+        {
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+        }
+      ],
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
-      },
-      "artists": [
-        {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "Napoletana (Dance Rituals)",
         "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 224564,
       "name": "Napoletana - Dance Rituals",
       "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+      },
+      "artists": [
+        {
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2026-07-09 22:02:42",

@@ -49192,10 +49192,28 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180767,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ"
     },
     {
       "album": {

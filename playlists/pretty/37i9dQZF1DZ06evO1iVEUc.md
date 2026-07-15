@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,836 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,837 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 24 | [It's Too Late](https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:08 |
 | 25 | [Backup Plan](https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Backup Plan](https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz) | 3:26 |
 | 26 | [Do What U Gotta Do](https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Do What U Gotta Do](https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H) | 3:24 |
-| 27 | [Go Back To Your Life](https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 1:22 |
-| 28 | [Somaw](https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [London Ko](https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C) | 3:22 |
+| 27 | [Somaw](https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [London Ko](https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C) | 3:22 |
+| 28 | [Go Back To Your Life](https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 1:22 |
 | 29 | [In the Air Tonight](https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:05 |
 | 30 | [Love Of My Life Worldwide](https://open.spotify.com/track/7sfv48GFGTACbipv2osobB) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Worldwide Underground](https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ) | 5:26 |
 | 31 | [Stay For A While \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 43 | [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 |
 | 44 | [Black Magic](https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 4:28 |
 | 45 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 |
-| 46 | [Jam for the Ladies](https://open.spotify.com/track/2MGnkIWA0T94GEGfjx14Be) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [18 & 18 B\-Sides](https://open.spotify.com/album/2moGNpXgrcBzIF5M1PqF4K) | 3:21 |
-| 47 | [Come Home \(Live With Me\)](https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:57 |
-| 48 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 |
+| 46 | [Come Home \(Live With Me\)](https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:57 |
+| 47 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 |
+| 48 | [Jam for the Ladies](https://open.spotify.com/track/2MGnkIWA0T94GEGfjx14Be) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [18 & 18 B\-Sides](https://open.spotify.com/album/2moGNpXgrcBzIF5M1PqF4K) | 3:21 |
 | 49 | [Dream](https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:29 |
 | 50 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 |
 
-Snapshot ID: `alLZAAAAAABP8UZbC5cNBdK1m7jz6Hc+`
+Snapshot ID: `alQqgAAAAACKiSL/pynhmYMKt9f4xc/Z`

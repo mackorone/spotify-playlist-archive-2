@@ -1,12 +1,12 @@
 {
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
-  "num_followers": 26419,
+  "num_followers": 26451,
   "original_name": "This Is Sister Rosetta Tharpe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAA0gE5WyuxtKx6R81UkEbrF",
+  "snapshot_id": "alQqgAAAAABfepn/9WlJxOGgEoBUw1xY",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles, Vol. 4",
-        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "Feed Me Jesus",
-      "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 119744,
       "name": "99 1/2 Won't Do",
       "url": "https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel Of The Blues",
+        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Nobody's Fault But Mine",
+      "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Of The Blues",
-        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+        "name": "The Decca Singles, Vol. 4",
+        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Nobody's Fault But Mine",
-      "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
+      "duration_ms": 183950,
+      "name": "Feed Me Jesus",
+      "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sister On Tour",
         "url": "https://open.spotify.com/album/096yrvEmbVGUeC9TpWUTPO"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirituals In Rhythm",
         "url": "https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 85983,
       "name": "Oh, The Joy That Came To Me",
       "url": "https://open.spotify.com/track/6HiEL8sTTAfhSNibOkghyd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Train",
-        "url": "https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
     },
     {
       "added_at": null,
@@ -559,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta Tharpe Is Wonderful",
-        "url": "https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 124739,
-      "name": "God Is Wonderful",
-      "url": "https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singing In My Soul",
         "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
       },
@@ -591,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Of The Blues",
-        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+        "name": "Gospel Train",
+        "url": "https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px"
       },
       "artists": [
         {
@@ -600,9 +568,25 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 174440,
-      "name": "Singing In My Soul",
-      "url": "https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb"
+      "duration_ms": 157573,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosetta Tharpe Is Wonderful",
+        "url": "https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 124739,
+      "name": "God Is Wonderful",
+      "url": "https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd"
     },
     {
       "added_at": null,
@@ -623,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gospel Of The Blues",
+        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 133160,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Epic: The Soundtrack",
+        "url": "https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Up Above My Head",
+      "url": "https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -635,6 +651,38 @@
       "duration_ms": 147701,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Sister Rosetta Tharpe",
+        "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Somebody's Child",
+      "url": "https://open.spotify.com/track/5U33vcXzgKsE44cHR1ECjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel Of The Blues",
+        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "Singing In My Soul",
+      "url": "https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb"
     },
     {
       "added_at": null,
@@ -659,38 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Of The Blues",
-        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 133160,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Sister Rosetta Tharpe",
-        "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Somebody's Child",
-      "url": "https://open.spotify.com/track/5U33vcXzgKsE44cHR1ECjj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 212181,
       "name": "How About You",
       "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Epic: The Soundtrack",
-        "url": "https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Up Above My Head",
-      "url": "https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE"
     },
     {
       "added_at": null,

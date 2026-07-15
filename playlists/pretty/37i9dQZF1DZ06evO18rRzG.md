@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 
 > This is Daniel Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,108 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,182 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 | 38 | [OPEN UP](https://open.spotify.com/track/40vHPre1xRPeCAuK2CNfs4) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 4:26 |
 | 39 | [Beauty & Essex \(feat\. Daniel Caesar & Unknown Mortal Orchestra\)](https://open.spotify.com/track/0cciBj4236w1xByzZvn92D) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 4:37 |
 | 40 | [Death & Taxes](https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa) | 5:05 |
-| 41 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
-| 42 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
-| 43 | [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 |
+| 41 | [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 |
+| 42 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 43 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 
-Snapshot ID: `alLZAAAAAADH6rPpzGr11boPckAHeLSU`
+Snapshot ID: `alQqgAAAAABYFZtJSaLcUbJHyXTrj837`

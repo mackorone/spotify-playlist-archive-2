@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udfae Dein Soundtrack zum Zocken \ud83c\udfae",
-  "num_followers": 148027,
+  "num_followers": 148010,
   "original_name": "Game Zone",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-03-19 13:18:35",
       "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
+    },
+    {
+      "added_at": "2026-03-19 13:18:35",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2026-03-19 13:18:35",
-      "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214147,
-      "name": "Pompeii",
-      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
     },
     {
       "added_at": "2026-03-19 13:18:35",

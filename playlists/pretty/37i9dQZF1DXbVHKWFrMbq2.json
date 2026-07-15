@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear con Mon Laferte",
-  "num_followers": 29028,
+  "num_followers": 29030,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "El Mejor Verano",
-        "url": "https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "El Mejor Verano",
-      "url": "https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "mimos",
         "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "El Mejor Verano",
+        "url": "https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 191660,
+      "name": "El Mejor Verano",
+      "url": "https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1007,42 +1007,6 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "El Verdadero",
-        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "Antiguo y moderno",
-      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "no llames lo m\u00edo nuestro",
-        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "no llames lo m\u00edo nuestro",
-      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1079,6 +1043,42 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
         "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 179533,
       "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
       "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1111,22 +1127,6 @@
       "duration_ms": 180017,
       "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "escapar de m\u00ed",
-        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "escapar de m\u00ed",
-      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Es por Amor",
-        "url": "https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "Es por Amor",
-      "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "pesimista",
         "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 234453,
       "name": "pesimista",
       "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Es por Amor",
+        "url": "https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Es por Amor",
+      "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "calma",
-        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
-      },
-      "artists": [
-        {
-          "name": "Lito",
-          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
-        }
-      ],
-      "duration_ms": 119336,
-      "name": "calma",
-      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "Las Cosas Simples",
         "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 247015,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "calma",
+        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
+        }
+      ],
+      "duration_ms": 119336,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
     },
     {
       "added_at": "2026-07-03 03:00:43",

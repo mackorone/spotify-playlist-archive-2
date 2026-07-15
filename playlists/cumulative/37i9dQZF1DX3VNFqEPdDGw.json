@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 170000,
       "name": "Bhangra Challenge",
       "url": "https://open.spotify.com/track/02DPibwhdEZ6JSsGjX0zPr"
@@ -5560,6 +5560,32 @@
       "duration_ms": 221346,
       "name": "Like This",
       "url": "https://open.spotify.com/track/5FnUJGAnUJti1D4X8G56Ow"
+    },
+    {
+      "album": {
+        "name": "Locket (From\"Carry On Jatta 4\")",
+        "url": "https://open.spotify.com/album/3ReL5d1EeSNyNS2jWvVVlS"
+      },
+      "artists": [
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        },
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232524,
+      "name": "Locket (From\"Carry On Jatta 4\")",
+      "url": "https://open.spotify.com/track/1VBbeDkPStponyHqQkyc5j"
     },
     {
       "album": {

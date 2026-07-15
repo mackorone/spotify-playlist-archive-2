@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ayogya 2",
-  "num_followers": 70658,
+  "num_followers": 70668,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZ/r+PXxUm7xROvgsSAkJqijIZ8",
+  "snapshot_id": "AAAAAEFPVatZP42j7adoIYQiER+iWz4j",
   "tracks": [
     {
       "added_at": "2026-07-09 07:08:49",
@@ -33,22 +33,6 @@
       "url": "https://open.spotify.com/track/1gfbRYuRfRyDH8ye3o1F3I"
     },
     {
-      "added_at": "2026-07-03 16:54:26",
-      "album": {
-        "name": "Ladies & Ladies (From \"Toxic - Kannada\")",
-        "url": "https://open.spotify.com/album/1xqygKUJ7RgZseuqzKD6dv"
-      },
-      "artists": [
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 84363,
-      "name": "Ladies & Ladies - From \"Toxic - Kannada\"",
-      "url": "https://open.spotify.com/track/7kSB1aWQibLFoaouIlHIza"
-    },
-    {
       "added_at": "2026-06-29 11:20:08",
       "album": {
         "name": "Baa KARAVALIGE (From \"KARAVALI\")",
@@ -71,6 +55,26 @@
       "duration_ms": 184499,
       "name": "Baa KARAVALIGE (From \"KARAVALI\")",
       "url": "https://open.spotify.com/track/2m3NvJMD7tWv0Y3rm2TyGZ"
+    },
+    {
+      "added_at": "2026-03-02 07:46:32",
+      "album": {
+        "name": "Tabaahi (From \"Toxic - Kannada\")",
+        "url": "https://open.spotify.com/album/7eGwoEFYq2o7BHhxQKsJ0h"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 257604,
+      "name": "Tabaahi - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/4gzQdQ2frmP1dWugnOHJKb"
     },
     {
       "added_at": "2026-05-04 11:03:23",
@@ -157,42 +161,6 @@
       "url": "https://open.spotify.com/track/7BEASDyx45QuSWhq8LWFrb"
     },
     {
-      "added_at": "2026-07-13 06:55:03",
-      "album": {
-        "name": "Vibe Of Graamaayana (From \"Graamaayana\")",
-        "url": "https://open.spotify.com/album/4rdFMFVgpOtvaXAHO3oiKQ"
-      },
-      "artists": [
-        {
-          "name": "Arun M.C",
-          "url": "https://open.spotify.com/artist/6fx6V6qKHwn2j7Uyq0K7it"
-        },
-        {
-          "name": "Poornachandra Tejaswi SV",
-          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
-        },
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Sachin Araballi",
-          "url": "https://open.spotify.com/artist/06Xt8RZPqsPgKDrU954ZFo"
-        },
-        {
-          "name": "Vihan",
-          "url": "https://open.spotify.com/artist/6CWLxlEvYcPP1ye6hCEgoY"
-        },
-        {
-          "name": "Prof. Krishne Gowda",
-          "url": "https://open.spotify.com/artist/62KWRzZwPqPb3P39bpe7tD"
-        }
-      ],
-      "duration_ms": 364000,
-      "name": "Vibe Of Graamaayana (From \"Graamaayana\")",
-      "url": "https://open.spotify.com/track/4iJGuZLvyso0QIqApCLQMG"
-    },
-    {
       "added_at": "2026-07-03 16:54:26",
       "album": {
         "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
@@ -237,6 +205,22 @@
       "url": "https://open.spotify.com/track/3LouCeQBvruw6t98z5NZF1"
     },
     {
+      "added_at": "2026-07-14 05:34:31",
+      "album": {
+        "name": "Sundri of the nation (From \"Ruthless Romeo\")",
+        "url": "https://open.spotify.com/album/78Gib50D5BDOtEInkT1chZ"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "Sundri of the nation (From \"Ruthless Romeo\")",
+      "url": "https://open.spotify.com/track/5gliJLCa5VSlQ7tjsCbaZS"
+    },
+    {
       "added_at": "2026-07-03 16:54:26",
       "album": {
         "name": "Preethi Kathe",
@@ -253,24 +237,32 @@
       "url": "https://open.spotify.com/track/1XQsVRqsqtmeh8YfmzaNpa"
     },
     {
-      "added_at": "2026-03-02 07:46:32",
+      "added_at": "2026-07-14 05:34:31",
       "album": {
-        "name": "Tabaahi (From \"Toxic - Kannada\")",
-        "url": "https://open.spotify.com/album/7eGwoEFYq2o7BHhxQKsJ0h"
+        "name": "Hoovina Hoovina Hoo Male (From \"Shrimathi Sindhoora\")",
+        "url": "https://open.spotify.com/album/5cJOgpmEs1hhxIpRtKaRqO"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Rajesh Ramnath",
+          "url": "https://open.spotify.com/artist/16LPsxS42glKWRU6GVoaTC"
         },
         {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Shivani Naveen",
+          "url": "https://open.spotify.com/artist/7CfAjNeEwzBDVuMTVHrJdf"
         }
       ],
-      "duration_ms": 257604,
-      "name": "Tabaahi - From \"Toxic - Kannada\"",
-      "url": "https://open.spotify.com/track/4gzQdQ2frmP1dWugnOHJKb"
+      "duration_ms": 249213,
+      "name": "Hoovina Hoovina Hoo Male (From \"Shrimathi Sindhoora\")",
+      "url": "https://open.spotify.com/track/7jBDEdHoSJAZz4KZWjGOeg"
     },
     {
       "added_at": "2026-07-06 07:00:22",
@@ -447,6 +439,22 @@
       "duration_ms": 201614,
       "name": "Ra Ga Sa Da Aa (From \"Mother Promise\")",
       "url": "https://open.spotify.com/track/0b541rdd0Vr7xxiaywFA8G"
+    },
+    {
+      "added_at": "2026-07-03 16:54:26",
+      "album": {
+        "name": "Ladies & Ladies (From \"Toxic - Kannada\")",
+        "url": "https://open.spotify.com/album/1xqygKUJ7RgZseuqzKD6dv"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        }
+      ],
+      "duration_ms": 84363,
+      "name": "Ladies & Ladies - From \"Toxic - Kannada\"",
+      "url": "https://open.spotify.com/track/7kSB1aWQibLFoaouIlHIza"
     },
     {
       "added_at": "2026-06-22 16:20:26",
@@ -1409,6 +1417,42 @@
       "url": "https://open.spotify.com/track/6fjCV0L2oJpwjjpDC7H1qh"
     },
     {
+      "added_at": "2026-07-13 06:55:03",
+      "album": {
+        "name": "Vibe Of Graamaayana (From \"Graamaayana\")",
+        "url": "https://open.spotify.com/album/4rdFMFVgpOtvaXAHO3oiKQ"
+      },
+      "artists": [
+        {
+          "name": "Arun M.C",
+          "url": "https://open.spotify.com/artist/6fx6V6qKHwn2j7Uyq0K7it"
+        },
+        {
+          "name": "Poornachandra Tejaswi SV",
+          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Sachin Araballi",
+          "url": "https://open.spotify.com/artist/06Xt8RZPqsPgKDrU954ZFo"
+        },
+        {
+          "name": "Vihan",
+          "url": "https://open.spotify.com/artist/6CWLxlEvYcPP1ye6hCEgoY"
+        },
+        {
+          "name": "Prof. Krishne Gowda",
+          "url": "https://open.spotify.com/artist/62KWRzZwPqPb3P39bpe7tD"
+        }
+      ],
+      "duration_ms": 364000,
+      "name": "Vibe Of Graamaayana (From \"Graamaayana\")",
+      "url": "https://open.spotify.com/track/4iJGuZLvyso0QIqApCLQMG"
+    },
+    {
       "added_at": "2026-04-30 09:33:19",
       "album": {
         "name": "KD (Original Motion Picture Soundtrack)",
@@ -1701,34 +1745,6 @@
       "url": "https://open.spotify.com/track/1vmsRpYPz6wY7rjZIGE3Y6"
     },
     {
-      "added_at": "2026-04-01 12:50:34",
-      "album": {
-        "name": "Benne Bekeno (From \"Yuva Sarkar\")",
-        "url": "https://open.spotify.com/album/4qFChMi0v2Iq4e9Ll05f3c"
-      },
-      "artists": [
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "Martin Clement",
-          "url": "https://open.spotify.com/artist/1a11DvQPDIhBsfUnU1On9L"
-        },
-        {
-          "name": "Ranganath",
-          "url": "https://open.spotify.com/artist/74xuVhEKqYBzMcOSbgRIvn"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Benne Bekeno (From \"Yuva Sarkar\")",
-      "url": "https://open.spotify.com/track/40jt6tLVfTTSgn0Z8a9Trt"
-    },
-    {
       "added_at": "2026-04-13 07:06:35",
       "album": {
         "name": "Yayathi Yayathi (From \"Moda Kavida Vaatavarana\")",
@@ -1751,30 +1767,6 @@
       "duration_ms": 194196,
       "name": "Yayathi Yayathi (From \"Moda Kavida Vaatavarana\")",
       "url": "https://open.spotify.com/track/2BYMzTceL3ZD3TmIFeNbv9"
-    },
-    {
-      "added_at": "2026-04-01 12:48:12",
-      "album": {
-        "name": "Namma Veerane [From \"Pallichattambi (Kannada)\"]",
-        "url": "https://open.spotify.com/album/1qmuCS3nue9LFGytEayXv6"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Vedanth Athishay Jain",
-          "url": "https://open.spotify.com/artist/35BkwZi98FvEfsvIkPfgUZ"
-        },
-        {
-          "name": "Supreeth Phalguna",
-          "url": "https://open.spotify.com/artist/5QlgyJNe32Beofvbw7RhsA"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Namma Veerane (From \"Pallichattambi (Kannada)\")",
-      "url": "https://open.spotify.com/track/1RxU7FkvGfEAI4OCAxH7a6"
     },
     {
       "added_at": "2026-04-01 12:47:01",

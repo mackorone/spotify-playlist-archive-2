@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,710 likes - 105 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,724 likes - 105 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

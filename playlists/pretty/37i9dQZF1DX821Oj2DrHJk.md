@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,450 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,458 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 48 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
 | 49 | [Rock 'n' Roll Fantasy \- 2009 Remaster](https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Desolation Angels \(2009 Remaster\)](https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp) | 3:17 |
 | 50 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
-| 51 | [Let's Go](https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 3:33 |
-| 52 | [Mama Told Me \(Not To Come\) \- Single Version](https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [It Ain't Easy](https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l) | 3:18 |
+| 51 | [Mama Told Me \(Not To Come\) \- Single Version](https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [It Ain't Easy](https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l) | 3:18 |
+| 52 | [Let's Go](https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 3:33 |
 | 53 | [I Don't Like Mondays](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [The Fine Art Of Surfacing](https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts) | 4:19 |
 | 54 | [Let It Ride](https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:27 |
 | 55 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 56 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 |
 | 57 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
-| 58 | [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 |
-| 59 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
+| 58 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
+| 59 | [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 |
 | 60 | [Cat Scratch Fever](https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Cat Scratch Fever](https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB) | 3:39 |
 | 61 | [Pretty Vacant](https://open.spotify.com/track/21rz5LMBiIpQWRGQcb0xIg) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:17 |
 | 62 | [Shine a Little Love](https://open.spotify.com/track/5X6HkkTe8mUwkHo3Lccr6E) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:42 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 71 | [See My Baby Jive \- 2006 Remaster](https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [Wizzard Brew](https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N) | 5:02 |
 | 72 | [All Right Now](https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Songs Of Yesterday](https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK) | 3:28 |
 | 73 | [Metal Guru](https://open.spotify.com/track/0HoMdjB1XwwMlyPfTV7DEj) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The Slider](https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE) | 2:29 |
-| 74 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
-| 75 | [Join Together](https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [20th Century Masters: The Millennium Collection: Best Of The Who](https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC) | 4:24 |
+| 74 | [Join Together](https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [20th Century Masters: The Millennium Collection: Best Of The Who](https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC) | 4:24 |
+| 75 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 76 | [Sunday Girl](https://open.spotify.com/track/23yv078f5kc08Kj6DMpO0t) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Mike Chapman](https://open.spotify.com/artist/7dXUks6yUrIy5IYKFn45iq) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:05 |
 | 77 | [Do Anything You Want To](https://open.spotify.com/track/2lAbLCbTklfVd0YqeM3hSI) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Black Rose \(Deluxe Edition\)](https://open.spotify.com/album/74J4goYLcEur0WFYZeu4Js) | 3:51 |
 | 78 | [Brown Sugar \- 2005 Digital Remaster](https://open.spotify.com/track/7bdBuquSmLkOR81YMSuRV5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Made In The Shade](https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI) | 3:49 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 94 | [Lola \- Remastered](https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround / Percy](https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK) | 4:02 |
 | 95 | [Don't Stop](https://open.spotify.com/track/4SXU3lUZ1eb4JWWbkQw43Y) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 3:12 |
 | 96 | [Rubber Bullets](https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH) | 5:18 |
-| 97 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 |
-| 98 | [Bad Bad Boy](https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg) | 3:58 |
-| 99 | [Run for Home](https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC) | [Lindisfarne](https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt) | [Back and Fourth](https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ) | 4:20 |
+| 97 | [Run for Home](https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC) | [Lindisfarne](https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt) | [Back and Fourth](https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ) | 4:20 |
+| 98 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 |
+| 99 | [Bad Bad Boy](https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg) | 3:58 |
 | 100 | [Girls Talk](https://open.spotify.com/track/15jo3oNS5gqlJ3RFp97giQ) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [Chronicles 1968\-1984](https://open.spotify.com/album/1tfEee9DdUwUbddcYasTVL) | 3:29 |
 
 Snapshot ID: `AAAAAEFYZSgI1OZIAzBDfHfjhN47BSsp`

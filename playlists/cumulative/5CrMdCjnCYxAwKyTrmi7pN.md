@@ -4,7 +4,7 @@
 
 > Geniet van de zon met deze lijst vol zomer vibes! Met muziek van Flaire, HUGEL, 54 Ultra en meer...
 
-388 songs - 21 hr 23 min
+389 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-07-17 |  |
 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-12 | 2026-01-15 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-09 | 2026-02-21 |
-| [Ramenez la coupe à la maison](https://open.spotify.com/track/45eY7Qi2PDUs8WJEhjGWdN) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Ramenez la coupe à la maison](https://open.spotify.com/album/0Dzpgp18I60Bmgdv8IOaxv) | 3:55 | 2026-07-01 |  |
+| [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2026-07-14 |  |
+| [Ramenez la coupe à la maison](https://open.spotify.com/track/45eY7Qi2PDUs8WJEhjGWdN) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Ramenez la coupe à la maison](https://open.spotify.com/album/0Dzpgp18I60Bmgdv8IOaxv) | 3:55 | 2026-07-01 | 2026-07-15 |
 | [Reclusive](https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Reclusive](https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz) | 3:06 | 2026-01-23 |  |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\) \[Live at London Stadium\] \[Extended Intro Version\]](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 | 2026-01-23 |  |
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-07-17 |  |

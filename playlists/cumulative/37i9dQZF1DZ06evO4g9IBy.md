@@ -4,7 +4,7 @@
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 54 min
+69 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Trouble in Shangri\-La](https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:49 | 2025-03-08 |  |
 | [Whenever I Call You "Friend" \(feat\. Stevie Nicks\)](https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Nightwatch](https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj) | 3:57 | 2025-03-08 |  |
 | [Whole Lotta Trouble](https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:31 | 2025-03-08 | 2025-11-17 |
-| [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(Deluxe Edition\)](https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI) | 6:09 | 2025-03-08 |  |
+| [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/0gzI0zfUaoXFVNTUNQE9ad) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 6:09 | 2026-07-15 |  |
+| [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(Deluxe Edition\)](https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI) | 6:09 | 2025-03-08 | 2026-07-15 |
 | [Without a Leg to Stand On](https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:10 | 2025-09-21 |  |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

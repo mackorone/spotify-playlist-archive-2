@@ -1,6 +1,6 @@
 {
   "description": "The aux for every college party. Cover: Benson Boone and YUNGBLUD",
-  "num_followers": 368622,
+  "num_followers": 368652,
   "original_name": "Frat Party",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236253,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Work Out",
-      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
+        "name": "Cannibal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
-        "name": "Cannibal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 227073,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -2047,18 +2047,22 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 169344,
-      "name": "Transportin'",
-      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -2083,22 +2087,18 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+      "duration_ms": 169344,
+      "name": "Transportin'",
+      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -2131,6 +2131,38 @@
       "duration_ms": 149546,
       "name": "Wow.",
       "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "SremmLife",
+        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "This Could Be Us",
+      "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "Cannibal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "We R Who We R",
+      "url": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -2171,38 +2203,6 @@
       "duration_ms": 280173,
       "name": "Hate Bein' Sober",
       "url": "https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
-        "name": "Cannibal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "We R Who We R",
-      "url": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
-        "name": "SremmLife",
-        "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "This Could Be Us",
-      "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -2559,26 +2559,6 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -2595,6 +2575,26 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -2787,6 +2787,22 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Starships",
+      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -2803,22 +2819,6 @@
       "duration_ms": 153800,
       "name": "Shoota (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded",
-        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Starships",
-      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -3311,6 +3311,22 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
+        "name": "Lasers",
+        "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "The Show Goes On",
+      "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
         "name": "Lights Down Low (feat. Waka Flocka Flame)",
         "url": "https://open.spotify.com/album/4BV65TtMrkb0aUCTmkJEpS"
       },
@@ -3327,22 +3343,6 @@
       "duration_ms": 186120,
       "name": "Lights Down Low (feat. Waka Flocka Flame)",
       "url": "https://open.spotify.com/track/0hkR93a0LriV2CQUhSXw3h"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
-        "name": "Lasers",
-        "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "The Show Goes On",
-      "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -3367,22 +3367,6 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
-    },
-    {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
       },
@@ -3399,6 +3383,22 @@
       "duration_ms": 229210,
       "name": "Taste (feat. Offset)",
       "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2025-03-18 22:42:47",
@@ -3673,22 +3673,6 @@
       "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
     },
     {
-      "added_at": "2025-03-18 22:42:47",
-      "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
       "added_at": "2025-03-28 00:06:04",
       "album": {
         "name": "messy",
@@ -3707,22 +3691,34 @@
     {
       "added_at": "2025-03-18 22:42:47",
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
         }
       ],
-      "duration_ms": 213132,
-      "name": "Roll in Peace (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
+    },
+    {
+      "added_at": "2025-03-18 22:42:47",
+      "album": {
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
     }
   ],
   "unique_name": "Frat Party",

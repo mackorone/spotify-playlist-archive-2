@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,842 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,882 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 66 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 |
 | 67 | [Gustito](https://open.spotify.com/track/6bnRaOOeHjKAMNMGebdkn6) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Gustito](https://open.spotify.com/album/70HzCjyY0o9hY8OssJfNM8) | 2:55 |
 | 68 | [Estoy Aquí \- Remix](https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Estoy Aquí \(Remix\)](https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy) | 2:39 |
-| 69 | [UM CORAÇÃO](https://open.spotify.com/track/6r42UuAbQBjgeV8goH0vTR) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [UM CORAÇÃO](https://open.spotify.com/album/7KBgtmjaOsqG713ktl7bsU) | 1:46 |
-| 70 | [MONOBLOCK](https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MONOBLOCK](https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1) | 2:06 |
+| 69 | [MONOBLOCK](https://open.spotify.com/track/4P5gQPkLP15FZEZ0gHHM4l) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MONOBLOCK](https://open.spotify.com/album/3zQ2R9T4fK8wv2AHAqsLW1) | 2:06 |
+| 70 | [UM CORAÇÃO](https://open.spotify.com/track/6r42UuAbQBjgeV8goH0vTR) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [UM CORAÇÃO](https://open.spotify.com/album/7KBgtmjaOsqG713ktl7bsU) | 1:46 |
 | 71 | [NAMORAR PELADO](https://open.spotify.com/track/1YrwCp6p69CuwiY2JTIZ3e) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [NAMORAR PELADO](https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ) | 3:10 |
 | 72 | [Feeling](https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Feeling](https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo) | 2:53 |
 | 73 | [Dame Toma](https://open.spotify.com/track/7j0pRdDEOcr8fwonHy5QCc) | [CLUB29](https://open.spotify.com/artist/0znqrbxQ21Vdr4bhrbzPH4), [Manu Dal Santo](https://open.spotify.com/artist/0b1vlMqqnLOtD28hVLVvzB), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Boschin](https://open.spotify.com/artist/1VBrrTVQwAdCZ0panaIhHo) | [Dame Toma](https://open.spotify.com/album/2si8k8pdBqNEX1MmcD6kUZ) | 2:10 |

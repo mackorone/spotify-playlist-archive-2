@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,492 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,518 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 41 | [El Chico \- En Vivo](https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR) | 2:27 |
 | 42 | [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 |
 | 43 | [Que Te Vaya Bien](https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi) | 3:58 |
-| 44 | [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 |
-| 45 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 |
+| 44 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 |
+| 45 | [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 |
 | 46 | [El Pocho \- En Vivo](https://open.spotify.com/track/3JbmQUutdkiOrW70mN6yUj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/7eSm5HJazbVWs2NRjOTE5v) | 2:48 |
 | 47 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 |
 | 48 | [El 3](https://open.spotify.com/track/4rTn8d1MKx0306cqiKrOlM) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Corridos](https://open.spotify.com/album/4KL4KUntyx980R5Lix6Jc5) | 3:39 |
 | 49 | [Amarte](https://open.spotify.com/track/6YSaa2DOow4nMXj6zPiDqt) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 2:40 |
 | 50 | [Gracias](https://open.spotify.com/track/1pBoAagFm4bc2Thz3OspOg) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Gracias](https://open.spotify.com/album/1sJUoP1CZBV6O5Ee19W6mE) | 4:25 |
 
-Snapshot ID: `alLZAAAAAAB84Ia2p8BYkismyClL0Kbk`
+Snapshot ID: `alQqgAAAAAAQYuI5WV2FeOxDqo2sUJNL`

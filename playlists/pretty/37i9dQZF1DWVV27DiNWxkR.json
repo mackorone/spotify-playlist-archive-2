@@ -1,6 +1,6 @@
 {
   "description": "The premier indie melancholia playlist, featuring Lana Del Rey",
-  "num_followers": 1990607,
+  "num_followers": 1990665,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,18 @@
     {
       "added_at": "2026-07-09 23:25:24",
       "album": {
-        "name": "The Gold (Phoebe Bridgers Version)",
-        "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
       },
       "artists": [
         {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 233226,
-      "name": "The Gold - Phoebe Bridgers Version",
-      "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
+      "duration_ms": 241917,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
     },
     {
       "added_at": "2026-07-09 23:25:24",
@@ -807,18 +803,22 @@
     {
       "added_at": "2026-07-09 23:25:24",
       "album": {
-        "name": "The Shepherd's Dog",
-        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
+        "name": "The Gold (Phoebe Bridgers Version)",
+        "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 241917,
-      "name": "Flightless Bird, American Mouth",
-      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
+      "duration_ms": 233226,
+      "name": "The Gold - Phoebe Bridgers Version",
+      "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
     },
     {
       "added_at": "2026-07-09 23:25:24",

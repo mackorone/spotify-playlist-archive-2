@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,681 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,683 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 31 | [Wai\` Alae](https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 2:28 |
 | 32 | [タッチ](https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ドラゴン](https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok) | 3:34 |
 | 33 | [Wailau](https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:55 |
-| 34 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 |
-| 35 | [Golden](https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Golden](https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad) | 2:55 |
-| 36 | [Bohemian Rhapsody](https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 5:54 |
+| 34 | [Bohemian Rhapsody](https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 5:54 |
+| 35 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 |
+| 36 | [Golden](https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Golden](https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad) | 2:55 |
 | 37 | [Early Morning](https://open.spotify.com/track/7HIULEtD9FG7cyACU620DN) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:50 |
-| 38 | [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 |
-| 39 | [Arigato](https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NASHVILLE SESSIONS](https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD) | 3:02 |
-| 40 | [Boy Meets Girl](https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:20 |
+| 38 | [Boy Meets Girl](https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:20 |
+| 39 | [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 |
+| 40 | [Arigato](https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NASHVILLE SESSIONS](https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD) | 3:02 |
 | 41 | [Makapu'u Sunrise](https://open.spotify.com/track/1grA2gXoL5HTKA9zp1pmnz) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:40 |
 | 42 | [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 |
-| 43 | [サムシング](https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [アクロス・ザ・ユニバース](https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3) | 4:36 |
-| 44 | [143 \(Kelly's Song\)](https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:26 |
-| 45 | [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 |
-| 46 | [Campfire](https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0) | [Wendy Wang](https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Doogie Kamealoha, M.D\. \(Original Soundtrack\)](https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p) | 2:28 |
-| 47 | [Calm Seas \- short version \(with nature\)](https://open.spotify.com/track/2sI2vLSlP8nkIbIcGjDslH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 4:47 |
+| 43 | [143 \(Kelly's Song\)](https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:26 |
+| 44 | [サムシング](https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [アクロス・ザ・ユニバース](https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3) | 4:36 |
+| 45 | [Campfire](https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0) | [Wendy Wang](https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Doogie Kamealoha, M.D\. \(Original Soundtrack\)](https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p) | 2:28 |
+| 46 | [Calm Seas \- short version \(with nature\)](https://open.spotify.com/track/2sI2vLSlP8nkIbIcGjDslH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 4:47 |
+| 47 | [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 |
 | 48 | [Hotel California \(Duet with Jake Shimabukuro\)](https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [HandPicked](https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn) | 8:05 |
 | 49 | [フラガール](https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:44 |
 | 50 | [Happy Day](https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj) | [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Time For Three](https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF) | 3:59 |
 
-Snapshot ID: `alLZAAAAAADgoeqIfwmdB1ajveLNrXbN`
+Snapshot ID: `alQqgAAAAAB6doITjxGKoNHtLPrJK5UM`

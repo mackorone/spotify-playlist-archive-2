@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Ryukk. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Lamya Almalki. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Ala Babek",
+        "url": "https://open.spotify.com/album/5z8xJi1cBR3p4lyjo1yIno"
+      },
+      "artists": [
+        {
+          "name": "Elias Setta",
+          "url": "https://open.spotify.com/artist/1mp2J36BLQVfD9nEgGRWVC"
+        },
+        {
+          "name": "Lamya Almalki",
+          "url": "https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275534,
+      "name": "Ala Babek",
+      "url": "https://open.spotify.com/track/1Nsa6NekAdqfr3cQRUV3fx"
+    },
+    {
+      "album": {
         "name": "Ala Wain",
         "url": "https://open.spotify.com/album/4WUgYuFGOsueuMDqjVnbxi"
       },
@@ -738,7 +760,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 176029,
       "name": "Asham Eblees",
       "url": "https://open.spotify.com/track/4z1XSj3cP6ULHMGfdYeAjL"

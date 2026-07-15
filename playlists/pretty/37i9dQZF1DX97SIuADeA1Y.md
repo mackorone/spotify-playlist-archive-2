@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,296 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,292 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 44 | [Loco](https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP) | [Nora & Chris](https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg), [Alex Martin](https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c) | [Loco](https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH) | 2:10 |
 | 45 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |
 | 46 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 |
-| 47 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
-| 48 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 |
+| 47 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 |
+| 48 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
 | 49 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
 | 50 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
 | 51 | [Find U \(Ready Or Not\)](https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ) | [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Find U \(Ready Or Not\)](https://open.spotify.com/album/519IjT6psFBPMdjMePkkbK) | 2:17 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 56 | [Ride Ride Ride](https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz) | [Victoria Kern](https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Ride Ride Ride](https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg) | 2:42 |
 | 57 | [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 |
 | 58 | [Fire To Smoke \(feat\. Tiffany Aris\)](https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Fire To Smoke \(feat\. Tiffany Aris\)](https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW) | 2:43 |
-| 59 | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK) | 2:28 |
-| 60 | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/track/1TEOk7DJAMfE3uadgJgTZ8) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/album/0kTaLBMa8idvVsB26NVtoV) | 2:26 |
+| 59 | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/track/1TEOk7DJAMfE3uadgJgTZ8) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/album/0kTaLBMa8idvVsB26NVtoV) | 2:26 |
+| 60 | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK) | 2:28 |
 
 Snapshot ID: `AAAAAC0jRXMwnGV4WQg7cmvgkQSmQerI`

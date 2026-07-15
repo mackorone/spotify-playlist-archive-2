@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,404 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,451 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 4 | [Mi amor es para ti](https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:53 |
 | 5 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
 | 6 | [Wendolyne](https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [La Rondalla Etc.](https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp) | 2:26 |
-| 7 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
-| 8 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
+| 7 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
+| 8 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
 | 9 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
 | 10 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:38 |
 | 11 | [Mi Matamoros Querido](https://open.spotify.com/track/1PMHd6rJgiSIcJnKaGTvIi) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Íconos 25 Éxitos](https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ) | 3:06 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 49 | [Volveré](https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego Verdaguer En Los 70's](https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp) | 4:02 |
 | 50 | [Si Supieras](https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Las Número 1 de Manoella Torres](https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM) | 3:17 |
 | 51 | [Una Lágrima \- Una Lacrima](https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Las Numero 1 De Estela Nuñez](https://open.spotify.com/album/6hTXiPN5rX7Beamc05glhq) | 3:56 |
-| 52 | [La de la Mochila Azul](https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [Personalidad](https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop) | 2:46 |
-| 53 | [No Tengo Dinero](https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Personalidad](https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7) | 3:09 |
+| 52 | [No Tengo Dinero](https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Personalidad](https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7) | 3:09 |
+| 53 | [La de la Mochila Azul](https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [Personalidad](https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop) | 2:46 |
 | 54 | [Volver Volver](https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI) | 2:57 |
 | 55 | [Mi Forma De Sentir](https://open.spotify.com/track/6MO2QUZimjbrBAGF8JXbrT) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Amor](https://open.spotify.com/album/1gVOp2EGl88lizl4rHSnnf) | 3:51 |
 | 56 | [Los nenes con los nenes](https://open.spotify.com/track/4qqsiYS4RvwJeSxnnGlYTH) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [Los Nenes con Los Nenes](https://open.spotify.com/album/1VFwdg4Yzw62omxQ7ose4t) | 2:41 |

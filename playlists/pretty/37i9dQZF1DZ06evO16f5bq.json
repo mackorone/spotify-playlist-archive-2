@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155942,
+  "num_followers": 155940,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACgkwtjzj6f551jILT9rqbG",
+  "snapshot_id": "alQqgAAAAAD2aU5IIucinFJrKZR5Bo0q",
   "tracks": [
     {
       "added_at": null,
@@ -331,34 +331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "18K",
-        "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
       },
       "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 284117,
-      "name": "Meu Mundo",
-      "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
+      "duration_ms": 189692,
+      "name": "ELENCO FABULOSO",
+      "url": "https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3"
     },
     {
       "added_at": null,
@@ -415,26 +407,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+        "name": "18K",
+        "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
       "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         }
       ],
-      "duration_ms": 189692,
-      "name": "ELENCO FABULOSO",
-      "url": "https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3"
+      "duration_ms": 284117,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
     },
     {
       "added_at": null,
@@ -459,6 +459,34 @@
       "duration_ms": 202955,
       "name": "NOSSA M\u00daSICA",
       "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 266778,
+      "name": "LOBO MAU",
+      "url": "https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y"
     },
     {
       "added_at": null,
@@ -515,34 +543,6 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 266778,
-      "name": "LOBO MAU",
-      "url": "https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y"
     },
     {
       "added_at": null,
@@ -611,6 +611,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 216435,
+      "name": "N\u00e3o Mente pra Mentiroso",
+      "url": "https://open.spotify.com/track/3XVfs9a49njIFPnzjeK6Wq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 225600,
       "name": "EU SOU O TREM",
       "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 216435,
-      "name": "N\u00e3o Mente pra Mentiroso",
-      "url": "https://open.spotify.com/track/3XVfs9a49njIFPnzjeK6Wq"
     },
     {
       "added_at": null,
@@ -835,42 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
-      },
-      "artists": [
-        {
-          "name": "DJ WILL TN",
-          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        }
-      ],
-      "duration_ms": 324843,
-      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -919,6 +883,42 @@
       "duration_ms": 169411,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
+      },
+      "artists": [
+        {
+          "name": "DJ WILL TN",
+          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "duration_ms": 324843,
+      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
+      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
     },
     {
       "added_at": null,
@@ -1119,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 163112,
-      "name": "NORMAL",
-      "url": "https://open.spotify.com/track/4qEMg9sUbLfsjFlF3oKaSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 207104,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 171045,
+      "name": "FATOR SURPRESA",
+      "url": "https://open.spotify.com/track/4rRi150SlF17ElbLApB4qm"
     },
     {
       "added_at": null,
@@ -1219,26 +1219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 171045,
-      "name": "FATOR SURPRESA",
-      "url": "https://open.spotify.com/track/4rRi150SlF17ElbLApB4qm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE LOVE (DELUXE)",
         "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 163112,
+      "name": "NORMAL",
+      "url": "https://open.spotify.com/track/4qEMg9sUbLfsjFlF3oKaSA"
     },
     {
       "added_at": null,

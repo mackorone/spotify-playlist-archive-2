@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 165879,
+  "num_followers": 165901,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
         }
       ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 305826,
+      "name": "Buscar\u00e9 Otro Amor",
+      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Pisando Fuerte",
         "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
       "artists": [
         {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
+      "duration_ms": 310306,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -911,22 +927,6 @@
       "duration_ms": 277000,
       "name": "Me Dejaste Sin Nada",
       "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 286640,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -951,8 +951,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
@@ -960,9 +960,25 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 286640,
+      "name": "Mi Diosa Humana",
+      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -983,22 +999,6 @@
       "duration_ms": 279893,
       "name": "Voy a Enloquecer",
       "url": "https://open.spotify.com/track/5EPiuK5gNJIUrljQo8ylnd"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 304560,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/1M9ZoiwvJl3Mthf5QmX9jY"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 238503,
-      "name": "Ven T\u00fa",
-      "url": "https://open.spotify.com/track/70Xs8tFys12cvz8fNS2dal"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",

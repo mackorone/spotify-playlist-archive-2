@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,587 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,603 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,17 +88,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 78 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 |
 | 79 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 |
 | 80 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
-| 81 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 |
+| 81 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
 | 82 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 83 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 |
 | 84 | [Salitre](https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:40 |
 | 85 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
-| 86 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
-| 87 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 |
-| 88 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
+| 86 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 |
+| 87 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
+| 88 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 |
 | 89 | [Contigo en la Distancia](https://open.spotify.com/track/7820J99MJU42DADC6DsMfh) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 2:37 |
-| 90 | [Me quedo contigo \- Radio Edit](https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 4:08 |
-| 91 | [No Dudaria](https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Esencial Antonio Flores](https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG) | 3:34 |
+| 90 | [No Dudaria](https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Esencial Antonio Flores](https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG) | 3:34 |
+| 91 | [Me quedo contigo \- Radio Edit](https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 4:08 |
 | 92 | [Quererte](https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Quererte](https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92) | 3:01 |
 | 93 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 |
 | 94 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 96 | [Libertad Sin Ira](https://open.spotify.com/track/5WpP4Mbh0C5agPEhXfWNlH) | [Jarcha](https://open.spotify.com/artist/0pn5zYhJgLYiNzprprYfjm) | [Lo Mejor de Jarcha](https://open.spotify.com/album/4A2kC4Hx8VBzJHNoevK9PY) | 3:43 |
 | 97 | [25 años](https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew) | [Carmen Paris](https://open.spotify.com/artist/5yp8l1WcFIYNiJlHMScIrO) | [inCubando](https://open.spotify.com/album/0hvlE8yHGjFGYwaajznxV9) | 3:48 |
 | 98 | [Adios rios, adios fontes](https://open.spotify.com/track/5QYwFUayrzxqwVV7GEMXM3) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Rosalia de Castro](https://open.spotify.com/album/3DnXxEHxaVU2J1QjYPwKc7) | 2:36 |
-| 99 | [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 |
+| 99 | [Efímera](https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Efímera](https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS) | 3:13 |
 
 Snapshot ID: `AAAAAJJwKmfayfROghozrbsXod1I/IRo`

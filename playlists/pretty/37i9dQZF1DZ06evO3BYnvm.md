@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,770 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,787 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 27 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 |
 | 28 | [Semantic Satiation](https://open.spotify.com/track/3lvPfDVsd8kBj8j1QrnKV5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 2:59 |
 | 29 | [3rd of Jan](https://open.spotify.com/track/3g50kqe9qShzWTCf6b6GbW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:25 |
-| 30 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 |
-| 31 | [Ruin My Make Up](https://open.spotify.com/track/0hDDcANYNTgvQ2gpsBBjaZ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Ruin My Make Up](https://open.spotify.com/album/6G0IIKFpdLDBfffVUx2HOM) | 2:50 |
+| 30 | [Ruin My Make Up](https://open.spotify.com/track/0hDDcANYNTgvQ2gpsBBjaZ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Ruin My Make Up](https://open.spotify.com/album/6G0IIKFpdLDBfffVUx2HOM) | 2:50 |
+| 31 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 |
 | 32 | [Stream Of Consciousness](https://open.spotify.com/track/4S6PEl7GETF22GjtgsZ19O) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:21 |
 | 33 | [Pill or a Lullaby \(4AM till sunrise\)](https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:51 |
 | 34 | [Grey And Lilac \- Intro](https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 2:37 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 36 | [Same Bed](https://open.spotify.com/track/0Khhft9qOXfvpEbg7Vn2jF) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:45 |
 | 37 | [F\*ck](https://open.spotify.com/track/0W1e7fgHgYsDXOJreBNvpV) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS) | 2:44 |
 | 38 | [Blind Love](https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:48 |
-| 39 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 |
+| 39 | [Bad Game \(3AM\)](https://open.spotify.com/track/0YcOAHmvZRPalC3Wg8BcSm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:28 |
 | 40 | [Blue \(2AM\)](https://open.spotify.com/track/7pb7fw21xzGuBTVOriBmtX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:21 |
 | 41 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 | 42 | [6 Feet Under](https://open.spotify.com/track/0ywhSj38KCaNKaKwtvXEP5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:21 |
-| 43 | [Bad Game \(3AM\)](https://open.spotify.com/track/0YcOAHmvZRPalC3Wg8BcSm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:28 |
+| 43 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 |
 | 44 | [Woman](https://open.spotify.com/track/4uDIbixPiFLXwhV17G1v7L) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Woman](https://open.spotify.com/album/3M2GuaPC225P4YsyKYIUew) | 2:39 |
 | 45 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/7d25e7sGPoQ0orHhKroTu3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/5P4MdgUXgsy3NWb3oi6XJT) | 4:51 |
 | 46 | [THE MAN](https://open.spotify.com/track/02xb460RUQTPNJsV726RZS) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:19 |
 
-Snapshot ID: `alLZAAAAAABREdc0mR/H3jvfYTT9yTxa`
+Snapshot ID: `alQqgAAAAABd3fSnczLPIUJGzFkRXljZ`

@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 40293,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante, Pt. 2",
       "url": "https://open.spotify.com/track/3unzX3gaGLz6YJUnTbaTpU"
@@ -736,6 +736,32 @@
       "duration_ms": 108693,
       "name": "M\u00fasica callada I: No. 1, Angelico",
       "url": "https://open.spotify.com/track/6O1k2LpVCOT2SDxL0EMKAu"
+    },
+    {
+      "album": {
+        "name": "Children's Cello",
+        "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
+      },
+      "artists": [
+        {
+          "name": "Francis Purcell Warren",
+          "url": "https://open.spotify.com/artist/5NqOK1EfGXUxEIilMACcoq"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102826,
+      "name": "No. 5, A Sunday Evening in Autumn",
+      "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
     },
     {
       "album": {

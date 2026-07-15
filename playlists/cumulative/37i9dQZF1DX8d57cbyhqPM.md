@@ -2,7 +2,7 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tontons Genezio.
+> Du Congo, au monde 🌍 avec Tonton Genezio.
 
 772 songs - 1 day 19 hr 18 min
 

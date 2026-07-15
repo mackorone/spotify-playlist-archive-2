@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 742988,
+  "num_followers": 743055,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Ride It",
-        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Ride It",
-      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -867,18 +867,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
+      "duration_ms": 201557,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -899,6 +903,22 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -939,42 +959,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Lovers On The Dancefloor",
         "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "The Last Dance, Pt 2",
-        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Catch & Release",
         "url": "https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv"
       },
@@ -1459,6 +1459,26 @@
       "duration_ms": 196198,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        }
+      ],
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1583,26 +1603,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Silver Lines (feat. Emily Warren)",
-        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Emily Warren",
-          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
-        }
-      ],
-      "duration_ms": 201296,
-      "name": "Silver Lines (feat. Emily Warren)",
-      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 276600,
       "name": "Fade Out Lines - The Avener Rework",
       "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "Self Love",
-      "url": "https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/0XV4cXBFmXIhQnQMYUX9u6"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 181812,
       "name": "Lonely Together (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/2OALaHcDdKkjYEpAr0Qzab"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/1Ba3HDw1at35UVxMxLCdCa"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Kimberly Anne",
-          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
-        }
-      ],
-      "duration_ms": 181867,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/6ksRossV4vKsXntCCZbhaM"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
@@ -2415,6 +2395,26 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/1Ba3HDw1at35UVxMxLCdCa"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Kimberly Anne",
+          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
+        }
+      ],
+      "duration_ms": 181867,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/6ksRossV4vKsXntCCZbhaM"
     },
     {
       "added_at": "2026-07-10 04:00:56",

@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1455536,
+  "num_followers": 1455672,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-06-26 06:00:43",
       "album": {
+        "name": "\u00c9xitos Espa\u00f1a",
+        "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Corrupta",
+      "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
+    },
+    {
+      "added_at": "2026-06-26 06:00:43",
+      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 153566,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
-    },
-    {
-      "added_at": "2026-06-26 06:00:43",
-      "album": {
-        "name": "\u00c9xitos Espa\u00f1a",
-        "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Corrupta",
-      "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
     },
     {
       "added_at": "2026-06-26 06:00:43",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-06-26 06:00:43",
       "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
-    },
-    {
-      "added_at": "2026-06-26 06:00:43",
-      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 198569,
       "name": "Madrid (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2026-06-26 06:00:43",
+      "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
     },
     {
       "added_at": "2026-06-26 06:00:43",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-06-26 06:00:43",
       "album": {
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": "2026-06-26 06:00:43",
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx"
-    },
-    {
-      "added_at": "2026-06-26 06:00:43",
-      "album": {
-        "name": "Espectacular",
-        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Espectacular",
-      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
     },
     {
       "added_at": "2026-06-26 06:00:43",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2026-06-26 06:00:43",
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "added_at": "2026-06-26 06:00:43",
+      "album": {
         "name": "Maquillaje (feat. Yexel) [Remix]",
         "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 286283,
       "name": "Maquillaje - Remix",
       "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
-    },
-    {
-      "added_at": "2026-06-26 06:00:43",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "FERXXO 30",
-      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
     },
     {
       "added_at": "2026-06-26 06:00:43",

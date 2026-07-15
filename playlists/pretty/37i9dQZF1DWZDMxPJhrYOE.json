@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105632,
+  "num_followers": 105636,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
         "name": "Goals (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 180345,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "SS26",
         "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
         "name": "Sad Girls",
         "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
       },
@@ -859,22 +879,22 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
+      "duration_ms": 165692,
+      "name": "Everything's Fine (PM)",
+      "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -899,22 +919,18 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
+        "name": "Break Up in Reverse",
+        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 165692,
-      "name": "Everything's Fine (PM)",
-      "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
+      "duration_ms": 205523,
+      "name": "Break Up in Reverse",
+      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Break Up in Reverse",
-        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 205523,
-      "name": "Break Up in Reverse",
-      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 160468,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Someday, Somewhere",
+        "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 151609,
+      "name": "Someday, Somewhere",
+      "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1095,18 +1111,42 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Someday, Somewhere",
-        "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 151609,
-      "name": "Someday, Somewhere",
-      "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
+      "duration_ms": 177561,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        }
+      ],
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1131,22 +1171,18 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
+        "name": "Portugal",
+        "url": "https://open.spotify.com/album/1ZZQmxpfhtp6EPRBrXlRI6"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
         }
       ],
-      "duration_ms": 177561,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
+      "duration_ms": 209763,
+      "name": "Portugal",
+      "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1167,22 +1203,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Portugal",
-        "url": "https://open.spotify.com/album/1ZZQmxpfhtp6EPRBrXlRI6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Hav",
-          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
-        }
-      ],
-      "duration_ms": 209763,
-      "name": "Portugal",
-      "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 146335,
       "name": "Stil permanent",
       "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
-        "name": "Silver Lines (feat. Emily Warren)",
-        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Emily Warren",
-          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
-        }
-      ],
-      "duration_ms": 201296,
-      "name": "Silver Lines (feat. Emily Warren)",
-      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Love Is Kind",
-        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Love Is Kind",
-      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "TIK TAK",
         "url": "https://open.spotify.com/album/411hbuzY43HR3rIHE9EDYy"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 145426,
       "name": "TIK TAK",
       "url": "https://open.spotify.com/track/7bZ2QUWiP3upNEnIQc7AmZ"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Love Is Kind",
+        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Love Is Kind",
+      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1391,38 +1391,22 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "siren",
-        "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
+        "name": "Joven y Salvaje (with Bb trickz)",
+        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
       },
       "artists": [
         {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         },
         {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
         }
       ],
-      "duration_ms": 165003,
-      "name": "siren",
-      "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
-        "name": "Ocean House",
-        "url": "https://open.spotify.com/album/59UdqKsd9U4NRaeurIPmRR"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 125039,
-      "name": "Ocean House",
-      "url": "https://open.spotify.com/track/2ndsXnYPnrkMRMPigIUZ9j"
+      "duration_ms": 122703,
+      "name": "Joven y Salvaje (with Bb trickz)",
+      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1443,18 +1427,38 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Yellow Top",
-        "url": "https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S"
+        "name": "Ocean House",
+        "url": "https://open.spotify.com/album/59UdqKsd9U4NRaeurIPmRR"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
         }
       ],
-      "duration_ms": 161522,
-      "name": "Yellow Top",
-      "url": "https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5"
+      "duration_ms": 125039,
+      "name": "Ocean House",
+      "url": "https://open.spotify.com/track/2ndsXnYPnrkMRMPigIUZ9j"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "siren",
+        "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 165003,
+      "name": "siren",
+      "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
     }
   ],
   "unique_name": "De nye",

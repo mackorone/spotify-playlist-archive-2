@@ -1,6 +1,6 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: YEONJUN(\uc5f0\uc900)) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1329073,
+  "num_followers": 1329116,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "Gnarly",
         "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "\ucda4 (CHOOM)",
-        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "CHOOM",
-      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "\ucda4 (CHOOM)",
+        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "RIDE OR DIE",
-        "url": "https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25"
-      },
-      "artists": [
-        {
-          "name": "EVAN",
-          "url": "https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw"
-        }
-      ],
-      "duration_ms": 135559,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "Beat It Up",
         "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 200000,
       "name": "Beat It Up",
       "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25"
+      },
+      "artists": [
+        {
+          "name": "EVAN",
+          "url": "https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw"
+        }
+      ],
+      "duration_ms": 135559,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 189725,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "I'LL LIKE YOU",
         "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 129468,
       "name": "Tick-Tack",
       "url": "https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
+        "name": "ODDINARY",
+        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -959,22 +975,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "BITE NOW",
-        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 195935,
-      "name": "DDI RO RI",
-      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "THE SIN : VANISH",
         "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 168375,
+      "name": "Hit 'Em",
+      "url": "https://open.spotify.com/track/0oFpuvfX2uwcuIGTMJr2kt"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
         "name": "CELEBRATION",
         "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 167922,
       "name": "God\u2019s Menu",
       "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
-        "name": "BITE NOW",
-        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 168375,
-      "name": "Hit 'Em",
-      "url": "https://open.spotify.com/track/0oFpuvfX2uwcuIGTMJr2kt"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "CEREMONY",
-      "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "Who is she",
-        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Who is she",
-      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "BATTER UP",
         "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "Who is she",
+        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Who is she",
+      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "We Are UNCHILD",
-        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
-      },
-      "artists": [
-        {
-          "name": "UNCHILD",
-          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "UNCHILD",
-      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
-    },
-    {
-      "added_at": "2026-07-10 09:54:49",
-      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+    },
+    {
+      "added_at": "2026-07-10 09:54:49",
+      "album": {
+        "name": "We Are UNCHILD",
+        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "UNCHILD",
+      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
     },
     {
       "added_at": "2026-07-10 09:54:49",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-07-10 09:54:49",
       "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
       },
       "artists": [
         {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 170694,
-      "name": "Vanilla Days",
-      "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     }
   ],
   "unique_name": "WOR K  OUT",

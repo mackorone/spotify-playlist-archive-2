@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 168252,
+  "num_followers": 168257,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
-      "added_at": "2026-05-14 19:56:42",
-      "album": {
-        "name": "Gas and Oil",
-        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "Gas and Oil",
-      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
-    },
-    {
       "added_at": "2026-03-27 04:00:14",
       "album": {
         "name": "Looks Like The End Of The Road",
@@ -415,6 +399,22 @@
       "duration_ms": 220393,
       "name": "Looks Like The End Of The Road",
       "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
+    },
+    {
+      "added_at": "2026-05-14 19:56:42",
+      "album": {
+        "name": "Gas and Oil",
+        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "Gas and Oil",
+      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 207000,
       "name": "Willow",
       "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "The Whole of the Moon",
         "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Lost John",
-        "url": "https://open.spotify.com/album/0ZFN0BBsuuQNin3bD4elvx"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        },
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
-        }
-      ],
-      "duration_ms": 154475,
-      "name": "Lost John",
-      "url": "https://open.spotify.com/track/5ydOwOiedCOttOb6ur4rNj"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 209603,
       "name": "Work Song (I Can Still Sing)",
       "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Lost John",
+        "url": "https://open.spotify.com/album/0ZFN0BBsuuQNin3bD4elvx"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 154475,
+      "name": "Lost John",
+      "url": "https://open.spotify.com/track/5ydOwOiedCOttOb6ur4rNj"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Circling the Drain",
-        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "Circling the Drain",
-      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -1119,22 +1103,6 @@
       "duration_ms": 151466,
       "name": "Coalmine",
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Hillside",
-        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 190764,
-      "name": "Hillside",
-      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1155,38 +1123,34 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
       },
       "artists": [
         {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
         }
       ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+      "duration_ms": 190764,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Come Out Of My Blues (feat. Tim O'Brien)",
-        "url": "https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK"
+        "name": "Circling the Drain",
+        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
       },
       "artists": [
         {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 227906,
-      "name": "Come Out Of My Blues (feat. Tim O'Brien)",
-      "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
+      "duration_ms": 198375,
+      "name": "Circling the Drain",
+      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1215,18 +1179,38 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+        "name": "Come Out Of My Blues (feat. Tim O'Brien)",
+        "url": "https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK"
       },
       "artists": [
         {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
         }
       ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+      "duration_ms": 227906,
+      "name": "Come Out Of My Blues (feat. Tim O'Brien)",
+      "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1243,6 +1227,22 @@
       "duration_ms": 260493,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Blue Night",
-        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Blue Night",
-      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 172533,
       "name": "Dovetail Cabin",
       "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Blue Night",
+        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Blue Night",
+      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
     }
   ],
   "unique_name": "Grass Roots",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,817 songs - 4 day 3 hr 47 min
+1,818 songs - 4 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1775,7 +1775,8 @@
 | [Wi$h Li$t](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:27 | 2025-10-04 | 2025-10-09 |
 | [WO OH OH](https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:29 | 2026-02-21 |  |
 | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M) | 4:19 | 2025-03-19 | 2025-05-09 |
-| [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2026-07-13 |  |
+| [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2026-07-13 | 2026-07-15 |
+| [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2026-07-14 |  |
 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 | 2025-10-04 | 2025-10-09 |
 | [WYA REMIX RED](https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [WYA REMIX RED](https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN) | 5:21 | 2024-06-19 | 2024-11-17 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:20 | 2023-02-25 | 2023-03-26 |

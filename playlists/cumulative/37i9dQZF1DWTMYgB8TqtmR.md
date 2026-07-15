@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,089 songs - 2 day 6 hr 47 min
+1,090 songs - 2 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-12 | 2023-10-20 |
 | [Grammofon](https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Grammofon](https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2) | 3:09 | 2022-09-29 | 2022-10-28 |
 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 | 2022-10-13 | 2023-01-27 |
+| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-07-14 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-14 | 2023-12-09 |
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-15 | 2024-03-05 |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-09 | 2022-06-22 |
@@ -764,7 +765,7 @@
 | [Ramla](https://open.spotify.com/track/4qP2qyJgxBtNcAexuvs45j) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ramla](https://open.spotify.com/album/3hhMWYseNlwaMyrAAcbSIW) | 3:28 | 2023-11-23 | 2024-01-28 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-15 | 2024-01-23 |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 | 2025-01-17 |
-| [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2026-04-09 |  |
+| [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2026-04-09 | 2026-07-15 |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2022-11-10 | 2022-11-18 |
 | [Revolution](https://open.spotify.com/track/1xYhFfJInHS8hsGfrJW4lI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Revolution](https://open.spotify.com/album/3XyCo0tUkIHQ2vRDDlBgWy) | 3:00 | 2025-02-26 | 2025-04-04 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-20 | 2025-05-01 |

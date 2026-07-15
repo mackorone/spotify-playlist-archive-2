@@ -1,13 +1,29 @@
 {
   "description": "This is Bella Kay. The essential tracks, all in one playlist.",
-  "num_followers": 1913,
+  "num_followers": 1957,
   "original_name": "This Is Bella Kay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAB0lk7utIzVU6Hdktr262bB",
+  "snapshot_id": "alQqgAAAAAB3H09m642dVZL0Do5YoIoY",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
     {
       "added_at": null,
       "album": {
@@ -123,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "sick to my stomach",
-        "url": "https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW"
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
       },
       "artists": [
         {
@@ -132,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 175473,
-      "name": "ur new girlfriend",
-      "url": "https://open.spotify.com/track/2ppMAeg7IwrpPuEu6MQind"
+      "duration_ms": 159573,
+      "name": "tongue",
+      "url": "https://open.spotify.com/track/0Hxa8rxKGhFzsyZpqZVSmQ"
     },
     {
       "added_at": null,
@@ -164,9 +180,57 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
+      "duration_ms": 175473,
+      "name": "ur new girlfriend",
+      "url": "https://open.spotify.com/track/2ppMAeg7IwrpPuEu6MQind"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 226604,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4asmKFh6Z5iTdJkxqC2wKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sick to my stomach",
+        "url": "https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
       "duration_ms": 200494,
       "name": "God Knows",
       "url": "https://open.spotify.com/track/31sakVrrESRDsoRsDlNWik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "karaoke",
+      "url": "https://open.spotify.com/track/2iLaE22r3gShJyFfJ8Zzbc"
     },
     {
       "added_at": null,
@@ -187,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 128404,
+      "name": "swu",
+      "url": "https://open.spotify.com/track/1vdBUAjKRjqLVFBPVdiLjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "sick to my stomach",
         "url": "https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW"
       },
@@ -199,6 +279,38 @@
       "duration_ms": 151034,
       "name": "Call Me Baby",
       "url": "https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 200494,
+      "name": "mindf*ck",
+      "url": "https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "marrow",
+      "url": "https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui"
     }
   ],
   "unique_name": "This Is Bella Kay",

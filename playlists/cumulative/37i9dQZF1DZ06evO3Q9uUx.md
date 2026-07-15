@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-156 songs - 7 hr 21 min
+157 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [ICEY..](https://open.spotify.com/track/2lzWxjcHX7RibjHX9UE5lN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo) | 3:52 | 2026-03-30 |  |
 | [ICEY..](https://open.spotify.com/track/5LGabrBNxzNvyJNyF9mndz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 3:52 | 2026-03-21 | 2026-03-30 |
 | [ICEY..](https://open.spotify.com/track/6CI1NtFfoijWJZBkVoUrwN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 3:52 | 2026-01-15 | 2026-02-16 |
-| [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 | 2022-10-28 |  |
+| [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 | 2022-10-28 | 2026-07-15 |
 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Real World](https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3) | 2:12 | 2024-03-15 |  |
 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [It's You \(feat\. BIA\)](https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY) | 2:12 | 2023-10-10 | 2024-03-16 |
 | [jaded \(feat\. BIA\)](https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [moo](https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat) | 3:07 | 2025-10-12 |  |
@@ -126,6 +126,7 @@
 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 | 2024-09-29 | 2026-05-26 |
 | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca) | 3:18 | 2022-10-28 | 2025-05-07 |
 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 | 2022-10-28 | 2025-11-30 |
+| [PRIVATE](https://open.spotify.com/track/0ISd1Gq5KrdZRlXOdPilyp) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:47 | 2026-07-15 |  |
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-10-10 | 2025-01-22 |
 | [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 | 2023-07-15 | 2024-04-14 |
 | [READY SET](https://open.spotify.com/track/3wgZyFfN0IOrXKk33YjM4X) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:51 | 2025-10-12 | 2026-02-26 |

@@ -16846,7 +16846,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 164563,
       "name": "Full og fin",
       "url": "https://open.spotify.com/track/0y2tHwQOJkG9hXyefQdpyJ"
@@ -18008,7 +18008,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 146253,
       "name": "Gledest\u00e5rer",
       "url": "https://open.spotify.com/track/3vEIRhQjfiaJtjwHcf3NgE"
@@ -20098,7 +20098,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 145469,
       "name": "Heldig",
       "url": "https://open.spotify.com/track/1k2DnlvWmjvlqVEM8vYB6r"
@@ -24440,6 +24440,24 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
     },
     {
       "album": {
@@ -37790,7 +37808,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 239546,
       "name": "Piano",
       "url": "https://open.spotify.com/track/6oLSO54qF1p5kZvSc2DTUV"
@@ -42030,10 +42048,28 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180767,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ"
     },
     {
       "album": {
@@ -49450,7 +49486,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 216920,
       "name": "Tidl\u00f8s",
       "url": "https://open.spotify.com/track/1Z9uLvLilzV9bPo4hFTdcg"
@@ -54138,7 +54174,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -54156,7 +54192,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

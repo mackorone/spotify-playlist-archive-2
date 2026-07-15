@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the American songbook classics. Cover: Miles Davis",
-  "num_followers": 177469,
+  "num_followers": 177518,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 321026,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 387480,
       "name": "You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC",
       "url": "https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -467,6 +467,26 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Sony Jazz Collection",
-        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Cliff Craft",
         "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 407266,
       "name": "Sophisticated Lady - Remastered 1997",
       "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Sony Jazz Collection",
+        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Sunday At The Village Vanguard",
-        "url": "https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 515039,
-      "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
-      "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 217293,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Sunday At The Village Vanguard",
+        "url": "https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 515039,
+      "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
+      "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 432040,
-      "name": "My Romance (take 2) - Alternate Take",
-      "url": "https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Wailing With Lou",
         "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 380240,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 432040,
+      "name": "My Romance (take 2) - Alternate Take",
+      "url": "https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 366786,
-      "name": "Beautiful Love (Take 1)",
-      "url": "https://open.spotify.com/track/4DLOOs0FmQeEO6BWVxEwpX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Our Man In Jazz",
-        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 195133,
-      "name": "I Could Write a Book - Remastered 1999",
-      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
+      "duration_ms": 366786,
+      "name": "Beautiful Love (Take 1)",
+      "url": "https://open.spotify.com/track/4DLOOs0FmQeEO6BWVxEwpX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1183,6 +1167,22 @@
       "duration_ms": 322960,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Our Man In Jazz",
+        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "I Could Write a Book - Remastered 1999",
+      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 285533,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/1e9NygW5Cd1T37OmQOz3ro"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
-      },
-      "artists": [
-        {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
-        }
-      ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Work From Home with Count Basie",
-        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 163599,
-      "name": "It's Only A Paper Moon",
-      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 259000,
       "name": "Can't We Be Friends",
       "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Work From Home with Count Basie",
+        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 163599,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
     },
     {
       "added_at": "2026-05-28 09:37:04",

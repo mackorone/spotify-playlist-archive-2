@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,917 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,922 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 31 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 32 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 | 33 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 |
-| 34 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
-| 35 | [Blue Island \(feat\. 1Ho & Chan\)](https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Airman Morning Diaries](https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC) | 3:21 |
+| 34 | [Blue Island \(feat\. 1Ho & Chan\)](https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Airman Morning Diaries](https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC) | 3:21 |
+| 35 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
 | 36 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 |
 | 37 | [Feel Like Falling In Love](https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy) | 3:14 |
 | 38 | [ANYWHERE ANYTIME](https://open.spotify.com/track/67sYclP23NAkhQwYciJd16) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 2:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 45 | [dance all night](https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv) | 3:34 |
 | 46 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
 | 47 | [La Vie En Bleu](https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:16 |
-| 48 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
-| 49 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |
+| 48 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |
+| 49 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |
 | 50 | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW) | 3:43 |
 
 Snapshot ID: `AAAAAMrHYj4kjO+VSRvUO+gSiNTEZtKC`

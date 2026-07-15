@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,168 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,162 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 52 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
 | 53 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
 | 54 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
-| 55 | [When the Rain Begins to Fall](https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE) | [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P), [Pia Zadora](https://open.spotify.com/artist/4xOk8sG1KBfhKhR4BOq7Mc) | [Greatest Hits](https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D) | 4:03 |
-| 56 | [On the Beach](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [On the Beach](https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m) | 5:02 |
+| 55 | [On the Beach](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [On the Beach](https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m) | 5:02 |
+| 56 | [When the Rain Begins to Fall](https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE) | [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P), [Pia Zadora](https://open.spotify.com/artist/4xOk8sG1KBfhKhR4BOq7Mc) | [Greatest Hits](https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D) | 4:03 |
 | 57 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4Saua162eaEOksYc8TrB74) | 4:39 |
 | 58 | [Femme libérée](https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Femme Libérée](https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi) | 3:41 |
 | 59 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 |

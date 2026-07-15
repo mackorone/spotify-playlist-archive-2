@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "System Of A Down (Deluxe)",
+        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Darts",
+      "url": "https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },

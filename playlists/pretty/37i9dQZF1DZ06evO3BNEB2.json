@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40782,
+  "num_followers": 40783,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAA5XB9IH3vgfT4OVM6Y5rcW",
+  "snapshot_id": "alQqgAAAAAAkLWyIfaYEW5VOtKVjoCfW",
   "tracks": [
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 236000,
       "name": "Feel the Love (feat. Wale)",
       "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffee (F***ing) (feat. Wale)",
-        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 314053,
-      "name": "Coffee (F***ing) (feat. Wale)",
-      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffee (F***ing) (feat. Wale)",
+        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 314053,
+      "name": "Coffee (F***ing) (feat. Wale)",
+      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
     }
   ],
   "unique_name": "This Is Wale",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Panther
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,550 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,561 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 67 | [Kya Pata Hai](https://open.spotify.com/track/5RhSE4HwDOPdwX7sqZTlXf) | [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u), [wolf.cryman](https://open.spotify.com/artist/43CbNTpTFxvw0F9UxMZVTO), [Navyug](https://open.spotify.com/artist/4adwj9Z1zcgF7Os33tzs4Q) | [Kya Pata Hai](https://open.spotify.com/album/4S00XU86k3NUzMh23WtJgP) | 3:53 |
 | 68 | [Cash Do](https://open.spotify.com/track/4XRv88qBFdc8EbL4fxDrmG) | [Naav Addy](https://open.spotify.com/artist/1S68UZ3wTFCCGU0eixRYmY) | [Cash Do](https://open.spotify.com/album/2rQvs7WQYGSLxVkVc4lXU3) | 2:36 |
 | 69 | [City Ka Star](https://open.spotify.com/track/2oJXfgdArT81I4o4tnHHJ4) | [Tushar Nagar](https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS), [DOMBOI](https://open.spotify.com/artist/3IGnos0JIHmcXYF4yESCZP) | [City Ka Star](https://open.spotify.com/album/16i3Bq6kK3J5zUg47Z3S0L) | 2:18 |
-| 70 | [Chilli Chilli](https://open.spotify.com/track/3ltluI1mRoiyy6ylO7gGn1) | [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Y2G](https://open.spotify.com/artist/256yoxp9hzlq7KpFAWH43X) | [Salt & Pepper](https://open.spotify.com/album/5foH8YuQWeJVUlkcq0iXEU) | 2:45 |
+| 70 | [Chilli Chilli](https://open.spotify.com/track/3ltluI1mRoiyy6ylO7gGn1) | [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Y2G](https://open.spotify.com/artist/256yoxp9hzlq7KpFAWH43X), [Nived](https://open.spotify.com/artist/6roe90VX8VcnzmqpEknKPd) | [Salt & Pepper](https://open.spotify.com/album/5foH8YuQWeJVUlkcq0iXEU) | 2:45 |
 | 71 | [Occupation](https://open.spotify.com/track/15WaAtcxLJSA4kFUwklajI) | [KARYAWAAHI](https://open.spotify.com/artist/0jCViUzxha1IPd2ckwJKLs), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Occupation](https://open.spotify.com/album/4hPPpmA3FjTiB0dLVJ8yqJ) | 1:55 |
 | 72 | [Laal Gaddiyan](https://open.spotify.com/track/65jij66fK47fSYqiGK5LrD) | [Wicked Sunny](https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa), [Cyril Gabriel](https://open.spotify.com/artist/2netGerqSenOlPiDpObZum) | [Laal Gaddiyan](https://open.spotify.com/album/7lw9UHiPuoaK9qgemxvHff) | 2:32 |
 | 73 | [Oh My Darlin'](https://open.spotify.com/track/0zRYYdUqgPlsHoAEjwNa06) | [Ekum](https://open.spotify.com/artist/2gGJIaxCdvz4D0UIRJAJYy), [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk) | [Oh My Darlin'](https://open.spotify.com/album/5SZOtTXBEBBI1BD6RcEHLp) | 2:59 |

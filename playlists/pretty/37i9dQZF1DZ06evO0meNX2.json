@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 45062,
+  "num_followers": 45082,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABBaaIGex0jXn1b7BQvSPKu",
+  "snapshot_id": "alQqgAAAAAA1GAy8wrSWcTL65r/m7qQt",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 225818,
-      "name": "Cinco Celulares",
-      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
+      "duration_ms": 231703,
+      "name": "Cada D\u00eda Que Pasa",
+      "url": "https://open.spotify.com/track/0IDnj6BWFr9QYNUwGvWL9T"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 231703,
-      "name": "Cada D\u00eda Que Pasa",
-      "url": "https://open.spotify.com/track/0IDnj6BWFr9QYNUwGvWL9T"
+      "duration_ms": 225818,
+      "name": "Cinco Celulares",
+      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flotando En El Aire",
-        "url": "https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 184192,
-      "name": "Flotando En El Aire",
-      "url": "https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -655,6 +639,38 @@
       "duration_ms": 158298,
       "name": "DELANTE DE MI - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/0zCDvSDndSus3dDtcsyAoI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flotando En El Aire",
+        "url": "https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 184192,
+      "name": "Flotando En El Aire",
+      "url": "https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
     },
     {
       "added_at": null,
@@ -683,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
       "artists": [
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 163293,
-      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
+      "duration_ms": 184789,
+      "name": "AMOR PRISIONERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2"
     },
     {
       "added_at": null,
@@ -711,30 +731,6 @@
       "duration_ms": 217200,
       "name": "Los Hermanos",
       "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191652,
-      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
     },
     {
       "added_at": null,
@@ -779,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191652,
+      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' las Vibras 2",
         "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 152433,
       "name": "Buena Vida Mala Fama",
       "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 184789,
-      "name": "AMOR PRISIONERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRAN MAESTRE II",
-        "url": "https://open.spotify.com/album/2bf3cDWnJakqDGVCawuUlF"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "EN GUERRA",
-      "url": "https://open.spotify.com/track/7s6QEYNAsZIdSoHFInfaL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 171638,
       "name": "HAY UNA MUJER - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7zW3Jy3NS0nLnvRbwosBwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRAN MAESTRE II",
+        "url": "https://open.spotify.com/album/2bf3cDWnJakqDGVCawuUlF"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "EN GUERRA",
+      "url": "https://open.spotify.com/track/7s6QEYNAsZIdSoHFInfaL4"
     },
     {
       "added_at": null,

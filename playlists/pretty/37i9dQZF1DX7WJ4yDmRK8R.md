@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Sublime on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,686 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,709 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 21 | [Too Much Too Young \- 2015 Remaster](https://open.spotify.com/track/1u2bt26ipUrk4kHvcLXl6R) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 6:06 |
 | 22 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
 | 23 | [Where'd You Go](https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [More Noise And Other Disturbances](https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO) | 3:26 |
-| 24 | [Ranking Full Stop](https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:47 |
-| 25 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
+| 24 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
+| 25 | [Ranking Full Stop](https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:47 |
 | 26 | [Monkey Man \- 2015 Remaster](https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:45 |
 | 27 | [Total Hate '95](https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 3:18 |
 | 28 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 62 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 |
 | 63 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 64 | [Play Some Ska](https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Another Change of Plan](https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg) | 3:16 |
-| 65 | [Blinding!](https://open.spotify.com/track/3pWFWCDZyeHln3ct9Wdv28) | [Death Of Guitar Pop](https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id), [Ed Rome](https://open.spotify.com/artist/7LAxQmb2x5ZXVLn0pEbPH4) | [Blinding!](https://open.spotify.com/album/3621jwzaKGcZ80N9d0hBWQ) | 3:01 |
-| 66 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
-| 67 | [Lleva](https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Lleva](https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj) | 3:34 |
+| 65 | [Lleva](https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Lleva](https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj) | 3:34 |
+| 66 | [Blinding!](https://open.spotify.com/track/3pWFWCDZyeHln3ct9Wdv28) | [Death Of Guitar Pop](https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id), [Ed Rome](https://open.spotify.com/artist/7LAxQmb2x5ZXVLn0pEbPH4) | [Blinding!](https://open.spotify.com/album/3621jwzaKGcZ80N9d0hBWQ) | 3:01 |
+| 67 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
 | 68 | [Paria](https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 2:29 |
 | 69 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 | 70 | [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 91 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
 | 92 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 |
 | 93 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
-| 94 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
-| 95 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 |
+| 94 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 |
+| 95 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
 | 96 | [On My Radio](https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Indie Singles Collection 1991\-1996](https://open.spotify.com/album/3gwVOnYIvRJFJyrJzaPnWF) | 3:06 |
 | 97 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
 | 98 | [A Flat City](https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [A Flat City](https://open.spotify.com/album/1vw3z3xkEY2cqDqCi5ndwQ) | 2:02 |
 | 99 | [S.O.B \(Standing On Business\)](https://open.spotify.com/track/18X6ohepwYSRwzcsjfs7E4) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [S.O.B \(Standing On Business\)](https://open.spotify.com/album/27OaKWyTTYALWx5YMxDOW0) | 2:37 |
-| 100 | [Musical Muse](https://open.spotify.com/track/6IuwQyCQ0MlwVKWmf4Z8bb) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Musical Muse](https://open.spotify.com/album/20MQWcJHt7tvu847fSMvpH) | 3:50 |
+| 100 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 |
 
 Snapshot ID: `AAAAAOis3431cb65ik3uHrjzKmOmTW7l`

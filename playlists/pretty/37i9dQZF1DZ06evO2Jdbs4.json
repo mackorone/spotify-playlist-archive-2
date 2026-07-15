@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 32305,
+  "num_followers": 32309,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAOyJXLJjkEYaADukeH2BiK",
+  "snapshot_id": "alQqgAAAAAD3A0ZCx+ah9G8Yp9jnPyKw",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 254440,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cu-Cu-Cu Cumbia!",
         "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 228306,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Camino",
-        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
-      },
-      "artists": [
-        {
-          "name": "Vuelta en U",
-          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217199,
-      "name": "Vuelta En U (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
         "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 287205,
       "name": "Y Te Lo Pido - En Vivo",
       "url": "https://open.spotify.com/track/1HEAlw55kD0vSm9iZa5iIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Camino",
+        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
+      },
+      "artists": [
+        {
+          "name": "Vuelta en U",
+          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217199,
+      "name": "Vuelta En U (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
     },
     {
       "added_at": null,

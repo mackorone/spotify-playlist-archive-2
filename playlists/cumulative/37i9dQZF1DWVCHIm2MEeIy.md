@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-681 songs - 2 day 6 hr 25 min
+682 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2022-06-24 | 2022-10-01 |
 | [Akemie](https://open.spotify.com/track/7681uiIdoVOKhHuwz3z1VJ) | [Kotelett](https://open.spotify.com/artist/2OkHxgCvFhNIP49ie7DMDQ), [Sascha Cawa](https://open.spotify.com/artist/1bneKKlE0IwYyauLPQBDgP) | [Akemie](https://open.spotify.com/album/2d9EbZyGhG3w3W2kQUtOhc) | 7:09 | 2022-05-20 | 2022-06-08 |
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-13 | 2023-08-12 |
-| [Alelele](https://open.spotify.com/track/0xjDB0xOosNejbk6X9Zrzv) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Alelele](https://open.spotify.com/album/5ekq2ga3bdG5Y5LuFi3bC0) | 4:10 | 2026-06-11 |  |
+| [Alelele](https://open.spotify.com/track/0xjDB0xOosNejbk6X9Zrzv) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Alelele](https://open.spotify.com/album/5ekq2ga3bdG5Y5LuFi3bC0) | 4:10 | 2026-06-11 | 2026-07-15 |
 | [Alicante](https://open.spotify.com/track/5TqvSIrg2JO71XuWEDCwJj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [Yuliesky Gonzalez](https://open.spotify.com/artist/6wwPgJrI25XI6qKu5yOGkM) | [Alicante](https://open.spotify.com/album/7LY3V8BTAWVDeKp9QF3rlm) | 3:12 | 2025-03-03 |  |
 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 | 2022-06-24 | 2022-07-27 |
 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 | 2024-10-10 |  |
@@ -236,6 +236,7 @@
 | [Galaxy](https://open.spotify.com/track/2gtR8ffUU1xAOsTNeaEe3A) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Galaxy](https://open.spotify.com/album/6Ef5H4o43CHIat5nXoGdms) | 3:13 | 2025-08-14 | 2025-11-11 |
 | [Gazer](https://open.spotify.com/track/7xGIyQpk0Xkr2f7QsvqEcN) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/6rFhsJcxtbI3pBGVbU0c9D) | 3:28 | 2022-04-15 | 2022-07-29 |
 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-02-08 | 2024-09-28 |
+| [Ghost](https://open.spotify.com/track/15CXWtEaOlVG2Yj5L77zc8) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Ghost](https://open.spotify.com/album/6J5ilFhuhNabaHEOgc20IP) | 3:56 | 2026-07-02 |  |
 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 | 2026-03-19 |  |
 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 | 2025-08-04 |  |
 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 | 2022-04-15 | 2023-11-16 |

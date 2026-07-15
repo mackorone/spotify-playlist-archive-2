@@ -18898,7 +18898,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -25756,7 +25756,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 138666,
       "name": "Goldrichtig",
       "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
@@ -27930,7 +27930,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -34444,7 +34444,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 153272,
       "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
       "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
@@ -35412,7 +35412,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -36688,7 +36688,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -44214,7 +44214,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -53588,7 +53588,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 184546,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6lK2xptPzLPmvpE29U4mDH"
@@ -54586,7 +54586,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -54608,6 +54608,24 @@
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/79l37OfQZL2x97g2u6Y5rx"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180767,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ"
     },
     {
       "album": {
@@ -60872,7 +60890,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -66799,7 +66817,7 @@
     },
     {
       "album": {
-        "name": "Way Too Self Aware",
+        "name": "Way Too Self Aware (Remix)",
         "url": "https://open.spotify.com/album/0S1PVw687P8QRtBVkmtxU3"
       },
       "artists": [
@@ -66812,7 +66830,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156207,
-      "name": "Way Too Self Aware",
+      "name": "Way Too Self Aware - Remix",
       "url": "https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8"
     },
     {
@@ -66882,7 +66900,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -70034,7 +70052,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -70052,7 +70070,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

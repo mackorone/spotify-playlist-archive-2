@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20258,
+  "num_followers": 20260,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAQoBUvAnWw0fHnjwmqhEgc",
+  "snapshot_id": "alQqgAAAAADVh9OMSeXmsH+wZB9nJsY4",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "GAME NOT OVER",
-        "url": "https://open.spotify.com/album/0sGeWCfpVbiu9tcTvlYGFq"
+        "name": "SHOOTING STAR REMIXX (PROD BY JAKOPS)",
+        "url": "https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC"
       },
       "artists": [
         {
-          "name": "XanMan",
-          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "JAKOPS",
+          "url": "https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE"
         }
       ],
-      "duration_ms": 144000,
-      "name": "None Of It",
-      "url": "https://open.spotify.com/track/2AzwKFuVedUAFAXIklY5Gv"
+      "duration_ms": 203573,
+      "name": "SHOOTING STAR - BARS REMIXX FEAT. RICO NASTY",
+      "url": "https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX"
     },
     {
       "added_at": null,
@@ -627,26 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHOOTING STAR REMIXX (PROD BY JAKOPS)",
-        "url": "https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC"
+        "name": "GAME NOT OVER",
+        "url": "https://open.spotify.com/album/0sGeWCfpVbiu9tcTvlYGFq"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "XanMan",
+          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "JAKOPS",
-          "url": "https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE"
         }
       ],
-      "duration_ms": 203573,
-      "name": "SHOOTING STAR - BARS REMIXX FEAT. RICO NASTY",
-      "url": "https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX"
+      "duration_ms": 144000,
+      "name": "None Of It",
+      "url": "https://open.spotify.com/track/2AzwKFuVedUAFAXIklY5Gv"
     },
     {
       "added_at": null,

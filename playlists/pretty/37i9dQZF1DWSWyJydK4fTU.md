@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,809 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,787 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 15 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 16 | [American Cars](https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:32 |
 | 17 | [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 |
-| 18 | [The Bitch Is Back](https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 3:44 |
-| 19 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
+| 18 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
+| 19 | [The Bitch Is Back](https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 3:44 |
 | 20 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
-| 21 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
-| 22 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
+| 21 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
+| 22 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
 | 23 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 |
 | 24 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
 | 25 | [SHOOK](https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [SHOOK](https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ) | 3:03 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 28 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
 | 29 | [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 |
 | 30 | [Hot Girl Summer](https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Hot Girl Summer](https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV) | 2:42 |
-| 31 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
-| 32 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
-| 33 | [The Swell](https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Swell](https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y) | 3:27 |
+| 31 | [The Swell](https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Swell](https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y) | 3:27 |
+| 32 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
+| 33 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
 | 34 | [Nur ein Wort](https://open.spotify.com/track/0dIb1x3ilFtfprAfbfOEKm) | [Noah Kraus](https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME), [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Nur ein Wort](https://open.spotify.com/album/6n4MQhGhEBzZt9xFuXIdib) | 1:55 |
 | 35 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
 | 36 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 43 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
 | 44 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
 | 45 | [Settles](https://open.spotify.com/track/3krv0hI3YMv8XQpC9lnvhI) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Settles](https://open.spotify.com/album/2pTyUXXYADDihZpf20ZE3q) | 3:32 |
-| 46 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 |
-| 47 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
+| 46 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
+| 47 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 |
 | 48 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 49 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 50 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 |

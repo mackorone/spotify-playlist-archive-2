@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 167646,
+  "num_followers": 167708,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Hier Mag Alles",
         "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
       },
@@ -1563,18 +1579,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
           "name": "Yves Berendse",
           "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1615,22 +1635,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -1655,42 +1659,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -1707,6 +1675,38 @@
       "duration_ms": 171285,
       "name": "De Laatste",
       "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "5 In De Klok",
-        "url": "https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7"
+        "name": "Turk Uit De Kroeg",
+        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
       },
       "artists": [
         {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
         }
       ],
-      "duration_ms": 187611,
-      "name": "5 In De Klok",
-      "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
+      "duration_ms": 192500,
+      "name": "Turk Uit De Kroeg",
+      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     }
   ],
   "unique_name": "Hollandse Meezingers",

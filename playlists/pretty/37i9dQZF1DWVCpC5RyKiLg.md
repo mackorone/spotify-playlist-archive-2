@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,086 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,091 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 51 | [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 |
 | 52 | [De Copo Em Copo \- Ao Vivo](https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR) | 2:38 |
 | 53 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
-| 54 | [50 Vezes \- Ao Vivo](https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 3:04 |
-| 55 | [Quase \- Ao Vivo](https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha \(Ao Vivo\)](https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv) | 3:02 |
+| 54 | [Quase \- Ao Vivo](https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha \(Ao Vivo\)](https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv) | 3:02 |
+| 55 | [50 Vezes \- Ao Vivo](https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 3:04 |
 | 56 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
 | 57 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 |
 | 58 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A Força do Nosso Som Continua \(Ao Vivo\)](https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY) | 3:02 |

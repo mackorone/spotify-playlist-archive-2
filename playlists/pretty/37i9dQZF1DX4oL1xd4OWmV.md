@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oL1xd4OWmV.md) - [plain]
 
 > Nadie puede quedarse callado cuando estos clásicos suenan en la tribuna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,437 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,418 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

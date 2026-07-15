@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVnJmbN70OKp>Oliver Tree</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a>, <a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,70 +11,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 161803,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 237506,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
       "added_at": null,
@@ -127,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Microdose",
         "url": "https://open.spotify.com/album/1Aj2q6fiNwFfyndgZ2JDR9"
       },
@@ -139,6 +135,38 @@
       "duration_ms": 166605,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/2AFwAqheImJxyzIu8Dv0vE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shut up My Moms Calling (Sped up)",
+        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Shut up My Moms Calling (Sped up)",
+      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fell Again / Stranger What's Your Name?",
+        "url": "https://open.spotify.com/album/7vtM9KciF7hHUN7bIBegdf"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Fell Again",
+      "url": "https://open.spotify.com/track/58z3p4Jy4H4mNmUNlL0P4Z"
     },
     {
       "added_at": null,
@@ -163,38 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly Duck",
-        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 129199,
-      "name": "Is there free breakfast here?",
-      "url": "https://open.spotify.com/track/30jui3PqevssdIVpjEWM38"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fell Again / Stranger What's Your Name?",
-        "url": "https://open.spotify.com/album/7vtM9KciF7hHUN7bIBegdf"
-      },
-      "artists": [
-        {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Fell Again",
-      "url": "https://open.spotify.com/track/58z3p4Jy4H4mNmUNlL0P4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Making Steak",
         "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
@@ -204,15 +200,31 @@
           "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "On & Off",
-        "url": "https://open.spotify.com/album/7gdxewOIoSvBVLUi7omJMp"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4hlLOR9Zd7pmBg2Qb4Dlss"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 133747,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/0q639LSjyKvvKZlMO8Kdl0"
       },
       "artists": [
         {
@@ -220,9 +232,45 @@
           "url": "https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC"
         }
       ],
-      "duration_ms": 146437,
-      "name": "On & Off",
-      "url": "https://open.spotify.com/track/22Hss9mYx32zL6UHhl0kYq"
+      "duration_ms": 113556,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/1JHJWwjCJa9jZvAA235QVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HELL",
+        "url": "https://open.spotify.com/album/4hEq5cerBSRhXPFiliAk9C"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "HELL",
+      "url": "https://open.spotify.com/track/5VdF8ZUOWoAhmJNb7urwoq"
     },
     {
       "added_at": null,
@@ -275,74 +323,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+        "name": "Gorilla Grip",
+        "url": "https://open.spotify.com/album/7c8LNyI0z1cqQySzFdAcjE"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Greg Shilling",
+          "url": "https://open.spotify.com/artist/57B4Js3GmlGBgNJKeAdyba"
         }
       ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+      "duration_ms": 185207,
+      "name": "Gorilla Grip",
+      "url": "https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Recognize",
-        "url": "https://open.spotify.com/album/6Sba1UHgFzqqPaESIHqCzh"
+        "name": "Temper City - Self Aware (Official Video)",
+        "url": "https://open.spotify.com/album/0pV63StkTANXT7LT4lzEz9"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Jessy Blakemore",
-          "url": "https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 181694,
-      "name": "Recognize",
-      "url": "https://open.spotify.com/track/2i7GLdXNYuIOfqopWWIjVF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
+      "duration_ms": 180714,
+      "name": "Self Aware (Music Video)",
+      "url": "https://open.spotify.com/track/5jgGLqWF0KiFIemm3RO3Zn"
     },
     {
       "added_at": null,
@@ -383,18 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gorilla Grip",
-        "url": "https://open.spotify.com/album/7c8LNyI0z1cqQySzFdAcjE"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Greg Shilling",
-          "url": "https://open.spotify.com/artist/57B4Js3GmlGBgNJKeAdyba"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 185207,
-      "name": "Gorilla Grip",
-      "url": "https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq"
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": null,
@@ -431,50 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "HEAVEN SENT ME",
+        "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Violet High",
-        "url": "https://open.spotify.com/album/3beLrgj6wVuaRfOyGYeWa8"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 109295,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/4mM1CFAKlGCgp4RQ2YtUaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+      "duration_ms": 158804,
+      "name": "TELL 'EM YOU'RE MINE",
+      "url": "https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr"
     },
     {
       "added_at": null,
@@ -495,34 +471,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "HARD KNOCK LULLABY",
-        "url": "https://open.spotify.com/album/5CFfxh1P809UmJeeezyeFV"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 153600,
-      "name": "HARD KNOCK LULLABY",
-      "url": "https://open.spotify.com/track/5nAXbVukFLJ2Wd795L1kwS"
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 226798,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
       "added_at": null,
@@ -559,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talk2Me",
         "url": "https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP"
       },
@@ -575,58 +571,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
       },
       "artists": [
         {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8"
+      "duration_ms": 129199,
+      "name": "Is there free breakfast here?",
+      "url": "https://open.spotify.com/track/30jui3PqevssdIVpjEWM38"
     },
     {
       "added_at": null,
       "album": {
-        "name": "hypocritical (feat. starfall)",
-        "url": "https://open.spotify.com/album/4HpSaThVXe2TDz2uALVXaC"
+        "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
+        "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
       },
       "artists": [
         {
-          "name": "Joon",
-          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         },
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 224881,
+      "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
+      "url": "https://open.spotify.com/track/30G9O0gzkj4w7CbCWOE9eO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lose myself",
+        "url": "https://open.spotify.com/album/2baeHgCBqo7H56FLRs8Uth"
+      },
+      "artists": [
         {
           "name": "starfall",
           "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
         }
       ],
-      "duration_ms": 177455,
-      "name": "hypocritical (feat. starfall)",
-      "url": "https://open.spotify.com/track/6KkVYJfUpNjRvRWeNXOnQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+      "duration_ms": 154339,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/7nqFGg6gPi3Fhegjb0bjw2"
     },
     {
       "added_at": null,
@@ -640,15 +632,31 @@
           "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
+      "duration_ms": 202750,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/0q639LSjyKvvKZlMO8Kdl0"
+        "name": "whyy",
+        "url": "https://open.spotify.com/album/6JyQugEBceDubH8DGhR51H"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 126562,
+      "name": "whyy",
+      "url": "https://open.spotify.com/track/72WxMwec03zySBDZDNhg11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On & Off",
+        "url": "https://open.spotify.com/album/7gdxewOIoSvBVLUi7omJMp"
       },
       "artists": [
         {
@@ -656,9 +664,45 @@
           "url": "https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC"
         }
       ],
-      "duration_ms": 113556,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/1JHJWwjCJa9jZvAA235QVt"
+      "duration_ms": 146437,
+      "name": "On & Off",
+      "url": "https://open.spotify.com/track/22Hss9mYx32zL6UHhl0kYq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/6Sba1UHgFzqqPaESIHqCzh"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Jessy Blakemore",
+          "url": "https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2i7GLdXNYuIOfqopWWIjVF"
     },
     {
       "added_at": null,
@@ -679,114 +723,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/6tWEgPv7pxnhLjSFclxov2"
+        "name": "options",
+        "url": "https://open.spotify.com/album/6ft8HixiINk6Wbuci04ouH"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "kuiper",
+          "url": "https://open.spotify.com/artist/6NFaGwOgwNlwYMHHlOifuJ"
         }
       ],
-      "duration_ms": 174211,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/5eLjgK8JT276Xs8500KdEn"
+      "duration_ms": 185363,
+      "name": "options",
+      "url": "https://open.spotify.com/track/3D89uQ84ZbwOIfu1mUwek5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "LOVE IN STEREO",
+        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I AM. MIXTAPE",
-        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
-      },
-      "artists": [
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
         {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Stay For A While",
-      "url": "https://open.spotify.com/track/6EtcuY72Byjg0BatJog9GM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HEAVEN SENT ME",
-        "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
-      },
-      "artists": [
-        {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "TELL 'EM YOU'RE MINE",
-      "url": "https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Am I sinking or Am I swimming?",
-        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
-      },
-      "artists": [
-        {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Stress Relief",
-      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+      "duration_ms": 173426,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
     },
     {
       "added_at": null,
@@ -811,6 +779,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/6AFrlSsCRfhJ6KN815Uv2C"
+      },
+      "artists": [
+        {
+          "name": "Troy Javelona",
+          "url": "https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6EK3aQONb1VBRaVCoxwuKo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "options",
-        "url": "https://open.spotify.com/album/6ft8HixiINk6Wbuci04ouH"
-      },
-      "artists": [
-        {
-          "name": "kuiper",
-          "url": "https://open.spotify.com/artist/6NFaGwOgwNlwYMHHlOifuJ"
-        }
-      ],
-      "duration_ms": 185363,
-      "name": "options",
-      "url": "https://open.spotify.com/track/3D89uQ84ZbwOIfu1mUwek5"
     }
   ],
   "unique_name": "Chill Mix",

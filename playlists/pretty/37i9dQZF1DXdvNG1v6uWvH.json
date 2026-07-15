@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Teddy Swim, S\u00e9ra Bj\u00f6ssi, REA, Haski og m\u00f6rgum fleiri!",
-  "num_followers": 9677,
+  "num_followers": 9679,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
+    },
+    {
+      "added_at": "2026-07-10 00:00:26",
+      "album": {
         "name": "the bridge",
         "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
       },
@@ -303,18 +319,22 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
-        "name": "Foreign Tongues",
-        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
         }
       ],
-      "duration_ms": 274061,
-      "name": "Mr Charm",
-      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-07-10 00:00:26",
@@ -343,26 +363,6 @@
       "duration_ms": 156780,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
-    },
-    {
-      "added_at": "2026-07-10 00:00:26",
-      "album": {
-        "name": "Silver Lines (feat. Emily Warren)",
-        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Emily Warren",
-          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
-        }
-      ],
-      "duration_ms": 201296,
-      "name": "Silver Lines (feat. Emily Warren)",
-      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "added_at": "2026-07-10 00:00:26",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
-        "name": "moisturizer (deluxe)",
-        "url": "https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 102883,
-      "name": "hi from me",
-      "url": "https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR"
-    },
-    {
-      "added_at": "2026-07-10 00:00:26",
-      "album": {
         "name": "Falling Stars",
         "url": "https://open.spotify.com/album/27AH1PpUxHNd9QuyolRynV"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 138200,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/7Hlw6EhjjADbkxvEYo3nIH"
+    },
+    {
+      "added_at": "2026-07-10 00:00:26",
+      "album": {
+        "name": "moisturizer (deluxe)",
+        "url": "https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 102883,
+      "name": "hi from me",
+      "url": "https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR"
     },
     {
       "added_at": "2026-07-10 00:00:26",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
-        "name": "Fire From The Hip",
-        "url": "https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
-    },
-    {
-      "added_at": "2026-07-10 00:00:26",
-      "album": {
         "name": "Fluent",
         "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 112353,
       "name": "Fluent",
       "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
+    },
+    {
+      "added_at": "2026-07-10 00:00:26",
+      "album": {
+        "name": "Fire From The Hip",
+        "url": "https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
     },
     {
       "added_at": "2026-07-10 00:00:26",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
+        "name": "I See Myself In You",
+        "url": "https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "I See Myself In You",
+      "url": "https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK"
+    },
+    {
+      "added_at": "2026-07-10 00:00:26",
+      "album": {
         "name": "Well Organised (feat. Lila Ik\u00e9)",
         "url": "https://open.spotify.com/album/33tTOCJ1O1PJ8yVtmIDD5H"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 212289,
       "name": "Well Organised (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6"
-    },
-    {
-      "added_at": "2026-07-10 00:00:26",
-      "album": {
-        "name": "I See Myself In You",
-        "url": "https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "I See Myself In You",
-      "url": "https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK"
     },
     {
       "added_at": "2026-07-10 00:00:26",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
-        "name": "speedboat",
-        "url": "https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 192993,
-      "name": "speedboat",
-      "url": "https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE"
-    },
-    {
-      "added_at": "2026-07-10 00:00:26",
-      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/71577VPbqC5hlUpJE5iCrM"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 191095,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/29ucXsuXKkb6IWjuEvkEmz"
+    },
+    {
+      "added_at": "2026-07-10 00:00:26",
+      "album": {
+        "name": "speedboat",
+        "url": "https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 192993,
+      "name": "speedboat",
+      "url": "https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE"
     },
     {
       "added_at": "2026-07-10 00:00:26",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
-        "name": "Want It",
-        "url": "https://open.spotify.com/album/3Le6lFQ59vWI615ehmdLAd"
-      },
-      "artists": [
-        {
-          "name": "Love Stenmarck",
-          "url": "https://open.spotify.com/artist/3tOz9LCUfLcFAgKjknAQYz"
-        }
-      ],
-      "duration_ms": 156060,
-      "name": "Want It",
-      "url": "https://open.spotify.com/track/40Y6RVSXsSwdN51EV6df4K"
-    },
-    {
-      "added_at": "2026-07-10 00:00:26",
-      "album": {
         "name": "New Man",
         "url": "https://open.spotify.com/album/2JP7EIbTweYKgL3d2F9qEZ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 214894,
       "name": "One-Way Wasteland",
       "url": "https://open.spotify.com/track/2YV6snl5OzlnxXqVChLzTs"
+    },
+    {
+      "added_at": "2026-07-10 00:00:26",
+      "album": {
+        "name": "Want It",
+        "url": "https://open.spotify.com/album/3Le6lFQ59vWI615ehmdLAd"
+      },
+      "artists": [
+        {
+          "name": "Love Stenmarck",
+          "url": "https://open.spotify.com/artist/3tOz9LCUfLcFAgKjknAQYz"
+        }
+      ],
+      "duration_ms": 156060,
+      "name": "Want It",
+      "url": "https://open.spotify.com/track/40Y6RVSXsSwdN51EV6df4K"
     },
     {
       "added_at": "2026-07-10 00:00:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-10 00:00:26",
       "album": {
-        "name": "Policemen",
-        "url": "https://open.spotify.com/album/6KMJz3eTYYQnvn816TryIY"
-      },
-      "artists": [
-        {
-          "name": "WETLOOK",
-          "url": "https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Policemen",
-      "url": "https://open.spotify.com/track/04X5ul9eAP2pNGNs0L5Xd3"
-    },
-    {
-      "added_at": "2026-07-10 00:00:26",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/3BszcroV45PMBmG4LtoKXd"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 216715,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/7JbWqZVX0w8sc9qhNwwzIu"
+    },
+    {
+      "added_at": "2026-07-10 00:00:26",
+      "album": {
+        "name": "Policemen",
+        "url": "https://open.spotify.com/album/6KMJz3eTYYQnvn816TryIY"
+      },
+      "artists": [
+        {
+          "name": "WETLOOK",
+          "url": "https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Policemen",
+      "url": "https://open.spotify.com/track/04X5ul9eAP2pNGNs0L5Xd3"
     },
     {
       "added_at": "2026-07-10 00:00:26",

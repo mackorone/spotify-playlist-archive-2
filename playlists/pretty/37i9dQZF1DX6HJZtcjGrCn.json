@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Benjamim",
-  "num_followers": 39837,
+  "num_followers": 39839,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 204233,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
-    },
-    {
-      "added_at": "2026-07-09 23:00:40",
-      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2026-07-09 23:00:40",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 204233,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "White Feather Hawk Tail Deer Hunter",
-        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 234049,
-      "name": "White Feather Hawk Tail Deer Hunter",
-      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
-    },
-    {
-      "added_at": "2026-07-09 23:00:40",
-      "album": {
         "name": "Twizzler",
         "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 174349,
       "name": "Twizzler",
       "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
+    },
+    {
+      "added_at": "2026-07-09 23:00:40",
+      "album": {
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 234049,
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
-    },
-    {
-      "added_at": "2026-07-09 23:00:40",
-      "album": {
         "name": "Anna Karenina",
         "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Reputation (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 235705,
-      "name": "Reputation (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -823,6 +803,26 @@
       "duration_ms": 213062,
       "name": "Elegantly Wasted [Feat. Leon Bridges]",
       "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
+    },
+    {
+      "added_at": "2026-07-09 23:00:40",
+      "album": {
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Giving Up Air",
-        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 287411,
-      "name": "Giving Up Air",
-      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
-    },
-    {
-      "added_at": "2026-07-09 23:00:40",
-      "album": {
         "name": "The Clearing (B Sides)",
         "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
       },
@@ -923,8 +907,24 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+    },
+    {
+      "added_at": "2026-07-09 23:00:40",
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 204778,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 222106,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "added_at": "2026-07-09 23:00:40",

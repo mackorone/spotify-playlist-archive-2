@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158432,
+  "num_followers": 158424,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -455,30 +455,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Brisa Errada",
-        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DaluzzZ",
-          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "Brisa Errada",
-      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -503,6 +479,30 @@
       "duration_ms": 146288,
       "name": "sintetizar",
       "url": "https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Favorita",
-        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Favorita",
-      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "Jangada",
         "url": "https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 130285,
       "name": "Jangada",
       "url": "https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -807,22 +807,22 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Tira, Coloca De Volta",
-        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
         },
         {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         }
       ],
-      "duration_ms": 144117,
-      "name": "Tira, Coloca De Volta",
-      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -851,22 +851,22 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+        "name": "Tira, Coloca De Volta",
+        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
       },
       "artists": [
         {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
         },
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
         }
       ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
+      "duration_ms": 144117,
+      "name": "Tira, Coloca De Volta",
+      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -971,26 +955,18 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
       },
       "artists": [
         {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Moz\u00e3o",
-      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -1019,6 +995,30 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Moz\u00e3o",
+      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
     },
     {
       "added_at": "2026-06-17 15:55:31",

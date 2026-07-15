@@ -658,7 +658,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 352952,
       "name": "En Cualquier Momento",
       "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
@@ -1642,6 +1642,32 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "album": {
+        "name": "Aguamala",
+        "url": "https://open.spotify.com/album/4Zt7zF8uP5TM06ENi90FT8"
+      },
+      "artists": [
+        {
+          "name": "Fernando Toussaint",
+          "url": "https://open.spotify.com/artist/4cSn3njGY4NwuWdqTPdOZS"
+        },
+        {
+          "name": "Enrique Pat",
+          "url": "https://open.spotify.com/artist/7embISvbgUYz3kkyT4vpJJ"
+        },
+        {
+          "name": "Bernardo Ron",
+          "url": "https://open.spotify.com/artist/2VGhLzdGosv8P6QxMtJPGx"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503373,
+      "name": "Papantla Tus Hijos Vuelan",
+      "url": "https://open.spotify.com/track/0WMRsWC3byYXZoc5yFVioa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist Cover: DJ LARITA, Afro Bros, Billy Dans & Carmell
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,793 likes - 61 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,815 likes - 61 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 37 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 |
 | 38 | [NO BATIDÃO](https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:29 |
 | 39 | [Shoulder Lean](https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Shoulder Lean](https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl) | 2:34 |
-| 40 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 |
+| 40 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 |
 | 41 | [Kaolo Beat](https://open.spotify.com/track/2dr8yrTUpZw0EzS05mOlGU) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Kaolo Beat](https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX) | 1:46 |
 | 42 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
 | 43 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |

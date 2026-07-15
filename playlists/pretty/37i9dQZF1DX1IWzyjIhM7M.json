@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10316,
+  "num_followers": 10320,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Stone Killer",
+        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
+      },
+      "artists": [
+        {
+          "name": "26fix",
+          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Stone Killer",
+      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Blue Voyage",
         "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 254080,
       "name": "Blue Voyage",
       "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Stone Killer",
-        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
-      },
-      "artists": [
-        {
-          "name": "26fix",
-          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Stone Killer",
-      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
-      },
-      "artists": [
-        {
-          "name": "FiFi Zhang",
-          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
-        }
-      ],
-      "duration_ms": 182828,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Crashland",
         "url": "https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 162066,
       "name": "Crashland",
       "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
+      },
+      "artists": [
+        {
+          "name": "FiFi Zhang",
+          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
+        }
+      ],
+      "duration_ms": 182828,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "taste of u",
-        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 179358,
-      "name": "taste of u",
-      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Don Lemon",
         "url": "https://open.spotify.com/album/10llpGOIEohzO6V2awCypr"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 221692,
       "name": "Don Lemon",
       "url": "https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "taste of u",
+        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 179358,
+      "name": "taste of u",
+      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "She's Got Wings",
-        "url": "https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT"
-      },
-      "artists": [
-        {
-          "name": "Dipper",
-          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
-        }
-      ],
-      "duration_ms": 206732,
-      "name": "She's Got Wings",
-      "url": "https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "I Keep My Feet on the Fragile Plane",
         "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 125199,
       "name": "Making Sense Of",
       "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "She's Got Wings",
+        "url": "https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT"
+      },
+      "artists": [
+        {
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
+        }
+      ],
+      "duration_ms": 206732,
+      "name": "She's Got Wings",
+      "url": "https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "what u like",
-        "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
-      },
-      "artists": [
-        {
-          "name": "Drewbyrd",
-          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
-        }
-      ],
-      "duration_ms": 168621,
-      "name": "what u like",
-      "url": "https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Colder in June",
         "url": "https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 231138,
       "name": "Colder in June",
       "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "what u like",
+        "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
+      },
+      "artists": [
+        {
+          "name": "Drewbyrd",
+          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
+        }
+      ],
+      "duration_ms": 168621,
+      "name": "what u like",
+      "url": "https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY"
-      },
-      "artists": [
-        {
-          "name": "Tha Boy Myles",
-          "url": "https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5"
-        }
-      ],
-      "duration_ms": 180636,
-      "name": "Express",
-      "url": "https://open.spotify.com/track/49ST93zDICBoe4noumugsa"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "humanus",
         "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY"
+      },
+      "artists": [
+        {
+          "name": "Tha Boy Myles",
+          "url": "https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5"
+        }
+      ],
+      "duration_ms": 180636,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/49ST93zDICBoe4noumugsa"
     },
     {
       "added_at": "2024-01-10 16:06:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,551 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,601 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 42 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 43 | [No Roots \(Radio Mix\)](https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX) | [RADIØMATIK](https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B), [Wolsh](https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm), [y'all](https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub) | [No Roots \(Radio Mix\)](https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso) | 2:53 |
 | 44 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
-| 45 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
-| 46 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
+| 45 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
+| 46 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
 | 47 | [Won't Back Down](https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Won't Back Down](https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII) | 2:45 |
 | 48 | [Mr\. Navigator](https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Mr\. Navigator](https://open.spotify.com/album/7j2CtumDjqj5nve12AmTjy) | 2:32 |
 | 49 | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ) | 3:00 |

@@ -5655,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "MY SKYSCRAPER",
+        "url": "https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em"
+      },
+      "artists": [
+        {
+          "name": "Nirosta Steel",
+          "url": "https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562000,
+      "name": "FRESH FEELING",
+      "url": "https://open.spotify.com/track/2DgfmAKx2fdAkqhqMboZKA"
+    },
+    {
+      "album": {
         "name": "Marina Todas Ao Vivo",
         "url": "https://open.spotify.com/album/3g7J1aC0RKkCYVybsCXYC8"
       },
@@ -5908,6 +5926,24 @@
       "duration_ms": 301838,
       "name": "Gift",
       "url": "https://open.spotify.com/track/7FgePu0nqCf8rkafQOeHV7"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/71hbXLIenMTEfyDfPRfq2r"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301838,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/7udaKPj4op8kSUIcJpQlYD"
     },
     {
       "album": {
@@ -10553,6 +10589,24 @@
     },
     {
       "album": {
+        "name": "Iceblink Luck",
+        "url": "https://open.spotify.com/album/2NSJ5ABdmwwoFpZWzY9wzQ"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180293,
+      "name": "Mizake the Mizan",
+      "url": "https://open.spotify.com/track/15EpITP684el9sd1UFWgI9"
+    },
+    {
+      "album": {
         "name": "Nigerian Popular Music from the 50's",
         "url": "https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA"
       },
@@ -11210,7 +11264,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 169533,
       "name": "Natural Disasters",
       "url": "https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S"
@@ -15014,6 +15068,24 @@
       "duration_ms": 226213,
       "name": "Sparrowsong",
       "url": "https://open.spotify.com/track/52MWdbfrFoFm7Yd4ai894U"
+    },
+    {
+      "album": {
+        "name": "MY SKYSCRAPER",
+        "url": "https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em"
+      },
+      "artists": [
+        {
+          "name": "Nirosta Steel",
+          "url": "https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 813000,
+      "name": "SPECIAL WEAKNESS",
+      "url": "https://open.spotify.com/track/56PQ9YCEIe1YhSe90NGdRu"
     },
     {
       "album": {

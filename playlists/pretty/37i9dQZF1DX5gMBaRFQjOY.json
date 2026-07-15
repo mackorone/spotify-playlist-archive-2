@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 636301,
+  "num_followers": 636416,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
       "added_at": "2026-02-11 22:45:47",

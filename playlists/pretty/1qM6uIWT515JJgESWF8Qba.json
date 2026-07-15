@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 517,
+  "num_followers": 518,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACB0PDx1wfywtYjYylFhNgZGgnjl03",
+  "snapshot_id": "AAACCazGup99uhGxoic8ed/JdnwW3cRE",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1443,6 +1443,38 @@
       "duration_ms": 182198,
       "name": "Laser Love",
       "url": "https://open.spotify.com/track/6FzsZvYUcxbZwpykjhBsl0"
+    },
+    {
+      "added_at": "2026-07-14 21:44:55",
+      "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/609u2yxLvVYULfkxZmOzXR"
+      },
+      "artists": [
+        {
+          "name": "ARMAGELION",
+          "url": "https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/11bJzwUqkH2CgVFFV16PGF"
+    },
+    {
+      "added_at": "2026-07-14 21:50:12",
+      "album": {
+        "name": "Unfinished Dreams.",
+        "url": "https://open.spotify.com/album/5QJ89klD5afW3F1u0G5HQt"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 271769,
+      "name": "Night Souls.",
+      "url": "https://open.spotify.com/track/17ZiSP3MD7bGbjigAWDuuR"
     }
   ],
   "unique_name": "Local Rock Bands",

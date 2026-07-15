@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1247869,
+  "num_followers": 1247970,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAHL4Y0obx/wNpufDr5cqiW",
+  "snapshot_id": "alQqgAAAAABgQ3ymP5NTsGRYHDHawLJZ",
   "tracks": [
     {
       "added_at": null,
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
+      "duration_ms": 248493,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
     },
     {
       "added_at": null,
@@ -987,6 +987,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        },
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Momentary Bliss (feat. slowthai and Slaves)",
+      "url": "https://open.spotify.com/track/5h5FY6vmtDpgXF91BUexO0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -996,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 248493,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
+      "duration_ms": 239613,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
     }
   ],
   "unique_name": "This Is Gorillaz",

@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1105840,
+  "num_followers": 1105926,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Coral Fang (PA Version)",
-        "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
-      },
-      "artists": [
-        {
-          "name": "The Distillers",
-          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Drain the Blood",
-      "url": "https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Coral Fang (PA Version)",
+        "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
+      },
+      "artists": [
+        {
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Drain the Blood",
+      "url": "https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+        "name": "Titles",
+        "url": "https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq"
       },
       "artists": [
         {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "Red City Radio",
+          "url": "https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL"
         }
       ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+      "duration_ms": 183504,
+      "name": "Two Notes Shy of an Octave",
+      "url": "https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH"
     }
   ],
   "unique_name": "Skatepark Punks",

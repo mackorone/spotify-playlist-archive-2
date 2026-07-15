@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAVRBPZHSj2kiy5qx1V3h09",
+  "snapshot_id": "alQqgAAAAADi9143zAJ459LU/U997dJ2",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juaduddanya",
+        "url": "https://open.spotify.com/album/1dSzUdVoMcAOnyAHUmMC4W"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 247629,
+      "name": "Juaduddanya",
+      "url": "https://open.spotify.com/track/5ZzslTZYA6jDQ6bwjX4W6O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
@@ -71,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/1AG2QdGXABKCvbqaVS0OyO"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Hiraeth",
-      "url": "https://open.spotify.com/track/2unhwFru9sVt2EfuJfnwU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -107,18 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juaduddanya",
-        "url": "https://open.spotify.com/album/1dSzUdVoMcAOnyAHUmMC4W"
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/1AG2QdGXABKCvbqaVS0OyO"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 247629,
-      "name": "Juaduddanya",
-      "url": "https://open.spotify.com/track/5ZzslTZYA6jDQ6bwjX4W6O"
+      "duration_ms": 191600,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/2unhwFru9sVt2EfuJfnwU7"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddag",
         "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
       },
@@ -487,6 +471,26 @@
       "duration_ms": 160000,
       "name": "Jeg Kan S\u00e5 Godt Li Blomster",
       "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calibrating Senses",
+        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Connotes Beauty",
+      "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
     },
     {
       "added_at": null,
@@ -531,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Calibrating Senses",
         "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
@@ -544,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Connotes Beauty",
-      "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
+      "duration_ms": 102000,
+      "name": "Portal Of",
+      "url": "https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI"
     },
     {
       "added_at": null,
@@ -571,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planetes",
-        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 274115,
-      "name": "Begin Sync End",
-      "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calibrating Senses",
-        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 102000,
-      "name": "Portal Of",
-      "url": "https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI"
+      "duration_ms": 274115,
+      "name": "Begin Sync End",
+      "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 712522,
+      "name": "Hills Bells Mother",
+      "url": "https://open.spotify.com/track/7fATVAuieODEabRB4txujc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Island Alchemy",
         "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
@@ -767,6 +783,22 @@
       "duration_ms": 344827,
       "name": "Mu Evans",
       "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hidden Terraces",
+        "url": "https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1087000,
+      "name": "Morgen\u00e5nder",
+      "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
     },
     {
       "added_at": null,

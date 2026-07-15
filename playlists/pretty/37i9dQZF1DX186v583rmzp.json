@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 9351080,
+  "num_followers": 9351357,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 236800,
       "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1059,6 +1059,30 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Amil",
+          "url": "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 309773,
+      "name": "Can I Get A...",
+      "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Wu-Tang Forever",
         "url": "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
       },
@@ -1111,30 +1135,6 @@
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Vol.2... Hard Knock Life",
-        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Amil",
-          "url": "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        }
-      ],
-      "duration_ms": 309773,
-      "name": "Can I Get A...",
-      "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Extinction Level Event: The Final World Front",
-        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Gimme Some More",
-      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 260797,
       "name": "Halftime",
       "url": "https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Supa Dupa Fly",
-        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Rain (Supa Dupa Fly)",
-      "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 275893,
       "name": "Gz and Hustlas",
       "url": "https://open.spotify.com/track/3gTPlYouwH2OoVbMQBB4UC"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Supa Dupa Fly",
+        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Rain (Supa Dupa Fly)",
+      "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "Chief Rocka",
-      "url": "https://open.spotify.com/track/34MRi5GRWHFUa731JBxFEl"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Southernplayalisticadillacmuzik",
         "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 261266,
       "name": "Player's Ball",
       "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "Chief Rocka",
+      "url": "https://open.spotify.com/track/34MRi5GRWHFUa731JBxFEl"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Extended Revolution",
-        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 265200,
       "name": "Elevators (Me & You)",
       "url": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Extended Revolution",
+        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Between A Rock And A Hard Place",
-        "url": "https://open.spotify.com/album/0x4ZQDTaX3vyqP8ZCd4BcE"
-      },
-      "artists": [
-        {
-          "name": "Artifacts",
-          "url": "https://open.spotify.com/artist/4hz8ohK9ESaFbJBAXvWJGL"
-        }
-      ],
-      "duration_ms": 244306,
-      "name": "C'Mon wit da Git Down",
-      "url": "https://open.spotify.com/track/3MnwLa9KRUiv2gNFtWPvib"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "One Day It'll All Make Sense",
         "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 134040,
       "name": "Invocation",
       "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Between A Rock And A Hard Place",
+        "url": "https://open.spotify.com/album/0x4ZQDTaX3vyqP8ZCd4BcE"
+      },
+      "artists": [
+        {
+          "name": "Artifacts",
+          "url": "https://open.spotify.com/artist/4hz8ohK9ESaFbJBAXvWJGL"
+        }
+      ],
+      "duration_ms": 244306,
+      "name": "C'Mon wit da Git Down",
+      "url": "https://open.spotify.com/track/3MnwLa9KRUiv2gNFtWPvib"
     },
     {
       "added_at": "2024-06-28 10:14:13",

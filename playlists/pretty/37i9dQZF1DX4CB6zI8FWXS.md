@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Sekou
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,080 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,075 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 14 | [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 |
 | 15 | [Sweetest Season](https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Sweetest Season](https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U) | 2:50 |
 | 16 | [So Close](https://open.spotify.com/track/44kxg6qcq8kOSE7D888zGD) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [So Close](https://open.spotify.com/album/15uNXPTHlPpVGvP9eOtlDc) | 2:48 |
-| 17 | [Callin \(feat\. Blu june\)](https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu june](https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr) | [Callin \(feat\. Blu june\)](https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS) | 2:34 |
+| 17 | [Callin \(feat\. Blu june\)](https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [Callin \(feat\. Blu june\)](https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS) | 2:34 |
 | 18 | [BENJAMINS](https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [BENJAMINS](https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U) | 3:11 |
 | 19 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
 | 20 | [Thinking What I'm Thinking](https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Thinking What I'm Thinking](https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3) | 4:42 |

@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "Psalm 8",
+        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Psalm 8",
+      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
+    },
+    {
+      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },

@@ -15858,7 +15858,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 214117,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/56pZATg2nMBcKwiyvvncRe"
@@ -29828,6 +29828,24 @@
       "duration_ms": 222168,
       "name": "Vacant",
       "url": "https://open.spotify.com/track/71OEyQke0CiQ9I4rHNqtuo"
+    },
+    {
+      "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe"
+      },
+      "artists": [
+        {
+          "name": "ASAVA",
+          "url": "https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Valhalla",
+      "url": "https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh"
     },
     {
       "album": {

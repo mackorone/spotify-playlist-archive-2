@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7845974,
+  "num_followers": 7845799,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,26 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
         "name": "Dancin (feat. Luvli) [southstar Remix]",
         "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 173333,
       "name": "Dancin (feat. Luvli) - southstar Remix",
       "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "Ray Of Solar",
-        "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 241793,
-      "name": "Ray Of Solar",
-      "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
         "name": "The Less I Know The Better",
         "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 176114,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
+        "name": "Ray Of Solar",
+        "url": "https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 241793,
+      "name": "Ray Of Solar",
+      "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        }
-      ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "Lioness",
-        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        }
-      ],
-      "duration_ms": 172515,
-      "name": "Lioness",
-      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
         "name": "Won\u2019t Be Possible",
         "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
       },
@@ -1335,18 +1315,22 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "Blah Blah Blah",
-        "url": "https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU"
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
       "artists": [
         {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
         }
       ],
-      "duration_ms": 100851,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1"
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1363,6 +1347,22 @@
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa"
+        }
+      ],
+      "duration_ms": 100851,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "Love Tonight",
-        "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Love Tonight",
-      "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
         "name": "light years (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 220978,
       "name": "light years (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Love Tonight",
+      "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "Beautiful Places",
-        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Brieanna Grace",
-          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Beautiful Places",
-      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
     },
     {
       "added_at": "2026-07-09 22:00:12",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-07-09 22:00:12",
       "album": {
-        "name": "Too Big For B-Side",
-        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 224414,
-      "name": "Like I Like It",
-      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
-    },
-    {
-      "added_at": "2026-07-09 22:00:12",
-      "album": {
         "name": "CTRL ESCAPE",
         "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 160758,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
+    },
+    {
+      "added_at": "2026-07-09 22:00:12",
+      "album": {
+        "name": "Too Big For B-Side",
+        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 224414,
+      "name": "Like I Like It",
+      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
     }
   ],
   "unique_name": "Gym Hits",

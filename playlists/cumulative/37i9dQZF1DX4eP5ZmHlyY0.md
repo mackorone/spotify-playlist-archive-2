@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: PSYCHIC FEVER from EXILE TRIBE
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Number\_i
 
-1,046 songs - 2 day 8 hr 46 min
+1,047 songs - 2 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,7 +829,7 @@
 | [to me](https://open.spotify.com/track/3pykHwMxPrCjKIS5jMcADR) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Royal Straight Flush](https://open.spotify.com/album/7u3KKFUERzcSNIxKgRv9VR) | 3:39 | 2025-04-14 | 2025-07-16 |
 | [To The First \- THE FIRST ver.\- feat\. BE:FIRST, Aile The Shota, RAN, REIKO, RUI](https://open.spotify.com/track/7GJnXmC0l8TxUC8JaoOcO5) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [RAN](https://open.spotify.com/artist/70I9r0TSp9s3zQSUexfTMq), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2) | [Success Is The Best Revenge \(Memorial Edition\)](https://open.spotify.com/album/23tBwhuUXYVflEQ5hkf1K3) | 3:09 | 2026-04-14 | 2026-06-27 |
 | [TOKYO BLACK HOLE](https://open.spotify.com/track/2OIo2bL2wQxzzW3MCIuxf4) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [ECHOES of DUALITY](https://open.spotify.com/album/1OL8ShYfIqC64LwSqAozVm) | 3:33 | 2024-11-12 | 2025-01-15 |
-| [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 | 2026-01-30 |  |
+| [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 | 2026-01-30 | 2026-07-15 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-03-06 | 2025-08-25 |
 | [TOP 5](https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL) | 2:27 | 2026-05-18 |  |
 | [TOP OF THE GAME](https://open.spotify.com/track/19aOYFx9yiD7YxLooHawDP) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [TOP OF THE GAME](https://open.spotify.com/album/2w3dCtaBpQRnDIYwGWiLPP) | 3:31 | 2025-01-14 | 2025-02-05 |
@@ -920,6 +920,7 @@
 | [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 | 2025-11-11 | 2026-04-24 |
 | [X](https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [5x](https://open.spotify.com/album/549FaK4UMSSCdbxKVLWaYL) | 2:51 | 2025-06-28 | 2025-09-22 |
 | [XTC](https://open.spotify.com/track/76qI8ihfONou0gth5gHW18) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [XTC](https://open.spotify.com/album/6rwbsr75hgHJ6x8WX2cul2) | 2:52 | 2026-01-15 | 2026-02-18 |
+| [YANKEE SQUAT](https://open.spotify.com/track/2FjcwZjJNXkTPsQheG1buR) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT](https://open.spotify.com/album/5LWK0q6Ishn7GskS76W3r0) | 2:37 | 2026-07-14 |  |
 | [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 | 2026-05-18 |  |
 | [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 | 2025-03-06 | 2025-09-01 |
 | [YG](https://open.spotify.com/track/69DgzXRvRI0YHz6UBv6vjK) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [YG](https://open.spotify.com/album/2UjkJVkg3KwglkkzGvRMWo) | 3:52 | 2024-06-12 | 2024-06-19 |

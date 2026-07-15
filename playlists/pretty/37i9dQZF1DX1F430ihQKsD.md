@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal avec Chiara Savasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,384 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,395 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

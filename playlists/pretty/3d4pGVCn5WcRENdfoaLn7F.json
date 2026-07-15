@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 781,
+  "num_followers": 785,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADzhoy84vn7JFYF+vYrap2bceZk1g1",
+  "snapshot_id": "AAADzx1cqerj2k9EvETr6KDVzvcE5i1M",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1379,6 +1379,22 @@
       "duration_ms": 242253,
       "name": "United",
       "url": "https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT"
+    },
+    {
+      "added_at": "2026-07-14 22:06:30",
+      "album": {
+        "name": "Higher Planes",
+        "url": "https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy"
+      },
+      "artists": [
+        {
+          "name": "If by Whiskey",
+          "url": "https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5"
+        }
+      ],
+      "duration_ms": 226583,
+      "name": "It's Alright Amanda",
+      "url": "https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

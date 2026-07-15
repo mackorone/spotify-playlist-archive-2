@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > The most iconic indie needle drops from the last two decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,578 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,646 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 46 | [ur so pretty](https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [My Vine](https://open.spotify.com/album/4qBisrnVON2gyBr6ZrFnHp) | 2:12 |
 | 47 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
 | 48 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
-| 49 | [Mykonos](https://open.spotify.com/track/7H71gZwWs3xPWnHM30NDUp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection: 2006\-2009](https://open.spotify.com/album/2m7zr13OtqMWyPkO32WRo0) | 4:35 |
-| 50 | [Ultraviolet \- From "Angus, Thongs and Perfect Snogging"](https://open.spotify.com/track/4Zf3vqW6M3tAQAvywYgKU6) | [Stiff Dylans](https://open.spotify.com/artist/1IaGetA2lSiOaDPMfHxzSM) | [Ultraviolet](https://open.spotify.com/album/2BEfAkOz9rNk16wdwLtAiS) | 3:46 |
+| 49 | [Ultraviolet \- From "Angus, Thongs and Perfect Snogging"](https://open.spotify.com/track/4Zf3vqW6M3tAQAvywYgKU6) | [Stiff Dylans](https://open.spotify.com/artist/1IaGetA2lSiOaDPMfHxzSM) | [Ultraviolet](https://open.spotify.com/album/2BEfAkOz9rNk16wdwLtAiS) | 3:46 |
+| 50 | [Mykonos](https://open.spotify.com/track/7H71gZwWs3xPWnHM30NDUp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection: 2006\-2009](https://open.spotify.com/album/2m7zr13OtqMWyPkO32WRo0) | 4:35 |
 
 Snapshot ID: `AAAAABpy7aNW4NV2N2RC7JG7DB5H4qai`

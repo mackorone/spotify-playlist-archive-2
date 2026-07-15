@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,370 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,374 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 28 | [Leva](https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds) | [Issify](https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM) | [Leva](https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh) | 2:56 |
 | 29 | [Weh Dem A Gwaan](https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Weh Dem A Gwaan](https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0) | 3:20 |
 | 30 | [Pirret](https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Pirret](https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM) | 4:20 |
-| 31 | [Vassaste kniven i lådan](https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [RONGO](https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I) | 3:34 |
-| 32 | [Så nice](https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Så nice](https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y) | 2:49 |
+| 31 | [Så nice](https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Så nice](https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y) | 2:49 |
+| 32 | [Vassaste kniven i lådan](https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [RONGO](https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I) | 3:34 |
 | 33 | [Kär Och Galen](https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Kär Och Galen](https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN) | 3:21 |
 | 34 | [Allting ordnar sig](https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR) | [Achee Flips](https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT), [Rob Bourne](https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC) | [Allting ordnar sig](https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf) | 3:17 |
 | 35 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 40 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 | 41 | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b) | [Promoe](https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU) | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG) | 3:26 |
 | 42 | [Sweet Reggaemusik](https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [Sweet Reggaemusik](https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC) | 2:42 |
-| 43 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 |
-| 44 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
+| 43 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
+| 44 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 |
 | 45 | [Säg Till Mig](https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Säg Till Mig](https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW) | 4:20 |
 | 46 | [Så fakking fin](https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Så fakking fin](https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA) | 2:40 |
 | 47 | [Fet Krokodil](https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM) | [P\-Danjelsa](https://open.spotify.com/artist/1aRGrIf66qGIeHgLJJm3mk) | [Fet Krokodil](https://open.spotify.com/album/5at64z4ZwtkZGSX98y1WtB) | 3:14 |

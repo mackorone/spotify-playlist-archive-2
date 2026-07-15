@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 125869,
+  "num_followers": 125886,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABX/Ln7v9XFsIpQY4vYvMKM",
+  "snapshot_id": "alQqgAAAAACfrVyE0SZnDDsFEAXld7U2",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reunion With Chet Baker",
-        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 286133,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k"
+      "duration_ms": 197426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
     },
     {
       "added_at": null,
@@ -123,18 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "Reunion With Chet Baker",
+        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
       "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 197426,
-      "name": "That Ole Devil Called Love",
-      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
+      "duration_ms": 286133,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Funny Valentine: The Best Of Chet Baker",
-        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 423573,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "My Funny Valentine: The Best Of Chet Baker",
+        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 179573,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+      "duration_ms": 423573,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
+      "duration_ms": 306893,
+      "name": "I\u2019m Old Fashioned",
+      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -440,25 +456,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 306893,
-      "name": "I\u2019m Old Fashioned",
-      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/40m3isgvDXdkSP2zh3p4uE"
+      "duration_ms": 189226,
+      "name": "Dancing on the Ceiling",
+      "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/40m3isgvDXdkSP2zh3p4uE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 189226,
-      "name": "Dancing on the Ceiling",
-      "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
+      "duration_ms": 173160,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "It Could Happen to You",
-      "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
     },
     {
       "added_at": null,

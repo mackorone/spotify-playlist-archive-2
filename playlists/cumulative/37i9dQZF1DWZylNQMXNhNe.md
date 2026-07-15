@@ -2,9 +2,9 @@
 
 ### [GLOW Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
+> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bia Soull
 
-264 songs - 13 hr 31 min
+265 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 | 2025-07-04 |  |
 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 | 2025-07-04 |  |
 | [Fórmula](https://open.spotify.com/track/6L7popTiDKKLHafG3X0ZSF) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Fórmula](https://open.spotify.com/album/1ncmgUI98E7illDvzbQNt0) | 2:26 | 2023-09-02 | 2023-10-07 |
+| [Fúria](https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Coral](https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs), [Fervo Unboxing](https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia) | [Fúria](https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx) | 3:13 | 2026-07-14 |  |
 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 | 2024-06-26 | 2026-05-23 |
 | [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 | 2025-09-05 |  |
 | [GORDINHA MAS TA BOM](https://open.spotify.com/track/2PsKJZZWbVjb7gkLNkBfzO) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH) | [A VISITA \- SANDRA ELETRÔNICA](https://open.spotify.com/album/6q2wn24CJil53D8yGl7Cvz) | 2:51 | 2026-05-22 |  |
@@ -146,7 +147,7 @@
 | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [VADIAS IN LOVE](https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p) | 2:47 | 2026-05-22 |  |
 | [Maniac](https://open.spotify.com/track/1jTJ4Al2gI1mTLuSkj0kIj) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Maniac](https://open.spotify.com/album/4DDPUqTKpyD90srBMNYCYh) | 3:26 | 2022-06-24 | 2023-06-17 |
 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 | 2024-06-26 | 2026-03-28 |
-| [MARQUINHA](https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARQUINHA](https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz) | 2:26 | 2026-05-22 |  |
+| [MARQUINHA](https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARQUINHA](https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz) | 2:26 | 2026-05-22 | 2026-07-15 |
 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 | 2024-06-26 | 2026-05-23 |
 | [MAU](https://open.spotify.com/track/4yle1g6x5ZvZAGFTPcIM42) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [MAU](https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9) | 2:55 | 2023-09-02 | 2024-01-16 |
 | [ME ALIMENTA](https://open.spotify.com/track/4LPHHIENj6SYHDC92WnbrK) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [PZZS](https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [FENOMENAL](https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J) | 2:20 | 2026-03-27 |  |

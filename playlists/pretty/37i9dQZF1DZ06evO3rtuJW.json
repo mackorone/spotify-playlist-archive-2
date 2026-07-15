@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36128,
+  "num_followers": 36131,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAHcBNuT9B+RfAlqPTsUym9",
+  "snapshot_id": "alQqgAAAAAB7xFxxCXgw8KBF6n4by16G",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Bibby",
-          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
-      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survivor\u2019s Guilt (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 183703,
       "name": "Survivor\u2019s Guilt (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Bibby",
+          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
+      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 221815,
       "name": "Cry No More",
       "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kween",
-        "url": "https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM"
+        "name": "Coming Home (with G Herbo)",
+        "url": "https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j"
       },
       "artists": [
         {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 174314,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4Ie1m1bVHwTsw1EQ1Sc4Ic"
+      "duration_ms": 212221,
+      "name": "Coming Home (with G Herbo)",
+      "url": "https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f"
     }
   ],
   "unique_name": "This Is G Herbo",

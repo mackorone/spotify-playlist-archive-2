@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,299 likes - 150 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,319 likes - 150 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,11 +125,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 115 | [Big Dreams](https://open.spotify.com/track/6q1nZrQOBplr60zI4Kku4a) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Badkid](https://open.spotify.com/album/2QaQGxQuEV9hZYMhpS6Zax) | 2:33 |
 | 116 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 |
 | 117 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
-| 118 | [False Direction](https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:37 |
-| 119 | [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 |
+| 118 | [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 |
+| 119 | [False Direction](https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:37 |
 | 120 | [Closer](https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Closer](https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL) | 3:27 |
-| 121 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 |
-| 122 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
+| 121 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
+| 122 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 |
 | 123 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
 | 124 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 125 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 128 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
 | 129 | [Alone](https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Alone](https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh) | 3:16 |
 | 130 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
-| 131 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 |
-| 132 | [Can't Hide](https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Can't Hide](https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW) | 3:04 |
+| 131 | [Can't Hide](https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Can't Hide](https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW) | 3:04 |
+| 132 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 |
 | 133 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 |
 | 134 | [Shawty](https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes) | 3:17 |
 | 135 | [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 |
@@ -148,14 +148,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 138 | [Blue Eyed Constellation](https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:53 |
 | 139 | [Midnight Snack](https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Midnight Snack](https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc) | 3:47 |
 | 140 | [Shotta Flow 2](https://open.spotify.com/track/26X0iVtpSOySWPTcQAc5ul) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 2](https://open.spotify.com/album/1FxcC9sPtPHDs7EW5m8ji2) | 2:12 |
-| 141 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
-| 142 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
+| 141 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
+| 142 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
 | 143 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 |
 | 144 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 |
 | 145 | [Eyes Don't Lie](https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don’t lie](https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y) | 3:46 |
 | 146 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 |
-| 147 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 |
-| 148 | [Ditch](https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Ditch](https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59) | 3:30 |
+| 147 | [Ditch](https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Ditch](https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59) | 3:30 |
+| 148 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 |
 | 149 | [Daughter Of The Sun](https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Daughter Of The Sun](https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS) | 3:57 |
 | 150 | [Pound Town](https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \- EP](https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi) | 2:09 |
 

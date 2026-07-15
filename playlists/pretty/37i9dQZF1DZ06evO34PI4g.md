@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,674 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,046 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 32 | [Suggestions](https://open.spotify.com/track/3zy3HaFYhXueJu25oUHPus) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:43 |
 | 33 | [Soil](https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe\)](https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb) | 3:25 |
 | 34 | [Know](https://open.spotify.com/track/3cuZytP8ujEBEiRtQfhsIQ) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG) | 2:56 |
+| 35 | [Darts](https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe\)](https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb) | 2:42 |
 
-Snapshot ID: `alLZAAAAAAAJgIBmrBdIc3fpw5xeucQ/`
+Snapshot ID: `alQqgAAAAACQqVoGi3SjrgbS011jNfHy`

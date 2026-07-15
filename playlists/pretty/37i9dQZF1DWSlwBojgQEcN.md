@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,362 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,330 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 66 | [I Like to Be With Me When I'm With You](https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [The Collection](https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i) | 3:50 |
 | 67 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
 | 68 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
-| 69 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
-| 70 | [I'm so in Love with You \(feat\. Seth Avett\)](https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [The War Inside \(Deluxe Edition\)](https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy) | 3:46 |
+| 69 | [I'm so in Love with You \(feat\. Seth Avett\)](https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [The War Inside \(Deluxe Edition\)](https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy) | 3:46 |
+| 70 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
 | 71 | [How We Used to Love](https://open.spotify.com/track/6XkChVvxj0Cakfae17NaK3) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:03 |
 | 72 | [I Can't Keep from Loving You](https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2) | [Andrew James](https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU) | [Shoreline](https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz) | 4:12 |
 | 73 | [I'm Ready](https://open.spotify.com/track/1RPmeICY33v1lLiq6Gqj1r) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:14 |
-| 74 | [Till Forever \(Acoustic\)](https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 3:55 |
-| 75 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 |
+| 74 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 |
+| 75 | [Till Forever \(Acoustic\)](https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 3:55 |
 | 76 | [Please Don't Change Your Mind](https://open.spotify.com/track/5qFG8i1wsPsPgGdqwPfQJQ) | [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [Hard Won](https://open.spotify.com/album/3S36fR57klmwmODtORET8C) | 3:37 |
 | 77 | [Star\-Crossed Lovers \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/33ABk3bhz6G8AB9ASHrgW9) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:06 |
 | 78 | [Wondrous Love](https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 2:35 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 87 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:29 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
 | 89 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
-| 90 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
+| 90 | [Whatever You Do](https://open.spotify.com/track/4K37GcwIOuIiN9LxLw98Us) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Whatever You Do](https://open.spotify.com/album/01MktWtflLn2FrKjMYNtVM) | 4:07 |
 | 91 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 |
-| 92 | [Whatever You Do](https://open.spotify.com/track/4K37GcwIOuIiN9LxLw98Us) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Whatever You Do](https://open.spotify.com/album/01MktWtflLn2FrKjMYNtVM) | 4:07 |
+| 92 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
 | 93 | [Chandelier Love](https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:23 |
 | 94 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
 | 95 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |

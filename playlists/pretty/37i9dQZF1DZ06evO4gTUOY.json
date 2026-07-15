@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4133660,
+  "num_followers": 4133881,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACZWpb80UkKd8E33yltoIix",
+  "snapshot_id": "alQqgAAAAADvJuBfAoUgO+4Ewl/DbjOV",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 230199,
-      "name": "Somebody Save Me",
-      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 251720,
       "name": "Business",
       "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "added_at": null,
@@ -899,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODIES (feat. Eminem)",
-        "url": "https://open.spotify.com/album/3BMZfaRLxJMfXmibewW1nx"
-      },
-      "artists": [
-        {
-          "name": "Upstates",
-          "url": "https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Lydia Miles",
-          "url": "https://open.spotify.com/artist/5icU0KWuevjGFn4IE7tDc6"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "BODIES - feat. Eminem",
-      "url": "https://open.spotify.com/track/10IUNvL4OPg3xCARlRAUJw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 282026,
       "name": "Go To Sleep",
       "url": "https://open.spotify.com/track/66ezChUOWvgzRQAi3Ay1wt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Remember The Name (feat. Eminem & 50 Cent)",
+      "url": "https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec"
     }
   ],
   "unique_name": "This Is Eminem",

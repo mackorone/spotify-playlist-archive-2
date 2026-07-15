@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAA6ypOoj36osg9HElsz/2Mn",
+  "snapshot_id": "alQqgAAAAACfZHRExFI/XyLjInj9tmHI",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre la Guerra y el Amor",
-        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Entre la Guerra y el Amor",
-      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uno de los Buenos",
         "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 176768,
       "name": "Uno de los Buenos",
       "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre la Guerra y el Amor",
+        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Entre la Guerra y el Amor",
+      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
       "duration_ms": 263807,
       "name": "Esa Hembra Es Mala (En Vivo)",
       "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Nuevo",
         "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 179427,
       "name": "Nada Nuevo",
       "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 200728,
-      "name": "Yo soy Buena Mujer",
-      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 200728,
+      "name": "Yo soy Buena Mujer",
+      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 247737,
       "name": "Fuiste T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 140662,
-      "name": "Pinocho",
-      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 214954,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     },
     {
       "added_at": null,
@@ -819,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bohemia (En Vivo)",
-        "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
+        "name": "En Vivo Desde Tijuana",
+        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
       },
       "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 242177,
-      "name": "Cielo Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/39YoHBqfGPFxl8kN2xrqJe"
+      "duration_ms": 230230,
+      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
+      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

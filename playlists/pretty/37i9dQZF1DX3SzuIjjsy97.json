@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407299,
+  "num_followers": 407289,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,22 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
         },
         {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 349560,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO"
+      "duration_ms": 194848,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
     },
     {
       "added_at": "2026-03-06 13:38:21",
@@ -215,22 +215,22 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
       "artists": [
         {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
         },
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
         }
       ],
-      "duration_ms": 194848,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+      "duration_ms": 349560,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO"
     },
     {
       "added_at": "2026-03-06 13:38:21",
@@ -307,26 +307,6 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Zac Efron",
+          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr"
     },
     {
       "added_at": "2026-03-06 13:38:21",

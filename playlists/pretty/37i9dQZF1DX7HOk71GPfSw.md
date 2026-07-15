@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cannelle new mixtape = inspiring ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,103 likes - 120 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,360 likes - 120 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,826 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,580 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [いまさら](https://open.spotify.com/track/6Dy8snlvGO9DrI25fNwOSQ) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [いまさら](https://open.spotify.com/album/2WmgxTX8r6H8YFg7Spt1WC) | 4:17 |
 | 40 | [from](https://open.spotify.com/track/0LljxYUfy0BXQOKVnrkAXL) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [from](https://open.spotify.com/album/7EqCjnOQnbmzV1SIrV9cNl) | 3:51 |
 
-Snapshot ID: `AAAAABgflarI2eWoDOn1V8FYWEXDytEc`
+Snapshot ID: `AAAAADNwfe8BHO5fCkjgNpUf6nUryo7w`

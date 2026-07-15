@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,792 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,791 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/track/6dgniKsterTlem7d54gGjP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/album/5Nu3B843pAWSp8gOCcVxkx) | 5:09 |
 | 2 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
-| 3 | [The Best](https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:43 |
-| 4 | [Carry On](https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:49 |
+| 3 | [Carry On](https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:49 |
+| 4 | [The Best](https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:43 |
 | 5 | [Panoramic View](https://open.spotify.com/track/4Qf8HOtPqUC1tbPNgIKh3o) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:52 |
 | 6 | [Kill Your Heroes](https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:58 |
 | 7 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/71dvxqSL0JT3J4Uv2WdPJx) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gnEi23PFBwHXT9rMqTsN5) | 2:34 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 34 | [Found Atlas](https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK) | 3:44 |
 | 35 | [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 |
 | 36 | [I Am Happy](https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:02 |
-| 37 | [flagpole sitta](https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [BRAINDEAD](https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv) | 3:35 |
-| 38 | [Take A Chance On Me \(feat\. Jewel\)](https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
-| 39 | [Jealous Buffoon](https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:09 |
+| 37 | [Jealous Buffoon](https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:09 |
+| 38 | [flagpole sitta](https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [BRAINDEAD](https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv) | 3:35 |
+| 39 | [Take A Chance On Me \(feat\. Jewel\)](https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 | 40 | [A Letter To No One](https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 4:01 |
 | 41 | [MF](https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:17 |
 | 42 | [Candy Pop](https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 49 | [Maniac \(feat\. Conor Mason of Nothing But Thieves\)](https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp), [Conor Mason](https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 | 50 | [Dark Matter](https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod) | 2:35 |
 
-Snapshot ID: `alLZAAAAAACLDXYNpbzRCbimjCOV1rLo`
+Snapshot ID: `alQqgAAAAACDrLcl9Txaf4rvRJf7+pM1`

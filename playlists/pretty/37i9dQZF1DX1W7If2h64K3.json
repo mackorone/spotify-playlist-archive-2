@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 58854,
+  "num_followers": 58865,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
+        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Papillons, Op. 2: XII. Finale",
+      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Lied Edition, Vol. 2: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Ges\u00e4nge Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
         "url": "https://open.spotify.com/album/3ZxazYh6avlkPE4x8cjCL2"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 201640,
       "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
       "url": "https://open.spotify.com/track/0DeEj6R8KMJQSajVMJk41K"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
-        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Boris Giltburg",
-          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Papillons, Op. 2: XII. Finale",
-      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
         "url": "https://open.spotify.com/album/7DVk0O09BSgLYP8FdQotxX"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 90000,
       "name": "Schumann: Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
       "url": "https://open.spotify.com/track/6VEuY1WrVMMW7xOAlzbLXv"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -523,26 +523,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Piano Works",
-        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
-        }
-      ],
-      "duration_ms": 439213,
-      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
-      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Das Paradies und die Peri",
         "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 112520,
       "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
       "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Piano Works",
+        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "duration_ms": 439213,
+      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
+      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition",
-        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Paul Lewis",
-          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
-        }
-      ],
-      "duration_ms": 738560,
-      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
-      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
         "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 427653,
       "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
       "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "duration_ms": 738560,
+      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
+      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -687,30 +687,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Myrthen",
-        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Camilla Tilling",
-          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
-        },
-        {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Myrthen, Op. 25: No. 1, Widmung",
-      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Frage",
         "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 110773,
       "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
       "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+        },
+        {
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -759,34 +759,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Complete Works for Piano Trio",
-        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        },
-        {
-          "name": "Christian Tetzlaff",
-          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
-        },
-        {
-          "name": "Tanja Tetzlaff",
-          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
-        }
-      ],
-      "duration_ms": 478546,
-      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
-      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -811,6 +783,34 @@
       "duration_ms": 475426,
       "name": "Cello Concerto in A minor, op. 129: III. Finale vivace - Sehr Lebhaft",
       "url": "https://open.spotify.com/track/01Q0yJSYeyoNFYxJXjWbQG"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Complete Works for Piano Trio",
+        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        },
+        {
+          "name": "Christian Tetzlaff",
+          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
+        },
+        {
+          "name": "Tanja Tetzlaff",
+          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
+        }
+      ],
+      "duration_ms": 478546,
+      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
+      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
     },
     {
       "added_at": "2025-12-15 12:40:07",

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Folie's",
-  "num_followers": 402129,
+  "num_followers": 402122,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "outta time",
-        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "A. K. Paul",
-          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "outta time",
-      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 167280,
       "name": "Better Than She Can",
       "url": "https://open.spotify.com/track/6SlKZkppWwFtQa1uQIb5Yf"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "outta time",
+        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "outta time",
+      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Je ne reviendrai pas",
-        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Je ne reviendrai pas",
-      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "Osimhen .OP_6",
         "url": "https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 190666,
       "name": "Osimhen .OP_6",
       "url": "https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Je ne reviendrai pas",
+        "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Je ne reviendrai pas",
+      "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
     },
     {
       "added_at": "2026-06-30 22:00:27",

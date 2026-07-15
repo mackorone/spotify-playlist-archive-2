@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Idiots Rule the World",
+      "url": "https://open.spotify.com/track/1I182i2JPdMtJ5SwUuQafo"
+    },
+    {
+      "album": {
         "name": "Blood on the Tracks",
         "url": "https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J"
       },
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 256546,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/2OWTz3jl2hd0wD3D8PmCwE"

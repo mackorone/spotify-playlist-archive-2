@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kameron Marlowe, Tucker Wetmore, Wyatt Flores and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,985 likes - 81 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,009 likes - 81 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

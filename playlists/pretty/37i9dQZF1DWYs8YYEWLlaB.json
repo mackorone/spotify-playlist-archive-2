@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Hadise",
-  "num_followers": 584220,
+  "num_followers": 584329,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2026-07-09 21:00:30",
       "album": {
+        "name": "\u00c7\u0131kmaz Bir Sokakta",
+        "url": "https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "duration_ms": 162745,
+      "name": "\u00c7\u0131kmaz Bir Sokakta",
+      "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"
+    },
+    {
+      "added_at": "2026-07-09 21:00:30",
+      "album": {
         "name": "yenildi\u011fim tek sava\u015ft\u0131n",
         "url": "https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 109470,
       "name": "yenildi\u011fim tek sava\u015ft\u0131n",
       "url": "https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG"
-    },
-    {
-      "added_at": "2026-07-09 21:00:30",
-      "album": {
-        "name": "\u00c7\u0131kmaz Bir Sokakta",
-        "url": "https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        },
-        {
-          "name": "B\u00fcken",
-          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
-        }
-      ],
-      "duration_ms": 162745,
-      "name": "\u00c7\u0131kmaz Bir Sokakta",
-      "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"
     },
     {
       "added_at": "2026-07-09 21:00:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-09 21:00:30",
       "album": {
-        "name": "Ben Hala R\u00fcyada",
-        "url": "https://open.spotify.com/album/0AiIx5JOHBwzxU54TrBiSN"
-      },
-      "artists": [
-        {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
-        }
-      ],
-      "duration_ms": 198537,
-      "name": "Ayy / Ben Hala R\u00fcyada",
-      "url": "https://open.spotify.com/track/1Pa4L24EJtTPkpftbmzeUb"
-    },
-    {
-      "added_at": "2026-07-09 21:00:30",
-      "album": {
         "name": "Aldan\u0131r\u0131m",
         "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 201231,
       "name": "Aldan\u0131r\u0131m",
       "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
+    },
+    {
+      "added_at": "2026-07-09 21:00:30",
+      "album": {
+        "name": "Ben Hala R\u00fcyada",
+        "url": "https://open.spotify.com/album/0AiIx5JOHBwzxU54TrBiSN"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "duration_ms": 198537,
+      "name": "Ayy / Ben Hala R\u00fcyada",
+      "url": "https://open.spotify.com/track/1Pa4L24EJtTPkpftbmzeUb"
     },
     {
       "added_at": "2026-07-09 21:00:30",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-07-09 21:00:30",
       "album": {
-        "name": "Mustafa Sandal Sayg\u0131 1",
-        "url": "https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq"
-      },
-      "artists": [
-        {
-          "name": "Afra",
-          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
-        },
-        {
-          "name": "Mustafa Sandal",
-          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
-        }
-      ],
-      "duration_ms": 212528,
-      "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
-      "url": "https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i"
-    },
-    {
-      "added_at": "2026-07-09 21:00:30",
-      "album": {
         "name": "ROMANESA",
         "url": "https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 157291,
       "name": "Vursunlar - Roman Version",
       "url": "https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N"
+    },
+    {
+      "added_at": "2026-07-09 21:00:30",
+      "album": {
+        "name": "Mustafa Sandal Sayg\u0131 1",
+        "url": "https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        },
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "duration_ms": 212528,
+      "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
+      "url": "https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i"
     },
     {
       "added_at": "2026-07-09 21:00:30",

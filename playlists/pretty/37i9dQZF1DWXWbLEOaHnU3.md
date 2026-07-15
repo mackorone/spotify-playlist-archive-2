@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,363 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,391 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 47 | [Boss La Rosh](https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [IM25](https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp) | 6:41 |
 | 48 | [Tomorrow](https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [TOX1C](https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Tomorrow](https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ) | 4:46 |
 | 49 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 |
-| 50 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
-| 51 | [You & I](https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [You & I](https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R) | 5:28 |
+| 50 | [You & I](https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [You & I](https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R) | 5:28 |
+| 51 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
 | 52 | [The Oasis \(Zyrus 7 Remix\) \- Original Mix](https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [The Oasis \(Zyrus 7 Remix\)](https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U) | 3:29 |
 | 53 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
 | 54 | [Antiwar \- NoFace Remix](https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Krunch](https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn), [NoFace](https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs) | [Antiwar \(Noface Remix\)](https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r) | 8:16 |

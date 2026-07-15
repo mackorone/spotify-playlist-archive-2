@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 Los Primos del Este en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,451 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,473 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

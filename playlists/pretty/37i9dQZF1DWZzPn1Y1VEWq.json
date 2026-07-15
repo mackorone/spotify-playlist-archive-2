@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 391949,
+  "num_followers": 391976,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 248400,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 276573,
       "name": "El Final Es En Donde Part\u00ed",
       "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "La Renga",
         "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 224266,
       "name": "El Revelde",
       "url": "https://open.spotify.com/track/24o76WATbnSIhV26hHgUHn"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 201866,
       "name": "Yo No Me Quiero Casar, Y Ud?",
       "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Influencia",
-        "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Tu Vicio",
-      "url": "https://open.spotify.com/track/3HaE5D0wBDeyf38f5w4CLa"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Gladiadores del rock",
         "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 269331,
       "name": "Sacrificio y Rock N' Roll",
       "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Influencia",
+        "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Tu Vicio",
+      "url": "https://open.spotify.com/track/3HaE5D0wBDeyf38f5w4CLa"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Cuentos Decapitados",
-        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Eso Vive",
-      "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 172251,
       "name": "Ser\u00e1 - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Cuentos Decapitados",
+        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "Eso Vive",
+      "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
     },
     {
       "added_at": "2026-06-26 15:38:11",

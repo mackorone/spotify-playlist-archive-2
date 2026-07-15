@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,704 likes - 240 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 240 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 88 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
 | 89 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
 | 90 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
-| 91 | [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 |
-| 92 | [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 91 | [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 92 | [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 |
 | 93 | [moody](https://open.spotify.com/track/6SA3oIwGyURRVZkbvC5lQD) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 2:55 |
 | 94 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
 | 95 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 191 | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/track/1PZ7VJ7abOVWjzWl19KKnd) | [Peyton List](https://open.spotify.com/artist/3nL1vFhHR6iRgKxadxCQjh) | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/album/0ewiIwbteCs1p0EjwX2Q7U) | 3:26 |
 | 192 | [Dotted Lines](https://open.spotify.com/track/5D18wfmj3SLc8S0BCiurOB) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:42 |
 | 193 | [Eyes Closed](https://open.spotify.com/track/5io1H6YxPsFS7wxwHMrVCr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:25 |
-| 194 | [Piece Of My Life](https://open.spotify.com/track/26saiJRNR7xPR0WpII0t56) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:53 |
-| 195 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
+| 194 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
+| 195 | [Piece Of My Life](https://open.spotify.com/track/26saiJRNR7xPR0WpII0t56) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:53 |
 | 196 | [i'm in love, believe it](https://open.spotify.com/track/06qR4ao8CrVOHqUj30ZYJi) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [i'm in love, believe it](https://open.spotify.com/album/7b5KQTF6C0vrUMdSzjQmA2) | 2:36 |
 | 197 | [Amanda](https://open.spotify.com/track/2jRbNChiY4mcKExiBiAR9j) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 2:56 |
 | 198 | [Caught in Your Love](https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Caught in Your Love](https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH) | 2:18 |
@@ -233,9 +233,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 223 | [even forever](https://open.spotify.com/track/4ub3Sf9B9BWNBKAIVgywc6) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:32 |
 | 224 | [A Woman's World](https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [A Woman's World](https://open.spotify.com/album/6FARllTFyAyPTIhowt7GlX) | 2:38 |
 | 225 | [darkside](https://open.spotify.com/track/7EwltCcJHC8wRSe1wVTLCd) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:06 |
-| 226 | [1000 WAYS](https://open.spotify.com/track/0ngYMrAGctxpwJ4PWJFH8m) | [WESLEY](https://open.spotify.com/artist/1XYpi8swds1ve699iHIuXL) | [1000 WAYS](https://open.spotify.com/album/1hzCTG4RI6eaHms3sNX2bT) | 3:06 |
-| 227 | [to love me](https://open.spotify.com/track/2ye434rL2bQ2qY4obJiZQe) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 |
-| 228 | [Morals](https://open.spotify.com/track/1EVR07FNoOEQ8fEfJNs37G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:20 |
+| 226 | [Morals](https://open.spotify.com/track/1EVR07FNoOEQ8fEfJNs37G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:20 |
+| 227 | [1000 WAYS](https://open.spotify.com/track/0ngYMrAGctxpwJ4PWJFH8m) | [WESLEY](https://open.spotify.com/artist/1XYpi8swds1ve699iHIuXL) | [1000 WAYS](https://open.spotify.com/album/1hzCTG4RI6eaHms3sNX2bT) | 3:06 |
+| 228 | [to love me](https://open.spotify.com/track/2ye434rL2bQ2qY4obJiZQe) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 |
 | 229 | [pillar](https://open.spotify.com/track/5EF9fmmSr7uTvDDMqUWzgJ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:01 |
 | 230 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
 | 231 | [Tom Brady](https://open.spotify.com/track/0QAX1RS572BeBITLfC0NBA) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:16 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 239 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 240 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AcWxoAAAAADD/KBT+67KI3+zDvtPXPwS`
+Snapshot ID: `AcW3QAAAAADzv5x4JKxWMpvWpojnPoum`

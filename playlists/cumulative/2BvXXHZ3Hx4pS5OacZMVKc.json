@@ -6929,6 +6929,24 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5tWXI4WQJQNJ1WMJvBvA2f"
+      },
+      "artists": [
+        {
+          "name": "ZKG",
+          "url": "https://open.spotify.com/artist/6SXQM1iGWeRGGpxJKcl4uh"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135223,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0NipiNiiMpIijejGiKQVIJ"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/401nTlpVat5qfYmeFHHWEs"
       },

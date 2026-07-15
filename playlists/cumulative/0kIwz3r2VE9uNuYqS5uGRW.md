@@ -4,7 +4,7 @@
 
 > 
 
-266 songs - 14 hr 1 min
+272 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [4:44AM](https://open.spotify.com/track/4M03RhnysxttvTKqQKE8it) | [SCRAZ](https://open.spotify.com/artist/6hQQsPJ3df9XVj8CMBy5Yk), [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [4:44AM](https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1) | 3:00 | 2025-12-11 |  |
 | [512](https://open.spotify.com/track/2CdquEDCaFau9PMHF8eFcW) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [Vivih](https://open.spotify.com/artist/0igUZhKUbwqknOURErylJL) | [512](https://open.spotify.com/album/7ij81xOTfo61L1FuYwKwTH) | 2:42 | 2025-09-09 |  |
 | [a helping hand](https://open.spotify.com/track/0DdjWSK9mYxd0OkMafssrD) | [COZE!NE](https://open.spotify.com/artist/7HFc1tkoqLi1lRrhAxGKAq) | [a helping hand](https://open.spotify.com/album/5wwGLyU2CkVND4ZrkvoPl1) | 2:24 | 2026-05-06 |  |
+| [A Song to Sleep](https://open.spotify.com/track/5P4Oqyd5zg4myjKvUqRr9A) | [Tina Para Dos](https://open.spotify.com/artist/0sZOpXDHlQtZXDGtGhijnQ) | [A Song to Sleep](https://open.spotify.com/album/4W4pmuOgTcMHQRkBJoXVPf) | 2:32 | 2026-07-15 |  |
 | [After Party](https://open.spotify.com/track/1ZscMbcOPmJZOa8o6C40oE) | [Megan Dalby](https://open.spotify.com/artist/20fkOG8MVEODAofTMn3Xjj) | [After Party](https://open.spotify.com/album/2ZmUAPFUssRDQirDWbpivk) | 4:10 | 2026-03-13 |  |
 | [Again Please](https://open.spotify.com/track/1V5yJAm6tdr4u7WqSWipyL) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 2:54 | 2026-07-02 |  |
 | [All My Fault](https://open.spotify.com/track/0QUWUwCvf7cHIS5FaiuRRG) | [Maddy Little](https://open.spotify.com/artist/0o9LvaeSgJikQWwDnAEAyH) | [All My Fault](https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw) | 3:05 | 2026-01-22 |  |
@@ -43,6 +44,7 @@
 | [Cadeado na Cabeça](https://open.spotify.com/track/2cRuFyGzf3dqC7VvWGu97Q) | [Trilogia Urbana](https://open.spotify.com/artist/7JEEQ1GSiNLKy8RNgEFlOM) | [Cadeado na Cabeça](https://open.spotify.com/album/37gI2wJQTpRB5TUdWNpSSD) | 2:48 | 2026-06-29 |  |
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
 | [Ce monde est sale](https://open.spotify.com/track/4mGlOdhgRBOtTZPHGXt6A4) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [SATURATION](https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb) | 1:39 | 2026-06-22 |  |
+| [Celestial](https://open.spotify.com/track/5gcoaokLTC7ZdJEYwYtQJS) | [Assey](https://open.spotify.com/artist/2xeEHeQMEqevIxTnHp2OCN) | [Celestial](https://open.spotify.com/album/0Fpdy4Owrkflqt1VoDrrd9) | 2:47 | 2026-07-15 |  |
 | [Childhood Dreams](https://open.spotify.com/track/2HeYiygBNdlYDOYGgtAS53) | [Mert Bays](https://open.spotify.com/artist/5O0EyfPKefwCPzKsE3S8pe) | [Another Day](https://open.spotify.com/album/3FwelO7DnW62pR886TxsVo) | 3:03 | 2025-04-10 |  |
 | [cicada](https://open.spotify.com/track/2BHGoDcPPJPBQemfknoxqF) | [Deadfilm](https://open.spotify.com/artist/5OwwZoJuwmHqi5O9p94A2E), [Riper](https://open.spotify.com/artist/3anPhsakd2B9tTl6tPdFbq) | [volverás a sonreir.](https://open.spotify.com/album/18sFjenWqRu3Fa9mGHMLhP) | 4:58 | 2026-03-19 |  |
 | [Clark Wiley](https://open.spotify.com/track/01CtaVwVYP0BP0vVEyMB8T) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 2:56 | 2026-06-16 |  |
@@ -85,6 +87,7 @@
 | [Everyone Clapped Anyway](https://open.spotify.com/track/2zrBWiv8Htq8oWS4fmW8iz) | [The Last Verena](https://open.spotify.com/artist/218ezUr1oZPPoKjMTCay3o) | [Everyone Clapped Anyway](https://open.spotify.com/album/1fzTnxhsA84YZusPiyBHv2) | 2:36 | 2026-04-02 |  |
 | [Evil Middle](https://open.spotify.com/track/0WsHKHzrgEMeISc5ydXyXg) | [Marcos Crunk](https://open.spotify.com/artist/7GNeQ6y9JFQ6deOJfrtHjD), [BR3NX](https://open.spotify.com/artist/0YNWnKCEelU5896FKYUVl6) | [Evil Middle](https://open.spotify.com/album/3DkC03tKYGw7OCPZPIPxPH) | 2:37 | 2025-08-20 |  |
 | [Evitandome](https://open.spotify.com/track/39RIAIenvbjRqw2iAWWoPV) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3), [dodo\_wav](https://open.spotify.com/artist/6351jyBEW00GePNPjRCsj1), [Wvy Laosean](https://open.spotify.com/artist/604Lg9hn3moDuuSRJlTXmh) | [Evitandome](https://open.spotify.com/album/7DIzgZs3139vMTCDNz668P) | 3:17 | 2025-09-05 |  |
+| [Excluxive](https://open.spotify.com/track/2JkTAL3pCmwYtFqhzBlou1) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Excluxive](https://open.spotify.com/album/33UYXfMD1q46GGiShatDNr) | 2:25 | 2026-07-15 |  |
 | [Fade Away](https://open.spotify.com/track/74dhq9EPFe5EvBDIoWBIq7) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Fade Away](https://open.spotify.com/album/4sbRBZ7vQ2LSOegya4HPyA) | 2:55 | 2025-04-08 |  |
 | [Fading Light](https://open.spotify.com/track/2NXaChEQq4DKEOsEXCoE5J) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Fading Light](https://open.spotify.com/album/1L44hN7GPIZQwjrCp9yzRB) | 4:17 | 2026-03-05 |  |
 | [fall in love again](https://open.spotify.com/track/7pJahn2HDV3o13cTMfey1K) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [fall in love again](https://open.spotify.com/album/7vv4gLpYpoRWlsZ5KLLbyO) | 2:03 | 2026-03-15 |  |
@@ -135,6 +138,7 @@
 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 | 2025-11-28 |  |
 | [Julie](https://open.spotify.com/track/4ppjfF1wbORmSAMAnzTE0O) | [R.A.G.Z.](https://open.spotify.com/artist/2zvknLzskQCJLxpHOEY18d) | [Julie](https://open.spotify.com/album/6qkM8RySVoePuyOjI4H8TX) | 5:32 | 2026-06-30 |  |
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
+| [Ke quiere hacer](https://open.spotify.com/track/5G2lTc0aqQDDRlnEUkPWBS) | [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy), [Dearriba](https://open.spotify.com/artist/38VgmuXdTEYy63tcL1E5oV) | [Ke quiere hacer](https://open.spotify.com/album/1rLRlbJS1LvRdbwDHdrDYB) | 2:33 | 2026-07-15 |  |
 | [keep your head up, bitch](https://open.spotify.com/track/14P02Pz06wm2Mnov97XFyg) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [BROKEN SIGNALS](https://open.spotify.com/album/7o3fL9GzxzP2RwnPwALHUB) | 3:06 | 2026-05-06 |  |
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
 | [KILLER](https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA) | [KILLER](https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2) | 2:49 | 2026-04-11 |  |
@@ -264,10 +268,12 @@
 | [Welcome to the Universe](https://open.spotify.com/track/0Ds3hc8Bo1uanISxu2Fgu9) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [La planète des ânes](https://open.spotify.com/album/0S9Ttf5LhN0XCCJ04dXNUy) | 3:22 | 2025-04-03 |  |
 | [Where I Belong](https://open.spotify.com/track/2nJyJs2zNH8GX8ME5kHjtw) | [The Roving Rovers](https://open.spotify.com/artist/0nIYcmWxKNMOy3BQYvDFQ4) | [Where I Belong](https://open.spotify.com/album/1VKwOxKoPgH0Zsv7vgAVGH) | 1:45 | 2025-04-03 |  |
 | [whiplash](https://open.spotify.com/track/5s6HZ7RY7kEH0HSzLC9jNe) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [whiplash](https://open.spotify.com/album/6DsQlUk29PL4fO3RRyoq9k) | 3:37 | 2025-07-07 |  |
+| [Whisk Me Away](https://open.spotify.com/track/2m66V7Uh9lFryiqXErE4Tv) | [Gwyn English Nielsen](https://open.spotify.com/artist/2qiQLmWs81Zno7WFH4lLiS) | [Whisk Me Away](https://open.spotify.com/album/5DcxQ2t4ir9F7jRbixSsqp) | 2:30 | 2026-07-15 |  |
 | [Whiskey](https://open.spotify.com/track/0hnWQ00Z7cVWtcZDXLYq6x) | [Second Story Duo](https://open.spotify.com/artist/41awsJ9Gs9Ah8d5uX37r3h) | [Reflections](https://open.spotify.com/album/4PJ1P80qf9hVpFGchfhy13) | 3:02 | 2025-12-14 |  |
 | [Why did you Leave me?](https://open.spotify.com/track/5uZbQPdLJ7gnhpdecwNSgw) | [Callum Renshaw](https://open.spotify.com/artist/3Ujsrfs3QjtIok8isfMXej) | [Why did you Leave me?](https://open.spotify.com/album/29Ame1VezxvtLjQmbuHZxz) | 3:03 | 2026-05-16 |  |
 | [XPLAIN](https://open.spotify.com/track/0BQzBMDqey6HsgmuzB8U7q) | [Liv Brokie](https://open.spotify.com/artist/2zszPQfClIZIgqbZTASRox), [ceURR](https://open.spotify.com/artist/6Y0WoIjWZioX80GDPiAirt) | [XPLAIN](https://open.spotify.com/album/6NepNksFz502tlRuumDNze) | 1:39 | 2026-07-04 |  |
 | [Yahweh](https://open.spotify.com/track/1MVO7xPHCFYIZOZPX5NqtY) | [Gerald Harris](https://open.spotify.com/artist/6hZTneb28osXbsR3PQ8FtC) | [Yahweh](https://open.spotify.com/album/0i2g8DXKRAO6SzFLOVr4qr) | 4:12 | 2026-07-04 |  |
+| [Yo quiero ser rico](https://open.spotify.com/track/30PpjvLUzJHpovp9Na4Z5H) | [draco boss](https://open.spotify.com/artist/08GHLzYQVYYf0ayA4u3cGp) | [Yo quiero ser rico](https://open.spotify.com/album/3IG1jsGSSYanpypTwngNod) | 3:07 | 2026-07-15 |  |
 | [You at First Sight](https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [You at First Sight](https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6) | 3:04 | 2025-09-15 |  |
 | [You're not alone](https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [You're not alone](https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99) | 3:23 | 2026-06-25 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-12-24 |  |

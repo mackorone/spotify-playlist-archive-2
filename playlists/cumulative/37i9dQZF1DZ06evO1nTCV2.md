@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-296 songs - 18 hr 2 min
+297 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [I'm Sorry and I Love You](https://open.spotify.com/track/1LXWFJKNC5Cfbji9cHNX65) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Another Wednesday](https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL) | 3:52 | 2025-02-16 | 2025-06-10 |
 | [I'm Waiting](https://open.spotify.com/track/4ovDtiwSEnTc83DCb2BZJR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:08 | 2026-07-14 |  |
 | [Idiot Wind](https://open.spotify.com/track/0sp66y8IHtJUzPfhUr2nZO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 8:17 | 2023-02-15 | 2023-04-02 |
+| [Idiots Rule the World](https://open.spotify.com/track/1I182i2JPdMtJ5SwUuQafo) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:36 | 2026-07-15 |  |
 | [If You See Her, Say Hello](https://open.spotify.com/track/5H8zlszpn4kQ4Gcsg8A8RE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 4:24 | 2023-02-16 | 2023-03-27 |
 | [In It For The Pleasure](https://open.spotify.com/track/7ef2egpnEu1ptiuASIHOwS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 4:20 | 2022-01-15 | 2022-03-30 |
 | [In My Time of Need](https://open.spotify.com/track/0APv17oLwplLLc376ipFH8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker \(25th Anniversary Edition\)](https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U) | 4:27 | 2025-09-09 | 2025-12-05 |
@@ -301,7 +302,7 @@
 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 |  |
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2022-01-11 |  |
 | [World War 24](https://open.spotify.com/track/19C1YdOULsmmOPvsIdoSTm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:15 | 2022-01-31 | 2022-03-14 |
-| [You Don't Know Me](https://open.spotify.com/track/2OWTz3jl2hd0wD3D8PmCwE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 4:16 | 2026-07-11 |  |
+| [You Don't Know Me](https://open.spotify.com/track/2OWTz3jl2hd0wD3D8PmCwE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 4:16 | 2026-07-11 | 2026-07-15 |
 | [You're a Big Girl Now](https://open.spotify.com/track/4xCWaQbJtLzUGNC2RlwNDW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 7:50 | 2023-02-14 | 2023-04-14 |
 | [You're Gonna Make Me Lonesome](https://open.spotify.com/track/3pl4VVTmwGCsb8LKwKjAFW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 3:41 | 2023-02-13 | 2023-04-19 |
 

@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-187 songs - 10 hr 55 min
+188 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 | 2021-11-05 |  |
 | [Chandelier](https://open.spotify.com/track/2mO2pVseoh8i0MRjkajuGj) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/6ZzJOsg3G90a3ASCT94KDm) | 5:13 | 2023-11-03 | 2024-04-19 |
 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2021-11-05 | 2023-11-05 |
-| [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 | 2024-07-12 |  |
+| [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 | 2024-07-12 | 2026-07-15 |
 | [Coast \(feat\. Anderson .Paak\) \[Acoustic\]](https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast \(Acoustic\)](https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO) | 2:46 | 2022-12-09 |  |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 | 2023-03-24 |  |
 | [Como se o amanhã não fosse chegar \- Acústico](https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Como se o amanhã não fosse chegar](https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT) | 3:27 | 2026-05-15 |  |
@@ -184,6 +184,7 @@
 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2021-11-05 |  |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-11-05 |  |
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2021-11-05 |  |
+| [Vilarejo](https://open.spotify.com/track/61lC5sxgs0gu1xFqwCKn0z) | [Isabella Gaspary](https://open.spotify.com/artist/235nxvND6xHQUoaX7d6JjX) | [Vilarejo](https://open.spotify.com/album/4iIb5K4pJLiSDs8AuTsjND) | 1:35 | 2026-07-10 |  |
 | [Viva La Vida \- Live from Spotify London](https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 3:54 | 2021-11-05 |  |
 | [Você é Um Perigo \(Acústico no Studio F\)](https://open.spotify.com/track/0eIL5KQ45Cz36a6bEPzDRB) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você é Um Perigo \(Acústico no Studio F\)](https://open.spotify.com/album/0u2FT7gPhP5DeEBNS2vV0K) | 3:04 | 2021-11-05 | 2022-11-13 |
 | [We Don't Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 | 2021-11-05 | 2024-05-22 |

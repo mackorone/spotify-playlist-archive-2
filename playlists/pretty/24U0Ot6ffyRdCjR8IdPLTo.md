@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > 🎧 Study Flow Pop 🧠\. Maximize your focus &amp; boost cognitive function for studying, exams, &amp; deep work\. Chill Pop beats specifically for ADHD to reduce distractions &amp; calm your mind\. Feat\. Halsey, Lauv, Alec Benjamin &amp; curated new pop\. Updated weekly\. Listen now for optimized study sessions!
 
-[Topsify](https://open.spotify.com/user/topsify) - 9,649 likes - 100 songs - 5 hr 28 min
+[Topsify](https://open.spotify.com/user/topsify) - 9,652 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

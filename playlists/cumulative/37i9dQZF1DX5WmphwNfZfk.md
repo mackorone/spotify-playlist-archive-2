@@ -4,7 +4,7 @@
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: GUS
 
-2,544 songs - 5 day 10 hr 30 min
+2,545 songs - 5 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1624,7 +1624,7 @@
 | [Out of Body](https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Out of Body](https://open.spotify.com/album/777GvXKChmKi4NWTLyis2O) | 1:54 | 2023-02-03 | 2023-03-04 |
 | [Out Of Line](https://open.spotify.com/track/1s5Z07QUX1A8xin6dviPaI) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Out Of Line](https://open.spotify.com/album/7BOpkvdOKmCqi3Bt4VB3ox) | 2:46 | 2023-02-03 | 2023-03-04 |
 | [out of place](https://open.spotify.com/track/25bLY2lcGRFDlwLVImTdL4) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [out of place](https://open.spotify.com/album/0Ip616glU6BrtTZZcpN98D) | 2:42 | 2023-08-04 | 2023-09-02 |
-| [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 | 2026-06-05 |  |
+| [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 | 2026-06-05 | 2026-07-15 |
 | [Outline](https://open.spotify.com/track/0O024nnZowLSHDi7UC5Jxv) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [AMi, Vol\. 1](https://open.spotify.com/album/3VWZK9V5A3pqgOuVjfX94u) | 4:10 | 2026-06-05 |  |
 | [Outside](https://open.spotify.com/track/0wB0ZIaYYGJj7W7C2OMsnj) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Outside](https://open.spotify.com/album/4NbTtCWDhWpEDo1pm52mJZ) | 2:38 | 2024-07-05 | 2024-08-03 |
 | [Outside Freestyle](https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F) | 2:50 | 2023-03-04 | 2023-05-06 |
@@ -2003,7 +2003,7 @@
 | [So Easy](https://open.spotify.com/track/0c3yJh9U1w6tSiel47cEQc) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [So Easy](https://open.spotify.com/album/3OF0bgp9n5uCID9pM5Qmnd) | 3:17 | 2026-03-06 | 2026-04-04 |
 | [So Quick](https://open.spotify.com/track/5R8M7QLz9fDYrgDRz3LaI1) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [So Quick](https://open.spotify.com/album/6QM5pGjE3xO7tzfkkntSky) | 2:16 | 2022-01-07 | 2022-02-05 |
 | [So Scandalous](https://open.spotify.com/track/0Stuc5s9TH32u5IqQyNokc) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [So Scandalous](https://open.spotify.com/album/7zx3zzLxKuz7YfuZOmFUzB) | 2:16 | 2026-04-03 |  |
-| [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 | 2026-06-05 |  |
+| [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 | 2026-06-05 | 2026-07-15 |
 | [So So \(feat\. Dai Burger\)](https://open.spotify.com/track/69uVWhBBO5CUJIITkFzvum) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Stock Exchange](https://open.spotify.com/album/1Riy0kKOJRtpGB9ewzBpJN) | 2:39 | 2021-12-06 | 2022-01-08 |
 | [Soak](https://open.spotify.com/track/6vdu0VyKBcN7lkUcdS37mF) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 2:44 | 2024-12-04 | 2025-02-08 |
 | [Soak My Head](https://open.spotify.com/track/2DUDMQhvnEiske4YOJwYrh) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Soak My Head](https://open.spotify.com/album/3KjZpHN2hLSGk7KFAIgkTA) | 3:06 | 2023-06-02 | 2023-07-08 |
@@ -2043,6 +2043,7 @@
 | [Special](https://open.spotify.com/track/2mYwRlk7h0gInWhghPUbKH) | [Tallies](https://open.spotify.com/artist/0TqfIpfq65gBiU4m7BCe0O) | [Special](https://open.spotify.com/album/1VCj5COOwJ4hS6vMunGVWg) | 4:35 | 2022-06-03 | 2022-07-02 |
 | [Spell on Me](https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq), [Hunter Yerrell](https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI) | [Spell on Me](https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S) | 2:42 | 2022-04-01 | 2022-05-07 |
 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 | 2026-04-03 | 2026-06-06 |
+| [SpiceKick](https://open.spotify.com/track/5QkSktZsZ4IgHCaAs31D6m) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 2:29 | 2026-07-14 |  |
 | [SPILL IT](https://open.spotify.com/track/6uopewb43jhpy3TjhoNGdu) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Glamboy](https://open.spotify.com/artist/11UQJyVH38vktEdIE5a4II) | [SPILL IT](https://open.spotify.com/album/1QSMUFkt28s1p4FUF2jtvy) | 2:25 | 2024-09-06 | 2024-10-05 |
 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 | 2023-03-04 |
 | [Spin The Block](https://open.spotify.com/track/28iI7pOj51BlKlEwhmplaT) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Spin The Block](https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2) | 4:12 | 2024-03-01 | 2025-02-08 |

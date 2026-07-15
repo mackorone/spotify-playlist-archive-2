@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6046,
+  "num_followers": 6047,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACM/SG/elyYNyiq6joLufhu",
+  "snapshot_id": "alQqgAAAAABFVHz3gwpF+tXyPlXgcN8h",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+      "duration_ms": 302438,
+      "name": "Your Presence Is Heaven",
+      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 302438,
-      "name": "Your Presence Is Heaven",
-      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take It All (Live)",
-        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
       },
       "artists": [
         {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
         },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 621706,
-      "name": "Take it All - Live",
-      "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
+      "duration_ms": 318727,
+      "name": "Dependable God",
+      "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Take It All (Live)",
+        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 621706,
+      "name": "Take it All - Live",
+      "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 198400,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 318727,
-      "name": "Dependable God",
-      "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
       "duration_ms": 182318,
       "name": "Nkosi",
       "url": "https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalm 8",
+        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Psalm 8",
+      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
     },
     {
       "added_at": null,

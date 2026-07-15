@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Pussy Heaven
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,037 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,036 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 21 | [Change](https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Change](https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah) | 3:59 |
 | 22 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
 | 23 | [Island of Despair](https://open.spotify.com/track/7G1hnQ0ubNf1m2xN3hbK7D) | [Crying in Colour](https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn) | [Island of Despair](https://open.spotify.com/album/3N1lpcIjcDWE3uBzeOm89S) | 4:15 |
-| 24 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 25 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 24 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 25 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 26 | [Ambush](https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [Voyage](https://open.spotify.com/album/1bWI42zBo9ks5iUMOTbqPj) | 4:13 |
 | 27 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 28 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
-| 29 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
+| 28 | [delete you.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [delete you.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
+| 29 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
 | 30 | [Hey Denny](https://open.spotify.com/track/17jx0VcmlgzHERF4HZBM0o) | [Sophia Frank](https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3) | [Hey Denny](https://open.spotify.com/album/6JATUWeZW7pu6vcJ14QJHD) | 2:43 |
-| 31 | [delete you.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [delete you.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
+| 31 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 32 | [Before You Disappear](https://open.spotify.com/track/495cjydvmEw3WdH4K8LJJz) | [Ruben Gerritz](https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0) | [Before You Disappear](https://open.spotify.com/album/0gPgCrgYK8KeTPogzoccHA) | 3:18 |
-| 33 | [Vriende](https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Vriende](https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx) | 3:55 |
-| 34 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 33 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 34 | [Vriende](https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Vriende](https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx) | 3:55 |
 | 35 | [Polariteit](https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Polariteit](https://open.spotify.com/album/0OLJtStD7x9bHh9EhaJlM8) | 3:10 |
 | 36 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 37 | [Dad Bod](https://open.spotify.com/track/00YyqyBVyILKFBp1abjNpo) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Dad Bod](https://open.spotify.com/album/7wdzfSmcenLrF7RfwosQVA) | 2:52 |

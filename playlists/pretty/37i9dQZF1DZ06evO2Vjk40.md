@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,452 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,536 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 46 | [Roll Me Up and Smoke Me When I Die \- Live](https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q), [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Micah Nelson](https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Willie Nelson American Outlaw \(Live\)](https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp) | 2:14 |
 | 47 | [Love Me Anyway \(feat\. Chris Stapleton\)](https://open.spotify.com/track/4Kmp7D3Gg95xv5dzg2mPMq) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:08 |
 | 48 | [Tell Me When It’s Over](https://open.spotify.com/track/4hx9NTugoBdIG8MkAi2fzI) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:56 |
+| 49 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 
-Snapshot ID: `alLZAAAAAACq+08i9/vl5eIiSHeRmHyB`
+Snapshot ID: `alQqgAAAAACvwmaHZOnuYpAp8JFW8jqB`

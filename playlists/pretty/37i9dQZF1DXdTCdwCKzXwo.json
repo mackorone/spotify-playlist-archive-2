@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1276239,
+  "num_followers": 1276242,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
+        "name": "East Side Story",
+        "url": "https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy"
+      },
+      "artists": [
+        {
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Tempted",
+      "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 153133,
       "name": "We Got The Beat",
       "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
-        "name": "East Side Story",
-        "url": "https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy"
-      },
-      "artists": [
-        {
-          "name": "Squeeze",
-          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Tempted",
-      "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
     },
     {
       "added_at": "2025-01-14 03:34:33",

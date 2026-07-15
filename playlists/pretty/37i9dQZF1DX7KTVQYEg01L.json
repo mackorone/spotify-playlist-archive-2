@@ -1,6 +1,6 @@
 {
   "description": "celebre seu dia no maior astral! ",
-  "num_followers": 1362252,
+  "num_followers": 1362202,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-06-12 03:01:57",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2026-06-12 03:01:57",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2026-06-12 03:01:57",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2026-06-12 03:01:57",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-12 03:01:57",
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
-    },
-    {
-      "added_at": "2026-06-12 03:01:57",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2026-06-12 03:01:57",
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
     },
     {
       "added_at": "2026-06-12 03:01:57",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-06-12 03:01:57",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Sitting, Waiting, Wishing",
-      "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
-    },
-    {
-      "added_at": "2026-06-12 03:01:57",
-      "album": {
         "name": "Pupila",
         "url": "https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 202287,
       "name": "Pupila",
       "url": "https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk"
+    },
+    {
+      "added_at": "2026-06-12 03:01:57",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Sitting, Waiting, Wishing",
+      "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
     },
     {
       "added_at": "2026-06-12 03:01:57",

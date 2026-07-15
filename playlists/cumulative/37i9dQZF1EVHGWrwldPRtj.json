@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVnJmbN70OKp>Oliver Tree</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a>, <a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 174211,
       "name": "Affection",
       "url": "https://open.spotify.com/track/5eLjgK8JT276Xs8500KdEn"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 226798,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 125217,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6EK3aQONb1VBRaVCoxwuKo"
@@ -4677,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "lose myself",
+        "url": "https://open.spotify.com/album/2baeHgCBqo7H56FLRs8Uth"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154339,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/7nqFGg6gPi3Fhegjb0bjw2"
+    },
+    {
+      "album": {
         "name": "Dejavu (feat. Yo-Sea)",
         "url": "https://open.spotify.com/album/6do3QDAUGwOStxR9QZnwmi"
       },
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -5726,7 +5744,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 125793,
       "name": "endlessly",
       "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8"
@@ -6432,7 +6450,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -7708,7 +7726,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 153600,
       "name": "HARD KNOCK LULLABY",
       "url": "https://open.spotify.com/track/5nAXbVukFLJ2Wd795L1kwS"
@@ -7928,6 +7946,24 @@
       "duration_ms": 253213,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
+    },
+    {
+      "album": {
+        "name": "HELL",
+        "url": "https://open.spotify.com/album/4hEq5cerBSRhXPFiliAk9C"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "HELL",
+      "url": "https://open.spotify.com/track/5VdF8ZUOWoAhmJNb7urwoq"
     },
     {
       "album": {
@@ -8604,7 +8640,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 177455,
       "name": "hypocritical (feat. starfall)",
       "url": "https://open.spotify.com/track/6KkVYJfUpNjRvRWeNXOnQB"
@@ -9606,7 +9642,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 173426,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
@@ -10170,7 +10206,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
@@ -11480,7 +11516,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
@@ -12224,7 +12260,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 162376,
       "name": "Miss Summer",
       "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
@@ -13556,7 +13592,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 224881,
       "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
       "url": "https://open.spotify.com/track/30G9O0gzkj4w7CbCWOE9eO"
@@ -14174,7 +14210,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
@@ -16032,10 +16068,28 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
+        "name": "Temper City - Self Aware (Official Video)",
+        "url": "https://open.spotify.com/album/0pV63StkTANXT7LT4lzEz9"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180714,
+      "name": "Self Aware (Music Video)",
+      "url": "https://open.spotify.com/track/5jgGLqWF0KiFIemm3RO3Zn"
     },
     {
       "album": {
@@ -16314,7 +16368,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling (Sped up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
@@ -17064,7 +17118,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 109295,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/4mM1CFAKlGCgp4RQ2YtUaF"
@@ -17456,7 +17510,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 190866,
       "name": "Stay For A While",
       "url": "https://open.spotify.com/track/6EtcuY72Byjg0BatJog9GM"
@@ -17782,7 +17836,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 205714,
       "name": "Stress Relief",
       "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
@@ -17978,7 +18032,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 189093,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
@@ -19132,7 +19186,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -21076,7 +21130,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 133747,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC"
@@ -21581,6 +21635,24 @@
     },
     {
       "album": {
+        "name": "whyy",
+        "url": "https://open.spotify.com/album/6JyQugEBceDubH8DGhR51H"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126562,
+      "name": "whyy",
+      "url": "https://open.spotify.com/track/72WxMwec03zySBDZDNhg11"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -21888,7 +21960,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 202750,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"

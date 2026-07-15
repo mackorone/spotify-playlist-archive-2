@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 725452,
+  "num_followers": 725536,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACq+08i9/vl5eIiSHeRmHyB",
+  "snapshot_id": "alQqgAAAAACvwmaHZOnuYpAp8JFW8jqB",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,26 @@
       "duration_ms": 296933,
       "name": "Tell Me When It\u2019s Over",
       "url": "https://open.spotify.com/track/4hx9NTugoBdIG8MkAi2fzI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
     }
   ],
   "unique_name": "This Is Chris Stapleton",

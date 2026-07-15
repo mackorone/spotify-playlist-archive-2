@@ -14622,7 +14622,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 243667,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/22xDzh3lOucccBrm1BB8xf"
@@ -17954,7 +17954,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 219190,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6RrlTNk3a68nMjN5vSOXMp"
@@ -20231,6 +20231,24 @@
     },
     {
       "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
+    },
+    {
+      "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
       },
@@ -21150,7 +21168,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 299296,
       "name": "Jersey Giant - Live from Dublin",
       "url": "https://open.spotify.com/track/1EKjWhueDbrBn5q5c8QxE0"
@@ -28556,7 +28574,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 158848,
       "name": "On 2nite",
       "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
@@ -29020,7 +29038,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"

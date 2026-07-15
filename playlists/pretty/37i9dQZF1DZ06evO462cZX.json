@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAlHBFSeuTd+i+0b/yidH3x",
+  "snapshot_id": "alQqgAAAAAAwQ++FaeifZ9W4//vhbjt+",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can Be Somebody (feat. Erin McCarley)",
-        "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Erin McCarley",
-          "url": "https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "I Can Be Somebody (feat. Erin McCarley)",
-      "url": "https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bring It Back (feat. Max Styler)",
         "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 165000,
       "name": "Bring It Back (feat. Max Styler)",
       "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Can Be Somebody (feat. Erin McCarley)",
+        "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Erin McCarley",
+          "url": "https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "I Can Be Somebody (feat. Erin McCarley)",
+      "url": "https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "pOCHO",
-        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
       "artists": [
         {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 168000,
-      "name": "teksi",
-      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
     },
     {
       "added_at": null,
@@ -499,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Audi",
-        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
+        "name": "pOCHO",
+        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 198545,
-      "name": "En El Audi",
-      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+      "duration_ms": 168000,
+      "name": "teksi",
+      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bootie in Your Face (No Rock Drop)",
+        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 221236,
+      "name": "Bootie in Your Face - No Rock Drop",
+      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 185076,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bootie in Your Face (No Rock Drop)",
-        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 221236,
-      "name": "Bootie in Your Face - No Rock Drop",
-      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
     },
     {
       "added_at": null,
@@ -755,6 +755,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "2 Da Floor",
+        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "2 Da Floor",
+      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
       },
@@ -799,26 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Da Floor",
-        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
       },
       "artists": [
         {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "J. Cruze",
-          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
         }
       ],
-      "duration_ms": 185600,
-      "name": "2 Da Floor",
-      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
       "duration_ms": 220800,
       "name": "Que Es Eso (feat. Young Eiby)",
       "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": null,
@@ -886,15 +886,31 @@
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Teemu",
-          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
         }
       ],
-      "duration_ms": 229099,
-      "name": "Turn Back Time (feat. Teemu)",
-      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+      "duration_ms": 206228,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -919,26 +935,6 @@
       "duration_ms": 229411,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -974,11 +970,31 @@
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Teemu",
+          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
         }
       ],
-      "duration_ms": 206228,
-      "name": "Rise and Shine",
-      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
+      "duration_ms": 229099,
+      "name": "Turn Back Time (feat. Teemu)",
+      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -999,22 +1015,6 @@
       "duration_ms": 147323,
       "name": "Front To Back",
       "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,

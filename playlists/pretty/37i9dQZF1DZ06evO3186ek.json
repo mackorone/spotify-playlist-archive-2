@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165965,
+  "num_followers": 165969,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADhgevx9IQAjoB2SgCRe/bC",
+  "snapshot_id": "alQqgAAAAACXBepU4UIA6yET4dW2loxv",
   "tracks": [
     {
       "added_at": null,
@@ -759,34 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Johnny Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
-        }
-      ],
-      "duration_ms": 469125,
-      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -811,6 +783,34 @@
       "duration_ms": 262304,
       "name": "I Speak Jesus - Instrumental Worship",
       "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
     },
     {
       "added_at": null,
@@ -1099,34 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond (I See The Glory) feat. Mara Justine",
-        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 343953,
-      "name": "Diamond (I See the Glory) feat. Mara Justine",
-      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Move Your Heart",
         "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
@@ -1151,6 +1123,34 @@
       "duration_ms": 621222,
       "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
       "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond (I See The Glory) feat. Mara Justine",
+        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 343953,
+      "name": "Diamond (I See the Glory) feat. Mara Justine",
+      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
     },
     {
       "added_at": null,

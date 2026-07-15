@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 116524,
+  "num_followers": 116538,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Infamous Angel",
-        "url": "https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o"
-      },
-      "artists": [
-        {
-          "name": "Iris DeMent",
-          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Our Town",
-      "url": "https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "O' Be Joyful",
         "url": "https://open.spotify.com/album/4nuJVavarQXSOd2MP7892J"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 240535,
       "name": "Birmingham",
       "url": "https://open.spotify.com/track/5ciSr1SyZUQrxySlxZhdhg"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Infamous Angel",
+        "url": "https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o"
+      },
+      "artists": [
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Our Town",
+      "url": "https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Notes of Blue",
-        "url": "https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs"
+        "name": "Cruel Moon",
+        "url": "https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk"
       },
       "artists": [
         {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
         }
       ],
-      "duration_ms": 207485,
-      "name": "Back Against the Wall",
-      "url": "https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM"
+      "duration_ms": 195293,
+      "name": "Does My Ring Burn Your Finger",
+      "url": "https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Cruel Moon",
-        "url": "https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk"
+        "name": "Notes of Blue",
+        "url": "https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs"
       },
       "artists": [
         {
-          "name": "Buddy Miller",
-          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
         }
       ],
-      "duration_ms": 195293,
-      "name": "Does My Ring Burn Your Finger",
-      "url": "https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT"
+      "duration_ms": 207485,
+      "name": "Back Against the Wall",
+      "url": "https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "The Silos (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg"
-      },
-      "artists": [
-        {
-          "name": "The Silos",
-          "url": "https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih"
-        }
-      ],
-      "duration_ms": 298026,
-      "name": "I'm Over You",
-      "url": "https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "The Instigator",
         "url": "https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 189200,
       "name": "The El",
       "url": "https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "The Silos (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg"
+      },
+      "artists": [
+        {
+          "name": "The Silos",
+          "url": "https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih"
+        }
+      ],
+      "duration_ms": 298026,
+      "name": "I'm Over You",
+      "url": "https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK"
     },
     {
       "added_at": "2026-06-19 04:01:42",

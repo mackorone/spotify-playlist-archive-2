@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 8,025 likes - 222 songs - 20 hr 51 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 8,027 likes - 222 songs - 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

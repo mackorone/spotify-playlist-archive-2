@@ -30620,7 +30620,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 207706,
       "name": "Out of Water",
       "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
@@ -37842,7 +37842,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 169431,
       "name": "So Smart",
       "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
@@ -38568,6 +38568,24 @@
       "duration_ms": 149174,
       "name": "SpiceKick",
       "url": "https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX"
+    },
+    {
+      "album": {
+        "name": "POWER HOUSE",
+        "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149174,
+      "name": "SpiceKick",
+      "url": "https://open.spotify.com/track/5QkSktZsZ4IgHCaAs31D6m"
     },
     {
       "album": {

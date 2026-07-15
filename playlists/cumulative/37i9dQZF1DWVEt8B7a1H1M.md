@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-176 songs - 9 hr 45 min
+177 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [June 1st Morning Birds](https://open.spotify.com/track/1ulBrAV3XL3u9rFyccNvBk) | [Birds In The Morning](https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm) | [Swedish Summer Birds](https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE) | 3:06 | 2021-12-08 | 2022-07-05 |
 | [June 2nd Morning Birds](https://open.spotify.com/track/7j9lcDiBwyLNc5VNSKU6BD) | [Birds In The Morning](https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm) | [Swedish Summer Birds](https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE) | 3:08 | 2021-12-08 | 2022-07-05 |
 | [June 3rd Morning Birds](https://open.spotify.com/track/5sSrNaCZniGiJr4BsUgUZE) | [Birds In The Morning](https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm) | [Swedish Summer Birds](https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE) | 3:45 | 2021-12-08 | 2025-11-12 |
+| [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Jungle Dusk at Pha Phum National Park](https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3) | 2:14 | 2026-04-02 |  |
 | [Jungle Midnight Calm, Borneo](https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4) | [Naoxos](https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn) | [Jungle Midnight Calm, Borneo](https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b) | 2:34 | 2026-04-02 |  |
 | [Kaupe Spring Birds](https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:38 | 2021-12-08 | 2025-07-22 |
 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 | 2021-12-08 | 2022-07-05 |
@@ -169,7 +170,7 @@
 | [Summer Afternoon Birds](https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ) | [Jungleur](https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna) | [Summer Afternoon Birds](https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm) | 2:20 | 2023-06-19 | 2024-03-31 |
 | [Summer Birds](https://open.spotify.com/track/6vvQbEbMHApAqDnShNqwdW) | [Lucila Blanco](https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx) | [Calming River and Birds](https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt) | 2:30 | 2023-10-11 | 2023-12-21 |
 | [Summer Song](https://open.spotify.com/track/5SZN94c5Neyb7tUNMGmykq) | [Under Bare Sky](https://open.spotify.com/artist/7KcqBIpoFRx659XfOwH8NK) | [Brook and Birds](https://open.spotify.com/album/1d8yAL9vhDTbuf6ARhzR6w) | 3:16 | 2021-12-08 | 2025-11-12 |
-| [Sunny Windy Day](https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Sunny Windy Day](https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g) | 4:08 | 2025-07-24 |  |
+| [Sunny Windy Day](https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Sunny Windy Day](https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g) | 4:08 | 2025-07-24 | 2026-07-15 |
 | [Surrounded by Nature](https://open.spotify.com/track/1U8CBdosDEnp44ghAVFxEg) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Embrace The Nature](https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ) | 1:52 | 2023-06-19 | 2025-06-13 |
 | [Swedish Spring Birds](https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:57 | 2023-06-20 | 2025-07-03 |
 | [The Days of Sleep](https://open.spotify.com/track/0Zll35HIjOvk4RvK733uR8) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:34 | 2021-12-08 | 2022-01-07 |

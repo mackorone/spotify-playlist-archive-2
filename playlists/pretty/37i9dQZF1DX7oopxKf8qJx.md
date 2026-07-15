@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,609 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,641 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 47 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
 | 48 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Robert Maxwell](https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB), [Carl Sigman](https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
 | 49 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
-| 50 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
-| 51 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
+| 50 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
+| 51 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
 | 52 | [Stranger On The Shore](https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:11 |
 | 53 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
 | 54 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 70 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
 | 71 | [I Could Have Danced All Night \(From "My Fair Lady"\)](https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Ros on Broadway](https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V) | 2:31 |
 | 72 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [Lovely Lady](https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy) | 3:30 |
-| 73 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
-| 74 | [Somewhere My Love](https://open.spotify.com/track/5EBErlypzVhE3THcBf2j0r) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Somewhere My Love](https://open.spotify.com/album/78gVi3Fi9URUyuhhIn1KVe) | 2:30 |
+| 73 | [Somewhere My Love](https://open.spotify.com/track/5EBErlypzVhE3THcBf2j0r) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Somewhere My Love](https://open.spotify.com/album/78gVi3Fi9URUyuhhIn1KVe) | 2:30 |
+| 74 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
 | 75 | [Two Lovers Theme](https://open.spotify.com/track/77wlTZKngci9HsYbGYp1Aa) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [How to Steal a Million \- Original Sound Track](https://open.spotify.com/album/45Jxg1wxDTfFt0aX2WqxFA) | 2:46 |
 | 76 | [Strangers In The Night](https://open.spotify.com/track/0AeI5up4B9HvKRiczfMF7o) | [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/75C2nKf5frcYnRI8tSqXOM) | 2:14 |
 | 77 | [Lover Come Back to Me](https://open.spotify.com/track/0DeL2IndLfKP2JSb33ZBgc) | [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [All\-American Showcase](https://open.spotify.com/album/4H7ItBRkwoMNc3n7XBp75Q) | 3:17 |

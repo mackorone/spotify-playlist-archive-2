@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 119604,
+  "num_followers": 119638,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-10 04:01:33",
       "album": {
-        "name": "Sensual Disguise EP",
-        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
-      },
-      "artists": [
-        {
-          "name": "GENNARO",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 190656,
-      "name": "Te Conoci",
-      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
-    },
-    {
-      "added_at": "2026-07-10 04:01:33",
-      "album": {
         "name": "Asereje (Remix)",
         "url": "https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 157440,
       "name": "Asereje - Remix",
       "url": "https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk"
+    },
+    {
+      "added_at": "2026-07-10 04:01:33",
+      "album": {
+        "name": "Sensual Disguise EP",
+        "url": "https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA"
+      },
+      "artists": [
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 190656,
+      "name": "Te Conoci",
+      "url": "https://open.spotify.com/track/15YgNVANAkLbiNligewd1R"
     },
     {
       "added_at": "2026-07-10 04:01:33",
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2026-07-10 04:01:33",
       "album": {
-        "name": "Piquete Cabron",
-        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "Bray",
-          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Piquete Cabron",
-      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:33",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
       },
@@ -1659,6 +1635,30 @@
     {
       "added_at": "2026-07-10 04:01:33",
       "album": {
+        "name": "Piquete Cabron",
+        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "Bray",
+          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Piquete Cabron",
+      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
+    },
+    {
+      "added_at": "2026-07-10 04:01:33",
+      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -1671,6 +1671,30 @@
       "duration_ms": 170476,
       "name": "Maracuya",
       "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+    },
+    {
+      "added_at": "2026-07-10 04:01:33",
+      "album": {
+        "name": "Batonga",
+        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
     },
     {
       "added_at": "2026-07-10 04:01:33",
@@ -1711,30 +1735,6 @@
     {
       "added_at": "2026-07-10 04:01:33",
       "album": {
-        "name": "Batonga",
-        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
-    },
-    {
-      "added_at": "2026-07-10 04:01:33",
-      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
@@ -1751,22 +1751,6 @@
       "duration_ms": 170953,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:33",
-      "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2026-07-10 04:01:33",
@@ -1795,22 +1779,18 @@
     {
       "added_at": "2026-07-10 04:01:33",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
         }
       ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2026-07-10 04:01:33",
@@ -1835,6 +1815,26 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+    },
+    {
+      "added_at": "2026-07-10 04:01:33",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2026-07-10 04:01:33",

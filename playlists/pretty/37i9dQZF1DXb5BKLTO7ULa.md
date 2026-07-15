@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Jonna Fraser & Tiwa Savage, Beyoncé, Kris Kross Amsterdam, Emma Heesters en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,565 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,558 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 39 | [Ouder Word](https://open.spotify.com/track/0woSSr7ZRt6sAJorMQc4j0) | [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9) | [Ouder Word](https://open.spotify.com/album/2DrMMDwhWi4iyEJcG3Sr0K) | 2:26 |
 | 40 | [Veel Te Lange Nacht](https://open.spotify.com/track/11l2BSBXsThmuEAKwt0dBu) | [Jeffrey Kuipers](https://open.spotify.com/artist/3VW8sZ0BxGjRtexeVDGQXH) | [Veel Te Lange Nacht](https://open.spotify.com/album/4qCHdpZC8hX3uMOxtT5wQ7) | 2:30 |
 | 41 | [Momento](https://open.spotify.com/track/792tpHgVii7ghdL2WkaccO) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Momento](https://open.spotify.com/album/4zoULj0Q4u4FIAzUuvSpHs) | 2:47 |
-| 42 | [HOTBOY](https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD) | [GEM\-Z II](https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu) | 2:34 |
+| 42 | [HOTBOY](https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [GEM\-Z II](https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu) | 2:34 |
 | 43 | [OutSide](https://open.spotify.com/track/6IG0iq4FFvfJfMKQwdD3Fx) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR), [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo), [Reimas](https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl) | [OutSide](https://open.spotify.com/album/1YIP2iOmdReMtlxTxVgW5E) | 2:40 |
 | 44 | [Landing Soft](https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Landing Soft](https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW) | 4:15 |
 | 45 | [Young London](https://open.spotify.com/track/5cwZWtLpAgDQXIFbRhUZcc) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Young London](https://open.spotify.com/album/0oOrh69HrDugr7QJ4l7llo) | 3:06 |

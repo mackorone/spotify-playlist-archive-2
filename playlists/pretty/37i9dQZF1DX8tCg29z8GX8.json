@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21059,
+  "num_followers": 21068,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
+        "name": "Lavida Loca (feat. Lasmid)",
+        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "Lavida Loca (feat. Lasmid)",
+      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
+    },
+    {
+      "added_at": "2026-06-25 22:23:48",
+      "album": {
         "name": "TORCHER II",
         "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
       },
@@ -1323,22 +1343,18 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
-        "name": "Lavida Loca (feat. Lasmid)",
-        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
+        "name": "Aketesia",
+        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Cojo Rae",
+          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
         }
       ],
-      "duration_ms": 159292,
-      "name": "Lavida Loca (feat. Lasmid)",
-      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
+      "duration_ms": 193562,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
     },
     {
       "added_at": "2026-06-25 22:23:48",
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2026-06-25 22:23:48",
       "album": {
-        "name": "Aketesia",
-        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
       },
       "artists": [
         {
-          "name": "Cojo Rae",
-          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 193562,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
+      "duration_ms": 169285,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax"
     },
     {
       "added_at": "2026-06-25 22:23:48",
@@ -1415,26 +1435,6 @@
       "duration_ms": 117389,
       "name": "No. 1 Fan",
       "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
-    },
-    {
-      "added_at": "2026-06-25 22:23:48",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
-      },
-      "artists": [
-        {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax"
     },
     {
       "added_at": "2026-06-25 22:23:48",

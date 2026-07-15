@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,076,327 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,076,139 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 19 | [Breathe](https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Breathe](https://open.spotify.com/album/1ESGqa57ayFuz8ZpS6RxqX) | 3:57 |
 | 20 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
 | 21 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
-| 22 | [Callin \(feat\. Blu june\)](https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu june](https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr) | [Callin \(feat\. Blu june\)](https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS) | 2:34 |
+| 22 | [Callin \(feat\. Blu june\)](https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [Callin \(feat\. Blu june\)](https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS) | 2:34 |
 | 23 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
 | 24 | [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 |
 | 25 | [butterflies.](https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 4:08 |

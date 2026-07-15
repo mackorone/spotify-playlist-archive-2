@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087,072 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,087,184 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 2 | [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/track/0hQLcUDrlUjw2mjhKpU0cH) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8), [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/album/7MBe8x7NFeB4nTxLRxHELy) | 3:30 |
 | 3 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |
 | 4 | [Nang Iwan](https://open.spotify.com/track/5CgwESmg9qgxDSa7RBQxFb) | [This Band](https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08) | [Nang Iwan](https://open.spotify.com/album/0u1j9uKeBMlS9mbSPDEN5H) | 6:07 |
-| 5 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 |
-| 6 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:37 |
-| 7 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 |
-| 8 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 |
-| 9 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
-| 10 | [Tensionado](https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Soapdish Reloaded](https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ) | 3:16 |
-| 11 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 |
-| 12 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
-| 13 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 |
-| 14 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
-| 15 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 |
+| 5 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 |
+| 6 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 |
+| 7 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:37 |
+| 8 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 |
+| 9 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 |
+| 10 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
+| 11 | [Tensionado](https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Soapdish Reloaded](https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ) | 3:16 |
+| 12 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 |
+| 13 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
+| 14 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 |
+| 15 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
 | 16 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
 | 17 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 |
 | 18 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 24 | [Sulitin](https://open.spotify.com/track/6P6kqSItGVs18oP1OXxGJP) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [Sulitin](https://open.spotify.com/album/2Zlem592VqEoaaRqvFs2M3) | 4:15 |
 | 25 | [Patlang](https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Patlang](https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn) | 3:50 |
 | 26 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
-| 27 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
+| 27 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 |
 | 28 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
-| 29 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 |
+| 29 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
 | 30 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
 | 31 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
 | 32 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
 | 40 | [habangbuhay pansamantala](https://open.spotify.com/track/2IEHmtpKz5NtKJpVG9lvn2) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [habangbuhay pansamantala](https://open.spotify.com/album/1x2upE4s9Yf7eYK1EYccx9) | 4:09 |
 
-Snapshot ID: `AAAAAIyC7tbP8PYgrzXXB7KZLknlWbnZ`
+Snapshot ID: `AAAAAP1drqpLMM9QbhviWs09OPCdX0bu`

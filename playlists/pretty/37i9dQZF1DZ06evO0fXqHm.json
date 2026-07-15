@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACxVqrinJiArgm51nyv4Ams",
+  "snapshot_id": "alQqgAAAAABwaSs5Zhr7yv/3YoUDjqcs",
   "tracks": [
     {
       "added_at": null,
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "Maghaiver",
+          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
         }
       ],
-      "duration_ms": 107647,
-      "name": "Para N\u00e3o",
-      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
+      "duration_ms": 172661,
+      "name": "Amor De A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beijo na Boca",
-        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
       "artists": [
         {
@@ -872,17 +872,13 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "MC Pel\u00e9",
-          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 125307,
-      "name": "Beijo na Boca",
-      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
+      "duration_ms": 164850,
+      "name": "Sainha",
+      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
     },
     {
       "added_at": null,
@@ -900,13 +896,13 @@
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         },
         {
-          "name": "Maghaiver",
-          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
         }
       ],
-      "duration_ms": 172661,
-      "name": "Amor De A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
+      "duration_ms": 107647,
+      "name": "Para N\u00e3o",
+      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
     },
     {
       "added_at": null,
@@ -935,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+        "name": "Beijo na Boca",
+        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
       },
       "artists": [
         {
@@ -944,13 +940,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "MC Pel\u00e9",
+          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
         }
       ],
-      "duration_ms": 164850,
-      "name": "Sainha",
-      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
+      "duration_ms": 125307,
+      "name": "Beijo na Boca",
+      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
     },
     {
       "added_at": null,

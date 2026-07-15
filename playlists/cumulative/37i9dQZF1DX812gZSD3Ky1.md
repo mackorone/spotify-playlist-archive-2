@@ -4,7 +4,7 @@
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: ALIE BLACKCOBRA
 
-1,189 songs - 2 day 17 hr 23 min
+1,190 songs - 2 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 | 2025-10-03 | 2025-10-18 |
 | [backflips.](https://open.spotify.com/track/0HTvGw9cuZRNeZ4NLlDEd0) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [backflips.](https://open.spotify.com/album/5KcHIiXpxSFe8yVWpu0jvr) | 3:27 | 2026-04-16 | 2026-07-11 |
 | [Backseat Driver](https://open.spotify.com/track/6thKUE9N3TORLzYr74V9y5) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/0pG2PLMMgxqjNDVnjITHrz) | 3:16 | 2024-07-11 | 2024-07-20 |
+| [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 | 2026-07-14 |  |
 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 | 2026-04-10 | 2026-07-04 |
 | [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-28 | 2025-03-29 |
 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 | 2026-01-16 | 2026-03-28 |
@@ -839,7 +840,7 @@
 | [Skyline](https://open.spotify.com/track/3MNGwbMzdI8j0ETbtzqvDl) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Skyline](https://open.spotify.com/album/7tXUV3CaJ7BGXQbsVGFayY) | 3:22 | 2025-03-21 | 2025-03-29 |
 | [Slicked Back Hair](https://open.spotify.com/track/0ZhStYZNAZZk52Udk4sREx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Slicked Back Hair](https://open.spotify.com/album/7gxQnRYlUl5UkH1KMuxZRJ) | 2:42 | 2025-09-12 | 2025-09-27 |
 | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8) | 2:48 | 2024-07-11 | 2024-07-27 |
-| [Slow Burner](https://open.spotify.com/track/2PSF59lZEs4fRpyXKCet7N) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Slow Burner](https://open.spotify.com/album/60eRZ3H5LEnYwJRwLb4qYk) | 3:14 | 2026-05-15 |  |
+| [Slow Burner](https://open.spotify.com/track/2PSF59lZEs4fRpyXKCet7N) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Slow Burner](https://open.spotify.com/album/60eRZ3H5LEnYwJRwLb4qYk) | 3:14 | 2026-05-15 | 2026-07-15 |
 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-15 | 2024-11-23 |
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-17 | 2025-02-01 |
 | [Slowly](https://open.spotify.com/track/1wc4ixv0CcqkKqbfhGX1Bo) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Slowly](https://open.spotify.com/album/5bOoybmZqlAplTwqiALhSj) | 3:43 | 2024-07-04 | 2025-04-05 |

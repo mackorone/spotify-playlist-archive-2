@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,038 songs - 2 day 15 hr 17 min
+1,042 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Franz Kafka at the Zoo](https://open.spotify.com/track/6lapVjn3EjBGS5m2r17h0x) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Unknown Country](https://open.spotify.com/album/258ADCcHaA6gRgiM5JrbU2) | 1:58 | 2024-01-08 | 2024-03-10 |
 | [Freak Scene](https://open.spotify.com/track/7FIhuHZUdUxWX2hDMGdIbF) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Bug](https://open.spotify.com/album/217wquCr9YCvsIHEsFkVPs) | 3:36 | 2025-03-01 | 2025-05-09 |
 | [Free Man in Paris](https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 3:03 | 2025-02-21 | 2025-03-02 |
+| [FRESH FEELING](https://open.spotify.com/track/2DgfmAKx2fdAkqhqMboZKA) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 9:22 | 2026-07-15 |  |
 | [Fullgás](https://open.spotify.com/track/0YoMPuDCAusO2a5eipQsPa) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Todas Ao Vivo](https://open.spotify.com/album/3g7J1aC0RKkCYVybsCXYC8) | 3:54 | 2025-12-24 | 2025-12-27 |
 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 | 2026-04-11 | 2026-05-06 |
 | [Fussball Politics](https://open.spotify.com/track/0ndmRaklMcl9CVBahHrPHw) | [Cousin](https://open.spotify.com/artist/2E58ObVipz7mTA9iW95VdE) | [Alternate Tunings for Regular People](https://open.spotify.com/album/7tIPyrgJ8OMQBqMmIm0Znf) | 3:33 | 2024-11-25 | 2025-01-12 |
@@ -327,6 +328,7 @@
 | [getting to know each other](https://open.spotify.com/track/5u9enQ4xSQ6qqYako0x73k) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [piano1](https://open.spotify.com/album/6vzLvVkKjaoe4LXQQULCFG) | 3:25 | 2024-10-25 | 2024-11-14 |
 | [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 | 2025-12-12 | 2026-01-15 |
 | [Gift](https://open.spotify.com/track/7FgePu0nqCf8rkafQOeHV7) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/72GG3m2QVQ4pQ5Ipi07oO4) | 5:01 | 2024-02-02 | 2024-03-10 |
+| [Gift](https://open.spotify.com/track/7udaKPj4op8kSUIcJpQlYD) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/71hbXLIenMTEfyDfPRfq2r) | 5:01 | 2026-07-14 |  |
 | [Giftbearer](https://open.spotify.com/track/0klcGedsbrNB2hx6YN8pJJ) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [In The Falling Dark](https://open.spotify.com/album/60VKXUmkuvPBIbahpkgqMD) | 4:41 | 2024-01-09 | 2024-03-10 |
 | [Ginkgo](https://open.spotify.com/track/1IIib8LL2ADqopmFiVBA9L) | [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [Lucky Static](https://open.spotify.com/album/75M9grejgc2G3mjkmishDj) | 3:39 | 2025-11-14 | 2026-01-15 |
 | [girl in my dreams \(midwest accordion emo\)](https://open.spotify.com/track/2nH5JLiJhlmX9eQTWQ4MsP) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [Wonderful now](https://open.spotify.com/album/5JbVN9ZS9AV6EG6m9Pc7PF) | 1:46 | 2024-05-28 | 2024-07-12 |
@@ -580,6 +582,7 @@
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 | 2025-07-28 | 2025-08-08 |
 | [Miracles](https://open.spotify.com/track/1rYu6IaPWvIWkrSBlxwj8e) | [Johnnie Frierson](https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN) | [Have You Been Good to Yourself](https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne) | 3:38 | 2026-02-04 | 2026-03-13 |
+| [Mizake the Mizan](https://open.spotify.com/track/15EpITP684el9sd1UFWgI9) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Iceblink Luck](https://open.spotify.com/album/2NSJ5ABdmwwoFpZWzY9wzQ) | 3:00 | 2026-07-14 |  |
 | [Money! Money!](https://open.spotify.com/track/4J85oOrxdn1JTmISai7PRQ) | [The Three Night Wizards](https://open.spotify.com/artist/5F8XCFUGMif7gqT2OEkKXT) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 2:46 | 2025-08-20 | 2025-09-11 |
 | [Monochrome photography](https://open.spotify.com/track/36WOdy91Cs6wCUTlic2mdN) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Day Is Far Too Long](https://open.spotify.com/album/5OMI8HfEGEebdfeYHHDba0) | 3:53 | 2025-06-25 | 2025-07-04 |
 | [Monsoon: Top to Bottom](https://open.spotify.com/track/6MVRZzhHrMUEvPiCH3Srbl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:12 | 2025-06-28 | 2025-07-04 |
@@ -615,7 +618,7 @@
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2024-02-28 | 2024-03-10 |
 | [natsu no shizuku \(senkohanabi potori\) \- Remastered](https://open.spotify.com/track/4wNNJuJM6yJFu6pbBSXbM3) | [800 cherries](https://open.spotify.com/artist/47mrO8UvhD1Qt6iAIy4fCO) | [opuscula \(2022 Remaster\)](https://open.spotify.com/album/0eI5aHdJzGCuUStzA7S9IT) | 3:27 | 2026-04-23 | 2026-05-06 |
-| [Natural Disasters](https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [High Society](https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx) | 2:49 | 2026-07-10 |  |
+| [Natural Disasters](https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [High Society](https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx) | 2:49 | 2026-07-10 | 2026-07-15 |
 | [Nature's Piano](https://open.spotify.com/track/2pvcbXdQlL8nbT8ooPxYLi) | [Earth Flower](https://open.spotify.com/artist/1sMC9m50SKAhuUvCYMES2E), [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Nature's Piano](https://open.spotify.com/album/5yy0rxUYWsS5Z57CUvIyMx) | 2:59 | 2024-03-09 | 2024-05-16 |
 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 | 2025-12-06 | 2026-01-15 |
 | [nerds](https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM) | [Yorck Street](https://open.spotify.com/artist/2mQRyEpdhQxiykFmC74TSB) | [Yorck Street](https://open.spotify.com/album/4NWSdRujBcr2IYiBOsKNdD) | 0:40 | 2025-04-12 | 2025-05-09 |
@@ -822,6 +825,7 @@
 | [Spangle](https://open.spotify.com/track/2UWiko8D4Oqi4qnELqlNup) | [Should](https://open.spotify.com/artist/3Wqa6m6qXA9wA2YriCtWuY) | [Feed Like Fishes](https://open.spotify.com/album/6VsQ41UfJyJ9gyOUAit5Kv) | 3:21 | 2025-07-10 | 2025-09-11 |
 | [Spangled](https://open.spotify.com/track/0XM5F4U2CfjYn9iv0Qra7Q) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:43 | 2025-03-02 | 2025-05-09 |
 | [Sparrowsong](https://open.spotify.com/track/52MWdbfrFoFm7Yd4ai894U) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Shieling](https://open.spotify.com/album/6TR2hNF3iX8z7NuY0WqPac) | 3:46 | 2025-12-21 | 2026-01-15 |
+| [SPECIAL WEAKNESS](https://open.spotify.com/track/56PQ9YCEIe1YhSe90NGdRu) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 13:33 | 2026-07-15 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 | 2025-07-03 | 2025-09-11 |
 | [Spirits](https://open.spotify.com/track/5ypoadj8L1UdREY4rS9JbK) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [Classics](https://open.spotify.com/album/2xwtG3ZLBMMuk1gd1d6Wa3) | 1:55 | 2024-01-05 | 2024-03-10 |
 | [Spoon](https://open.spotify.com/track/4yGEFWe0tZzYGkNtJRg9bf) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:04 | 2024-01-05 | 2024-03-10 |

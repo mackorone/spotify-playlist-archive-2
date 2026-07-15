@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34815,
+  "num_followers": 34821,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gaslini",
-          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Cio che e' scritto nel vento",
-      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 407760,
       "name": "Ultimo amore",
       "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gaslini",
+          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Cio che e' scritto nel vento",
+      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -827,38 +827,6 @@
       "duration_ms": 154223,
       "name": "Sogni",
       "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
-        "name": "Cantare Pieranunzi",
-        "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ranalli",
-          "url": "https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK"
-        },
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "GIACOMO SERINO",
-          "url": "https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3"
-        },
-        {
-          "name": "Cesare Mangiocavallo",
-          "url": "https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b"
-        },
-        {
-          "name": "Giuseppe Romagnoli",
-          "url": "https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L"
-        }
-      ],
-      "duration_ms": 251109,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -911,6 +879,38 @@
       "duration_ms": 218533,
       "name": "Kids are electric",
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Cantare Pieranunzi",
+        "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ranalli",
+          "url": "https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK"
+        },
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "GIACOMO SERINO",
+          "url": "https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3"
+        },
+        {
+          "name": "Cesare Mangiocavallo",
+          "url": "https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b"
+        },
+        {
+          "name": "Giuseppe Romagnoli",
+          "url": "https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L"
+        }
+      ],
+      "duration_ms": 251109,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 165573,
       "name": "Giuramento (feat. Gabriele Mirabassi)",
       "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
       "artists": [
         {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
         }
       ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1443,6 +1427,22 @@
       "duration_ms": 245500,
       "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
       "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Contigo Mi Vida",
-        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Contigo Mi Vida",
-      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 276862,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Contigo Mi Vida",
+        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Contigo Mi Vida",
+      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Mister Magic",
         "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
         "name": "Le mie donne",
         "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
@@ -1751,6 +1751,26 @@
       "duration_ms": 236881,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+      },
+      "artists": [
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 288616,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1787,22 +1807,18 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "La Strada Invisibile",
-        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
       },
       "artists": [
         {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
-        },
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
         }
       ],
-      "duration_ms": 288616,
-      "name": "Tuareg",
-      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+      "duration_ms": 209285,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1851,30 +1851,6 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
-        }
-      ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1911,26 +1887,42 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Nidi di Note",
-        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
       "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
         {
           "name": "Paolo Fresu",
           "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
         },
         {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Sonia Peana",
-          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
         }
       ],
-      "duration_ms": 194638,
-      "name": "Inizi\u00f2",
-      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     }
   ],
   "unique_name": "Jazz Italia",

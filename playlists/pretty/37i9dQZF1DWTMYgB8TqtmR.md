@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,346 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,316 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 17 | [Higher Calling](https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Higher Calling](https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx) | 3:43 |
 | 18 | [Før Vi Går Hjem \- naughty version](https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0USeG6qZBH7RvZjgpcs9sq) | 2:54 |
 | 19 | [Man](https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 2:28 |
-| 20 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
-| 21 | [Döden ut](https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Döden ut](https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ) | 3:39 |
-| 22 | [Choosin' Texas](https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:51 |
-| 23 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
+| 20 | [Döden ut](https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Döden ut](https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ) | 3:39 |
+| 21 | [Choosin' Texas](https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:51 |
+| 22 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
+| 23 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 24 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 25 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
 | 26 | [Leva för alltid \- Sveriges officiella VM\-låt 2026](https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Leva för alltid \(Sveriges officiella VM\-låt 2026\)](https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg) | 3:22 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 33 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 34 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 35 | [Viva L’Amor](https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7) | 3:01 |
-| 36 | [Jack & Coke](https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Jack & Coke](https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ) | 2:49 |
-| 37 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
-| 38 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
-| 39 | [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 |
-| 40 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 41 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
-| 42 | [Berusade ord](https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Berusade ord](https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi) | 2:55 |
-| 43 | [Min vita kanin](https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 3:52 |
-| 44 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
-| 45 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 36 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
+| 37 | [Jack & Coke](https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Jack & Coke](https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ) | 2:49 |
+| 38 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
+| 39 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
+| 40 | [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 |
+| 41 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 42 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
+| 43 | [Berusade ord](https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Berusade ord](https://open.spotify.com/album/74tRAatbdPLCLyq22KQYSi) | 2:55 |
+| 44 | [Min vita kanin](https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 3:52 |
+| 45 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 | 46 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 | 47 | [Övertänker](https://open.spotify.com/track/3U573wJbbipFNpkGGE2pQh) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Övertänker](https://open.spotify.com/album/38tGxDfs43Mnsip0jruENW) | 3:23 |
 | 48 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 49 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 50 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 
-Snapshot ID: `AAAAALfRPFgx/6ZDp39Dull9naEIBucm`
+Snapshot ID: `AAAAABbq2+F3TxpBUIJmzgntfo7/G4nN`

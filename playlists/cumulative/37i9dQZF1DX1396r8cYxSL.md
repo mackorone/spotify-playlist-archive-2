@@ -2,9 +2,9 @@
 
 ### [Yaz Hitleri 2026](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2026 yazının şarkıları\. Kapak: Sefo
+> 2026 yazının şarkıları\. Kapak: Hadise
 
-194 songs - 9 hr 20 min
+198 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,14 @@
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-26 |  |
 | [AFACAN](https://open.spotify.com/track/4wcgZ4tW9FJIf7npjESE72) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [AFACAN](https://open.spotify.com/album/2E4vqnsYlAgWK2fr7qeehR) | 2:12 | 2025-05-22 | 2026-06-09 |
 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-09-04 | 2025-06-13 |
+| [Akşamüstü](https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Akşamüstü](https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h) | 2:52 | 2026-07-14 |  |
 | [Al Aramızdan](https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Al Aramızdan](https://open.spotify.com/album/6hxlscwVxcHll5lq1bHnZl) | 2:51 | 2023-09-04 | 2024-07-04 |
 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 | 2025-05-22 |  |
 | [Ali Cabbar](https://open.spotify.com/track/1u9oZzM8CTeCMXsdTXaOtY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:09 | 2023-09-04 | 2024-06-06 |
 | [Aman Güzel Yavaş Yürü](https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Aman Güzel Yavaş Yürü](https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP) | 2:29 | 2023-09-04 | 2025-06-27 |
 | [Aman Güzel Yavaş Yürü](https://open.spotify.com/track/4prkrtPoc702AKjtC7fLZx) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Aman Güzel Yavaş Yürü](https://open.spotify.com/album/0Sqh3MjGZAPBLLheEYxxq4) | 2:29 | 2023-09-04 | 2024-04-19 |
 | [Antidepresan](https://open.spotify.com/track/4OH5Cd8ZOI1eSgJSC9PYmU) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Antidepresan](https://open.spotify.com/album/7qeEafcjWKfuhE2HgXciUL) | 4:00 | 2023-09-04 | 2024-06-06 |
+| [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 | 2026-07-14 |  |
 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 | 2023-09-04 | 2024-07-04 |
 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 | 2023-09-04 | 2024-06-06 |
 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-05-22 | 2026-06-09 |
@@ -93,6 +95,7 @@
 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 | 2025-06-30 | 2026-06-26 |
 | [Haydi Gel Benimle Ol](https://open.spotify.com/track/6wE2kwWJpEWuKGxlN1DMKi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Haydi Gel Benimle Ol](https://open.spotify.com/album/65Op2SMVGbXfT4FE1BuHlj) | 2:35 | 2023-09-04 | 2024-08-29 |
 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 | 2026-06-08 |  |
+| [hola hola](https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [hola hola](https://open.spotify.com/album/2YGeHMEaSs4cHZdds4HZot) | 2:19 | 2026-07-14 |  |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-06-05 | 2025-05-23 |
 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 | 2025-05-22 | 2025-07-16 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-05 | 2025-05-23 |
@@ -167,6 +170,7 @@
 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 | 2025-05-22 | 2025-08-15 |
 | [Tanrım Reva Mı](https://open.spotify.com/track/4XUjq1m4FEoFCQsjmJ9UKj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tanrım Reva Mı](https://open.spotify.com/album/3rHiZEWD6gyn1h0BChHrsr) | 2:27 | 2023-09-04 | 2024-06-06 |
 | [Tek Başıma](https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Başıma](https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx) | 3:29 | 2024-06-05 | 2025-05-23 |
+| [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-14 |  |
 | [Tutun Sen Bana](https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [KADER SK.](https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P) | 2:43 | 2023-09-04 | 2024-07-04 |
 | [Umrumdışı](https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Umrumdışı](https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq) | 3:38 | 2026-06-25 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2023-09-04 | 2024-06-06 |

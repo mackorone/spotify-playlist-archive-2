@@ -1,6 +1,6 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2116067,
+  "num_followers": 2116041,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 140525,
-      "name": "Mood (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 339066,
       "name": "90210 (feat. Kacy Hill)",
       "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 140525,
+      "name": "Mood (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Runnin",
-      "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 203266,
       "name": "Space Cadet (feat. Gunna)",
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 169999,
+      "name": "Armed And Dangerous",
+      "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "Dark Sky Paradise",
         "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 123986,
       "name": "2055",
       "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 169999,
-      "name": "Armed And Dangerous",
-      "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "Certified Hitmaker",
         "url": "https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ"
       },
@@ -1711,8 +1711,8 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
       "artists": [
         {
@@ -1720,9 +1720,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 117013,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
+      "duration_ms": 123870,
+      "name": "LOT OF ME",
+      "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1807,8 +1807,8 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
         {
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 123870,
-      "name": "LOT OF ME",
-      "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
+      "duration_ms": 117013,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
     },
     {
       "added_at": "2024-05-02 15:06:27",

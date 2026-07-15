@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1717334,
+  "num_followers": 1717529,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Arthur - The Album [Original Soundtrack]",
         "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 234493,
       "name": "Arthur's Theme (Best That You Can Do)",
       "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Hornsby and the Range",
-          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
-        }
-      ],
-      "duration_ms": 297847,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+        }
+      ],
+      "duration_ms": 297847,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 427333,
       "name": "We Are The World",
       "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -935,22 +935,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 253784,
-      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -971,34 +967,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
         }
       ],
-      "duration_ms": 327746,
-      "name": "I Wish It Would Rain Down - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+      "duration_ms": 266333,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1019,18 +999,38 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 266333,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
+      "duration_ms": 253784,
+      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 327746,
+      "name": "I Wish It Would Rain Down - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 232906,
       "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
+      },
+      "artists": [
+        {
+          "name": "Juice Newton",
+          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Angel Of The Morning",
+      "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Cry Like a Rainstorm Howl Like the Wind",
         "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
-      },
-      "artists": [
-        {
-          "name": "Juice Newton",
-          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Angel Of The Morning",
-      "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Greatest Hits II (Remastered)",
-        "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Who Wants To Live Forever - Remastered 2011",
-      "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Cat Trick",
         "url": "https://open.spotify.com/album/1qFnzeL2z377T605oCdDTX"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 242044,
       "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
       "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Greatest Hits II (Remastered)",
+        "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Who Wants To Live Forever - Remastered 2011",
+      "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw"
-      },
-      "artists": [
-        {
-          "name": "Will To Power",
-          "url": "https://open.spotify.com/artist/63I04Kj1gXC1LLSVcrOzLN"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Baby, I Love Your Way/Freebird",
-      "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Turn Back The Clock",
         "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 270133,
       "name": "Turn Back The Clock",
       "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw"
+      },
+      "artists": [
+        {
+          "name": "Will To Power",
+          "url": "https://open.spotify.com/artist/63I04Kj1gXC1LLSVcrOzLN"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Baby, I Love Your Way/Freebird",
+      "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
     },
     {
       "added_at": "2026-05-04 14:51:52",

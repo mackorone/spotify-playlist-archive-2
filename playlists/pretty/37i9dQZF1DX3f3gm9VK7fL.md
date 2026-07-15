@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f3gm9VK7fL.md) - [plain]
 
 > The hottest Anime hits of the 20s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,079 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,128 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f3gm9VK7fL.md) - [plain]
 | 35 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 36 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
 | 37 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
-| 38 | [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 |
-| 39 | [Recollect](https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Recollect](https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn) | 3:10 |
+| 38 | [You Can't Run From Me \(from Cyberpunk: Edgerunners Season 2\)](https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Can't Run From Me \(from Cyberpunk: Edgerunners 2\)](https://open.spotify.com/album/5EU0MQCdOmuusiIICq7VEG) | 3:54 |
+| 39 | [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 |
 | 40 | [ひとりごつ](https://open.spotify.com/track/0lEH5AatlbJJlELJglP0kP) | [ハチワレ\(CV:田中 誠人\)](https://open.spotify.com/artist/61S5GoFsxHt9ZGOM55oVWe) | [ひとりごつ](https://open.spotify.com/album/1fL5U7EPRjkoXdz8zqEYTA) | 1:30 |
-| 41 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
-| 42 | [You Can't Run From Me \(from Cyberpunk: Edgerunners Season 2\)](https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Can't Run From Me \(from Cyberpunk: Edgerunners 2\)](https://open.spotify.com/album/5EU0MQCdOmuusiIICq7VEG) | 3:54 |
+| 41 | [Recollect](https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Recollect](https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn) | 3:10 |
+| 42 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 43 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 44 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 |
 | 45 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |

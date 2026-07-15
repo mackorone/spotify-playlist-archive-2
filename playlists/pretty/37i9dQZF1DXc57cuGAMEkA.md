@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 MILLENNIUM PARADE, BEYONCÉ, Kelela, Wet Leg, imase, 椎名林檎 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,736 likes - 89 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,750 likes - 89 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

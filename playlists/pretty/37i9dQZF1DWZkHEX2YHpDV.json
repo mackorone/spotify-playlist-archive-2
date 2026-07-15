@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 440773,
+  "num_followers": 440770,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Wolf In Sheep's Clothing [REBORN]",
         "url": "https://open.spotify.com/album/3EAQjK9KBprKYBerEPGxwS"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 201939,
       "name": "Wolf In Sheep's Clothing [REBORN]",
       "url": "https://open.spotify.com/track/1tpidJ4FBn9TwshePh1bc3"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Constant Headache",
-        "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        },
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 181430,
-      "name": "Constant Headache",
-      "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -843,18 +823,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
+        "name": "Constant Headache",
+        "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
         }
       ],
-      "duration_ms": 171034,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
+      "duration_ms": 181430,
+      "name": "Constant Headache",
+      "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -879,6 +863,22 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Pick Your Poison",
-        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 159151,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 191000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 159151,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Never Said",
-      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -1475,34 +1459,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH"
       },
       "artists": [
         {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
         }
       ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Head is Like a Sinking Stone",
-        "url": "https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 183327,
-      "name": "Head is Like a Sinking Stone",
-      "url": "https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa"
+      "duration_ms": 195826,
+      "name": "Never Said",
+      "url": "https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1531,6 +1499,38 @@
       "duration_ms": 153133,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Head is Like a Sinking Stone",
+        "url": "https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 183327,
+      "name": "Head is Like a Sinking Stone",
+      "url": "https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "american zombie",
-        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 153211,
-      "name": "american zombie",
-      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "PIN-EYE",
-        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+        "name": "american zombie",
+        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
       },
       "artists": [
         {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 272668,
-      "name": "PIN-EYE",
-      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+      "duration_ms": 153211,
+      "name": "american zombie",
+      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1663,6 +1647,22 @@
       "duration_ms": 155706,
       "name": "Lay Down and Die",
       "url": "https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "PIN-EYE",
+        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 272668,
+      "name": "PIN-EYE",
+      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
     },
     {
       "added_at": "2026-01-09 05:00:25",

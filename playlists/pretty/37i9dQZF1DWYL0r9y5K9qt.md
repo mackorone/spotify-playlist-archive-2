@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: Deb Fan
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,659 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,623 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 32 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
 | 33 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
 | 34 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
-| 35 | [Too Bad](https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [GOOD GIRL BUT NOT FOR YOU](https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu) | 2:49 |
-| 36 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
+| 35 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
+| 36 | [Too Bad](https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [GOOD GIRL BUT NOT FOR YOU](https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu) | 2:49 |
 | 37 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
 | 38 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
-| 39 | [Haru Ni Mau](https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Haru Ni Mau](https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn) | 3:58 |
-| 40 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 39 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 40 | [Haru Ni Mau](https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Haru Ni Mau](https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn) | 3:58 |
 | 41 | [LUCID DREAM](https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LUCID DREAM](https://open.spotify.com/album/4Ds93h4r7F3Hw68SuOTrA1) | 3:27 |
 | 42 | [Honey Honey](https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 2:38 |
 | 43 | [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 |

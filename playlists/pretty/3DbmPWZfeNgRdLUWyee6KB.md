@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,314 likes - 163 songs - 9 hr 7 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,314 likes - 168 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,5 +171,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 161 | [Boiling Hot](https://open.spotify.com/track/5iNqv4rUHi27ud7mxsuOJi) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Boiling Hot](https://open.spotify.com/album/3MruevULXHS23YScLZkUHE) | 3:13 |
 | 162 | [Sunset](https://open.spotify.com/track/0R6H2QqlJlPw4kVo2DgQk2) | [Marty Van Wells](https://open.spotify.com/artist/5Lh1aWTbIqlZtTIFwBMM1z) | [Sunset](https://open.spotify.com/album/0K6aF4sCLwrPe8qxwtJLLg) | 2:38 |
 | 163 | [Peace Anthem](https://open.spotify.com/track/4WUfp4Fo6Rd6O9RnAd5zFd) | [Diana Vibes Earth](https://open.spotify.com/artist/0QC7leTBU5trqgGkJpJz49) | [Peace Anthem](https://open.spotify.com/album/6WEjep4YsM4MycixUtKxK9) | 1:41 |
+| 164 | [Sick Of Choosing](https://open.spotify.com/track/5Z4s3EPMGPuuM7xEsEShM8) | [Trent Vine](https://open.spotify.com/artist/4F0NFknxpBDipvIXQEMKvl) | [Sick Of Choosing](https://open.spotify.com/album/0xrnC9IALsTiBjN6GEUG0t) | 2:36 |
+| 165 | [Grace Kept Me Alive](https://open.spotify.com/track/4vgBxU5BQN8P53ajW3sMUM) | [Samson Myles](https://open.spotify.com/artist/2yS5UiHfWV5fjXxOlmtfJ1) | [Grace Kept Me Alive](https://open.spotify.com/album/4toq5mb4vBjICafu4bc10T) | 4:36 |
+| 166 | [London](https://open.spotify.com/track/5PEGPaTSfkWMSlnhoTKHky) | [Love Juliet](https://open.spotify.com/artist/1YS15EpvCxpGL5SeHcmCqb) | [London](https://open.spotify.com/album/2QgKRzP7A3JTvPboYknP34) | 2:01 |
+| 167 | [Rapuh](https://open.spotify.com/track/0257WfyJ9vxVPm7b0dh6xA) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Rapuh](https://open.spotify.com/album/0pE86dWCLq32BjMjpGscSG) | 3:46 |
+| 168 | [Heart of Glass](https://open.spotify.com/track/4rmWnaSGnloXIcxvZpbdzv) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [Heart of Glass](https://open.spotify.com/album/3ypF6SXx7wnzodQdfviHqQ) | 3:37 |
 
-Snapshot ID: `AAAWAq9gZF1BF9K079Lb3UAkiGl03Z7r`
+Snapshot ID: `AAAWB36LQLMRAbD0lVgO4Qq6z/n0pE5Y`

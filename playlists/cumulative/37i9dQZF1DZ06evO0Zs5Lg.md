@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 49 min
+73 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,11 +44,12 @@
 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 | 2025-04-19 |  |
 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 | 2025-04-19 |  |
 | [Imposter](https://open.spotify.com/track/0TSLL6ziM6ArpN0uV7wwxY) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 4:09 | 2026-06-29 | 2026-07-03 |
-| [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/39D9e2Kx9f7ligiEgB0WD8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:07 | 2026-07-10 |  |
+| [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/39D9e2Kx9f7ligiEgB0WD8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:07 | 2026-07-10 | 2026-07-15 |
 | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 | 2026-03-29 | 2026-07-10 |
 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 | 2025-04-19 |  |
 | [Kia Boy](https://open.spotify.com/track/4W0ovOeWSWoOVp7LFVTYYE) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/4HJohcUsonTrzPCyaaN1KP) | 3:05 | 2026-05-31 | 2026-06-28 |
-| [Kia Boy](https://open.spotify.com/track/6AT6RhEEh1lopfRnCaPcQ9) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/6T8ApoKC9h7K3Vrvtk4X2M) | 3:05 | 2026-06-28 |  |
+| [Kia Boy](https://open.spotify.com/track/6AT6RhEEh1lopfRnCaPcQ9) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/6T8ApoKC9h7K3Vrvtk4X2M) | 3:05 | 2026-06-28 | 2026-07-15 |
+| [Kia Boy](https://open.spotify.com/track/6rwNXIJCL0Dizz2vAzTUCy) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:05 | 2026-07-15 |  |
 | [Kin \(I’m Outside\) \[with Pete & Bas and JonRay\]](https://open.spotify.com/track/00mcD1i8K8jBD4CSyk8w38) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pete & Bas](https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt), [JonRay](https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:14 | 2026-06-28 |  |
 | [Light Work](https://open.spotify.com/track/2LRLHZKFo7N7diPirNcVjh) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:30 | 2025-04-19 |  |
 | [Lionhearted \(with Kota the Friend\)](https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lionhearted \(with Kota the Friend\)](https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL) | 3:37 | 2025-09-28 |  |

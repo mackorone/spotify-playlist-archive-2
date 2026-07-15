@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,875 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,863 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 58 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
 | 59 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
 | 60 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 |
-| 61 | [Oslo / Karachi / Paris](https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 2](https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7) | 4:09 |
-| 62 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 61 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 62 | [Oslo / Karachi / Paris](https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 2](https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7) | 4:09 |
 | 63 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 |
 | 64 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
 | 65 | [Hjemme](https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Hjemme](https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr) | 3:56 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 71 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
 | 72 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 |
 | 73 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
-| 74 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
-| 75 | [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 |
+| 74 | [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 |
+| 75 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
 | 76 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
 | 77 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 |
 | 78 | [Solgangsbrisen](https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo) | [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Solgangsbrisen](https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6) | 3:25 |

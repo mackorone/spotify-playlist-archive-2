@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,978 likes - 89 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,984 likes - 89 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 47 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
 | 48 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 |
 | 49 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
-| 50 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
-| 51 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
+| 50 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
+| 51 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
 | 52 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
 | 53 | [La Tierra del Desencanto](https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc) | [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [La Tierra del Desencanto](https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn) | 4:09 |
 | 54 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 61 | [El Pescador](https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Rey Mago de las Nubes](https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78) | 3:05 |
 | 62 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
 | 63 | [La Bondad De Dios](https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [La Bondad De Dios](https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd) | 3:56 |
-| 64 | [Pensando En Ti](https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 5:25 |
+| 64 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 65 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
 | 66 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
 | 67 | [Flores de invierno](https://open.spotify.com/track/6UfyIoanzexeAywXlcsmVF) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Flores de invierno](https://open.spotify.com/album/7cvwqBWDj5ZT8e6nFD4iBk) | 3:03 |
 | 68 | [Fiesta de zombis](https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fiesta de Zombis](https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp) | 4:14 |
-| 69 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
+| 69 | [Pensando En Ti](https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 5:25 |
 | 70 | [Family](https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Family](https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB) | 4:18 |
 | 71 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 | 72 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |

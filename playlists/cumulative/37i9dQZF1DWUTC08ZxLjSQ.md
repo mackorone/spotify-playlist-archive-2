@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ryukk\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Lamya Almalki\. Artwork: Isu Kim
 
-537 songs - 1 day 4 hr 7 min
+538 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Akher el tare2](https://open.spotify.com/track/6tDFnR8ild5koi5iJjYFUE) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [Akher el tare2](https://open.spotify.com/album/50hMtiBEFfIhPcsJ7LCps7) | 1:30 | 2024-11-26 | 2025-08-07 |
 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 | 2025-02-10 |  |
 | [al qamar wa ana \- القمر وأنا](https://open.spotify.com/track/7IBgneXOSQVaWPBMejtHbd) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [najoom \- نجوم](https://open.spotify.com/album/7eyDLB0KpI8AorehIWg1Oa) | 4:02 | 2024-11-06 | 2025-06-18 |
+| [Ala Babek](https://open.spotify.com/track/1Nsa6NekAdqfr3cQRUV3fx) | [Elias Setta](https://open.spotify.com/artist/1mp2J36BLQVfD9nEgGRWVC), [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ala Babek](https://open.spotify.com/album/5z8xJi1cBR3p4lyjo1yIno) | 4:35 | 2026-07-14 |  |
 | [Ala Wain](https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ala Wain](https://open.spotify.com/album/4WUgYuFGOsueuMDqjVnbxi) | 3:37 | 2024-04-30 | 2024-08-14 |
 | [Albe Blue](https://open.spotify.com/track/2aCXeiYgKzkvXDpC9OHQu2) | [Nurzy](https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE) | [Albe Blue](https://open.spotify.com/album/4kAvFzkjmBayEA22LOVzMh) | 2:29 | 2024-07-09 | 2024-10-31 |
 | [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 | 2022-09-20 | 2022-10-05 |
@@ -47,7 +48,7 @@
 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 | 2022-11-01 | 2023-01-18 |
 | [Aroma عبير](https://open.spotify.com/track/0uaGiRPEILWQbamtwPmtVb) | [TheSaif](https://open.spotify.com/artist/6wE2ow6Lhp2eO5t71wygwA) | [Aroma عبير](https://open.spotify.com/album/1ZuKymhfVlambrhftRjWRJ) | 4:02 | 2023-01-17 | 2023-06-21 |
 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 | 2026-05-05 |  |
-| [Asham Eblees](https://open.spotify.com/track/4z1XSj3cP6ULHMGfdYeAjL) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Asham Eblees](https://open.spotify.com/album/7F78kEHzXNaRUdHObiggw5) | 2:56 | 2026-06-16 |  |
+| [Asham Eblees](https://open.spotify.com/track/4z1XSj3cP6ULHMGfdYeAjL) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Asham Eblees](https://open.spotify.com/album/7F78kEHzXNaRUdHObiggw5) | 2:56 | 2026-06-16 | 2026-07-15 |
 | [Asliyah](https://open.spotify.com/track/5IHH65QmmSkqhbATP3sZFt) | [Asayel](https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS) | [Asliyah](https://open.spotify.com/album/4asoomU1I56N5Bt6CunOgU) | 2:58 | 2024-09-11 | 2024-11-27 |
 | [Ataitek](https://open.spotify.com/track/5ryqKdwizfpw0v8HWnu6Cd) | [Ramii](https://open.spotify.com/artist/085VeFqXoFk5oonsAD2H3M) | [Ataitek](https://open.spotify.com/album/1ZQu5ILQBkdsDNSNz0cfdM) | 2:36 | 2023-09-06 | 2024-01-17 |
 | [ATTA](https://open.spotify.com/track/2ybQ1O9yA8DobJqdBCXE8D) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [ASLI](https://open.spotify.com/album/2anpPDMPSVCQnYe0SWXfVC) | 2:49 | 2026-04-01 |  |

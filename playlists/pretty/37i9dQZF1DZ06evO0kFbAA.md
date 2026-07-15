@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,885 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,892 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 36 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi \(Expanded Edition\)](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
 | 37 | [Aguas de Marco](https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Jazz Moods \- Cool](https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk) | 4:42 |
 | 38 | [O Morro Nao Tem Vez](https://open.spotify.com/track/1NF8RxcyP6qWaipOfusQp2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 6:53 |
-| 39 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 |
-| 40 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:09 |
-| 41 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 |
-| 42 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 |
-| 43 | [I Didn't Know What Time It Was](https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf) | 9:02 |
+| 39 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:09 |
+| 40 | [I Didn't Know What Time It Was](https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf) | 9:02 |
+| 41 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 |
+| 42 | [You Turned The Tables On Me](https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 2:56 |
+| 43 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 |
 | 44 | [Night And Day](https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:45 |
 | 45 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
 | 46 | [Manha De Carnaval \(Morning of Carnaval\)](https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY) | 5:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 49 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/75UUJlBF9DCOfctq8VetnG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 2:27 |
 | 50 | [Chega De Saudade \(Too Much Longing\)](https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY) | 4:11 |
 
-Snapshot ID: `alLZAAAAAAAn29uiBToRS/l/W/eRL1N3`
+Snapshot ID: `alQqgAAAAACbOOm9XMyN4pAYlAb5rznF`

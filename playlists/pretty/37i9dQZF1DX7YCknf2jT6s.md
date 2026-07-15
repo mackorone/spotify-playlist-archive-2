@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: FATHERS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,990 likes - 100 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,011 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

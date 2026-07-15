@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cultura Profética.
 
-1,014 songs - 2 day 6 hr 38 min
+1,015 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [estrella](https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [estrella / nadie](https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5) | 2:46 | 2023-10-13 | 2024-01-13 |
 | [Estrellas en la Oscuridad](https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [El Abismo](https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc) | 3:43 | 2024-02-09 | 2024-07-13 |
 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 | 2023-04-13 | 2023-08-26 |
+| [F2J](https://open.spotify.com/track/1bX4WZ37PFeOPcsATB1lV9) | [Vortxz](https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8) | [F2J](https://open.spotify.com/album/3EdhR1pwARaZ3DnXUdnDSy) | 2:43 | 2026-07-10 |  |
 | [Fall in Love Again](https://open.spotify.com/track/2MW6Yui61LO7dLjakQHN2C) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [Fall in Love Again](https://open.spotify.com/album/7EmZg8OHcqPeofIuV3bPFa) | 2:17 | 2024-06-14 | 2024-09-14 |
 | [Falling](https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Young In California](https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP) | 3:45 | 2023-09-15 | 2024-03-16 |
 | [Falta Algo](https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Falta Algo](https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv) | 3:23 | 2025-09-19 |  |
@@ -848,7 +849,7 @@
 | [SOLA CON LA LUNA](https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [SOLA CON LA LUNA](https://open.spotify.com/album/7Hk2BhlBYVd4NopkQbLamP) | 3:52 | 2024-05-24 | 2024-09-03 |
 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 | 2024-07-19 | 2025-05-13 |
 | [Solo Tu](https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR) | 2:46 | 2023-06-30 | 2023-08-26 |
-| [Solo Tú](https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Solo Tú](https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo) | 2:51 | 2026-02-13 |  |
+| [Solo Tú](https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Solo Tú](https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo) | 2:51 | 2026-02-13 | 2026-07-15 |
 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 | 2023-03-22 | 2023-09-30 |
 | [Someone Like You](https://open.spotify.com/track/413GLSu7A62MzPv3lYh6Kt) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Someone Like You](https://open.spotify.com/album/4BdRh4BDrt51Igtk0bPIKs) | 2:52 | 2022-04-19 | 2022-07-28 |
 | [Someone Like You](https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love Letters From Houston](https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI) | 2:52 | 2022-07-22 | 2023-07-22 |

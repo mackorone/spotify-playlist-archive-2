@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,617 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,670 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 47 | [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 |
 | 48 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 49 | [Chai ya saa kumi](https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Chai ya saa kumi](https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5) | 4:00 |
-| 50 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 |
-| 51 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
+| 50 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
+| 51 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 |
 | 52 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 |
 | 53 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 |
 | 54 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |

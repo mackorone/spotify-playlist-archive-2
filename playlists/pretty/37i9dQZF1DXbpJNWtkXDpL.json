@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93213,
+  "num_followers": 93223,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,18 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Victoria Miller",
-        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
       "artists": [
         {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Victoria Miller",
-      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
+      "duration_ms": 198545,
+      "name": "t escucho al pensar",
+      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+        "name": "Victoria Miller",
+        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
       },
       "artists": [
         {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
         }
       ],
-      "duration_ms": 198545,
-      "name": "t escucho al pensar",
-      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
+      "duration_ms": 181080,
+      "name": "Victoria Miller",
+      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -559,26 +559,22 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Me Ilumin\u00e9",
-        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
+        "name": "DRAMATIKA!",
+        "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
       },
       "artists": [
         {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
         },
         {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Lucca",
+          "url": "https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs"
         }
       ],
-      "duration_ms": 138720,
-      "name": "Me Ilumin\u00e9",
-      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
+      "duration_ms": 107437,
+      "name": "DRAMATIKA!",
+      "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -599,22 +595,26 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "DRAMATIKA!",
-        "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
+        "name": "Me Ilumin\u00e9",
+        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
       },
       "artists": [
         {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
         },
         {
-          "name": "Lucca",
-          "url": "https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs"
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 107437,
-      "name": "DRAMATIKA!",
-      "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
+      "duration_ms": 138720,
+      "name": "Me Ilumin\u00e9",
+      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Tempestad",
-        "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 255605,
-      "name": "Tempestad",
-      "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Tempestad",
+        "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 255605,
+      "name": "Tempestad",
+      "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "solo hoy",
-        "url": "https://open.spotify.com/album/2qKpmJjujSv9fl4HzmyilR"
-      },
-      "artists": [
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 153903,
-      "name": "solo hoy",
-      "url": "https://open.spotify.com/track/1T9JFR187fKFVsP7NzDISW"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
         "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 213753,
       "name": "CADENAS",
       "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "solo hoy",
+        "url": "https://open.spotify.com/album/2qKpmJjujSv9fl4HzmyilR"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 153903,
+      "name": "solo hoy",
+      "url": "https://open.spotify.com/track/1T9JFR187fKFVsP7NzDISW"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "empezar al rev\u00e9s",
         "url": "https://open.spotify.com/album/0ubjYBDDdREIRUBqRgoY5D"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 202230,
       "name": "empezar al rev\u00e9s",
       "url": "https://open.spotify.com/track/6M2sc6l4w1wCSZSwE3HVMj"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-06-22 17:58:29",

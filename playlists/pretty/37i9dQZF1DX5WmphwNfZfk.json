@@ -1,12 +1,12 @@
 {
   "description": "50 artists who are the future of Canadian music, according to our editors. Cover: GUS",
-  "num_followers": 31552,
+  "num_followers": 31551,
   "original_name": "RADAR Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx",
+  "snapshot_id": "AAAAAB7jsJA7wvHVUOX1eaErj1thFaMA",
   "tracks": [
     {
       "added_at": "2026-07-03 04:03:18",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7"
     },
     {
+      "added_at": "2026-07-14 20:33:24",
+      "album": {
+        "name": "POWER HOUSE",
+        "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 149174,
+      "name": "SpiceKick",
+      "url": "https://open.spotify.com/track/5QkSktZsZ4IgHCaAs31D6m"
+    },
+    {
       "added_at": "2026-07-03 04:03:18",
       "album": {
         "name": "Bother Me (feat. Victony)",
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-07-03 04:03:18",
       "album": {
-        "name": "Out of Water",
-        "url": "https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Out of Water",
-      "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
-    },
-    {
-      "added_at": "2026-07-03 04:03:18",
-      "album": {
         "name": "HOTLINE",
         "url": "https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 142500,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6fPdmvzjvDgpR2koly0wrW"
-    },
-    {
-      "added_at": "2026-07-03 04:03:18",
-      "album": {
-        "name": "So Smart",
-        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 169431,
-      "name": "So Smart",
-      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
     },
     {
       "added_at": "2026-07-03 04:03:18",

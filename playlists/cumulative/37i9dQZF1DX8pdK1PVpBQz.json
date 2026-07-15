@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Ownlife",
+  "description": "The best new music by independent artists and labels. Cover: tickertape",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -7421,6 +7421,28 @@
     },
     {
       "album": {
+        "name": "Better This Way",
+        "url": "https://open.spotify.com/album/3M8yLdQWmAMalLfHlvBST4"
+      },
+      "artists": [
+        {
+          "name": "Kesha Nev\u00e9",
+          "url": "https://open.spotify.com/artist/7upKZp44FVnF197yJZSbNO"
+        },
+        {
+          "name": "Kesha Oayda",
+          "url": "https://open.spotify.com/artist/0ckRDAgKsyUIXGx7GAyvl5"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Better This Way",
+      "url": "https://open.spotify.com/track/1xltPxGpn4bG5mXNViFNKv"
+    },
+    {
+      "album": {
         "name": "Better Way",
         "url": "https://open.spotify.com/album/5xwePvDE3LR6kRAnFavopT"
       },
@@ -12585,6 +12607,24 @@
     },
     {
       "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/6InqXsvvQTdG6g4YxivwrE"
+      },
+      "artists": [
+        {
+          "name": "Tonix",
+          "url": "https://open.spotify.com/artist/5spRHNtz6Sh9oF0gfgOWJJ"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164731,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/1i3oLspf1O5Okf5F5nF6At"
+    },
+    {
+      "album": {
         "name": "Cash Out Now",
         "url": "https://open.spotify.com/album/0MsozABxAkwYRGlBCaHYhw"
       },
@@ -14082,6 +14122,24 @@
       "duration_ms": 270536,
       "name": "Closure (feat. Helena)",
       "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
+    },
+    {
+      "album": {
+        "name": "Tattoo Age",
+        "url": "https://open.spotify.com/album/7It8vmFYla7E3gBkP3QmOk"
+      },
+      "artists": [
+        {
+          "name": "chloe: the brand",
+          "url": "https://open.spotify.com/artist/0WG0BFHdjrWcEawESIjEX4"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161452,
+      "name": "Clothesline",
+      "url": "https://open.spotify.com/track/2oiaGOQYkVr2XoGDY98GEg"
     },
     {
       "album": {
@@ -25987,6 +26045,24 @@
     },
     {
       "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/5xYAjEAwfrf1tyGVlV5N5d"
+      },
+      "artists": [
+        {
+          "name": "tickertape",
+          "url": "https://open.spotify.com/artist/2aXOm3ef1Xel4vNYKCRWdS"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223009,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/4qhGoA6hC1vncKI52DUuiY"
+    },
+    {
+      "album": {
         "name": "Flow-on",
         "url": "https://open.spotify.com/album/40PAgzfYPRi1b2GJW6XwIV"
       },
@@ -36576,7 +36652,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 193236,
       "name": "I'll come back to you",
       "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
@@ -42124,7 +42200,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 173760,
       "name": "Leisure",
       "url": "https://open.spotify.com/track/4wuVZpmDkRpgAhwexsfp30"
@@ -72974,7 +73050,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 247112,
       "name": "Tenpin Haven",
       "url": "https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk"
@@ -73664,7 +73740,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 294346,
       "name": "THE FUTURE, YOU'LL LOVE IT",
       "url": "https://open.spotify.com/track/5eGisUR8gKRk1hjQUHBK2a"
@@ -77774,7 +77850,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 163173,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/6vZxjw80hqvVQEX7FEttrW"
@@ -79858,6 +79934,24 @@
       "duration_ms": 233020,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/0rU2CSS0gSDz2tIcQMyLJM"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4mrBC6qB6IL9ZdQOIuFWuB"
+      },
+      "artists": [
+        {
+          "name": "REGI FLIH",
+          "url": "https://open.spotify.com/artist/4LFfxpPcM9j9q0Zej8cCVq"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153181,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/7MY9KD6o6cFg2KnHVbR3RI"
     },
     {
       "album": {
@@ -81970,7 +82064,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 219589,
       "name": "What Would I Say?",
       "url": "https://open.spotify.com/track/7qkpgAsNmZf0FXSuuoEqAQ"

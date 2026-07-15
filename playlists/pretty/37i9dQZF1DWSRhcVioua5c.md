@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,088 likes - 90 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,106 likes - 90 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 83 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB) | 3:30 |
 | 84 | [Eterno Amor](https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/7jSJ1FNwZOFzkVETCPSTLx) | 3:41 |
 | 85 | [Respuesta](https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Respuesta](https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE) | 3:37 |
-| 86 | [Si la Vieras](https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si la Vieras](https://open.spotify.com/album/5oNhgIPJlLFZox7mRgMsuP) | 3:46 |
+| 86 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 |
 | 87 | [Ya te olvidé](https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Ya te olvidé](https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r) | 2:27 |
-| 88 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 |
+| 88 | [Si la Vieras](https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si la Vieras](https://open.spotify.com/album/5oNhgIPJlLFZox7mRgMsuP) | 3:46 |
 | 89 | [Aventura](https://open.spotify.com/track/01yql5Z187oXNK51jhbPJZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:29 |
 | 90 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
 

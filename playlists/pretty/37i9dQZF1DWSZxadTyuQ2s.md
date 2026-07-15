@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover:  Jorja Smith, Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,114 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,157 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 65 | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7) | 3:04 |
 | 66 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 |
 | 67 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
-| 68 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 |
-| 69 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
+| 68 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
+| 69 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 |
 | 70 | [INDUSTRY MACHINE](https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [INDUSTRY MACHINE](https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL) | 3:04 |
 | 71 | [NWANGOLO](https://open.spotify.com/track/0JHiAVySqpLE1RpBMkZnau) | [Mack H.D](https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ), [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [NWANGOLO](https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9) | 2:31 |
 | 72 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |

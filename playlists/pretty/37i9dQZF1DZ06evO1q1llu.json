@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 252985,
+  "num_followers": 253009,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAryaJGsx8Kf6Obf+nLNOXJ",
+  "snapshot_id": "alQqgAAAAABqxwpNmtKsFyt33qNqCx82",
   "tracks": [
     {
       "added_at": null,
@@ -318,15 +318,11 @@
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
         }
       ],
-      "duration_ms": 264226,
-      "name": "RATHER BE (feat. Lithe)",
-      "url": "https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE"
+      "duration_ms": 159613,
+      "name": "JULY",
+      "url": "https://open.spotify.com/track/4sTDD6cM6iQPaLjP9s69iq"
     },
     {
       "added_at": null,
@@ -402,11 +398,15 @@
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
         }
       ],
-      "duration_ms": 159613,
-      "name": "JULY",
-      "url": "https://open.spotify.com/track/4sTDD6cM6iQPaLjP9s69iq"
+      "duration_ms": 264226,
+      "name": "RATHER BE (feat. Lithe)",
+      "url": "https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
-        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151760,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/0BgOAuclkKvafDSqcTBov2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
+        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/0BgOAuclkKvafDSqcTBov2"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 158324,
       "name": "Unstable (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "NEVER CAME BACK",
-      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 126521,
       "name": "SO DONE",
       "url": "https://open.spotify.com/track/5YnxnTS89l3FElIwfIAeSs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "NEVER CAME BACK",
+      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOW DOES IT FEEL?",
+        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 137689,
+      "name": "HOW DOES IT FEEL?",
+      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BEFORE I FORGET",
         "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
       },
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOW DOES IT FEEL?",
-        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 137689,
-      "name": "HOW DOES IT FEEL?",
-      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
+      "duration_ms": 162725,
+      "name": "WHAT JUST HAPPENED",
+      "url": "https://open.spotify.com/track/5tejpXMAdgqYtkDSOEzqrO"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 163613,
       "name": "OPEN UP - feat. The Kid LAROI",
       "url": "https://open.spotify.com/track/3jYPZi9vzjnPlsWyikVPTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 162725,
-      "name": "WHAT JUST HAPPENED",
-      "url": "https://open.spotify.com/track/5tejpXMAdgqYtkDSOEzqrO"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOT GIRL PROBLEMS",
-        "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "HOT GIRL PROBLEMS",
-      "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 171217,
       "name": "I THOUGHT THAT I NEEDED YOU",
       "url": "https://open.spotify.com/track/3kvR6zZ5SUEu5POE7StefC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOT GIRL PROBLEMS",
+        "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "HOT GIRL PROBLEMS",
+      "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "DESERVE YOU",
+      "url": "https://open.spotify.com/track/1CYmWCuSlXV1j8rtYpqyil"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EKKSTACY",
         "url": "https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 129880,
       "name": "alright (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "DESERVE YOU",
-      "url": "https://open.spotify.com/track/1CYmWCuSlXV1j8rtYpqyil"
     },
     {
       "added_at": null,

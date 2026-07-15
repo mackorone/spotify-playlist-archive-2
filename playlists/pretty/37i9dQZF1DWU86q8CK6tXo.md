@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,369 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,365 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 21 | [Can't Touch This](https://open.spotify.com/track/04B7iuFOZSGr0zyMP3PFkQ) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Can't Touch This](https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi) | 2:28 |
 | 22 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
 | 23 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
-| 24 | [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 |
-| 25 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
+| 24 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
+| 25 | [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 |
 | 26 | [Bitches](https://open.spotify.com/track/6M1i8I1dRCTw0VESPXikw6) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Bitches](https://open.spotify.com/album/6md6XQS1qEmxx4UDyEx9qa) | 3:48 |
 | 27 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
 | 28 | [Daddy Died](https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV) | [earthsignchels](https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu) | [Daddy Died](https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp) | 4:12 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 38 | [listening](https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us](https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit) | 3:53 |
 | 39 | [You Can Have Him](https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [You Can Have Him](https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8) | 3:15 |
 | 40 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
-| 41 | [MOSH★PIT](https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj) | 2:44 |
-| 42 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
+| 41 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
+| 42 | [MOSH★PIT](https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj) | 2:44 |
 | 43 | [SURFBOARD](https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AMOR & DROGA](https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg) | 3:31 |
 | 44 | [Hell On Me](https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr) | 3:08 |
 | 45 | [Spring summer](https://open.spotify.com/track/3lKB7OuBglrz7Pjpe0e3sk) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:08 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 50 | [What you Know](https://open.spotify.com/track/2tbxEdJWzM7vT2OR8zLDFs) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Diary Of A Young Lit B\*tch](https://open.spotify.com/album/5fmJLK908UzunIOHhZE5Au) | 1:42 |
 | 51 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
 | 52 | [Nothing's Accidental](https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Nothing's Accidental](https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh) | 3:19 |
-| 53 | [Tattoos](https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Tattoos](https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt) | 3:18 |
-| 54 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 |
+| 53 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 |
+| 54 | [Tattoos](https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Tattoos](https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt) | 3:18 |
 
 Snapshot ID: `AAAAAHLKWE44ORhz1t78R4gcv5JNUxnx`

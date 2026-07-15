@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 613461,
+  "num_followers": 613489,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Maria Beth\u00e2nia - Noite Luzidia (ao Vivo)",
-        "url": "https://open.spotify.com/album/5SGR9EAQOqls8xrn8fnuHa"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 239707,
-      "name": "Depois de Ter Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/2OGTo6ZsIrRr1F7rtd7PbP"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Caravanas",
         "url": "https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 202080,
       "name": "Dueto",
       "url": "https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Maria Beth\u00e2nia - Noite Luzidia (ao Vivo)",
+        "url": "https://open.spotify.com/album/5SGR9EAQOqls8xrn8fnuHa"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 239707,
+      "name": "Depois de Ter Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2OGTo6ZsIrRr1F7rtd7PbP"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "S\u00f3 love",
         "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 161934,
       "name": "S\u00f3 love",
       "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Benditas",
+      "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "Por Causa de Voc\u00ea",
         "url": "https://open.spotify.com/album/3ouwXPloR4FWOYb2b5fKA5"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 151200,
       "name": "Por Causa de Voc\u00ea",
       "url": "https://open.spotify.com/track/3N9TzvYRK1yNIE8yJc41Y9"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Benditas",
-      "url": "https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Ser\u00e1 Que \u00c9 Amor?",
-        "url": "https://open.spotify.com/album/0y37fswbscUTCzBBdD7tOF"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 234734,
-      "name": "Ser\u00e1 Que \u00c9 Amor?",
-      "url": "https://open.spotify.com/track/28PEXv20R3MetQYRdnMsSg"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 164583,
       "name": "Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Ser\u00e1 Que \u00c9 Amor?",
+        "url": "https://open.spotify.com/album/0y37fswbscUTCzBBdD7tOF"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "duration_ms": 234734,
+      "name": "Ser\u00e1 Que \u00c9 Amor?",
+      "url": "https://open.spotify.com/track/28PEXv20R3MetQYRdnMsSg"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "When The Wind Blows (Private Sessions)",
+        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 244393,
+      "name": "When The Wind Blows - Private Sessions",
+      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "When The Wind Blows (Private Sessions)",
-        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
         }
       ],
-      "duration_ms": 244393,
-      "name": "When The Wind Blows - Private Sessions",
-      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+        "name": "Todo Caminho \u00c9 Sorte",
+        "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
+      "duration_ms": 229480,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1631,22 +1647,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Todo Caminho \u00c9 Sorte",
-        "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Quem dir\u00e1?",
-        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 172580,
-      "name": "Quem dir\u00e1?",
-      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "da primeira vez (from the first time)",
         "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Quem dir\u00e1?",
+        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 172580,
+      "name": "Quem dir\u00e1?",
+      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
     },
     {
       "added_at": "2026-06-19 03:00:16",

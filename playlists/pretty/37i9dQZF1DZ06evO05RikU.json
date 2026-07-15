@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43859,
+  "num_followers": 43860,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAB1Rdz+4kziD3snxT6kth12",
+  "snapshot_id": "alQqgAAAAAB9EzcfBumEq+nRyr6GJGN6",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 136015,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malcriado",
         "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
       },
@@ -659,6 +643,38 @@
       "duration_ms": 158207,
       "name": "Siempre Llegas Tarde",
       "url": "https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 136015,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 179374,
       "name": "MiuMiu",
       "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": null,

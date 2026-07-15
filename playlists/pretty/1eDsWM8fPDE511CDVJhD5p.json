@@ -6,8 +6,116 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAHf8eatq0572Am0rUMziFwWZFYMZz3",
+  "snapshot_id": "AAAHjsFCWhYiDZOHTlgP5Dv8LC+JXEIl",
   "tracks": [
+    {
+      "added_at": "2026-07-14 07:03:19",
+      "album": {
+        "name": "Septur Song",
+        "url": "https://open.spotify.com/album/78Jk0lMSXhYGjpPnTIc99v"
+      },
+      "artists": [
+        {
+          "name": "Septur-P",
+          "url": "https://open.spotify.com/artist/5ZX7dv0mewBoaZu2KZkWqR"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 111910,
+      "name": "Septur Song feat. \u91cd\u97f3\u30c6\u30c8",
+      "url": "https://open.spotify.com/track/1Dyu77viDYuKyw4M8JmFPl"
+    },
+    {
+      "added_at": "2026-07-14 07:03:29",
+      "album": {
+        "name": "HOUSEMATE. THE CASE OF \"KAGAMINE RIN\"",
+        "url": "https://open.spotify.com/album/5pu58K3MewCKFCrTEqaFL5"
+      },
+      "artists": [
+        {
+          "name": "Kuroneko Lounge",
+          "url": "https://open.spotify.com/artist/4u3AJ8Ipx1xxH1mGhUdy7o"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 201755,
+      "name": "Floating 14 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/0fWy6H26OAvbNnGv1bjDng"
+    },
+    {
+      "added_at": "2026-07-14 07:03:39",
+      "album": {
+        "name": "TimeCapsule",
+        "url": "https://open.spotify.com/album/2Z0XO5TKaRr03DsoBT941t"
+      },
+      "artists": [
+        {
+          "name": "Capchii",
+          "url": "https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 242865,
+      "name": "Dreamin' (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0tOE8c9dzkXHw4pzV6OhhS"
+    },
+    {
+      "added_at": "2026-07-14 07:03:48",
+      "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/1w3koBb3S4opgAbybAtLdN"
+      },
+      "artists": [
+        {
+          "name": "ariiol",
+          "url": "https://open.spotify.com/artist/0Tpcz4Zw07kvdEeZvGO01H"
+        }
+      ],
+      "duration_ms": 150517,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/6UAxvYIDYZSd7u64i6INyh"
+    },
+    {
+      "added_at": "2026-07-14 07:03:59",
+      "album": {
+        "name": "Gimme more!",
+        "url": "https://open.spotify.com/album/6fx7UoaHXR9KR5dlgfa6rc"
+      },
+      "artists": [
+        {
+          "name": "\u3081\u308d\u304f\u308b",
+          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 173452,
+      "name": "Gimme more! (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO)",
+      "url": "https://open.spotify.com/track/0TYilgqP6ZXpZfw11z3HbH"
+    },
     {
       "added_at": "2026-06-30 07:40:01",
       "album": {
@@ -699,102 +807,6 @@
       "duration_ms": 194000,
       "name": "\u81ea\u5f8b\u5411\u304d\u611b (feat. \u96e8\u8863)",
       "url": "https://open.spotify.com/track/3mluonKrAjfT7P3yB9v8Uh"
-    },
-    {
-      "added_at": "2026-04-07 07:19:42",
-      "album": {
-        "name": "\u30a2\u30f3\u30d1\u30f3",
-        "url": "https://open.spotify.com/album/4nQduW5RJ6pA0dRRzXibAX"
-      },
-      "artists": [
-        {
-          "name": "ATOLS",
-          "url": "https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "\u30a2\u30f3\u30d1\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7jcg6mkswZdiG2aGqSNl7z"
-    },
-    {
-      "added_at": "2026-04-07 07:19:55",
-      "album": {
-        "name": "Cozmique",
-        "url": "https://open.spotify.com/album/3967gIH3m0dunGAY52V3N7"
-      },
-      "artists": [
-        {
-          "name": "Aether_Eru",
-          "url": "https://open.spotify.com/artist/2zAd1RMV39OHXn4dTFw05M"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 180280,
-      "name": "\u5929\u661f\u30dc\u30e4\u30fc\u30b8\u30e5 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/77JWAvG7TUYjIBtHFYQ7Tv"
-    },
-    {
-      "added_at": "2026-04-07 07:20:05",
-      "album": {
-        "name": "\u30a6\u30bd\u306e\u304b\u306a\u3048\u304b\u305f",
-        "url": "https://open.spotify.com/album/1sz68yxbBjmVoXDP7c8Lis"
-      },
-      "artists": [
-        {
-          "name": "\u3056\u3093\u304e",
-          "url": "https://open.spotify.com/artist/4wDMrlrNQiBlMgsZBzGOhP"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "fibber (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/6PjFk5vI5bcYewWei9vrra"
-    },
-    {
-      "added_at": "2026-04-07 07:20:16",
-      "album": {
-        "name": "\u30bb\u30cb\u30e7\u30ea\u30fc\u3061\u3083\u7bc0",
-        "url": "https://open.spotify.com/album/7vjwm8kAdm0H5wpz0hNKUw"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30ad\u30b7\u30a6\u30ad\u30e7\u30a6",
-          "url": "https://open.spotify.com/artist/1FngzSsckjFKWwUgcxqTo1"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 106201,
-      "name": "\u30bb\u30cb\u30e7\u30ea\u30fc\u3061\u3083\u7bc0 (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/3uWWzN4BFXOVpI643BYUHx"
-    },
-    {
-      "added_at": "2026-04-07 07:20:27",
-      "album": {
-        "name": "\u30c7\u30b3\u30df\u30af LIVE starring \u521d\u97f3\u30df\u30af\u300eHello\u300f",
-        "url": "https://open.spotify.com/album/7baxaElOHbWQiEDRZb1xsP"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "\u30d6\u30eb\u30fc\u30d7\u30e9\u30cd\u30c3\u30c8 -Hello ver.-",
-      "url": "https://open.spotify.com/track/0CpYAsU6gpJzKoWZKu9WHT"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

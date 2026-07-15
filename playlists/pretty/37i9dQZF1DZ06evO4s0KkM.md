@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,954 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,957 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 39 | [Bury the Bones](https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:27 |
 | 40 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
 | 41 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
-| 42 | [It's A Long Way To The Top \(If You Wanna Rock 'n' Roll\)](https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 4:43 |
-| 43 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 2:40 |
+| 42 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 2:40 |
+| 43 | [It's A Long Way To The Top \(If You Wanna Rock 'n' Roll\)](https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 4:43 |
 | 44 | [Broken Hymns](https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq) | 5:03 |
 | 45 | [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 |
 | 46 | [Black Velvet Band](https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Always By My Side](https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [New England Forever](https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN) | 3:11 |
 | 50 | [Until the Next Time](https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:47 |
 
-Snapshot ID: `alLZAAAAAACGXU9rmGGk+mmlOWcgd4Pg`
+Snapshot ID: `alQqgAAAAADqK6NAX1utR4PdUX42luV/`

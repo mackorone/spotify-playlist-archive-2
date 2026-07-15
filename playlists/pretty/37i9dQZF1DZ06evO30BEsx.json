@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2019,
+  "num_followers": 2022,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAD421FjcKAXeS1qrvL8Jl37",
+  "snapshot_id": "alQqgAAAAAD/uHHqhoFyZ2ChtLw1nThc",
   "tracks": [
     {
       "added_at": null,
@@ -779,62 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: III. Allegro",
-      "url": "https://open.spotify.com/track/01pN2YkZhqrZGU1zvUoa2k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
-      },
-      "artists": [
-        {
-          "name": "Jules Massenet",
-          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Douglas Boyd",
-          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 372066,
-      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
-      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
         "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
       },
@@ -871,6 +815,62 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 372066,
+      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: III. Allegro",
+      "url": "https://open.spotify.com/track/01pN2YkZhqrZGU1zvUoa2k"
     },
     {
       "added_at": null,
@@ -1139,6 +1139,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - Over the Rainbow (From \"The Wizard of Oz\")",
         "url": "https://open.spotify.com/album/6RsYVC41W34RaGmbZcvldE"
       },
@@ -1167,30 +1191,6 @@
       "duration_ms": 253253,
       "name": "Over the Rainbow (From \"The Wizard of Oz\")",
       "url": "https://open.spotify.com/track/2ml9Di37kZ6FjDC4pj94A5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Philippe Sarde",
-          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
-      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
     },
     {
       "added_at": null,
@@ -1227,30 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schubert: String Quintet, Op. 163 & Lieder",
-        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 913335,
-      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
-      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haydn: Cello Concertos",
         "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 313600,
       "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: II. Adagio",
       "url": "https://open.spotify.com/track/4KggTORwddWKbadt65VtoS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
+        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 913335,
+      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
     },
     {
       "added_at": null,
@@ -1327,42 +1327,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
-        "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Leonidas Kavakos",
-          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
-        },
-        {
-          "name": "Lisa Batiashvili",
-          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
-        },
-        {
-          "name": "Antoine Tamestit",
-          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
-        },
-        {
-          "name": "Blythe Teh Engstroem",
-          "url": "https://open.spotify.com/artist/0ctZb3X3jIZx8H3nwYvC3e"
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Stephan Koncz",
-          "url": "https://open.spotify.com/artist/5bJ6Okk0z9ycR3goHVJ5e4"
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
         }
       ],
-      "duration_ms": 650973,
-      "name": "Souvenir de Florence, Op. 70, TH 118: I. Allegro con spirito - Live from Verbier Festival / 2013",
-      "url": "https://open.spotify.com/track/32aHGeaFeqpuiHNUGHqIua"
+      "duration_ms": 514866,
+      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: I. Allegro",
+      "url": "https://open.spotify.com/track/6h860nB6ABrrYz605MQHHu"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

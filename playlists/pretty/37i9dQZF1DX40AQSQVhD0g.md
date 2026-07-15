@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,215 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,194 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 61 | [Y Llegaste Tú](https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Contigo Por Siempre](https://open.spotify.com/album/10bfwCIfySATCoekmUjeab) | 3:16 |
 | 62 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 63 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
-| 64 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
-| 65 | [Bailando por Ahi](https://open.spotify.com/track/0VamAmertqIxKM5axPSkCy) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bailando por Ahi](https://open.spotify.com/album/5xmRspB1FQCAaEEBD9lJql) | 3:00 |
+| 64 | [Bailando por Ahi](https://open.spotify.com/track/0VamAmertqIxKM5axPSkCy) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bailando por Ahi](https://open.spotify.com/album/5xmRspB1FQCAaEEBD9lJql) | 3:00 |
+| 65 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 66 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
 | 67 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
 | 68 | [Fruta Fresca](https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Amor De Mi Tierra](https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH) | 3:53 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 97 | [Lamento Boliviano](https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:43 |
 | 98 | [Cuando Nadie Ve](https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuando Nadie Ve](https://open.spotify.com/album/1TOxFOMe6FNpH8hENt9fIR) | 3:39 |
 | 99 | [Que Me Quiera Má](https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Que Me Quiera Má](https://open.spotify.com/album/1OKm4LefVn9e6tomBI4FxM) | 2:51 |
-| 100 | [El Listón De Tu Pelo](https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 3:34 |
+| 100 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
 
 Snapshot ID: `AAAAAK5vfl3lYGR22vr5RjxZ2MYZTMn2`

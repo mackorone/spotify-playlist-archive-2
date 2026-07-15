@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 938307,
+  "num_followers": 938522,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAbUs/CfveLGSlH1mh6PTXM",
+  "snapshot_id": "alQqgAAAAAB8dBa/7bzzwmessvwe1KxY",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Must've Never Met You",
-      "url": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 176000,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Must've Never Met You",
+      "url": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
     },
     {
       "added_at": null,
@@ -671,22 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Goes On (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 210208,
-      "name": "Life Goes On (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
+      "duration_ms": 191053,
+      "name": "Brand New Man - with Luke Combs",
+      "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
     },
     {
       "added_at": null,
@@ -723,22 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+        "name": "Life Goes On (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Brand New Man - with Luke Combs",
-      "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+      "duration_ms": 210208,
+      "name": "Life Goes On (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
       "added_at": null,

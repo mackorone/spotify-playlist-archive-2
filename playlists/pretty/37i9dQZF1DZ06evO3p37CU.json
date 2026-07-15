@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22499,
+  "num_followers": 22500,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAACkpv6OSq48mCTfjNyHuP",
+  "snapshot_id": "alQqgAAAAADWna+A3OXocTaXifpPv8dM",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs That Made Me Feel",
-        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "You Comfort Me",
-      "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 198626,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs That Made Me Feel",
+        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "You Comfort Me",
+      "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
     },
     {
       "added_at": null,
@@ -915,26 +915,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
+        "name": "never worry - deluxe",
+        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "sadMONTH",
-          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
         }
       ],
-      "duration_ms": 180932,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
+      "duration_ms": 222624,
+      "name": "Sometimes\u2026 (with Daya & Earthgang)",
+      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "never worry - deluxe",
-        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "sadMONTH",
+          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
         }
       ],
-      "duration_ms": 222624,
-      "name": "Sometimes\u2026 (with Daya & Earthgang)",
-      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
+      "duration_ms": 180932,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
     },
     {
       "added_at": null,

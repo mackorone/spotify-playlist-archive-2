@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,706 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,822 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 29 | [Standing in the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
 | 30 | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
 | 31 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 |
-| 32 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
+| 32 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
 | 33 | [Figurine](https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Figurine](https://open.spotify.com/album/27P08yRazykZcJCbgQxheh) | 2:31 |
-| 34 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
+| 34 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
 | 35 | [Lavender Bones](https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:24 |
 | 36 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
 | 37 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 63 | [Woman Driver](https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Woman Driver](https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs) | 2:04 |
 | 64 | [Crimson Wave](https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [NVM](https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m) | 2:03 |
 | 65 | [Lucky Guy](https://open.spotify.com/track/2jSdbHZZRp6eLq8F5KPtoR) | [The Muffs](https://open.spotify.com/artist/4FYk4moRCGHdXIK3AMcelO) | [The Muffs](https://open.spotify.com/album/3f9SPyuKWxyufWWXdEmzT2) | 2:47 |
-| 66 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
-| 67 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
+| 66 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
+| 67 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 68 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
 | 69 | [Love is Short](https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:11 |
 | 70 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 93 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
 | 94 | [Need](https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY) | 2:40 |
 | 95 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
-| 96 | [Resurrection](https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf) | [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [The Complete Punk Singles Collection](https://open.spotify.com/album/1lghAJ2RV4kjRwTqLa4M9Q) | 4:03 |
-| 97 | [Miss Understood](https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Gato Negro](https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3) | 3:07 |
+| 96 | [Miss Understood](https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Gato Negro](https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3) | 3:07 |
+| 97 | [Resurrection](https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf) | [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [The Complete Punk Singles Collection](https://open.spotify.com/album/1lghAJ2RV4kjRwTqLa4M9Q) | 4:03 |
 | 98 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |
 | 99 | [You're All Talk](https://open.spotify.com/track/56laQa3PukNJ9Fg9k0bP4E) | [The Pandoras](https://open.spotify.com/artist/1IHit5q4Ut9MlbGZUZY94D) | [Stop Pretending](https://open.spotify.com/album/2TZAqOOjAs5lw5iUq2p3sB) | 2:52 |
 | 100 | [Sofa Bed](https://open.spotify.com/track/7AFlvs5nqulxTRq06NLCBx) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Sofa Bed](https://open.spotify.com/album/0e1vkBegA6Xe1RBE3urE9P) | 3:03 |

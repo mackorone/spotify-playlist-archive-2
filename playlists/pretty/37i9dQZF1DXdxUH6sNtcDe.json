@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Miranda Lambert",
-  "num_followers": 996245,
+  "num_followers": 996354,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "I Love This Bar",
-      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Doin' Somethin' Right",
         "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 269586,
       "name": "Must Be Doin' Somethin' Right",
       "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "I Love This Bar",
+      "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 240866,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Living Hard",
-        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Watching Airplanes",
-      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Blake Shelton's Barn & Grill",
         "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 204826,
       "name": "Some Beach",
       "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Who Needs Pictures",
-        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "We Danced",
-      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Who Needs Pictures",
+        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "We Danced",
+      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/59t8xEk9Yw0RPxHTlUyarW"
-      },
-      "artists": [
-        {
-          "name": "David Ball",
-          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
-        }
-      ],
-      "duration_ms": 275053,
-      "name": "Riding With Private Malone",
-      "url": "https://open.spotify.com/track/7nBuud01OFM3kHoUhvVI0l"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 302346,
       "name": "There Goes My Life",
       "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/59t8xEk9Yw0RPxHTlUyarW"
+      },
+      "artists": [
+        {
+          "name": "David Ball",
+          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
+        }
+      ],
+      "duration_ms": 275053,
+      "name": "Riding With Private Malone",
+      "url": "https://open.spotify.com/track/7nBuud01OFM3kHoUhvVI0l"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
-        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Free And Easy (Down The Road I Go)",
-      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
@@ -1807,8 +1791,24 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw"
+        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
+        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Free And Easy (Down The Road I Go)",
+      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Brand New Girlfriend",
+        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
       },
       "artists": [
         {
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
         }
       ],
-      "duration_ms": 210933,
-      "name": "Good Morning Beautiful",
-      "url": "https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw"
+      "duration_ms": 220186,
+      "name": "Brand New Girlfriend",
+      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
       },
@@ -1891,8 +1875,24 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Brand New Girlfriend",
-        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw"
       },
       "artists": [
         {
@@ -1900,9 +1900,9 @@
           "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
         }
       ],
-      "duration_ms": 220186,
-      "name": "Brand New Girlfriend",
-      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
+      "duration_ms": 210933,
+      "name": "Good Morning Beautiful",
+      "url": "https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw"
     },
     {
       "added_at": "2026-06-02 19:14:03",

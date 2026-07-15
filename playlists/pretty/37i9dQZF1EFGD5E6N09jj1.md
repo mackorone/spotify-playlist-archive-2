@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,000 likes - 217 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,999 likes - 217 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,9 +186,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 176 | [Emotional](https://open.spotify.com/track/6QhqEJFZKUV3DKIsoXbTTH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:53 |
 | 177 | [Me encanta \- I Love It](https://open.spotify.com/track/1kgBwPl0UUHz97Krp65zF4) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Me encanta \(I love it\)](https://open.spotify.com/album/5GmIVyf9Oqhvi5tFptXpbw) | 2:38 |
 | 178 | [Need Ur Luv](https://open.spotify.com/track/70TwpWVlBU1Mv6FRbp5FZ2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:45 |
-| 179 | [Float On \(feat\. Charli xcx\)](https://open.spotify.com/track/6mN3uDOXjU0CtK8H6GVJlc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli XCX](https://open.spotify.com/artist/0HNqrcl3vgc1U7U1SNtsvB) | [Old](https://open.spotify.com/album/27kBaFri0HzGkn9QlDuaS7) | 3:31 |
-| 180 | [If It's Over \(feat\. Charli XCX\)](https://open.spotify.com/track/3rGdqpn43JMpALFlC01OCE) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:39 |
-| 181 | [Take My Hand](https://open.spotify.com/track/1FIDBdVbLixKj1VEySlKn7) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 4:26 |
+| 179 | [Take My Hand](https://open.spotify.com/track/1FIDBdVbLixKj1VEySlKn7) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 4:26 |
+| 180 | [Float On \(feat\. Charli xcx\)](https://open.spotify.com/track/6mN3uDOXjU0CtK8H6GVJlc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli XCX](https://open.spotify.com/artist/0HNqrcl3vgc1U7U1SNtsvB) | [Old](https://open.spotify.com/album/27kBaFri0HzGkn9QlDuaS7) | 3:31 |
+| 181 | [If It's Over \(feat\. Charli XCX\)](https://open.spotify.com/track/3rGdqpn43JMpALFlC01OCE) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:39 |
 | 182 | [Breaking Up](https://open.spotify.com/track/0CAAEA7BkwbtiQFcUWnaPX) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:17 |
 | 183 | [Black Roses](https://open.spotify.com/track/5Nx7AnBwrM1tyS0ciuIvv9) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:28 |
 | 184 | [Cloud Aura \(feat\. Brooke Candy\)](https://open.spotify.com/track/6SCIOF8Qq3jhDpE7qEoWbK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 2:44 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 216 | [Moonlight](https://open.spotify.com/track/5G1VHdOog0ZhnaURm9CoK3) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [S4D](https://open.spotify.com/album/4kgFAxFqpRmn5Qw69NwZTM) | 1:30 |
 | 217 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AcWxtAAAAACXiQ47INqtCrHSIEstmTwA`
+Snapshot ID: `AcW3VAAAAAA0vZJ6vmtstPYcktrD2TIj`

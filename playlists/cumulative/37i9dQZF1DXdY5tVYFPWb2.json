@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 240205,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
@@ -3987,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Groooovy",
+        "url": "https://open.spotify.com/album/3GV1i2K1FB8eSEz8z3QfwZ"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170863,
+      "name": "Groooovy",
+      "url": "https://open.spotify.com/track/3pyYSab4cpXjizWmcdteyU"
+    },
+    {
+      "album": {
         "name": "Groovy night",
         "url": "https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e"
       },
@@ -4846,6 +4864,24 @@
       "duration_ms": 241450,
       "name": "Just be Blue",
       "url": "https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP"
+    },
+    {
+      "album": {
+        "name": "KAMINARI",
+        "url": "https://open.spotify.com/album/734RhFDmYZVpjaxZH1ddWO"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "KAMINARI",
+      "url": "https://open.spotify.com/track/500CTq16fcnpjFHvXDzjUV"
     },
     {
       "album": {
@@ -9414,7 +9450,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
@@ -9544,6 +9580,28 @@
       "duration_ms": 246376,
       "name": "SQUALL",
       "url": "https://open.spotify.com/track/6GDLmddnNU6v6AoyqnlvXD"
+    },
+    {
+      "album": {
+        "name": "SSAW feat. TENDRE",
+        "url": "https://open.spotify.com/album/6gOEBryXu681oHwGF0Q6bX"
+      },
+      "artists": [
+        {
+          "name": "LAGHEADS",
+          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
+        },
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355428,
+      "name": "SSAW feat. TENDRE",
+      "url": "https://open.spotify.com/track/3z0UAEvTS2zeKAieyCSAp5"
     },
     {
       "album": {
@@ -9764,7 +9822,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 220000,
       "name": "STEP IT",
       "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
@@ -13763,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30d6\u30ea\u30fc\u30fb\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/2ZKNURaFGJjGHyKQMDKoi0"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191032,
+      "name": "\u30a8\u30d6\u30ea\u30fc\u30fb\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7L9lVzjA38YyzwHkkfnQl5"
+    },
+    {
+      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
       },
@@ -15702,7 +15778,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 220960,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
       "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"

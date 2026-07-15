@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28662,
+  "num_followers": 28664,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADJUB8Vl1o3mJCba2kwcpxm",
+  "snapshot_id": "alQqgAAAAACnuUPCz1yfDkhXCnHAbwPM",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Just to Prove My Love for You",
-      "url": "https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon a Rhyme",
         "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 242306,
       "name": "Piece of Wood and Steel",
       "url": "https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Just to Prove My Love for You",
+      "url": "https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Ain't Worth the Powder",
+      "url": "https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 134400,
       "name": "Mama Tried",
       "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Ain't Worth the Powder",
-      "url": "https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3"
     },
     {
       "added_at": null,

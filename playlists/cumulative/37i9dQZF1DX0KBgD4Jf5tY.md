@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:7BvpHaU1BqIKMEMKB8goGO">seraphiel</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:2V71DNcQsRW0Vp8vCOy9Vw">Cecile</a> in cover.
 
-2,208 songs - 4 day 13 hr 53 min
+2,210 songs - 4 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [Helsinki](https://open.spotify.com/track/5iD1GzHpAZkdtVCdyv0dXC) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Helsinki](https://open.spotify.com/album/7LroPB7nL6R24KPEoOArZp) | 3:28 | 2024-01-24 | 2024-02-22 |
 | [Hey Man](https://open.spotify.com/track/1qSIQ4haH6iuBYlHvoXMer) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Hey Man](https://open.spotify.com/album/3aaGoS0fwrDKxwGmWB4m1M) | 4:35 | 2024-08-21 | 2025-02-19 |
 | [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 | 2023-10-18 | 2023-11-16 |
+| [hey, it’s ok](https://open.spotify.com/track/2VGVdr6quimm6MzXY6oslR) | [sottovoce](https://open.spotify.com/artist/2Ak2nmstSKLX5WjPcDRhLw) | [hey, it’s ok](https://open.spotify.com/album/3dV6Nt3LNiLt54WpLfE97i) | 2:12 | 2026-07-14 |  |
 | [HIGHBEAMZ](https://open.spotify.com/track/51dkiI3HGDrDUluoKhooWj) | [Fraxy](https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa) | [HIGHBEAMZ](https://open.spotify.com/album/2TNKIFNr5JjOxzq44vT8Ec) | 2:57 | 2025-12-02 | 2026-01-15 |
 | [Highs and Lows](https://open.spotify.com/track/0PcnJsn1uvofOmM4U2rtBm) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [Highs and Lows](https://open.spotify.com/album/4ZQooS9fZGzdDnjzf717vh) | 2:45 | 2023-06-07 | 2023-07-13 |
 | [Ho avuto una disavventura](https://open.spotify.com/track/4uTGKhXTGA0ptcvBB75gKZ) | [Fitza](https://open.spotify.com/artist/55USAUiYquxBZIn1UJN0BM) | [Ho avuto una disavventura](https://open.spotify.com/album/13mvzpElES4iID8I8VSRV2) | 5:22 | 2026-01-21 | 2026-02-25 |
@@ -1005,7 +1006,7 @@
 | [la guerra e le bombe](https://open.spotify.com/track/5hwKCeWMOpSK0vRocTXpGC) | [Schianta](https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB), [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [la guerra e le bombe](https://open.spotify.com/album/3J5XNwp6Sv3ELMlwiOUl1c) | 3:21 | 2026-03-11 | 2026-05-27 |
 | [La Luna e Saturno](https://open.spotify.com/track/3VG7q4z6Ou7AR1hK1FTzta) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Stella \| La Luna e Saturno](https://open.spotify.com/album/1Opi9oTsKLVZi4Svo4S4yE) | 3:16 | 2026-02-03 | 2026-03-12 |
 | [La Mappa](https://open.spotify.com/track/36fOYS1iO2L1iKkq4zVgaG) | [Leo Fulcro](https://open.spotify.com/artist/2DNRcOVx4Av8wuZsLGp9Wj) | [La Mappa](https://open.spotify.com/album/5f9ng5e24rrBZPEIxYCiXp) | 3:31 | 2023-03-16 | 2023-05-03 |
-| [la Mia paura](https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl) | [@gabriele](https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb) | [la Mia paura](https://open.spotify.com/album/48aXrrDxJG80pPvgPpaXjE) | 3:00 | 2026-04-28 |  |
+| [la Mia paura](https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl) | [@gabriele](https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb) | [la Mia paura](https://open.spotify.com/album/48aXrrDxJG80pPvgPpaXjE) | 3:00 | 2026-04-28 | 2026-07-15 |
 | [La mia rotta](https://open.spotify.com/track/2ppLw5WuekuWJdIF50QwgS) | [letteredistrada](https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG) | [La mia rotta](https://open.spotify.com/album/3AQeqScxxa2TrRUNvtGR01) | 3:02 | 2024-06-18 | 2024-07-19 |
 | [LA MIRA](https://open.spotify.com/track/6NR40cS5yIB6opWZxE100K) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [LA MIRA](https://open.spotify.com/album/6pfHdC2BDZ0ejnngLCs6No) | 3:06 | 2025-06-10 | 2025-07-02 |
 | [LA MUSICA È FINITA](https://open.spotify.com/track/0OFzxU3fLIaw94q3kvicTB) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [LA MUSICA È FINITA](https://open.spotify.com/album/7ye1iaTcjevoK4A3eiHDSy) | 2:40 | 2025-05-20 | 2025-06-11 |
@@ -1255,7 +1256,7 @@
 | [Mountain Mama](https://open.spotify.com/track/58Rr9zyZETlh66EvM6OxMk) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Mountain Mama](https://open.spotify.com/album/0CxhWLSLnzl9RnZ6tnjl0y) | 2:02 | 2025-02-18 | 2025-04-10 |
 | [Mountains](https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq) | [Gaia Rollo](https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv) | [Mountains](https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD) | 4:27 | 2025-02-18 | 2025-04-03 |
 | [movie nella head](https://open.spotify.com/track/7HHhZE7ySQYbsDQwptnsGv) | [HERESIA](https://open.spotify.com/artist/3HG7cwBJ7k7m2JBfFo21tL), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [movie nella head](https://open.spotify.com/album/2wgFZIPzA2PqltiXewZgLh) | 1:53 | 2025-05-20 | 2025-06-11 |
-| [Muffaillusione](https://open.spotify.com/track/3lVameTy8anlgrx7mqgO6v) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [Muffaillusione](https://open.spotify.com/album/6dhLYR2I5SQJiOwU56mDU5) | 3:20 | 2026-04-28 |  |
+| [Muffaillusione](https://open.spotify.com/track/3lVameTy8anlgrx7mqgO6v) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [Muffaillusione](https://open.spotify.com/album/6dhLYR2I5SQJiOwU56mDU5) | 3:20 | 2026-04-28 | 2026-07-15 |
 | [multa](https://open.spotify.com/track/4yt0GAqL091yBYXp7gz44b) | [Bilu](https://open.spotify.com/artist/7kCdQlFzI23kq4VDOKNOws) | [multa](https://open.spotify.com/album/02v7LA7wO1rOF4jMnbbrvT) | 1:59 | 2023-11-21 | 2024-01-25 |
 | [Multiverso](https://open.spotify.com/track/3UBvSItkXDQIGg6TH8Lviu) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Astroturismo](https://open.spotify.com/album/75TpL6WmXZoSvRp16o0gKN) | 4:43 | 2022-01-06 | 2022-02-18 |
 | [Murphy's Law](https://open.spotify.com/track/6KSpbQn5cO8jcrgpPOrJde) | [Francesca Everly](https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n) | [Murphy's Law](https://open.spotify.com/album/5uZzip60A1WUf2Ly1dItXO) | 3:00 | 2025-07-29 | 2025-10-08 |
@@ -1863,6 +1864,7 @@
 | [SOTTO CASSA](https://open.spotify.com/track/0VlOYUE0jR7pMcWX3n0f4N) | [n1chxlas](https://open.spotify.com/artist/4aGmDcjK1jQgGm8ah08Udx) | [SOTTO CASSA](https://open.spotify.com/album/4DA8rH0nzQ0CaBcngpOmet) | 2:46 | 2024-07-18 | 2024-08-22 |
 | [Sotto Effetto](https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Sotto Effetto](https://open.spotify.com/album/4O32SggIcVIFHoRIzTPtdB) | 2:52 | 2024-06-18 | 2025-02-19 |
 | [sotto la luna](https://open.spotify.com/track/0eX8cR0kZ4BziC04r0Tx8q) | [DAVIDE](https://open.spotify.com/artist/5DO6UaclvCEpCitUQDGrBL), [FIFexclamation](https://open.spotify.com/artist/0KdZjC6G1gxuZCZ9GICrsk) | [sotto la luna](https://open.spotify.com/album/315TtGnw5jyqIf2ruUZh12) | 2:12 | 2025-05-20 | 2025-06-04 |
+| [Sotto ogni aspetto](https://open.spotify.com/track/3Ya4QO5Hjad0jXVp5sQFFR) | [GAUDIO](https://open.spotify.com/artist/0oliv2CVpK6JfjkwekAuVO) | [SottoOgniAspetto\_](https://open.spotify.com/album/62cc0w0yVxsj8NOF9BuMps) | 2:31 | 2026-07-14 |  |
 | [sotto xan](https://open.spotify.com/track/7BfKvlQp2FYJMwDZL15PUu) | [vilesangue](https://open.spotify.com/artist/3Cbai4Yx6R1B2nb6oRi6ym) | [sotto xan](https://open.spotify.com/album/01at1bmVfJ8JCMhrmIPfMT) | 2:49 | 2025-11-11 | 2025-12-10 |
 | [Sottopelle](https://open.spotify.com/track/1MX5AXB9OJlJTmnh2HwlG5) | [Sutura](https://open.spotify.com/artist/6X0y1bjikKBQj3CeOmcGzl) | [Sottopelle](https://open.spotify.com/album/0ieCABcqtjElQJ33dIsXj5) | 3:41 | 2025-07-08 | 2025-08-27 |
 | [Sottosopra](https://open.spotify.com/track/3U25JHpo6GRDP0pT78zL81) | [Fioravantess](https://open.spotify.com/artist/06Rz7AXvMRTyLHKihqajRO) | [Sottosopra](https://open.spotify.com/album/4WylLvChvhZPHz2hx8ZYrm) | 2:56 | 2022-11-03 | 2022-12-01 |

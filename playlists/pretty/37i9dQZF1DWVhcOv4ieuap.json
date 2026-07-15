@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1036424,
+  "num_followers": 1036444,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 191825,
+      "name": "Hora Loca",
+      "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 191825,
-      "name": "Hora Loca",
-      "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 125482,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1335,22 +1335,30 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "KAWASAKI (&TEAM Remix)",
-        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+        "name": "Low Key (feat. Humby)",
+        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
       },
       "artists": [
         {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         },
         {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Humby",
+          "url": "https://open.spotify.com/artist/3NclV41VD0EXndIyPekaeW"
         }
       ],
-      "duration_ms": 161695,
-      "name": "KAWASAKI (&TEAM Remix)",
-      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
+      "duration_ms": 216980,
+      "name": "Low Key (feat. Humby)",
+      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1379,30 +1387,22 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "Low Key (feat. Humby)",
-        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Humby",
-          "url": "https://open.spotify.com/artist/3NclV41VD0EXndIyPekaeW"
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
         }
       ],
-      "duration_ms": 216980,
-      "name": "Low Key (feat. Humby)",
-      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1743,18 +1743,22 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "aiaiaiaiai",
-        "url": "https://open.spotify.com/album/080bvrS3d0ZPPwlAz3ui1T"
+        "name": "Fantasi",
+        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 140844,
-      "name": "aiaiaiaiai",
-      "url": "https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53"
+      "duration_ms": 158080,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1775,22 +1779,18 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "Fantasi",
-        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
+        "name": "aiaiaiaiai",
+        "url": "https://open.spotify.com/album/080bvrS3d0ZPPwlAz3ui1T"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
+      "duration_ms": 140844,
+      "name": "aiaiaiaiai",
+      "url": "https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53"
     },
     {
       "added_at": "2026-06-19 23:58:30",

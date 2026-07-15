@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65602,
+  "num_followers": 65606,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al Son de la Marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "As\u00ed Era Entonces, Ahora...",
         "url": "https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 270466,
       "name": "Los Peque\u00f1os Detalles",
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...Un Poco M\u00e1s",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al Son de la Marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -303,18 +303,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Dream Maker (Guitar Smooth Jazz)",
-        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
       "artists": [
         {
-          "name": "Cristobal Lopez",
-          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Susano's Calipso",
-      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -355,18 +355,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+        "name": "Dream Maker (Guitar Smooth Jazz)",
+        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Cristobal Lopez",
+          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+      "duration_ms": 202826,
+      "name": "Susano's Calipso",
+      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
         "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 148786,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
+      },
+      "artists": [
+        {
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
+        }
+      ],
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "La Instituci\u00f3n Te Reclama",
-        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
-      },
-      "artists": [
-        {
-          "name": "David Chanson",
-          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
-        }
-      ],
-      "duration_ms": 349008,
-      "name": "Entronque",
-      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mi Sentimiento Guerrerense",
         "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 339280,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "La Instituci\u00f3n Te Reclama",
+        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
+      },
+      "artists": [
+        {
+          "name": "David Chanson",
+          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
+        }
+      ],
+      "duration_ms": 349008,
+      "name": "Entronque",
+      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -807,22 +791,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
       "artists": [
         {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
-        },
-        {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
         }
       ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -847,6 +827,30 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Aguamala",
+        "url": "https://open.spotify.com/album/4Zt7zF8uP5TM06ENi90FT8"
+      },
+      "artists": [
+        {
+          "name": "Fernando Toussaint",
+          "url": "https://open.spotify.com/artist/4cSn3njGY4NwuWdqTPdOZS"
+        },
+        {
+          "name": "Enrique Pat",
+          "url": "https://open.spotify.com/artist/7embISvbgUYz3kkyT4vpJJ"
+        },
+        {
+          "name": "Bernardo Ron",
+          "url": "https://open.spotify.com/artist/2VGhLzdGosv8P6QxMtJPGx"
+        }
+      ],
+      "duration_ms": 503373,
+      "name": "Papantla Tus Hijos Vuelan",
+      "url": "https://open.spotify.com/track/0WMRsWC3byYXZoc5yFVioa"
     },
     {
       "added_at": "2023-11-23 03:14:06",

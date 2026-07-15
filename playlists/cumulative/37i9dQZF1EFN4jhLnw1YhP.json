@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "can we do it all again?",
+        "url": "https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249465,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2HiT3zN8AxWnlYp7tOb0cW"
+    },
+    {
+      "album": {
         "name": "all for you (with SPINALL & Julia Church)",
         "url": "https://open.spotify.com/album/3kW636hGa3BR1DLqkqNC9v"
       },
@@ -281,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/72EZQPxBJuuPJrE1Y84jqZ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187710,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/6blPhUuaJYCg38wUvUjSxB"
+    },
+    {
+      "album": {
         "name": "Big Blue",
         "url": "https://open.spotify.com/album/2lFBIpW2YMFPwdkLzTXSu5"
       },
@@ -398,6 +438,36 @@
       "duration_ms": 212276,
       "name": "Broken Hearted",
       "url": "https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv"
+    },
+    {
+      "album": {
+        "name": "Broken Hearted (Remixes)",
+        "url": "https://open.spotify.com/album/5Bn9OQ33vXePIJv20o95QG"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        {
+          "name": "St. Mary",
+          "url": "https://open.spotify.com/artist/053q2D9p8VzxaIzwGZhCUM"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208551,
+      "name": "Broken Hearted - St. Mary Remix",
+      "url": "https://open.spotify.com/track/14Vt19DF0ItAJLU9TiiiIL"
     },
     {
       "album": {
@@ -554,6 +624,28 @@
       "duration_ms": 212459,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/24kUtFCxGKd6Rgti2G6YTI"
+    },
+    {
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/1O0ksNR8KBgRd6Amys7H3Q"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5H9DW7D4z2MCCC6T4fFVOL"
     },
     {
       "album": {
@@ -1113,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "In Every Life (SILK Version)",
+        "url": "https://open.spotify.com/album/2fNiVtBrfi1G7Zc09Y2T4g"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "In Every Life - SILK Version",
+      "url": "https://open.spotify.com/track/27chjrIiiL07l6NxyMJMsg"
+    },
+    {
+      "album": {
         "name": "In The Wild",
         "url": "https://open.spotify.com/album/3RWogqgYqXE2o8KNUQvBuc"
       },
@@ -1222,6 +1336,28 @@
       "duration_ms": 250920,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0JrbZwJPfWMXTZW68jzyR2"
+    },
+    {
+      "album": {
+        "name": "Love Don't Die",
+        "url": "https://open.spotify.com/album/5Z8vTwT3bPke3ho3jsVs5Y"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Love Don't Die",
+      "url": "https://open.spotify.com/track/2Vlqcu8SXjSfOmiU3TIGgY"
     },
     {
       "album": {

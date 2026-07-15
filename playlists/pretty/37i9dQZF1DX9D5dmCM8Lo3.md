@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,625 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,673 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 45 | [Loving Is Easy](https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [I'll Try Living Like This](https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT) | 5:43 |
 | 46 | [Everything I Own](https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Everything I Own](https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA) | 3:21 |
 | 47 | [Ascending Red](https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 3:05 |
-| 48 | [!!!!](https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [!!!!](https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf) | 5:52 |
-| 49 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
+| 48 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
+| 49 | [!!!!](https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [!!!!](https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf) | 5:52 |
 | 50 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
 
 Snapshot ID: `AAAAAHp7T5Subij2pWi06QMkSZxQifUT`

@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 180533,
+  "num_followers": 180551,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADhef7mwqQVO6AxOFMQo72A",
+  "snapshot_id": "alQqgAAAAABZ5/AxweZXRSgttMNMi8EG",
   "tracks": [
     {
       "added_at": null,
@@ -911,34 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alta Jerarquia (El Patr\u00f3n)",
-        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "A Que No Te Atreves (Remix)",
-      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -967,6 +939,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alta Jerarquia (El Patr\u00f3n)",
+        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "A Que No Te Atreves (Remix)",
+      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SINF\u00d3NICO (En Vivo)",
         "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
       },
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 105491,
-      "name": "Bailame - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
+      "duration_ms": 150123,
+      "name": "Te Siento - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/1gUqfeb1jyfpRKJnOLbWBl"
     },
     {
       "added_at": null,
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 150123,
-      "name": "Te Siento - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/1gUqfeb1jyfpRKJnOLbWBl"
+      "duration_ms": 105491,
+      "name": "Bailame - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
     },
     {
       "added_at": null,

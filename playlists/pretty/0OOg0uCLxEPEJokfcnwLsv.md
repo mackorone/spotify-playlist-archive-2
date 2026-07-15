@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,158 likes - 122 songs - 7 hr 33 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,164 likes - 123 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 120 | [what're we doing?](https://open.spotify.com/track/04bZCSivQeAQLCfVu6CTEQ) | [Ethan Jacobs](https://open.spotify.com/artist/7rLn0S7IQ2UibUTclefgGA) | [what're we doing?](https://open.spotify.com/album/2AtX3aO6bRDHtc1qO3W61D) | 4:03 |
 | 121 | [Falling Curtain](https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Falling Curtain](https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8) | 3:28 |
 | 122 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 |
+| 123 | [Night Souls.](https://open.spotify.com/track/17ZiSP3MD7bGbjigAWDuuR) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Unfinished Dreams.](https://open.spotify.com/album/5QJ89klD5afW3F1u0G5HQt) | 4:31 |
 
-Snapshot ID: `AAAGoAa2vc0kRJKtgLmnQ20kzyeYyjF3`
+Snapshot ID: `AAAGoVRgQoef8LK61v8fPY19A0H9dMhG`

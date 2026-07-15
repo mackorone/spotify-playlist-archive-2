@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,123 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,162 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 51 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 |
 | 52 | [Adriatic Flow](https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Adriatic Flow](https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5) | 4:07 |
 | 53 | [Exhale](https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3) | [Patrick Bradley](https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck) | [Exhale](https://open.spotify.com/album/5n354scG66QIxDi8Y2u269) | 4:32 |
-| 54 | [Imagine \(Living as One\)](https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Bob Baldwin Presents: Abbey Road and The Beatles](https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c) | 5:09 |
-| 55 | [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 |
-| 56 | [Three Dee](https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Tranquility](https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd) | 4:01 |
-| 57 | [Stockholm Summer](https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 4:55 |
-| 58 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
+| 54 | [Three Dee](https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Tranquility](https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd) | 4:01 |
+| 55 | [Imagine \(Living as One\)](https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Bob Baldwin Presents: Abbey Road and The Beatles](https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c) | 5:09 |
+| 56 | [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 |
+| 57 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
+| 58 | [Stockholm Summer](https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 4:55 |
 | 59 | [The B Spot](https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:59 |
 | 60 | [Sweet Kisses](https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Limitless](https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL) | 4:54 |
 | 61 | [Just Once \(Radio Edit\)](https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Just Once \(Radio Edit\)](https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t) | 4:04 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 67 | [Spray Bay](https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk) | [Jeremy Sean Hector](https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR) | [Ascension](https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi) | 4:47 |
 | 68 | [Stylin'](https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY) | [Stylin'](https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c) | 4:07 |
 | 69 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 |
-| 70 | [Eye Contact](https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM) | [Jay Beckenstein](https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok) | [Eye Contact](https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD) | 4:54 |
-| 71 | [In Key](https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu) | [Spur Of The Moment](https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe) | [Out Of The Shadows](https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf) | 4:41 |
+| 70 | [In Key](https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu) | [Spur Of The Moment](https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe) | [Out Of The Shadows](https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf) | 4:41 |
+| 71 | [Eye Contact](https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM) | [Jay Beckenstein](https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok) | [Eye Contact](https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD) | 4:54 |
 | 72 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 |
 | 73 | [Sliver Moon](https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF) | [Dwight Sills](https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH) | [Easy](https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS) | 5:13 |
 | 74 | [Velvet Groove](https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe) | [Eric Valentine](https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4), [Velvet Groove](https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU) | [Velvet Groove](https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176) | 3:57 |

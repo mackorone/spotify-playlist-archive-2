@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,096 likes - 84 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,096 likes - 84 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 44 | [Consolation Prize](https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Because I Was In Love](https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN) | 4:03 |
 | 45 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
 | 46 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
-| 47 | [glowing hands](https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z) | [forlorn](https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT), [friendly to crows](https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR) | [i hope everything goes well](https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c) | 2:10 |
-| 48 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
+| 47 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
+| 48 | [glowing hands](https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z) | [forlorn](https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT), [friendly to crows](https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR) | [i hope everything goes well](https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c) | 2:10 |
 | 49 | [Sloth](https://open.spotify.com/track/5u02Kr3YXTSbNO19hSeEK2) | [Brendan Perry](https://open.spotify.com/artist/448GEwyUiojEHd8vsFheaB) | [Eye of the Hunter](https://open.spotify.com/album/5Cx1d1H2EqaOs3OrYP64bR) | 3:32 |
 | 50 | [Follow](https://open.spotify.com/track/3LzFKDTwf9YkJv2OBuApBM) | [Heidi Berry](https://open.spotify.com/artist/6qciBbmbIDojePKdKmGtiA) | [Heidi Berry](https://open.spotify.com/album/51LMFroWbhYEbcHxSOrWw3) | 5:19 |
 | 51 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 80 | [Emp\. Man's Blues](https://open.spotify.com/track/08AaYagr9AUBTcjwyYxNfV) | [The For Carnation](https://open.spotify.com/artist/7LMO4vkA2xYpGYbzsggPbk) | [The For Carnation](https://open.spotify.com/album/76jj5JVBFyQZqKvtVTJiFC) | 8:12 |
 | 81 | [The End's Not Near](https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb) | [The New Year](https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy) | [The End Is Near](https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS) | 3:43 |
 | 82 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca) | 6:39 |
-| 83 | [The Black Crow](https://open.spotify.com/track/3dqmRMwJaCymso6NXGPnyi) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [The Lioness](https://open.spotify.com/album/0rCkgwhPyKJqoDkmxkFHTn) | 7:16 |
-| 84 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 |
+| 83 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 |
+| 84 | [Drinking At The Dam](https://open.spotify.com/track/7H2mfh89I55v2Rd81389fY) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [A River Ain't Too Much To Love](https://open.spotify.com/album/2ntUs6XUdXoZvG5Be0d09n) | 4:07 |
 
 Snapshot ID: `AAAAAAGtNQ9SRJRkJOYdO+KcgdyCBxKT`

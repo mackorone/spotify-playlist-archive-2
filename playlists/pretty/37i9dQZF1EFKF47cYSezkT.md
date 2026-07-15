@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 77 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 77 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 56 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 |
 | 57 | [Hot Pink Baby](https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX) | [Hot Pink Baby](https://open.spotify.com/album/5dvokJiAQ8BOyW67GyHlVP) | 2:43 |
 | 58 | [Birthday](https://open.spotify.com/track/0ZBfAx4xLz1GoXoiDEjDFw) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 2:40 |
-| 59 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
-| 60 | [Proof](https://open.spotify.com/track/405gNtjLCgRcqod42hooqR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Proof](https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv) | 2:46 |
+| 59 | [Proof](https://open.spotify.com/track/405gNtjLCgRcqod42hooqR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Proof](https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv) | 2:46 |
+| 60 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
 | 61 | [Work Of Art](https://open.spotify.com/track/1EU6rKdmudLSZJl9zJ4geL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 2:43 |
 | 62 | [GOOD LUCK \(feat\. Goldfinger\)](https://open.spotify.com/track/7r7bRPU1Q2SKyI4r4b5GFS) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [THERE GOES THE NEIGHBORHOOD](https://open.spotify.com/album/6onXyi6tZfYoBOWKbKpThm) | 2:00 |
 | 63 | [in another life](https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [in another life](https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY) | 2:51 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 76 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 77 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 
-Snapshot ID: `AcWxtAAAAADrDtgdK8Qt2qYNG9mfi9vV`
+Snapshot ID: `AcW3NgAAAAABKOw5E23s8WZ4vWh7BXNj`

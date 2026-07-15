@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 832229,
+  "num_followers": 832282,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Trisha Yearwood",
-        "url": "https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI"
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
       "artists": [
         {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
         }
       ],
-      "duration_ms": 248200,
-      "name": "She's In Love With The Boy - Single Version",
-      "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
+      "duration_ms": 204333,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Two Dozen Roses",
-      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
-    },
-    {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 291073,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "Trisha Yearwood",
+        "url": "https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "She's In Love With The Boy - Single Version",
+      "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Seminole Wind",
-        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Straight Tequila Night",
-      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+      "duration_ms": 228173,
+      "name": "Paint Me A Birmingham",
+      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
+        "name": "Seminole Wind",
+        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
         }
       ],
-      "duration_ms": 228173,
-      "name": "Paint Me A Birmingham",
-      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+      "duration_ms": 173866,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
         "name": "Wait Til I Get My Money Up",
         "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 158872,
       "name": "Doublewide",
       "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Top 10",
-        "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Forever and Ever, Amen",
-      "url": "https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY"
-    },
-    {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 216693,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "Top 10",
+        "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY"
     },
     {
       "added_at": "2026-02-20 05:00:36",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Sueye Park",
+  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Jess Gillam",
   "name": "Women of Classical",
   "tracks": [
     {
@@ -2159,6 +2159,40 @@
     },
     {
       "album": {
+        "name": "Mozart\uff1aFlute Quartet in D Major, K. 285: I. Allegro",
+        "url": "https://open.spotify.com/album/7w1hrDUHCFkdisWv90vWEi"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        },
+        {
+          "name": "\u6771 \u4eae\u6c70",
+          "url": "https://open.spotify.com/artist/0R78zJyXYkOyQbAvT8tKyF"
+        },
+        {
+          "name": "\u4e2d \u6075\u83dc",
+          "url": "https://open.spotify.com/artist/3CoASP10y3mrjatMa1cUQR"
+        },
+        {
+          "name": "\u77e2\u90e8\u512a\u5178",
+          "url": "https://open.spotify.com/artist/1f8kMBB7bxNCsE1SXAsfx7"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424666,
+      "name": "Flute Quartet in D Major, K. 285: I. Allegro",
+      "url": "https://open.spotify.com/track/3642oxTGNZ0uZruwRIGYIG"
+    },
+    {
+      "album": {
         "name": "For A Moment",
         "url": "https://open.spotify.com/album/6EdK9G30Mc7lyxSnfAuq0c"
       },
@@ -2416,6 +2450,28 @@
       "duration_ms": 254524,
       "name": "III. Interlude. Quasi lento",
       "url": "https://open.spotify.com/track/4LmsCGzs7hK1RGozzK2omJ"
+    },
+    {
+      "album": {
+        "name": "Mel Bonis: Il pleut!, Op. 102",
+        "url": "https://open.spotify.com/album/1QFJ3szYKDqQQiIF0BzART"
+      },
+      "artists": [
+        {
+          "name": "Mel Bonis",
+          "url": "https://open.spotify.com/artist/1LauM5YBWB1nIe6KRwKNdG"
+        },
+        {
+          "name": "Carmen Stefanescu",
+          "url": "https://open.spotify.com/artist/2WcUK8LkHiBUOKVnB2VbVA"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132851,
+      "name": "Il pleut!, Op. 102",
+      "url": "https://open.spotify.com/track/05lMkAZqNDY5w94gHekISU"
     },
     {
       "album": {
@@ -4874,6 +4930,32 @@
       "duration_ms": 210740,
       "name": "Theme of Love (Arr. Lawson for Harp & String Quartet) - From \"Final Fantasy IV\"",
       "url": "https://open.spotify.com/track/0dlSVqBZ2ABR4RZvD48vw7"
+    },
+    {
+      "album": {
+        "name": "Imogen Holst: Three Songs: No. 3, Exile",
+        "url": "https://open.spotify.com/album/78yLg4PePx0baOzbpG8QUb"
+      },
+      "artists": [
+        {
+          "name": "Imogen Holst",
+          "url": "https://open.spotify.com/artist/3zslOkHVsOHJzOqBiFGaNp"
+        },
+        {
+          "name": "Joanna Songi",
+          "url": "https://open.spotify.com/artist/60JqvJMOfwo6bvn9i1s1Yd"
+        },
+        {
+          "name": "Matthew Fletcher",
+          "url": "https://open.spotify.com/artist/0rxAFAdhXZkIki0oAqOMGU"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106500,
+      "name": "Three Songs: No. 3, Exile",
+      "url": "https://open.spotify.com/track/1bxtHrHhChtYamPU4GZ759"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "If the music is loud enough, maybe the house will clean itself",
-  "num_followers": 33906,
+  "num_followers": 33905,
   "original_name": "Spring Clean",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 403293,
       "name": "Music Sounds Better With You",
       "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191937,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191937,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 239773,
-      "name": "Don't Phunk With My Heart",
-      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 239773,
+      "name": "Don't Phunk With My Heart",
+      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
     },
     {
       "added_at": "2026-03-13 10:59:50",

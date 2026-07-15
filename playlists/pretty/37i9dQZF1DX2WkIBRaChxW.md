@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Honey Bxby.
+> What's happening in r&b, right now – featuring FLO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,717 likes - 98 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,705 likes - 98 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 97 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 98 | [Sweet Sensation](https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Sweet Sensation](https://open.spotify.com/album/0jKFVbAav1wfa5smwIY0bd) | 3:43 |
 
-Snapshot ID: `AAAAAFlKvbFKWs2wETSpoOx0nzPCrWys`
+Snapshot ID: `AAAAAFRc6dud1rjVRgP38qzf2eZnNDE9`

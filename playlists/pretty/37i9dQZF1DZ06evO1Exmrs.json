@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 461828,
+  "num_followers": 462398,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAiEE2LfTmLSiIwDI42AGH1",
+  "snapshot_id": "alQqgAAAAADFhszLzjhu/tq0PXTtmLP/",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
       "duration_ms": 213576,
       "name": "Close Behind",
       "url": "https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 312145,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe"
     }
   ],
   "unique_name": "This Is Noah Kahan",

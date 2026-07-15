@@ -8326,7 +8326,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -36478,7 +36478,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -49276,7 +49276,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
@@ -49578,7 +49578,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 137268,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2jPMmsIebx3b6FHLpK0f7x"
@@ -57696,7 +57696,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -60394,6 +60394,24 @@
       "duration_ms": 152727,
       "name": "panzerknacker.wav",
       "url": "https://open.spotify.com/track/1d6kBUugWLaVHWjyj4T7i5"
+    },
+    {
+      "album": {
+        "name": "panzerknacker.wav",
+        "url": "https://open.spotify.com/album/6fi2aOnWlIuxhx3fhZonLx"
+      },
+      "artists": [
+        {
+          "name": "LENNSKO",
+          "url": "https://open.spotify.com/artist/0WyJfrWjsny9mSxops8ksX"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "panzerknacker.wav",
+      "url": "https://open.spotify.com/track/40NjASTBlqkyCZ9bPVDcMK"
     },
     {
       "album": {
@@ -69542,10 +69560,28 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180767,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ"
     },
     {
       "album": {
@@ -74940,7 +74976,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -76820,7 +76856,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -76896,7 +76932,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -81210,7 +81246,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

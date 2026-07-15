@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88319,
+  "num_followers": 88321,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABDAKBWW+eFSMhBAX3FY9mR",
+  "snapshot_id": "alQqgAAAAAAAu524FyczCDc3EfSKnNxg",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR"
       },
       "artists": [
         {
@@ -268,13 +268,17 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 199756,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
+      "duration_ms": 178619,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7"
     },
     {
       "added_at": null,
@@ -299,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
       "artists": [
         {
@@ -308,17 +312,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         }
       ],
-      "duration_ms": 178619,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7"
+      "duration_ms": 199756,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Stupid (feat. AWA)",
         "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
     },
     {
       "added_at": null,

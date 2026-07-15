@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-2,257 songs - 4 day 9 hr 31 min
+2,258 songs - 4 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,8 +985,9 @@
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-06-27 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-05-23 |
 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-04-30 | 2023-08-13 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-16 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-16 | 2026-07-15 |
 | [Self Aware](https://open.spotify.com/track/79l37OfQZL2x97g2u6Y5rx) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/5Ih6QJhj7wvZ0OnzbOi5HF) | 3:00 | 2026-07-09 | 2026-07-11 |
+| [Self Aware](https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE) | 3:00 | 2026-07-14 |  |
 | [Serial Killa](https://open.spotify.com/track/1960eLfa8hLUNq9jWFHe5V) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:24 | 2022-11-19 | 2022-11-25 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-30 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 | 2024-01-05 |
@@ -1627,7 +1628,7 @@
 | [Коли ми двоє](https://open.spotify.com/track/1GTBE5eOLsQxO3p3Rltdp9) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Коли ми двоє](https://open.spotify.com/album/5f3MMCcdkFZvCd9Bcv5Ddw) | 4:06 | 2023-05-22 | 2023-06-18 |
 | [Колискова 2022](https://open.spotify.com/track/3fm1gwToVxnT4eK0GfGV0K) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:41 | 2024-09-28 | 2024-10-01 |
 | [Колишній](https://open.spotify.com/track/2V4MQwh7WeFHu7FKDn8dgL) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Колишній](https://open.spotify.com/album/7jTyTSQ0grWYefQJyvrwmS) | 3:40 | 2025-11-22 | 2025-11-24 |
-| [Коло тебе](https://open.spotify.com/track/0Ps99lC59dDFvKwZNH9UGB) | [Василь Білоус](https://open.spotify.com/artist/6D0ly4UY81qYnQHubrVbYV) | [Коло тебе](https://open.spotify.com/album/79AvIwSJJEXyViBS41oR8l) | 2:41 | 2026-05-12 | 2026-07-14 |
+| [Коло тебе](https://open.spotify.com/track/0Ps99lC59dDFvKwZNH9UGB) | [Василь Білоус](https://open.spotify.com/artist/6D0ly4UY81qYnQHubrVbYV) | [Коло тебе](https://open.spotify.com/album/79AvIwSJJEXyViBS41oR8l) | 2:41 | 2026-05-12 |  |
 | [Колхозник](https://open.spotify.com/track/19guFw87TvSkoxnC9EBu2Y) | [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [Круг Ветров](https://open.spotify.com/album/4IorcRs4Rk7HXLbfjGpV6a) | 2:38 | 2021-03-30 | 2021-04-02 |
 | [Кольорова](https://open.spotify.com/track/0MJZcszuOAhWHcqE2MbMtO) | [Скрябін](https://open.spotify.com/artist/5RqIkHQnXRZlm1ozfSS1IO) | [25 Best Hits](https://open.spotify.com/album/3ghBFMKdopxprZ672ojDLc) | 2:53 | 2024-03-29 | 2024-05-08 |
 | [Кольє](https://open.spotify.com/track/2i7Nqa6jMW2qXA8w2iJs9s) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Кольє](https://open.spotify.com/album/75fYZKItTQwTzALEIuHOjk) | 3:21 | 2026-06-20 |  |
@@ -1828,7 +1829,7 @@
 | [Окно в Париж](https://open.spotify.com/track/5sufJQR1eq3yc8e4Q4w6JV) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:13 | 2021-12-03 | 2021-12-07 |
 | [окситоцин](https://open.spotify.com/track/2fi69bgAKtSBFnCGCTNQFp) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 2:03 | 2025-08-16 | 2025-08-18 |
 | [Окупанту](https://open.spotify.com/track/09NXCjWIBMQDQLOv6AMyDN) | [MBreeze](https://open.spotify.com/artist/4Hf4YJXOVQmed220g7PiqL) | [Окупанту](https://open.spotify.com/album/6ThA8ysxttWzQ4zZEWxsIe) | 1:47 | 2023-02-05 | 2023-02-07 |
-| [Олєг](https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Олєг](https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2) | 2:57 | 2025-04-21 |  |
+| [Олєг](https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Олєг](https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2) | 2:57 | 2025-04-21 | 2026-07-15 |
 | [Она не я](https://open.spotify.com/track/6kZ2FxkEd6Q62eQk36e7xt) | [Artik & Asti](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA) | [Миллениум Х](https://open.spotify.com/album/3kQuzrtCgpviID0Upusjw2) | 3:34 | 2021-07-25 | 2021-08-01 |
 | [Она тебя любит](https://open.spotify.com/track/12fesH0q1KEBKyg0G9Yi2E) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN) | [Она тебя любит](https://open.spotify.com/album/5pYLaQosqE7kMaaEtoBDq0) | 3:12 | 2021-08-21 | 2021-10-23 |
 | [она хочет быть моделью](https://open.spotify.com/track/4NSljHZ9Uwr8uBwKgFisR1) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [она хочет быть моделью](https://open.spotify.com/album/6I62WtFZ2fLH3RpNVAwzzn) | 2:38 | 2021-12-12 | 2021-12-13 |

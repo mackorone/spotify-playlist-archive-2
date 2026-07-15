@@ -17200,7 +17200,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 153719,
       "name": "Car\u00eancia",
       "url": "https://open.spotify.com/track/29thIdxiW849giFq2zJCdN"
@@ -23760,7 +23760,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 187563,
       "name": "Dance once more",
       "url": "https://open.spotify.com/track/5xR2f006O8gG76s4DTwgJ0"
@@ -27324,7 +27324,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 199762,
       "name": "Don't Record",
       "url": "https://open.spotify.com/track/1jyNswOFIyhIrYnR3a4GcH"
@@ -28814,6 +28814,36 @@
       "duration_ms": 182394,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0GZgpLTjtWNeTLasSGRXl1"
+    },
+    {
+      "album": {
+        "name": "Blue Adrift",
+        "url": "https://open.spotify.com/album/5eP1UyI3x0sKQut31HVnlK"
+      },
+      "artists": [
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+        },
+        {
+          "name": "Mark Feldman",
+          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
+        },
+        {
+          "name": "Joel Frahm",
+          "url": "https://open.spotify.com/artist/78tGlRBjLrulJ8xqoZw83M"
+        },
+        {
+          "name": "Mel Deal",
+          "url": "https://open.spotify.com/artist/1O2jqnNUW08W7mlScCUJhn"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388189,
+      "name": "Dreamsville",
+      "url": "https://open.spotify.com/track/5hBtNUHPQsmlfgaElF0NY6"
     },
     {
       "album": {
@@ -31498,7 +31528,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 146285,
       "name": "Eshey",
       "url": "https://open.spotify.com/track/0qMaisy3JYZdg90CVuZR8g"
@@ -39724,7 +39754,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 224199,
       "name": "Ginger Me",
       "url": "https://open.spotify.com/track/1Rm3JZ6UJiqr5B34NvrN39"
@@ -44564,6 +44594,32 @@
       "duration_ms": 239328,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5rrKfEnerPJCb6F14iYgoj"
+    },
+    {
+      "album": {
+        "name": "Here Before",
+        "url": "https://open.spotify.com/album/1hhJxU6nczVd2e6z7jFo5P"
+      },
+      "artists": [
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        },
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/57hGAPOECLZemqdkR9EX3Q"
     },
     {
       "album": {
@@ -50086,7 +50142,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 183510,
       "name": "I.D.T.Y.L.M",
       "url": "https://open.spotify.com/track/2pJf0RpyXdnqvb8LgWactn"
@@ -58982,7 +59038,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 193809,
       "name": "Lights Down",
       "url": "https://open.spotify.com/track/7ihxR27tybU9Kf5tx3Rnbg"
@@ -77618,7 +77674,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 196551,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5HQc4F8Bgh7ldqtm4zJIGu"
@@ -77944,6 +78000,24 @@
       "duration_ms": 161750,
       "name": "Passed It",
       "url": "https://open.spotify.com/track/3divbxfH77KYSmFrMjQDrj"
+    },
+    {
+      "album": {
+        "name": "passing glance",
+        "url": "https://open.spotify.com/album/1469ZDYIVVgaQbX4mRtOD0"
+      },
+      "artists": [
+        {
+          "name": "MALU",
+          "url": "https://open.spotify.com/artist/7gmOo2GzWkcHlIe4X1IOBH"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204473,
+      "name": "passing glance",
+      "url": "https://open.spotify.com/track/1w96aYJ1Y700WuZsMDJLEF"
     },
     {
       "album": {
@@ -79996,8 +80070,8 @@
       },
       "artists": [
         {
-          "name": "Fide",
-          "url": "https://open.spotify.com/artist/3GV9NJUhuczfuuPBVA3uzH"
+          "name": "mynameisfide",
+          "url": "https://open.spotify.com/artist/0iDEef1IW8GY5CjkrZxQXp"
         }
       ],
       "date_added": "2026-07-03",
@@ -80736,7 +80810,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 150688,
       "name": "pretty baby",
       "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
@@ -80754,7 +80828,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 213130,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/4NBOBwqQDgTkVPeIpEoZVv"
@@ -98762,7 +98836,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 223000,
       "name": "system breaks",
       "url": "https://open.spotify.com/track/0EalmM6ohyFU9SbJGwKLF1"
@@ -109516,7 +109590,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 220631,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/4kB7pEFWcHLU5Fj5DYNt70"

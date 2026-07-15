@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116495,
+  "num_followers": 116499,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "No Quiero Escuchar",
-        "url": "https://open.spotify.com/album/6oHQWOgONDhsEXJUaL1q6Y"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 214269,
-      "name": "No Quiero Escuchar",
-      "url": "https://open.spotify.com/track/7CLqQbnMST28Vstn5wbgKP"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Ya No Me Divierto",
         "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 223200,
       "name": "Ya No Me Divierto",
       "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "No Quiero Escuchar",
+        "url": "https://open.spotify.com/album/6oHQWOgONDhsEXJUaL1q6Y"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 214269,
+      "name": "No Quiero Escuchar",
+      "url": "https://open.spotify.com/track/7CLqQbnMST28Vstn5wbgKP"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Mi \u00fanica salida",
-        "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
-      },
-      "artists": [
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        },
-        {
-          "name": "Endemia",
-          "url": "https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "Mi \u00fanica salida",
-      "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 267428,
       "name": "En la Carretera",
       "url": "https://open.spotify.com/track/3W3YwhH2li8NZtKlOVEBqv"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Mi \u00fanica salida",
+        "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
+      },
+      "artists": [
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "Endemia",
+          "url": "https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "Mi \u00fanica salida",
+      "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Putos Nazis",
-        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 137963,
-      "name": "Putos Nazis",
-      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Nunca He Visto el Mar",
         "url": "https://open.spotify.com/album/5Qr8yJcWdR1pkWgs9MANSI"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 250770,
       "name": "Nunca He Visto el Mar",
       "url": "https://open.spotify.com/track/5qEjoywjW43wUjxUvSyRPw"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Putos Nazis",
+        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 137963,
+      "name": "Putos Nazis",
+      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "PACIENCIA INFINITA",
-        "url": "https://open.spotify.com/album/3m0GMOTc1MIGGofXOvf2oD"
-      },
-      "artists": [
-        {
-          "name": "Sandr\u00e9",
-          "url": "https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H"
-        }
-      ],
-      "duration_ms": 137153,
-      "name": "SIEMPRE M\u00c1S",
-      "url": "https://open.spotify.com/track/2HkXsj2AyVTmvxjpMc8Azd"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "O Mundo Toleou",
         "url": "https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 218227,
       "name": "O Mundo Toleou",
       "url": "https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "PACIENCIA INFINITA",
+        "url": "https://open.spotify.com/album/3m0GMOTc1MIGGofXOvf2oD"
+      },
+      "artists": [
+        {
+          "name": "Sandr\u00e9",
+          "url": "https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H"
+        }
+      ],
+      "duration_ms": 137153,
+      "name": "SIEMPRE M\u00c1S",
+      "url": "https://open.spotify.com/track/2HkXsj2AyVTmvxjpMc8Azd"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "N.S.A. La Santa Familia",
+        "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
+      },
+      "artists": [
+        {
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+        }
+      ],
+      "duration_ms": 313946,
+      "name": "El Espiritu del Oi!",
+      "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "N.S.A. La Santa Familia",
-        "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
       "artists": [
         {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
         }
       ],
-      "duration_ms": 313946,
-      "name": "El Espiritu del Oi!",
-      "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/1XCAxFWUmdLpI0WEtfBYmU"
       },
       "artists": [
         {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
         }
       ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+      "duration_ms": 186000,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/3A5g4sFwzahqS2B3NeqNV2"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1491,6 +1507,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
@@ -1519,22 +1551,6 @@
       "duration_ms": 154893,
       "name": "A Ras del Suelo",
       "url": "https://open.spotify.com/track/7MofeVnACbDDBOrp0n1O2M"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1571,6 +1587,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "All Cayetanos Are Bastards",
+        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanco Del Jam\u00f3n",
+          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
+        }
+      ],
+      "duration_ms": 160034,
+      "name": "All Cayetanos Are Bastards",
+      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
@@ -1599,38 +1631,6 @@
       "duration_ms": 183626,
       "name": "El Pa\u00eds de Alicia",
       "url": "https://open.spotify.com/track/4QAw1unWjQ1a2XMwGc06Ie"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/1XCAxFWUmdLpI0WEtfBYmU"
-      },
-      "artists": [
-        {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/3A5g4sFwzahqS2B3NeqNV2"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "All Cayetanos Are Bastards",
-        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanco Del Jam\u00f3n",
-          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
-        }
-      ],
-      "duration_ms": 160034,
-      "name": "All Cayetanos Are Bastards",
-      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
     },
     {
       "added_at": "2026-06-11 22:00:32",

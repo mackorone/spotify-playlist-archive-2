@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 449369,
+  "num_followers": 449389,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADqU2poME5mxRozGwP6l+3D",
+  "snapshot_id": "alQqgAAAAABaAhJXd+RdDykfM9EfRCfq",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gato",
-        "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 199462,
-      "name": "El Gato",
-      "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Los Recuerdos, Vol. 8",
         "url": "https://open.spotify.com/album/2CtM0Dc9UkDa3B8znLi8tw"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 218900,
       "name": "El Pantro",
       "url": "https://open.spotify.com/track/24cV01L64dQsqRP4PEANUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Gato",
+        "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 199462,
+      "name": "El Gato",
+      "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
     },
     {
       "added_at": null,
@@ -587,46 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Hierba, Polvo y Plomo",
-        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 215594,
-      "name": "Entre Hierba, Polvo y Plomo",
-      "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 158442,
-      "name": "Cuanto Me Gusta Este Rancho",
-      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Nac\u00ed Pa' Ser Jefe",
         "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
       },
@@ -647,6 +607,46 @@
       "duration_ms": 168553,
       "name": "Yo Nac\u00ed Pa' Ser Jefe",
       "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 158442,
+      "name": "Cuanto Me Gusta Este Rancho",
+      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Hierba, Polvo y Plomo",
+        "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 215594,
+      "name": "Entre Hierba, Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coronas Doradas",
         "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": null,

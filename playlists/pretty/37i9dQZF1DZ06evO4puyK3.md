@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,936 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,940 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 40 | [Vício](https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Vício](https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82) | 2:55 |
 | 41 | [Só o Amor](https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Só o Amor](https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ) | 2:58 |
 | 42 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
-| 43 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 |
-| 44 | [Entendi Errado \- Ao Vivo](https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 2:43 |
+| 43 | [Entendi Errado \- Ao Vivo](https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 2:43 |
+| 44 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 |
 | 45 | [Até Já \- Ao Vivo](https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Até Já \(Ao Vivo\)](https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm) | 3:02 |
 | 46 | [SEDANAPO](https://open.spotify.com/track/1rUKbbmml6cYgkRVwJOTbN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:37 |
 | 47 | [LSD](https://open.spotify.com/track/3t7CeMsyZJ8Jnt4MwJRDgX) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 |
 | 50 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
 
-Snapshot ID: `alLZAAAAAADE2Vypw41zCZvGa4blNBxt`
+Snapshot ID: `alQqgAAAAAC3tOasI1MwnWdk9qFELAZ5`

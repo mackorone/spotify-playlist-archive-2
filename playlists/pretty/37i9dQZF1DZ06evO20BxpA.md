@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 30 | [Ophelia](https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:52 |
 | 31 | [We Took To The Skies](https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Aeronauts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE) | 4:49 |
 | 32 | [Everything is Bathed in Sunlight](https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:51 |
-| 33 | [Our Eternal Sky](https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 4:41 |
-| 34 | [ISS](https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 2:53 |
+| 33 | [ISS](https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 2:53 |
+| 34 | [Our Eternal Sky](https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 4:41 |
 | 35 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 |
 | 36 | [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 |
 | 37 | [A Different Set of Rules](https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:21 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 42 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
 | 43 | [Out of the Emptiness](https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 5:13 |
 | 44 | [Distant](https://open.spotify.com/track/0eGcFW6HVT77di3EXbl99t) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 4:57 |
-| 45 | [The Running Man](https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 4:00 |
+| 45 | [Eternal Energies Of Nature](https://open.spotify.com/track/1UCmBSiJpN1keDLfWQXP0R) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:01 |
 | 46 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
 | 47 | [Beneath the Waves](https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:50 |
-| 48 | [Ghost in the Frame](https://open.spotify.com/track/2JqrmLQPpIrOTwY8WEiPI8) | [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ghost in the Frame](https://open.spotify.com/album/4WeKqfgARZQxuU33cpqjww) | 3:20 |
-| 49 | [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 |
-| 50 | [Eternal Energies Of Nature](https://open.spotify.com/track/1UCmBSiJpN1keDLfWQXP0R) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:01 |
+| 48 | [The Running Man](https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 4:00 |
+| 49 | [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 |
+| 50 | [Ghost in the Frame](https://open.spotify.com/track/2JqrmLQPpIrOTwY8WEiPI8) | [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ghost in the Frame](https://open.spotify.com/album/4WeKqfgARZQxuU33cpqjww) | 3:20 |
 
-Snapshot ID: `alLZAAAAAACuqhiA9FOuv8fj8Zw13kdH`
+Snapshot ID: `alQqgAAAAAA/7aRJ8MYt+MzbToT2TEPZ`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADnee2zRq8moXqb9fcSEE1r",
+  "snapshot_id": "alQqgAAAAACyn2iaXnRzXmhTOeS9f5HR",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "With & Without",
+        "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
+        }
+      ],
+      "duration_ms": 698479,
+      "name": "I Feel Incomplete Without Sound",
+      "url": "https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 308876,
+      "name": "Our Touching Tongues",
+      "url": "https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 548276,
+      "name": "Look How Far We Have Come",
+      "url": "https://open.spotify.com/track/5ojTfqCXRgGYCEgldgxAIb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
         "url": "https://open.spotify.com/album/4BOKWN099uCyyWwEVt71qN"
       },
@@ -203,6 +255,22 @@
       "duration_ms": 456409,
       "name": "Sense of Self (Spontaneous Affinity Compilation) [When the Rave Is Not Enough]",
       "url": "https://open.spotify.com/track/2ftmqwDWQff7j0vSba3B0a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "connected #1",
+        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 412636,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
     },
     {
       "added_at": null,
@@ -235,74 +303,6 @@
       "duration_ms": 763311,
       "name": "Under The Lilac Sky",
       "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With & Without",
-        "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 698479,
-      "name": "I Feel Incomplete Without Sound",
-      "url": "https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "connected #1",
-        "url": "https://open.spotify.com/album/0q9qcP8x7bZO8W2gwGbYJm"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 412636,
-      "name": "Moksha",
-      "url": "https://open.spotify.com/track/4hWiRXQbDM5hRvxZnqWWDY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 266429,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 548276,
-      "name": "Look How Far We Have Come",
-      "url": "https://open.spotify.com/track/5ojTfqCXRgGYCEgldgxAIb"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 308876,
-      "name": "Our Touching Tongues",
-      "url": "https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP"
+      "duration_ms": 371917,
+      "name": "Infinite Delight",
+      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 329363,
-      "name": "Shanti",
-      "url": "https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu"
+      "duration_ms": 359493,
+      "name": "Farida",
+      "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 371917,
-      "name": "Infinite Delight",
-      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
+      "duration_ms": 294654,
+      "name": "A Portal To Silver Linings",
+      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
     },
     {
       "added_at": null,
@@ -480,29 +480,9 @@
           "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 359493,
-      "name": "Farida",
-      "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 416266,
-      "name": "Cio",
-      "url": "https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s"
+      "duration_ms": 329363,
+      "name": "Shanti",
+      "url": "https://open.spotify.com/track/0cOT30jmHC4WVVbP9IzEWu"
     }
   ],
   "unique_name": "This Is Arushi Jain",

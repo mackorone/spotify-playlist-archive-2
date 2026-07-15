@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134286,
+  "num_followers": 134288,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAA6RCK0IzcwBHQZmT1+iTaD",
+  "snapshot_id": "alQqgAAAAABLjKD6CygIxCBVMmsljEKZ",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Back In The U.S.A.",
-      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 168600,
       "name": "Carol",
       "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Back In The U.S.A.",
+      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Berry's",
-        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 136546,
-      "name": "My Mustang Ford",
-      "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 163800,
       "name": "Little Queenie",
       "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 136546,
+      "name": "My Mustang Ford",
+      "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 185845,
-      "name": "Big Boys",
-      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 141960,
       "name": "Almost Grown",
       "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 185845,
+      "name": "Big Boys",
+      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
-        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 223573,
-      "name": "My Ding-A-Ling",
-      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From St. Louie To Frisco",
-        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Louis To Frisco",
-      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
+      "duration_ms": 223573,
+      "name": "My Ding-A-Ling",
+      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harlem Station",
-        "url": "https://open.spotify.com/album/2CnAPOhQWSDvFfp5syKHFu"
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
       "artists": [
         {
           "name": "Chuck Berry",
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        },
-        {
-          "name": "Oscar Pettiford",
-          "url": "https://open.spotify.com/artist/12tEk7MWJdbc4V5wcc7UQS"
         }
       ],
-      "duration_ms": 175666,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/1wTYxyqQgg4dtZkPicv2Mf"
+      "duration_ms": 157240,
+      "name": "Bordeaux In My Pirough",
+      "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
     }
   ],
   "unique_name": "This Is Chuck Berry",

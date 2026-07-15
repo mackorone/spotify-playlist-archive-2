@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 
 > <a href="spotify:artist:3JkLFcTej6tdwZoQT6Nx4B">Seth Troxler</a>'s favorite tracks\. Updated regularly\. Curated by Seth Troxler\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,010 likes - 53 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,022 likes - 53 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 | 46 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [Rolando](https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
 | 47 | [Weak Become Heroes \- Ashley Beedle's Love Bug Vocal](https://open.spotify.com/track/1WApNNh3hq0IVRCqkK9bG1) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Ashley Beedle](https://open.spotify.com/artist/7gs54cZveSV3kraHmiGYDr) | [Remixes & B\-Sides](https://open.spotify.com/album/215Ax4hgQGPetqBmqfa25a) | 8:13 |
 | 48 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
-| 49 | [Feeling Hot](https://open.spotify.com/track/6K0FfOGkqS9cvYRxH5akMv) | [COLOR.LOVE](https://open.spotify.com/artist/7hgwystBentJsSi5OwDTzh) | [Mixmasters Ibiza](https://open.spotify.com/album/38J2gW0pOO1bVoPpwox7HK) | 6:16 |
+| 49 | [Feeling Hot](https://open.spotify.com/track/6K0FfOGkqS9cvYRxH5akMv) | [GIINA](https://open.spotify.com/artist/7hgwystBentJsSi5OwDTzh) | [Mixmasters Ibiza](https://open.spotify.com/album/38J2gW0pOO1bVoPpwox7HK) | 6:16 |
 | 50 | [Sprungboard \- Extended Mix](https://open.spotify.com/track/0KkqwGYXoHSUTmHfzufCgT) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Sprungboard](https://open.spotify.com/album/6Wutl7K9lVjDVHYfBaT3KM) | 6:06 |
 | 51 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 |
 | 52 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |

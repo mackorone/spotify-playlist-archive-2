@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,530 likes - 44 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,586 likes - 44 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 18 | [Highway](https://open.spotify.com/track/15EojPOh5L5oFVTk7x8Vub) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 2:42 |
 | 19 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 |
 | 20 | [SWEET ★ HONEY ★ BUCKIIN'](https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:56 |
-| 21 | [Beverly Hills](https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:18 |
+| 21 | [Sticks and Stones](https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:34 |
 | 22 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/1khLPhobojtGS0jL358B4C) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:56 |
 | 23 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/2FyrMwr4s13OYlhAFApwJW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [No Sign of Weakness](https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g) | 2:28 |
 | 24 | [SPAGHETTII](https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Linda Martell](https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:38 |
-| 25 | [Sticks and Stones](https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:34 |
+| 25 | [Beverly Hills](https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:18 |
 | 26 | [Horses & Hellcats](https://open.spotify.com/track/2aP9pWbPvh5kVIIGJoyFLW) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:37 |
 | 27 | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v) | 3:11 |
 | 28 | [Chrome \- Bonus](https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 2:25 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 43 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 | 44 | [Dream](https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:34 |
 
-Snapshot ID: `alLZAAAAAADFIOYZMy92Or7jFdMBW+bT`
+Snapshot ID: `alQqgAAAAABAyteuKqT8IkQMNJjYuAGA`

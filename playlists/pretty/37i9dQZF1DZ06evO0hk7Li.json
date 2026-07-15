@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40325,
+  "num_followers": 40329,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABJzpIu75QPS01g/46jc/E9",
+  "snapshot_id": "alQqgAAAAAA9uW0GaHYjU2D+JrQmNyCH",
   "tracks": [
     {
       "added_at": null,
@@ -663,46 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOOD HYMNS",
-        "url": "https://open.spotify.com/album/5rzE6X6vhYRltG3TLmi52j"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Ivory Nwigwe",
-          "url": "https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ"
-        }
-      ],
-      "duration_ms": 111541,
-      "name": "NI**AS NEED JESUS",
-      "url": "https://open.spotify.com/track/7mI8FTorqGWIFGK6Sckxgf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 76840,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -764,9 +724,33 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 270922,
-      "name": "Easy Ain't Home",
-      "url": "https://open.spotify.com/track/2aRkTVqf51JT2al8uWLo5h"
+      "duration_ms": 76840,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOOD HYMNS",
+        "url": "https://open.spotify.com/album/5rzE6X6vhYRltG3TLmi52j"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Ivory Nwigwe",
+          "url": "https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ"
+        }
+      ],
+      "duration_ms": 111541,
+      "name": "NI**AS NEED JESUS",
+      "url": "https://open.spotify.com/track/7mI8FTorqGWIFGK6Sckxgf"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 270922,
+      "name": "Easy Ain't Home",
+      "url": "https://open.spotify.com/track/2aRkTVqf51JT2al8uWLo5h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -823,38 +823,6 @@
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 172377,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 88533,
-      "name": "Coming Through [Big up Yaself]",
-      "url": "https://open.spotify.com/track/1CoHERmQGn5eddSYmVwIkN"
     },
     {
       "added_at": null,
@@ -900,9 +868,57 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 235714,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0"
+      "duration_ms": 172377,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Other People\u2019s Heartache (Pt. 4)",
+        "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
+      },
+      "artists": [
+        {
+          "name": "Other People's Heartache",
+          "url": "https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 342012,
+      "name": "The Descent",
+      "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 88533,
+      "name": "Coming Through [Big up Yaself]",
+      "url": "https://open.spotify.com/track/1CoHERmQGn5eddSYmVwIkN"
     }
   ],
   "unique_name": "This Is Jacob Banks",

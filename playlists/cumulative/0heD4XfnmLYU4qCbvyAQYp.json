@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Tell me",
+        "url": "https://open.spotify.com/album/128I92xeAqGBMdLzBqCGdR"
+      },
+      "artists": [
+        {
+          "name": "Prince Frencho",
+          "url": "https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136022,
+      "name": "Tell me",
+      "url": "https://open.spotify.com/track/7Kii5doWDpS5BlMb8ZinhX"
+    },
+    {
+      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/3UhghdeJ61tvS5CBACFWi5"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7BvpHaU1BqIKMEMKB8goGO\">seraphiel</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:2V71DNcQsRW0Vp8vCOy9Vw\">Cecile</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -15737,6 +15737,24 @@
     },
     {
       "album": {
+        "name": "hey, it\u2019s ok",
+        "url": "https://open.spotify.com/album/3dV6Nt3LNiLt54WpLfE97i"
+      },
+      "artists": [
+        {
+          "name": "sottovoce",
+          "url": "https://open.spotify.com/artist/2Ak2nmstSKLX5WjPcDRhLw"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "hey, it\u2019s ok",
+      "url": "https://open.spotify.com/track/2VGVdr6quimm6MzXY6oslR"
+    },
+    {
+      "album": {
         "name": "HIGHBEAMZ",
         "url": "https://open.spotify.com/album/2TNKIFNr5JjOxzq44vT8Ec"
       },
@@ -19022,7 +19040,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180454,
       "name": "la Mia paura",
       "url": "https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl"
@@ -23794,7 +23812,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 200000,
       "name": "Muffaillusione",
       "url": "https://open.spotify.com/track/3lVameTy8anlgrx7mqgO6v"
@@ -35304,6 +35322,24 @@
       "duration_ms": 132452,
       "name": "sotto la luna",
       "url": "https://open.spotify.com/track/0eX8cR0kZ4BziC04r0Tx8q"
+    },
+    {
+      "album": {
+        "name": "SottoOgniAspetto_",
+        "url": "https://open.spotify.com/album/62cc0w0yVxsj8NOF9BuMps"
+      },
+      "artists": [
+        {
+          "name": "GAUDIO",
+          "url": "https://open.spotify.com/artist/0oliv2CVpK6JfjkwekAuVO"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Sotto ogni aspetto",
+      "url": "https://open.spotify.com/track/3Ya4QO5Hjad0jXVp5sQFFR"
     },
     {
       "album": {

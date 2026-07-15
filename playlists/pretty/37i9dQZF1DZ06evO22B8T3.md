@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,724 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,741 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 9 | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:47 |
 | 10 | [RAMEN PARA DOS](https://open.spotify.com/track/5KJacLbQNuqzR9IizaPI6h) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 3:51 |
 | 11 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
-| 12 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
+| 12 | [Ella](https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:33 |
 | 13 | [Chica Paranormal](https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:41 |
-| 14 | [Ella](https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:33 |
+| 14 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
 | 15 | [Protagonista](https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Protagonista](https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3) | 2:39 |
-| 16 | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV) | 3:30 |
+| 16 | [Ojalá](https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:45 |
 | 17 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 |
-| 18 | [Ojalá](https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:45 |
+| 18 | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV) | 3:30 |
 | 19 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23/66](https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23/66](https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14) | 4:18 |
 | 20 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
 | 21 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 49 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
 | 50 | [PVSL](https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 3:02 |
 
-Snapshot ID: `alLZAAAAAADdZdLeICrtVgu8PThPnAsN`
+Snapshot ID: `alQqgAAAAACDtAi6DWWcxWdRSdMwLtL+`

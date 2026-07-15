@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWKMuMNwZLPF>Dexter and The Moonrocks</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIWNxKGzsF4Ji>The Rare Occasions</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIW4e2Vs3hqYU>Neton Vega</a>, <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIX11fykfK86c>R.E.M.</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 250173,
       "name": "1-800-273-8255",
       "url": "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 244906,
       "name": "16 Lines",
       "url": "https://open.spotify.com/track/6akBF8JWM8lrpqejdwIfYI"
@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
@@ -6164,7 +6164,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 217897,
       "name": "Freakin\u2019 Out",
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
@@ -10810,7 +10810,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 268426,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
@@ -10828,7 +10828,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 179670,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5fX1B90cPSFyyjORcHW8aC"
@@ -11549,6 +11549,28 @@
     },
     {
       "album": {
+        "name": "Piove Ancora",
+        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Me vs. Me",
+      "url": "https://open.spotify.com/track/5tLAqhNvczUx9ufC9LgzmX"
+    },
+    {
+      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -11740,7 +11762,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 147950,
       "name": "mental health.",
       "url": "https://open.spotify.com/track/1wrWCi6F7S9ky8bvwgmCD8"
@@ -11888,7 +11910,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H"
@@ -12908,7 +12930,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 216389,
       "name": "NON MI RICONOSCO \u2260 (con centomilacarie, Salmo)",
       "url": "https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG"
@@ -12984,7 +13006,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 108120,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/4Vmrpb9ppPq1ACLZyqxPVe"
@@ -13082,7 +13104,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
@@ -13216,7 +13238,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 179372,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0nrQctfuJf5yEjPKHlMiBp"
@@ -13490,7 +13512,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
@@ -14082,7 +14104,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -14754,7 +14776,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 192760,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO"
@@ -14838,6 +14860,24 @@
       "duration_ms": 128375,
       "name": "S.A.D",
       "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
+    },
+    {
+      "album": {
+        "name": "SAD BOYZ",
+        "url": "https://open.spotify.com/album/185KlBi7Ra1Yhgu6p47vJ7"
+      },
+      "artists": [
+        {
+          "name": "Robb Drew",
+          "url": "https://open.spotify.com/artist/2XWbw8XBiLTGuEh6AoYVKQ"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223991,
+      "name": "SAD BOYZ",
+      "url": "https://open.spotify.com/track/4kCAFGAqgkkUf241rvcBzg"
     },
     {
       "album": {
@@ -15346,7 +15386,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 163381,
       "name": "SE NON PROVO DOLORE",
       "url": "https://open.spotify.com/track/7kycm3mVY7yaNOtgiAK6lr"
@@ -15856,7 +15896,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 92539,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/7d0L1QvUelTW66QsPLPiN0"
@@ -16784,7 +16824,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
@@ -17040,7 +17080,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 176404,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/7aqhFo8oXyOCDZlOF41Fcd"
@@ -18771,6 +18811,24 @@
     },
     {
       "album": {
+        "name": "Rain City",
+        "url": "https://open.spotify.com/album/2PEc3oXqABLzxyfeZMCJcF"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166079,
+      "name": "Una Rosa",
+      "url": "https://open.spotify.com/track/6ZMmC7Sevmomx2qX8uTJqz"
+    },
+    {
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -19002,6 +19060,24 @@
       "duration_ms": 277186,
       "name": "Vellipoke",
       "url": "https://open.spotify.com/track/397ca8b09VvIeZtjVGcoRm"
+    },
+    {
+      "album": {
+        "name": "Vidas Pasadas",
+        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138937,
+      "name": "Vidas Pasadas",
+      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
     },
     {
       "album": {
@@ -20142,7 +20218,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"

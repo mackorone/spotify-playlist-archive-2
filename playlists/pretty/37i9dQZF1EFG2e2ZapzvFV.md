@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,553 likes - 182 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,551 likes - 182 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,15 +145,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 135 | [Downtown](https://open.spotify.com/track/5V56ok0zVMuNpHJPxRkjrJ) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:08 |
 | 136 | [Take Me All The Way](https://open.spotify.com/track/3w2sEZ2JEP4IIhzM3FWVVc) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Take Me All The Way](https://open.spotify.com/album/0YrOVtqaFrqeH4wipG4Edp) | 2:51 |
 | 137 | [Warm Hands](https://open.spotify.com/track/2oo231nFXaBANCMEIqTW1p) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:48 |
-| 138 | [Drunk & Angry](https://open.spotify.com/track/5ZYC2jmQrRoWrvDBRBTEPZ) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Rocking Horse](https://open.spotify.com/album/5ebQrOjkhiXZgFvqNQVfhW) | 4:25 |
-| 139 | [Ribbons of Light](https://open.spotify.com/track/1bcSfpjRBRdHiNClmtUTan) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:47 |
-| 140 | [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 |
+| 138 | [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 |
+| 139 | [Drunk & Angry](https://open.spotify.com/track/5ZYC2jmQrRoWrvDBRBTEPZ) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Rocking Horse](https://open.spotify.com/album/5ebQrOjkhiXZgFvqNQVfhW) | 4:25 |
+| 140 | [Ribbons of Light](https://open.spotify.com/track/1bcSfpjRBRdHiNClmtUTan) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:47 |
 | 141 | [Our Song](https://open.spotify.com/track/1t6loNOqI2kUDE74FDjE6f) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:51 |
 | 142 | [All for You](https://open.spotify.com/track/53VfHyJ5ka24B09kC10ye7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 4:51 |
-| 143 | [Jack](https://open.spotify.com/track/3UEu97qlpV46BamOF5KI02) | [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [No Romeo \(Deluxe\)](https://open.spotify.com/album/1DYZL9YG6FreyTy0uc0HvJ) | 3:28 |
-| 144 | [Zion](https://open.spotify.com/track/5FYJwbHkPk6Cb1u4eKZS3Z) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:49 |
-| 145 | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/track/7MICU4JkM1QzBDlt7gjv78) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/album/04jVIJ1KtHZzr8oNZa1go5) | 5:13 |
-| 146 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 143 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 144 | [Jack](https://open.spotify.com/track/3UEu97qlpV46BamOF5KI02) | [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [No Romeo \(Deluxe\)](https://open.spotify.com/album/1DYZL9YG6FreyTy0uc0HvJ) | 3:28 |
+| 145 | [Zion](https://open.spotify.com/track/5FYJwbHkPk6Cb1u4eKZS3Z) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:49 |
+| 146 | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/track/7MICU4JkM1QzBDlt7gjv78) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [All Hail the Serpent Queen Pt\. 3 of 3 \(Trilogy\) \[Holy Hell!\]](https://open.spotify.com/album/04jVIJ1KtHZzr8oNZa1go5) | 5:13 |
 | 147 | [Reminds Me Of You](https://open.spotify.com/track/2RTJW4LGOiz0pboM8LJWkp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Japanese Edition\)](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:14 |
 | 148 | [Loner](https://open.spotify.com/track/13zX3ZirV5BtAPfY7hxwPs) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 2:18 |
 | 149 | [Feed The Birds](https://open.spotify.com/track/2g2ILU6MO1wipY0uf0S0ZL) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:57 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 181 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 182 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AcWxtAAAAABXvWgcQRFccNfIRQZvY5nc`
+Snapshot ID: `AcW3VAAAAACcPfhsaGp8wgazucZHDAx1`

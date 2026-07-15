@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,311 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,323 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 14 | [Se..\. \(Ao Vivo\)](https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:47 |
 | 15 | [Tá perdoado](https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:47 |
 | 16 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 |
-| 17 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
-| 18 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
+| 17 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
+| 18 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 19 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
 | 20 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
 | 21 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 91 | [Romaria](https://open.spotify.com/track/5fzIFX2eZb1rWpVZtNqaoH) | [Geraldo Roca](https://open.spotify.com/artist/4yaPaG3Cs2A86d8p9mOARL), [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI) | [Romaria](https://open.spotify.com/album/5EHQLnxvoHKMdra4rttorN) | 4:42 |
 | 92 | [Alegria, Alegria \- Ao Vivo](https://open.spotify.com/track/2KfJwFYVUMCL9MO4G1wsPV) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Caetano e Bethânia Ao Vivo](https://open.spotify.com/album/0sTykt0Q7XBt2sQ9wu51j3) | 3:15 |
 | 93 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
-| 94 | [Não é um Bolero](https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw) | 4:21 |
-| 95 | [Construção](https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc) | 6:23 |
+| 94 | [Construção](https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc) | 6:23 |
+| 95 | [Não é um Bolero](https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw) | 4:21 |
 | 96 | [Brasil \- Ao Vivo no Coala Festival](https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [As Várias Pontas de uma Estrela \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1) | 3:38 |
 | 97 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
 | 98 | [A História de Lilly Braun \- Ao Vivo no Coala Festival](https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A História de Lilly Braun \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv) | 4:26 |

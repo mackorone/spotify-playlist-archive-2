@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33517,
+  "num_followers": 33539,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "SOMETHING DIFFERENT",
-        "url": "https://open.spotify.com/album/2DLFtkfpLL3nPxrgH5xDqu"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "SOMETHING DIFFERENT",
-      "url": "https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "what if i told you?",
         "url": "https://open.spotify.com/album/2dsICzIDzI5meqWD0sXVBx"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 182816,
       "name": "what if i told you?",
       "url": "https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "SOMETHING DIFFERENT",
+        "url": "https://open.spotify.com/album/2DLFtkfpLL3nPxrgH5xDqu"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "SOMETHING DIFFERENT",
+      "url": "https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "Messed Up Messenger",
+        "url": "https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "duration_ms": 197898,
+      "name": "Messed Up Messenger",
+      "url": "https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "Nothin' Sweeter",
         "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 184712,
       "name": "Like I Am Yours",
       "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
-        "name": "Messed Up Messenger",
-        "url": "https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj"
-      },
-      "artists": [
-        {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
-        }
-      ],
-      "duration_ms": 197898,
-      "name": "Messed Up Messenger",
-      "url": "https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "The Sacrifice",
-        "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        },
-        {
-          "name": "Brennan Storer",
-          "url": "https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8"
-        }
-      ],
-      "duration_ms": 228215,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "Don't Runaway",
         "url": "https://open.spotify.com/album/3LlsY3HphvGLJ5OIAygyrn"
       },
@@ -627,6 +607,26 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "The Sacrifice",
+        "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Brennan Storer",
+          "url": "https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8"
+        }
+      ],
+      "duration_ms": 228215,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "Woke Up",
         "url": "https://open.spotify.com/album/1Yfmg2d9nIcaeZNRjjJdzX"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Reclaiming My Life",
-        "url": "https://open.spotify.com/album/3jSAvxbIXfFGJLFgANIQOZ"
-      },
-      "artists": [
-        {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
-        }
-      ],
-      "duration_ms": 140168,
-      "name": "Reclaiming My Life",
-      "url": "https://open.spotify.com/track/6eCBo9z46siKjidtcm0dWR"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "One Day At A Time",
         "url": "https://open.spotify.com/album/4HNaIUAQzvzWyjEUlDRgN3"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 224992,
       "name": "One Day At A Time",
       "url": "https://open.spotify.com/track/3GztbZYcEJ4hNfqd0Fsx4d"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Reclaiming My Life",
+        "url": "https://open.spotify.com/album/3jSAvxbIXfFGJLFgANIQOZ"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "duration_ms": 140168,
+      "name": "Reclaiming My Life",
+      "url": "https://open.spotify.com/track/6eCBo9z46siKjidtcm0dWR"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "SEEK",
-        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "SEEK",
-      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "Praise The Lord (Sunday Prelude)",
         "url": "https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 191212,
       "name": "Praise The Lord (Sunday Prelude)",
       "url": "https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "SEEK",
+        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "SEEK",
+      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "Summer '24",
         "url": "https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 138947,
       "name": "Move",
       "url": "https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "backseat drive",
-        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 174650,
-      "name": "backseat drive",
-      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "How Good of God",
         "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
+        "name": "backseat drive",
+        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 174650,
+      "name": "backseat drive",
+      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
         "name": "OFFDAYS",
         "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Always Summertime",
-        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Always Summertime",
-      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 168096,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Always Summertime",
+        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Always Summertime",
+      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "wildfire",
-        "url": "https://open.spotify.com/album/4U3TSSiZ9NZEnXP2IkFCbz"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 161635,
-      "name": "wildfire",
-      "url": "https://open.spotify.com/track/4rYBBqMyM8dCdI9sad9FmO"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "Emmaus",
         "url": "https://open.spotify.com/album/4VQPtBO3Y1a1wy7d2gByMQ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 237257,
       "name": "Emmaus",
       "url": "https://open.spotify.com/track/1ZtVGvGRzpEHlEwEgLgyh0"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "wildfire",
+        "url": "https://open.spotify.com/album/4U3TSSiZ9NZEnXP2IkFCbz"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 161635,
+      "name": "wildfire",
+      "url": "https://open.spotify.com/track/4rYBBqMyM8dCdI9sad9FmO"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1303,22 +1303,22 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Making Ways",
-        "url": "https://open.spotify.com/album/4YkJDG3y5yVcQwE69IOohK"
+        "name": "Only One That Matters",
+        "url": "https://open.spotify.com/album/7HhahFU4VcDw0bQqsdK4qs"
       },
       "artists": [
         {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+          "name": "Ethan Beer",
+          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
         },
         {
-          "name": "Meeks Carter",
-          "url": "https://open.spotify.com/artist/1cuL1Q6C4uzrqXFOsnR4p7"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 204714,
-      "name": "Making Ways",
-      "url": "https://open.spotify.com/track/2tjFSBUk4ccqRjbmCJwkuF"
+      "duration_ms": 164200,
+      "name": "Only One That Matters",
+      "url": "https://open.spotify.com/track/0NaFnPszXIlEyXLrWcuKo3"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1335,6 +1335,26 @@
       "duration_ms": 249750,
       "name": "FOOTSTOOL",
       "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Making Ways",
+        "url": "https://open.spotify.com/album/4YkJDG3y5yVcQwE69IOohK"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        },
+        {
+          "name": "Meeks Carter",
+          "url": "https://open.spotify.com/artist/1cuL1Q6C4uzrqXFOsnR4p7"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Making Ways",
+      "url": "https://open.spotify.com/track/2tjFSBUk4ccqRjbmCJwkuF"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1367,26 +1387,6 @@
       "duration_ms": 160468,
       "name": "Eva Comin' Down",
       "url": "https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
-        "name": "Only One That Matters",
-        "url": "https://open.spotify.com/album/7HhahFU4VcDw0bQqsdK4qs"
-      },
-      "artists": [
-        {
-          "name": "Ethan Beer",
-          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Only One That Matters",
-      "url": "https://open.spotify.com/track/0NaFnPszXIlEyXLrWcuKo3"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Abacus",
-        "url": "https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 123888,
-      "name": "Abacus",
-      "url": "https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "God Must Be Smiling On Me",
         "url": "https://open.spotify.com/album/30bQKLeJpgIXBu9DfWQ78d"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 175809,
       "name": "God Must Be Smiling On Me",
       "url": "https://open.spotify.com/track/1lFHxOLEmI9NoXnUXQW2IS"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Abacus",
+        "url": "https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 123888,
+      "name": "Abacus",
+      "url": "https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju"
     },
     {
       "added_at": "2026-07-11 04:17:10",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-07-11 04:17:10",
       "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
-    },
-    {
-      "added_at": "2026-07-11 04:17:10",
-      "album": {
         "name": "SUNSHINE",
         "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 187073,
       "name": "SUNSHINE",
       "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
+    },
+    {
+      "added_at": "2026-07-11 04:17:10",
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
     },
     {
       "added_at": "2026-07-11 04:17:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991,681 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991,587 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 67 | [Friction](https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Friction](https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76) | 3:29 |
 | 68 | [St\. Augustine](https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [St\. Augustine](https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA) | 3:30 |
 | 69 | [I Tried](https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [I Tried](https://open.spotify.com/album/0m6Rqk4Dgy7D8XEvTbrVuZ) | 4:26 |
-| 70 | [Greenline](https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Catacombs](https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N) | 2:52 |
-| 71 | [Coming up Close](https://open.spotify.com/track/2qE6zpGRhpSYPjVla2bhnw) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Lexington EP](https://open.spotify.com/album/4XaCFbFKLxaya4w25CCexy) | 4:22 |
+| 70 | [Coming up Close](https://open.spotify.com/track/2qE6zpGRhpSYPjVla2bhnw) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Lexington EP](https://open.spotify.com/album/4XaCFbFKLxaya4w25CCexy) | 4:22 |
+| 71 | [Greenline](https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Catacombs](https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N) | 2:52 |
 | 72 | [Man Overboard](https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Man Overboard](https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z) | 2:56 |
 | 73 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
 | 74 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 96 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 |
 | 97 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
 | 98 | [Shame](https://open.spotify.com/track/66zVzafJU6HTogOQeeNv5y) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM) | 4:11 |
-| 99 | [Carry You](https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Carry You](https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb) | 4:33 |
-| 100 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 |
+| 99 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 |
+| 100 | [Carry You](https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Carry You](https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb) | 4:33 |
 
 Snapshot ID: `AAAAANEYcnAmsGIjN312H7N/63mdq9VF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,317 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,290 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 67 | [The Love Still Held Me Near](https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:23 |
 | 68 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 | 69 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
-| 70 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
-| 71 | [Sunset Canyon](https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV) | [Foxwarren](https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp) | 4:20 |
+| 70 | [Sunset Canyon](https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV) | [Foxwarren](https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp) | 4:20 |
+| 71 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 72 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 73 | [I'm Ready](https://open.spotify.com/track/7oO94Tv1jcfpn1NZXolLJU) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 3:59 |
 | 74 | [Miles Away](https://open.spotify.com/track/1HNVN5FDyLkwPyC7RJKPnV) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [See Here, I Have Built You a Mansion \(Rare and Unreleased\)](https://open.spotify.com/album/252NtCT6AXklf3RywgcDTB) | 3:53 |
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 83 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
 | 84 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 85 | [Jara](https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:09 |
-| 86 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 |
-| 87 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
-| 88 | [Lost Track](https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE) | 2:22 |
-| 89 | [Road Trippin'](https://open.spotify.com/track/5LiVFwvlEeqMlCei96JkR3) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Road Trippin'](https://open.spotify.com/album/1GwMpo5f1BhiVvnWO9i0ys) | 5:18 |
-| 90 | [Rolling Sea](https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 5:18 |
-| 91 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
+| 86 | [Road Trippin'](https://open.spotify.com/track/5LiVFwvlEeqMlCei96JkR3) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Road Trippin'](https://open.spotify.com/album/1GwMpo5f1BhiVvnWO9i0ys) | 5:18 |
+| 87 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 |
+| 88 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
+| 89 | [Lost Track](https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE) | 2:22 |
+| 90 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
+| 91 | [Rolling Sea](https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 5:18 |
 | 92 | [The Cure](https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Brother Sister](https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL) | 3:57 |
 | 93 | [It’s a good day \(to fight the system\) \- feat\. Joy Oladokun](https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It’s a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF) | 3:17 |
 | 94 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |

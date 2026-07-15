@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95328,
+  "num_followers": 95339,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Brother Joe",
-        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Brother Joe",
-      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Black on Black",
         "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193671,
       "name": "Highway Will",
       "url": "https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Brother Joe",
+        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Brother Joe",
+      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Heartless Year",
         "url": "https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 235519,
       "name": "Heartless Year",
       "url": "https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Natchez",
-        "url": "https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4"
+        "name": "Truth And Lies",
+        "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
       },
       "artists": [
         {
-          "name": "Bishop Gunn",
-          "url": "https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm"
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
         }
       ],
-      "duration_ms": 214293,
-      "name": "Alabama",
-      "url": "https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP"
+      "duration_ms": 178786,
+      "name": "On To The Next",
+      "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"
     }
   ],
   "unique_name": "Southern Comfort",

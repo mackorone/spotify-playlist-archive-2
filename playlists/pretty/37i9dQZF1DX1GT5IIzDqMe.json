@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 104307,
+  "num_followers": 104315,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 387371,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
-      },
-      "artists": [
-        {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Feel It / Circus Act",
         "url": "https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 458302,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
+      },
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
     },
     {
       "added_at": "2025-08-29 04:00:36",

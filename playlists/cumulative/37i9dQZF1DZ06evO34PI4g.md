@@ -4,7 +4,7 @@
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 25 min
+46 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Chic 'N' Stu](https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:23 | 2022-05-30 |  |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2022-05-30 |  |
 | [Cigaro](https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 2:11 | 2022-05-30 |  |
+| [Darts](https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe\)](https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb) | 2:42 | 2026-07-15 |  |
 | [Deer Dance](https://open.spotify.com/track/2SpGXD7EbexndFmmThrnsy) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 2:54 | 2022-10-12 |  |
 | [Forest](https://open.spotify.com/track/1B5Y9I5wPfvD3C2A81A36C) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 4:00 | 2025-09-10 | 2025-09-11 |
 | [Fuck the System](https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:12 | 2022-05-30 |  |

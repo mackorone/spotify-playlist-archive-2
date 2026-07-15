@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
-  "num_followers": 143832,
+  "num_followers": 143835,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "Esa Nena",
-        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
-      },
-      "artists": [
-        {
-          "name": "Dejota2021",
-          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Esa Nena",
-      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "El Lugar M\u00e1s Feliz Del Mundo",
         "url": "https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 193786,
       "name": "El Lugar M\u00e1s Feliz Del Mundo",
       "url": "https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
+      },
+      "artists": [
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
     },
     {
       "added_at": "2026-06-26 04:01:41",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
+        "name": "Tiempo Al Tiempo (feat. Goyo)",
+        "url": "https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 167647,
+      "name": "Tiempo Al Tiempo (feat. Goyo)",
+      "url": "https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
         "name": "La Liga Femenina",
         "url": "https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 173478,
       "name": "Coco Loco",
       "url": "https://open.spotify.com/track/5LouRP1pMKrgPuiJJiW75G"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
-        "name": "Tiempo Al Tiempo (feat. Goyo)",
-        "url": "https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 167647,
-      "name": "Tiempo Al Tiempo (feat. Goyo)",
-      "url": "https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU"
     }
   ],
   "unique_name": "Afro Ritmo",

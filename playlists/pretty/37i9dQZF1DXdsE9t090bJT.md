@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,646 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,685 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 9 | [Morena](https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:13 |
 | 10 | [Luna de Miel](https://open.spotify.com/track/5axajboxCw101fMlC7U8Lp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Luna de Miel](https://open.spotify.com/album/6AYXDaMyg9gsrWByz7Vtu6) | 3:32 |
 | 11 | [SUIZA](https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 1:54 |
-| 12 | [POR SUS BESOS](https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [POR SUS BESOS](https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI) | 3:06 |
+| 12 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 |
 | 13 | [Pa Que Me Enamoraste \- Remix](https://open.spotify.com/track/2S2zGH6GD0MRn0sgnk2hTu) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estilo Bropza \(Deluxe\)](https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws) | 2:59 |
-| 14 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 |
+| 14 | [POR SUS BESOS](https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [POR SUS BESOS](https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI) | 3:06 |
 | 15 | [Sombrero en Alto](https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca) | [Ximena ramos](https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD) | [Sombrero en Alto](https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb) | 2:41 |
 | 16 | [Madonna](https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Madonna](https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd) | 3:07 |
 | 17 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 |

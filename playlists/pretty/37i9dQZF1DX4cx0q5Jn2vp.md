@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > <3<3<3<3
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,901 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,854 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 | 39 | [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 |
 | 40 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
 
-Snapshot ID: `AAAAAKiOs8uEsoPK2MSpRnvk+fsJ8Hfz`
+Snapshot ID: `AAAAAFBVA+xHc1NAfed+rS3QPuFcL3c0`

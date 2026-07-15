@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,308 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,341 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |
 | 41 | [Climb to Safety](https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Til the Medicine Takes](https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z) | 4:41 |
 | 42 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
-| 43 | [Whipping Post](https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 5:17 |
-| 44 | [Pretty Little Lie](https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:34 |
+| 43 | [Pretty Little Lie](https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:34 |
+| 44 | [Whipping Post](https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 5:17 |
 | 45 | [Green Grass & High Tides \- Remastered](https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Best Of...Green Grass & High Tides](https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd) | 9:46 |
 | 46 | [Bounty Hunter](https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 2:57 |
 | 47 | [Oh, Atlanta](https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 3:29 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 93 | [Refried Funky Chicken](https://open.spotify.com/track/1zmoz57QRPXJUJBQOicp0U) | [Dixie Dregs](https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 3:17 |
 | 94 | [Travelin' Shoes](https://open.spotify.com/track/156F2CPm7xEokUNSg4CLh4) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 7:16 |
 | 95 | [Heard It in a Love Song](https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Where a Country Boy Belongs](https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1) | 4:55 |
-| 96 | [Jessica \- Unedited Version](https://open.spotify.com/track/7kl337nuuTTVcXJiQqBgwJ) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Deluxe Edition\)](https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj) | 7:31 |
+| 96 | [One Way Out](https://open.spotify.com/track/5cIrR2h1BF0VuFgAmgeJpR) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach](https://open.spotify.com/album/3GMfHP49EkBLBQrxaZaNi6) | 4:58 |
 | 97 | [Soulshine](https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR) | 7:47 |
 | 98 | [Midnight Rider](https://open.spotify.com/track/2I2Z3BMH3wjVVxNHcJG0kO) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back](https://open.spotify.com/album/5F7PzrH7DqZg1LunR0zL23) | 4:28 |
 | 99 | [Duane's Tune](https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Dickey Betts Band: Live At The Lone Star Roadhouse](https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny) | 6:36 |

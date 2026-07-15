@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer kann kommen 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584,012 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584,237 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 56 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 |
 | 57 | [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 |
 | 58 | [SHOOK](https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [SHOOK](https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ) | 3:03 |
-| 59 | [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 |
-| 60 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 |
-| 61 | [Goldrichtig](https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Goldrichtig](https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5) | 2:18 |
-| 62 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
-| 63 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 |
-| 64 | [gimme luv <3](https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [gimme luv <3](https://open.spotify.com/album/53ihPT5MZWX8CX317eTSNe) | 3:00 |
+| 59 | [Goldrichtig](https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Goldrichtig](https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5) | 2:18 |
+| 60 | [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 |
+| 61 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 |
+| 62 | [gimme luv <3](https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [gimme luv <3](https://open.spotify.com/album/53ihPT5MZWX8CX317eTSNe) | 3:00 |
+| 63 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
+| 64 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 |
 | 65 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 66 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
 | 67 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 |

@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 747086,
+  "num_followers": 747091,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Resenha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 182417,
+      "name": "Quase - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Ao Cubo, Ao Vivo, Em Cores",
         "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 184107,
       "name": "50 Vezes - Ao Vivo",
       "url": "https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Resenha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
-        }
-      ],
-      "duration_ms": 182417,
-      "name": "Quase - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
     },
     {
       "added_at": "2025-11-07 18:47:10",

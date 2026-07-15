@@ -258,7 +258,7 @@
 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 | 2026-02-03 |  |
 | [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 | 2026-06-22 |  |
 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 | 2021-12-17 | 2026-02-04 |
-| [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 | 2026-06-22 |  |
+| [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 | 2026-06-22 |  |
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

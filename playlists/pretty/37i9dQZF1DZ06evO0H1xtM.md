@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,774 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,823 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 46 | [Zutano](https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Mismo De La Vida Ruina](https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J) | 3:20 |
 | 47 | [Niña Bien \(SLS\-007\)](https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw) | [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Niña Bien \(SLS\-007\)](https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa) | 2:13 |
 | 48 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan) | 3:46 |
-| 49 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw) | 1:50 |
-| 50 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
+| 49 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
+| 50 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw) | 1:50 |
 
-Snapshot ID: `alLZAAAAAADVssi04kRYkfjn7IyR0Djy`
+Snapshot ID: `alQqgAAAAACgyriUXYd5obtkLjoUTeGt`

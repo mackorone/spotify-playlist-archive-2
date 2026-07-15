@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,612 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,610 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 21 | [Blue](https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC) | [Famous Friend](https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L) | [Blue](https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum) | 2:34 |
 | 22 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
 | 23 | [Fish on the Sand](https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish on the Sand](https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ) | 3:38 |
-| 24 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
-| 25 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
+| 24 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
+| 25 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
 | 26 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
 | 27 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |
 | 28 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 55 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 | 56 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
 | 57 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
-| 58 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
-| 59 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
+| 58 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
+| 59 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
 | 60 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 61 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:35 |
 | 62 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 69 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
 | 70 | [Stargazer](https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Stargazer](https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID) | 3:02 |
 | 71 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
-| 72 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 |
-| 73 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
+| 72 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
+| 73 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 |
 | 74 | [The Beach](https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [The Beach](https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY) | 3:15 |
-| 75 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
+| 75 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 
 Snapshot ID: `AAAAAPECEQGq6yTVQ+ySz6ilNJUx9HLU`

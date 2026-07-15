@@ -2,7 +2,7 @@
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Dive into the best House Music &amp; Electronic Dance hits\. Featuring energetic beats from David Guetta, Calvin Harris, &amp; Fisher\. Perfect for parties, workouts, or feel\-good vibes\. Updated Weekly! Like &amp; Save for your next groove.
+> Dive into the best House Music 2026! 🚀 Your ultimate Electronic Dance playlist featuring Fred Again.., Calvin Harris, Disclosure, and fresh sounds from Eliza Rose, SG Lewis\. Perfect for parties, workouts, or just vibing out\. Updated Weekly – Like &amp; Save for endless good times!
 
 558 songs - 1 day 4 hr 5 min
 
@@ -555,7 +555,7 @@
 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 | 2025-05-09 | 2025-11-22 |
 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 | 2024-10-11 | 2024-11-09 |
 | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/03w0lRrN7fzXyITv0ytl1Y) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Whitcomb vs\. Flores](https://open.spotify.com/album/2vb19WvLlPGC53cSSLSKdD) | 2:36 | 2026-05-22 | 2026-06-13 |
-| [Would U Still Love Me \(feat\. Cameron Whitcomb\) \- VIP](https://open.spotify.com/track/0Pbten8NbqYu33F8MIcANC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\) \- VIP](https://open.spotify.com/album/3rFJsvbc9D6kKFE5vibqft) | 2:14 | 2026-06-12 |  |
+| [Would U Still Love Me \- VIP](https://open.spotify.com/track/0Pbten8NbqYu33F8MIcANC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\) \- VIP](https://open.spotify.com/album/3rFJsvbc9D6kKFE5vibqft) | 2:14 | 2026-06-12 |  |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-11-03 | 2024-02-10 |
 | [Wrong For Me](https://open.spotify.com/track/1lSDRaA8wcru8fYC8QAMmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Wrong For Me](https://open.spotify.com/album/6kJpok0ZOZ2sMbGUJgOswC) | 3:25 | 2025-02-14 |  |
 | [Yo No Lo Sé](https://open.spotify.com/track/5ihq4qbjaO2r5Ga9aGlsMj) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Yo No Lo Sé](https://open.spotify.com/album/5DGZd2w7qvd8u9OxPuyIa1) | 2:44 | 2026-03-27 | 2026-04-11 |

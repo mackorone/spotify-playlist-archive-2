@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Bokang Ramatlapeng",
-  "num_followers": 14181,
+  "num_followers": 14185,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
-        "name": "A Dance More Sweetly Played",
-        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
-      },
-      "artists": [
-        {
-          "name": "Kyle Shepherd Trio",
-          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
-        }
-      ],
-      "duration_ms": 384853,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
         "name": "Reawakening",
         "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 449112,
       "name": "A Fallist's Prayer",
       "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
+        "name": "A Dance More Sweetly Played",
+        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
+      },
+      "artists": [
+        {
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
+        }
+      ],
+      "duration_ms": 384853,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
     },
     {
       "added_at": "2026-07-09 22:01:46",
@@ -631,38 +631,6 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
-        "name": "The Waters",
-        "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
-      },
-      "artists": [
-        {
-          "name": "Bokang Ramatlapeng",
-          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
-        }
-      ],
-      "duration_ms": 302022,
-      "name": "The Waters",
-      "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
         "name": "The Crossover II",
         "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 129998,
       "name": "Brunch In Harlem",
       "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
+        "name": "The Waters",
+        "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
+      },
+      "artists": [
+        {
+          "name": "Bokang Ramatlapeng",
+          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+        }
+      ],
+      "duration_ms": 302022,
+      "name": "The Waters",
+      "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
     },
     {
       "added_at": "2026-07-09 22:01:46",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-07-09 22:01:46",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
         "name": "Born Coloured, not Born-Free",
         "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
       },
@@ -863,38 +879,6 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
-        "name": "A Semblance: Of Return",
-        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 393781,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
-        "name": "MaBrrrrrrrrr",
-        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 296678,
-      "name": "MaBrrrrrrrrr",
-      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
         "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
         "url": "https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
+        "name": "A Semblance: Of Return",
+        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 393781,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
         "name": "P (x) J",
         "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
-      },
-      "artists": [
-        {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
-        }
-      ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
         "name": "ISIGQI (live at the bird's eye)",
         "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
       },
@@ -967,6 +951,62 @@
       "duration_ms": 440654,
       "name": "Kwandebele (Live)",
       "url": "https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Journey of Gratitude",
+      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
+        "name": "People of the South",
+        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
+      },
+      "artists": [
+        {
+          "name": "Viwe Mkizwana Ensemble",
+          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        },
+        {
+          "name": "Marcus Wyatt",
+          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "People of the South",
+      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
+    },
+    {
+      "added_at": "2026-07-09 22:01:46",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
+      },
+      "artists": [
+        {
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
+        }
+      ],
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2026-07-09 22:01:46",
@@ -999,18 +1039,22 @@
     {
       "added_at": "2026-07-09 22:01:46",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+        "name": "Apho Kungenje",
+        "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
       },
       "artists": [
         {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+          "name": "Ncesh Nonxishi",
+          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
+        },
+        {
+          "name": "Mthunzikazi Mbungwana",
+          "url": "https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo"
         }
       ],
-      "duration_ms": 349750,
-      "name": "Journey of Gratitude",
-      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
+      "duration_ms": 413906,
+      "name": "Ebhedini",
+      "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
     },
     {
       "added_at": "2026-07-09 22:01:46",
@@ -1035,46 +1079,6 @@
       "duration_ms": 416493,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
-        "name": "A Semblance: Of Return",
-        "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Following Up",
-      "url": "https://open.spotify.com/track/5Z312xZuhpbvSHJEBpmcPJ"
-    },
-    {
-      "added_at": "2026-07-09 22:01:46",
-      "album": {
-        "name": "People of the South",
-        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
-      },
-      "artists": [
-        {
-          "name": "Viwe Mkizwana Ensemble",
-          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
-        },
-        {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
-        },
-        {
-          "name": "Marcus Wyatt",
-          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
-        }
-      ],
-      "duration_ms": 345520,
-      "name": "People of the South",
-      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
     }
   ],
   "unique_name": "Jazz NEXT",

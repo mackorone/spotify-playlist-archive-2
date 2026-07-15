@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ A curated space for the avant\-garde + und3rground⋆ ˚₊‧⁺ Cover: Zeds Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,546 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,564 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 |
-| 2 | [heart](https://open.spotify.com/track/0bdwem7sj4TeYcPslXwcSK) | [fyl](https://open.spotify.com/artist/40VJ0ejUdeu8sKeW6cR38T) | [heart](https://open.spotify.com/album/3ZyKNyzOfetlbsI4a31nXb) | 2:58 |
-| 3 | [God](https://open.spotify.com/track/678p2xQ2SXuCunDfp9KiPB) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN), [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY) | [Vicious Circles](https://open.spotify.com/album/2h2JIweAbTJosHzw5gwuqW) | 2:54 |
+| 1 | [God](https://open.spotify.com/track/678p2xQ2SXuCunDfp9KiPB) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN), [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY) | [Vicious Circles](https://open.spotify.com/album/2h2JIweAbTJosHzw5gwuqW) | 2:54 |
+| 2 | [Obsessed](https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Obsessed](https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp) | 3:46 |
+| 3 | [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 |
 | 4 | [Recognize](https://open.spotify.com/track/49IkGvXySNA06i62cIDNyB) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn) | [Recognize](https://open.spotify.com/album/5V9iuse1FejoG8LnPIfCfE) | 2:46 |
-| 5 | [Fallin Down](https://open.spotify.com/track/3PGrYgvKnONZMeKU3oIP1a) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Return \(of the Spectrum of Intergalactic Happiness\)](https://open.spotify.com/album/2suK6AyM6XGaWHo9hHqiMz) | 2:25 |
-| 6 | [Obsessed](https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Obsessed](https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp) | 3:46 |
-| 7 | [Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/4ACJpfaytioiyHOYD0H575) | 3:36 |
-| 8 | [higher! higher! \(for Paul\)](https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [higher! higher! \(for Paul\)](https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ) | 2:48 |
-| 9 | [WITH ME](https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz) | [Paris Prestige](https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj) | [WITH ME](https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk) | 1:59 |
-| 10 | [help, im still falling](https://open.spotify.com/track/2wRzkt3aewjpSeudZ7n2R3) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [help, im still falling](https://open.spotify.com/album/7asLU164NaILgnXfewdEXY) | 1:46 |
+| 5 | [help, im still falling](https://open.spotify.com/track/2wRzkt3aewjpSeudZ7n2R3) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [help, im still falling](https://open.spotify.com/album/7asLU164NaILgnXfewdEXY) | 1:46 |
+| 6 | [heart](https://open.spotify.com/track/0bdwem7sj4TeYcPslXwcSK) | [fyl](https://open.spotify.com/artist/40VJ0ejUdeu8sKeW6cR38T) | [heart](https://open.spotify.com/album/3ZyKNyzOfetlbsI4a31nXb) | 2:58 |
+| 7 | [Fallin Down](https://open.spotify.com/track/3PGrYgvKnONZMeKU3oIP1a) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Return \(of the Spectrum of Intergalactic Happiness\)](https://open.spotify.com/album/2suK6AyM6XGaWHo9hHqiMz) | 2:25 |
+| 8 | [Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/4ACJpfaytioiyHOYD0H575) | 3:36 |
+| 9 | [higher! higher! \(for Paul\)](https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [higher! higher! \(for Paul\)](https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ) | 2:48 |
+| 10 | [WITH ME](https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz) | [Paris Prestige](https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj) | [WITH ME](https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk) | 1:59 |
 | 11 | [Sniffles \(The Bump Dub\)](https://open.spotify.com/track/0HiSLKG0lUvAUo6gYojUXP) | [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW) | [Sniffles](https://open.spotify.com/album/4iDDDuiYyYFj55tRySv6Ii) | 3:23 |
 | 12 | [TAKA LA DENTRO](https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr) | [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [TAKA LA DENTRO](https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE) | 1:29 |
 | 13 | [DEAD INSIDE](https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [DEAD INSIDE](https://open.spotify.com/album/1cONkdKIoUVz9lE6TLChbw) | 2:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 74 | [Sparrow](https://open.spotify.com/track/4ck7dIyfyrP4K0bcHvkoeW) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Sparrow](https://open.spotify.com/album/7IGZVgJeLeXVqFRtPDSDK8) | 3:58 |
 | 75 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 
-Snapshot ID: `AAAAAElxV9Nrkx/RtY9kPdNkz4XG865b`
+Snapshot ID: `AAAAAKgIU3cZpw8UtF/TNHnAeUCKqF+J`

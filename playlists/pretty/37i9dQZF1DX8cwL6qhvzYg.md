@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,024 likes - 125 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,093 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 30 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 |
 | 31 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 32 | [La nena](https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:54 |
-| 33 | [Báilame](https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Báilame](https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1) | 2:59 |
-| 34 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
+| 33 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
+| 34 | [Báilame](https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Báilame](https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1) | 2:59 |
 | 35 | [¿Dónde Estarás?](https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 3:51 |
 | 36 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 |
 | 37 | [Calidad](https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w) | 2:50 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 64 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 |
 | 65 | [El Negro José](https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2) | [El Combo Palacio](https://open.spotify.com/artist/3aBcVktPy5mssT2slj5kC7), [Los Virtuosos De La Salsa](https://open.spotify.com/artist/1q9QXB3clbcfukhyR5aLub) | [Nuevamente! Salsas y Cumbias](https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ) | 4:12 |
 | 66 | [Sera El Amor](https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Desde Estacion Corral Hasta Los Hornos Sonora](https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww) | 2:50 |
-| 67 | [Adicto a Tu Piel \(Rebajada\)](https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Adicto a Tu Piel \(Rebajada\)](https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE) | 4:03 |
-| 68 | [Medley Apache \(En Vivo\)](https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 11:49 |
+| 67 | [Medley Apache \(En Vivo\)](https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 11:49 |
+| 68 | [Adicto a Tu Piel \(Rebajada\)](https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Adicto a Tu Piel \(Rebajada\)](https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE) | 4:03 |
 | 69 | [Mi Buen Corazon](https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi) | [Orquesta La Unica](https://open.spotify.com/artist/6SUAzFL6tfEFWtGRoO25YO) | [Mi Buen Corazon](https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ) | 3:51 |
 | 70 | [Vuelve Mi Amor](https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0) | [Vuelve Mi Amor](https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7) | 5:00 |
 | 71 | [Achilipú](https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Sin Salsa No Hay Paraíso](https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l) | 4:41 |
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 118 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
 | 119 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 |
 | 120 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
-| 121 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 |
-| 122 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
-| 123 | [Corazon de Acero](https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Corazon de Acero](https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo) | 3:45 |
-| 124 | [El Niño](https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [El Niño](https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1) | 4:54 |
-| 125 | [La Mujer del Pelotero](https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Llegó Papá](https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv) | 3:18 |
+| 121 | [El Niño](https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [El Niño](https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1) | 4:54 |
+| 122 | [Corazon de Acero](https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Corazon de Acero](https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo) | 3:45 |
+| 123 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 |
+| 124 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
+| 125 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 |
 
 Snapshot ID: `AAAAAHAGRMVQ0//p29MRoXpmHqlWhOKG`

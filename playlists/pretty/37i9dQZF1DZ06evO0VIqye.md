@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,456 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,454 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 30 | [The French Song](https://open.spotify.com/track/21GN0Gln1ZJyOFZujCOt7C) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas) | 3:34 |
 | 31 | [Love Me Two Times](https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 3:06 |
 | 32 | [Wooly Bully](https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 2:20 |
-| 33 | [Change the World](https://open.spotify.com/track/5bm9z5HyUXJPpnUzg2Kdzi) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc) | 3:07 |
-| 34 | [Season of the Witch \(From the Netflix Series The Sons of Sam: A Descent Into Darkness\)](https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Season of the Witch \(From the Netflix Series The Sons of Sam: A Descent Into Darkness\)](https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl) | 5:02 |
+| 33 | [Season of the Witch \(From the Netflix Series The Sons of Sam: A Descent Into Darkness\)](https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Season of the Witch \(From the Netflix Series The Sons of Sam: A Descent Into Darkness\)](https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl) | 5:02 |
+| 34 | [Change the World](https://open.spotify.com/track/5bm9z5HyUXJPpnUzg2Kdzi) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc) | 3:07 |
 | 35 | [Rebel, Rebel](https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL) | 4:10 |
 | 36 | [Let's Do It \- O.S.T.](https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Tank Girl Soundtrack](https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7) | 2:23 |
 | 37 | [You Don't Know What You've Got](https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 3:43 |
 | 38 | [Tush](https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 2:21 |
 | 39 | [Activity Grrrl](https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL) | 3:35 |
 | 40 | [Good Music](https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D) | 5:45 |
-| 41 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
-| 42 | [I Love Playin' With Fire](https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas) | 3:02 |
+| 41 | [I Love Playin' With Fire](https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas) | 3:02 |
+| 42 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
 | 43 | [Long Time \(Acoustic\)](https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Changeup \(Acoustic\)](https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT) | 2:51 |
 | 44 | [Fun, Fun, Fun](https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D) | 2:19 |
 | 45 | [Two Shots](https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Encore](https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 49 | [I Love You Love Me Love](https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF) | 3:19 |
 | 50 | [Tulane](https://open.spotify.com/track/7eHhkn6a1MTFKw4NkY3V61) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa) | 2:53 |
 
-Snapshot ID: `alLZAAAAAAAK46+aepc+TgR6VZ3++0ji`
+Snapshot ID: `alQqgAAAAADfgqTD4BJ9mfEo3B9m4Txh`

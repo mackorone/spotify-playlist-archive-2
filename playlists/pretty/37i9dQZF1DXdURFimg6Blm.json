@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1483050,
+  "num_followers": 1483133,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 219785,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
-    },
-    {
-      "added_at": "2026-07-03 04:02:10",
-      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 129302,
       "name": "Push It",
       "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
+    },
+    {
+      "added_at": "2026-07-03 04:02:10",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 219785,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
     },
     {
       "added_at": "2026-07-03 04:02:10",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
-        "name": "HBU",
-        "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 248391,
-      "name": "HBU",
-      "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
-    },
-    {
-      "added_at": "2026-07-03 04:02:10",
-      "album": {
         "name": "Don't Wanna Go Home (feat. Henry Camamile)",
         "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 157717,
       "name": "Don't Wanna Go Home (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
+    },
+    {
+      "added_at": "2026-07-03 04:02:10",
+      "album": {
+        "name": "HBU",
+        "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 248391,
+      "name": "HBU",
+      "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
     },
     {
       "added_at": "2026-07-03 04:02:10",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-07-03 04:02:10",
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 169105,
+      "name": "Testo Skin Part 1",
+      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
+    },
+    {
+      "added_at": "2026-07-03 04:02:10",
+      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/1m7XvswwabGbeR72Lsbyeh"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 201379,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
-    },
-    {
-      "added_at": "2026-07-03 04:02:10",
-      "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 169105,
-      "name": "Testo Skin Part 1",
-      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
     },
     {
       "added_at": "2026-07-03 04:02:10",

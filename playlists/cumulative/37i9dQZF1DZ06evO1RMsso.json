@@ -300,10 +300,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 144589,
       "name": "empathy\u2026",
       "url": "https://open.spotify.com/track/1MTGaIAQ1SsxZEDuB15sjL"
+    },
+    {
+      "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/10dA8ziqSpYaeeqLGEGKmr"
     },
     {
       "album": {
@@ -562,7 +580,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 169786,
       "name": "in vivo\u2026",
       "url": "https://open.spotify.com/track/5Qbb6ab75jdCVAmm2Q51RS"
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 264293,
       "name": "Theme from Superman - Concert Version",
       "url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ"

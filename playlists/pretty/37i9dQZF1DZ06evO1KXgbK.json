@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255908,
+  "num_followers": 255912,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAD7DMUWSQkx+dsOhCYOwkOs",
+  "snapshot_id": "alQqgAAAAAAX2dQdbTs3tcFYKFplBZ7c",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 184136,
       "name": "Please Please Please (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
       },
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Like a Butterfly",
-        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 143398,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 213653,
       "name": "God Only Knows (with Dolly Parton)",
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Like a Butterfly",
+        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 143398,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rockstar (Deluxe)",
+        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 339322,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rockstar (Deluxe)",
-        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 339322,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Blue Ridge Mountain Boy",
+        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "In the Ghetto",
+      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 138093,
       "name": "Lovesick Blues (with Patsy Cline)",
       "url": "https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Blue Ridge Mountain Boy",
-        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "In the Ghetto",
-      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
     },
     {
       "added_at": null,

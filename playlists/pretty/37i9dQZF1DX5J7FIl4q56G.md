@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,850 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,866 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 91 | [Moon](https://open.spotify.com/track/6ZIH0zSf83nqyuIQbzE1nq) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Moon](https://open.spotify.com/album/0xzO3jyTptsZrDuQnYeH4E) | 4:09 |
 | 92 | [if thoughts could kill i'd be dead by now](https://open.spotify.com/track/47M4YE7nE63xaVOIxjlvnt) | [EVERBLOOM](https://open.spotify.com/artist/2sx3Hd5b5ngatbPEuW0BXL), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [if thoughts could kill i'd be dead by now](https://open.spotify.com/album/4NTuShmtYi2pW2H8TtJiWJ) | 3:27 |
 | 93 | [HATE ME \(LIKE I DO\)](https://open.spotify.com/track/5CdMuNv3jy5uOFuZY7p4HA) | [I C RED](https://open.spotify.com/artist/4F0Z3r3at52vlEiUZCVrpl) | [HATE ME \(LIKE I DO\)](https://open.spotify.com/album/7cge0tf9NAAwYRwx40FDFX) | 4:03 |
-| 94 | [Mür](https://open.spotify.com/track/7MYXGOROb30lXyLq0I0w0b) | [Mawiza](https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt), [Mira Ceti](https://open.spotify.com/artist/7zXMLWY3uP77X7TN1EBsK4), [Danefae](https://open.spotify.com/artist/4WVVyOLomZoDlm0YEPE52y) | [Mür](https://open.spotify.com/album/2Z14sjmHTWMa2Zvp3YTBkX) | 5:27 |
+| 94 | [Mür](https://open.spotify.com/track/7MYXGOROb30lXyLq0I0w0b) | [Mawiza](https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt), [Danefae](https://open.spotify.com/artist/4WVVyOLomZoDlm0YEPE52y), [Mira Ceti](https://open.spotify.com/artist/7zXMLWY3uP77X7TN1EBsK4) | [Mür](https://open.spotify.com/album/2Z14sjmHTWMa2Zvp3YTBkX) | 5:27 |
 | 95 | [Disciple](https://open.spotify.com/track/5xTVcWdIHch135dS11UfR9) | [Junius](https://open.spotify.com/artist/2gx1v14c65YQU4p7ODeE9z) | [Sotera](https://open.spotify.com/album/4yrW9J7G6B6JZPORyaCWtJ) | 4:46 |
 | 96 | [The One](https://open.spotify.com/track/3C85IcvtuKrRn41YhUFD1T) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [The One](https://open.spotify.com/album/7En865AqvqyofQsMGJ9D0M) | 3:12 |
 | 97 | [No Blade of Grass](https://open.spotify.com/track/5z9Ly0UkdqsY61vAZQxcGE) | [Psycroptic](https://open.spotify.com/artist/2O8ZayBAqBqoXujSAAx7pm) | [No Blade of Grass](https://open.spotify.com/album/3DARYSoZP8ELSFdPFvWcLA) | 3:24 |

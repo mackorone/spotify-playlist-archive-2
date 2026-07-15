@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,887 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,900 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 28 | [Sekali Ini Saja](https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx) | 3:55 |
 | 29 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 |
 | 30 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
-| 31 | [Bukan Cinta Biasa](https://open.spotify.com/track/4arXMX7u6GSz4EJG92db1F) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [E.M.A.S](https://open.spotify.com/album/1SVWVBKR3VuR29T83MQXlc) | 4:26 |
-| 32 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 |
+| 31 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 |
+| 32 | [Bukan Cinta Biasa](https://open.spotify.com/track/4arXMX7u6GSz4EJG92db1F) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [E.M.A.S](https://open.spotify.com/album/1SVWVBKR3VuR29T83MQXlc) | 4:26 |
 | 33 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 |
 | 34 | [Perempuanku](https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:55 |
 | 35 | [Melompat Lebih Tinggi](https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [OST\. 30 Hari Mencari Cinta](https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB) | 3:18 |

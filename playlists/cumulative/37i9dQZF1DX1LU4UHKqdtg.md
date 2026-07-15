@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: i\-dle
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: RESCENE
 
-1,765 songs - 3 day 20 hr 58 min
+1,768 songs - 3 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [ASAP \- Japanese Ver.](https://open.spotify.com/track/3Wt0F41P9eevGDvBSIIqhE) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY](https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8) | 3:14 | 2022-11-22 | 2023-01-18 |
 | [Ascension](https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. IV\. Dann](https://open.spotify.com/album/28FMfifUwgR7vNCGjuAzBy) | 3:44 | 2022-03-31 | 2022-06-21 |
 | [ATE THAT](https://open.spotify.com/track/6PFTc4Y66z4ZfyY0skgsD4) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [ATE THAT](https://open.spotify.com/album/7jN0fm4j3MRrqO6CZkefhx) | 3:00 | 2024-08-29 | 2024-12-20 |
-| [ATE!](https://open.spotify.com/track/0HdBNESSes41LPcJ6gfuty) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [ATE!](https://open.spotify.com/album/2U2VHhdK5gBotkJSbEJlPd) | 2:57 | 2026-05-19 |  |
+| [ATE!](https://open.spotify.com/track/0HdBNESSes41LPcJ6gfuty) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [ATE!](https://open.spotify.com/album/2U2VHhdK5gBotkJSbEJlPd) | 2:57 | 2026-05-19 | 2026-07-15 |
 | [ATHLETIC GIRL](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [ATHLETIC GIRL](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 | 2022-01-06 | 2022-03-18 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-15 | 2023-03-08 |
 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 | 2026-03-05 | 2026-05-12 |
@@ -263,7 +263,7 @@
 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ) | 3:11 | 2022-12-15 | 2023-02-22 |
 | [Catch a Wave](https://open.spotify.com/track/2MbxU95EQZbdRo0biiC6M2) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG) | 3:33 | 2023-05-30 | 2023-08-11 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-11 |  |
-| [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 | 2026-05-29 |  |
+| [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 | 2026-05-29 | 2026-07-15 |
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-01-09 | 2025-03-07 |
 | [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 | 2023-02-15 |
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-15 | 2023-07-12 |
@@ -390,6 +390,7 @@
 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-08-19 | 2025-11-18 |
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-06-26 | 2025-08-20 |
 | [Discord \(Japanese Ver.\)](https://open.spotify.com/track/6YQ6VHhyDUXcvNFmCTRrcF) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Discord \(Japanese Ver.\)](https://open.spotify.com/album/5FOQ5cbUbJZ4U2Qn5o0yZG) | 2:47 | 2025-05-15 | 2025-06-10 |
+| [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 | 2026-07-14 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2023-09-06 |
 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 | 2024-07-09 | 2024-10-11 |
 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-03 | 2022-10-12 |
@@ -661,6 +662,7 @@
 | [High Horse](https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [High Horse](https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo) | 3:23 | 2025-03-04 | 2025-03-18 |
 | [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 | 2025-11-29 |
 | [Higher](https://open.spotify.com/track/0uQfBXKmq6LEEpgSn42ZdU) | [moxymill](https://open.spotify.com/artist/2TEFTOBYMLd63UPAs5eacq) | [Higher](https://open.spotify.com/album/2eSoUNp5QhPryJ26vPJYbn) | 2:51 | 2025-07-30 | 2025-10-11 |
+| [Hit 'Em](https://open.spotify.com/track/4hsNNlV2DFit4LSs1wL5ux) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1SiZrYRGkJ19v7Bxx0noc7) | 2:48 | 2026-07-14 |  |
 | [Hit the Floor](https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Visionary Vision <Performante>](https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs) | 2:57 | 2024-10-23 | 2025-02-01 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-20 | 2022-09-05 |
 | [Hold On](https://open.spotify.com/track/6TB4hC3ShE7uPr3SXXfjT8) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Hold On](https://open.spotify.com/album/5CYjQwztXHsyVVxUjMetRj) | 3:20 | 2023-08-08 | 2023-08-30 |
@@ -964,6 +966,7 @@
 | [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-25 | 2023-01-10 |
 | [Motto](https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/0cHcsmjduyUcemJtwXUsLj) | 3:13 | 2026-05-18 |  |
 | [MOVEURBODY](https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [MOVEURBODY](https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW) | 2:16 | 2026-03-24 |  |
+| [Mr 2026](https://open.spotify.com/track/0IrnSKALJD7BaoNwooCJdU) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [young tape](https://open.spotify.com/album/33MCYxTin3bkYr6cXmO7Nl) | 2:28 | 2026-07-14 |  |
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-01 | 2025-08-07 |
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-03-16 | 2025-04-15 |
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-13 | 2025-10-18 |
@@ -1607,7 +1610,7 @@
 | [WBTR](https://open.spotify.com/track/3KUk4lCHI6R247MAxTHjcw) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [WBTR](https://open.spotify.com/album/1EhaMdGrdxWwuEXekNJbrC) | 3:11 | 2025-07-03 | 2025-10-29 |
 | [WDA \(Whole Different Animal\) \[feat\. G\-DRAGON\]](https://open.spotify.com/track/4x0GAc6gDUttopqakXNezW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \[feat\. G\-DRAGON\]](https://open.spotify.com/album/6IttHfuu2t5ciZPApSX0Ex) | 2:54 | 2026-05-11 | 2026-07-08 |
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-14 | 2023-03-22 |
-| [we don't go to bed tonight](https://open.spotify.com/track/6DYEcm6rWPARirLzKAGwSW) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [we don't go to bed tonight](https://open.spotify.com/album/6R8cB0HqPS5jiKo0qDUrzO) | 3:03 | 2026-04-24 |  |
+| [we don't go to bed tonight](https://open.spotify.com/track/6DYEcm6rWPARirLzKAGwSW) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [we don't go to bed tonight](https://open.spotify.com/album/6R8cB0HqPS5jiKo0qDUrzO) | 3:03 | 2026-04-24 | 2026-07-15 |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-13 | 2023-02-22 |
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2023-08-24 | 2023-10-11 |
 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 | 2025-10-10 | 2026-05-05 |

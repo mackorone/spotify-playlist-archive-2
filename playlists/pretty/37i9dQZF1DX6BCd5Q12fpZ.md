@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,294 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,293 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 23 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 24 | [Always \- Single Version](https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z) | [Aysel](https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Always](https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC) | 2:54 |
 | 25 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
-| 26 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
-| 27 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
+| 26 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
+| 27 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
 | 28 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
 | 29 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
 | 30 | [Popular](https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Saade, Vol\. 1](https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7) | 3:00 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 56 | [Waterline](https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Young Love](https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx) | 3:03 |
 | 57 | [A\-Ba\-Ni\-Bi \- 1978, Israel](https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm) | [The Eurosingers](https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb) | [Grand Prix \- Greatest Hits](https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa) | 3:01 |
 | 58 | [Echo \(You and I\)](https://open.spotify.com/track/1iqnkBWge47Yhboceuceas) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Echoes \(International Special Edition\)](https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU) | 3:03 |
-| 59 | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/track/48rIGviK0uiZKmXV6QifbE) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/album/4Px3bYcDM3xgfnR3mqMZFG) | 3:00 |
-| 60 | [When Spirits Are Calling My Name](https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [When Spirits Are Calling My Name](https://open.spotify.com/album/693Gbb2KTlzHgFcgpdNjS7) | 3:02 |
+| 59 | [When Spirits Are Calling My Name](https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [When Spirits Are Calling My Name](https://open.spotify.com/album/693Gbb2KTlzHgFcgpdNjS7) | 3:02 |
+| 60 | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/track/48rIGviK0uiZKmXV6QifbE) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/album/4Px3bYcDM3xgfnR3mqMZFG) | 3:00 |
 | 61 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
 | 62 | [We Are the Winners \- Original Version](https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02) | [LT United](https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4) | [We Are the Winners](https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9) | 2:31 |
 | 63 | [Ding\-A\-Dong](https://open.spotify.com/track/1UrZB49sPYlTuNA7fdC0cb) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Guitar Heroes From Holland](https://open.spotify.com/album/05cPprskuDLgpnV7GPFCLf) | 2:29 |

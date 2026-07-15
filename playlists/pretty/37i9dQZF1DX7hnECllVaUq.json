@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Mack Geiger",
-  "num_followers": 336942,
+  "num_followers": 336987,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -611,18 +611,22 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
       "added_at": "2026-07-10 04:01:49",
@@ -647,22 +651,18 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2026-07-10 04:01:49",
@@ -755,8 +755,8 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
@@ -764,15 +764,15 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+      "duration_ms": 239544,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
     },
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 185788,
-      "name": "Plastic Cigarette",
-      "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
     },
     {
       "added_at": "2026-07-10 04:01:49",
@@ -835,8 +835,8 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 239544,
-      "name": "Where the Wild Things Are",
-      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2026-07-10 04:01:49",
@@ -867,8 +867,8 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
-        "name": "Heading South",
-        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Heading South",
-      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+      "duration_ms": 185788,
+      "name": "Plastic Cigarette",
+      "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
     },
     {
       "added_at": "2026-07-10 04:01:49",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+    },
+    {
+      "added_at": "2026-07-10 04:01:49",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX"
-    },
-    {
-      "added_at": "2026-07-10 04:01:49",
-      "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
     },
     {
       "added_at": "2026-07-10 04:01:49",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
+        "name": "Worst Way",
+        "url": "https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 220558,
+      "name": "Worst Way",
+      "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
+    },
+    {
+      "added_at": "2026-07-10 04:01:49",
+      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2026-07-10 04:01:49",
-      "album": {
-        "name": "Worst Way",
-        "url": "https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 220558,
-      "name": "Worst Way",
-      "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
     },
     {
       "added_at": "2026-07-10 04:01:49",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-07-10 04:01:49",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-    },
-    {
-      "added_at": "2026-07-10 04:01:49",
-      "album": {
         "name": "Just In Case",
         "url": "https://open.spotify.com/album/1LgijIY2d3GFKb5bhWYOf4"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 166206,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/02Ya2Q08bBKFqUJvjmyRXK"
+    },
+    {
+      "added_at": "2026-07-10 04:01:49",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     }
   ],
   "unique_name": "Country Worldwide",

@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 263074,
+  "num_followers": 263101,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACmy2vbKo1EfbzBpIxD4rIe",
+  "snapshot_id": "alQqgAAAAABQ4hAKdCZThhkA6L6QWehr",
   "tracks": [
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
       "added_at": null,

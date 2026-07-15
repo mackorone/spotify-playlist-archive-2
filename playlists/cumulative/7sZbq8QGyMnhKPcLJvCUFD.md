@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-871 songs - 1 day 19 hr 13 min
+872 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [Ride or Die \(ft\. Indy Skies\)](https://open.spotify.com/track/0xXaabBmxaTsxxNcf1a0Yn) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [Ride or Die](https://open.spotify.com/album/0AGE7tbV3lT8eWdSggbHkE) | 2:59 | 2023-04-22 | 2024-01-04 |
 | [RIDE WITH ME](https://open.spotify.com/track/6j1KmYWWWT36MFX84sPldQ) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [RIDE WITH ME](https://open.spotify.com/album/0W7rAsLhun6Ozbbi9WL0AO) | 2:41 | 2024-09-10 | 2024-11-20 |
 | [Rift](https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Rift](https://open.spotify.com/album/6TkCdwfbCgi9m4YRbcvzbt) | 3:26 | 2022-12-28 | 2023-04-28 |
+| [Right Here](https://open.spotify.com/track/0NipiNiiMpIijejGiKQVIJ) | [ZKG](https://open.spotify.com/artist/6SXQM1iGWeRGGpxJKcl4uh) | [Right Here](https://open.spotify.com/album/5tWXI4WQJQNJ1WMJvBvA2f) | 2:15 | 2026-07-14 |  |
 | [River](https://open.spotify.com/track/0fTzH8uabtFLBIx3eGxrKf) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 2:35 | 2025-03-28 |  |
 | [ROCK PAPER SCISSORS!](https://open.spotify.com/track/0Cqj9gGL6ZB1gP1eKu14qp) | [Dyolow](https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre) | [ROCK PAPER SCISSORS!](https://open.spotify.com/album/6WLQiWzfSkntkJ10KhaRpH) | 1:37 | 2025-07-03 |  |
 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 | 2024-02-22 | 2024-09-29 |

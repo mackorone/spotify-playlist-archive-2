@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,129 songs - 4 day 19 hr 18 min
+2,130 songs - 4 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,7 +710,7 @@
 | [Gata Only](https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 3:42 | 2024-08-10 | 2024-10-24 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-13 | 2024-08-11 |
 | [Gata Only \(Mashup\)](https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN) | [Dj Agus Lima](https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9) | [Mashup 2024](https://open.spotify.com/album/1zfWgLPvRz1j8PzkjiBDet) | 3:35 | 2024-05-08 | 2024-05-11 |
-| [GAUCHE DROITE \(feat\. Draganov\)](https://open.spotify.com/track/2HLpAlDB62gwO4hSaHC77q) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:13 | 2026-06-06 |  |
+| [GAUCHE DROITE \(feat\. Draganov\)](https://open.spotify.com/track/2HLpAlDB62gwO4hSaHC77q) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:13 | 2026-06-06 | 2026-07-15 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-10-29 | 2022-01-26 |
 | [Gaza](https://open.spotify.com/track/4S07oYRMNExjXLFGaTJyTj) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 5:05 | 2021-09-15 | 2021-09-18 |
 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 | 2023-12-10 | 2023-12-12 |
@@ -1701,6 +1701,7 @@
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-15 | 2023-02-07 |
 | [Sharapova](https://open.spotify.com/track/485lHlH8WYEhBB5S3CWcT2) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Sharapova](https://open.spotify.com/album/2kIBniB2oWyBk7I0ZqIrSE) | 3:48 | 2022-03-05 | 2022-03-14 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-26 | 2023-07-30 |
+| [Shaw \(Pillave 2026\)](https://open.spotify.com/track/3Axhg8OQAO75YKybS1cWYf) | [Walid ai](https://open.spotify.com/artist/07216TUsVXgaAXrdEZowUJ) | [Shaw \(Pillave 2026\)](https://open.spotify.com/album/2P0LBSHxj0eZ3jl4Kzw1KE) | 2:14 | 2026-07-14 |  |
 | [SHEVCHENKO](https://open.spotify.com/track/0HoMgI5323zLb5tucoNjXF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:56 | 2026-06-06 | 2026-07-06 |
 | [SHOOKA](https://open.spotify.com/track/4lwjUIptYJxWiUVmyjALB8) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MARIGOLD](https://open.spotify.com/album/5vdlHh5zFDfXsn5CyZ4PBT) | 3:08 | 2025-01-18 | 2025-01-20 |
 | [Shot Glass of Tears](https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:47 | 2023-11-04 | 2023-11-06 |

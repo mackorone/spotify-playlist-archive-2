@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 205162,
+  "num_followers": 205192,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABDc9Zw3wUJxVjeHq4WG4Uy",
+  "snapshot_id": "alQqgAAAAADtBZx9XUWS2JYL+433ZbqV",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Coraz\u00f3n Necio",
-        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Coraz\u00f3n Necio",
-      "url": "https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Renta Un Coraz\u00f3n (Reissue)",
         "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 203666,
       "name": "No Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Coraz\u00f3n Necio",
+        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Coraz\u00f3n Necio",
+      "url": "https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevamente El Amor",
-        "url": "https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Nuevamente El Amor",
-      "url": "https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fiesta Norte\u00f1a Puras Cumbias",
         "url": "https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 147266,
       "name": "Las Cerezas",
       "url": "https://open.spotify.com/track/4yRpPJBLOuTcXQDxEkCEt1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevamente El Amor",
+        "url": "https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Nuevamente El Amor",
+      "url": "https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh"
     },
     {
       "added_at": null,

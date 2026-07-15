@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420748,
+  "num_followers": 420738,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,26 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
+        "name": "Time Won\u2019t Wait",
+        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 210010,
+      "name": "Time Won\u2019t Wait",
+      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
         "name": "Rindo \u00c0 Toa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 209226,
       "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
       "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
-        "name": "Time Won\u2019t Wait",
-        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 210010,
-      "name": "Time Won\u2019t Wait",
-      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
     },
     {
       "added_at": "2026-07-13 16:42:56",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
-        "name": "Caf\u00e9 da MaLu, Vol. 04",
-        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
-      },
-      "artists": [
-        {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "P\u00e9 na Areia",
-      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
         "name": "Vit\u00f3ria",
         "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 209719,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
+        "name": "Caf\u00e9 da MaLu, Vol. 04",
+        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
+      },
+      "artists": [
+        {
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "P\u00e9 na Areia",
+      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
     },
     {
       "added_at": "2026-07-13 16:42:56",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
-        "name": "Pura Ingratid\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf"
-      },
-      "artists": [
-        {
-          "name": "Papas Da L\u00edngua",
-          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
-        }
-      ],
-      "duration_ms": 258260,
-      "name": "Pura Ingratid\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
         "name": "Am\u00e9frica",
         "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 207378,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
+        "name": "Pura Ingratid\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf"
+      },
+      "artists": [
+        {
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+        }
+      ],
+      "duration_ms": 258260,
+      "name": "Pura Ingratid\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf"
     },
     {
       "added_at": "2026-07-13 16:42:56",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
-        "name": "Em Paz Com o Mundo",
-        "url": "https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo"
-      },
-      "artists": [
-        {
-          "name": "Adonai",
-          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Em Paz Com o Mundo",
-      "url": "https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
+        "name": "Em Paz Com o Mundo",
+        "url": "https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo"
+      },
+      "artists": [
+        {
+          "name": "Adonai",
+          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Em Paz Com o Mundo",
+      "url": "https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0"
     },
     {
       "added_at": "2026-07-13 16:42:56",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER",
-        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Ficar de Leve",
-      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
         "name": "Tropical",
         "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 230016,
       "name": "Paradis\u00edaca",
       "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER",
+        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Ficar de Leve",
+      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
     },
     {
       "added_at": "2026-07-13 16:42:56",

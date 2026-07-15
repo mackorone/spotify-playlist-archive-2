@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 68104,
+  "num_followers": 68112,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -761,6 +761,30 @@
       "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Pastor M Tshabalala",
+          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
+        }
+      ],
+      "duration_ms": 556346,
+      "name": "Bamba Mzalwane (Live)",
+      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Calvary",
@@ -791,30 +815,6 @@
       "duration_ms": 340133,
       "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Spirit Of Praise, Vol. 9 (Live)",
-        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Spirit of Praise Choir",
-          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
-        },
-        {
-          "name": "Pastor M Tshabalala",
-          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
-        }
-      ],
-      "duration_ms": 556346,
-      "name": "Bamba Mzalwane (Live)",
-      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
     },
     {
       "added_at": "2023-12-01 00:01:00",

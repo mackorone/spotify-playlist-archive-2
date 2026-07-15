@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,295 likes - 39 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,297 likes - 39 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 38 | [Roucky \- feat.Taj Mahal](https://open.spotify.com/track/0M8IIFrmeUonCdKb7WN9lm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 8:18 |
 | 39 | [N'jarou](https://open.spotify.com/track/0J6URaJ2VmWCJvnWudfIuF) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:55 |
 
-Snapshot ID: `alLZAAAAAAAhXXa/kYIQOeXfVYfIvfc8`
+Snapshot ID: `alQqgAAAAACyql7ke+w1anXn8U6naI8I`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,796 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,808 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 42 | [Angel Patience](https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Angel Patience](https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp) | 3:33 |
 | 43 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 |
 | 44 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
-| 45 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
-| 46 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 |
+| 45 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 |
+| 46 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
 | 47 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
 | 48 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 49 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 |
-| 50 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
-| 51 | [All the Way Down \(unplugged\)](https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [In The Blue Light](https://open.spotify.com/album/2w1TWh1hbKQILEeEUzhICu) | 5:39 |
+| 50 | [All the Way Down \(unplugged\)](https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [In The Blue Light](https://open.spotify.com/album/2w1TWh1hbKQILEeEUzhICu) | 5:39 |
+| 51 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
 | 52 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
 | 53 | [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 |
 | 54 | [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 |

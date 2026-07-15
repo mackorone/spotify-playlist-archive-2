@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 120510,
       "name": "Everything's Magic - From \"Upside-Down Magic\"",
       "url": "https://open.spotify.com/track/28IOMuqSEv24tfgqpHqVjS"
@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Kikiwaka (Bunk'd Theme Song) [From \"Bunk'd\"]",
+        "url": "https://open.spotify.com/album/6JdtO0ubz6yX04wJfyUvmj"
+      },
+      "artists": [
+        {
+          "name": "Xander",
+          "url": "https://open.spotify.com/artist/7gpPHIrEhD3vU0C3Xwo0C2"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53000,
+      "name": "Kikiwaka (Bunk'd Theme Song)",
+      "url": "https://open.spotify.com/track/1b2ruXa4Q5aN7WGHYigwf9"
+    },
+    {
+      "album": {
         "name": "King of Everything",
         "url": "https://open.spotify.com/album/7D7UOOXWySjWezBDuaqa4p"
       },
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 169640,
       "name": "Magic",
       "url": "https://open.spotify.com/track/10xcIQQEJSEIOgG1HvS3t9"

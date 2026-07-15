@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,083 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,093 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 34 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
 | 35 | [Promiskiøs \(PM\)](https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Promiskiøs \(PM\)](https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp) | 2:33 |
 | 36 | [I natt](https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [I natt](https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj) | 2:30 |
-| 37 | [En dårlig idé](https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [En dårlig idé](https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy) | 2:37 |
-| 38 | [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 |
+| 37 | [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 |
+| 38 | [En dårlig idé](https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [En dårlig idé](https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy) | 2:37 |
 | 39 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 40 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 |
 | 41 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 52 | [Jeg har vært en idiot](https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Jeg har vært en idiot](https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5) | 2:29 |
 | 53 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 54 | [Helt Ærlig](https://open.spotify.com/track/00NVYE5PrMpR1gVlC8zPZV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Helt Ærlig](https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y) | 2:48 |
-| 55 | [Ingenting kan stoppe oss](https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ingenting kan stoppe oss](https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M) | 3:17 |
-| 56 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
+| 55 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
+| 56 | [Ingenting kan stoppe oss](https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ingenting kan stoppe oss](https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M) | 3:17 |
 | 57 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
 | 58 | [Ein song som finst](https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ein song som finst](https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L) | 3:30 |
 | 59 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 |

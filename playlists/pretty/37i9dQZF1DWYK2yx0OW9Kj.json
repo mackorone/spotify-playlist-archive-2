@@ -1,6 +1,6 @@
 {
   "description": "Si te quieres divertir... y sudar al ritmo latino \ud83c\udf36\ufe0f",
-  "num_followers": 457540,
+  "num_followers": 457623,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-04-24 07:57:29",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
-    },
-    {
-      "added_at": "2026-04-24 07:57:29",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2026-04-24 07:57:29",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
     },
     {
       "added_at": "2026-04-24 07:57:29",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-24 07:57:29",
       "album": {
-        "name": "SI NO ES CONTIGO",
-        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SI NO ES CONTIGO",
-      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
-    },
-    {
-      "added_at": "2026-04-24 07:57:29",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2026-04-24 07:57:29",
+      "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
       "added_at": "2026-04-24 07:57:29",
@@ -1403,26 +1403,34 @@
     {
       "added_at": "2026-04-24 07:57:29",
       "album": {
-        "name": "Parte & Choke",
-        "url": "https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg"
+        "name": "Otro Trago (Remix)",
+        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
       },
       "artists": [
         {
-          "name": "Jombriel",
-          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Alex Krack",
-          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "J\u00f8tta",
-          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 205264,
-      "name": "Parte & Choke",
-      "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
+      "duration_ms": 287773,
+      "name": "Otro Trago - Remix",
+      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
     },
     {
       "added_at": "2026-04-24 07:57:29",
@@ -1483,34 +1491,26 @@
     {
       "added_at": "2026-04-24 07:57:29",
       "album": {
-        "name": "Otro Trago (Remix)",
-        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
+        "name": "Parte & Choke",
+        "url": "https://open.spotify.com/album/2rzk1ZW9Lpj3SilWEL31pg"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Alex Krack",
+          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
         }
       ],
-      "duration_ms": 287773,
-      "name": "Otro Trago - Remix",
-      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
+      "duration_ms": 205264,
+      "name": "Parte & Choke",
+      "url": "https://open.spotify.com/track/0STW8nw4lNN4TEQ8KmNer6"
     },
     {
       "added_at": "2026-04-24 07:57:29",

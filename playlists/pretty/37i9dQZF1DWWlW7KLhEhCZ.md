@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Druhh  e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,887 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,878 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

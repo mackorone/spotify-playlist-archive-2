@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2487446,
+  "num_followers": 2487523,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "Pool (Gravagerz Version)",
         "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 125178,
       "name": "Pool - Gravagerz Version",
       "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -539,22 +539,22 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
       },
       "artists": [
         {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         }
       ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -579,42 +579,22 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 144501,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -635,6 +615,26 @@
       "duration_ms": 195727,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 144501,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
+        "name": "Young Again",
+        "url": "https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 196190,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
         "name": "Listen To Me",
         "url": "https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w"
       },
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Young Again",
-        "url": "https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 196190,
-      "name": "Young Again",
-      "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
       },
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
+        "name": "Mydnight",
+        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Our Home",
+      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
         "name": "It's A Feeling",
         "url": "https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 189223,
       "name": "It's A Feeling",
       "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "Mydnight",
-        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Our Home",
-      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
+        "name": "Lucky (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 127380,
+      "name": "Lucky (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
         "name": "Every Cloud - Silver Linings",
         "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 190609,
       "name": "Feels This Good",
       "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "Lucky (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Lucky (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2415,6 +2415,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 218757,
+      "name": "Devotion (feat. TEED)",
+      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -2435,26 +2455,6 @@
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "Anemoia",
-        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 218757,
-      "name": "Devotion (feat. TEED)",
-      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2575,26 +2575,18 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "So True",
-        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
+        "name": "In It",
+        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
       "artists": [
         {
           "name": "Selena Faider",
           "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
-        },
-        {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
-        },
-        {
-          "name": "Lewis John",
-          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
         }
       ],
-      "duration_ms": 163064,
-      "name": "So True",
-      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
+      "duration_ms": 190952,
+      "name": "In It",
+      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2679,18 +2671,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "In It",
-        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
+        "name": "So True",
+        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
       },
       "artists": [
         {
           "name": "Selena Faider",
           "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        },
+        {
+          "name": "Lewis John",
+          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
         }
       ],
-      "duration_ms": 190952,
-      "name": "In It",
-      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
+      "duration_ms": 163064,
+      "name": "So True",
+      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2747,26 +2747,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Are You Ready",
-        "url": "https://open.spotify.com/album/5FiSIY0GpU6mBdddSYnBTA"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
-        }
-      ],
-      "duration_ms": 183531,
-      "name": "Are You Ready",
-      "url": "https://open.spotify.com/track/4XAyy0wQa0pboXt3M0RbZi"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD"
       },
@@ -2783,6 +2763,26 @@
       "duration_ms": 149364,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Are You Ready",
+        "url": "https://open.spotify.com/album/5FiSIY0GpU6mBdddSYnBTA"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+        }
+      ],
+      "duration_ms": 183531,
+      "name": "Are You Ready",
+      "url": "https://open.spotify.com/track/4XAyy0wQa0pboXt3M0RbZi"
     },
     {
       "added_at": "2026-07-03 04:00:40",

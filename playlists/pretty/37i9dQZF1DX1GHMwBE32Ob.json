@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Chella",
-  "num_followers": 147335,
+  "num_followers": 147402,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,22 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Allergies",
-        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 173118,
-      "name": "Allergies",
-      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
+      "duration_ms": 162912,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -455,22 +459,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
+        "name": "Allergies",
+        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
       },
       "artists": [
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 162912,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
+      "duration_ms": 173118,
+      "name": "Allergies",
+      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "1942",
-        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 150508,
-      "name": "1942",
-      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
+        "name": "1942",
+        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
         }
       ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
+      "duration_ms": 150508,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -909,6 +909,26 @@
       "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
     },
     {
+      "added_at": "2026-07-10 11:02:03",
+      "album": {
+        "name": "Baby Thug",
+        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
+    },
+    {
       "added_at": "2026-06-26 00:01:56",
       "album": {
         "name": "Akonuche (Remix)",
@@ -931,26 +951,6 @@
       "duration_ms": 176530,
       "name": "Akonuche - Remix",
       "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
-    },
-    {
-      "added_at": "2026-07-10 11:02:03",
-      "album": {
-        "name": "Baby Thug",
-        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Pami",
-      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        }
-      ],
-      "duration_ms": 160824,
-      "name": "JUNGLE",
-      "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 211525,
       "name": "Kowope",
       "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        }
+      ],
+      "duration_ms": 160824,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Kawasaki (Freestyle)",
-        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 164464,
-      "name": "Kawasaki (Freestyle)",
-      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "Trenches Luv",
         "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 205714,
       "name": "Trenches Luv",
       "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
+        "name": "Kawasaki (Freestyle)",
+        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 164464,
+      "name": "Kawasaki (Freestyle)",
+      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
     },
     {
       "added_at": "2026-06-26 00:01:56",

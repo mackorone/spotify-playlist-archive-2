@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Nia Archives e Jorja Smith iconiche in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,398 likes - 109 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,393 likes - 109 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

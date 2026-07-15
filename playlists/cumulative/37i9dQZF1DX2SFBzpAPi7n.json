@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Nerd Connection) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: MRCH(\uc724\ub9c8\uce58)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -4356,6 +4356,24 @@
       "duration_ms": 187720,
       "name": "Doberman",
       "url": "https://open.spotify.com/track/64BzcskCExMQTFAcTubGv7"
+    },
+    {
+      "album": {
+        "name": "Mutualism",
+        "url": "https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "documentary",
+      "url": "https://open.spotify.com/track/171mGT1HdxM2HdqZrWNY31"
     },
     {
       "album": {
@@ -9259,6 +9277,24 @@
     },
     {
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/6FKkjyDABSBbad5ZEQ8Whk"
+      },
+      "artists": [
+        {
+          "name": "Avii Garde",
+          "url": "https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177082,
+      "name": "It Comes Back",
+      "url": "https://open.spotify.com/track/1DvxyzGPAH7SK8osEzeJic"
+    },
+    {
+      "album": {
         "name": "It Rains",
         "url": "https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn"
       },
@@ -9418,7 +9454,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 275373,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/6wAJpkOPk0mZRCsue9W6X1"
@@ -10116,6 +10152,24 @@
       "duration_ms": 228340,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt"
+    },
+    {
+      "album": {
+        "name": "Left to Try",
+        "url": "https://open.spotify.com/album/2zHZIjcH1M0Pq2XCMAbG22"
+      },
+      "artists": [
+        {
+          "name": "Julywantsmore",
+          "url": "https://open.spotify.com/artist/0T7h3NCSaAyO9XfyguJvTT"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216850,
+      "name": "Left to Try",
+      "url": "https://open.spotify.com/track/7MAPkD3vZKn64KW1N8YmPh"
     },
     {
       "album": {
@@ -17404,7 +17458,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 171000,
       "name": "Summer Equation",
       "url": "https://open.spotify.com/track/35cHw3u8SKKmjlunF9yWmR"
@@ -21592,7 +21646,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 171000,
       "name": "You\u2019re my summer",
       "url": "https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY"

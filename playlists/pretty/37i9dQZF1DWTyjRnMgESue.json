@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 89348,
+  "num_followers": 89356,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "last night you said you missed me",
-        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "queen of the season",
-      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Snipe Hunter",
         "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 176800,
       "name": "Bitin' List",
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "last night you said you missed me",
+        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "queen of the season",
+      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Real Thing",
-        "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Where's My Love (with Carla)",
         "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 243053,
       "name": "Where's My Love - with Carla",
       "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Sunflowers and Leather",
-        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Blue Ridge Run",
         "url": "https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 185226,
       "name": "Blue Ridge Run",
       "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Sunflowers and Leather",
+        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "Burn Me",
         "url": "https://open.spotify.com/album/0100hgq4IwkxrCmldWPgYj"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 211150,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2026-05-15 15:12:25",

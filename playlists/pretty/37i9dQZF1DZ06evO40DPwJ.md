@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,183 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,187 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 37 | [Feel Again \- Remastered 2010](https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:37 |
 | 38 | [Everybody's Changing](https://open.spotify.com/track/6bRHHbM9mxFakL8gcDUUmG) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Ultimate R&B 2009 \(International Version\)](https://open.spotify.com/album/4meVJvSnundOZ4jYKl2aYm) | 3:32 |
 | 39 | [Second Chance](https://open.spotify.com/track/0vsKn0USf81XicoIV9XZ0P) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Third Strike](https://open.spotify.com/album/2FpLsBqaonzdN5GrpQIZmJ) | 3:28 |
-| 40 | [Little Lion Man \- BBC Live version](https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Higher \(International\)](https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY) | 2:48 |
-| 41 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
-| 42 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
+| 40 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
+| 41 | [Little Lion Man \- BBC Live version](https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Higher \(International\)](https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY) | 2:48 |
+| 42 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
+| 43 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 
-Snapshot ID: `alLZAAAAAADAlBGy7eGDypqMqwuw8ZEk`
+Snapshot ID: `alQqgAAAAADTER9rTKARbw7AMi3vgrVX`

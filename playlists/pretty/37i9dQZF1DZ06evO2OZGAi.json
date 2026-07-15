@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7217,
+  "num_followers": 7218,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACXsqXXMT1z+HMYS7UCNf9V",
+  "snapshot_id": "alQqgAAAAADiE5j5s1Pq7XcdiGiy/vIC",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Cuatro Paredes",
-        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 266020,
-      "name": "Entre Cuatro Paredes",
-      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagando el precio",
         "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 215076,
       "name": "Pagando el precio",
       "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Cuatro Paredes",
+        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Entre Cuatro Paredes",
+      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
     },
     {
       "added_at": null,

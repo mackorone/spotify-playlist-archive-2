@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,782 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,783 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 42 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
 | 43 | [The Girls on Drugs](https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:09 |
 | 44 | [Shotgun \(feat\. Wale\)](https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:38 |
-| 45 | [Feel the Love \(feat\. Wale\)](https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:56 |
-| 46 | [Caramel](https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:21 |
+| 45 | [Caramel](https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:21 |
+| 46 | [Feel the Love \(feat\. Wale\)](https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:56 |
 | 47 | [You Got It \(feat\. Wale\)](https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 4:46 |
 | 48 | [Beautiful Bliss](https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 5:04 |
-| 49 | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy) | 5:14 |
-| 50 | [Down South \(feat\. Yella Beezy & Maxo Kream\)](https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:59 |
+| 49 | [Down South \(feat\. Yella Beezy & Maxo Kream\)](https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:59 |
+| 50 | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy) | 5:14 |
 
-Snapshot ID: `alLZAAAAAAA5XB9IH3vgfT4OVM6Y5rcW`
+Snapshot ID: `alQqgAAAAAAkLWyIfaYEW5VOtKVjoCfW`

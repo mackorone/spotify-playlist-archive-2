@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59943,
+  "num_followers": 59942,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Hei Supermario/Huudan taas",
-        "url": "https://open.spotify.com/album/4ps7AmlwOCpvYL6Mi9jVSl"
-      },
-      "artists": [
-        {
-          "name": "Samuell",
-          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Hei Supermario",
-      "url": "https://open.spotify.com/track/7mibsbnXQyI4HuWEBYXuqB"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "kev\u00e4t tulee kun s\u00e4 palaat",
         "url": "https://open.spotify.com/album/248ZLnQmHtO0hIGS65UH5t"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 195744,
       "name": "kev\u00e4t tulee kun s\u00e4 palaat",
       "url": "https://open.spotify.com/track/66TVSQDoXHHW1P68EwTWcn"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Hei Supermario/Huudan taas",
+        "url": "https://open.spotify.com/album/4ps7AmlwOCpvYL6Mi9jVSl"
+      },
+      "artists": [
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Hei Supermario",
+      "url": "https://open.spotify.com/track/7mibsbnXQyI4HuWEBYXuqB"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Jokaisen hymyn takana",
-        "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
-      },
-      "artists": [
-        {
-          "name": "Ilta",
-          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Jokaisen hymyn takana",
-      "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Vanhoja muistellaan",
         "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 168391,
       "name": "Vanhoja muistellaan",
       "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Jokaisen hymyn takana",
+        "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Jokaisen hymyn takana",
+      "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Viimeiseen tanssiin (feat. Juno)",
-        "url": "https://open.spotify.com/album/1blRhJC5hmsaHEcZ5ux29h"
-      },
-      "artists": [
-        {
-          "name": "Niilo",
-          "url": "https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab"
-        },
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Viimeiseen tanssiin (feat. Juno)",
-      "url": "https://open.spotify.com/track/5edp2II9DgyvE4V9N86PoW"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Hei Supermario (feat. Samuell)",
         "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 114206,
       "name": "Hei Supermario (feat. Samuell)",
       "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Viimeiseen tanssiin (feat. Juno)",
+        "url": "https://open.spotify.com/album/1blRhJC5hmsaHEcZ5ux29h"
+      },
+      "artists": [
+        {
+          "name": "Niilo",
+          "url": "https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Viimeiseen tanssiin (feat. Juno)",
+      "url": "https://open.spotify.com/track/5edp2II9DgyvE4V9N86PoW"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Sulhanen",
-        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
-      },
-      "artists": [
-        {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Sulhanen",
-      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Jengi tekee sen virheen",
         "url": "https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 168906,
       "name": "Takas sun luo",
       "url": "https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Sulhanen",
+        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Sulhanen",
+      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Aerobikki",
-        "url": "https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC"
+        "name": "Sukupuu",
+        "url": "https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem"
       },
       "artists": [
         {
-          "name": "Antti Paalanen",
-          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
         }
       ],
-      "duration_ms": 168919,
-      "name": "Aerobikki",
-      "url": "https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9"
+      "duration_ms": 185600,
+      "name": "Sukupuu",
+      "url": "https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Sukupuu",
-        "url": "https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem"
+        "name": "Aerobikki",
+        "url": "https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC"
       },
       "artists": [
         {
-          "name": "TINA",
-          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
+          "name": "Antti Paalanen",
+          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Sukupuu",
-      "url": "https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba"
+      "duration_ms": 168919,
+      "name": "Aerobikki",
+      "url": "https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9"
     }
   ],
   "unique_name": "Nousussa",

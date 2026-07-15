@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,170 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,308 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 73 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
 | 74 | [Monsters](https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [VOICES](https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2) | 4:03 |
 | 75 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
-| 76 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
-| 77 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
+| 76 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
+| 77 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
 | 78 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
 | 79 | [Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 2:28 |
 | 80 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 100 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
 | 101 | [Polygraph, Right Now!](https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [One Fell Swoop](https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL) | 3:03 |
 | 102 | [The Medic](https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [The Albatross](https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f) | 3:22 |
-| 103 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
-| 104 | [Nikki](https://open.spotify.com/track/2xu7bTUyvvJMBMi6JXvWAZ) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [J.A.C.K.](https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr) | 3:44 |
+| 103 | [Nikki](https://open.spotify.com/track/2xu7bTUyvvJMBMi6JXvWAZ) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [J.A.C.K.](https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr) | 3:44 |
+| 104 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
 | 105 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
 | 106 | [So Contagious](https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR) | [Acceptance](https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW) | [Phantoms](https://open.spotify.com/album/4TV5UrWG9ZnI6FxSawplwM) | 3:04 |
 | 107 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 116 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
 | 117 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
 | 118 | [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 |
-| 119 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
-| 120 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
+| 119 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
+| 120 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
 | 121 | [Is This Thing On?](https://open.spotify.com/track/5dgyKLZKxfreuDaDQwEj9U) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 3:37 |
 | 122 | [Summer](https://open.spotify.com/track/6IJPRTfpS3CkUy67iNCnIg) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Maybe This Place Is The Same And We're Just Changing](https://open.spotify.com/album/15hosvWOCdHKAhXNomH9Ln) | 3:21 |
 | 123 | [Baby Blue](https://open.spotify.com/track/4bZgxiO0f3Vk5YdJp0Kwys) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Room's Too Cold](https://open.spotify.com/album/5Su20B0iK3QnfxJ0lUiSgn) | 3:10 |

@@ -1,6 +1,6 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: MD Chefe, Maru2D, NandaTsunami\n",
-  "num_followers": 135640,
+  "num_followers": 135657,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,34 @@
     {
       "added_at": "2026-06-08 19:55:50",
       "album": {
+        "name": "Mistura de Sotaque",
+        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Mistura de Sotaque",
+      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
+    },
+    {
+      "added_at": "2026-06-08 19:55:50",
+      "album": {
         "name": "6X1",
         "url": "https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r"
       },
@@ -531,34 +559,6 @@
       "duration_ms": 211653,
       "name": "6X1",
       "url": "https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi"
-    },
-    {
-      "added_at": "2026-06-08 19:55:50",
-      "album": {
-        "name": "Mistura de Sotaque",
-        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Mistura de Sotaque",
-      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
     },
     {
       "added_at": "2026-06-08 19:55:50",

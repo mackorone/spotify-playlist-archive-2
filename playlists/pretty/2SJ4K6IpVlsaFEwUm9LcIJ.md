@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 15 songs - 1 hr 8 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 18 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 11 | [I Was The Dancer](https://open.spotify.com/track/2MATQphNB3FUAJGfeGD5bn) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly) | 3:14 |
 | 12 | [I Am The Key \- Key 103, Jan '89](https://open.spotify.com/track/3kHEQxN6i74s5BQpYquuLd) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's \(Deluxe Edition\)](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 3:04 |
 | 13 | [Changeling](https://open.spotify.com/track/5DIaZd2T8XohPHN72PkxTq) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 7:16 |
-| 14 | [Natural Disasters](https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [High Society](https://open.spotify.com/album/22xdBowvTHJ7kOkR3srCzx) | 2:49 |
-| 15 | [Don’t Challenge Me](https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC) | [Makers](https://open.spotify.com/artist/4o3UbCOZDjx8y4pORzt4wq) | [Don't Challenge Me / You're Shy](https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz) | 3:05 |
+| 14 | [Don’t Challenge Me](https://open.spotify.com/track/7keyJb7V22AHhKEXFEbwkC) | [Makers](https://open.spotify.com/artist/4o3UbCOZDjx8y4pORzt4wq) | [Don't Challenge Me / You're Shy](https://open.spotify.com/album/27yf7UUdGz4VlqiVdMBELz) | 3:05 |
+| 15 | [Mizake the Mizan](https://open.spotify.com/track/15EpITP684el9sd1UFWgI9) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Iceblink Luck](https://open.spotify.com/album/2NSJ5ABdmwwoFpZWzY9wzQ) | 3:00 |
+| 16 | [Gift](https://open.spotify.com/track/7udaKPj4op8kSUIcJpQlYD) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/71hbXLIenMTEfyDfPRfq2r) | 5:01 |
+| 17 | [FRESH FEELING](https://open.spotify.com/track/2DgfmAKx2fdAkqhqMboZKA) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 9:22 |
+| 18 | [SPECIAL WEAKNESS](https://open.spotify.com/track/56PQ9YCEIe1YhSe90NGdRu) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 13:33 |
 
-Snapshot ID: `AAAOjTvBKbiiIqLq6KZTzWwPZnOQTjpL`
+Snapshot ID: `AAAOkjQVE4rOt2XpbuStfulpwCpGbozD`

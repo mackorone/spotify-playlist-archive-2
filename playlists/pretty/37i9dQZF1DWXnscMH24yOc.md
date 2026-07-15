@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,937 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,965 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 85 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 |
 | 86 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 |
 | 87 | [What Is Love](https://open.spotify.com/track/2cbUbYYjFEXJucB4YXLWtf) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Hideaway](https://open.spotify.com/album/5WyTbS28X2D8bkGSw0dlq3) | 3:07 |
-| 88 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
-| 89 | [Pleasure](https://open.spotify.com/track/0ASjmESaww4tLMSDBzTu3U) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Pleasure](https://open.spotify.com/album/25tWNWuK5mFsxlpnA7IWxd) | 4:15 |
+| 88 | [Pleasure](https://open.spotify.com/track/0ASjmESaww4tLMSDBzTu3U) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Pleasure](https://open.spotify.com/album/25tWNWuK5mFsxlpnA7IWxd) | 4:15 |
+| 89 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
 | 90 | [She's Not There \- \(The Zombies cover\)](https://open.spotify.com/track/0dz9cFDDSyj2VFqzXkzmx1) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [France](https://open.spotify.com/album/6poorXKsPRsrowWfn97Sel) | 2:55 |
 | 91 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
 | 92 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |

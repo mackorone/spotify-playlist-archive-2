@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring D'Leesa\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,703 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,698 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Healer](https://open.spotify.com/track/3dyQvN3fiYktWEhQ7WavRn) | [D'Leesa](https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a) | [Healer](https://open.spotify.com/album/6xdHPBEPPhTI3BTPxAhRUQ) | 3:29 |
-| 2 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
+| 2 | [Is Loving Really Bad?](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad?](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 3 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
 | 4 | [Lovesick Lobotomy](https://open.spotify.com/track/75puZs3gEpjiauihNVJCgs) | [Earthgirl](https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa) | [Lovesick Lobotomy](https://open.spotify.com/album/5fsNOV0dM35dvXaXdGkRAf) | 2:17 |
 | 5 | [rewrite](https://open.spotify.com/track/555f2FXKrip1OyXSMKURlS) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [darling, darling](https://open.spotify.com/album/0ImFz7IdveBPqcsKL2I02W) | 3:26 |

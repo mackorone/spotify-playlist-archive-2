@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,029 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,036 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 32 | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3) | 3:25 |
 | 33 | [American Apparel Ad Girls](https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS) | [Courtney](https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn), [Alaska](https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [American Apparel Ad Girls](https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM) | 3:48 |
 | 34 | [Looks \(feat\. Aquaria\)](https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX) | [Linux](https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Everybody Hates Linux](https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X) | 4:14 |
-| 35 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
-| 36 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
+| 35 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
+| 36 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
 | 37 | [Excuse the Beauty](https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Excuse the Beauty](https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS) | 3:09 |
 | 38 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
 | 39 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 49 | [My Pussy Is Like a Peach](https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd) | [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [My Pussy Is Like a Peach](https://open.spotify.com/album/2UF5W1roL28m982inA5g3w) | 3:52 |
 | 50 | [Outside In](https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Outside In](https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR) | 3:14 |
 | 51 | [Champion \(Ru X Blu\)](https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Blu Hydrangea](https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0) | [Champion \(Ru X Blu\)](https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ) | 2:58 |
-| 52 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |
+| 52 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
 | 53 | [Boys Like Me](https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Kaleidoscope](https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9) | 3:22 |
-| 54 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
+| 54 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |
 | 55 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 56 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 57 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |

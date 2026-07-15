@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70827,
+  "num_followers": 70829,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAEoS/6BABqYrnIRO4O6LUZ",
+  "snapshot_id": "alQqgAAAAAAw6G3Yc+MRGaTz7AnzJp5Q",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201903,
-      "name": "Ni Tan Novios, Ni Tan Amigos",
-      "url": "https://open.spotify.com/track/2h5MjaqDZmazfJGyOe48Y0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Existo",
         "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 175355,
       "name": "Existo",
       "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201903,
+      "name": "Ni Tan Novios, Ni Tan Amigos",
+      "url": "https://open.spotify.com/track/2h5MjaqDZmazfJGyOe48Y0"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Relevo",
-        "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Fingir Est\u00e1 De Moda",
-      "url": "https://open.spotify.com/track/21veSwBRn0s1HHLBf7fxZE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 204413,
       "name": "Mar Chiquita",
       "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Relevo",
+        "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Fingir Est\u00e1 De Moda",
+      "url": "https://open.spotify.com/track/21veSwBRn0s1HHLBf7fxZE"
     },
     {
       "added_at": null,
@@ -523,42 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 175739,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 186976,
-      "name": "La S\u00e1bana y los Pies",
-      "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -583,6 +547,42 @@
       "duration_ms": 190836,
       "name": "A Tu Manera (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 186976,
+      "name": "La S\u00e1bana y los Pies",
+      "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 175739,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Se Jodi\u00f3",
-        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 159655,
-      "name": "Esto Se Jodi\u00f3",
-      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 170099,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 159655,
+      "name": "Esto Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAUSA",
-        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 218665,
-      "name": "Cae de Una",
-      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAUSA",
+        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 218665,
+      "name": "Cae de Una",
+      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
     },
     {
       "added_at": null,

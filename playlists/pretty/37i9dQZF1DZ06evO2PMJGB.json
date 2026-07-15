@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264703,
+  "num_followers": 264712,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABFEWod0+F7iF2xynCyUa+W",
+  "snapshot_id": "alQqgAAAAAB0205NbKLNnac5kNfeunoW",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 180755,
-      "name": "Mem\u00f3rias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
+      "duration_ms": 155384,
+      "name": "MULHER DO ANO XD",
+      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
     },
     {
       "added_at": null,
@@ -399,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
       },
       "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 155384,
-      "name": "MULHER DO ANO XD",
-      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
+      "duration_ms": 180755,
+      "name": "Mem\u00f3rias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 182112,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 135111,
       "name": "ATEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 182112,
-      "name": "Chico",
-      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ASTRO",
         "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 125538,
       "name": "FAMA",
       "url": "https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": null,
@@ -647,6 +647,30 @@
       "duration_ms": 186121,
       "name": "penhasco.",
       "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 156591,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
     },
     {
       "added_at": null,
@@ -739,26 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 156591,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -811,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CACHORRINHAS",
         "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
       },
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 130446,
+      "name": "INTERE$$EIRA",
+      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bossa Sempre Nova",
         "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 171490,
       "name": "Consola\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3aQlzls4W5SlVuEBsLUCZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 130446,
-      "name": "INTERE$$EIRA",
-      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
     },
     {
       "added_at": null,

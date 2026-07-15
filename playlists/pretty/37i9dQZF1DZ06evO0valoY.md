@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,696 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,745 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 12 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
 | 13 | [VETE A LA FREGADA](https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 2:46 |
 | 14 | [OTRAS 24 HORAS](https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:42 |
-| 15 | [OJOS DE DIABLA](https://open.spotify.com/track/57NeURKAnB5THfudz92bpT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 3:11 |
+| 15 | [SIEMPRE SIEMPRE](https://open.spotify.com/track/59xUvgpZ3C4bSLJjwFFC1e) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 3:25 |
 | 16 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 |
 | 17 | [Diciembre](https://open.spotify.com/track/5kPEpa2Z7jWjfA6YMq9CGE) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:42 |
 | 18 | [LA DURANGO](https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:22 |
-| 19 | [SIEMPRE SIEMPRE](https://open.spotify.com/track/59xUvgpZ3C4bSLJjwFFC1e) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 3:25 |
+| 19 | [OJOS DE DIABLA](https://open.spotify.com/track/57NeURKAnB5THfudz92bpT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 3:11 |
 | 20 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
 | 21 | [24 Horas](https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 5:17 |
 | 22 | [Dime](https://open.spotify.com/track/4oSFRdQOUmIx5y7lSN8UU2) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:03 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 45 | [Te Quiero a Ti](https://open.spotify.com/track/5OpHUq6Fo1qaUhU3imV6TK) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 3:40 |
 | 46 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 |
 
-Snapshot ID: `alLZAAAAAABFJC+GmZ/awZ1ektFwadIq`
+Snapshot ID: `alQqgAAAAAAxAPY9FqnFrU/i9lz2C5Oz`

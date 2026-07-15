@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22207,
+  "num_followers": 22206,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAACrvdD6YwoWhhwAUFrrKa5",
+  "snapshot_id": "alQqgAAAAAB+c1/elCTGjNW5MT1Hx1S5",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vamos Cantar (Ao Vivo)",
         "url": "https://open.spotify.com/album/1xRXkUoEPB87tro7NXcAAe"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 368011,
       "name": "Vamos Cantar - Ao Vivo",
       "url": "https://open.spotify.com/track/28dhutzL2etPxNHo0nMWvp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Adentro Hacia Afuera",
-        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "De Adentro Hacia Afuera",
-      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Pussy Heaven",
-  "num_followers": 28037,
+  "num_followers": 28036,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Hello Crazy World -10th Anniversary Special",
-        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
-      },
-      "artists": [
-        {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "TREAT HIM LIKE A BABY",
         "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 149446,
       "name": "TREAT HIM LIKE A BABY",
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Hello Crazy World -10th Anniversary Special",
+        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
+      },
+      "artists": [
+        {
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
       "added_at": "2026-07-02 22:01:16",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "delete you.",
+        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 188459,
+      "name": "delete you.",
+      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
+    },
+    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "SELFBEWUS",
@@ -495,6 +511,22 @@
       "duration_ms": 192794,
       "name": "SELFBEWUS",
       "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
+    },
+    {
+      "added_at": "2026-07-02 22:01:16",
+      "album": {
+        "name": "Hey Denny",
+        "url": "https://open.spotify.com/album/6JATUWeZW7pu6vcJ14QJHD"
+      },
+      "artists": [
+        {
+          "name": "Sophia Frank",
+          "url": "https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Hey Denny",
+      "url": "https://open.spotify.com/track/17jx0VcmlgzHERF4HZBM0o"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -517,38 +549,6 @@
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
-      "added_at": "2026-07-02 22:01:16",
-      "album": {
-        "name": "Hey Denny",
-        "url": "https://open.spotify.com/album/6JATUWeZW7pu6vcJ14QJHD"
-      },
-      "artists": [
-        {
-          "name": "Sophia Frank",
-          "url": "https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Hey Denny",
-      "url": "https://open.spotify.com/track/17jx0VcmlgzHERF4HZBM0o"
-    },
-    {
-      "added_at": "2026-06-12 06:02:15",
-      "album": {
-        "name": "delete you.",
-        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 188459,
-      "name": "delete you.",
-      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
-    },
-    {
       "added_at": "2026-06-18 22:02:16",
       "album": {
         "name": "Before You Disappear",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Vriende",
-        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 235568,
-      "name": "Vriende",
-      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Elsie",
         "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 156191,
       "name": "Elsie",
       "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Vriende",
+        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 235568,
+      "name": "Vriende",
+      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
     },
     {
       "added_at": "2026-06-18 22:02:16",

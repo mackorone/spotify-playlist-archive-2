@@ -2,7 +2,7 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Honey Bxby.
+> What's happening in r&b, right now – featuring FLO.
 
 1,510 songs - 3 day 8 hr 55 min
 

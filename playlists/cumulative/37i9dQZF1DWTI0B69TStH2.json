@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0zfMLxMTUG0TdQ6t90yHfA\">Janek Szynal</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:1Y5FAU8ociSgGzRsfdPzLb\">Jerzy Koczur</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -3978,6 +3978,24 @@
       "duration_ms": 207000,
       "name": "Basia",
       "url": "https://open.spotify.com/track/5X63XLXpzZ1WYGCMmtqtUv"
+    },
+    {
+      "album": {
+        "name": "Basia",
+        "url": "https://open.spotify.com/album/4iaBmjad2XtwaHykq0UBBm"
+      },
+      "artists": [
+        {
+          "name": "Pola B\u0142asik",
+          "url": "https://open.spotify.com/artist/5uZWOg9SH9pMTGV7G2awtj"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253860,
+      "name": "Basia",
+      "url": "https://open.spotify.com/track/7BBzb45Wl71DMTzUe5e1dN"
     },
     {
       "album": {
@@ -8673,6 +8691,28 @@
     },
     {
       "album": {
+        "name": "Chc\u0119 si\u0119 bawi\u0107",
+        "url": "https://open.spotify.com/album/3V2wLbVrL9eOnwPYvDMTFT"
+      },
+      "artists": [
+        {
+          "name": "Iga Kumka",
+          "url": "https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL"
+        },
+        {
+          "name": "Nerwus",
+          "url": "https://open.spotify.com/artist/1vwSfpsEZYa0OkNNQ4AYCe"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Chc\u0119 si\u0119 bawi\u0107",
+      "url": "https://open.spotify.com/track/2nMGsDivf8cyA4urZwEu48"
+    },
+    {
+      "album": {
         "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
         "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
       },
@@ -10308,6 +10348,24 @@
       "duration_ms": 188636,
       "name": "Co z tego",
       "url": "https://open.spotify.com/track/5vmTjnKqlvGPmj85bbthcc"
+    },
+    {
+      "album": {
+        "name": "Co Z Tego?",
+        "url": "https://open.spotify.com/album/7oXZTVO6AN0iZq5gMuBNv1"
+      },
+      "artists": [
+        {
+          "name": "zieli\u0144ski",
+          "url": "https://open.spotify.com/artist/75u3vQCTDHOWmYmby80Rs5"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189260,
+      "name": "Co Z Tego?",
+      "url": "https://open.spotify.com/track/2trKj0KxpBzB4cqpevuTch"
     },
     {
       "album": {
@@ -12641,6 +12699,28 @@
     },
     {
       "album": {
+        "name": "DARUJ SOBIE",
+        "url": "https://open.spotify.com/album/27fLJVKTmiIUPManRhDIuL"
+      },
+      "artists": [
+        {
+          "name": "Natalia MOT",
+          "url": "https://open.spotify.com/artist/6gZrluRgnKbOk8fQpxER8y"
+        },
+        {
+          "name": "@prodby_ksk",
+          "url": "https://open.spotify.com/artist/7jGYRh3IpbXLgwuNNRpY1K"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174444,
+      "name": "DARUJ SOBIE",
+      "url": "https://open.spotify.com/track/6EwMHcpHtSTKfgpSK7wMPW"
+    },
+    {
+      "album": {
         "name": "Dawka",
         "url": "https://open.spotify.com/album/6ND1Qa8sgAHZ10pCWWnfdg"
       },
@@ -12768,7 +12848,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 147310,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2lz7ex1AeD8AFIB5lsZZQg"
@@ -16802,7 +16882,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 355000,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3G1eupiw1Qr6pePMeGeA7N"
@@ -19266,7 +19346,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 200816,
       "name": "Gdy znikn\u0119",
       "url": "https://open.spotify.com/track/6Mj1lwqzZ3IpJpN5MtaS3W"
@@ -24916,6 +24996,24 @@
       "duration_ms": 138260,
       "name": "Jessie",
       "url": "https://open.spotify.com/track/38yJbzEy1dyrm1HPUmc4jQ"
+    },
+    {
+      "album": {
+        "name": "Jest Mi Dobrze",
+        "url": "https://open.spotify.com/album/07RYBndrIwK9aBqQkws2UF"
+      },
+      "artists": [
+        {
+          "name": "Joulie Fox",
+          "url": "https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144421,
+      "name": "Jest Mi Dobrze",
+      "url": "https://open.spotify.com/track/1mas8R3yJGfMRXnvUeDimW"
     },
     {
       "album": {
@@ -31478,6 +31576,24 @@
     {
       "album": {
         "name": "Lew",
+        "url": "https://open.spotify.com/album/7dkBpLi9GUtkMYRj9Fpv4l"
+      },
+      "artists": [
+        {
+          "name": "Jerzy Koczur",
+          "url": "https://open.spotify.com/artist/1Y5FAU8ociSgGzRsfdPzLb"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290196,
+      "name": "Lew",
+      "url": "https://open.spotify.com/track/3IVTkR4vT7MOYJrai7lZZH"
+    },
+    {
+      "album": {
+        "name": "Lew",
         "url": "https://open.spotify.com/album/1lfwsnbN3uBqwLKBI4GX4n"
       },
       "artists": [
@@ -33070,7 +33186,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 226560,
       "name": "Maj",
       "url": "https://open.spotify.com/track/0XEJ8fe9lw5NLEoYWBxLjT"
@@ -33476,7 +33592,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 241804,
       "name": "mana",
       "url": "https://open.spotify.com/track/2MyFLi6F8fEIbyKI5lUbqN"
@@ -37314,7 +37430,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 149538,
       "name": "MUSZ\u0118 ZROBI\u0106 PROGRESS",
       "url": "https://open.spotify.com/track/2V6HvEi1eNBZAHr5tMo80F"
@@ -64780,7 +64896,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 191200,
       "name": "Ta\u0144czy\u0107",
       "url": "https://open.spotify.com/track/2xGYpBEzv5GnhBmBCXySdj"
@@ -74734,6 +74850,28 @@
       "duration_ms": 172128,
       "name": "Wrzosy",
       "url": "https://open.spotify.com/track/2vqcKeANBFZDtcMzft8Ej4"
+    },
+    {
+      "album": {
+        "name": "wr\u00f3cisz",
+        "url": "https://open.spotify.com/album/7gcZBB2uqKBcUF0XFwvhzS"
+      },
+      "artists": [
+        {
+          "name": "Lollie",
+          "url": "https://open.spotify.com/artist/436f7n8DsF6X9sgy4yqY2C"
+        },
+        {
+          "name": "Gaba Ko\u015bciug",
+          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "wr\u00f3cisz",
+      "url": "https://open.spotify.com/track/3M2O9HDLhkEMyQlj6pqsHd"
     },
     {
       "album": {

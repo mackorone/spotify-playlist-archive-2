@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,498 likes - 82 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,500 likes - 82 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 29 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:13 |
 | 30 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 31 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 |
-| 32 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
-| 33 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 32 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 33 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 | 34 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 35 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
 | 36 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 63 | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO) | 3:22 |
 | 64 | [Is It Ever Gonna Be Easy](https://open.spotify.com/track/6K1MklYCOtE3ydMrG0Pv1N) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:11 |
 | 65 | [Famous](https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Famous](https://open.spotify.com/album/66jxEpRg72cH9574G9L49e) | 3:42 |
-| 66 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 67 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
+| 66 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
+| 67 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 | 68 | [Low \(Acoustic\)](https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0) | 3:26 |
 | 69 | [Moment in Time](https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 2:47 |
 | 70 | [Lost in a Love Song](https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Down and Out in the Garden of Earthly Delights](https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY) | 2:21 |

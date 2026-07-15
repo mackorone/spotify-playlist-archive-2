@@ -4,7 +4,7 @@
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock.
 
-1,060 songs - 2 day 9 hr 23 min
+1,061 songs - 2 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Say My Name](https://open.spotify.com/track/4mgJ2xyzSAmC3jZymzeTXO) | [LaLa Rose](https://open.spotify.com/artist/4sKgxCn1r8DiKCUGO6gyHo) | [Like It, Love It](https://open.spotify.com/album/3YqDFPeG8Gh8jiveN1L8u3) | 2:49 | 2022-08-26 | 2023-07-19 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-08-19 | 2023-07-19 |
 | [Say Something](https://open.spotify.com/track/25d67cENtRAzxKLu1eGEet) | [Josh Franklin](https://open.spotify.com/artist/6wCj7H435dTD7nFTl9PREo) | [Take Cover](https://open.spotify.com/album/6MZuB7goU0furttXld9zwA) | 4:01 | 2023-07-19 | 2024-06-13 |
+| [Say You Do](https://open.spotify.com/track/19afVIlHHLFNCyO5iQkT8t) | [Aubrey Swander](https://open.spotify.com/artist/7ePtw1M5DLelNZ2u7F6qOa), [sweetbaby](https://open.spotify.com/artist/3ig5zgQfzBap3h2RzHks1n) | [Say You Do](https://open.spotify.com/album/2gP1d2TwDKThO22i1XtRn8) | 3:53 | 2026-07-14 |  |
 | [Say You Do \(feat\. DJ Fresh\)](https://open.spotify.com/track/74jDFju8j3sX1yQJeLdJ6O) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 | 2026-06-04 |  |
 | [Say You Do \(feat\. Imani Williams & DJ Fresh\) \- Extended Mix](https://open.spotify.com/track/51dLT4KKieBpNkH9O4r2BZ) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Say You Do \(EP\) \(feat\. Imani Williams & DJ Fresh\)](https://open.spotify.com/album/0wIVr9OFJp3vpVzxUQO3ES) | 5:15 | 2026-06-01 | 2026-06-05 |
 | [Say You Love Me](https://open.spotify.com/track/1nn9VSxTWyXiLSD6s0l3qz) | [Summerdrive](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Say You Love Me](https://open.spotify.com/album/4ne08vQ2dFvSu0zy7ejmP5) | 2:59 | 2022-08-08 | 2023-07-19 |

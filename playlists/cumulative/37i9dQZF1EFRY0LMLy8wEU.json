@@ -175,6 +175,36 @@
     },
     {
       "album": {
+        "name": "Chain Breaker (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/3y1YEE74BqJq3ZDJ6sFnEL"
+      },
+      "artists": [
+        {
+          "name": "Black Voices Movement",
+          "url": "https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        },
+        {
+          "name": "Jonathan Stamper",
+          "url": "https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398845,
+      "name": "Chain Breaker (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/279wBfsKKh3VsDUFXJHaTu"
+    },
+    {
+      "album": {
         "name": "I Saw The Lord (Live)",
         "url": "https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw"
       },

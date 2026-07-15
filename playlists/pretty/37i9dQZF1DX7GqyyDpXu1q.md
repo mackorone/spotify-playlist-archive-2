@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,328 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,339 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 49 | [Til My Heart Don't Beat](https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside \(Deluxe Album Edition\)](https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL) | 1:57 |
 | 50 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 |
 | 51 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
-| 52 | [Brother Joe](https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Brother Joe](https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN) | 4:48 |
-| 53 | [Hot Damn](https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Black on Black](https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC) | 2:20 |
-| 54 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
+| 52 | [Hot Damn](https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Black on Black](https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC) | 2:20 |
+| 53 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
+| 54 | [Brother Joe](https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Brother Joe](https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN) | 4:48 |
 | 55 | [A Bad Hand](https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [A Bad Hand](https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd) | 3:40 |
 | 56 | [Tell Me Why](https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Tell Me Why](https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l) | 3:06 |
 | 57 | [Down No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Without The Pain](https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U) | 3:27 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 65 | [Stare at the Sun](https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x) | [Duane Betts](https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Stare At The Sun](https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa) | 4:32 |
 | 66 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 |
 | 67 | [Goin' Back Where I Came From](https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Summer Skin](https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2) | 2:47 |
-| 68 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
-| 69 | [Heartless Year](https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Heartless Year](https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE) | 3:55 |
+| 68 | [Heartless Year](https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Heartless Year](https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE) | 3:55 |
+| 69 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
 | 70 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
 | 71 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 |
 | 72 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 |
 | 73 | [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 |
 | 74 | [Heavy Soul](https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Heavy Soul](https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162) | 3:02 |
-| 75 | [Alabama](https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP) | [Bishop Gunn](https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm) | [Natchez](https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4) | 3:34 |
+| 75 | [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 |
 
 Snapshot ID: `AAAAAGZ0X/H0ZENuxS/hat8wPY4at9TL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. Foto: Don Ryvcko
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,909 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,921 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

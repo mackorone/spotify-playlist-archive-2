@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,582 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,637 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 67 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 68 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
 | 69 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
-| 70 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
+| 70 | [Primos \(with Hermanos Gutiérrez\)](https://open.spotify.com/track/23VheE9yyVeFx3v58R696E) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Primos \(with Hermanos Gutiérrez\)](https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE) | 2:49 |
 | 71 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 |
-| 72 | [Primos \(with Hermanos Gutiérrez\)](https://open.spotify.com/track/23VheE9yyVeFx3v58R696E) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Primos \(with Hermanos Gutiérrez\)](https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE) | 2:49 |
+| 72 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
 | 73 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 |
 | 74 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 75 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 82 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 | 83 | [Run A Red Light](https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Fuse](https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx) | 3:39 |
 | 84 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
-| 85 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
-| 86 | [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 |
-| 87 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
+| 85 | [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 |
+| 86 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
+| 87 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
 | 88 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
 | 89 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
-| 90 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
-| 91 | [Quisiera](https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Quisiera](https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv) | 2:15 |
-| 92 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
-| 93 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 |
+| 90 | [Quisiera](https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Quisiera](https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv) | 2:15 |
+| 91 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
+| 92 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 |
+| 93 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
 | 94 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
 | 95 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
 | 96 | [Virtual U](https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Virtual U](https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj) | 5:02 |

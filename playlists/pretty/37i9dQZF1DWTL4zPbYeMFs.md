@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,391 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,417 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 69 | [Aaj Ke Baad \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2lfKa3eVovQUNoPlxb0dwi) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Aaj Ke Baad \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/0THQnVadPc95q8rutBD10c) | 3:37 |
 | 70 | [Jaage Jaage](https://open.spotify.com/track/4rFL17n5nkQ7AKspTGin6x) | [Jeet\-Pritam](https://open.spotify.com/artist/1MSz87CEu1pil41gZmLseq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Mere Yaar Ki Shaadi Hai](https://open.spotify.com/album/1AAYHmOZNgOa41jsgyx994) | 5:38 |
 | 71 | [Nit Nit](https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Nit Nit](https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05) | 4:06 |
-| 72 | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\)](https://open.spotify.com/track/3jyqXdAjwqO3gFtjnYrbq9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\) \- Single](https://open.spotify.com/album/3UWRB8JT1OrMhx9diCj31y) | 2:35 |
+| 72 | [Lagdi Hai Thaai](https://open.spotify.com/track/4hY8QWl3BGv83htRjPfprx) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Lagdi Hai Thaai \(From "Simran"\)](https://open.spotify.com/album/72iWZXfl5gkum49zQAkdHl) | 2:45 |
 | 73 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
-| 74 | [Lagdi Hai Thaai](https://open.spotify.com/track/4hY8QWl3BGv83htRjPfprx) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Lagdi Hai Thaai \(From "Simran"\)](https://open.spotify.com/album/72iWZXfl5gkum49zQAkdHl) | 2:45 |
+| 74 | [Piya Tose Naina Laage Re Unplugged](https://open.spotify.com/track/4Koh5awXrYiWcfpQ3FOGaf) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Sanket Naik](https://open.spotify.com/artist/1Gcm9bmpbQ9zsJEFXKz6lR), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Piya Tose Naina Laage Re Unplugged \- Jonita Gandhi](https://open.spotify.com/album/354fPU4JJWaRna84lIe4Np) | 3:28 |
 | 75 | [Tere Bin](https://open.spotify.com/track/3F5PXirySr1SjFZWOcSUbS) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Wazir](https://open.spotify.com/album/58UGZt8xJwDCcxZlRCGNws) | 4:04 |
 
 Snapshot ID: `AAAAAEdDbp+xwEIV6iVg11ht1ygpVrxl`

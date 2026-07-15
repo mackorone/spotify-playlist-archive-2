@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,583 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,588 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 41 | [I Will Follow](https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 5:33 |
 | 42 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 |
 | 43 | [Something Has To Break \(feat\. Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 6:42 |
-| 44 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 |
-| 45 | [Wonderful Grace](https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:49 |
+| 44 | [Wonderful Grace](https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:49 |
+| 45 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 |
 | 46 | [Blessings on Blessings \(Another Thing\) \(with Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 5:06 |
 | 47 | [Love You Forever \- Live](https://open.spotify.com/track/60D2WPkJJy2bl9FIscd5vb) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:06 |
 | 48 | [Together \(We'll Get Through This\)](https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Together \(We'll Get Through This\)](https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3) | 3:24 |
 | 49 | [The Hand That Keeps Holding Me](https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Hand That Keeps Holding Me](https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm) | 4:51 |
 | 50 | [He Is Lord \- Live](https://open.spotify.com/track/6IBwHO3idGE5V01APsbpUB) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 3:36 |
 
-Snapshot ID: `alLZAAAAAAB3sodpxfG9wpdDCSttAovZ`
+Snapshot ID: `alQqgAAAAADdTuOAH6VKv+48yWKjlst4`

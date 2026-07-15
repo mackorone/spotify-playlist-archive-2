@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Last Dinner Party
 
-2,159 songs - 5 day 5 hr 45 min
+2,161 songs - 5 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 | 2023-10-12 | 2023-10-20 |
 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E) | 3:56 | 2023-10-12 | 2023-10-14 |
 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 | 2026-04-30 |  |
+| [Carved](https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 3:18 | 2026-07-09 |  |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-23 | 2024-09-06 |
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-28 | 2023-10-06 |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-03 | 2025-08-07 |
@@ -410,7 +411,7 @@
 | [Collide](https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Collide](https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd) | 4:03 | 2024-02-29 | 2024-04-26 |
 | [Color Chaos](https://open.spotify.com/track/7gjG9tike8AJUB6dtwPRsB) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Color Chaos](https://open.spotify.com/album/4FrQPhcXLf98uHn3cb3t75) | 3:11 | 2023-04-13 | 2023-04-28 |
 | [Columbia \- Sawmills Outtake](https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK) | 7:17 | 2024-06-20 | 2024-07-06 |
-| [Come Inside](https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:13 | 2026-05-28 |  |
+| [Come Inside](https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:13 | 2026-05-28 | 2026-07-15 |
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-12 | 2024-10-31 |
 | [Come Together](https://open.spotify.com/track/76DJF0ghSnM5wQQR4yftJI) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Loaded: The Greatest Hits 1994\-2023](https://open.spotify.com/album/1LixNH7PXR2pNKoBy0SJ3z) | 3:29 | 2023-11-10 | 2023-12-01 |
 | [Come Together](https://open.spotify.com/track/3uYcZbENYndKFiffMxxmyp) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Loaded: The Greatest Hits 1994\-2023](https://open.spotify.com/album/1l7RIFV5Ka5Xs91lDrBWLb) | 3:29 | 2023-11-09 | 2023-11-11 |
@@ -1738,6 +1739,7 @@
 | [Stray](https://open.spotify.com/track/3Cn7sqZOpHHgRAlC7ZHpxl) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:01 | 2023-11-02 | 2023-11-10 |
 | [STRAY](https://open.spotify.com/track/7MCtZJoabikk4AVQp8o6rP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [STRAY / SAD OCTOBER](https://open.spotify.com/album/1RQRIpDcdE828hNQ8bpQsT) | 2:33 | 2024-05-02 | 2024-05-27 |
 | [Stray Dog](https://open.spotify.com/track/4Fjlyizev6rOx3rVo6JQIC) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Yours Until the War is Over](https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M) | 4:10 | 2024-02-22 | 2024-03-01 |
+| [Stray Dogs](https://open.spotify.com/track/2PPfvgdNJqXzHjg61y9AWh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Stray Dogs](https://open.spotify.com/album/6wwFB0YmjCiqCwyrQVXAkU) | 5:23 | 2026-07-09 |  |
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-01-29 | 2026-05-08 |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-05-11 | 2023-10-06 |
 | [Stuck](https://open.spotify.com/track/483ngpflrHCLnkBSXsSnsb) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:02 | 2023-10-05 | 2024-02-09 |
@@ -1887,7 +1889,7 @@
 | [This Time Last Week](https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [I Hope Hell Isn't Real](https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H) | 2:14 | 2023-04-13 | 2023-04-21 |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/67HUPUbKERncrFL0oRDjCW) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/album/5pP4ENzT90iXLawJvJyPDg) | 3:11 | 2024-08-29 | 2024-09-20 |
 | [thoughts i have while lying in bed](https://open.spotify.com/track/7qsdMGuObHstMzOUfgiNXJ) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-12-07 | 2023-12-15 |
-| [Throw Yourself to the Sword](https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 2:40 | 2026-06-26 |  |
+| [Throw Yourself to the Sword](https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 2:40 | 2026-06-26 | 2026-07-15 |
 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 | 2023-05-11 | 2023-05-19 |
 | [Time](https://open.spotify.com/track/1f60WuSbixEy7USRuqtqSa) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Time](https://open.spotify.com/album/69yEktH6MIS6icZTzlfMwT) | 3:14 | 2024-02-08 | 2024-02-16 |
 | [Time](https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [Time](https://open.spotify.com/album/5U3qCvNQmg8LrERbzUU8zd) | 7:19 | 2023-08-24 | 2023-09-01 |

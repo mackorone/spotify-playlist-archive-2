@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 MUGRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,818 likes - 95 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,820 likes - 95 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

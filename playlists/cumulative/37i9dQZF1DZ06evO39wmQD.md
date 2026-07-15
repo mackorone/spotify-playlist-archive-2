@@ -4,12 +4,13 @@
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 11 min
+47 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cautionary Tale](https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 1:08 | 2024-01-13 |  |
-| [Along The Way \- From "Vaiana"](https://open.spotify.com/track/10Z8I4GnqxYm5JD4K80Cpx) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Catherine Laga'aia](https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Along The Way \(From "Vaiana"\)](https://open.spotify.com/album/0W2ShIFtAEBCBAgqRHDZRv) | 4:17 | 2026-06-17 |  |
+| [Along The Way \- From "Moana"](https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Catherine Laga'aia](https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Along The Way \(From "Moana"\)](https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY) | 4:17 | 2026-07-15 |  |
+| [Along The Way \- From "Vaiana"](https://open.spotify.com/track/10Z8I4GnqxYm5JD4K80Cpx) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Catherine Laga'aia](https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Along The Way \(From "Vaiana"\)](https://open.spotify.com/album/0W2ShIFtAEBCBAgqRHDZRv) | 4:17 | 2026-06-17 | 2026-07-15 |
 | [Apex Predator](https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 3:07 | 2024-01-13 |  |
 | [Beyond](https://open.spotify.com/track/28NuQOBWZGX9jG647T6vWV) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:50 | 2024-12-12 |  |
 | [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-12-07 | 2024-12-12 |

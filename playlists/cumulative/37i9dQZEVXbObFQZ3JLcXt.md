@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-771 songs - 2 day 0 hr 16 min
+772 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Mesin Waktu](https://open.spotify.com/track/1MgEuKnMKzbODJ5Ez94I64) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Dua Warna Cinta](https://open.spotify.com/album/3booEHeBD0ch2nl4ZACF7S) | 4:22 | 2022-04-10 | 2023-03-21 |
 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 | 2021-11-28 | 2022-04-11 |
 | [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:40 | 2021-07-16 | 2021-08-01 |
+| [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 | 2026-07-14 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-12 | 2022-01-22 |
 | [Monokrom](https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:34 | 2021-10-02 |  |
 | [Monolog](https://open.spotify.com/track/1zu5ZpnrSArdoaT6Qq3yo9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk the Talk](https://open.spotify.com/album/6CYiVTU1drHMvGHgMHmLQZ) | 3:27 | 2025-04-19 |  |
@@ -505,7 +506,7 @@
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-11-14 |
 | [Permission to Dance \(Instrumental\)](https://open.spotify.com/track/0gptQQwXDtDYkkgoQl1V9T) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-12 |
-| [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 | 2021-07-29 |  |
+| [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 | 2021-07-29 | 2026-07-15 |
 | [PICA PICA](https://open.spotify.com/track/7lulQZKlbZzBKsK4rfP8h5) | [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf) | [PICA PICA](https://open.spotify.com/album/7bSpPZ1veveCgWfDOFVCxH) | 3:24 | 2025-04-23 | 2025-10-13 |
 | [PICA PICA](https://open.spotify.com/track/0Qeg8xauLZT7LwAf1Vznny) | [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf) | [PICA PICA](https://open.spotify.com/album/2Fr6lhPvmeDhPXTXHx6naV) | 3:24 | 2025-04-18 | 2025-04-24 |
 | [PICA PICA](https://open.spotify.com/track/3Pr4YpoHvWUyrF9MKvcXU1) | [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf) | [PICA PICA](https://open.spotify.com/album/3e7RiczlILwlVaPQai2Qms) | 3:24 | 2025-04-25 | 2025-05-06 |

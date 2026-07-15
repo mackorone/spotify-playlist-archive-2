@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174547,
+  "num_followers": 174551,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAD+ouM75n2uUmoah00IXECJ",
+  "snapshot_id": "alQqgAAAAAAxQDXTapJy1reIl9frLAoA",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 243373,
       "name": "A Cada Vento - Live",
       "url": "https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     },
     {
       "added_at": null,
@@ -854,15 +854,11 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
         }
       ],
-      "duration_ms": 162350,
-      "name": "Finado Neguim memo?",
-      "url": "https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ"
+      "duration_ms": 115200,
+      "name": "O que n\u00f3iz faz com essa dor?",
+      "url": "https://open.spotify.com/track/0N1jAQTeTbmibSZERYl4ER"
     },
     {
       "added_at": null,

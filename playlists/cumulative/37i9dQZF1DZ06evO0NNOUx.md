@@ -4,11 +4,12 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-97 songs - 4 hr 42 min
+98 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1234](https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8) | 2:49 | 2025-04-09 | 2025-05-15 |
+| [2 STEP THE ENEMY](https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [LOST & FOUND](https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo), [ZVC](https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI) | [2 STEP THE ENEMY](https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB) | 2:42 | 2026-07-15 |  |
 | [ALIVE](https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:01 | 2025-04-09 | 2026-04-17 |
 | [ALL THE TIME](https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ALL THE TIME](https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2) | 2:48 | 2025-04-09 | 2026-04-15 |
 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 | 2025-04-18 |  |
@@ -49,7 +50,7 @@
 | [JESUS IS ALIVE](https://open.spotify.com/track/4LLBhbxaX6tltjQjpMx9by) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [JESUS IS ALIVE](https://open.spotify.com/album/4rZQnsZvcW7KyNw7wZX2Hz) | 2:08 | 2026-05-16 |  |
 | [JESUS IS COMING BACK SOON](https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [JESUS IS COMING BACK SOON](https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP) | 3:00 | 2025-10-06 |  |
 | [Jesus Paid It All \(Worthy of The Price\)](https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Jesus Paid It All](https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7) | 3:56 | 2025-04-09 |  |
-| [JUNE GLOOM](https://open.spotify.com/track/6gIgB4sGliVmisT36yiST7) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:12 | 2026-04-17 |  |
+| [JUNE GLOOM](https://open.spotify.com/track/6gIgB4sGliVmisT36yiST7) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:12 | 2026-04-17 | 2026-07-15 |
 | [KEEP IT SIMPLE](https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [KEEP IT SIMPLE](https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR) | 2:20 | 2025-10-27 |  |
 | [Lately](https://open.spotify.com/track/58ijtNiLXPW6d24WmoMCAP) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 3:27 | 2025-04-09 | 2025-05-19 |
 | [LEMONADE](https://open.spotify.com/track/29UECtQE2aqbuHIjvAlAU8) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 3:02 | 2025-12-27 |  |

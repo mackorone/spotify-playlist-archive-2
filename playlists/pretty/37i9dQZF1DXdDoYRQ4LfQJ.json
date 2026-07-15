@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con El Rabbanito & the hottest corridos in the U.S.",
-  "num_followers": 343732,
+  "num_followers": 343784,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,18 @@
     {
       "added_at": "2026-07-03 09:15:20",
       "album": {
-        "name": "Aguas",
-        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
+        "name": "Alegres - Los Mejores Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/0Orm3dKLTaMjHIhQcpZesP"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 172682,
-      "name": "Aguas",
-      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+      "duration_ms": 192876,
+      "name": "El Del Palenque",
+      "url": "https://open.spotify.com/track/59IzIYjjHoYqs6SLioYrcI"
     },
     {
       "added_at": "2026-07-03 09:15:20",
@@ -571,18 +563,26 @@
     {
       "added_at": "2026-07-03 09:15:20",
       "album": {
-        "name": "Alegres - Los Mejores Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/0Orm3dKLTaMjHIhQcpZesP"
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
       "artists": [
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
         }
       ],
-      "duration_ms": 192876,
-      "name": "El Del Palenque",
-      "url": "https://open.spotify.com/track/59IzIYjjHoYqs6SLioYrcI"
+      "duration_ms": 172682,
+      "name": "Aguas",
+      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
     },
     {
       "added_at": "2026-07-03 09:15:20",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-07-03 09:15:20",
       "album": {
-        "name": "Chiclona",
-        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 160165,
-      "name": "Chiclona",
-      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
-    },
-    {
-      "added_at": "2026-07-03 09:15:20",
-      "album": {
         "name": "Iniciales SV",
         "url": "https://open.spotify.com/album/66T32PrE8X6ZHLLn9YgP0e"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 152392,
       "name": "Iniciales SV",
       "url": "https://open.spotify.com/track/3cVI9zik0Se9ursMgFBw6R"
+    },
+    {
+      "added_at": "2026-07-03 09:15:20",
+      "album": {
+        "name": "Chiclona",
+        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 160165,
+      "name": "Chiclona",
+      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
     },
     {
       "added_at": "2026-07-03 09:15:20",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-07-03 09:15:20",
       "album": {
-        "name": "LA FES",
-        "url": "https://open.spotify.com/album/6dP9DNTw9qYgmmJo33BVzP"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 183221,
-      "name": "LA FES",
-      "url": "https://open.spotify.com/track/545MwEy3nhHa0qZ5Hhafeu"
+      "duration_ms": 174272,
+      "name": "El Fat Tony",
+      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
       "added_at": "2026-07-03 09:15:20",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-07-03 09:15:20",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "LA FES",
+        "url": "https://open.spotify.com/album/6dP9DNTw9qYgmmJo33BVzP"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 174272,
-      "name": "El Fat Tony",
-      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
+      "duration_ms": 183221,
+      "name": "LA FES",
+      "url": "https://open.spotify.com/track/545MwEy3nhHa0qZ5Hhafeu"
     },
     {
       "added_at": "2026-07-03 09:15:20",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-07-03 09:15:20",
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 169317,
-      "name": "Supreme",
-      "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
-    },
-    {
-      "added_at": "2026-07-03 09:15:20",
-      "album": {
         "name": "ANDAMOS GANANDO",
         "url": "https://open.spotify.com/album/1HpR34HOatAt6OkrqxFOfx"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 162735,
       "name": "ANDAMOS GANANDO",
       "url": "https://open.spotify.com/track/6TTGRjvzdhIg4eWYbHj4fI"
+    },
+    {
+      "added_at": "2026-07-03 09:15:20",
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 169317,
+      "name": "Supreme",
+      "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
     },
     {
       "added_at": "2026-07-03 09:15:20",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2026-07-03 09:15:20",
       "album": {
+        "name": "Me Acostumbre A Lo Bueno II",
+        "url": "https://open.spotify.com/album/2aPfDcYuz5bJQbVGSYgFkT"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 126922,
+      "name": "Me Acostumbre A Lo Bueno II",
+      "url": "https://open.spotify.com/track/0UXfmA5wYIE1uBvFzOdlCR"
+    },
+    {
+      "added_at": "2026-07-03 09:15:20",
+      "album": {
         "name": "El Buenas Tardes",
         "url": "https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 211051,
       "name": "El Buenas Tardes",
       "url": "https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6"
-    },
-    {
-      "added_at": "2026-07-03 09:15:20",
-      "album": {
-        "name": "Me Acostumbre A Lo Bueno II",
-        "url": "https://open.spotify.com/album/2aPfDcYuz5bJQbVGSYgFkT"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 126922,
-      "name": "Me Acostumbre A Lo Bueno II",
-      "url": "https://open.spotify.com/track/0UXfmA5wYIE1uBvFzOdlCR"
     },
     {
       "added_at": "2026-07-03 09:15:20",

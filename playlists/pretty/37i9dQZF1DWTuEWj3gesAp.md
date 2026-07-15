@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEWj3gesAp.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 779 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 782 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEWj3gesAp.md) - [plain]
 | 115 | [Army](https://open.spotify.com/track/71LULTa86V37wt8r1GgYSt) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Army](https://open.spotify.com/album/2nI1b35RA5bUPbpZoVzlu1) | 3:23 |
 | 116 | [Million Days](https://open.spotify.com/track/0DzPnTBSmVRKBQAmH3EomR) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Claire Ridgely](https://open.spotify.com/artist/2gIledIp7OdxhHZ4tG6Mh2) | [Million Days](https://open.spotify.com/album/3U7VyDFPH3h4v6kzQLx3ui) | 3:28 |
 | 117 | [Scared](https://open.spotify.com/track/2ktaGvlb0uE3tUQXy2oXoo) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Claire Ridgely](https://open.spotify.com/artist/2gIledIp7OdxhHZ4tG6Mh2) | [Scared](https://open.spotify.com/album/64BNEj8QiXewIjgv6iL0fL) | 2:50 |
-| 118 | [HOOLIGANS](https://open.spotify.com/track/0bcoPdat6SIiixawZvWNws) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [HOOLIGANS](https://open.spotify.com/album/4assuAhpOy71OEyYQqhIJT) | 2:07 |
-| 119 | [BAJA BLASTER](https://open.spotify.com/track/508qHPYB5x0CTw2F6oILwe) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Big Florida](https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [BAJA BLASTER](https://open.spotify.com/album/22XSQ56J7gdgIxvB1vHOXW) | 4:03 |
+| 118 | [HOOLIGANS](https://open.spotify.com/track/0bcoPdat6SIiixawZvWNws) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l) | [HOOLIGANS](https://open.spotify.com/album/4assuAhpOy71OEyYQqhIJT) | 2:07 |
+| 119 | [BAJA BLASTER](https://open.spotify.com/track/508qHPYB5x0CTw2F6oILwe) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Big Florida](https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj) | [BAJA BLASTER](https://open.spotify.com/album/22XSQ56J7gdgIxvB1vHOXW) | 4:03 |
 | 120 | [Through Patches of Violet](https://open.spotify.com/track/6C3NjslaxrAHpiU9W5XTiV) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Through Patches of Violet](https://open.spotify.com/album/4kIQ6pPftg9ZAC3U2AwL8M) | 3:52 |
 | 121 | [Compass](https://open.spotify.com/track/63Q6eqzvahoFWNe9C4Dh2g) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Compass](https://open.spotify.com/album/5XX5FccPQof70zWB8o84sq) | 2:48 |
 | 122 | [Tung Tung Tung Sahur \- Radio Edit](https://open.spotify.com/track/2nHMv3u2QBfeD2oTKXcnhj) | [Calfskin](https://open.spotify.com/artist/3Wv1l84R7jrXeTj1ZNK8af), [BIXXB](https://open.spotify.com/artist/5FNPvM3tb7v7PcGkNpWXm2) | [Tung Tung Tung Sahur](https://open.spotify.com/album/6IlubFHMa9KPqa0yWi5Gws) | 2:01 |

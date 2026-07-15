@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 
 > Sit back, and chill with Bollywood's easygoing hits\. Cover \- Param Sundari
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,005 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,320 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 | 39 | [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 |
 | 40 | [Kaho Na Kaho \- From "Murder"](https://open.spotify.com/track/6iK2pxK4fCJLZwrzUslWgY) | [Amir Jamal](https://open.spotify.com/artist/6fjlehmqzeqeDmRwnbvapd), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Murder](https://open.spotify.com/album/4Ncc4SXe72mXB2d8Xdw64s) | 5:11 |
 | 41 | [Tu Hi Haqeeqat](https://open.spotify.com/track/3OLFqbd9ZeVjaUKTiaLsD6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Irshan Ashraf](https://open.spotify.com/artist/5OG0IXzIqYPB67VMlEJOo0), [Shadab](https://open.spotify.com/artist/0NeoPmJb4LMYLHhX8OVaNA), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Tum Mile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ip9JCpT1IF9GvhAxzufTH) | 5:02 |
-| 42 | [Channa Ve \- From "Bhoot \- Part One: The Haunted Ship"](https://open.spotify.com/track/2Z6HgNji9cNlFLNORw6wDQ) | [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h), [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM) | [Channa Ve \(From "Bhoot \- Part One: The Haunted Ship" / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOMsr8IXceyjslQVMhOfH) | 3:31 |
+| 42 | [Channa Ve \- From "Bhoot \- Part One: The Haunted Ship"](https://open.spotify.com/track/2Z6HgNji9cNlFLNORw6wDQ) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Channa Ve \(From "Bhoot \- Part One: The Haunted Ship" / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOMsr8IXceyjslQVMhOfH) | 3:31 |
 | 43 | [Dildaara \(Stand By Me\)](https://open.spotify.com/track/6ZoCBDOB308GqUdt2AJrV2) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shafqat Amanat Ali](https://open.spotify.com/artist/0Zlo3SFncjP8twXgkTdeGq), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 4:09 |
 | 44 | [Chashni \(From "Bharat"\)](https://open.spotify.com/track/5X5db3FrBOHbibrFKA02MQ) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Chashni \(From "Bharat"\)](https://open.spotify.com/album/5MZ0GKSj7GZofWTBGkOku3) | 4:25 |
 | 45 | [Maahi Ve](https://open.spotify.com/track/1sbW5E7w8tnqpYk0Frx8QG) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:00 |

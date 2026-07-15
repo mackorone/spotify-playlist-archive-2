@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,383 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,385 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 18 | [我的存在就是愛你](https://open.spotify.com/track/1emjanb16SqthPUn27rUCp) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我的存在就是愛你](https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN) | 3:22 |
 | 19 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 20 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
-| 21 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
-| 22 | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/track/3jZKQXkPxiwVmPPtiGO58P) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/album/4KEfrMyOcq1I4HPRSBK1Du) | 4:40 |
+| 21 | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/track/3jZKQXkPxiwVmPPtiGO58P) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/album/4KEfrMyOcq1I4HPRSBK1Du) | 4:40 |
+| 22 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
 | 23 | [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 |
 | 24 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
 | 25 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 39 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 40 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
 | 41 | [習慣後就別說痛了](https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [習慣後就別說痛了](https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl) | 3:52 |
-| 42 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
-| 43 | [側臉](https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [嵌入生長](https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN) | 3:53 |
+| 42 | [側臉](https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [嵌入生長](https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN) | 3:53 |
+| 43 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
 | 44 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
 | 45 | [心臟的右邊 / Right Side of My Heart \(feat\. 魏如萱\)](https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Same Stories, Different Narratives](https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ) | 4:32 |
 | 46 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 |

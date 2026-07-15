@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Kold AF & ODUMODUBLVCK",
-  "num_followers": 112216,
+  "num_followers": 112220,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Big Bad World",
-        "url": "https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn"
-      },
-      "artists": [
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Big Bad World",
-      "url": "https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "Do Not Disturb (DND)",
         "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 172035,
       "name": "Do Not Disturb (DND)",
       "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Big Bad World",
+        "url": "https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn"
+      },
+      "artists": [
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "Big Bad World",
+      "url": "https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+      },
+      "artists": [
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
         "name": "Night Drive (feat. Dagmawit Ameha)",
         "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 220340,
       "name": "Night Drive (feat. Dagmawit Ameha)",
       "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
-        "name": "impossible",
-        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
-      },
-      "artists": [
-        {
-          "name": "Tochi Bedford",
-          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "impossible",
-      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 158537,
-      "name": "ROCK & SLIDE",
-      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "o-YO\u00a1",
         "url": "https://open.spotify.com/album/0QPAyUdeXWBXhZDdSueCnL"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 146285,
       "name": "ataKO",
       "url": "https://open.spotify.com/track/5rBrGcFb5ofhRwHL6VFaK8"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 158537,
+      "name": "ROCK & SLIDE",
+      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
+        "name": "Little Us",
+        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        }
+      ],
+      "duration_ms": 184299,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
         "name": "TAKE RISKS AND PROSPER",
         "url": "https://open.spotify.com/album/0VkxkZMbjH8NrSLllbFUN7"
       },
@@ -943,6 +959,22 @@
       "duration_ms": 155844,
       "name": "BURTI RIDDIM (RAGER 77)",
       "url": "https://open.spotify.com/track/2vH4kipt6yqoYnItS3MDRb"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "OLORIN PACK",
+        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+      },
+      "artists": [
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "duration_ms": 113776,
+      "name": "TRABAYE",
+      "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -975,34 +1007,18 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "OLORIN PACK",
-        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
       },
       "artists": [
         {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
         }
       ],
-      "duration_ms": 113776,
-      "name": "TRABAYE",
-      "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
-        "name": "Little Us",
-        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
-      },
-      "artists": [
-        {
-          "name": "EKENE",
-          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
-        }
-      ],
-      "duration_ms": 184299,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf"
+      "duration_ms": 145426,
+      "name": "Yapa Yapa",
+      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1027,22 +1043,6 @@
       "duration_ms": 154001,
       "name": "Green Light (feat. Brazy & Maleigh Zan)",
       "url": "https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
-        "name": "Diamond in a Process",
-        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
-      },
-      "artists": [
-        {
-          "name": "Jiire Smith",
-          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Yapa Yapa",
-      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Para Para",
-        "url": "https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q"
-      },
-      "artists": [
-        {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        }
-      ],
-      "duration_ms": 147744,
-      "name": "Para Para",
-      "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "HIH & Serial Kisser",
         "url": "https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 181714,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Para Para",
+        "url": "https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        }
+      ],
+      "duration_ms": 147744,
+      "name": "Para Para",
+      "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Ready (feat. \u00d8bed)",
-        "url": "https://open.spotify.com/album/6KJJfVl62AaliPRqQ0sSpI"
-      },
-      "artists": [
-        {
-          "name": "Sante SVM",
-          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
-        },
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Ready (feat. \u00d8bed)",
-      "url": "https://open.spotify.com/track/5ZGyfcX8rmvy1MWWonAjpt"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "MEGAPHUNK",
         "url": "https://open.spotify.com/album/4aPlsCZksh87iYXvqQCUKb"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 112116,
       "name": "4 LIF3",
       "url": "https://open.spotify.com/track/6ln56LeB7NsVaeCiS4t5lL"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Ready (feat. \u00d8bed)",
+        "url": "https://open.spotify.com/album/6KJJfVl62AaliPRqQ0sSpI"
+      },
+      "artists": [
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        },
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Ready (feat. \u00d8bed)",
+      "url": "https://open.spotify.com/track/5ZGyfcX8rmvy1MWWonAjpt"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2026-07-10 00:01:33",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/5pMMj9DDKEHThmhAaxaHwl"
-      },
-      "artists": [
-        {
-          "name": "M\u0113l",
-          "url": "https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC"
-        },
-        {
-          "name": "Anabel Rose",
-          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
-        },
-        {
-          "name": "mala\u00efka",
-          "url": "https://open.spotify.com/artist/3gdZY0Ui68OFFeZ27EpGZo"
-        }
-      ],
-      "duration_ms": 192285,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/2qWaoTUBcVXXA1QgM5ODLc"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
         "name": "Pasta",
         "url": "https://open.spotify.com/album/7FXNVVtmIMGcqCyhOq67Ro"
       },
@@ -1383,42 +1359,6 @@
       "duration_ms": 151052,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-07-10 00:01:33",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/25sxivXOQ0WZadZneVC0Vm"
-      },
-      "artists": [
-        {
-          "name": "Iver Rivers",
-          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
-        },
-        {
-          "name": "PD",
-          "url": "https://open.spotify.com/artist/5ul0sPH3QadTyY5V3EYYbS"
-        }
-      ],
-      "duration_ms": 122033,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4lWhQA6X4KNTRSQmhpwIN5"
     },
     {
       "added_at": "2026-07-10 00:01:33",
@@ -1467,6 +1407,66 @@
       "duration_ms": 260000,
       "name": "Don't Chase Me Away",
       "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/5pMMj9DDKEHThmhAaxaHwl"
+      },
+      "artists": [
+        {
+          "name": "M\u0113l",
+          "url": "https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC"
+        },
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        },
+        {
+          "name": "mala\u00efka",
+          "url": "https://open.spotify.com/artist/3gdZY0Ui68OFFeZ27EpGZo"
+        }
+      ],
+      "duration_ms": 192285,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2qWaoTUBcVXXA1QgM5ODLc"
+    },
+    {
+      "added_at": "2026-07-10 00:01:33",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/25sxivXOQ0WZadZneVC0Vm"
+      },
+      "artists": [
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        },
+        {
+          "name": "PD",
+          "url": "https://open.spotify.com/artist/5ul0sPH3QadTyY5V3EYYbS"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4lWhQA6X4KNTRSQmhpwIN5"
     },
     {
       "added_at": "2026-07-10 00:01:33",

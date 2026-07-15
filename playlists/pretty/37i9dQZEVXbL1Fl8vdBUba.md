@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,357 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,351 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 42 | [Destino Final](https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Destino Final](https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ) | 2:53 |
 | 43 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
 | 44 | [Ozono](https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [Ozono](https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y) | 4:04 |
-| 45 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
+| 45 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
 | 46 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 |
 | 47 | [THIS IS COLOMBIA](https://open.spotify.com/track/1pnK2LlYNzYbiJ7KyMgn7E) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [EL ANDROIDE](https://open.spotify.com/album/4hHr8IqArStD13dxMZqNM8) | 2:36 |
 | 48 | [Cuando No Era Cantante RMX \- Remix](https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Eso Si Es De Gangster](https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb) | 5:27 |
 | 49 | [Ojalá](https://open.spotify.com/track/3YSkiK0JAaWvZVh0rFa3ja) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:36 |
 | 50 | [SANKA](https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Dongo](https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:35 |
 
-Snapshot ID: `MehP8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MemhcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Yeat, Autumn!, Cuo Zay and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
       "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Been Off (feat. Yeat)",
       "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
@@ -590,6 +590,24 @@
       "duration_ms": 116480,
       "name": "Blood On The Leaves (Remix)",
       "url": "https://open.spotify.com/track/1pxal7Zs5xxABW7Jf01RpL"
+    },
+    {
+      "album": {
+        "name": "blow",
+        "url": "https://open.spotify.com/album/2hHOjo3ErgUJ25YJQT3avw"
+      },
+      "artists": [
+        {
+          "name": "yvngGuda",
+          "url": "https://open.spotify.com/artist/1SovUsFMkRuWWExNh7I80p"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111648,
+      "name": "blow",
+      "url": "https://open.spotify.com/track/3AFG1D4hj35t8vXJRXyhxf"
     },
     {
       "album": {
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 165009,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 163062,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 137000,
       "name": "Survival Mode",
       "url": "https://open.spotify.com/track/6J1qkQoOtEC66i6gwz112z"
@@ -4492,7 +4510,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"

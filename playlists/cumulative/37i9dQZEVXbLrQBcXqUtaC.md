@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,970 songs - 4 day 17 hr 29 min
+1,971 songs - 4 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1288,7 +1288,8 @@
 | [Se Paciente Funk](https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO) | [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q) | [Se Paciente Funk](https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff) | 1:09 | 2024-09-20 | 2024-09-22 |
 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-07-22 | 2023-08-28 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-17 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-04 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-04 | 2026-07-15 |
+| [Self Aware](https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE) | 3:00 | 2026-07-14 |  |
 | [Seoul City](https://open.spotify.com/track/4zUob9iYFS9TgAR0hgo5pR) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ) | 2:44 | 2025-04-21 | 2025-05-03 |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-07-20 | 2023-09-18 |
 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 | 2022-04-25 | 2022-04-27 |

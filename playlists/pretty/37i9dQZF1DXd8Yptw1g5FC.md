@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sibel Can, Eypio ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,098 likes - 115 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,129 likes - 115 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Sit back, and chill with Bollywood's easygoing hits. Cover - Param Sundari",
-  "num_followers": 583005,
+  "num_followers": 583320,
   "original_name": "Bollywood & Chill",
   "owner": {
     "name": "Spotify",
@@ -1004,12 +1004,12 @@
       },
       "artists": [
         {
-          "name": "Mansheel Gujral",
-          "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
-        },
-        {
           "name": "Akhil Sachdeva",
           "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Mansheel Gujral",
+          "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
         }
       ],
       "duration_ms": 211578,

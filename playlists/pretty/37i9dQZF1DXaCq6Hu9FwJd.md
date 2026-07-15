@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCq6Hu9FwJd.md) - [plain]
 
 > This is a normal day playlist with RM\. Vote for the NORMAL day song that best suits RM! Then, the NORMAL Day BTS playlist will be complete!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,001 likes - 19 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,531 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCq6Hu9FwJd.md) - [plain]
 | 7 | [Magic Shop](https://open.spotify.com/track/37nOpaUof3d4Xsmr6moAiI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:35 |
 | 8 | [Rain](https://open.spotify.com/track/6Jr2GutTFyfvAzGA36R2Uj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:24 |
 | 9 | [Whalien 52](https://open.spotify.com/track/1otHp4s8IRCLn1JZcVrNhz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 4:03 |
-| 10 | [Tomorrow](https://open.spotify.com/track/0JkTVcN5kilfMztDb3bKZk) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) | 4:21 |
-| 11 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 |
-| 12 | [00:00 \(Zero O’Clock\)](https://open.spotify.com/track/6fqaMyg066xlukvUJWdM2T) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:10 |
-| 13 | [Spring Day](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:34 |
-| 14 | [Butterfly](https://open.spotify.com/track/3bjg5cbmuwDoS7e2dAWyRG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:58 |
-| 15 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
-| 16 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
-| 17 | [Into the Sun](https://open.spotify.com/track/3mFWOqkxOecRIwcD7wIHcr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:47 |
-| 18 | [Please](https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:52 |
-| 19 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 |
+| 10 | [Lost](https://open.spotify.com/track/2So2zLatKtnIP0cy3a4Fn0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:01 |
+| 11 | [Tomorrow](https://open.spotify.com/track/0JkTVcN5kilfMztDb3bKZk) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) | 4:21 |
+| 12 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 |
+| 13 | [00:00 \(Zero O’Clock\)](https://open.spotify.com/track/6fqaMyg066xlukvUJWdM2T) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:10 |
+| 14 | [Spring Day](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:34 |
+| 15 | [Butterfly](https://open.spotify.com/track/3bjg5cbmuwDoS7e2dAWyRG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:58 |
+| 16 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
+| 17 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
+| 18 | [Into the Sun](https://open.spotify.com/track/3mFWOqkxOecRIwcD7wIHcr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:47 |
+| 19 | [Please](https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:52 |
+| 20 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 |
 
-Snapshot ID: `AAAAAAo8j2176SnsbRmsF2j/WM3fROv7`
+Snapshot ID: `AAAAAHjl4rM/vls7u5dGtC//IuDgMQrB`

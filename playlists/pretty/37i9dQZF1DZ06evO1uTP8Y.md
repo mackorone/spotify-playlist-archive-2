@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,880 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 42 | [Hold You Down](https://open.spotify.com/track/58rGKqZE9EiSAmPIeMLaKu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:38 |
 | 43 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 |
 | 44 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
-| 45 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 |
-| 46 | [i'm ready \(feat\. Odeal\)](https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WONDERLOVE +](https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd) | 3:26 |
+| 45 | [i'm ready \(feat\. Odeal\)](https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WONDERLOVE +](https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd) | 3:26 |
+| 46 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 |
 | 47 | [Too Fine](https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Too Fine](https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ) | 2:40 |
 | 48 | [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 |
 | 49 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |
 | 50 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 |
 
-Snapshot ID: `alLZAAAAAADuPG+S1sDbk05/6j6GQni0`
+Snapshot ID: `alQqgAAAAAARNE9mdd6Mm/eRWhZ7tE22`

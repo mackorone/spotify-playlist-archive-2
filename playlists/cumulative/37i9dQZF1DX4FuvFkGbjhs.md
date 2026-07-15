@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Kelela
 
-912 songs - 2 day 4 hr 39 min
+913 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-02-13 |  |
 | [I Imagine \(with Hope Tala\)](https://open.spotify.com/track/430rbHunIAZUcA9Cy2ymU5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Imagine \(with Hope Tala\)](https://open.spotify.com/album/0piQOFAI3t9FjSP3re0Bp9) | 2:23 | 2025-07-04 | 2025-08-15 |
 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 | 2025-03-21 | 2025-06-06 |
-| [i let the sun back in](https://open.spotify.com/track/00OaYHmBjzIPSEnUI0q1lO) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [i let the sun back in](https://open.spotify.com/album/4LKiBILBoGF9LbkgkpVnwL) | 2:26 | 2026-07-09 |  |
+| [i let the sun back in](https://open.spotify.com/track/00OaYHmBjzIPSEnUI0q1lO) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [i let the sun back in](https://open.spotify.com/album/4LKiBILBoGF9LbkgkpVnwL) | 2:26 | 2026-07-09 | 2026-07-15 |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-08 | 2025-11-08 |
 | [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 | 2024-12-27 | 2025-03-21 |
 | [I Need U](https://open.spotify.com/track/1j5OPlPaNAvWL9mgis4lur) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/0QVZNjVqsLenILPinmltYG) | 3:46 | 2025-09-04 | 2025-10-17 |
@@ -634,6 +634,7 @@
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-08-07 | 2025-11-28 |
 | [Post Romance](https://open.spotify.com/track/7p5hSZgshzsERQyTj3gXZh) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Post Romance](https://open.spotify.com/album/58PgUMhfc95w6sXHxLLIUc) | 3:55 | 2025-02-07 | 2025-03-28 |
 | [Prada Boo](https://open.spotify.com/track/493StZUc3moeLSbY60CLZl) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Prada Boo](https://open.spotify.com/album/4P68ccoHnsZNH1paDPjIcp) | 2:33 | 2025-08-14 | 2026-02-06 |
+| [praise](https://open.spotify.com/track/3albxuvvt3sQ8TxjUwiGbR) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [praise](https://open.spotify.com/album/4yQOS1843MpgLsxEOgG2Wp) | 3:24 | 2026-07-09 |  |
 | [praxis](https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [praxis](https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0) | 3:28 | 2026-01-30 | 2026-02-13 |
 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 | 2024-12-23 | 2025-02-14 |
 | [Precious](https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 3:40 | 2024-10-17 | 2025-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,701 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,715 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 50 | [Alba](https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:44 |
 | 51 | [La Lola](https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La Extraordinaria Paradoja Del Sonido Quijano](https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY) | 3:17 |
 | 52 | [Como un burro amarrado en la puerta del baile](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:37 |
-| 53 | [Sevilla Tiene un Color Especial](https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 3:47 |
-| 54 | [Romeo y Julieta](https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Un metro cuadrado](https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK) | 4:13 |
+| 53 | [Romeo y Julieta](https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Un metro cuadrado](https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK) | 4:13 |
+| 54 | [Sevilla Tiene un Color Especial](https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 3:47 |
 | 55 | [En la Casa de Inés](https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [El Efecto Guaraná](https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR) | 4:01 |
 | 56 | [Cómo Te Atreves](https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios..\. Y Unas Cuantas Cosas Más \(Edición Especial\)](https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR) | 4:00 |
 | 57 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |

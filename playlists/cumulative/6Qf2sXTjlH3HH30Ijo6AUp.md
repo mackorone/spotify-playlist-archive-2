@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-397 songs - 22 hr 51 min
+398 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 | 2023-12-15 | 2024-05-11 |
 | [Rio](https://open.spotify.com/track/2SEM1OHX0POc27jbphZEpW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 5:15 | 2024-04-19 | 2026-04-01 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-06-07 |  |
+| [Rivers and Roads \(feat\. The Head and The Heart\)](https://open.spotify.com/track/7AgI2hQUZCt3iEqNzhwUSz) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh), [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Rivers and Roads \(feat\. The Head and The Heart\)](https://open.spotify.com/album/5yvmY0O84Vgy0sQSkQF3SV) | 4:12 | 2026-07-14 |  |
 | [Robotic Love](https://open.spotify.com/track/2nESIycF0tKqtJk2nxRmuF) | [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [Robotic Love](https://open.spotify.com/album/01f4z9qlIFuQ995ktvJHjE) | 3:25 | 2026-06-26 | 2026-07-01 |
 | [Rock DJ](https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m) | 4:20 | 2024-02-09 | 2024-03-23 |
 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 | 2022-06-07 |  |
@@ -346,7 +347,7 @@
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-05-24 | 2024-08-03 |
 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 | 2023-02-17 | 2023-03-25 |
 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 | 2023-01-17 | 2023-12-14 |
-| [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 | 2022-06-07 |  |
+| [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 | 2022-06-07 | 2026-07-15 |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2022-06-07 |  |
 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 | 2022-06-07 | 2024-02-10 |
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-12 | 2025-01-11 |

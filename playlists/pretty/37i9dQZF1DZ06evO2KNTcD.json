@@ -1,12 +1,12 @@
 {
   "description": "This is Jae Stephens. The essential tracks, all in one playlist.",
-  "num_followers": 613,
+  "num_followers": 614,
   "original_name": "This Is Jae Stephens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABmnQgho/vXYHnTF9EP/MBS",
+  "snapshot_id": "alQqgAAAAABNem9asHkBXC7/8GjL5eHu",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time",
-        "url": "https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd"
+        "name": "Long Way to Go",
+        "url": "https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Every Time",
-      "url": "https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL"
+      "duration_ms": 198000,
+      "name": "Long Way to Go",
+      "url": "https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Way to Go",
-        "url": "https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw"
+        "name": "Every Time",
+        "url": "https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Long Way to Go",
-      "url": "https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz"
+      "duration_ms": 216750,
+      "name": "Every Time",
+      "url": "https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL"
     },
     {
       "added_at": null,

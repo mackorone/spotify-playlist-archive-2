@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,521 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,602 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 77 | [Cosas del Amor \- En Vivo](https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Santi Cairo](https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV) | 3:16 |
 | 78 | [El Viejo De Arriba](https://open.spotify.com/track/1D7yEw7RHGGhGnKQOTUaLh) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [El Viejo De Arriba](https://open.spotify.com/album/0MCl48IHftGB5dAq8puKhL) | 3:51 |
 | 79 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
-| 80 | [Amiga Traidora \- En Vivo Estadio Luna Park](https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Estadio Luna Park](https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z) | 4:38 |
-| 81 | [Cochi Nini \- Vivo En El Teatro, Opera / 2018](https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Cochi Nini \(Vivo En El Teatro, Opera / 2018\)](https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi) | 3:28 |
+| 80 | [Cochi Nini \- Vivo En El Teatro, Opera / 2018](https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Cochi Nini \(Vivo En El Teatro, Opera / 2018\)](https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi) | 3:28 |
+| 81 | [Amiga Traidora \- En Vivo Estadio Luna Park](https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Estadio Luna Park](https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z) | 4:38 |
 | 82 | [Serrana Mia](https://open.spotify.com/track/4AXXFjxunayz1nO5saIy7v) | [Malagata](https://open.spotify.com/artist/549gX84eSqoYRJp8BglJqy), [Adrián y Los Dados Negros](https://open.spotify.com/artist/0YykZZ5GBtvN0rOjEMIiK6) | [Serrana Mia](https://open.spotify.com/album/18ZdeNrG5NURFYLc0MrEqs) | 4:06 |
 | 83 | [No Me Vuelvo a Enamorar \- En Vivo](https://open.spotify.com/track/4AuHFUhynAOLJ7GHufKpyo) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Repiola \(En Vivo\)](https://open.spotify.com/album/2ISeQ9tbK98OIp6FtiPzQT) | 3:03 |
 | 84 | [Mátame](https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:23 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 95 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
 | 96 | [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 |
 | 97 | [Te perdone tantas veces](https://open.spotify.com/track/1y7SRqg8b5EyaCNww33Rkw) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Favoritos](https://open.spotify.com/album/31cdYJoKeJcABKSUizRl6d) | 2:13 |
-| 98 | [Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor](https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 7:42 |
-| 99 | [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 |
+| 98 | [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 |
+| 99 | [Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor](https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 7:42 |
 | 100 | [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 |
 
 Snapshot ID: `AAAAAJFzRsw4yjqx46v7o2z+Lpds0aXP`

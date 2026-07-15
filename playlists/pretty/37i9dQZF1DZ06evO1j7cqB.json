@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11575,
+  "num_followers": 11574,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAA+wPrfMQn0yC4o5yYFcl/i",
+  "snapshot_id": "alQqgAAAAADg7GJ7L/Jd8OZH8GxfHIMZ",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 213163,
       "name": "Holding On (From \"God of War Ragnar\u00f6k\" Soundtrack) (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Theme from Black Sails",
-      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
     },
     {
       "added_at": null,
@@ -635,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool Kids",
-        "url": "https://open.spotify.com/album/4vUK1POv47lj6u0wK4A5IK"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Duff McKagan",
-          "url": "https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1"
-        },
-        {
-          "name": "Chad Smith",
-          "url": "https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7"
-        },
-        {
-          "name": "Brendan McCreary",
-          "url": "https://open.spotify.com/artist/7gfnIXQlp4f6VRiTbhksAD"
-        }
-      ],
-      "duration_ms": 273171,
-      "name": "Cool Kids",
-      "url": "https://open.spotify.com/track/2Vslr64G5AXrv7L0vk4WpC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
@@ -707,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/4vUK1POv47lj6u0wK4A5IK"
       },
       "artists": [
         {
@@ -716,17 +684,25 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Richard Rankin",
-          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
         },
         {
-          "name": "Sophie Skelton",
-          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
+          "name": "Duff McKagan",
+          "url": "https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1"
+        },
+        {
+          "name": "Chad Smith",
+          "url": "https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7"
+        },
+        {
+          "name": "Brendan McCreary",
+          "url": "https://open.spotify.com/artist/7gfnIXQlp4f6VRiTbhksAD"
         }
       ],
-      "duration_ms": 105106,
-      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
-      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
+      "duration_ms": 273171,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/2Vslr64G5AXrv7L0vk4WpC"
     },
     {
       "added_at": null,
@@ -751,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battlestar Galactica: Season 3 (Original Soundtrack) [Remastered]",
-        "url": "https://open.spotify.com/album/2s89jzS4wSxUdzZdhjTb8k"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/6u4j7iBlbnPv0QEmlpf3W8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Battlestar Galactica: Season 1 (Original Soundtrack) [Remastered]",
-        "url": "https://open.spotify.com/album/7neV6oTowNHwpXXXbDOEzv"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 315440,
-      "name": "Passacaglia",
-      "url": "https://open.spotify.com/track/5B7UhhIGDHgcvY1TdnLl8x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -790,59 +734,19 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 465093,
-      "name": "As Long as We Both Shall Live",
-      "url": "https://open.spotify.com/track/0NbIAlLKDucvQNtH5Jutny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
+        },
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
-      },
-      "artists": [
+          "name": "Richard Rankin",
+          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
+        },
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "Sophie Skelton",
+          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Brianna and Roger Theme",
-      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 238314,
-      "name": "The Julia and Henry Theme",
-      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
+      "duration_ms": 105106,
+      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
+      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
     },
     {
       "added_at": null,
@@ -863,6 +767,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Brianna and Roger Theme",
+      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 465093,
+      "name": "As Long as We Both Shall Live",
+      "url": "https://open.spotify.com/track/0NbIAlLKDucvQNtH5Jutny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battlestar Galactica: Season 1 (Original Soundtrack) [Remastered]",
+        "url": "https://open.spotify.com/album/7neV6oTowNHwpXXXbDOEzv"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 315440,
+      "name": "Passacaglia",
+      "url": "https://open.spotify.com/track/5B7UhhIGDHgcvY1TdnLl8x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 238314,
+      "name": "The Julia and Henry Theme",
+      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 198872,
       "name": "Golden Leaves (feat. Benjamin Walker)",
       "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battlestar Galactica: Season 3 (Original Soundtrack) [Remastered]",
+        "url": "https://open.spotify.com/album/2s89jzS4wSxUdzZdhjTb8k"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/6u4j7iBlbnPv0QEmlpf3W8"
     },
     {
       "added_at": null,

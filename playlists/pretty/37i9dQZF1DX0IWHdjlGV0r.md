@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,534 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,537 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 35 | [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 |
 | 36 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
 | 37 | [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 |
-| 38 | [Vogl Sul A Te](https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:05 |
-| 39 | [Chicchi di caffè](https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:08 |
+| 38 | [Chicchi di caffè](https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:08 |
+| 39 | [Vogl Sul A Te](https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:05 |
 | 40 | [Stare Senza \(feat\. Fashion Forty\)](https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 |
 | 41 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
 | 42 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
-| 43 | [MONDAY \(feat\. Shiva & Michelangelo\)](https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 |
-| 44 | [Tardi \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:33 |
+| 43 | [Tardi \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:33 |
+| 44 | [MONDAY \(feat\. Shiva & Michelangelo\)](https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 |
 | 45 | [Stavo Pensando A Te](https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Fenomeno](https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA) | 4:24 |
 | 46 | [Ti Amo](https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 4:25 |
 | 47 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 |
-| 48 | [Too Late](https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:17 |
-| 49 | [2000 Pensieri](https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:43 |
+| 48 | [2000 Pensieri](https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:43 |
+| 49 | [Too Late](https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:17 |
 | 50 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 |
 | 51 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 |
 | 52 | [Sola \(feat\. Lazza, Tedua\)](https://open.spotify.com/track/5r9wBfbbK4JcZUEAGFg6su) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 3:06 |

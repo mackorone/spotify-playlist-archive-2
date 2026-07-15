@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,779 likes - 277 songs - 14 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,778 likes - 277 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 63 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
 | 64 | [Hey Stupid, I Love You](https://open.spotify.com/track/7pJA5B7t0k5wObMPxFth0v) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together \(Deluxe\)](https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ) | 3:01 |
 | 65 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/17Efhyf4A96n0EFXKeB7Ya) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:50 |
-| 66 | [Gang Gang](https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:01 |
-| 67 | [ANYTHING BUT LOVE](https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:27 |
+| 66 | [ANYTHING BUT LOVE](https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:27 |
+| 67 | [Gang Gang](https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:01 |
 | 68 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 |
 | 69 | [Slumber Party feat\. Tinashe](https://open.spotify.com/track/2UglvRm2EVjeQCO4zyBBZm) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:33 |
 | 70 | [Help Me Out](https://open.spotify.com/track/76hFpagPBZ6X5s0oqMbJ5Q) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:13 |
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 173 | [Asking 4 It](https://open.spotify.com/track/42MC4Kh9LtGCUnjfUyY6S2) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:30 |
 | 174 | [Where Would I Be?](https://open.spotify.com/track/0gEMqVzeenTtGGC2jbFDVp) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:18 |
 | 175 | [Pink](https://open.spotify.com/track/4mmpBLrld3UTeSNv8cMuz9) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:48 |
-| 176 | [On Mine \(feat\. Noah Cyrus\)](https://open.spotify.com/track/0tSwKGbmvKrL0C7ckwIA9B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:36 |
-| 177 | [why'd you have to call](https://open.spotify.com/track/6mCGCsAhbZXWOsHUrWFhhO) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2tPMXmAmKZho6vhIv4vjVG) | 4:13 |
+| 176 | [why'd you have to call](https://open.spotify.com/track/6mCGCsAhbZXWOsHUrWFhhO) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2tPMXmAmKZho6vhIv4vjVG) | 4:13 |
+| 177 | [On Mine \(feat\. Noah Cyrus\)](https://open.spotify.com/track/0tSwKGbmvKrL0C7ckwIA9B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:36 |
 | 178 | [Love on Repeat](https://open.spotify.com/track/3NjQoWHerfe0YWodcZx2Au) | [Dave Ramone](https://open.spotify.com/artist/3yJEDITP6xPDElQZuJYnDi), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Love on Repeat \[Remixes\]](https://open.spotify.com/album/2SLw4XgbG7MCNm1ao6Twml) | 3:16 |
 | 179 | [Better](https://open.spotify.com/track/26AyBuEQkAAaQYnDrzneF2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:09 |
 | 180 | [Fucked Up, Kinda](https://open.spotify.com/track/3i8JuT3Ffr45hfi239ypOQ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 2:33 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 276 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 277 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcWxtAAAAADK27Ip2cBnVN8YntP8Kgy6`
+Snapshot ID: `AcW3NgAAAAAb725jb+6tYue0CyEdKbeA`

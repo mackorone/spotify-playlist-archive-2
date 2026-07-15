@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABjG7rRFO5JK4C1V132Yiln",
+  "snapshot_id": "alQqgAAAAACCjP4ZfL6uAoR5B7A+584Q",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Yesterday",
-        "url": "https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Jaleel Shaw",
-          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
-        }
-      ],
-      "duration_ms": 129749,
-      "name": "Feels Like Yesterday",
-      "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All About Us",
         "url": "https://open.spotify.com/album/5lbwUSHWsrUmeGwFztkVNp"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 158500,
       "name": "All About Us",
       "url": "https://open.spotify.com/track/3EwT7uWmy6f5T8LRcQwiRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Yesterday",
+        "url": "https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 129749,
+      "name": "Feels Like Yesterday",
+      "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
     },
     {
       "added_at": null,
@@ -143,18 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
+        "name": "United We Are",
+        "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
       },
       "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
+      "duration_ms": 278278,
+      "name": "Sally (feat. Harrison)",
+      "url": "https://open.spotify.com/track/6bf2hU0YYUwrVuAlQG757L"
     },
     {
       "added_at": null,
@@ -175,22 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "United We Are",
-        "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
       },
       "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 278278,
-      "name": "Sally (feat. Harrison)",
-      "url": "https://open.spotify.com/track/6bf2hU0YYUwrVuAlQG757L"
+      "duration_ms": 171743,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
     },
     {
       "added_at": null,
@@ -319,42 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224593,
-      "name": "Better (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 111923,
-      "name": "Around You",
-      "url": "https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
@@ -375,6 +339,42 @@
       "duration_ms": 230511,
       "name": "New Harrison",
       "url": "https://open.spotify.com/track/7EV6sb1gDY337fBJNy3obX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 111923,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224593,
+      "name": "Better (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1f2bUE34ETaGhZhZd9W2cy"
     },
     {
       "added_at": null,
@@ -403,42 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 175464,
-      "name": "Atmosphere (feat. Daniela Andrade)",
-      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 85883,
-      "name": "A View From The Sky",
-      "url": "https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
@@ -459,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
       },
       "artists": [
         {
@@ -468,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+      "duration_ms": 85883,
+      "name": "A View From The Sky",
+      "url": "https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ"
     },
     {
       "added_at": null,
@@ -482,17 +446,21 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 224327,
-      "name": "Wavestation",
-      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
+      "duration_ms": 175464,
+      "name": "Atmosphere (feat. Daniela Andrade)",
+      "url": "https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Birds, Bees, The Clouds & The Trees",
-        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
       "artists": [
         {
@@ -500,13 +468,13 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         },
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
         }
       ],
-      "duration_ms": 165544,
-      "name": "Outta This World",
-      "url": "https://open.spotify.com/track/6nC4bYoL9hTcwRV4kqVjzq"
+      "duration_ms": 215741,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
     },
     {
       "added_at": null,
@@ -531,6 +499,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 165544,
+      "name": "Outta This World",
+      "url": "https://open.spotify.com/track/6nC4bYoL9hTcwRV4kqVjzq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 224327,
+      "name": "Wavestation",
+      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
@@ -547,6 +567,26 @@
       "duration_ms": 252000,
       "name": "You're Light (feat. Maddee)",
       "url": "https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tasty Raps, Vol. 1",
+        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 152472,
+      "name": "New Harrison Again",
+      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
     },
     {
       "added_at": null,
@@ -576,33 +616,13 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         },
         {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 215741,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tasty Raps, Vol. 1",
-        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 152472,
-      "name": "New Harrison Again",
-      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+      "duration_ms": 142500,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
     },
     {
       "added_at": null,
@@ -619,6 +639,26 @@
       "duration_ms": 120502,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon A Time",
+        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
+      },
+      "artists": [
+        {
+          "name": "Kill The Buzz",
+          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Once Upon A Time",
+      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
     },
     {
       "added_at": null,
@@ -679,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon A Time",
-        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
-      },
-      "artists": [
-        {
-          "name": "Kill The Buzz",
-          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Once Upon A Time",
-      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROLLERCOASTER",
         "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
       },
@@ -726,15 +746,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 282000,
       "name": "She's Strong (feat. Maddee)",
       "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,

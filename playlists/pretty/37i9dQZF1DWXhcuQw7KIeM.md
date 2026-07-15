@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,386 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,451 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 12 | [Nouse Lempi](https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M) | [Kajos](https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J) | [Nouse Lempi](https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4) | 3:42 |
 | 13 | [Reida](https://open.spotify.com/track/72pSSwFywzACLPqVfycny6) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Reida](https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1) | 4:30 |
 | 14 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 |
-| 15 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
+| 15 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 16 | [Blakey Ridge](https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [III \- Candles & Beginnings](https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX) | 4:16 |
-| 17 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
+| 17 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
 | 18 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 |
 | 19 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 69 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
 | 70 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
 | 71 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
-| 72 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
-| 73 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
-| 74 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 |
+| 72 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 |
+| 73 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
+| 74 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
 | 75 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
 
 Snapshot ID: `AAAAAOIaNZmlIkqLyHeTv3KMI2LpJtjY`

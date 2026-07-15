@@ -5734,7 +5734,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 177934,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
@@ -6546,7 +6546,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 120468,
       "name": "Bandito",
       "url": "https://open.spotify.com/track/4TTJpJqCoG1HrXhnNENqAp"
@@ -52207,24 +52207,6 @@
     },
     {
       "album": {
-        "name": "MILLION DOLLAR BABE",
-        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "date_added": "2026-07-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179189,
-      "name": "SAFARI",
-      "url": "https://open.spotify.com/track/3nZ1pM1DxcfAAf9QxIhnpo"
-    },
-    {
-      "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
@@ -52240,6 +52222,32 @@
       "duration_ms": 187034,
       "name": "SAFARI",
       "url": "https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABE",
+        "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179189,
+      "name": "SAFARI (feat. Astro & Tony Boy)",
+      "url": "https://open.spotify.com/track/3nZ1pM1DxcfAAf9QxIhnpo"
     },
     {
       "album": {
@@ -53058,13 +53066,17 @@
         {
           "name": "ANNA",
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
         }
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 114174,
-      "name": "SCONTROSA",
+      "name": "SCONTROSA (feat. G.Mineiro)",
       "url": "https://open.spotify.com/track/40UibIQfdcyLJDgfDDA2MR"
     },
     {
@@ -53592,10 +53604,28 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180767,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ"
     },
     {
       "album": {
@@ -55926,13 +55956,17 @@
         {
           "name": "ANNA",
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135730,
-      "name": "SONO IO IL PASS",
+      "name": "SONO IO IL PASS (feat. Lazza)",
       "url": "https://open.spotify.com/track/2qPmfC6698p228q3F1Zlbk"
     },
     {

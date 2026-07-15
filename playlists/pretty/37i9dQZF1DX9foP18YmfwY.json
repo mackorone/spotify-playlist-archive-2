@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 380670,
+  "num_followers": 380728,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
-        "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
-      },
-      "artists": [
-        {
-          "name": "Pe. Zezinho, SCJ",
-          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Cora\u00e7\u00e3o Sagrado",
-      "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Acima dos Telhados (Acoustic)",
         "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 395298,
       "name": "Acima dos Telhados - Acoustic",
       "url": "https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
+        "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
+      },
+      "artists": [
+        {
+          "name": "Pe. Zezinho, SCJ",
+          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "Cora\u00e7\u00e3o Sagrado",
+      "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
     },
     {
       "added_at": "2026-06-12 03:01:51",

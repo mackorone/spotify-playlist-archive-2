@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 158875,
+  "num_followers": 158863,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "OVERTIME/OVERKILL VOL. 2",
-        "url": "https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 249905,
-      "name": "Oslo / Karachi / Paris",
-      "url": "https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 158511,
       "name": "Volare",
       "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "OVERTIME/OVERKILL VOL. 2",
+        "url": "https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 249905,
+      "name": "Oslo / Karachi / Paris",
+      "url": "https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Gro Harlem Brundtland",
         "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 168390,
       "name": "Gro Harlem Brundtland",
       "url": "https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
     },
     {
       "added_at": "2026-05-22 07:11:08",

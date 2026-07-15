@@ -1,6 +1,6 @@
 {
   "description": "A  blend of J-pop to soundtrack your perfect matcha moment.",
-  "num_followers": 25304,
+  "num_followers": 25345,
   "original_name": "Matcha J-Pop",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "\u6625\u6ce5\u68d2",
-        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 290289,
-      "name": "\u6625\u6ce5\u68d2",
-      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
-    },
-    {
-      "added_at": "2026-05-08 10:04:33",
-      "album": {
         "name": "\u591c\u306b\u99c6\u3051\u308b",
         "url": "https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 261013,
       "name": "\u591c\u306b\u99c6\u3051\u308b",
       "url": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
+    },
+    {
+      "added_at": "2026-05-08 10:04:33",
+      "album": {
+        "name": "\u6625\u6ce5\u68d2",
+        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 290289,
+      "name": "\u6625\u6ce5\u68d2",
+      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
-        "url": "https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 298663,
-      "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
-      "url": "https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3"
-    },
-    {
-      "added_at": "2026-05-08 10:04:33",
-      "album": {
         "name": "LOVE COOK",
         "url": "https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3078\u306e\u671f\u5f85\u306f",
-        "url": "https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz"
+        "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
+        "url": "https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS"
       },
       "artists": [
         {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 219252,
-      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
-      "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
+      "duration_ms": 298663,
+      "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
+      "url": "https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -1135,6 +1119,22 @@
       "duration_ms": 260133,
       "name": "\u30ed\u30d3\u30f3\u30bd\u30f3",
       "url": "https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws"
+    },
+    {
+      "added_at": "2026-05-08 10:04:33",
+      "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3078\u306e\u671f\u5f85\u306f",
+        "url": "https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 219252,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+      "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
     },
     {
       "added_at": "2026-05-08 10:04:33",

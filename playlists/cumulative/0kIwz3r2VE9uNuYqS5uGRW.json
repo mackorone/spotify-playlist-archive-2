@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "A Song to Sleep",
+        "url": "https://open.spotify.com/album/4W4pmuOgTcMHQRkBJoXVPf"
+      },
+      "artists": [
+        {
+          "name": "Tina Para Dos",
+          "url": "https://open.spotify.com/artist/0sZOpXDHlQtZXDGtGhijnQ"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152999,
+      "name": "A Song to Sleep",
+      "url": "https://open.spotify.com/track/5P4Oqyd5zg4myjKvUqRr9A"
+    },
+    {
+      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/2ZmUAPFUssRDQirDWbpivk"
       },
@@ -688,6 +706,24 @@
       "duration_ms": 99880,
       "name": "Ce monde est sale",
       "url": "https://open.spotify.com/track/4mGlOdhgRBOtTZPHGXt6A4"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/0Fpdy4Owrkflqt1VoDrrd9"
+      },
+      "artists": [
+        {
+          "name": "Assey",
+          "url": "https://open.spotify.com/artist/2xeEHeQMEqevIxTnHp2OCN"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167700,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5gcoaokLTC7ZdJEYwYtQJS"
     },
     {
       "album": {
@@ -1500,6 +1536,24 @@
       "duration_ms": 197427,
       "name": "Evitandome",
       "url": "https://open.spotify.com/track/39RIAIenvbjRqw2iAWWoPV"
+    },
+    {
+      "album": {
+        "name": "Excluxive",
+        "url": "https://open.spotify.com/album/33UYXfMD1q46GGiShatDNr"
+      },
+      "artists": [
+        {
+          "name": "Jhey Dottor",
+          "url": "https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145855,
+      "name": "Excluxive",
+      "url": "https://open.spotify.com/track/2JkTAL3pCmwYtFqhzBlou1"
     },
     {
       "album": {
@@ -2432,6 +2486,28 @@
       "duration_ms": 196772,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX"
+    },
+    {
+      "album": {
+        "name": "Ke quiere hacer",
+        "url": "https://open.spotify.com/album/1rLRlbJS1LvRdbwDHdrDYB"
+      },
+      "artists": [
+        {
+          "name": "octa",
+          "url": "https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy"
+        },
+        {
+          "name": "Dearriba",
+          "url": "https://open.spotify.com/artist/38VgmuXdTEYy63tcL1E5oV"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Ke quiere hacer",
+      "url": "https://open.spotify.com/track/5G2lTc0aqQDDRlnEUkPWBS"
     },
     {
       "album": {
@@ -4857,6 +4933,24 @@
     },
     {
       "album": {
+        "name": "Whisk Me Away",
+        "url": "https://open.spotify.com/album/5DcxQ2t4ir9F7jRbixSsqp"
+      },
+      "artists": [
+        {
+          "name": "Gwyn English Nielsen",
+          "url": "https://open.spotify.com/artist/2qiQLmWs81Zno7WFH4lLiS"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150737,
+      "name": "Whisk Me Away",
+      "url": "https://open.spotify.com/track/2m66V7Uh9lFryiqXErE4Tv"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4PJ1P80qf9hVpFGchfhy13"
       },
@@ -4930,6 +5024,24 @@
       "duration_ms": 252376,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/1MVO7xPHCFYIZOZPX5NqtY"
+    },
+    {
+      "album": {
+        "name": "Yo quiero ser rico",
+        "url": "https://open.spotify.com/album/3IG1jsGSSYanpypTwngNod"
+      },
+      "artists": [
+        {
+          "name": "draco boss",
+          "url": "https://open.spotify.com/artist/08GHLzYQVYYf0ayA4u3cGp"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Yo quiero ser rico",
+      "url": "https://open.spotify.com/track/30PpjvLUzJHpovp9Na4Z5H"
     },
     {
       "album": {

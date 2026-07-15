@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,212 songs - 3 day 17 hr 4 min
+1,213 songs - 3 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,7 +695,7 @@
 | [Neo \(Tiger Lou Remix\)](https://open.spotify.com/track/7s1WxIDmQ9OsFqApFLj6E3) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Tiger Lou](https://open.spotify.com/artist/7Jr7XgWFnKQ3mUgbhrVNlx) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 3:49 | 2019-06-19\* | 2022-04-21 |
 | [Neon Light](https://open.spotify.com/track/52ID6pQUnptVQlg7WbLx7x) | [Bituke](https://open.spotify.com/artist/3VCEbWGFkgN6oLTMvkhl2M) | [Neon Light](https://open.spotify.com/album/1WgdVyRz3le2abd7xudewz) | 3:44 | 2019-06-19\* | 2020-10-21 |
 | [Nest of Giants](https://open.spotify.com/track/6pd7pIrouxyluNYOq9mIa8) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Nest of Giants](https://open.spotify.com/album/2r8KQa48qb51Dmsd6HFmh7) | 2:36 | 2023-07-17 | 2026-05-14 |
-| [NEVER LOOK DOWN](https://open.spotify.com/track/6GbngWsWlNtJbYMxHPif76) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [NEVER LOOK DOWN](https://open.spotify.com/album/630r50kjEHiZ0hftZtjn5k) | 4:04 | 2024-04-26 |  |
+| [NEVER LOOK DOWN](https://open.spotify.com/track/6GbngWsWlNtJbYMxHPif76) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [NEVER LOOK DOWN](https://open.spotify.com/album/630r50kjEHiZ0hftZtjn5k) | 4:04 | 2024-04-26 | 2026-07-15 |
 | [Never Lost](https://open.spotify.com/track/5gFYPS2iyiiQMMvzBlF4a5) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/1mWQKczLANctDIiOKYc4IM) | 6:46 | 2019-06-19\* | 2020-08-26 |
 | [New Beginnings](https://open.spotify.com/track/2dIbIbzsIhjxYGyUELbNjM) | [Daydreamer](https://open.spotify.com/artist/7pcwfhcdyYJqkCV098EgYl) | [Senses](https://open.spotify.com/album/0ALxr1bwap4ptl8rjpLNop) | 2:54 | 2019-05-26\* | 2020-10-22 |
 | [New Lands](https://open.spotify.com/track/5Ti70Fpvrhm4VLo6yE4BlX) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:35 | 2019-06-19\* | 2022-04-14 |
@@ -1146,6 +1146,7 @@
 | [Vespa](https://open.spotify.com/track/7drMbzUHSJwsjdenHMDMrK) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 1:26 | 2019-06-19\* | 2020-08-26 |
 | [Veterstift](https://open.spotify.com/track/1wqbqnWyA8iCvaneEPEJSW) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Ruimtevaart EP](https://open.spotify.com/album/0oIXREWVdHV7k60VhRbYwp) | 3:12 | 2019-05-26\* | 2020-08-26 |
 | [Vibe](https://open.spotify.com/track/4ivH621MiVaiFm54ZDEtmE) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/4FbO7XUiZLtminwch2R2eJ) | 2:24 | 2019-05-26\* | 2020-10-22 |
+| [VIII](https://open.spotify.com/track/251hpvLqaASyMfT8pyRPYM) | [Anushka Chkheidze](https://open.spotify.com/artist/67m6HVMSpQbjioHGsdmXWs), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [The Sky Was Out of Tune VIII](https://open.spotify.com/album/6GyvR14ZLLiPI4XTTrl6wz) | 2:46 | 2026-07-10 |  |
 | [Vinyl](https://open.spotify.com/track/1BuayIlgZp7H4kuOgmCpge) | [Adrian Roland](https://open.spotify.com/artist/6BOm2bSNuYGS9IeyER3cq2) | [Vinyl](https://open.spotify.com/album/1q94s3rNr164SzFcHEqzpu) | 1:04 | 2019-07-25 | 2025-08-30 |
 | [Violo](https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Madre](https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP) | 7:07 | 2021-05-27 | 2022-04-18 |
 | [Visages Visages](https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Visages Visages](https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c) | 5:59 | 2025-06-09 | 2026-06-14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2801053,
+  "num_followers": 2801073,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAD0bNPnpO+mnYP4j3CyRYI6",
+  "snapshot_id": "alQqgAAAAAD12699Cyl5d8fOG+z5y7a9",
   "tracks": [
     {
       "added_at": null,
@@ -542,11 +542,15 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 193565,
-      "name": "Wrapped Around Your Finger",
-      "url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
+      "duration_ms": 192721,
+      "name": "One Right Now (with The Weeknd)",
+      "url": "https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk"
     },
     {
       "added_at": null,
@@ -606,15 +610,11 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 192721,
-      "name": "One Right Now (with The Weeknd)",
-      "url": "https://open.spotify.com/track/1nltpRhEiXikwDlVn4UADk"
+      "duration_ms": 193565,
+      "name": "Wrapped Around Your Finger",
+      "url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
     },
     {
       "added_at": null,

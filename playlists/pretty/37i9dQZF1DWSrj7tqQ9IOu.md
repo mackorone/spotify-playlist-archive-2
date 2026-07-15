@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Folie's
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,129 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,122 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 11 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 |
 | 12 | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/track/2liaCKyzID20FGfWslwWHA) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/album/5e4EiQFjBNnd1UGx3tnJ5W) | 2:49 |
 | 13 | [Love & Tears](https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 3:38 |
-| 14 | [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 |
-| 15 | [Better Than She Can](https://open.spotify.com/track/6SlKZkppWwFtQa1uQIb5Yf) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Resurrection](https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn) | 2:47 |
+| 14 | [Better Than She Can](https://open.spotify.com/track/6SlKZkppWwFtQa1uQIb5Yf) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Resurrection](https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn) | 2:47 |
+| 15 | [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 |
 | 16 | [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 |
 | 17 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
 | 18 | [SIREN](https://open.spotify.com/track/0QmBQ3NnZ18hHcemeeQlsP) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WHACK'S MUSEUM](https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i) | 2:18 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 24 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 |
 | 25 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
 | 26 | [Offerings](https://open.spotify.com/track/1A2uwr1Zpdd467Vzue8bXV) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offerings](https://open.spotify.com/album/0KKhGegQzdFh8ZWKqXDdiC) | 2:14 |
-| 27 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
-| 28 | [Osimhen .OP\_6](https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6) | [Assaf](https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS), [Zeu](https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF) | [Osimhen .OP\_6](https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V) | 3:10 |
+| 27 | [Osimhen .OP\_6](https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6) | [Assaf](https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS), [Zeu](https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF) | [Osimhen .OP\_6](https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V) | 3:10 |
+| 28 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
 | 29 | [Laurie Sky](https://open.spotify.com/track/2RzuYXqdKw0IevkQWDoUrt) | [Arnold Turboust](https://open.spotify.com/artist/3z8iQqWLPw51mizHQ3Qu3U), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Laurie Sky](https://open.spotify.com/album/77PmIyP4hIX6IphsV2rMn9) | 3:04 |
 | 30 | [Les Abeilles](https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Les Abeilles](https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o) | 3:34 |
 | 31 | [Chaque fois](https://open.spotify.com/track/7dclFha2hgMXhxlph3OUQV) | [2TH](https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT) | [Chaque fois](https://open.spotify.com/album/1sxyuQ4ewVOtzOgEfgg4U2) | 2:58 |

@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 53 min
+105 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Die Rich](https://open.spotify.com/track/6BKu8kCqUoQy0BFgnOYMJr) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ray Emmanuel](https://open.spotify.com/artist/1VDmG7pIFozqBrmj0LynQd) | [Die Rich](https://open.spotify.com/album/7gHS6ywjV1BSg0roKiEoR0) | 4:02 | 2023-03-17 | 2023-03-20 |
 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 | 2023-03-17 | 2023-08-20 |
 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 | 2023-03-17 | 2023-08-20 |
-| [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 | 2024-08-03 |  |
+| [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 | 2024-08-03 | 2026-07-15 |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-19 | 2025-03-22 |
 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 | 2025-09-01 |  |
 | [FATHER](https://open.spotify.com/track/7AoMr9VMS9Fs5fu5VjtbNx) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 2:58 | 2026-07-13 |  |
@@ -46,6 +46,7 @@
 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 | 2024-01-20 |  |
 | [Glory Down](https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory Down](https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R) | 2:59 | 2026-05-06 |  |
 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 | 2024-07-29 | 2026-03-28 |
+| [GOD CAME THROUGH](https://open.spotify.com/track/0IDLHBwGainRrHANsI0Ba5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 3:35 | 2026-07-15 |  |
 | [God Did II](https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Did II](https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE) | 2:39 | 2025-07-21 |  |
 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 | 2023-03-17 | 2025-11-09 |
 | [GOT A REASON](https://open.spotify.com/track/5MTPmRNRnblPndt4JJaL02) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [GOT A REASON](https://open.spotify.com/album/4AUioy59lGdmS1mPufTdfC) | 2:49 | 2026-01-05 |  |

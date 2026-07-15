@@ -1,12 +1,12 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: maudit vincent",
-  "num_followers": 9617,
+  "num_followers": 9624,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNW7Hnn+HmIYOPgHCH/rFTT+ioc",
+  "snapshot_id": "AAAAAHp/PxdARmBpIz6lV4jVT1AEOhW1",
   "tracks": [
     {
       "added_at": "2026-07-10 04:03:18",
@@ -71,6 +71,22 @@
       "duration_ms": 495925,
       "name": "Rosegaze",
       "url": "https://open.spotify.com/track/3gc01mn0NUjh0E98DSZJRO"
+    },
+    {
+      "added_at": "2026-07-10 04:03:18",
+      "album": {
+        "name": "Correct",
+        "url": "https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 286128,
+      "name": "Correct",
+      "url": "https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk"
     },
     {
       "added_at": "2026-07-10 04:03:18",
@@ -935,22 +951,6 @@
       "duration_ms": 244593,
       "name": "White Pigeon",
       "url": "https://open.spotify.com/track/38Ge17JCxSUtIFgWhLpsvX"
-    },
-    {
-      "added_at": "2026-07-10 04:03:18",
-      "album": {
-        "name": "Correct",
-        "url": "https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU"
-      },
-      "artists": [
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 286128,
-      "name": "Correct",
-      "url": "https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk"
     },
     {
       "added_at": "2026-07-10 04:03:18",

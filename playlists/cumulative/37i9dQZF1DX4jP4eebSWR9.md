@@ -2,7 +2,7 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Bebe Rexha
+> 50 Hits in einer Playlist! Cover: Luciano, Jazeek
 
 392 songs - 18 hr 37 min
 

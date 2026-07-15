@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Higher Planes",
+        "url": "https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy"
+      },
+      "artists": [
+        {
+          "name": "If by Whiskey",
+          "url": "https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226583,
+      "name": "It's Alright Amanda",
+      "url": "https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb"
+    },
+    {
+      "album": {
         "name": "It's Not Much But It's Honest",
         "url": "https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI"
       },

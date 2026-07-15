@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Cliff. The essential tracks, all in one playlist.",
-  "num_followers": 43709,
+  "num_followers": 43712,
   "original_name": "This Is Jimmy Cliff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABmp2WSzSsUa3zRvPuGaxpx",
+  "snapshot_id": "alQqgAAAAAA05CPlefZSOXsmRL3Saiby",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Thanx",
-        "url": "https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Love I Need",
-      "url": "https://open.spotify.com/track/6lQc5Wmhr9DR1E37gzTSOU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -331,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Power And The Glory",
-        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Roots Woman",
-      "url": "https://open.spotify.com/track/5slJf1fMdFewK5sKe3BY1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wonderful World, Beautiful People",
         "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
@@ -363,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cliff Hanger",
-        "url": "https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN"
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
       },
       "artists": [
         {
@@ -372,9 +340,25 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 294800,
-      "name": "Now and Forever",
-      "url": "https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg"
+      "duration_ms": 257866,
+      "name": "Roots Woman",
+      "url": "https://open.spotify.com/track/5slJf1fMdFewK5sKe3BY1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Thanx",
+        "url": "https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Love I Need",
+      "url": "https://open.spotify.com/track/6lQc5Wmhr9DR1E37gzTSOU"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
       "duration_ms": 329046,
       "name": "Ripple - Live",
       "url": "https://open.spotify.com/track/5D9PzL95N2AE7hGj7r8kSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cliff Hanger",
+        "url": "https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Now and Forever",
+      "url": "https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Love Solution",
+      "url": "https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm Of The Pride Lands",
         "url": "https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Power And The Glory",
-        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Love Solution",
-      "url": "https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlimited",
-        "url": "https://open.spotify.com/album/5fDti9HnqG3uWl3deeujN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Under the Sun, Moon and Stars",
-      "url": "https://open.spotify.com/track/2p7sRZxRCSEmd97wyDr57m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wonderful World, Beautiful People",
         "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 175026,
       "name": "Come Into My Life - Single Version",
       "url": "https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unlimited",
+        "url": "https://open.spotify.com/album/5fDti9HnqG3uWl3deeujN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Under the Sun, Moon and Stars",
+      "url": "https://open.spotify.com/track/2p7sRZxRCSEmd97wyDr57m"
     },
     {
       "added_at": null,
@@ -899,62 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gussie Clarke's Collaborations (Continuous Mix)",
-        "url": "https://open.spotify.com/album/1xU5bEVbuzhEk2HrDL4fpO"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0J3Cyyl9KU4RxGiaDHLBmd"
       },
       "artists": [
         {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
-        },
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        },
-        {
           "name": "Jimmy Cliff",
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        },
-        {
-          "name": "iNi Kamoze",
-          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
-        },
-        {
-          "name": "Deborahe Glasgow",
-          "url": "https://open.spotify.com/artist/0PfphN9qB6zSGGP38VjDm7"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Shabba Ranks",
-          "url": "https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG"
-        },
-        {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        },
-        {
-          "name": "Freddie McGregor",
-          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
-        },
-        {
-          "name": "Richie Stephens",
-          "url": "https://open.spotify.com/artist/6vHXmFLRCxvJPquxCpCl7c"
-        },
-        {
-          "name": "Mighty Diamonds",
-          "url": "https://open.spotify.com/artist/2MvXKrHantfY5wyPiCOo2k"
-        },
-        {
-          "name": "Cynthia Schloss",
-          "url": "https://open.spotify.com/artist/0q3sBFRGxiXPmhrePKRgIY"
         }
       ],
-      "duration_ms": 1906011,
-      "name": "Gussie Clarke's Collaborations - Continuous Mix",
-      "url": "https://open.spotify.com/track/6yONDl6HxMOZkWCD7xyHUY"
+      "duration_ms": 212173,
+      "name": "Shelter Of Your Love - Single Version",
+      "url": "https://open.spotify.com/track/5I0uW8EgQSxLT8F596lwfB"
     }
   ],
   "unique_name": "This Is Jimmy Cliff",

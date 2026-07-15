@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by JERRY, Luv, Azaad 4L and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,393 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,419 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 14 | [Goli](https://open.spotify.com/track/2FHYk0Itp6Okpo04ON7Gl1) | [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Goli](https://open.spotify.com/album/4slmG0Ujmm6zrtMS20sGz9) | 2:28 |
 | 15 | [L.T.M.a.](https://open.spotify.com/track/10hDCM70jNClYUO5TBrQ8c) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [The Archives](https://open.spotify.com/album/2uxDwdhU3Op9srlyORxmRy) | 2:19 |
 | 16 | [Pehli Saheli](https://open.spotify.com/track/2ZeyCnvP9Q9aG6KsyvGzOA) | [Kaafar Kang](https://open.spotify.com/artist/191Olpbbabr51Xp0LT3P66), [FREEZZY BEATZ](https://open.spotify.com/artist/5eMuqVgMZ4fFnkSKjpMEs1) | [Pehli Saheli](https://open.spotify.com/album/0L7z6qyB6YFeiST9Z0or4q) | 2:20 |
-| 17 | [Race](https://open.spotify.com/track/6UJLnUoNehOyIL9w2eUm84) | [Pavii Ghuman](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW), [KAABIR Music](https://open.spotify.com/artist/2Lde58T9iPkn9Fyvdg7mSk), [Sanju](https://open.spotify.com/artist/6LkGAOITDAe49ckpeLW7OJ), [Kaabir](https://open.spotify.com/artist/2i9lSgoRNa3bjJwVrHoaT2) | [Race](https://open.spotify.com/album/7KfxZOJcUBbMQOwACxceDS) | 2:32 |
+| 17 | [Race](https://open.spotify.com/track/6UJLnUoNehOyIL9w2eUm84) | [Pavii Ghuman](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW), [KAABIR Music](https://open.spotify.com/artist/2Lde58T9iPkn9Fyvdg7mSk), [Sanju](https://open.spotify.com/artist/6LkGAOITDAe49ckpeLW7OJ) | [Race](https://open.spotify.com/album/7KfxZOJcUBbMQOwACxceDS) | 2:32 |
 | 18 | [Cash Out](https://open.spotify.com/track/7weu8PxfJxu2C3FwrXyuLF) | [Yaad](https://open.spotify.com/artist/7BcQiaqOonuaKOQAQos74p), [JAY D](https://open.spotify.com/artist/0B764ppiu5Po9V1gB9ckXc), [Yung4eva](https://open.spotify.com/artist/3M2xmMHRCGlqdfQm8WsrgC) | [Cash Out](https://open.spotify.com/album/7cOb7OnXQSo6Ky6KS7OwlJ) | 2:34 |
 | 19 | [KHANDANI](https://open.spotify.com/track/4Uk1PkFc1WRrU1yzOC1hkB) | [Arsh Johal](https://open.spotify.com/artist/6PwmIbBtpkg4dkKYMo8VN2), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo) | [KHANDANI](https://open.spotify.com/album/51WnYYBvMCGHXM5FXCYfP7) | 2:37 |
 | 20 | [Munde Punjab De](https://open.spotify.com/track/65Ou00VR91GkNn8vjcNEkU) | [KANDHARI](https://open.spotify.com/artist/2j5BwZhtYDb0DP6E6iPL7X), [Avy](https://open.spotify.com/artist/60LOC5YjxUz2giCuSG8vgY) | [Munde Punjab De](https://open.spotify.com/album/3nYTstOaDXdIsxjlQP459N) | 2:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 31 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 31 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 30 | [Strange Like I](https://open.spotify.com/track/63CSuwy6bDo1Q8sODWuoBq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:04 |
 | 31 | [Victim](https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:44 |
 
-Snapshot ID: `alLZAAAAAAA52SQYPbbPLHIX7dMQmW8r`
+Snapshot ID: `alQqgAAAAAC7OxeaLLY1xYWJQdZxP3Qj`

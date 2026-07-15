@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 55798,
+  "num_followers": 55801,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
+      },
+      "artists": [
+        {
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 190000,
       "name": "This night",
       "url": "https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
-      },
-      "artists": [
-        {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 106050,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Wave After Wave EP",
         "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186461,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 106050,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -939,18 +939,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+        "name": "Eternal Thoughts",
+        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
       "artists": [
         {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+          "name": "Orbit Release",
+          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
         }
       ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+      "duration_ms": 241438,
+      "name": "Eternal Thoughts",
+      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -971,18 +971,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Eternal Thoughts",
-        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
       "artists": [
         {
-          "name": "Orbit Release",
-          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 241438,
-      "name": "Eternal Thoughts",
-      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
-        }
-      ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk"
-      },
-      "artists": [
-        {
-          "name": "Doosi",
-          "url": "https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Peaceful Mind",
-      "url": "https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Time to Heal",
         "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 154642,
       "name": "Time to Heal",
       "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk"
+      },
+      "artists": [
+        {
+          "name": "Doosi",
+          "url": "https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Peaceful Mind",
+      "url": "https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv"
     },
     {
       "added_at": "2021-06-24 10:58:44",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 27/2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 28.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -2439,6 +2439,28 @@
     },
     {
       "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224813,
+      "name": "Cheap Thrills (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
+    },
+    {
+      "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
@@ -2580,7 +2602,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 234280,
       "name": "COMEBACCC",
       "url": "https://open.spotify.com/track/1n7Z2V4TgFMmNLejaDj9rm"
@@ -3092,7 +3114,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -3572,7 +3594,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -3790,7 +3812,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 255133,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
@@ -4561,6 +4583,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Superstars",
+        "url": "https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185377,
+      "name": "Ghetto Superstars",
+      "url": "https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S"
+    },
+    {
+      "album": {
         "name": "GHETTOGIRL",
         "url": "https://open.spotify.com/album/08GhLa1KoFgFU8EYs2i12D"
       },
@@ -4726,7 +4770,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -5014,7 +5058,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 209160,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/0a9npeEQIad1Wr4H1RsLPU"
@@ -6576,7 +6620,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 138224,
       "name": "KOMM N\u00c4HER",
       "url": "https://open.spotify.com/track/5bw4N8amK7DNOshwCDMgIJ"
@@ -6838,7 +6882,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
@@ -6998,7 +7042,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -7208,7 +7252,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 102101,
       "name": "LOVESICK",
       "url": "https://open.spotify.com/track/7qXSKKlhTiO1pgD0JFUKhs"
@@ -7404,7 +7448,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 299560,
       "name": "Major Tom (...v\u00f6llig losgel\u00f6st)",
       "url": "https://open.spotify.com/track/6lXKNdOsnaLv9LwulZbxNl"
@@ -7426,6 +7470,24 @@
       "duration_ms": 307681,
       "name": "Make Them Cry",
       "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
+    },
+    {
+      "album": {
+        "name": "Mala Fama",
+        "url": "https://open.spotify.com/album/0ghKf3dPJbC5PfXnpZOJJY"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137268,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2jPMmsIebx3b6FHLpK0f7x"
     },
     {
       "album": {
@@ -7774,7 +7836,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -7920,7 +7982,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 206000,
       "name": "Miss You - Bonus Track",
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
@@ -7974,10 +8036,32 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
+    },
+    {
+      "album": {
+        "name": "Mitten in der Nacht",
+        "url": "https://open.spotify.com/album/4EA2EVD7Qdd5ynXvY4viXs"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Mitten in der Nacht",
+      "url": "https://open.spotify.com/track/4MxKZPqKG1YIKkloGt82Pv"
     },
     {
       "album": {
@@ -8124,7 +8208,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -8913,6 +8997,24 @@
     },
     {
       "album": {
+        "name": "panzerknacker.wav",
+        "url": "https://open.spotify.com/album/6fi2aOnWlIuxhx3fhZonLx"
+      },
+      "artists": [
+        {
+          "name": "LENNSKO",
+          "url": "https://open.spotify.com/artist/0WyJfrWjsny9mSxops8ksX"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "panzerknacker.wav",
+      "url": "https://open.spotify.com/track/40NjASTBlqkyCZ9bPVDcMK"
+    },
+    {
+      "album": {
         "name": "racine carr\u00e9e",
         "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
       },
@@ -9096,6 +9198,32 @@
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "album": {
+        "name": "Johnny's Tape",
+        "url": "https://open.spotify.com/album/3jfyew5NDe2kYjkYdxQFTD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141167,
+      "name": "Pharma",
+      "url": "https://open.spotify.com/track/1b6BwtMjjBASZQt4KVN7bW"
     },
     {
       "album": {
@@ -10534,7 +10662,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -12088,7 +12216,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -12114,6 +12242,24 @@
       "duration_ms": 169004,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "album": {
@@ -12875,6 +13021,24 @@
     },
     {
       "album": {
+        "name": "Was bisher geschah",
+        "url": "https://open.spotify.com/album/2RFshREHgBjF2WWTVXIXTA"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190363,
+      "name": "Was bisher geschah",
+      "url": "https://open.spotify.com/track/1knnteL28u8VGh6vkMCzEx"
+    },
+    {
+      "album": {
         "name": "was krieg?",
         "url": "https://open.spotify.com/album/23zc8EPcUMCYxe3QSM94lK"
       },
@@ -12970,7 +13134,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -13615,6 +13779,28 @@
     },
     {
       "album": {
+        "name": "Wolke 4",
+        "url": "https://open.spotify.com/album/1WJ8pUODupPLZdyxkWkG7p"
+      },
+      "artists": [
+        {
+          "name": "Philipp Dittberner",
+          "url": "https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa"
+        },
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/64hJwJas2snPX2t0qGs1QK"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237857,
+      "name": "Wolke 4",
+      "url": "https://open.spotify.com/track/5RfxjgQMne0dRNiORcLtMg"
+    },
+    {
+      "album": {
         "name": "Wolken",
         "url": "https://open.spotify.com/album/5lnMtsg8OiHho7I0vQ7LmR"
       },
@@ -13666,6 +13852,24 @@
       "duration_ms": 231933,
       "name": "Wonderful Dream (Holidays Are Coming) - Radio Version",
       "url": "https://open.spotify.com/track/0SvD6EdetxVtXei2JhkV4B"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
     },
     {
       "album": {

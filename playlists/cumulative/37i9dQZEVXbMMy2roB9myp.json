@@ -606,7 +606,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 140307,
       "name": "666",
       "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 199877,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 131246,
       "name": "Argentina Es Un Carnaval",
       "url": "https://open.spotify.com/track/6hBOT549vs8F9UBASUT7kj"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 132044,
       "name": "Argentino yo soy",
       "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
@@ -9370,7 +9370,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 240092,
       "name": "Encantadora",
       "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
@@ -11964,7 +11964,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
@@ -13308,7 +13308,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 166145,
       "name": "La Cuarta Estrella",
       "url": "https://open.spotify.com/track/2isognTzyURyPXeHPbRhVi"
@@ -13344,7 +13344,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 251146,
       "name": "La Cumbia De Los Trapos",
       "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
@@ -14066,7 +14066,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 132980,
       "name": "La Scaloneta Ya Lleg\u00f3",
       "url": "https://open.spotify.com/track/2ZbpxhwSEGIE39dKKEtv2W"
@@ -17820,7 +17820,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 141237,
       "name": "Muchachos, Ahora Nos Volvimos a Ilusionar",
       "url": "https://open.spotify.com/track/5r1ZxyU8So2hMac9qd7v3A"
@@ -18504,7 +18504,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 80480,
       "name": "NO LES DA",
       "url": "https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE"
@@ -19286,7 +19286,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
@@ -19322,7 +19322,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM"
@@ -22676,7 +22676,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 191703,
       "name": "QUE ONDA",
       "url": "https://open.spotify.com/track/61vlMpyFxXmxvahvA7Bi3z"
@@ -25458,7 +25458,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 369142,
       "name": "Soy Hincha de la Selecci\u00f3n",
       "url": "https://open.spotify.com/track/1lU2vqCUf9S50pAEznmRLJ"
@@ -25862,7 +25862,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
@@ -28556,7 +28556,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,141 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,152 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 52 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
 | 53 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
 | 54 | [All My Days](https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU) | 4:57 |
-| 55 | [Wave of Mutilation \(UK Surf\)](https://open.spotify.com/track/3uUWbdV7zvDnZc9IwdUc5T) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Complete B Sides](https://open.spotify.com/album/58LxhP0wtQiFzXPV5uSlaU) | 3:00 |
-| 56 | [Florida](https://open.spotify.com/track/2ThHGTlfGw9uzQwgTFk2nK) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Good Mood Fool](https://open.spotify.com/album/6N0O0Smt0qOTTJYmcGQ4ss) | 4:25 |
+| 55 | [Florida](https://open.spotify.com/track/2ThHGTlfGw9uzQwgTFk2nK) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Good Mood Fool](https://open.spotify.com/album/6N0O0Smt0qOTTJYmcGQ4ss) | 4:25 |
+| 56 | [Wave of Mutilation \(UK Surf\)](https://open.spotify.com/track/3uUWbdV7zvDnZc9IwdUc5T) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Complete B Sides](https://open.spotify.com/album/58LxhP0wtQiFzXPV5uSlaU) | 3:00 |
 | 57 | [Can't Take You With Me](https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:10 |
 | 58 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
 | 59 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |

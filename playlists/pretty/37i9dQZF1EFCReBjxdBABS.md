@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 84 | [A Christmas We'll Remember](https://open.spotify.com/track/19SSpYuUi0ytkavyxX05k9) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 2:31 |
 | 85 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
 | 86 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
-| 87 | [You Are To Me](https://open.spotify.com/track/3y4OfQMZOrGutkuuVPtBu6) | [Pryor Baird](https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58) | [You Are To Me](https://open.spotify.com/album/1IsHAQU91h1cYPJZrt0o3e) | 3:52 |
-| 88 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 87 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 88 | [You Are To Me](https://open.spotify.com/track/3y4OfQMZOrGutkuuVPtBu6) | [Pryor Baird](https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58) | [You Are To Me](https://open.spotify.com/album/1IsHAQU91h1cYPJZrt0o3e) | 3:52 |
 | 89 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
 | 90 | [Way of Life](https://open.spotify.com/track/2Pnl04NKw9jNodRsc9fsCD) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Way of Life](https://open.spotify.com/album/4tXZtaTZOPe6RgM3jOeZmP) | 3:05 |
 | 91 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcWxvgAAAADokXmk/I94XZ9BZ6FRuGew`
+Snapshot ID: `AcW3XgAAAACDoOZ6NzUp1DgqkwLqRPHi`

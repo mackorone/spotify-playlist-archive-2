@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,632 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,718 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 46 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 |
 | 47 | [Doy La Vida Por Un Beso](https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Mas Alla Del Tiempo Y La Distancia](https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt) | 3:45 |
 | 48 | [Amigo Bronco \- Remasterizado](https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK) | 3:47 |
-| 49 | [No Tengo Lágrimas](https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 2:47 |
-| 50 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6uZkCMDKvKw5r6qaiYM3J2) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:44 |
+| 49 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6uZkCMDKvKw5r6qaiYM3J2) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:44 |
+| 50 | [No Tengo Lágrimas](https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 2:47 |
 | 51 | [Títere](https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Pero No Me Dejes](https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ) | 3:06 |
 | 52 | [Quiéreme Más](https://open.spotify.com/track/3pFenid397ZiUWJKGW668V) | [Grupo Modelo](https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG) | [Quieréme Más](https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j) | 3:58 |
 | 53 | [A Donde Iras Ahora](https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh) | [30 Aniversario \(Edición Limitada\)](https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG) | 3:05 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 71 | [Qué Bonito](https://open.spotify.com/track/60pVBdslwbfdr38i34yhUq) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Ven A Mi Mundo](https://open.spotify.com/album/5tFsnxxlmSVqYCFpoJnLCd) | 3:27 |
 | 72 | [Actos De Un Tonto](https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [35 Aniversario](https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh) | 3:47 |
 | 73 | [Juguete Caro \- Remastered](https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT) | [Organización Genesis](https://open.spotify.com/artist/3ODA1BEMLHdea29BorDZ9H) | [Todo..\. Vol\. 1 \(Remastered\)](https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz) | 3:02 |
-| 74 | [Es Que Te Amo](https://open.spotify.com/track/201DoWLysj5vR8va945CCW) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 3:04 |
-| 75 | [El primer tonto](https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:03 |
+| 74 | [El primer tonto](https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:03 |
+| 75 | [Es Que Te Amo](https://open.spotify.com/track/201DoWLysj5vR8va945CCW) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 3:04 |
 | 76 | [Cosas Buenas Que Parecen Malas](https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 2:49 |
 | 77 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 78 | [Dulce Veneno](https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [Dulce Veneno](https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D) | 3:20 |

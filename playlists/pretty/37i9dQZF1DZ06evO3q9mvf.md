@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 33 | [Enemy Numero Uno \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 5:22 |
 | 34 | [A Boring Life](https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:00 |
 
-Snapshot ID: `alLZAAAAAACzqxJXmnnR7rqDEMQyBtro`
+Snapshot ID: `alQqgAAAAABMdjzox2TTRlOIcJWsiUvY`

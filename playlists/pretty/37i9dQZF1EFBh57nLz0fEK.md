@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 135 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 135 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 134 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
 | 135 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 
-Snapshot ID: `AcWxtAAAAAC3zkmRcRSoX59eKvYkLhKP`
+Snapshot ID: `AcW3VAAAAAAeBvAH9sDrcu79+uvuvKQQ`

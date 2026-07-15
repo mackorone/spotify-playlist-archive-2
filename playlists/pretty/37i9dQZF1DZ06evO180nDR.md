@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,330 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,390 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 3 | [Vita Fer](https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:04 |
 | 4 | [PASTA](https://open.spotify.com/track/7gxY8xbRLWBvzQIkE5nZ46) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 3:14 |
 | 5 | [Ando Surtiendo](https://open.spotify.com/track/6EZTK5PCM3hycubqgQjNka) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:23 |
-| 6 | [Álbum JGL](https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Álbum JGL](https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL) | 2:50 |
-| 7 | [Hasta El Día De Hoy](https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:55 |
+| 6 | [Hasta El Día De Hoy](https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:55 |
+| 7 | [Álbum JGL](https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Álbum JGL](https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL) | 2:50 |
 | 8 | [Poco A Poco](https://open.spotify.com/track/1NtF4j3oiNostz6IgmBwRI) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [NEXT](https://open.spotify.com/album/1bWcE0tKOJgn4kgpNKSHU0) | 2:36 |
 | 9 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 10 | [MR INTERNACIONAL](https://open.spotify.com/track/4JWJ5BFdXnyV7BzTLj7dfJ) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 48 | [Que Te Entregues Hoy](https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:09 |
 | 49 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 |
 
-Snapshot ID: `alLZAAAAAACdiKsYHMU15pa+CTKbqy0p`
+Snapshot ID: `alQqgAAAAACPcIW19DGtMupv2kbfVSZG`

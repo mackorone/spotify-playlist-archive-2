@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 308176,
+  "num_followers": 308243,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 226266,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/3p80qaEZZnZ96CkhQ7V1dD"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "A Mi Ley",
         "url": "https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 179680,
       "name": "Si Ya No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Mira Nomas",
-      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Hombre Talentoso",
         "url": "https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 213648,
       "name": "Tu Ingratitud",
       "url": "https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Mira Nomas",
+      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Antes de Que Te Vayas",
-        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 205983,
-      "name": "Antes de Que Te Vayas",
-      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 205373,
       "name": "Inv\u00e9ntame",
       "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Antes de Que Te Vayas",
+        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 205983,
+      "name": "Antes de Que Te Vayas",
+      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
     },
     {
       "added_at": "2026-03-10 01:21:38",

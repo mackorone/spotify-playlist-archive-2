@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,467 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,497 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 28 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 |
 | 29 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 |
 | 30 | [Un Alto En El Camino](https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Un Alto En El Camino](https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5) | 4:50 |
-| 31 | [Solo un Cariño](https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:56 |
-| 32 | [A Prueba De Fuego](https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:42 |
+| 31 | [A Prueba De Fuego](https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:42 |
+| 32 | [Solo un Cariño](https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:56 |
 | 33 | [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 |
 | 34 | [El Amor Vendrá](https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tapando el Hueco](https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM) | 4:51 |
 | 35 | [Mujer de Novela](https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 5:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 49 | [Listo Medellín](https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 5:31 |
 | 50 | [Mi Mundo Al Revés](https://open.spotify.com/track/5eL3CUuqkOycNKjRUJban8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Mi Mundo Al Revés](https://open.spotify.com/album/3YSgkCCFuUs3jm3NZuiOxK) | 3:29 |
 
-Snapshot ID: `alLZAAAAAACWOrhhJCzoceqvjf8Gjobp`
+Snapshot ID: `alQqgAAAAAAniIeQd7+5qM55LWHdD2bY`

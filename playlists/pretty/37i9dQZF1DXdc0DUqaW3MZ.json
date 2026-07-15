@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376886,
+  "num_followers": 376908,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,22 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 291568,
-      "name": "Money (with Tom Misch)",
-      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
+      "duration_ms": 172081,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -347,22 +347,22 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 172081,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
+      "duration_ms": 291568,
+      "name": "Money (with Tom Misch)",
+      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 227358,
-      "name": "Elm",
-      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -439,22 +423,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Busy Mind",
-        "url": "https://open.spotify.com/album/6v3s9yGKeZjMOOtTiG1BuW"
-      },
-      "artists": [
-        {
-          "name": "Geo Jordan",
-          "url": "https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy"
-        }
-      ],
-      "duration_ms": 219150,
-      "name": "Busy Mind",
-      "url": "https://open.spotify.com/track/5UY9ftnhAC2NCzw9yV5VHU"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -471,6 +439,38 @@
       "duration_ms": 245471,
       "name": "Feed The Fire (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Busy Mind",
+        "url": "https://open.spotify.com/album/6v3s9yGKeZjMOOtTiG1BuW"
+      },
+      "artists": [
+        {
+          "name": "Geo Jordan",
+          "url": "https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy"
+        }
+      ],
+      "duration_ms": 219150,
+      "name": "Busy Mind",
+      "url": "https://open.spotify.com/track/5UY9ftnhAC2NCzw9yV5VHU"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "WHODIS",
-        "url": "https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 133356,
-      "name": "WHODIS",
-      "url": "https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "DARLING DRIVE",
         "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 199497,
       "name": "DARLING DRIVE",
       "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "WHODIS",
+        "url": "https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 133356,
+      "name": "WHODIS",
+      "url": "https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Hadiya George",
-          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
-        }
-      ],
-      "duration_ms": 195716,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Curses Broken",
         "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 186500,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Hadiya George",
+          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
+        }
+      ],
+      "duration_ms": 195716,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Promises (feat. Rochelle Jordan)",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "Promises (feat. Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "Ching",
         "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
       },
@@ -1067,54 +1067,6 @@
       "duration_ms": 118604,
       "name": "Ching",
       "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
-        }
-      ],
-      "duration_ms": 287037,
-      "name": "Summer In The Ends",
-      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1143,6 +1095,30 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
+      },
+      "artists": [
+        {
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 154735,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+        }
+      ],
+      "duration_ms": 287037,
+      "name": "Summer In The Ends",
+      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1191,30 +1191,6 @@
       "duration_ms": 205000,
       "name": "DAY&NITE",
       "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "Time & Time (feat. Demae) [IG Culture Remix]",
-        "url": "https://open.spotify.com/album/3eRJks5hFgoZnXhHlUDWt3"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Demae",
-          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
-        },
-        {
-          "name": "IG Culture",
-          "url": "https://open.spotify.com/artist/1aStXP3F92SgdczG1gx1Mp"
-        }
-      ],
-      "duration_ms": 320471,
-      "name": "Time & Time (feat. Demae) [IG Culture Remix]",
-      "url": "https://open.spotify.com/track/6dSffQCAJ4ZAZp3p9ZRcDA"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1255,6 +1231,30 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Time & Time (feat. Demae) [IG Culture Remix]",
+        "url": "https://open.spotify.com/album/3eRJks5hFgoZnXhHlUDWt3"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        },
+        {
+          "name": "IG Culture",
+          "url": "https://open.spotify.com/artist/1aStXP3F92SgdczG1gx1Mp"
+        }
+      ],
+      "duration_ms": 320471,
+      "name": "Time & Time (feat. Demae) [IG Culture Remix]",
+      "url": "https://open.spotify.com/track/6dSffQCAJ4ZAZp3p9ZRcDA"
     },
     {
       "added_at": "2026-07-09 16:18:31",

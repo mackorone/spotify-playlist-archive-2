@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388537,
+  "num_followers": 388535,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Changes Rising",
         "url": "https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 196908,
       "name": "Changes Rising",
       "url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
+        "name": "Sit Back Baby",
+        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 234723,
+      "name": "Sit Back Baby",
+      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
         "name": "Hen's Teeth",
         "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
-        "name": "Sit Back Baby",
-        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 234723,
-      "name": "Sit Back Baby",
-      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Stranger - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF"
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 146430,
-      "name": "Stranger - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf"
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -655,6 +635,26 @@
       "duration_ms": 232813,
       "name": "Drink the Ocean (feat. Oracle Sisters)",
       "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Stranger - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 146430,
+      "name": "Stranger - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf"
     },
     {
       "added_at": "2026-07-02 22:01:46",

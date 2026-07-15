@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 223120,
+  "num_followers": 223182,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-07-03 04:01:02",
       "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-07-03 04:01:02",
+      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 232493,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V"
-    },
-    {
-      "added_at": "2026-07-03 04:01:02",
-      "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 215744,
-      "name": "$10 Cowboy",
-      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
     },
     {
       "added_at": "2026-07-03 04:01:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,708 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,745 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 42 | [Estrenando Amante](https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Estrenando Amante](https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw) | 2:48 |
 | 43 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 |
 | 44 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
-| 45 | [Cuento Chino](https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joyas Sierreñas Con Revolver Cannabis](https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6) | 4:00 |
-| 46 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
-| 47 | [No Fue Suficiente](https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 3:01 |
-| 48 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
-| 49 | [La Bolsita](https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw) | [Omar Cardenas](https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vida y Libertad](https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ) | 2:37 |
-| 50 | [La Más Chula](https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Más Chula](https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq) | 2:39 |
+| 45 | [La Más Chula](https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Más Chula](https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq) | 2:39 |
+| 46 | [Cuento Chino](https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joyas Sierreñas Con Revolver Cannabis](https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6) | 4:00 |
+| 47 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
+| 48 | [No Fue Suficiente](https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 3:01 |
+| 49 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
+| 50 | [La Bolsita](https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw) | [Omar Cardenas](https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vida y Libertad](https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ) | 2:37 |
 
-Snapshot ID: `alLZAAAAAABpGSsY3ZQlD8Bq+k58Lwyt`
+Snapshot ID: `alQqgAAAAADF2RYFWAUg+W+U9QQAADeV`

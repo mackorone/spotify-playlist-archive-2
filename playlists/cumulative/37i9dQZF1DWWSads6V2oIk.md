@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-173 songs - 10 hr 15 min
+174 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Breathe In The Forest](https://open.spotify.com/track/0mlUW1sZLOlLSy6XetboEZ) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Brazilian Wood Therapy](https://open.spotify.com/album/4QnmfbrXHv2xQpsiCmXNT7) | 1:46 | 2023-02-20 | 2023-06-21 |
 | [Calm Night Jungle](https://open.spotify.com/track/4B7V783QPTkmXegMMFzJEE) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Calm Night Jungle](https://open.spotify.com/album/06mgWn0cxtum3yNeSCekF0) | 2:31 | 2025-11-11 |  |
 | [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-04-02 |  |
+| [Calming Water Noise](https://open.spotify.com/track/0X7LWNqMNDZTG3mWg1tmAK) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Calming Water Noise](https://open.spotify.com/album/0cOplbgtR7MRa1zUJf3Sck) | 2:45 | 2026-04-02 |  |
 | [Camping In the Forest \- \(Rain & Birds\)](https://open.spotify.com/track/0R2cDyGhOpTSl7Feeu4Zs6) | [Wide Noise HD](https://open.spotify.com/artist/2W6Z4GQCDaktUWbXP8huax) | [Cabin Rain, Crickets and Birds](https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6) | 2:19 | 2025-11-11 | 2026-04-03 |
 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 | 2023-02-20 |  |
 | [Catskill Forest Preserve](https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Catskill Forest Preserve](https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8) | 4:07 | 2026-04-02 |  |
@@ -59,7 +60,7 @@
 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 | 2023-06-20 | 2026-02-22 |
 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 | 2021-12-22 | 2026-05-12 |
 | [Ghosts of the Woods](https://open.spotify.com/track/2Z3NZCHCW05TxANQYPyuYj) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Evening Soundscapes](https://open.spotify.com/album/0JPQTfhNspilaTkduVToOf) | 2:31 | 2024-03-27 | 2025-07-08 |
-| [Grasshopper Song](https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Grasshopper Song](https://open.spotify.com/album/2Ga9oIbuiKxZJdZdRslgd7) | 3:10 | 2025-07-21 |  |
+| [Grasshopper Song](https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Grasshopper Song](https://open.spotify.com/album/2Ga9oIbuiKxZJdZdRslgd7) | 3:10 | 2025-07-21 | 2026-07-15 |
 | [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 | 2026-04-02 |  |
 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 | 2022-01-06 | 2024-03-28 |
 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 | 2022-07-06 | 2024-04-19 |

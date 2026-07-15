@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-246 songs - 20 hr 3 min
+247 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Twahachtek Omri](https://open.spotify.com/track/1QcJ7OsYeuhFsCzKyy1j4L) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Twahachtek Omri](https://open.spotify.com/album/7DIDz2uxqKJ4mhhBqCj4jZ) | 4:38 | 2021-10-19 | 2022-11-21 |
 | [Twehachtek Grave](https://open.spotify.com/track/3omnAT9Aee3I2szep6R894) | [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Twehachtek Grave](https://open.spotify.com/album/5QnK7ki9llQLXpHFofM4Ns) | 3:26 | 2026-05-04 |  |
 | [Wa3er Sougueh Wa3r \- بعثرلي المشاعر](https://open.spotify.com/track/36QDmF68FrLMKAkbUdsGpf) | [Cheikh Pititou](https://open.spotify.com/artist/160ZVD0gJqMWCNDEs2DYTU), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Wa3er Sougueh Wa3r \(بعثرلي المشاعر\)](https://open.spotify.com/album/7etRoj59vSF8nGNEN0QXKY) | 4:44 | 2024-04-23 |  |
-| [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 | 2023-08-28 |  |
+| [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 | 2023-08-28 | 2026-07-15 |
 | [Wahda Bwahda](https://open.spotify.com/track/4Ws6cRdfazsptOVi6lS25W) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Wahda Bwahda](https://open.spotify.com/album/4uxtyscFwFbNrck3U4lvjQ) | 4:41 | 2022-09-27 | 2022-11-21 |
 | [Waldiya Samholi](https://open.spotify.com/track/2vhiaigd2I1xDgZqoEmaTr) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Waldiya Samholi](https://open.spotify.com/album/7zqPD1RWksNJyZ2kLuwiW6) | 4:56 | 2024-09-09 |  |
 | [Way Way](https://open.spotify.com/track/4fhtWJkjPXZNRfS6x94OZf) | [Mouss Maher](https://open.spotify.com/artist/7n40iNdXEPUvQkURa7c3Xv), [Cheikh Nano](https://open.spotify.com/artist/2DcBVx9B2rez95bOTb1cDH) | [Way Way](https://open.spotify.com/album/0gdIW2pOUSBwTUagG5IwfU) | 4:19 | 2022-09-20 | 2022-10-26 |
@@ -244,6 +244,7 @@
 | [عشقها فات الحدود](https://open.spotify.com/track/2hI4PLjRtD6p9aeuwNIsqf) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [عشقها فات الحدود](https://open.spotify.com/album/7ngjklnX34oPZfnulpA0dB) | 5:10 | 2024-02-13 | 2024-03-08 |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/album/13nS0hTGyJMzeKhO5WCsdl) | 5:18 | 2024-05-13 | 2024-07-05 |
+| [قولو للحب لي غايب ينساني ما يجيش](https://open.spotify.com/track/59AfVijg1Yo10WsYaJEBxe) | [Cheb Reda Chahir](https://open.spotify.com/artist/2h3GjJKu3rssiawYWfLPXR), [Hocine Ghouila](https://open.spotify.com/artist/6ZVzzAtaJk22OPFgiiACHt), [Moncef Nassifo](https://open.spotify.com/artist/5S9qBN1ceKWFtUqOGmrfFw) | [قولو للحب لي غايب ينساني ما يجيش](https://open.spotify.com/album/6sdnpKT7iOeyltAlNF4VSt) | 3:56 | 2026-07-14 |  |
 | [لي نخرج معاها نربح عليها](https://open.spotify.com/track/0ztDisLpRcEKfHAPf1DDtK) | [Cheb Oussama](https://open.spotify.com/artist/39NbSFvjWk8fXvaoorAv6E), [Hocine Ghouila](https://open.spotify.com/artist/6ZVzzAtaJk22OPFgiiACHt) | [لي نخرج معاها نربح عليها](https://open.spotify.com/album/6h9P3Nup7ibkk49FeUuWIh) | 4:01 | 2024-10-14 |  |
 | [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 | 2026-05-12 |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 | 2023-12-30 |

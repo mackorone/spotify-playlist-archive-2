@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,852 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,853 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 24 | [Deus Está me Construindo](https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:19 |
 | 25 | [Jesus, Meu Primeiro Amor](https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 6:56 |
 | 26 | [Alguém](https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 3:48 |
-| 27 | [O Amor Que Cura](https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:16 |
-| 28 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 |
+| 27 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 |
+| 28 | [O Amor Que Cura](https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:16 |
 | 29 | [Seu Lugar](https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Sonhos](https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC) | 3:26 |
 | 30 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1) | 4:01 |
 | 31 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 43 | [Enquanto Eu Chorava](https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Glória](https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ) | 4:39 |
 | 44 | [Santo \(Holy\)](https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:44 |
 | 45 | [Peniel](https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 4:27 |
-| 46 | [Sonhos](https://open.spotify.com/track/1VIheUgrhc6Xe0ZRz0GulJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Sonhos](https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC) | 5:31 |
-| 47 | [Liberta\-me](https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 4:57 |
+| 46 | [Liberta\-me](https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 4:57 |
+| 47 | [Sonhos](https://open.spotify.com/track/1VIheUgrhc6Xe0ZRz0GulJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Sonhos](https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC) | 5:31 |
 | 48 | [Te Amo Tanto \(feat\. Fernanda Brum\)](https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 5:04 |
 | 49 | [Faraó ou Deus?](https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz) | 4:55 |
-| 50 | [Tua Glória](https://open.spotify.com/track/6hpoiNQJcl8rVg3xaxBZzI) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Meu Bem Maior](https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae) | 3:38 |
+| 50 | [Preciso de Uma Chance](https://open.spotify.com/track/5wGYqyGUDOA757piVlrJmb) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 3:45 |
 
-Snapshot ID: `alLZAAAAAABsmvPJfs7Rz01c1ZG+glh/`
+Snapshot ID: `alQqgAAAAADaXGeqw9kkHtP41bKF0yK8`

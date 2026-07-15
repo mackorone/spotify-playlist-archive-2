@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 897528,
+  "num_followers": 897708,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 156000,
       "name": "Chica",
       "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Talking Nonsense",
-        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
-      },
-      "artists": [
-        {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 339663,
-      "name": "Talking Nonsense",
-      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Gator Boots",
         "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 141309,
       "name": "Gator Boots",
       "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Talking Nonsense",
+        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
+      },
+      "artists": [
+        {
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
+        }
+      ],
+      "duration_ms": 339663,
+      "name": "Talking Nonsense",
+      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1811,30 +1811,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/55aOqFOHx3O10TU3bYos05"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Reese & Santonio",
-          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7oPK4HB8wAr3PIcxTgJ8mQ"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
       },
@@ -1855,54 +1831,26 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Secret Moves",
-        "url": "https://open.spotify.com/album/3M7Xtyqd9tA7whcPDKXHOG"
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/55aOqFOHx3O10TU3bYos05"
       },
       "artists": [
         {
-          "name": "Kapuchon",
-          "url": "https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt"
-        }
-      ],
-      "duration_ms": 202882,
-      "name": "Secret Moves",
-      "url": "https://open.spotify.com/track/4cbnWpacc8HWnYMVRUcKNE"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/6m7ecbmjXPDNVcPz5RYnAR"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         },
         {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 180875,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/20GqcQXULI3N04sVXYzmV7"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/4B0VzHsM5uYLhq9C4Dw6W0"
-      },
-      "artists": [
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+          "name": "Reese & Santonio",
+          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
         }
       ],
-      "duration_ms": 319882,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/68nYFINrWVFTJ23ukqGcPt"
+      "duration_ms": 160000,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7oPK4HB8wAr3PIcxTgJ8mQ"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1931,6 +1879,58 @@
       "duration_ms": 155096,
       "name": "Activated (I Just Wanna)",
       "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/6m7ecbmjXPDNVcPz5RYnAR"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 180875,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/20GqcQXULI3N04sVXYzmV7"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Secret Moves",
+        "url": "https://open.spotify.com/album/3M7Xtyqd9tA7whcPDKXHOG"
+      },
+      "artists": [
+        {
+          "name": "Kapuchon",
+          "url": "https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt"
+        }
+      ],
+      "duration_ms": 202882,
+      "name": "Secret Moves",
+      "url": "https://open.spotify.com/track/4cbnWpacc8HWnYMVRUcKNE"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/4B0VzHsM5uYLhq9C4Dw6W0"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 319882,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/68nYFINrWVFTJ23ukqGcPt"
     },
     {
       "added_at": "2026-07-02 23:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: BKTHERULA
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,291 likes - 99 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,298 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 23 | [Come and Go](https://open.spotify.com/track/4irdzqgQb1Iirs68hjDj0Q) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Come and Go](https://open.spotify.com/album/0lzQL647kgnwqz4WodD7g7) | 3:00 |
 | 24 | [\*\*kiwi\*\*gitup\*\*zz](https://open.spotify.com/track/2iVwoI2w4dwhRQH3aaFkV5) | [Kaicrewsade](https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx) | [kranberry](https://open.spotify.com/album/3cdzuxDqkcRh00xMbW10BJ) | 2:04 |
 | 25 | [startofday](https://open.spotify.com/track/5CPbJjXQ58R12vsRp6DwV9) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [Litebulb](https://open.spotify.com/artist/4dUdNDTctg8JmSdeRAbm8P), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [\#invite,sessions,only!!](https://open.spotify.com/album/7BPDz0kTSZ0YkYNx86p6KR) | 2:11 |
-| 26 | [Is Loving Really Bad](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
+| 26 | [Is Loving Really Bad?](https://open.spotify.com/track/0glAAFulS8PHqD1b35sKz6) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Is Loving Really Bad?](https://open.spotify.com/album/5gD0Dn9wTqvAq4O73895dI) | 2:26 |
 | 27 | [MUTT THAT BIH \[Feat\. 1900Rugrat & Key Nyata\]](https://open.spotify.com/track/3iFNq8TcrmWdElJ7IkqHRF) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5) | [MUTT THAT BIH \[Feat\. 1900Rugrat & Key Nyata\]](https://open.spotify.com/album/1nZpfdgFNVpIYCkaKcJCJ2) | 3:57 |
 | 28 | [or not](https://open.spotify.com/track/7r9xcGm6JJsgbyNQATmQwC) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [or not](https://open.spotify.com/album/7jPIkuY4JiMUdCZrl3Iumw) | 2:58 |
 | 29 | [TOTEM](https://open.spotify.com/track/3sv5XcgeHuOXeaPeyi02LX) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [TOTEM](https://open.spotify.com/album/3bmHABMiifGn5Z0DxdXBdW) | 1:36 |

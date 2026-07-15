@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap ❤️‍🔥 with Lizdek
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,079 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,062 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 71 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
 | 72 | [LOOK](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 |
 | 73 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
-| 74 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
+| 74 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 75 | [HACKING THE GATE](https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME](https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li) | 2:53 |
 | 76 | [What It Feels Like](https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What It Feels Like](https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79) | 2:18 |
 | 77 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
 | 78 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
-| 79 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
+| 79 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
 | 80 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 81 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 82 | [ALLNIGHTER](https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [ALLNIGHTER](https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp) | 2:48 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 86 | [STAB UP \(feat\. Shakewell\)](https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [DOOM](https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB) | 4:11 |
 | 87 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
 | 88 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
-| 89 | [Lucid](https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Aida Sofia](https://open.spotify.com/artist/0QxPOCNkDNs3qaA1p5PzQu) | [Jesus Loves Trap Music](https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r) | 3:08 |
-| 90 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
+| 89 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
+| 90 | [Lucid](https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Aida Sofia](https://open.spotify.com/artist/0QxPOCNkDNs3qaA1p5PzQu) | [Jesus Loves Trap Music](https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r) | 3:08 |
 | 91 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 92 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 | 93 | [BACKSPIN](https://open.spotify.com/track/00n0pSDChqnHu56HE0hDP9) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [BACKSPIN](https://open.spotify.com/album/0sv29XhXrVeHSgs7CFLNMa) | 3:11 |

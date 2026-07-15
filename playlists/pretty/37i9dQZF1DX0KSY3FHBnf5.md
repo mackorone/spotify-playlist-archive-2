@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,595 likes - 160 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,642 likes - 160 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

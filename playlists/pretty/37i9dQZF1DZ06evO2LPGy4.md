@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,856 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,885 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 45 | [Lider Del Genocidio](https://open.spotify.com/track/0E2WszOuFf5OhFy3WQD0Mu) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:38 |
 | 46 | [La Noche Es Tuya](https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Globall](https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu) | 3:01 |
 | 47 | [Soy Familia, Soy Michoacano \(En Vivo\)](https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:11 |
-| 48 | [Sangre Azul](https://open.spotify.com/track/3Uu4iU6tVXlEjkpiDZC5UE) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:11 |
-| 49 | [Déjate de Cosas](https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Déjate de Cosas](https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz) | 2:49 |
+| 48 | [Déjate de Cosas](https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Déjate de Cosas](https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz) | 2:49 |
+| 49 | [Sangre Azul](https://open.spotify.com/track/3Uu4iU6tVXlEjkpiDZC5UE) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:11 |
 | 50 | [Afectado](https://open.spotify.com/track/6Yn0bQfVdMLln9vYB31zKc) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Ejemplar](https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW) | 2:21 |
 
-Snapshot ID: `alLZAAAAAACc2c7l0G2dzeK/56m6yIcz`
+Snapshot ID: `alQqgAAAAACCyRZ0ybDomgX2M2XTIUuv`

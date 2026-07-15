@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,753 likes - 297 songs - 15 hr 30 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,753 likes - 302 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,7 +269,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 259 | [White Cemetery](https://open.spotify.com/track/341NpHioKZK3pID6EWKPEh) | [DEJA VU PILLS](https://open.spotify.com/artist/1EQOXVW7CTutxEBzghuxoC) | [White Cemetery](https://open.spotify.com/album/0mYTbSa6An8IGemH0I8PMS) | 4:10 |
 | 260 | [Singing About My Problems](https://open.spotify.com/track/6q3JIBfJI0ZrRXlO2ANERB) | [Alice Geary](https://open.spotify.com/artist/5UEW5uzcxaDQAFGwIMVUvk) | [Singing About My Problems](https://open.spotify.com/album/0CSuFvzHhzsJqzKNs53cVU) | 2:36 |
 | 261 | [DUMMY](https://open.spotify.com/track/4iwDUT6a015rHrKtq8HZD8) | [DeathKittyGurl](https://open.spotify.com/artist/2bqCyjXh2yihMXNMgwz0qU) | [Puppiez Nd Icecream!](https://open.spotify.com/album/0Zz0hHrZEI4gE5t55X8J6K) | 1:28 |
-| 262 | [Forest Light Way](https://open.spotify.com/track/5dlcMhb5SRQ0FTANx8RYmr) | [Hiroki Ikawa](https://open.spotify.com/artist/4N2nY51WkgMkqWUugN2QuH), [Yasuyuki Shimizu](https://open.spotify.com/artist/4aZXvPPAdVNH03dnQT6jQ4) | [Forest Light Way](https://open.spotify.com/album/2NlMajHSlroUv36jLjMVCk) | 3:35 |
+| 262 | [Forest Light Way](https://open.spotify.com/track/5dlcMhb5SRQ0FTANx8RYmr) | [Hiroki Ikawa](https://open.spotify.com/artist/7wTNjkaDZolWLXGeq3aGCB), [Yasuyuki Shimizu](https://open.spotify.com/artist/4aZXvPPAdVNH03dnQT6jQ4) | [Forest Light Way](https://open.spotify.com/album/2NlMajHSlroUv36jLjMVCk) | 3:35 |
 | 263 | [Neon Heartbeats](https://open.spotify.com/track/4fGrhGriiNxyUjSQQofT2l) | [Silver Atom](https://open.spotify.com/artist/0JmgYnUa2o1dEDrxRgIl1B) | [Neon Heartbeats](https://open.spotify.com/album/6gsxqACTSgmkSQwERVY8Vd) | 3:12 |
 | 264 | [Let's Ride](https://open.spotify.com/track/3wXQrXor7dwKcCuNakhYr6) | [Junior Writes](https://open.spotify.com/artist/46o96NxNMYIdeVFsYQVCb3) | [Shadows and Radiance](https://open.spotify.com/album/5JhZErH5vH4DbGaNw9sQpK) | 3:11 |
 | 265 | [Hello amigos](https://open.spotify.com/track/47eyXy1ymHspS1CmbPToQz) | [Leo Tiberi](https://open.spotify.com/artist/3C9ioBuuDOiJaDBfpfH9y5) | [Hello amigos](https://open.spotify.com/album/0ZHY3pShmVhGz4zH9vo6WB) | 3:07 |
@@ -305,5 +305,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 295 | [Las Calles](https://open.spotify.com/track/2OXlgMMCqM5pPt5zYhtIBG) | [Lilcsr](https://open.spotify.com/artist/7DtNzqDxHYWlygb1fhzBPu) | [Las Calles](https://open.spotify.com/album/1kyUDsagSfYRwwAfc1JhDG) | 2:22 |
 | 296 | [I wanna be your man](https://open.spotify.com/track/33suoS5xUsDtEhhYvRig0R) | [OMER AHMET](https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w) | [I wanna be your man](https://open.spotify.com/album/5oo5k7OppjYU9oTiuVbo4E) | 3:31 |
 | 297 | [Birds of a Feather](https://open.spotify.com/track/4PFZaXIEanBzrjfTR2P1Wp) | [Beach Symphony](https://open.spotify.com/artist/1g7T3WjueJnRn8SU9b4zRJ) | [Birds of a Feather](https://open.spotify.com/album/2jrt27c4tvGmHf4N5nYykv) | 3:56 |
+| 298 | [i know](https://open.spotify.com/track/0O6YOPWxxdoMtSx4umN8Eu) | [Sonny](https://open.spotify.com/artist/738VomCKBWF7qPA1ZfenH2) | [i know](https://open.spotify.com/album/4tl16bCJiggvbdeMV9TwD8) | 3:27 |
+| 299 | [Hechicera Lunar](https://open.spotify.com/track/70Ime2HP6wEjibFFaApDFc) | [Rockdra](https://open.spotify.com/artist/1dMp0BMXVaDsMNpp5NV5l8) | [Hechicera Lunar](https://open.spotify.com/album/4mjhjsOA0BdfZG1ntWZuyr) | 3:20 |
+| 300 | [Ghost of You](https://open.spotify.com/track/2AqpXbXUdkcT7RaSjWJTJR) | [Billy Holley](https://open.spotify.com/artist/4kyZuN4Dowu3l7KKv5T0hO), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Ghost of You](https://open.spotify.com/album/6VMicGu8CFoHXvCNwvscYK) | 2:55 |
+| 301 | [L'amour de ma vie](https://open.spotify.com/track/6psXLhUw9xSXOPz8Z9B4BE) | [J4y R](https://open.spotify.com/artist/2lbvuK8AOfrmbo8wRY0aNM) | [L'amour de ma vie](https://open.spotify.com/album/1dZNt1uVoZeDWlWoqlEiSe) | 2:44 |
+| 302 | [Mariposa \- Original Mix](https://open.spotify.com/track/53cyMp0iYlk4dJXShN8qKq) | [Macy](https://open.spotify.com/artist/7d9MccoSxC0ZCbiUPGj191) | [Mariposa](https://open.spotify.com/album/5aHbmS5ifuxHRLlrQyjl0F) | 3:27 |
 
-Snapshot ID: `AAA6gOfVev6GWjwzMj4/27lnwyvFTpnN`
+Snapshot ID: `AAA6hRBNibrrJEr5X8/iLl5hkX1CXGn3`

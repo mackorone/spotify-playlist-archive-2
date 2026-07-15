@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,948 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,968 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 7 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 |
 | 8 | [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 |
 | 9 | [Strutter \- Remastered 1997](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 |
-| 10 | [I Was Made For Lovin' You \- Single Mix](https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 4:01 |
-| 11 | [Crazy Crazy Nights](https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:47 |
+| 10 | [Crazy Crazy Nights](https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:47 |
+| 11 | [I Was Made For Lovin' You \- Single Mix](https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 4:01 |
 | 12 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 |
 | 13 | [Sure Know Something](https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:01 |
 | 14 | [I Love It Loud \- 2022 Remastered](https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:14 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 32 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
 | 33 | [Hide Your Heart](https://open.spotify.com/track/47o525G86mLspoGnUCaMd9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 4:24 |
 | 34 | [2,000 Man](https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:55 |
-| 35 | [Do You Love Me](https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:33 |
+| 35 | [Nothin' To Lose \- Remastered 1997](https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:27 |
 | 36 | [I Stole Your Love](https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:04 |
-| 37 | [Nothin' To Lose \- Remastered 1997](https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:27 |
+| 37 | [Do You Love Me](https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:33 |
 | 38 | [Magic Touch](https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:42 |
 | 39 | [C'mon And Love Me \- 2025 Remaster](https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:58 |
 | 40 | [Christine Sixteen](https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 43 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 | 44 | [Hotter Than Hell \- Remastered 1997](https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell \(Remastered 1997\)](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:31 |
 | 45 | [Beth \- Live From MTV Unplugged/1995](https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:55 |
-| 46 | [I Want You](https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:05 |
-| 47 | [Rock And Roll All Nite \- MOONLGHT Remix](https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Rock And Roll All Nite \(MOONLGHT Remix\)](https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn) | 2:15 |
+| 46 | [Rock And Roll All Nite \- MOONLGHT Remix](https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Rock And Roll All Nite \(MOONLGHT Remix\)](https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn) | 2:15 |
+| 47 | [I Want You](https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:05 |
 | 48 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 |
 | 49 | [100,000 Years \- Remastered 1997](https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:22 |
 | 50 | [Parasite \- Remastered 1997](https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell \(Remastered 1997\)](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:02 |
 
-Snapshot ID: `alLZAAAAAAB/z6G5nOTWUY3sZfu8xCHQ`
+Snapshot ID: `alQqgAAAAABw7zI1+sLsb1wApkp4Ahto`

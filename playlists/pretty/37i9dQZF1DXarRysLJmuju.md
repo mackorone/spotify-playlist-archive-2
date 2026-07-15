@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,261 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,238 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 71 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 72 | [DUSTY \(with Ty Dolla $ign\)](https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:13 |
 | 73 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
-| 74 | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
+| 74 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
 | 75 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
 | 76 | [Irish Goodbye](https://open.spotify.com/track/3AdVeOIjtDcVaLAvmnxQZ6) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Irish Goodbye](https://open.spotify.com/album/6PVfMppCjLy0hmLFCLX1KI) | 2:27 |
 | 77 | [everything led me to you](https://open.spotify.com/track/2JsZUBhPh5oXA8Rrm0sGFf) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [everything led me to you](https://open.spotify.com/album/6xpw9qxkrOCogmiwQxk2yD) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,097 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,083 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 34 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
 | 35 | [El Tiempo Pasará](https://open.spotify.com/track/6t6knHmmUVGnYHqQy7lTij) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Impronta](https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m) | 4:02 |
 | 36 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 |
-| 37 | [Lucha De Gigantes](https://open.spotify.com/track/1ozbWlTQASs311dSO5R6vp) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Lucha De Gigantes](https://open.spotify.com/album/3qcDcfZbiPkWFXwobesAvy) | 3:26 |
+| 37 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
 | 38 | [Algo Está Cambiando](https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 4:29 |
-| 39 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
+| 39 | [Lucha De Gigantes](https://open.spotify.com/track/1ozbWlTQASs311dSO5R6vp) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Lucha De Gigantes](https://open.spotify.com/album/3qcDcfZbiPkWFXwobesAvy) | 3:26 |
 | 40 | [Diazepam](https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 3:37 |
 | 41 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 42 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 58 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 59 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 60 | [Tormenta](https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 5:25 |
-| 61 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
-| 62 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 |
+| 61 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 |
+| 62 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
 | 63 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
 | 64 | [Si Me Voy](https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Si Me Voy](https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq) | 3:06 |
 | 65 | [Tatuaje](https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 3:58 |

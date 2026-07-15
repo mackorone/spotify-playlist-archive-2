@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,407 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,467 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 4 | [Kulu](https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD) | [N'Gou Bagayoko](https://open.spotify.com/artist/0U14GimEuoGTXPNaoNAlmg) | [Kulu](https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1) | 3:45 |
 | 5 | [Je pense à toi](https://open.spotify.com/track/53AU0RJlfFTofiu0uZZSIf) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sou Ni Tile](https://open.spotify.com/album/3YkgbENywpHkRQlzT2y3aR) | 5:16 |
 | 6 | [Achinkad](https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Achinkad](https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr) | 4:16 |
-| 7 | [Manitoumani](https://open.spotify.com/track/40sgwuGnpN1XQ3AbE9exPD) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Lamomali](https://open.spotify.com/album/3jY3nT2vkn0Fk7w7rtXVR4) | 3:28 |
+| 7 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 |
 | 8 | [Erghad Afewo](https://open.spotify.com/track/2356DCJaegEGZ9qPTRrojb) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Hoggar](https://open.spotify.com/album/2gqUcbYA8djTbahHOE7hjx) | 3:34 |
-| 9 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 |
+| 9 | [Manitoumani](https://open.spotify.com/track/40sgwuGnpN1XQ3AbE9exPD) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Lamomali](https://open.spotify.com/album/3jY3nT2vkn0Fk7w7rtXVR4) | 3:28 |
 | 10 | [Djôn'Maya](https://open.spotify.com/track/2JlQOgJZdvQ5YJrVxY13wQ) | [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [Victor Démé](https://open.spotify.com/album/4psXSB62XvHZ0c3fg2udob) | 4:09 |
 | 11 | [Mamaké](https://open.spotify.com/track/520tnSeFL0qGLxD7I7YsxQ) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Fasiya](https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6) | 5:08 |
 | 12 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 |

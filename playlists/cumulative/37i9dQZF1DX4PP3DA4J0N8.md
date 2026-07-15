@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-245 songs - 11 hr 41 min
+246 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Calm Summer Dusk at the Farm](https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Calm Summer Dusk at the Farm](https://open.spotify.com/album/3SGRixB5ozgLvZgstXHdk1) | 2:30 | 2025-07-21 |  |
 | [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-04-02 |  |
 | [Calming Forest Sound](https://open.spotify.com/track/5QzFhfsgLVN9UKyfGV3RH9) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:55 | 2022-03-25 | 2023-09-21 |
+| [Calming Water Noise](https://open.spotify.com/track/0X7LWNqMNDZTG3mWg1tmAK) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Calming Water Noise](https://open.spotify.com/album/0cOplbgtR7MRa1zUJf3Sck) | 2:45 | 2026-04-02 |  |
 | [Calming Wave Sound](https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu) | [Catching Sleep](https://open.spotify.com/artist/6qsH16CZ8j8s0RWRlgjyW2) | [Water Sounds](https://open.spotify.com/album/1Fx0PVCZ7pDj3nvoLHHepW) | 3:50 | 2022-03-25 | 2024-03-27 |
 | [Calming Wilderness Ambience](https://open.spotify.com/track/6veM8JPEjyUSeqLb4BwfxZ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Mystical Nature Harmony](https://open.spotify.com/album/3rOT3U6HkIzAqqu0MIp2hF) | 1:57 | 2023-06-20 | 2023-10-12 |
 | [Catskill Forest Preserve](https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Catskill Forest Preserve](https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8) | 4:07 | 2026-04-02 |  |
@@ -249,7 +250,7 @@
 | [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-09-20 | 2026-04-14 |
 | [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-04-02 |  |
 | [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-21 |  |
-| [With Gentle Forest Sounds I](https://open.spotify.com/track/76pDWgR9MSvLAUvRz51R7n) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Gentle Forest Sounds I](https://open.spotify.com/album/57c9YKnCRzzG2iLTiVKq5k) | 2:38 | 2025-11-11 |  |
+| [With Gentle Forest Sounds I](https://open.spotify.com/track/76pDWgR9MSvLAUvRz51R7n) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Gentle Forest Sounds I](https://open.spotify.com/album/57c9YKnCRzzG2iLTiVKq5k) | 2:38 | 2025-11-11 | 2026-07-15 |
 | [Woodland Drops](https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Woodland Drops](https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d) | 2:18 | 2026-04-02 |  |
 | [Woodland Reverie](https://open.spotify.com/track/3QwgHRh1IO6EztjJBgL0jq) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Woodland Reverie](https://open.spotify.com/album/0Ml0x9lt98lmMXyrsHJuQv) | 2:21 | 2024-12-03 | 2026-04-01 |
 | [Zen Forest Serenade](https://open.spotify.com/track/7I4BBYAPTQZqdX6aPXxRtg) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 4:32 | 2023-09-20 | 2026-04-09 |

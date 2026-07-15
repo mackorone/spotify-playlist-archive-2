@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 99029,
+  "num_followers": 99036,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Hurt My Feelings",
+        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
+      },
+      "artists": [
+        {
+          "name": "Tatianna",
+          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
+        }
+      ],
+      "duration_ms": 237987,
+      "name": "Hurt My Feelings",
+      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Everyone Is A Little Bit Gay",
         "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 190603,
       "name": "Everyone Is A Little Bit Gay",
       "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Hurt My Feelings",
-        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
-      },
-      "artists": [
-        {
-          "name": "Tatianna",
-          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
-        }
-      ],
-      "duration_ms": 237987,
-      "name": "Hurt My Feelings",
-      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Drag Den",
-        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
       },
       "artists": [
         {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+          "name": "Sharon Needles",
+          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
         }
       ],
-      "duration_ms": 195473,
-      "name": "Drag Den",
-      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
+      "duration_ms": 198391,
+      "name": "Flamin' Hot",
+      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
+        "name": "Drag Den",
+        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
       },
       "artists": [
         {
-          "name": "Sharon Needles",
-          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
         }
       ],
-      "duration_ms": 198391,
-      "name": "Flamin' Hot",
-      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
+      "duration_ms": 195473,
+      "name": "Drag Den",
+      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
     },
     {
       "added_at": "2025-01-14 16:17:40",

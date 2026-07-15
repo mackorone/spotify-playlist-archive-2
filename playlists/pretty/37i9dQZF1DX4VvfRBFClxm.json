@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1462646,
+  "num_followers": 1462632,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Castle on the Hill (Acoustic)",
-        "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
+        "name": "Happier (Acoustic)",
+        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 226226,
-      "name": "Castle on the Hill - Acoustic",
-      "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
+      "duration_ms": 206209,
+      "name": "Happier - Acoustic",
+      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Happier (Acoustic)",
-        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+        "name": "Castle on the Hill (Acoustic)",
+        "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 206209,
-      "name": "Happier - Acoustic",
-      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
+      "duration_ms": 226226,
+      "name": "Castle on the Hill - Acoustic",
+      "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Boston Accent",
-        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Dream (Acoustic)",
         "url": "https://open.spotify.com/album/5Me78hMJtqwiroQEDoFGYh"
       },
@@ -2059,22 +2043,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+        "name": "Boston Accent",
+        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
         }
       ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "A Good Storm",
+        "url": "https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Fredericks",
+          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "This Fire",
+      "url": "https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P"
     }
   ],
   "unique_name": "Acoustic Hits",

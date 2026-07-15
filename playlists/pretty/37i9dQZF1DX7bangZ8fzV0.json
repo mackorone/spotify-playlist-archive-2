@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Rooksein en Early B",
-  "num_followers": 148324,
+  "num_followers": 148328,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Plaas Dorp Toe",
+        "url": "https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Plaas Dorp Toe",
+      "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Dagdrome in Suburbia",
         "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 191466,
       "name": "Dagdrome in Suburbia",
       "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Plaas Dorp Toe",
-        "url": "https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Plaas Dorp Toe",
-      "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
     },
     {
       "added_at": "2026-06-04 22:01:24",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Vitamiene See",
-        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Vitamiene See",
-      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Helemal",
         "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 227999,
       "name": "Helemal",
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Vitamiene See",
+        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Vitamiene See",
+      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
     },
     {
       "added_at": "2026-06-19 08:30:41",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Ja. Nee. Lekker. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 182602,
-      "name": "Ballade Vir 'N Enkeling",
-      "url": "https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 192375,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Ja. Nee. Lekker. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 182602,
+      "name": "Ballade Vir 'N Enkeling",
+      "url": "https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Rooi Vlag",
-        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 246393,
-      "name": "Rooi Vlag",
-      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Mila",
         "url": "https://open.spotify.com/album/4enI5oy6qL2Ibdf96K29vL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 172168,
       "name": "Mila",
       "url": "https://open.spotify.com/track/50ZHOPP42jXBg5uMnPHYZY"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Rooi Vlag",
+        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 246393,
+      "name": "Rooi Vlag",
+      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        }
+      ],
+      "duration_ms": 161242,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "My Bra",
         "url": "https://open.spotify.com/album/4SfoXJXapgh5WDmLRoTaoK"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 210322,
       "name": "My Bra",
       "url": "https://open.spotify.com/track/5aDU1syQZmoTu0aK0Quyg5"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Naam",
-        "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
-      },
-      "artists": [
-        {
-          "name": "ONS",
-          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
-        }
-      ],
-      "duration_ms": 161242,
-      "name": "Naam",
-      "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Vlerke",
-        "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Vlerke",
-      "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Ryk Met Tyd",
         "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 148999,
       "name": "Ryk Met Tyd",
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Vlerke",
+        "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 192567,
+      "name": "Vlerke",
+      "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
-      "added_at": "2026-05-28 22:01:39",
-      "album": {
-        "name": "Jag en Visvang",
-        "url": "https://open.spotify.com/album/4zsN7tmhEdMCzQHEpSVCNy"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Jag en Visvang",
-      "url": "https://open.spotify.com/track/0ffCJEVplm2kSYcYG8hsLO"
-    },
-    {
       "added_at": "2026-05-21 22:02:06",
       "album": {
         "name": "Bitterblou",
@@ -1199,6 +1183,22 @@
       "duration_ms": 246438,
       "name": "Mia",
       "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
+    },
+    {
+      "added_at": "2026-05-28 22:01:39",
+      "album": {
+        "name": "Jag en Visvang",
+        "url": "https://open.spotify.com/album/4zsN7tmhEdMCzQHEpSVCNy"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "duration_ms": 201386,
+      "name": "Jag en Visvang",
+      "url": "https://open.spotify.com/track/0ffCJEVplm2kSYcYG8hsLO"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 187094,
-      "name": "Witblits",
-      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Diepseeduiker 17",
         "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 165149,
       "name": "Diepseeduiker 17",
       "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 187094,
+      "name": "Witblits",
+      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
     },
     {
       "added_at": "2026-05-21 22:02:06",

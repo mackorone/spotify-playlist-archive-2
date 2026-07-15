@@ -1,6 +1,6 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1470294,
+  "num_followers": 1470311,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
@@ -677,24 +677,20 @@
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
-      "added_at": "2026-04-17 04:01:55",
+      "added_at": "2026-04-06 14:44:29",
       "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
       "artists": [
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 171010,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "added_at": "2026-04-06 14:44:29",
@@ -761,20 +757,24 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2026-04-06 14:44:29",
+      "added_at": "2026-04-17 04:01:55",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
       "artists": [
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
       "added_at": "2026-04-06 14:44:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-04-06 14:44:29",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2026-04-06 14:44:29",
-      "album": {
         "name": "Leak It",
         "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 183406,
       "name": "Leak It",
       "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
+    },
+    {
+      "added_at": "2026-04-06 14:44:29",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2026-04-06 14:44:29",

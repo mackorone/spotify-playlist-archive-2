@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 327756,
+  "num_followers": 327750,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,30 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+        "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Doguinha",
+          "url": "https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL"
+        },
+        {
+          "name": "MC Pupio",
+          "url": "https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+      "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Terra Sem Cep (Ao Vivo)",
         "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 155417,
       "name": "Assalto Perigoso",
       "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
-        "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Doguinha",
-          "url": "https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL"
-        },
-        {
-          "name": "MC Pupio",
-          "url": "https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
-      "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Pra voc\u00ea acreditar (Ao vivo)",
-        "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Solta a batida",
         "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 169811,
       "name": "Solta a batida",
       "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Pra voc\u00ea acreditar (Ao vivo)",
+        "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
     },
     {
       "added_at": "2023-01-17 01:33:36",

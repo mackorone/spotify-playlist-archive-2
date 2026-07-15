@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\ud83d\udcf8 Quevedo",
+  "description": "\ud83d\udcf8 La T Y La M",
   "name": "\u00c9xitos Argentina",
   "tracks": [
     {
@@ -981,6 +981,50 @@
     },
     {
       "album": {
+        "name": "Zapada Argentina",
+        "url": "https://open.spotify.com/album/1syouBbhrkRvTnLqP3yL7Z"
+      },
+      "artists": [
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131246,
+      "name": "Argentina Es Un Carnaval",
+      "url": "https://open.spotify.com/track/6hBOT549vs8F9UBASUT7kj"
+    },
+    {
+      "album": {
+        "name": "Tierra de Campeones",
+        "url": "https://open.spotify.com/album/5x8nm1g0z1w9rOTnEZtH9v"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132044,
+      "name": "Argentino yo soy",
+      "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
+    },
+    {
+      "album": {
         "name": "ARRANCARMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
@@ -1260,7 +1304,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -6401,6 +6445,42 @@
     },
     {
       "album": {
+        "name": "La Cuarta Estrella",
+        "url": "https://open.spotify.com/album/7sScNswh3NiMX7biccktnE"
+      },
+      "artists": [
+        {
+          "name": "PALMITO",
+          "url": "https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166145,
+      "name": "La Cuarta Estrella",
+      "url": "https://open.spotify.com/track/2isognTzyURyPXeHPbRhVi"
+    },
+    {
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
+    },
+    {
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -7032,7 +7112,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -7598,7 +7678,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 240100,
       "name": "maggots for brains",
       "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
@@ -8703,6 +8783,24 @@
     },
     {
       "album": {
+        "name": "Muchachos",
+        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141237,
+      "name": "Muchachos, Ahora Nos Volvimos a Ilusionar",
+      "url": "https://open.spotify.com/track/5r1ZxyU8So2hMac9qd7v3A"
+    },
+    {
+      "album": {
         "name": "Muchachos, Ahora Nos Volvimos a Ilusionar",
         "url": "https://open.spotify.com/album/0WRR7nTtUtQXKe8kpQHGvn"
       },
@@ -8776,7 +8874,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 180720,
       "name": "my way",
       "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
@@ -14002,7 +14100,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 247586,
       "name": "u + me = <3",
       "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"

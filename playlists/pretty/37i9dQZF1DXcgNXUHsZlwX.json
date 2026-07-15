@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143728,
+  "num_followers": 143725,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
-        "name": "Belladonna Nocturne",
-        "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        }
-      ],
-      "duration_ms": 87666,
-      "name": "Snow Lake",
-      "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
         "name": "The Wandering",
         "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
+        "name": "Belladonna Nocturne",
+        "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "duration_ms": 87666,
+      "name": "Snow Lake",
+      "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
         "name": "Dans tes bras",
         "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 207133,
       "name": "Dans tes bras",
       "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
-        "name": "The Music That Makes Me Dance",
-        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 307567,
-      "name": "The Music That Makes Me Dance",
-      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
+        "name": "The Music That Makes Me Dance",
+        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 307567,
+      "name": "The Music That Makes Me Dance",
+      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
         "name": "Tu reviendras",
         "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -1271,42 +1271,6 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
-        "name": "Fleuron (feat. Helena Deland)",
-        "url": "https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0"
-      },
-      "artists": [
-        {
-          "name": "N NAO",
-          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Fleuron (feat. Helena Deland)",
-      "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
         "name": "Quand je pleure, je suis content",
         "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
       },
@@ -1319,6 +1283,22 @@
       "duration_ms": 217773,
       "name": "Quand je pleure, je suis content",
       "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -1351,6 +1331,26 @@
       "duration_ms": 146597,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
+        "name": "Fleuron (feat. Helena Deland)",
+        "url": "https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0"
+      },
+      "artists": [
+        {
+          "name": "N NAO",
+          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Fleuron (feat. Helena Deland)",
+      "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
-      },
-      "artists": [
-        {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -1487,22 +1487,6 @@
       "duration_ms": 238969,
       "name": "L'\u00e9t\u00e9 indien de ta vie",
       "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
-        "name": "si je ne suis pas",
-        "url": "https://open.spotify.com/album/7vGj6cne4fb0fbuTm1fVsE"
-      },
-      "artists": [
-        {
-          "name": "Vermeil",
-          "url": "https://open.spotify.com/artist/2umQO1NjunQcWQSDGKNTRZ"
-        }
-      ],
-      "duration_ms": 258895,
-      "name": "si je ne suis pas",
-      "url": "https://open.spotify.com/track/2Y56oJERnOe72VfPT9qd1x"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -1559,34 +1543,18 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
-        "name": "I'll Stand in the Doorway",
-        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
+        "name": "si je ne suis pas",
+        "url": "https://open.spotify.com/album/7vGj6cne4fb0fbuTm1fVsE"
       },
       "artists": [
         {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
+          "name": "Vermeil",
+          "url": "https://open.spotify.com/artist/2umQO1NjunQcWQSDGKNTRZ"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I'll Stand in the Doorway",
-      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
-        "name": "Quand vient le soir",
-        "url": "https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 225998,
-      "name": "Quand vient le soir",
-      "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
+      "duration_ms": 258895,
+      "name": "si je ne suis pas",
+      "url": "https://open.spotify.com/track/2Y56oJERnOe72VfPT9qd1x"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -1607,22 +1575,6 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
-        "name": "Velours et Acide",
-        "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
-      },
-      "artists": [
-        {
-          "name": "Charlie Juste",
-          "url": "https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd"
-        }
-      ],
-      "duration_ms": 215815,
-      "name": "\u00c9thanol",
-      "url": "https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe"
-    },
-    {
-      "added_at": "2026-07-10 04:03:10",
-      "album": {
         "name": "Le go\u00fbt des mangues",
         "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
@@ -1639,18 +1591,50 @@
     {
       "added_at": "2026-07-10 04:03:10",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+        "name": "I'll Stand in the Doorway",
+        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 240000,
+      "name": "I'll Stand in the Doorway",
+      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
+        "name": "Velours et Acide",
+        "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Juste",
+          "url": "https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd"
+        }
+      ],
+      "duration_ms": 215815,
+      "name": "\u00c9thanol",
+      "url": "https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
+        "name": "Quand vient le soir",
+        "url": "https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 225998,
+      "name": "Quand vient le soir",
+      "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
     },
     {
       "added_at": "2026-07-10 04:03:10",
@@ -1667,6 +1651,22 @@
       "duration_ms": 244083,
       "name": "Les oiseaux",
       "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+    },
+    {
+      "added_at": "2026-07-10 04:03:10",
+      "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-07-10 04:03:10",

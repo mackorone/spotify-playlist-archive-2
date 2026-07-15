@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83347,
+  "num_followers": 83341,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2024-07-08 19:10:57",

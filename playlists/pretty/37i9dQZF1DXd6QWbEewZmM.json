@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 339929,
+  "num_followers": 339980,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Siempre Te Voy A Querer",
-      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "MIRADA",
         "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 192499,
       "name": "Sale Para Ser Feliz",
       "url": "https://open.spotify.com/track/0reBZSEtwbvqkXoWGtmV0k"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Siempre Te Voy A Querer",
+      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Te Perdonar\u00eda",
-        "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 156379,
-      "name": "Te Perdonar\u00eda",
-      "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 201993,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Te Perdonar\u00eda",
+        "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 156379,
+      "name": "Te Perdonar\u00eda",
+      "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Otra Mentira",
         "url": "https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 185173,
       "name": "Ya Te Super\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "AMAR TE DUELE",
-        "url": "https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "SI QUIERES ME VOY",
-      "url": "https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Verbo",
         "url": "https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 168631,
       "name": "Verbo",
       "url": "https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "AMAR TE DUELE",
+        "url": "https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "SI QUIERES ME VOY",
+      "url": "https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv"
     },
     {
       "added_at": "2026-07-01 22:36:45",

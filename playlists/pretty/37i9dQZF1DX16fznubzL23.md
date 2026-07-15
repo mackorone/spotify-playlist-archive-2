@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,819 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,837 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 38 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 39 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
 | 40 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
-| 41 | [Cry On You](https://open.spotify.com/track/488d0odzx7GHa427jIvnDv) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 1:44 |
-| 42 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/39CW71Je0OSO9DRBFkwxbs) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
+| 41 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/39CW71Je0OSO9DRBFkwxbs) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
+| 42 | [Cry On You](https://open.spotify.com/track/488d0odzx7GHa427jIvnDv) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 1:44 |
 | 43 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 | 44 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 |
 | 45 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |

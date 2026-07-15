@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACCGNdHa8isFNuMl7sYD1Tk",
+  "snapshot_id": "alQqgAAAAAAOfekgg4/sauDDbIRpgaHm",
   "tracks": [
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Accent (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can You Please",
         "url": "https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 154505,
       "name": "Can You Please (feat. GloRilla)",
       "url": "https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Accent (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
     },
     {
       "added_at": null,

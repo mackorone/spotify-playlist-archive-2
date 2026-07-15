@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron!
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 市川空
 
-585 songs - 1 day 18 hr 0 min
+586 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 | 2026-01-30 | 2026-04-03 |
 | [I don't give a damn](https://open.spotify.com/track/6eYsYXw6dJuEcRx159t2VN) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k), [Ka'Cye Thompkins](https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I) | [I don't give a damn](https://open.spotify.com/album/7LP3Y1z89sjhYdx0bRFf9I) | 5:32 | 2024-11-28 | 2025-01-11 |
 | [I Feel the Same \- edbl Remix](https://open.spotify.com/track/2UsrfYHrbrK4j6xdkdJthh) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [I Feel the Same \(edbl Remix\)](https://open.spotify.com/album/5LoqBVBEnl4gHzosCZpeEQ) | 3:02 | 2024-11-14 | 2025-01-31 |
+| [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/album/5vNvLZS3LJyT7dHs3bDmya) | 4:46 | 2026-07-14 |  |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-08 | 2025-08-15 |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-03-06 | 2025-06-20 |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-18 | 2026-02-06 |
@@ -592,6 +593,6 @@
 | [邂逅](https://open.spotify.com/track/0lJDV5BTXFvgDgnOguaPEA) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [邂逅](https://open.spotify.com/album/42pFLB9MwWbPRCbHdfXfGo) | 4:08 | 2025-03-06 | 2025-05-09 |
 | [雨にほどける](https://open.spotify.com/track/23W2GyzpuPaoMYqKq4CGYa) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [雨にほどける](https://open.spotify.com/album/0kmFuNPkvdVH2d1kNQiw6K) | 2:27 | 2026-06-02 | 2026-06-19 |
 | [飛ばしたっしょ](https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [飛ばしたっしょ](https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx) | 3:22 | 2024-06-27 | 2024-07-12 |
-| [麓の景色](https://open.spotify.com/track/1IPT0ks4lkE0ckyYpMkaW5) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [麓の景色](https://open.spotify.com/album/7FtrOVehVgnwtjoF02bHI9) | 7:07 | 2026-02-17 |  |
+| [麓の景色](https://open.spotify.com/track/1IPT0ks4lkE0ckyYpMkaW5) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [麓の景色](https://open.spotify.com/album/7FtrOVehVgnwtjoF02bHI9) | 7:07 | 2026-02-17 | 2026-07-15 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

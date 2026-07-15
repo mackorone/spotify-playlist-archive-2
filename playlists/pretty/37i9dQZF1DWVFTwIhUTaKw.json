@@ -1,6 +1,6 @@
 {
   "description": "Two decades of Latin bangers that defined a global movement. Shakira on cover",
-  "num_followers": 85439,
+  "num_followers": 85465,
   "original_name": "20 Years of Latin Hits",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,26 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2026-05-12 16:32:10",
@@ -899,26 +903,22 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
     },
     {
       "added_at": "2026-05-12 16:32:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
-    },
-    {
-      "added_at": "2026-05-12 16:32:10",
-      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "added_at": "2026-05-12 16:32:10",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2026-05-12 16:32:10",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "VIVES",
-        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 229509,
-      "name": "La Bicicleta",
-      "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
-    },
-    {
-      "added_at": "2026-05-12 16:32:10",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/44vHtuBiZz2phwEwv1Rabu"
+    },
+    {
+      "added_at": "2026-05-12 16:32:10",
+      "album": {
+        "name": "VIVES",
+        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 229509,
+      "name": "La Bicicleta",
+      "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
     },
     {
       "added_at": "2026-05-12 16:32:10",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-05-12 16:32:10",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
-    },
-    {
-      "added_at": "2026-05-12 16:32:10",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 193816,
       "name": "NO SE VA - En Vivo",
       "url": "https://open.spotify.com/track/1zgXPTS9D3SXZIIf6Zzvs5"
+    },
+    {
+      "added_at": "2026-05-12 16:32:10",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
     },
     {
       "added_at": "2026-05-12 16:32:10",

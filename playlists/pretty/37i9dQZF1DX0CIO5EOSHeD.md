@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,457 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,489 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 52 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 |
 | 53 | [Sister](https://open.spotify.com/track/33YCzOk2Oz1s4Quw5wBT14) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 3:46 |
 | 54 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
-| 55 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
-| 56 | [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 |
+| 55 | [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 |
+| 56 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
 | 57 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 |
 | 58 | [Skater Dater \(feat\. Bb trickz & Elvia\)](https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [Vampire in Beverly Hills](https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH) | 2:34 |
 | 59 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 64 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 |
 | 65 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 66 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
-| 67 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
-| 68 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 |
+| 67 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 |
+| 68 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
 | 69 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 70 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
 | 71 | [Jesse](https://open.spotify.com/track/27hPDHjoiRbLU3lS5Js4Tc) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Real Life](https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc) | 2:09 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 93 | [August 19](https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [August 19](https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP) | 2:35 |
 | 94 | [heat waves \- lofi version](https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [heat waves \- lofi version](https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82) | 1:36 |
 | 95 | [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 |
-| 96 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
-| 97 | [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 |
-| 98 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 |
+| 96 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 |
+| 97 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
+| 98 | [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 |
 | 99 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
 | 100 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
 

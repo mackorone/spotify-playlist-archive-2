@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 182448,
       "name": "Bubee",
       "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 192994,
       "name": "Cold Night",
       "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
@@ -5833,6 +5833,32 @@
     },
     {
       "album": {
+        "name": "Recollect",
+        "url": "https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn"
+      },
+      "artists": [
+        {
+          "name": "Konomi Suzuki",
+          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
+        },
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Re:ZERO Music",
+          "url": "https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190965,
+      "name": "Recollect",
+      "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"
+    },
+    {
+      "album": {
         "name": "Red Criminal",
         "url": "https://open.spotify.com/album/2hYWaDCfd9n6fQ7MAilgLa"
       },
@@ -6242,6 +6268,28 @@
       "duration_ms": 229706,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/6lEmBW6LNglffHhnbkosMs"
+    },
+    {
+      "album": {
+        "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243996,
+      "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3"
     },
     {
       "album": {
@@ -8187,6 +8235,24 @@
     },
     {
       "album": {
+        "name": "Wind's Anthem (feat. suis From Yorushika)",
+        "url": "https://open.spotify.com/album/3bIY6ZyJs190WknnUMIKFp"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222492,
+      "name": "Wind's Anthem (feat. suis From Yorushika)",
+      "url": "https://open.spotify.com/track/1xjyjzvD6l7nCHMySQrgVc"
+    },
+    {
+      "album": {
         "name": "wit and love / child dancer",
         "url": "https://open.spotify.com/album/5M4uuTfyrIza1ULJuHiIKm"
       },
@@ -8364,6 +8430,24 @@
       "duration_ms": 273043,
       "name": "\u3042\u306a\u305f\u304c\u304f\u308c\u305f\u30d2\u30ab\u30ea",
       "url": "https://open.spotify.com/track/3NQD8vGjo6YSSzxSBz9uGg"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3076\u304f",
+        "url": "https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234613,
+      "name": "\u3042\u3076\u304f",
+      "url": "https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe"
     },
     {
       "album": {
@@ -10879,6 +10963,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230900,
+      "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
+    },
+    {
+      "album": {
         "name": "\u30d2\u30ab\u30ec\u30a4\u30ce\u30c1",
         "url": "https://open.spotify.com/album/60Gf0UmTTxeSSiNH0My9sq"
       },
@@ -12528,7 +12630,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 290466,
       "name": "\u5618\u6708",
       "url": "https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay"
@@ -14148,7 +14250,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 275000,
       "name": "\u708e",
       "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
@@ -14674,7 +14776,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
@@ -15496,7 +15598,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 196306,
       "name": "\u900f\u660e",
       "url": "https://open.spotify.com/track/4uGObz1zPMzNy6ZMUnaFNR"
@@ -15988,6 +16090,24 @@
       "duration_ms": 220933,
       "name": "\u98a8\u306e\u97f3\u3055\u3048\u805e\u3053\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/32yZPsVMeF0KuuN07lWRKf"
+    },
+    {
+      "album": {
+        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
+        "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252811,
+      "name": "\u98db\u3076\u6642",
+      "url": "https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI"
     },
     {
       "album": {

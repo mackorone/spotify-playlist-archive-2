@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,260 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,262 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 94 | [Dio come ti amo!](https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:31 |
 | 95 | [Come saprei](https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 5:00 |
 | 96 | [Salirò](https://open.spotify.com/track/0Oheso9xvbCsZc6rzZjaWe) | [Daniele Silvestri](https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF) | [Monetine](https://open.spotify.com/album/3mfahOk88mQBdYnbLfT7GZ) | 3:57 |
-| 97 | [Cosa ti aspetti da me](https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Cosa ti aspetti da me](https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC) | 3:44 |
-| 98 | [24 mila baci](https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [24 mila baci \- Aulì\-Ulé \- Furore \- Movimento di Rock](https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF) | 2:18 |
+| 97 | [24 mila baci](https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [24 mila baci \- Aulì\-Ulé \- Furore \- Movimento di Rock](https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF) | 2:18 |
+| 98 | [Cosa ti aspetti da me](https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Cosa ti aspetti da me](https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC) | 3:44 |
 | 99 | [Che sia benedetta](https://open.spotify.com/track/0zWQHhueWVnSvdmOFWuWoh) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Che sia benedetta](https://open.spotify.com/album/2T1GXFFHz7hCs01oYacAER) | 3:13 |
 | 100 | [Margherita non lo sa](https://open.spotify.com/track/0cZH2LWRTEMQvSr2rdmX82) | [Dori Ghezzi](https://open.spotify.com/artist/28iEG9gvRrh6taxyKFmDnB) | [Piccole donne](https://open.spotify.com/album/1RxoV74OBAtBIoA44GTJGD) | 3:38 |
 

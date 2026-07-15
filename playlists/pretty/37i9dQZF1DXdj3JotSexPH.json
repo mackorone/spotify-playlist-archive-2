@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36010,
+  "num_followers": 36011,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -863,42 +863,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SPOOKY",
-        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
-      },
-      "artists": [
-        {
-          "name": "fennecxx",
-          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
-        },
-        {
-          "name": "DJ ALEX",
-          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "SPOOKY",
-      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Catharina",
-        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "Catharina",
-      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "X-SLIDE",
         "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
       },
@@ -919,6 +883,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "BRODYAGA FUNK",
         "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
+      },
+      "artists": [
+        {
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
+        },
+        {
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "He's A Pirate (Save Me)",
-        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "He's A Pirate (Save Me)",
-      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1143,6 +1119,30 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "He's A Pirate (Save Me)",
+        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "He's A Pirate (Save Me)",
+      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
       },
@@ -1155,6 +1155,26 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+      },
+      "artists": [
+        {
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "duration_ms": 117637,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 117637,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -1227,30 +1227,6 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 61634,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1287,6 +1263,30 @@
       "duration_ms": 140459,
       "name": "WILD",
       "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 61634,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "SAY SOMETHING",
+        "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
+      },
+      "artists": [
+        {
+          "name": "Klo",
+          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "SAY SOMETHING",
+      "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "PULL ME CLOSER",
         "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 199183,
       "name": "PULL ME CLOSER",
       "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "SAY SOMETHING",
-        "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
-      },
-      "artists": [
-        {
-          "name": "Klo",
-          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "SAY SOMETHING",
-      "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "That That",
-      "url": "https://open.spotify.com/track/6EtiJyUqnFTIg5R1hIEYhB"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "club maki",
         "url": "https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb"
       },
@@ -2423,22 +2407,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Welcome To My Crib",
-        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
-      },
-      "artists": [
-        {
-          "name": "FUCK!LACR\u00c8ME",
-          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Slam It",
-      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "issa vibe",
         "url": "https://open.spotify.com/album/0d6Pj4XcVEMjtM7MODtLjI"
       },
@@ -2451,6 +2419,38 @@
       "duration_ms": 171428,
       "name": "issa vibe",
       "url": "https://open.spotify.com/track/0cKICIfbu0qOndy9I3rInG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "That That",
+      "url": "https://open.spotify.com/track/6EtiJyUqnFTIg5R1hIEYhB"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Slam It",
+      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
     },
     {
       "added_at": "2026-04-13 15:38:24",

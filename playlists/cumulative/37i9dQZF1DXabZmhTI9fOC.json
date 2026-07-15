@@ -15265,6 +15265,28 @@
     },
     {
       "album": {
+        "name": "Say You Do",
+        "url": "https://open.spotify.com/album/2gP1d2TwDKThO22i1XtRn8"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Swander",
+          "url": "https://open.spotify.com/artist/7ePtw1M5DLelNZ2u7F6qOa"
+        },
+        {
+          "name": "sweetbaby",
+          "url": "https://open.spotify.com/artist/3ig5zgQfzBap3h2RzHks1n"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233771,
+      "name": "Say You Do",
+      "url": "https://open.spotify.com/track/19afVIlHHLFNCyO5iQkT8t"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },

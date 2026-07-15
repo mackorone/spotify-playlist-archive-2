@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19521,
+  "num_followers": 19522,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAAvKFfm4zK8POSQhYE8ZhP+",
+  "snapshot_id": "alQqgAAAAADwvHJylGyWDelJKBJ1VK6V",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
+        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALL THAT A$$",
         "url": "https://open.spotify.com/album/5xeFd90zKWinkCA3vKLVAg"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 184252,
       "name": "ALL THAT A$$",
       "url": "https://open.spotify.com/track/2uTKGIYyTDtzl4foXm2qb8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
-        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomboy (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 190355,
-      "name": "Tomboy (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 182586,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomboy (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 190355,
+      "name": "Tomboy (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
     },
     {
       "added_at": null,
@@ -539,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "1738 (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+        "name": "Die 4 Respect",
+        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
       "artists": [
         {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 230293,
-      "name": "1738 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
+      "duration_ms": 245621,
+      "name": "Impatient (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
     },
     {
       "added_at": null,
@@ -579,26 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die 4 Respect",
-        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
+        "name": "1738 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 245621,
-      "name": "Impatient (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
+      "duration_ms": 230293,
+      "name": "1738 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Land Of Nothing Real 2",
         "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 198670,
       "name": "CUFFIN (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": null,
@@ -995,22 +995,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thieves In Atlanta (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
+        "name": "The One (Sprite Limelight)",
+        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
       },
       "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 192048,
-      "name": "Thieves In Atlanta (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
+      "duration_ms": 135733,
+      "name": "The One (Sprite Limelight)",
+      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
     },
     {
       "added_at": null,

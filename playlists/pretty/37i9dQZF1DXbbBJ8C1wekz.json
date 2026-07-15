@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 187965,
+  "num_followers": 188011,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 197903,
+      "name": "Vidigal",
+      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 104145,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 197903,
-      "name": "Vidigal",
-      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -359,26 +359,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "CONFIA",
         "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 204813,
       "name": "N\u00f3s Combina",
       "url": "https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        }
+      ],
+      "duration_ms": 173984,
+      "name": "terminei recentemente",
+      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "Paz Terr\u00edvel",
         "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 169411,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        }
-      ],
-      "duration_ms": 173984,
-      "name": "terminei recentemente",
-      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        }
+      ],
+      "duration_ms": 140343,
+      "name": "ALPINISTA SOCIAL",
+      "url": "https://open.spotify.com/track/5SuhtRofSXwsvto7BXUk9z"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "O Mais Novo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 187680,
       "name": "Do Seu Lado",
       "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "ALPINISTA SOCIAL",
-      "url": "https://open.spotify.com/track/5SuhtRofSXwsvto7BXUk9z"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 134282,
-      "name": "Melhor Agora - Ao Vivo",
-      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 134282,
+      "name": "Melhor Agora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -1919,30 +1919,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
-      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "Viz\u00e3o de Cria 3",
         "url": "https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l"
       },
@@ -1987,6 +1963,30 @@
       "duration_ms": 324413,
       "name": "Viz\u00e3o de Cria 3",
       "url": "https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
+      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "MUNDO DO WIU",
+      "url": "https://open.spotify.com/track/2M5dL30uouNRi8kwhI5QRD"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "THE BOX MEDLEY 8",
         "url": "https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk"
       },
@@ -2083,46 +2099,6 @@
       "duration_ms": 293337,
       "name": "THE BOX MEDLEY 8",
       "url": "https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "808 CLUB",
-        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "MUNDO DO WIU",
-      "url": "https://open.spotify.com/track/2M5dL30uouNRi8kwhI5QRD"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "Foto da Unha",
-        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Foto da Unha",
-      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2163,6 +2139,54 @@
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Foto da Unha",
+        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Foto da Unha",
+      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "duration_ms": 112131,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2215,46 +2239,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Cyberpunk",
-        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 112131,
-      "name": "Cyberpunk",
-      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "Animais Traidores 2",
-        "url": "https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 194726,
-      "name": "Animais Traidores 2",
-      "url": "https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "Franco, The Sir! On The Radar Freestyle",
         "url": "https://open.spotify.com/album/1n1VqHx9HS0ty0QnbhXBv4"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 126433,
       "name": "Franco, The Sir! On The Radar Freestyle",
       "url": "https://open.spotify.com/track/28XT01pAGWnQTJrrGXcJh5"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Animais Traidores 2",
+        "url": "https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 194726,
+      "name": "Animais Traidores 2",
+      "url": "https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2319,34 +2319,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "FNB>BKB",
-        "url": "https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        },
-        {
-          "name": "Lucchini",
-          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "FNB",
-      "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "THE BOX MEDLEY",
         "url": "https://open.spotify.com/album/0viKAX9bVrwsQpNRxklthf"
       },
@@ -2375,6 +2347,34 @@
       "duration_ms": 199555,
       "name": "THE BOX MEDLEY",
       "url": "https://open.spotify.com/track/4HUaEW97kTPeKOL6pN9cuD"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "FNB>BKB",
+        "url": "https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "Lucchini",
+          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "FNB",
+      "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2523,30 +2523,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Prod Malax",
-          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Rotina 2",
-      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "Eles Me Odeiam",
         "url": "https://open.spotify.com/album/1EKS7wUt4i7carasrSDo7k"
       },
@@ -2567,6 +2543,30 @@
       "duration_ms": 187480,
       "name": "Eles Me Odeiam",
       "url": "https://open.spotify.com/track/1fy4FuGMtCkLQ9I8RvnZGC"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "PRA SEMPRE NO MESMO BAIRRO",
+        "url": "https://open.spotify.com/album/5Cc1z7x5KA1eo20fmWG4Zi"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Tudo Passa",
+      "url": "https://open.spotify.com/track/5rjrAYHovnVBJ9pfJU3FsA"
     }
   ],
   "unique_name": "Trap Classe",

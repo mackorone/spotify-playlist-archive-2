@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 41066,
+  "num_followers": 41075,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACmxgD/HkmtwckzIG4wwsZU",
+  "snapshot_id": "alQqgAAAAAC0RqWu/bWMSyfkSli7DqG+",
   "tracks": [
     {
       "added_at": null,
@@ -290,19 +290,11 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Anxious (feat. Odeal & Wizkid)",
-      "url": "https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p"
+      "duration_ms": 131186,
+      "name": "Onnat",
+      "url": "https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij"
     },
     {
       "added_at": null,
@@ -374,11 +366,19 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 131186,
-      "name": "Onnat",
-      "url": "https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij"
+      "duration_ms": 227266,
+      "name": "Anxious (feat. Odeal & Wizkid)",
+      "url": "https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p"
     },
     {
       "added_at": null,

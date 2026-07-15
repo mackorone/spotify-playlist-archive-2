@@ -4,7 +4,7 @@
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-53 songs - 6 hr 59 min
+54 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Not Moved](https://open.spotify.com/track/13j5QYsM8B4s8K5l1vTIKI) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/04gvFEpR8FICwnjxuf7B4Z) | 4:40 | 2026-06-16 |  |
 | [OMG](https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie) | [OMG](https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT) | 2:23 | 2025-07-27 |  |
 | [Onyeoma](https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:13 | 2025-07-15 |  |
+| [Psalm 8](https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Psalm 8](https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534) | 3:19 | 2026-07-15 |  |
 | [Reckless Love](https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 4:47 | 2025-07-15 |  |
 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 | 2025-07-15 |  |
 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 | 2026-05-31 |  |

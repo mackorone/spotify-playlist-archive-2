@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e trending. Alex Stamate, ce-ai facut?! ",
-  "num_followers": 37948,
+  "num_followers": 37972,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-07-13 11:03:18",
       "album": {
+        "name": "misery.",
+        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "duration_ms": 166401,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+    },
+    {
+      "added_at": "2026-07-13 11:03:18",
+      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 521866,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
-    },
-    {
-      "added_at": "2026-07-13 11:03:18",
-      "album": {
-        "name": "misery.",
-        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
-      },
-      "artists": [
-        {
-          "name": "pupsies",
-          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
-        }
-      ],
-      "duration_ms": 166401,
-      "name": "misery.",
-      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
     },
     {
       "added_at": "2026-07-13 11:03:18",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-07-13 11:03:18",
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+    },
+    {
+      "added_at": "2026-07-13 11:03:18",
+      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -1111,22 +1131,6 @@
     {
       "added_at": "2026-07-13 11:03:18",
       "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
-      },
-      "artists": [
-        {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
-        }
-      ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
-    },
-    {
-      "added_at": "2026-07-13 11:03:18",
-      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -1139,22 +1143,6 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2026-07-13 11:03:18",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2026-07-13 11:03:18",
@@ -1175,22 +1163,34 @@
     {
       "added_at": "2026-07-13 11:03:18",
       "album": {
-        "name": "FREAKED OUT",
-        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
       "artists": [
         {
-          "name": "Fat Papi",
-          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
-        },
-        {
-          "name": "prodshushy",
-          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 158117,
-      "name": "FREAKED OUT",
-      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2026-07-13 11:03:18",
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
       "added_at": "2026-07-13 11:03:18",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-07-13 11:03:18",
       "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "added_at": "2026-07-13 11:03:18",
+      "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
-    },
-    {
-      "added_at": "2026-07-13 11:03:18",
-      "album": {
-        "name": "Estilo R'S",
-        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Beretta (De Los Cerros La Escuela)",
-      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
     },
     {
       "added_at": "2026-07-13 11:03:18",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-07-13 11:03:18",
       "album": {
-        "name": "NOBLE",
-        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "NOBLE",
-      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
-    },
-    {
-      "added_at": "2026-07-13 11:03:18",
-      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+    },
+    {
+      "added_at": "2026-07-13 11:03:18",
+      "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
       "added_at": "2026-07-13 11:03:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,235 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,215 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 60 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
 | 61 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 | 62 | [O Barquinho](https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Diogo Monzo](https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc), [Ricardo Bacelar](https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF) | [Nós e o Mar](https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU) | 3:53 |
-| 63 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
-| 64 | [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 |
+| 63 | [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 |
+| 64 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
 | 65 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 |
 | 66 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
 | 67 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |

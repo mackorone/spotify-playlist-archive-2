@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,662 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,706 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thoda Thoda Pyaar](https://open.spotify.com/track/7q0XU83dlXOzoAor3sulOM) | [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Thoda Thoda Pyaar](https://open.spotify.com/album/4LUJN2b97jHQui8LoQWnxp) | 4:04 |
+| 1 | [Thoda Thoda Pyaar](https://open.spotify.com/track/7q0XU83dlXOzoAor3sulOM) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Thoda Thoda Pyaar](https://open.spotify.com/album/4LUJN2b97jHQui8LoQWnxp) | 4:04 |
 | 2 | [Gulabi Aankhen](https://open.spotify.com/track/1ccZZf0IQi5y0bHMl2aGDF) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC) | [Universally SANAM](https://open.spotify.com/album/0xPcW40GWPqYki4y2Vi2pL) | 3:17 |
 | 3 | [Mann Mera \- Original Version](https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Mann Mera \(Original Version\)](https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR) | 3:48 |
 | 4 | [Haseen](https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Haseen](https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx) | 2:54 |

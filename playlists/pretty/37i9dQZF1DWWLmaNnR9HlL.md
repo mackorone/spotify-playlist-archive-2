@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,239 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,241 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 56 | [La femme d'argent](https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 7:06 |
 | 57 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 |
 | 58 | [So What \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:22 |
-| 59 | [Morning Sun](https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Currency Of Man](https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD) | 5:05 |
-| 60 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
+| 59 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
+| 60 | [Morning Sun](https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Currency Of Man](https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD) | 5:05 |
 | 61 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
 | 62 | [Love's a Stranger](https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Warhaus](https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3) | 3:26 |
 | 63 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 97 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 |
 | 98 | [Havana \- Bossa Nova](https://open.spotify.com/track/0Tl1pHPHtn8WHMakC5VrVM) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Jacira](https://open.spotify.com/artist/5OcIpjam1QtlWktCiKGNzd), [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Havana \(Bossa Nova\)](https://open.spotify.com/album/3b3HGOoRb1eTmI6ilMRvWG) | 4:10 |
 | 99 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 |
-| 100 | [Mo' Better Blues](https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Mo' Better Blues](https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4) | 3:50 |
+| 100 | [El amor contigo](https://open.spotify.com/track/058K19d3MSe088Cgf3QlN0) | [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu), [Javier Limón](https://open.spotify.com/artist/001TRduQniM6dsJbQpMsbJ) | [Sentir](https://open.spotify.com/album/4gxaBylPClHaSjbfuzJA9P) | 3:32 |
 
 Snapshot ID: `AAAAAM0QXwifUQxHbVSO7oXNxtprxxp9`

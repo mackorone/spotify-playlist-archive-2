@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,217 likes - 46 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,218 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 30 | [Cambia Esa Cara](https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr) | 3:08 |
 | 31 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 |
 | 32 | [El Tunel del Amor](https://open.spotify.com/track/3nv5hPCPj12B2bwYRbHf4F) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG) | 2:10 |
-| 33 | [Entre Cuatro Paredes](https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Entre Cuatro Paredes](https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx) | 4:26 |
-| 34 | [Pagando el precio](https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Pagando el precio](https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg) | 3:35 |
+| 33 | [Pagando el precio](https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Pagando el precio](https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg) | 3:35 |
+| 34 | [Entre Cuatro Paredes](https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Entre Cuatro Paredes](https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx) | 4:26 |
 | 35 | [Paz](https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:41 |
 | 36 | [Love N' Shit](https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG) | 3:36 |
 | 37 | [No Sé por Qué](https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 2:16 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 45 | [Despierten](https://open.spotify.com/track/2N2wRFBbIcjufMpQqIlA8V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 6:14 |
 | 46 | [María](https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 4:04 |
 
-Snapshot ID: `alLZAAAAAACXsqXXMT1z+HMYS7UCNf9V`
+Snapshot ID: `alQqgAAAAADiE5j5s1Pq7XcdiGiy/vIC`

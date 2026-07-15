@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,489 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,555 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 5 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
 | 6 | [Deep In The Bottom \(of Africa\)](https://open.spotify.com/track/4CsVcnKcMD3SQvlj8PyZ1I) | [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Best of the Last](https://open.spotify.com/album/2DICCoDzKa9OoHbuZU5qbt) | 6:33 |
 | 7 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 3:19 |
-| 8 | [Not The Same \- Black Coffee feat\. Shoba Remix](https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [Shoba](https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU) | [Not The Same \(Black Coffee feat\. Shoba Remix\)](https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX) | 3:36 |
-| 9 | [Superman](https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:13 |
+| 8 | [Superman](https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:13 |
+| 9 | [Not The Same \- Black Coffee feat\. Shoba Remix](https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [Shoba](https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU) | [Not The Same \(Black Coffee feat\. Shoba Remix\)](https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX) | 3:36 |
 | 10 | [We Dance Again](https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [We Dance Again](https://open.spotify.com/album/2ASR0MV1bBqDKVaS3jDxGD) | 4:41 |
 | 11 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 |
 | 12 | [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Gratitude](https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok) | [Marie Joly](https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Rebecca Murray](https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T) | [Best of 2016](https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN) | 6:31 |
 | 50 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 |
 
-Snapshot ID: `alLZAAAAAABH5uCUNDNbdmWB3Jt2lEoX`
+Snapshot ID: `alQqgAAAAAB26mAxAZJ34SBUOrqw4bAr`

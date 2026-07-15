@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,302 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,304 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 36 | [Steven](https://open.spotify.com/track/5ildD6YKswSUMvlycdc25p) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo) | 4:20 |
 | 37 | [Double Cross](https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:25 |
 | 38 | [Stretch Your Legs to Coffin Length](https://open.spotify.com/track/1xfwhzpWX6kVh2guToXwk5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 3:02 |
-| 39 | [Mi Amor](https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:29 |
+| 39 | [Institutionalized](https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You \(Deluxe Edition\)](https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN) | 3:49 |
 | 40 | [Dreaming A Reality](https://open.spotify.com/track/2SZ9IPQHDsHjfCTlQ49r6K) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo) | 4:54 |
 | 41 | [If There Is Light, It Will Find You](https://open.spotify.com/track/2ycUYO0JIm5vQtCyy4OpDV) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 6:17 |
-| 42 | [Institutionalized](https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You \(Deluxe Edition\)](https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN) | 3:49 |
+| 42 | [Mi Amor](https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:29 |
 | 43 | [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 |
 | 44 | [End of the World/A Game of Chess](https://open.spotify.com/track/7tBZqOMNXEIL1qXQ5gr9DC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:56 |
 | 45 | [New Jersey Makes, The World Takes](https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 49 | [Elevator to the Gallows](https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:44 |
 | 50 | [New Year's Eve](https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:14 |
 
-Snapshot ID: `alLZAAAAAACjDKT/mtaLlXcUCYYVpiwT`
+Snapshot ID: `alQqgAAAAAD5AcJ341UYuvmoEe+DMGcw`

@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Boards Of Canada on cover.",
-  "num_followers": 579437,
+  "num_followers": 579447,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS"
+        "name": "Naxatras",
+        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
       },
       "artists": [
         {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+          "name": "Naxatras",
+          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
         }
       ],
-      "duration_ms": 268062,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba"
+      "duration_ms": 440014,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Naxatras",
-        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS"
       },
       "artists": [
         {
-          "name": "Naxatras",
-          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 440014,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+      "duration_ms": 268062,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "The House That Doesn\u2019t Exist",
-        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 143985,
-      "name": "The House That Doesn\u2019t Exist",
-      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Barrio Hustle",
         "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 194400,
       "name": "Barrio Hustle",
       "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "The House That Doesn\u2019t Exist",
+        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Rose City Band",
-        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
-      },
-      "artists": [
-        {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
-        }
-      ],
-      "duration_ms": 394323,
-      "name": "Rivers of Mind",
-      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Are You Tired? (Keep on Singing)",
         "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Incantations",
-        "url": "https://open.spotify.com/album/6pNIpNj7nvflNzEfQNnKTa"
+        "name": "Rose City Band",
+        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
       "artists": [
         {
-          "name": "Ed O'Brien",
-          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+          "name": "Rose City Band",
+          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
         }
       ],
-      "duration_ms": 461733,
-      "name": "Incantations",
-      "url": "https://open.spotify.com/track/4y1MVdL0uL83S8fdDw9M78"
+      "duration_ms": 394323,
+      "name": "Rivers of Mind",
+      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -643,6 +627,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "Incantations",
+        "url": "https://open.spotify.com/album/6pNIpNj7nvflNzEfQNnKTa"
+      },
+      "artists": [
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+        }
+      ],
+      "duration_ms": 461733,
+      "name": "Incantations",
+      "url": "https://open.spotify.com/track/4y1MVdL0uL83S8fdDw9M78"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "A Dream of Lasting Peace",
-        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
-      },
-      "artists": [
-        {
-          "name": "Siena Root",
-          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "A Dream of Lasting Peace",
+        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
+      },
+      "artists": [
+        {
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Looking For A Way Out (Of Del Rio)",
-        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "Looking For A Way Out (Of Del Rio)",
-      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Ends Meet",
         "url": "https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 201762,
       "name": "Ends Meet",
       "url": "https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "Music For Film: Tramps!",
+        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "Boudicaaa",
+      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 200476,
       "name": "Season Finale",
       "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "Music For Film: Tramps!",
-        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "Boudicaaa",
-      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "A Round of Applause",
         "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Non Ex Orbis",
-        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
       "artists": [
         {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
         }
       ],
-      "duration_ms": 486860,
-      "name": "Mother Seletta",
-      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1411,6 +1395,22 @@
       "duration_ms": 217103,
       "name": "Pascuales",
       "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Non Ex Orbis",
+        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 486860,
+      "name": "Mother Seletta",
+      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "On The Double (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/4do5fIXEU2wKuiBJ0qBZJQ"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 219770,
-      "name": "It's Alright, But I Admit It Could Be Better - Remastered",
-      "url": "https://open.spotify.com/track/6vclsNdC6KDOlygH4NAAuT"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Yellowblack",
         "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 154055,
       "name": "Yellowblack",
       "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "On The Double (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/4do5fIXEU2wKuiBJ0qBZJQ"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 219770,
+      "name": "It's Alright, But I Admit It Could Be Better - Remastered",
+      "url": "https://open.spotify.com/track/6vclsNdC6KDOlygH4NAAuT"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Fliiim",
-        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
       },
       "artists": [
         {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 329102,
-      "name": "Fliiim",
-      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

@@ -1,37 +1,13 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3362,
+  "num_followers": 3363,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAAB6DYEbGBhdFDNQjVKxXEJx",
+  "snapshot_id": "alQqgAAAAAAEldFHeJ0RRHSnhixmU4no",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Along The Way (From \"Vaiana\")",
-        "url": "https://open.spotify.com/album/0W2ShIFtAEBCBAgqRHDZRv"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Catherine Laga'aia",
-          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
-        },
-        {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
-        }
-      ],
-      "duration_ms": 257213,
-      "name": "Along The Way - From \"Vaiana\"",
-      "url": "https://open.spotify.com/track/10Z8I4GnqxYm5JD4K80Cpx"
-    },
     {
       "added_at": null,
       "album": {
@@ -79,6 +55,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Along The Way (From \"Moana\")",
+        "url": "https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Along The Way - From \"Moana\"",
+      "url": "https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live Your Story",
         "url": "https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx"
       },
@@ -91,26 +95,6 @@
       "duration_ms": 206007,
       "name": "Live Your Story",
       "url": "https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Jaquel Spivey",
-          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        }
-      ],
-      "duration_ms": 187960,
-      "name": "Apex Predator",
-      "url": "https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf"
     },
     {
       "added_at": null,
@@ -179,6 +163,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Apex Predator",
+      "url": "https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Little Mermaid Live!",
         "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
@@ -195,26 +199,6 @@
       "duration_ms": 181089,
       "name": "Under the Sea - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
-        }
-      ],
-      "duration_ms": 176515,
-      "name": "I'd Rather Be Me",
-      "url": "https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR"
     },
     {
       "added_at": null,
@@ -287,6 +271,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "duration_ms": 176515,
+      "name": "I'd Rather Be Me",
+      "url": "https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Little Mermaid Live!",
         "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
@@ -299,26 +303,6 @@
       "duration_ms": 132298,
       "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Jaquel Spivey",
-          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        }
-      ],
-      "duration_ms": 68692,
-      "name": "A Cautionary Tale",
-      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
     },
     {
       "added_at": null,
@@ -379,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "duration_ms": 68692,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feels Like Home (From \"All Together Now\" Soundtrack)",
         "url": "https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh"
       },
@@ -395,38 +399,6 @@
       "duration_ms": 212693,
       "name": "Feels Like Home (From \"All Together Now\" Soundtrack)",
       "url": "https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Jaquel Spivey",
-          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        },
-        {
-          "name": "Angourie Rice",
-          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
-        },
-        {
-          "name": "Tim Meadows",
-          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
-        }
-      ],
-      "duration_ms": 285221,
-      "name": "Revenge Party",
-      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
     },
     {
       "added_at": null,
@@ -463,6 +435,38 @@
       "duration_ms": 258933,
       "name": "Scars To Your Beautiful - Rise Cast Version",
       "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        },
+        {
+          "name": "Angourie Rice",
+          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
+        },
+        {
+          "name": "Tim Meadows",
+          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "duration_ms": 285221,
+      "name": "Revenge Party",
+      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
     },
     {
       "added_at": null,

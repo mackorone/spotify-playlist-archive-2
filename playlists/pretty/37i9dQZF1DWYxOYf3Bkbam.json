@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 65841,
+  "num_followers": 65858,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Taipero Poriahu",
         "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 189293,
       "name": "Taipero Poriahu",
       "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Te amare eternamente",
+      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Su Poes\u00eda y Su Voz, Vol. 2",
         "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
       },
       "artists": [
         {
-          "name": "Los Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+          "name": "Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
         }
       ],
-      "duration_ms": 132213,
-      "name": "Te amare eternamente",
-      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
+      "duration_ms": 175613,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
-        }
-      ],
-      "duration_ms": 139586,
-      "name": "Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Por Siempre Chamam\u00e9",
         "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 145840,
       "name": "Por Siempre Chamam\u00e9",
       "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "duration_ms": 139586,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Lluvia, Campo Y Chamam\u00e9",
         "url": "https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 172333,
       "name": "Arroyo San Juan",
       "url": "https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2026-05-18 13:34:35",

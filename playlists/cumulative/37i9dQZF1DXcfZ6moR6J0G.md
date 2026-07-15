@@ -4,7 +4,7 @@
 
 > John Otto, take 'em to the Matthews Bridge!
 
-174 songs - 10 hr 35 min
+175 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 | 2021-09-06 |  |
 | [Downfall](https://open.spotify.com/track/55a9zQ8GXMw3gApQosXMHC) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/5f9GZ6P4GWFodpEezBtSEm) | 3:11 | 2021-09-06 | 2022-07-29 |
 | [Downfall](https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:11 | 2022-06-18 | 2024-04-19 |
-| [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 | 2022-04-17 |  |
+| [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 | 2022-04-17 | 2026-07-15 |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2021-09-06 |  |
 | [Faith](https://open.spotify.com/track/3R9B4XUKlqZ1Thh7OFD6ck) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/6qcmaQ29rD2o6Aab1Jnvjv) | 2:26 | 2021-09-06 | 2022-07-29 |
 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 | 2022-06-18 | 2024-03-18 |
@@ -162,6 +162,7 @@
 | [Sugar](https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:33 | 2022-06-18 | 2024-04-19 |
 | [Sun Doesn't Rise](https://open.spotify.com/track/0xSPKfb6uamJnPTX6sRWy5) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/1BTjlNksap1sBph54yGv6x) | 3:13 | 2021-09-06 | 2022-07-29 |
 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 | 2022-06-18 | 2024-04-19 |
+| [Sunday](https://open.spotify.com/track/3OUqz6I3Q8Kjz3PFeZA78e) | [Lo\-Pro](https://open.spotify.com/artist/3hjOsJlTGeQ9Ho5S6C3pbs) | [Lo\-Pro](https://open.spotify.com/album/4W9EVHlCopmUbCdMsOG63e) | 3:45 | 2026-03-20 |  |
 | [Sway](https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 3:35 | 2023-05-16 |  |
 | [Synthetic](https://open.spotify.com/track/2xV28mhkI7AzwpJEqPGSb3) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [The Height of Callousness](https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL) | 3:10 | 2022-04-17 | 2022-04-21 |
 | [Tainted Love](https://open.spotify.com/track/3RTeHN0JPOikvIXYCxBSK1) | [My Ruin](https://open.spotify.com/artist/6z0facoMGZYR8El8YaMw3q) | [Speak and Destroy](https://open.spotify.com/album/4p1SiSYDHzb1pdcTLJoaC4) | 3:48 | 2022-04-17 | 2022-06-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,742 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,744 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 35 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 |
 | 36 | [All Of The Lights](https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [All Of The Lights](https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov) | 4:01 |
 | 37 | [Don't Let Me Down \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(Hardwell & Sephyx Remix\)](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 |
-| 38 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
-| 39 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 |
+| 38 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 |
+| 39 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
 | 40 | [Another Love \- Hardstyle \- Sped Up](https://open.spotify.com/track/5VhPhDGiJrc2rd7GbToA7z) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Another Love \(Hardstyle \- Sped Up\)](https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9) | 2:09 |
 | 41 | [Captain Jack \(Hardstyle Remix\)](https://open.spotify.com/track/5ZrZAYgSzp1vU6shfbrbPz) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Captain Jack \(Hardstyle Remix\)](https://open.spotify.com/album/5MKishj8Fi7UJDDr2EucMo) | 3:04 |
 | 42 | [The Scientist](https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Scientist](https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,358 likes - 42 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,427 likes - 42 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 22 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
 | 23 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 |
 | 24 | [The WhatsApp Shakespeare.](https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:55 |
-| 25 | [Perfect Day \- featuring RAYE](https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 4:01 |
-| 26 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
+| 25 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
+| 26 | [Perfect Day \- featuring RAYE](https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 4:01 |
 | 27 | [Genesis, pt\. ii](https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 3:28 |
 | 28 | [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 |
-| 29 | [Better Things \- RAYE Remix](https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Better Things \(RAYE Remix\)](https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw) | 3:25 |
-| 30 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 |
+| 29 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 |
+| 30 | [Better Things \- RAYE Remix](https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Better Things \(RAYE Remix\)](https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw) | 3:25 |
 | 31 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 32 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
 | 33 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 37 | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE) | 3:05 |
 | 38 | [Genesis.](https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 7:00 |
 | 39 | [Check \(with RAYE\)](https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Golden Boy](https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P) | 3:35 |
-| 40 | [All Of My Love](https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ) | 3:16 |
-| 41 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 |
+| 40 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 |
+| 41 | [All Of My Love](https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ) | 3:16 |
 | 42 | [Change Your Mind](https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:00 |
 
-Snapshot ID: `alLZAAAAAAAFagySeYfFAK286xzBCyFZ`
+Snapshot ID: `alQqgAAAAABgDF69dsB3R3SbMI0tyjIt`

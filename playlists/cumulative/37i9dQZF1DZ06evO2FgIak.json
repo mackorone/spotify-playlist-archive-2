@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 185224,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/62qspfndVN2mso1u2sE06b"
@@ -1808,6 +1808,28 @@
       "duration_ms": 142400,
       "name": "My John The Conqueror Root",
       "url": "https://open.spotify.com/track/2cb3fhkmr3pZO9CYsXfa4M"
+    },
+    {
+      "album": {
+        "name": "Live At The Checkerboard Lounge",
+        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 649586,
+      "name": "Next Time You See Me - Live",
+      "url": "https://open.spotify.com/track/0vT9FrD9CKuaospFW6kkRv"
     },
     {
       "album": {

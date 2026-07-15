@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Qncicka",
-  "num_followers": 26208,
+  "num_followers": 26233,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
-        "url": "https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw"
-      },
-      "artists": [
-        {
-          "name": "Qncicka",
-          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
-      "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
         "name": "Angel(s)",
         "url": "https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 183373,
       "name": "Angel(s)",
       "url": "https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
+        "url": "https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw"
+      },
+      "artists": [
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
+      "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "PRICE TAG",
-        "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 190660,
-      "name": "PRICE TAG",
-      "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/1dF6Na5IDeVsVnC9MSzZBI"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 182933,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/3KnNRJwe3Vzv3cyjNaS4Bd"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "PRICE TAG",
+        "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 190660,
+      "name": "PRICE TAG",
+      "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "Tylko My",
-        "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
-      },
-      "artists": [
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Tylko My",
-      "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
         "name": "Kim jestem?",
         "url": "https://open.spotify.com/album/0CcsTAGrXXDZPYPCbhDexc"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 150000,
       "name": "Kim jestem?",
       "url": "https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "Tylko My",
+        "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Tylko My",
+      "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
+        "name": "Cz\u0105stka mnie",
+        "url": "https://open.spotify.com/album/50vJWsBWngmgZhtCGDaSjX"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 131338,
+      "name": "Cz\u0105stka mnie",
+      "url": "https://open.spotify.com/track/5Lwm1FirgtPakHR0JnHOV4"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
         "name": "GRANATOWE PORSCHE",
         "url": "https://open.spotify.com/album/4FayjfHekWl4Rl1PXNr5Ak"
       },
@@ -631,38 +647,6 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "Cz\u0105stka mnie",
-        "url": "https://open.spotify.com/album/50vJWsBWngmgZhtCGDaSjX"
-      },
-      "artists": [
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 131338,
-      "name": "Cz\u0105stka mnie",
-      "url": "https://open.spotify.com/track/5Lwm1FirgtPakHR0JnHOV4"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
-        "name": "TRYSK",
-        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
-      },
-      "artists": [
-        {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
-        }
-      ],
-      "duration_ms": 177454,
-      "name": "noktowizja",
-      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
         "name": "Grawitacja",
         "url": "https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 183320,
       "name": "Grawitacja",
       "url": "https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "TRYSK",
+        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 177454,
+      "name": "noktowizja",
+      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "Back To Your Hands",
-        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
-      },
-      "artists": [
-        {
-          "name": "Kuba Szmajkowsky",
-          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Back To Your Hands",
-      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
         "name": "hyperl\u00f8ve",
         "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
       },
@@ -735,7 +719,23 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "Esmeralda",
+        "name": "Back To Your Hands",
+        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Back To Your Hands",
+      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "Esmeralda (we wsp\u00f3\u0142pracy z PZU)",
         "url": "https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl"
       },
       "artists": [
@@ -767,7 +767,7 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+        "name": "OdFiltruj Rzeczywisto\u015b\u0107 (we wsp\u00f3\u0142pracy z PZU)",
         "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
       },
       "artists": [
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "Do Ciebie",
-        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 222252,
-      "name": "Do Ciebie",
-      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
         "name": "PRZY TOBIE",
         "url": "https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 188976,
       "name": "PRZY TOBIE",
       "url": "https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "Do Ciebie",
+        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 222252,
+      "name": "Do Ciebie",
+      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -963,26 +963,6 @@
       "duration_ms": 139000,
       "name": "B\u0105d\u017a ze mn\u0105",
       "url": "https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
-        "name": "#bliska",
-        "url": "https://open.spotify.com/album/7FhLyvap1aB6h8uE1vJI76"
-      },
-      "artists": [
-        {
-          "name": "DJ BLIK",
-          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
-        },
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "#bliska",
-      "url": "https://open.spotify.com/track/6mNCznYwsBp7N3FCGC83MQ"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -1031,18 +1011,22 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "K\u0105pa\u0142am si\u0119 wczoraj w snach",
-        "url": "https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ"
+        "name": "#bliska",
+        "url": "https://open.spotify.com/album/7FhLyvap1aB6h8uE1vJI76"
       },
       "artists": [
         {
-          "name": "AJLA",
-          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+          "name": "DJ BLIK",
+          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
+        },
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lawenda",
-      "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
+      "duration_ms": 239011,
+      "name": "#bliska",
+      "url": "https://open.spotify.com/track/6mNCznYwsBp7N3FCGC83MQ"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2026-07-09 22:01:34",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 175821,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
-    },
-    {
-      "added_at": "2026-07-09 22:01:34",
-      "album": {
         "name": "Szk\u0142o",
         "url": "https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 242443,
       "name": "Szk\u0142o",
       "url": "https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "K\u0105pa\u0142am si\u0119 wczoraj w snach",
+        "url": "https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lawenda",
+      "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
+    },
+    {
+      "added_at": "2026-07-09 22:01:34",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "duration_ms": 175821,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
     },
     {
       "added_at": "2026-07-09 22:01:34",

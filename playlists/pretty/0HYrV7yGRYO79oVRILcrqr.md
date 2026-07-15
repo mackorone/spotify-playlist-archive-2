@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,873 likes - 66 songs - 4 hr 27 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,877 likes - 72 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,11 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 64 | [Mundo Infeliz](https://open.spotify.com/track/4wD588EI0N67gAXGGDaN98) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [El Viejo Y Querido Punk Rock](https://open.spotify.com/album/3KcAhyLdLNx9oMuXoLn6F4) | 3:10 |
 | 65 | [Numbers \- New Mix 26](https://open.spotify.com/track/4JcxaiREcccj1EaWW4gCOD) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Numbers \(New Mix 26\)](https://open.spotify.com/album/3WZkE6XZ6xwjWIp3Xpcvbf) | 4:34 |
 | 66 | [I'm In Love With The Way \(You Breathe My Name\)](https://open.spotify.com/track/2BKkiZsIn81BlnNSIm2NEb) | [Paper Satellite](https://open.spotify.com/artist/4nfaau5xtDWVVwCTxkjZrN) | [Turbulence](https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz) | 5:48 |
+| 67 | [WishaBich Woods \- Full Band Version](https://open.spotify.com/track/3sW1sOM2N6XI2TCvnZN0JK) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [WishaBich Woods \(Full Band Version\)](https://open.spotify.com/album/57O0Tb7laMbm0lPz9lAEy0) | 4:03 |
+| 68 | [Bled Dry \(Shamisen\)](https://open.spotify.com/track/2XCq0XGy96fW9D8onfffHd) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Bled Dry \(Shamisen\)](https://open.spotify.com/album/6QhmTPqo6c8Gb9Tka9P1EX) | 3:32 |
+| 69 | [Spooning](https://open.spotify.com/track/1QA9zopIBzvzvOayi5jCWd) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL), [Joaquín Baranzano](https://open.spotify.com/artist/3Afjpd1HTebsADh2056BuU) | [Spooning](https://open.spotify.com/album/60o276Ds2uwGPoAs2F8lQT) | 3:46 |
+| 70 | [Como Sera](https://open.spotify.com/track/17J86ythoMOl6Q5hKthhwA) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Como Sera](https://open.spotify.com/album/1ibAeEOqX8POmpxarOOczD) | 4:17 |
+| 71 | [Stay](https://open.spotify.com/track/5ih4AstOk7fxbPIDJZ45pi) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 5:25 |
+| 72 | [IN THE VERGE OF IT ALL](https://open.spotify.com/track/0eoUUP4H9Fpz6egFIx5Go2) | [Saint Capella](https://open.spotify.com/artist/19TrT7HHvfKG0DBhffPMbt) | [THE ABSENCE OF COLOR](https://open.spotify.com/album/5kyBd8JlQ6UGO4XxBSqY0M) | 2:57 |
 
-Snapshot ID: `AAAL/9AQQ/f4bN3qSiWComyvpFS6VeA3`
+Snapshot ID: `AAAMBVHEGS1vw6y657a3A9zvWT5wi3VR`

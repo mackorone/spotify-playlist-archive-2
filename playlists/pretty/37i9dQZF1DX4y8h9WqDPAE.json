@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Omarion",
-  "num_followers": 4219,
+  "num_followers": 4239,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -2033,6 +2033,22 @@
       "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
     },
     {
+      "added_at": "2025-11-07 06:39:38",
+      "album": {
+        "name": "Out The Window",
+        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
       "added_at": "2026-02-20 18:30:52",
       "album": {
         "name": "She Knows Too Much",
@@ -2051,22 +2067,6 @@
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
-    },
-    {
-      "added_at": "2025-11-07 06:39:38",
-      "album": {
-        "name": "Out The Window",
-        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 256615,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
     },
     {
       "added_at": "2026-03-13 07:57:42",
@@ -2221,6 +2221,22 @@
       "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
+      "added_at": "2026-02-20 18:30:52",
+      "album": {
+        "name": "Save The Day (From \"Hoppers\")",
+        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Save The Day - From \"Hoppers\"",
+      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+    },
+    {
       "added_at": "2026-05-08 05:33:09",
       "album": {
         "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
@@ -2239,22 +2255,6 @@
       "duration_ms": 183906,
       "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
       "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
-    },
-    {
-      "added_at": "2026-02-20 18:30:52",
-      "album": {
-        "name": "Save The Day (From \"Hoppers\")",
-        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Save The Day - From \"Hoppers\"",
-      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
     },
     {
       "added_at": "2026-06-12 06:16:48",
@@ -2517,22 +2517,6 @@
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "Gas Station Love (remix)",
@@ -2589,36 +2573,20 @@
       "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
     },
     {
-      "added_at": "2026-02-20 18:30:52",
+      "added_at": "2025-05-09 04:00:22",
       "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 136260,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2025-07-11 08:16:35",
@@ -2641,24 +2609,36 @@
       "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
     },
     {
-      "added_at": "2025-10-03 04:48:40",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 189041,
-      "name": "Pretty Promises, (feat. Mariah The Scientist)",
-      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
+      "duration_ms": 136260,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
+    },
+    {
+      "added_at": "2026-02-20 18:30:52",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "added_at": "2025-10-17 05:35:16",
@@ -2683,6 +2663,26 @@
       "duration_ms": 294816,
       "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
+    },
+    {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 189041,
+      "name": "Pretty Promises, (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
       "added_at": "2025-12-12 05:00:46",

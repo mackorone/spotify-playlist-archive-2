@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141441,
+  "num_followers": 141454,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADV5M/PorcK++nEN0ss6NEs",
+  "snapshot_id": "alQqgAAAAAANNkQ0OZ/L/tHdkuwnWvWu",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Are My King (Amazing Love) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 254443,
-      "name": "You Are My King (Amazing Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See The Morning (Special Edition)",
         "url": "https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 262266,
       "name": "Everlasting God",
       "url": "https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
       "added_at": null,
@@ -467,38 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Nobody Loves Me Like You",
-      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chris Tomlin & Friends",
         "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
       },
@@ -519,6 +487,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Nobody Loves Me Like You",
+      "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Love",
         "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
@@ -531,6 +531,78 @@
       "duration_ms": 229680,
       "name": "Sing, Sing, Sing",
       "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instrumental Songs Of Worship",
+        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
+      },
+      "artists": [
+        {
+          "name": "The Maker & The Instrument",
+          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "We Fall Down / Agnus Dei - Medley",
+      "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Jesus Messiah",
+      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 328160,
+      "name": "Our God - Live",
+      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
     },
     {
       "added_at": null,
@@ -563,78 +635,6 @@
       "duration_ms": 173960,
       "name": "Be A Light",
       "url": "https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Jesus Messiah",
-      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Instrumental Songs Of Worship",
-        "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
-      },
-      "artists": [
-        {
-          "name": "The Maker & The Instrument",
-          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "We Fall Down / Agnus Dei - Medley",
-      "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "I Will Rise",
-      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 328160,
-      "name": "Our God - Live",
-      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 286152,
+      "name": "Still The King",
+      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Great Thou Art (Until That Day) [Live]",
         "url": "https://open.spotify.com/album/4xCf9WmCtwMBcds8fj6I6W"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 269678,
       "name": "How Great Thou Art (Until That Day) - Live",
       "url": "https://open.spotify.com/track/4wZZ3hXmK5lgpT4Q1MsYSU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The King Is Still The King",
-        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 286152,
-      "name": "Still The King",
-      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
     },
     {
       "added_at": null,

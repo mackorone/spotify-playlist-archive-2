@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1pweud.md) - [plain]
 
 > This is The Marías\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,928 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,967 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1pweud.md) - [plain]
 | 15 | [Little by Little](https://open.spotify.com/track/3EzlgdxyFvjeAGzR5WxHB8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:58 |
 | 16 | [mañana](https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 2:55 |
 | 17 | [Love You Anyway](https://open.spotify.com/track/3vxvz0JoRDvnx2jG9oPljA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:57 |
-| 18 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
+| 18 | [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 |
 | 19 | [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 |
-| 20 | [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 |
+| 20 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
 | 21 | [Real Life](https://open.spotify.com/track/3HVRZxCp3BWYuYe8L8BMNH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:26 |
 | 22 | [Jupiter](https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Jupiter](https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10) | 3:11 |
 | 23 | [To Say Hello](https://open.spotify.com/track/76vbQVnCEHe02OP4EWvApz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1pweud.md) - [plain]
 | 39 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 |
 | 40 | [Déjate Llevar](https://open.spotify.com/track/4eevohYu5jHXgnCitivUVT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:43 |
 
-Snapshot ID: `alLZAAAAAABIrgwrvkh+HUKHmLlFM+T+`
+Snapshot ID: `alQqgAAAAACJnHJ5/1OVs9t21uBAfuqU`

@@ -819,26 +819,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Coulda Shown You",
-        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
-      },
-      "artists": [
-        {
-          "name": "Lucca DL",
-          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
-        },
-        {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Coulda Shown You",
-      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "12 de Junho",
         "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 190588,
       "name": "12 de Junho",
       "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "Coulda Shown You",
+        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+      },
+      "artists": [
+        {
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        },
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Coulda Shown You",
+      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
     },
     {
       "added_at": "2026-07-03 14:08:59",

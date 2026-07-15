@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,507 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,506 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 33 | [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys \(Japanese Deluxe Edition\)](https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB) | 2:39 |
 | 34 | [Sidestep](https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Sidestep](https://open.spotify.com/album/3CYDOCmr3EZ89osXV0St45) | 5:56 |
 | 35 | [inside](https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx) | [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [inside](https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB) | 2:33 |
-| 36 | [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 |
+| 36 | [Skint](https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW) | [The Dead Bolts](https://open.spotify.com/artist/3dV5tGTAVKea7D3ifjjy5K) | [Skint](https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc) | 3:42 |
 | 37 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 |
-| 38 | [Skint](https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW) | [The Dead Bolts](https://open.spotify.com/artist/3dV5tGTAVKea7D3ifjjy5K) | [Skint](https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc) | 3:42 |
+| 38 | [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 |
 | 39 | [Death Destruction Mayhem](https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0) | [Ceremony](https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH) | [Death Destruction Mayhem](https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8) | 2:58 |
 | 40 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 |
 | 41 | [Hit My Head All Day](https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 6:03 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 49 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 |
 | 50 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 51 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
-| 52 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
-| 53 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
+| 52 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
+| 53 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 | 54 | [Lily Of The Valley](https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Hymns From The Hills](https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q) | 3:34 |
 | 55 | [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 |
 | 56 | [Pretty Girls](https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 3:54 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 66 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 67 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 |
 | 68 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
-| 69 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
-| 70 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
-| 71 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
-| 72 | [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 |
+| 69 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
+| 70 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
+| 71 | [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 |
+| 72 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
 | 73 | [Rolling By](https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B) | [Antenna](https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f) | [Rolling By](https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c) | 3:02 |
 | 74 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
 | 75 | [No Me Jodas](https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Public Luxury](https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B) | 3:37 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 79 | [Chevy](https://open.spotify.com/track/5JPlMByDvtriNCFh1JfXax) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [Surprise Wish](https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu) | 3:30 |
 | 80 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
 | 81 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
-| 82 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
-| 83 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
-| 84 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
+| 82 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
+| 83 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
+| 84 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
 | 85 | [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 |
 | 86 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
 | 87 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |

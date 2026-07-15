@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Snakes for Dinner",
+        "url": "https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297619,
+      "name": "Snakes for Dinner",
+      "url": "https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r"
+    },
+    {
+      "album": {
         "name": "The Hunter",
         "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 317720,
       "name": "The Hunter",
       "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"

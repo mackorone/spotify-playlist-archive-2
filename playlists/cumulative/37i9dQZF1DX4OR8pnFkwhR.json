@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u30cf\u30af\u3002",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: AKASAKI",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -6878,7 +6878,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 189439,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/0auzTKGIHtSIQmtzMLTPPM"
@@ -10453,6 +10453,28 @@
     },
     {
       "album": {
+        "name": "I got new shoes",
+        "url": "https://open.spotify.com/album/7K8uUAHTIUz5wbINvdpgnh"
+      },
+      "artists": [
+        {
+          "name": "in-d",
+          "url": "https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo"
+        },
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183100,
+      "name": "I got new shoes",
+      "url": "https://open.spotify.com/track/4FdHvY7Jh9BEJdy5e2koCR"
+    },
+    {
+      "album": {
         "name": "I hope something good happens",
         "url": "https://open.spotify.com/album/2KdKHDZikNDOXFmTZifcOY"
       },
@@ -12718,7 +12740,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 222657,
       "name": "Life goes on",
       "url": "https://open.spotify.com/track/7dPXbOgc30MVKvvYk9cNLA"
@@ -13026,6 +13048,24 @@
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
+    },
+    {
+      "album": {
+        "name": "Local Train",
+        "url": "https://open.spotify.com/album/5hoL0TO64tj9vybjbar8Z6"
+      },
+      "artists": [
+        {
+          "name": "\u65e5\u672c\u4eba\u3068\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u4eba",
+          "url": "https://open.spotify.com/artist/0KAmvGx6SOKhEgiWCONHjk"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330213,
+      "name": "Local Train",
+      "url": "https://open.spotify.com/track/58VHL3XzUOhD3mEaIrQ04K"
     },
     {
       "album": {
@@ -14665,6 +14705,42 @@
     },
     {
       "album": {
+        "name": "motion",
+        "url": "https://open.spotify.com/album/5GE6ZQHIvhQf6I071OhCe3"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162120,
+      "name": "motion",
+      "url": "https://open.spotify.com/track/1vwzKZBHwW73JELX5LLQH3"
+    },
+    {
+      "album": {
+        "name": "MUB\u00d6",
+        "url": "https://open.spotify.com/album/2Vl7Inp9H00O5Ji2aDQEjb"
+      },
+      "artists": [
+        {
+          "name": "Doona",
+          "url": "https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "MUB\u00d6",
+      "url": "https://open.spotify.com/track/6ENKK7AHETyUo61PmDe2UK"
+    },
+    {
+      "album": {
         "name": "Mugen no Kuni (feat. ermhoi)",
         "url": "https://open.spotify.com/album/4k6WucL6xqIr1GIPmWdpjf"
       },
@@ -15334,7 +15410,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 201000,
       "name": "NEVER END",
       "url": "https://open.spotify.com/track/0mPhko4sWuzPIuTthJX3kX"
@@ -16304,7 +16380,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 199868,
       "name": "On My Heart",
       "url": "https://open.spotify.com/track/6Qhdt6qVjlpxjCTSfOzVVw"
@@ -19341,6 +19417,24 @@
     },
     {
       "album": {
+        "name": "say it anyway",
+        "url": "https://open.spotify.com/album/40Tk28GycKI8V0rkh5Rrc4"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u6d77\u9f8d",
+          "url": "https://open.spotify.com/artist/1sYVt0SAjwcXQpoSXV4vkm"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "say it anyway",
+      "url": "https://open.spotify.com/track/4xJirPGXXIL4vp3fSvXEpP"
+    },
+    {
+      "album": {
         "name": "say my name",
         "url": "https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p"
       },
@@ -21615,6 +21709,28 @@
     },
     {
       "album": {
+        "name": "Summer Time (feat. DADA)",
+        "url": "https://open.spotify.com/album/5Oow8jIviXhqxYtc1AWz0H"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183104,
+      "name": "Summer Time (feat. DADA)",
+      "url": "https://open.spotify.com/track/3cIQZmweQ674dC4NwJSoji"
+    },
+    {
+      "album": {
         "name": "Summer Wool Romance",
         "url": "https://open.spotify.com/album/692rbrcMSSJCX3bySajRB4"
       },
@@ -22882,7 +22998,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 226242,
       "name": "TO THE YOU (ME) I MET BEFORE",
       "url": "https://open.spotify.com/track/0tSaRGhrBFaz3EFVw57FQD"
@@ -26337,6 +26453,24 @@
     },
     {
       "album": {
+        "name": "\u304a\u3063\u304a\u30fc",
+        "url": "https://open.spotify.com/album/68VJkJi7jByAKDYYWvPhtq"
+      },
+      "artists": [
+        {
+          "name": "the Po",
+          "url": "https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "\u304a\u3063\u304a\u30fc",
+      "url": "https://open.spotify.com/track/11GgdHb6qUudhvL6J8wJRS"
+    },
+    {
+      "album": {
         "name": "\u304a\u3069\u3051\u604b",
         "url": "https://open.spotify.com/album/67afYYyGaRuywzsAZ3QzPk"
       },
@@ -27404,7 +27538,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 233932,
       "name": "\u3068\u3081\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4AD05UAxxTu4k4HAzWYDpH"
@@ -28020,7 +28154,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 185364,
       "name": "\u3082\u3046\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R"
@@ -29734,7 +29868,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 203700,
       "name": "\u30b5\u30a4\u30ec\u30f3",
       "url": "https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA"
@@ -39245,6 +39379,24 @@
     },
     {
       "album": {
+        "name": "last YOUNG",
+        "url": "https://open.spotify.com/album/3RdiFpu4iqPdWoaLIp9seL"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "\u6c17\u5206",
+      "url": "https://open.spotify.com/track/1893MbwDhWZibLxau0K1xq"
+    },
+    {
+      "album": {
         "name": "\u6c17\u6301\u3061\u306e\u7cf8",
         "url": "https://open.spotify.com/album/0pm0eF38vMHFgTlFjWxnuR"
       },
@@ -40168,6 +40320,28 @@
       "duration_ms": 229043,
       "name": "\u71d5",
       "url": "https://open.spotify.com/track/6toPGhuVJ5qwD7odP82bxG"
+    },
+    {
+      "album": {
+        "name": "\u71e6\u3005\u3055\u3093",
+        "url": "https://open.spotify.com/album/4QyRpFP9iuR8aNA2KzKjZo"
+      },
+      "artists": [
+        {
+          "name": "sanetii",
+          "url": "https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy"
+        },
+        {
+          "name": "\u304b\u307b",
+          "url": "https://open.spotify.com/artist/0p37zxPvCi1ZXC1jjALchg"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155244,
+      "name": "\u71e6\u3005\u3055\u3093",
+      "url": "https://open.spotify.com/track/6Rk3F7HYNhzht8LQJsbVKT"
     },
     {
       "album": {
@@ -41302,7 +41476,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 195250,
       "name": "\u7f8e\u4eba\u5c40",
       "url": "https://open.spotify.com/track/4AaoK7eliWSupTgY23PMaB"

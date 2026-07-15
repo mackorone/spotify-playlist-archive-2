@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-290 songs - 18 hr 12 min
+292 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Libertad de Expresión](https://open.spotify.com/track/37uRx1n0rsGqoIIIz6QcPO) | [Misión Pájaro](https://open.spotify.com/artist/0fbfzghafzuSdoHe1VMZXy) | [Libertad de Expresión](https://open.spotify.com/album/0DGZGMrloXmGnADcqIlJd0) | 5:40 | 2026-04-16 | 2026-05-19 |
 | [Libre](https://open.spotify.com/track/4D03zGZazrn4H4eJhkV2pb) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Libre](https://open.spotify.com/album/4LUp5e5P4XxVkkENXdL7vE) | 3:22 | 2026-01-07 | 2026-02-02 |
 | [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 | 2025-12-03 | 2025-12-28 |
+| [Lie to Me](https://open.spotify.com/track/11bJzwUqkH2CgVFFV16PGF) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Lie to Me](https://open.spotify.com/album/609u2yxLvVYULfkxZmOzXR) | 4:31 | 2026-07-14 |  |
 | [Lies](https://open.spotify.com/track/6BEeSTmtL7G1omggshngn3) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:31 | 2026-02-16 |  |
 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 | 2025-12-22 | 2026-01-21 |
 | [Little Flint Lighter \- Single Version](https://open.spotify.com/track/5wKplKbLsM9GT7JnDy9TGh) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Little Flint Lighter](https://open.spotify.com/album/6VpPtIIYiPZjbDuAWWHfdD) | 3:19 | 2025-09-19 | 2026-03-21 |
@@ -189,6 +190,7 @@
 | [New Age](https://open.spotify.com/track/6P7QFrSStHdpMGfgQKaYWV) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [New Age: The Age of Karyttah](https://open.spotify.com/album/2vjajlHIgc0ihbc6RP3Ri8) | 6:04 | 2025-11-11 |  |
 | [New Money \(OKB\)](https://open.spotify.com/track/6Ng2MIJihPGOqkCl6iKgwJ) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Luka Kolektif](https://open.spotify.com/album/1kwx2yGZrJrVvBZbfiJQAW) | 4:03 | 2026-01-06 | 2026-02-02 |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-09-25 | 2026-01-18 |
+| [Night Souls.](https://open.spotify.com/track/17ZiSP3MD7bGbjigAWDuuR) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Unfinished Dreams.](https://open.spotify.com/album/5QJ89klD5afW3F1u0G5HQt) | 4:31 | 2026-07-14 |  |
 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 | 2026-04-27 | 2026-05-26 |
 | [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 | 2026-05-04 | 2026-06-14 |
 | [No More](https://open.spotify.com/track/5AKRusRRZE5YoUkF0XwyGk) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [No More](https://open.spotify.com/album/14v5mbH2aXizw2tslxpDfn) | 3:19 | 2026-06-23 |  |

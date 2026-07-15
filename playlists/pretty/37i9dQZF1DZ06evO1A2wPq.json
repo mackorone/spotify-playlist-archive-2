@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 21844,
+  "num_followers": 21854,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAACIi99wiR21kFlhOlCjp9YP",
+  "snapshot_id": "alQqgAAAAADb2YdBqhoe/hKQtph3eZDP",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "touch myself/idea of love",
-        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 249218,
-      "name": "touch myself",
-      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 273684,
       "name": "back of the club",
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "While We Wait 2",
         "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 229736,
       "name": "Clothes Off (feat. kwn)",
       "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
     },
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Jaguar's Dream",
-        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Too Many Women (feat. kwn)",
-      "url": "https://open.spotify.com/track/60nXonFosfqr4KpZHm48OH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Jaguar's Dream",
+        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Too Many Women (feat. kwn)",
+      "url": "https://open.spotify.com/track/60nXonFosfqr4KpZHm48OH"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no cinderella",
-        "url": "https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 143804,
-      "name": "no cinderella",
-      "url": "https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 132368,
       "name": "all the girls",
       "url": "https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no cinderella",
+        "url": "https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 143804,
+      "name": "no cinderella",
+      "url": "https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF"
     },
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "sweetie (feat. Scribz Riley)",
-        "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
-        }
-      ],
-      "duration_ms": 177738,
-      "name": "sweetie (feat. Scribz Riley)",
-      "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 186870,
       "name": "talk you through it (feat. FLO)",
       "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sweetie (feat. Scribz Riley)",
+        "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 177738,
+      "name": "sweetie (feat. Scribz Riley)",
+      "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "episode wn",
-        "url": "https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 155064,
-      "name": "making love",
-      "url": "https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 153103,
       "name": "stand on it",
       "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "episode wn",
+        "url": "https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 155064,
+      "name": "making love",
+      "url": "https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58"
     },
     {
       "added_at": null,

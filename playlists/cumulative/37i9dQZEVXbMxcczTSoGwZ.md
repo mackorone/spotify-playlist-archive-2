@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,361 songs - 7 day 8 hr 1 min
+3,362 songs - 7 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2500,7 +2500,8 @@
 | [Sekopää](https://open.spotify.com/track/2kcQmJ6NAfgbWwaRpjS0zD) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Sekopää](https://open.spotify.com/album/7gYA8N6yka4vhOAuX1F7NX) | 2:36 | 2026-06-13 | 2026-06-15 |
 | [Seksi Seinäjoella](https://open.spotify.com/track/6xdi29bJS0Hb7yhlcFKaWU) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Seksi Seinäjoella](https://open.spotify.com/album/154VyMD5r9m5bbfSnN7whF) | 3:18 | 2023-06-03 | 2023-07-23 |
 | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/track/2K9HxEeocA79vkagSXaFAo) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/album/0Vy3GjJAA8XAe0mSoBEOvX) | 2:29 | 2025-03-15 | 2025-04-08 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-05 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-05 | 2026-07-15 |
+| [Self Aware](https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE) | 3:00 | 2026-07-14 |  |
 | [Selkoo](https://open.spotify.com/track/5Ja3Xqlq3qYaQOlGCosVfr) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:34 | 2024-08-31 | 2024-09-08 |
 | [Sellaista kuin sä](https://open.spotify.com/track/1varQt4qN3mlQgYAtqWn0u) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Sellaista kuin sä](https://open.spotify.com/album/6wOV8eoBPGAX2iKlE9ObL2) | 3:40 | 2026-04-18 | 2026-04-20 |
 | [Selvii päivii](https://open.spotify.com/track/152NQK2tsgAXQH9ANDRGg5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:00 | 2025-05-07 | 2025-05-14 |

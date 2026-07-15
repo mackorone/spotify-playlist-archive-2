@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Sophia Bel
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,795 likes - 87 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,796 likes - 87 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
-| 2 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
-| 3 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
+| 2 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
+| 3 | [Ne me quitte pas des yeux](https://open.spotify.com/track/2Ig2HQJp2wdbpQKPcOhL63) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Alouette!](https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n) | 5:07 |
 | 4 | [we were fire](https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [we were fire](https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb) | 3:04 |
-| 5 | [Ne me quitte pas des yeux](https://open.spotify.com/track/2Ig2HQJp2wdbpQKPcOhL63) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Alouette!](https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n) | 5:07 |
-| 6 | [Tangerine](https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Tangerine](https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i) | 3:45 |
-| 7 | [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 |
+| 5 | [Tangerine](https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Tangerine](https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i) | 3:45 |
+| 6 | [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 |
+| 7 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
 | 8 | [Conversation dans le noir](https://open.spotify.com/track/1lKVk8XbAK4NPbyL6Z6Lux) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Conversation dans le noir](https://open.spotify.com/album/2LlFePY2ffrJGGVom2wq4V) | 3:50 |
 | 9 | [Coude au plancher](https://open.spotify.com/track/3ogPHqMjDF3pPnHKdJxAN1) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1), [Tobin](https://open.spotify.com/artist/2s6qJ66nyUULVHTsxscSh9) | [Coude au plancher](https://open.spotify.com/album/1nCDFDLHZPdE8ovpf1qNgi) | 3:46 |
 | 10 | [Not on the Run](https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6) | [True Quiet](https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO) | [Not on the Run](https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp) | 3:51 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 86 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
 | 87 | [Sans se retourner](https://open.spotify.com/track/17cIgW5aZocFMlkDGauBPH) | [Émile Dubé](https://open.spotify.com/artist/5Qa7xj31koSb4yYlSaVz8z) | [Sans se retourner](https://open.spotify.com/album/3lzRccjwAm2FEWW3vSoGvO) | 2:54 |
 
-Snapshot ID: `AAAAAK6xc8r5OKC3w1CBBOdA0W5bspIU`
+Snapshot ID: `AAAAAKaVibIY1QzmdhY2PiFhf6NDij/V`

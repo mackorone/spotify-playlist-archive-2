@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,488 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,502 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 30 | [Sometimes I Feel Like Screaming](https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 7:29 |
 | 31 | [Never Before \- Remastered 2012](https://open.spotify.com/track/7Hak5ai4Zs9BR4OMrPZbgH) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:58 |
 | 32 | [Scriblin' Gib'rish](https://open.spotify.com/track/2ZAcXcDeRHP4MxH1r8gFiX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [SPLAT!](https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny) | 3:34 |
-| 33 | [You Keep On Moving \- 2010 Digital Remaster](https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 5:24 |
-| 34 | [Sail Away \- Remastered 2004](https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 5:52 |
+| 33 | [Sail Away \- Remastered 2004](https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 5:52 |
+| 34 | [You Keep On Moving \- 2010 Digital Remaster](https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 5:24 |
 | 35 | [Son Of Alerik](https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 10:02 |
-| 36 | [Speed King \- 1995 Remaster](https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 5:52 |
-| 37 | [Smoke On the Water \- 1997 Remix](https://open.spotify.com/track/2nILGstCPTvCM0RMeVa4Wu) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \- 25th Anniversary Edition](https://open.spotify.com/album/3XXboc1gvm976jCATDdunA) | 6:18 |
+| 36 | [Smoke On the Water \- 1997 Remix](https://open.spotify.com/track/2nILGstCPTvCM0RMeVa4Wu) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \- 25th Anniversary Edition](https://open.spotify.com/album/3XXboc1gvm976jCATDdunA) | 6:18 |
+| 37 | [Speed King \- 1995 Remaster](https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 5:52 |
 | 38 | [Mistreated \- Remastered 2004](https://open.spotify.com/track/34RISamoO5iubsOanSlpQo) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 7:28 |
 | 39 | [Nobody's Home](https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:00 |
 | 40 | [King of Dreams](https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [Vavoom: Ted The Mechanic](https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 4:16 |
 | 50 | [Portable Door](https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:48 |
 
-Snapshot ID: `alLZAAAAAADanGdSkhz0JrnEmYGRZBxE`
+Snapshot ID: `alQqgAAAAABki+k6gZbVCuQWw/Mu6hGu`

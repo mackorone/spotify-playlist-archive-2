@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,715 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,701 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 42 | [The Call](https://open.spotify.com/track/2bj9MqdPoKA9dDyei6sCGL) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Louis Leibfried](https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [The Call](https://open.spotify.com/album/4x9k7voA2f4djwKMWtzRL5) | 3:42 |
 | 43 | [As We Fall](https://open.spotify.com/track/3TSwNdu7pPP8FTAwVRkhQp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [As We Fall](https://open.spotify.com/album/5SPOAJVfmVlYaYMVOmGJ62) | 3:09 |
 | 44 | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/track/58JG1aDmXbh6CNt2kaePz1) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62) | 3:38 |
-| 45 | [Salvation](https://open.spotify.com/track/6SVWS7mkMmv10GJUhCHsP1) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE) | [Salvation](https://open.spotify.com/album/4Xjv4frfS2VmcMKH1ULINS) | 4:33 |
-| 46 | [Worlds Collide](https://open.spotify.com/track/1Th2DtTmXeneblecHAC6D7) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/7p9wTmFtKSDY3DHEZP2eJ3) | 3:36 |
+| 45 | [Worlds Collide](https://open.spotify.com/track/1Th2DtTmXeneblecHAC6D7) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/7p9wTmFtKSDY3DHEZP2eJ3) | 3:36 |
+| 46 | [Salvation](https://open.spotify.com/track/6SVWS7mkMmv10GJUhCHsP1) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE) | [Salvation](https://open.spotify.com/album/4Xjv4frfS2VmcMKH1ULINS) | 4:33 |
 | 47 | [Back from the Brink](https://open.spotify.com/track/7JUy3iRs4b18z6INWwt6qC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Pressure Cooker](https://open.spotify.com/artist/2bxUH548JERtfXexv1BsVw), [Elben Schutte](https://open.spotify.com/artist/1QUdvLaC6Az4Pn1vvygr4I) | [Back from the Brink](https://open.spotify.com/album/1Rx4Zo92DsDJbr5UOWayCt) | 2:46 |
 | 48 | [Piercing Light](https://open.spotify.com/track/4kVME8P0uGX7TS6hYtrZ4A) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/4y78CCwB5zEjxnEDi8a6lM) | 4:51 |
 | 49 | [Here, Tomorrow](https://open.spotify.com/track/1Kv8Ep17FrOkvHAINLIEgW) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Spirit Blossom Beyond \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/0mNCXeb7azjErkTqoaR4BA) | 3:07 |
 | 50 | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE) | 2:44 |
 
-Snapshot ID: `alLZAAAAAABxucaG1CVnFpoRZmPbAjpd`
+Snapshot ID: `alQqgAAAAADekOLQFVjYwDLzXal7rqDL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > All the girls are girling
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091,207 likes - 108 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091,112 likes - 108 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

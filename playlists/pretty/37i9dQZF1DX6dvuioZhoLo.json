@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Lily Meola",
-  "num_followers": 315288,
+  "num_followers": 315297,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
         "name": "Wild At Heart",
         "url": "https://open.spotify.com/album/6KVSZpBdO0ZiUzIRabBS3d"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 173716,
       "name": "Don't Waste Your Prayers",
       "url": "https://open.spotify.com/track/73KH2rdA1bzlIydzmoXJF7"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Lost in a Dream",
-        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Lewis",
-          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
-        }
-      ],
-      "duration_ms": 287058,
-      "name": "Hold The Door",
-      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "The Lost Outlaw Album",
         "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 165088,
       "name": "I'm the Loneliest Man I Ever Met",
       "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Lost in a Dream",
+        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Lewis",
+          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
+        }
+      ],
+      "duration_ms": 287058,
+      "name": "Hold The Door",
+      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Cabin By The Sea",
-        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Cabin By The Sea",
-      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Homemade Margaritas",
-        "url": "https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY"
-      },
-      "artists": [
-        {
-          "name": "Thomas Csorba",
-          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
-        }
-      ],
-      "duration_ms": 191768,
-      "name": "Homemade Margaritas",
-      "url": "https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Homemade Margaritas",
+        "url": "https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+        }
+      ],
+      "duration_ms": 191768,
+      "name": "Homemade Margaritas",
+      "url": "https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2"
     },
     {
       "added_at": "2026-07-03 04:01:05",

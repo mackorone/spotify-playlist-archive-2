@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-524 songs - 1 day 3 hr 50 min
+525 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 | 2024-07-09 | 2025-07-07 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-03-31 |  |
 | [Rendezvous](https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Rendezvous](https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv) | 3:28 | 2025-05-30 | 2025-06-03 |
+| [Rhythm Of The House](https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Rhythm Of The House](https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp) | 3:19 | 2026-07-10 |  |
 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 | 2024-06-07 | 2024-06-12 |
 | [Right Now](https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:11 | 2023-09-15 | 2023-09-30 |
 | [Riptide](https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Riptide](https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P) | 2:34 | 2022-04-29 | 2025-03-22 |
@@ -395,7 +396,7 @@
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-21 | 2025-04-26 |
 | [Selfish Love \(with Selena Gomez\) \- Tiësto Remix](https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Selfish Love \(with Selena Gomez\) \(Tiësto Remix\)](https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa) | 2:33 | 2022-03-25 | 2022-04-19 |
 | [September](https://open.spotify.com/track/2KDIFU4O8qjgydU5K33HUW) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [September](https://open.spotify.com/album/4QozAibp9n6LP8im7VSR2w) | 2:20 | 2022-04-08 | 2022-07-26 |
-| [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:47 | 2023-06-16 |  |
+| [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:47 | 2023-06-16 | 2026-07-15 |
 | [Set Me Free](https://open.spotify.com/track/4FOTUoZP8r4mYZ8H7aUVsu) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Robert Courtois](https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa) | [Set Me Free](https://open.spotify.com/album/7ppa0KNU8DUtT0Qyl3EC68) | 2:30 | 2025-06-06 | 2026-01-05 |
 | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Robert Courtois](https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa) | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB) | 2:30 | 2024-09-27 | 2025-02-23 |
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-10 | 2026-05-16 |

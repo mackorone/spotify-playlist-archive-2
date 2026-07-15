@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,957 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,953 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 26 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 |
 | 27 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 |
 | 28 | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd) | [e& Egypt](https://open.spotify.com/artist/1WSXhu4UrkuG4NP3jB13YP) | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/album/6TcrDv7jjjQ1YuLV5WFwLg) | 3:13 |
-| 29 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 |
-| 30 | [Hanghanni Kaman W Kaman](https://open.spotify.com/track/67BhQrmFsuqdIuYiUK5JIg) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Sahbit Raey](https://open.spotify.com/album/0oXIpAgpGx3rRIyKlV6Wfs) | 3:46 |
+| 29 | [Hanghanni Kaman W Kaman](https://open.spotify.com/track/67BhQrmFsuqdIuYiUK5JIg) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Sahbit Raey](https://open.spotify.com/album/0oXIpAgpGx3rRIyKlV6Wfs) | 3:46 |
+| 30 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 |
 | 31 | [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 |
 | 32 | [Allo Min](https://open.spotify.com/track/6psaZUqCkuzZODIUEpAYYS) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Allo Min](https://open.spotify.com/album/5nJpHRMdgd7NnNJO7pSpDu) | 2:25 |
 | 33 | [Ya Habibi Taala](https://open.spotify.com/track/0moI0piPquOGThL2EV8uaS) | [Aya Samra](https://open.spotify.com/artist/2RK2dRUdTV7uu2RQK690cf) | [Ya Habibi Taala](https://open.spotify.com/album/4bGXQP0AaW8Ikfre5vnfv9) | 1:48 |

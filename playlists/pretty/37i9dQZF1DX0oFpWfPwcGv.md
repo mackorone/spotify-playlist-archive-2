@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,094 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,099 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 72 | [He's My Man \- Extended Version](https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Let Yourself Go: The ’70s Albums, Vol\. 2: 1974\-1977 \(The Final Sessions\)](https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG) | 4:57 |
 | 73 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
 | 74 | [Fulton County Line](https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn) | [Tommy Stewart](https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h) | [Tommy Stewart](https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG) | 4:49 |
-| 75 | [I Want Your Love](https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic](https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o) | 6:55 |
+| 75 | [Haven't You Heard](https://open.spotify.com/track/3Kf0nJpV3AMRWRTL1SEqUl) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/0y1GuBD52TFARX9e4EOJeD) | 6:45 |
 
 Snapshot ID: `AAAAAFxwH/NqplQmXuGGhIegr3GVC5eY`

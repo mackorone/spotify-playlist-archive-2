@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,551 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,121 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [ひとひら](https://open.spotify.com/track/3NfXlt9a6Vp5STs4uTrqrY) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [ひとひら](https://open.spotify.com/album/6bvqkbS0z1yQlpERbRoUVi) | 3:55 |
 | 40 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 |
 
-Snapshot ID: `AAAAAEEni1FQCpC9jtmrGfL4GCkDBsr4`
+Snapshot ID: `AAAAAI0t6cN0/b9tDBISz6RgYsgjmtqM`

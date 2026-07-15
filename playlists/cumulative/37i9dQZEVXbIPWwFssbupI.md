@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,752 songs - 6 day 0 hr 0 min
+2,753 songs - 6 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [BBL](https://open.spotify.com/track/5ZY8ovLhI7bLuddKmkq6cf) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:52 | 2024-04-01 | 2024-05-05 |
 | [BBL](https://open.spotify.com/track/71nvWpjtSxGrRKewm0pziK) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 3:13 | 2022-01-29 | 2022-01-31 |
 | [BDR](https://open.spotify.com/track/7IAjDvEDSrZuhUPraQOiAS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 5:52 | 2025-12-06 | 2025-12-09 |
-| [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 | 2026-04-26 |  |
+| [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 | 2026-04-26 | 2026-07-15 |
 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 | 2024-03-25 | 2024-05-11 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2021-06-13 | 2021-09-11 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4jGaPN2gEpKciN02ZKRShT) | 3:47 | 2021-04-24 | 2021-06-13 |
@@ -2157,7 +2157,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-09-18 |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-02-09 | 2023-09-19 |
 | [Règne sur le monde](https://open.spotify.com/track/363mqittn6QH7w5qMmsEB0) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Règne sur le monde](https://open.spotify.com/album/6En5XYiTNMpyLpaM1PTopD) | 1:59 | 2021-12-04 | 2021-12-05 |
-| [Réanymé](https://open.spotify.com/track/5IiX5KMLfVLpdFTopU9n9o) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [JOŸA](https://open.spotify.com/album/5JjSe6mnfba784t2rc0VKG) | 2:31 | 2026-06-27 | 2026-07-14 |
+| [Réanymé](https://open.spotify.com/track/5IiX5KMLfVLpdFTopU9n9o) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [JOŸA](https://open.spotify.com/album/5JjSe6mnfba784t2rc0VKG) | 2:31 | 2026-06-27 |  |
 | [Réfléchir](https://open.spotify.com/track/0G4puQDFyihFfN8h6PpVDo) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [16](https://open.spotify.com/album/0CxOGMhKeMYKj5c26OpnC3) | 3:01 | 2021-04-05 | 2021-04-11 |
 | [Rêve mieux](https://open.spotify.com/track/6AZjI0TIQ6yuluJXt3oj2S) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:44 | 2021-11-21 | 2021-12-05 |
 | [S.P.S](https://open.spotify.com/track/6toEEHWUY4IAvjUWuOr98r) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:33 | 2021-11-14 | 2021-11-21 |
@@ -2210,7 +2210,8 @@
 | [Secret](https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:11 | 2023-02-07 | 2023-06-07 |
 | [Seinen](https://open.spotify.com/track/7MPlnOcUE5OeVZdIcugUZt) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/0FZwklnVBdxhcCQLhIgPU2) | 2:43 | 2023-02-25 | 2023-02-27 |
 | [SELELE \(feat\. Fally Ipupa\)](https://open.spotify.com/track/6RylOkjveWAWRwjMGVN4Fe) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:17 | 2024-11-30 | 2024-12-03 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-06-01 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-06-01 | 2026-07-15 |
+| [Self Aware](https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE) | 3:00 | 2026-07-14 |  |
 | [Selfie](https://open.spotify.com/track/7pZayfJlwlHulmzt0xUN9m) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Telegram](https://open.spotify.com/album/6NmNYVVe4XeHk5lZz1Zz8g) | 2:36 | 2022-09-24 | 2022-10-09 |
 | [Selfish Love \(with Selena Gomez\)](https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Selfish Love \(with Selena Gomez\)](https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ) | 2:48 | 2021-04-02 | 2021-04-28 |
 | [Sensas](https://open.spotify.com/track/142JpcXpYMTXqxfwr5LthZ) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 2:35 | 2022-06-18 | 2022-06-21 |

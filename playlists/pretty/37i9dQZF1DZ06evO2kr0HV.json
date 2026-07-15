@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42122,
+  "num_followers": 42124,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAADKuBqqbaxn60jkLQfwvWd5",
+  "snapshot_id": "alQqgAAAAABNIzL1O+xn92zXpkU9TvDL",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 315853,
+      "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -867,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 315853,
-      "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando Por Ti",
-        "url": "https://open.spotify.com/album/7ismWpgWee343IgwBx0oyI"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Bailando Por Ti",
-      "url": "https://open.spotify.com/track/40gWTnjJgkpYENBrPVKSgN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 187760,
       "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
       "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailando Por Ti",
+        "url": "https://open.spotify.com/album/7ismWpgWee343IgwBx0oyI"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Bailando Por Ti",
+      "url": "https://open.spotify.com/track/40gWTnjJgkpYENBrPVKSgN"
     },
     {
       "added_at": null,

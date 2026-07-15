@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,858 likes - 102 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,950 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
+| 1 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
 | 2 | [Don't You Blink](https://open.spotify.com/track/5wzWnclLk0dNnd405P0pM0) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Big Boots](https://open.spotify.com/album/4EmuD8QXF5QzsjDcSWxI1i) | 3:43 |
 | 3 | [Remember Us \(feat\. Dustin Lynch\)](https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:50 |
 | 4 | [A Bar Song \(Tipsy\) \[Remix}](https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah) | 2:43 |

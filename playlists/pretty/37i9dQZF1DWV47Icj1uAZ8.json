@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 46444,
+  "num_followers": 46448,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 139574,
-      "name": "Bria's Interlude (feat. Omarion)",
-      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
+      "duration_ms": 170360,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -163,18 +159,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
+      "duration_ms": 139574,
+      "name": "Bria's Interlude (feat. Omarion)",
+      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
     },
     {
       "added_at": "2022-10-01 16:00:00",

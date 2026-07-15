@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,644,693 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,644,830 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 43 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |
 | 44 | [coldshade \- Slowed](https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [neytles](https://open.spotify.com/artist/22ext9Do0WP94crY5FZxli) | [coldshade](https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx) | 3:24 |
 | 45 | [LOVELY BASTARDS \- Slowed](https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS \(Slowed\)](https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ) | 2:32 |
-| 46 | [butterflies\. \(chopnotslop remix\)](https://open.spotify.com/track/4OwqkNn54F8QV4lXdbkfxx) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [ISO Supremacy](https://open.spotify.com/artist/6rUez8y21xlLrYKExcXB1X) | [PURPLE ICON \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/album/2hLRqbKFipxAUgEMaV0k4O) | 5:29 |
-| 47 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 |
-| 48 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
-| 49 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
+| 46 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 |
+| 47 | [butterflies\. \(chopnotslop remix\)](https://open.spotify.com/track/4OwqkNn54F8QV4lXdbkfxx) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [ISO Supremacy](https://open.spotify.com/artist/6rUez8y21xlLrYKExcXB1X) | [PURPLE ICON \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/album/2hLRqbKFipxAUgEMaV0k4O) | 5:29 |
+| 48 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
+| 49 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
 | 50 | [House of Memories \- Slowed Down Version](https://open.spotify.com/track/7CGf0Sw8s7m3bDllqSmPfL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [House Of Memories](https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj) | 4:45 |
 
 Snapshot ID: `AAAAAGpDgckGU2TwS/3Klq5/G8Odd84u`

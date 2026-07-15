@@ -6828,7 +6828,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -7102,7 +7102,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 209080,
       "name": "Growth!",
       "url": "https://open.spotify.com/track/1jfCV6pcdYBYBDPEkuZfTs"
@@ -8966,7 +8966,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -14350,7 +14350,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 178241,
       "name": "Rude Boy",
       "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
@@ -16950,7 +16950,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -19888,7 +19888,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -21306,6 +21306,28 @@
       "duration_ms": 278670,
       "name": "\u4ecd\u5728",
       "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
+    },
+    {
+      "album": {
+        "name": "\u4ed9\u5973\u5ea7\u4e8b\u6545",
+        "url": "https://open.spotify.com/album/2jT9Zm7eVah3zKxH4VA0xO"
+      },
+      "artists": [
+        {
+          "name": "\u826f\u5c11",
+          "url": "https://open.spotify.com/artist/5TqXIlySNYaCoM0WjmBnXK"
+        },
+        {
+          "name": "\u9673\u5065\u5b89",
+          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176590,
+      "name": "\u4ed9\u5973\u5ea7\u4e8b\u6545",
+      "url": "https://open.spotify.com/track/7vf2wD61Wilmv43CeAtyDq"
     },
     {
       "album": {
@@ -23790,7 +23812,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -24829,6 +24851,28 @@
     },
     {
       "album": {
+        "name": "\u65cb\u8f49\u6728\u99ac",
+        "url": "https://open.spotify.com/album/0QYP20KqKGrDyMYqkrTBhx"
+      },
+      "artists": [
+        {
+          "name": "\u7c73\u723a",
+          "url": "https://open.spotify.com/artist/4VSNdg5c0V26Srdi4MOHR7"
+        },
+        {
+          "name": "Feanna Wong",
+          "url": "https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194812,
+      "name": "\u65cb\u8f49\u6728\u99ac",
+      "url": "https://open.spotify.com/track/5YOyplpxGqOuxDr0BlQI0u"
+    },
+    {
+      "album": {
         "name": "\u65e5\u51fa\u6642\u8b93\u8857\u71c8\u5b89\u7761",
         "url": "https://open.spotify.com/album/6ObjdJaVenfMHwA8EYu7Za"
       },
@@ -25630,7 +25674,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 273437,
       "name": "\u6771\u90aa",
       "url": "https://open.spotify.com/track/4Yr6otFebxk170q2TbpEbS"
@@ -26933,6 +26977,28 @@
     },
     {
       "album": {
+        "name": "\u7515\u4e2d\u4e4b\u9c49",
+        "url": "https://open.spotify.com/album/1Juv9VWpnsL3hXnwEJtDTf"
+      },
+      "artists": [
+        {
+          "name": "Endy Chow",
+          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
+        },
+        {
+          "name": "GE",
+          "url": "https://open.spotify.com/artist/4JxB1JDj9xUQm6yZ0gZzaa"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205028,
+      "name": "\u7515\u4e2d\u4e4b\u9c49",
+      "url": "https://open.spotify.com/track/5TJmoWt9Zg5oTSQGdYNHn8"
+    },
+    {
+      "album": {
         "name": "\u751f\u82e5\u51b0\u706b (ViuTV \u5287\u96c6\u51b0\u4e0a\u706b\u82b1\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1siFw7GYzPnHXcGCR0fi0O"
       },
@@ -27160,7 +27226,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-15",
       "duration_ms": 182588,
       "name": "\u767d\u679c",
       "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
@@ -27960,7 +28026,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 249266,
       "name": "\u7f8e\u9e97\u4e4b\u6700",
       "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"
@@ -27982,6 +28048,24 @@
       "duration_ms": 248026,
       "name": "\u7fa4\u9752",
       "url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk"
+    },
+    {
+      "album": {
+        "name": "\u8001 Best",
+        "url": "https://open.spotify.com/album/30kwFP0zukgv2DnihcT6eQ"
+      },
+      "artists": [
+        {
+          "name": "JFFT",
+          "url": "https://open.spotify.com/artist/4hUF6g1RkePtMyyH9sf5Jr"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "\u8001 Best",
+      "url": "https://open.spotify.com/track/4JiGmFkudXvOwBnDg5XDcT"
     },
     {
       "album": {

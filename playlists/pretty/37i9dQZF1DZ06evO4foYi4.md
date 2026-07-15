@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,759 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,755 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 27 | [Marrow \(Live\)](https://open.spotify.com/track/53x8ls1sxWC6RcCplsFgu5) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 3:57 |
 | 28 | [Cheerleader](https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:28 |
 | 29 | [I Should Watch TV](https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:08 |
-| 30 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 |
+| 30 | [Somebody Like Me](https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:53 |
 | 31 | [Black Rainbow \(Live\)](https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 4:16 |
-| 32 | [Somebody Like Me](https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:53 |
+| 32 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 |
 | 33 | [Birth In Reverse](https://open.spotify.com/track/3v47tb6hvbeb3dVOgYZUfP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:15 |
-| 34 | [Teenage Talk](https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Teenage Talk](https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw) | 4:08 |
+| 34 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 |
 | 35 | [We Put A Pearl In the Ground \(Live\)](https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 1:28 |
-| 36 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 |
-| 37 | [Rattlesnake](https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:34 |
-| 38 | [Strange Mercy](https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:28 |
+| 36 | [Teenage Talk](https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Teenage Talk](https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw) | 4:08 |
+| 37 | [Strange Mercy](https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:28 |
+| 38 | [Rattlesnake](https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:34 |
 | 39 | [The Bed \(Live\)](https://open.spotify.com/track/0GPNGwsiYWC45uTQ6nwRtj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [LIVE IN LONDON! \(BBC Proms at the Royal Albert Hall\)](https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC) | 3:59 |
 | 40 | [Down And Out Downtown](https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:42 |
 | 41 | [Laughing with a Mouth of Blood](https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [Bad Believer](https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 2:59 |
 | 50 | [The Party](https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:05 |
 
-Snapshot ID: `alLZAAAAAAD8wxcFf0JX85zTtLA6vTCo`
+Snapshot ID: `alQqgAAAAAA+ukpCKspPDdBhejOpVkR7`

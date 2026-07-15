@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,610 likes - 187 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,611 likes - 187 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 148 | [Fenomenal](https://open.spotify.com/track/3vg1cctdWYCeWxzrdzMcNk) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Fenomenal](https://open.spotify.com/album/6ZYraErGewCadNWb1sJ2Vv) | 3:23 |
 | 149 | [QUE LE MUERDA](https://open.spotify.com/track/4WGUbeko8BYD39VKpyP72N) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:40 |
 | 150 | [INSTINTO](https://open.spotify.com/track/1kWFZm12wzRAqm3m4JxPp8) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sabiobeats](https://open.spotify.com/artist/5xPx3y57B60dw5E0VMsEK0) | [ANIMAL](https://open.spotify.com/album/04GpcNEk3XALjGfnBExBN4) | 3:53 |
-| 151 | [Free Hugs](https://open.spotify.com/track/5hzCzZjEXcYbS7WLhwqTu2) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Free Hugs](https://open.spotify.com/album/7EgjqJUACBmntb301Nqij7) | 2:48 |
-| 152 | [AGRADECIMIENTO](https://open.spotify.com/track/3n2VrtOex6O2jV9SquyEyh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Quiero Que Se Acabe Este Bendito Verano](https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo) | 3:11 |
+| 151 | [AGRADECIMIENTO](https://open.spotify.com/track/3n2VrtOex6O2jV9SquyEyh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Quiero Que Se Acabe Este Bendito Verano](https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo) | 3:11 |
+| 152 | [Free Hugs](https://open.spotify.com/track/5hzCzZjEXcYbS7WLhwqTu2) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Free Hugs](https://open.spotify.com/album/7EgjqJUACBmntb301Nqij7) | 2:48 |
 | 153 | [KILL BILL](https://open.spotify.com/track/20PCIu1WEhaQKmbRFx8NTT) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:01 |
 | 154 | [COCO](https://open.spotify.com/track/5xXC7l1oji3OI9cAkzcIen) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [COCO](https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r) | 2:36 |
 | 155 | [Trago Al Pecho](https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Trago Al Pecho](https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4) | 2:48 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 186 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 187 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AcWxtAAAAADyT2Zq4VSwEXnJodTU2b+7`
+Snapshot ID: `AcW3NgAAAACwCSvVRgr3LLWGE2dS1CSj`

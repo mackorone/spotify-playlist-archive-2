@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,065 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,088 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 43 | [Efímero](https://open.spotify.com/track/65752X0pjHO407mHsCTjwn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Efímero](https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq) | 3:29 |
 | 44 | [La Magia de Tus Ojos \- Versión Pop](https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Magia de Tus Ojos \(Versión Pop\)](https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph) | 2:48 |
 | 45 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
-| 46 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
-| 47 | [Locos Dementes](https://open.spotify.com/track/1avccdZyIOpCisznKwu47H) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Locos Dementes](https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8) | 3:35 |
+| 46 | [Locos Dementes](https://open.spotify.com/track/1avccdZyIOpCisznKwu47H) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Locos Dementes](https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8) | 3:35 |
+| 47 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
 
-Snapshot ID: `alLZAAAAAABJ0eImMRX5txwFGIMwfP21`
+Snapshot ID: `alQqgAAAAACBUT7Yr8cvSHCENrbsaSA1`

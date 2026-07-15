@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Nerd Connection\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: MRCH\(윤마치\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,207 songs - 3 day 1 hr 24 min
+1,210 songs - 3 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Do You Need A Rockstar](https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Do You Need A Rockstar](https://open.spotify.com/album/4TMfhEcfhMRsFd3jHNlOIJ) | 3:13 | 2022-04-21 | 2022-04-24 |
 | [Do\-re\-mi\-fa](https://open.spotify.com/track/0QfAVkbO0cxDe6ibSnQW4c) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Present](https://open.spotify.com/album/0eia9DMR5uq7qYcmhxxFzq) | 3:07 | 2024-01-05 | 2024-05-10 |
 | [Doberman](https://open.spotify.com/track/64BzcskCExMQTFAcTubGv7) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Military Prosecutor Doberman, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0QP7DNMT3yVLOvbrTEndEl) | 3:07 | 2022-05-11 | 2022-05-25 |
+| [documentary](https://open.spotify.com/track/171mGT1HdxM2HdqZrWNY31) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:16 | 2026-07-14 |  |
 | [Doll](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:33 | 2024-05-09 | 2024-11-07 |
 | [Domino](https://open.spotify.com/track/0604Qn0FcaJCAi93erZduj) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [2021](https://open.spotify.com/album/2WyC34NtnFDLJKGRHfIhzd) | 3:29 | 2022-05-11 | 2022-06-24 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-04-12 | 2024-11-07 |
@@ -507,6 +508,7 @@
 | [Invisibles](https://open.spotify.com/track/7bJcyukFHTgXuQ31Cl7LZ9) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Square One](https://open.spotify.com/album/3sQvmhUTKE0SY7piBVlinX) | 3:49 | 2022-04-12 | 2022-07-25 |
 | [Irony](https://open.spotify.com/track/1J8B9nksPC9fgNlIrEgeRx) | [Hot Potato](https://open.spotify.com/artist/4PJYiCyV7PAWHI5fZLpyRo) | [New Turn](https://open.spotify.com/album/0o1DDushBAdwJdLdhHfJla) | 4:10 | 2026-06-26 | 2026-07-04 |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2022-04-22 | 2022-07-28 |
+| [It Comes Back](https://open.spotify.com/track/1DvxyzGPAH7SK8osEzeJic) | [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF) | [Petrichor](https://open.spotify.com/album/6FKkjyDABSBbad5ZEQ8Whk) | 2:57 | 2026-07-14 |  |
 | [It Rains](https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9) | [Seoul Electric Band](https://open.spotify.com/artist/2rdg9jLI2WN0bAsrPWdRo1) | [It Rains](https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn) | 5:22 | 2025-02-04 | 2025-03-18 |
 | [It Was Love](https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD) | [LATENCY](https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U) | [It Was Love](https://open.spotify.com/album/2qjvoVAffzOULgzu8b4up5) | 3:04 | 2026-01-22 | 2026-02-07 |
 | [It's Complicated](https://open.spotify.com/track/60BgjgIQKhVO4mA6HnL2jT) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [It's Complicated \- The 6th Mini Album](https://open.spotify.com/album/2ZsqDQ58pJDf9ljm4MAo3w) | 3:39 | 2024-11-06 | 2024-12-24 |
@@ -515,7 +517,7 @@
 | [It’ll Be Okay](https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [20](https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP) | 4:27 | 2024-10-24 | 2025-01-31 |
 | [It′s Red \(Feat\. Park Dawool\)](https://open.spotify.com/track/7oB8XYkkN0oPKMoex43HeL) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt), [Park Da Wool](https://open.spotify.com/artist/3eklnSBKrfc9XqVH3xmESe) | [Bloody Heart, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6hMNXNNTQJH2qlEwdLLUKC) | 3:39 | 2022-06-20 | 2022-06-24 |
 | [It′s You](https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Resident Playbook, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16) | 3:47 | 2025-05-07 | 2025-08-07 |
-| [Ivy](https://open.spotify.com/track/6wAJpkOPk0mZRCsue9W6X1) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Ivy](https://open.spotify.com/album/2SWsW9JZ3fHmfpifUP6kDL) | 4:35 | 2026-07-03 |  |
+| [Ivy](https://open.spotify.com/track/6wAJpkOPk0mZRCsue9W6X1) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Ivy](https://open.spotify.com/album/2SWsW9JZ3fHmfpifUP6kDL) | 4:35 | 2026-07-03 | 2026-07-15 |
 | [I’ll Be There](https://open.spotify.com/track/7rjEBs5JvSrZK09MihMBFQ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I’ll Be There](https://open.spotify.com/album/6Rth7jw99l85WitzcYDPth) | 3:17 | 2026-04-23 | 2026-04-28 |
 | [I’m Alive](https://open.spotify.com/track/4HKzIW8jGEqf5BWIC0T3JS) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Broken Kaleidoscope](https://open.spotify.com/album/1xaaxoERaH0Mq1kdA13G0E) | 2:55 | 2022-04-12 | 2022-07-25 |
 | [Jayu 자유](https://open.spotify.com/track/5vlUplZyrXnN0bbejrKfqu) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Jayu 자유](https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH) | 3:55 | 2022-05-03 | 2022-07-20 |
@@ -553,6 +555,7 @@
 | [Laundry revolution \(feat\. CHOILB\)](https://open.spotify.com/track/2CZq8IeSPmienjBUxV0e5A) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [We all know we will fail](https://open.spotify.com/album/2qA6Vo1U3fZthJPbIUxm0x) | 3:21 | 2024-10-04 | 2024-11-22 |
 | [Lean On Me](https://open.spotify.com/track/7kYbc6yiaK7OrgfE0RbXGq) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [She Would Never Know \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/15gBYmuSr8A938CRieIRKp) | 4:01 | 2022-04-21 | 2022-07-09 |
 | [Leaves](https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Leaves](https://open.spotify.com/album/4WYPunihadZ0y8IRY96HZh) | 3:48 | 2026-02-12 | 2026-02-27 |
+| [Left to Try](https://open.spotify.com/track/7MAPkD3vZKn64KW1N8YmPh) | [Julywantsmore](https://open.spotify.com/artist/0T7h3NCSaAyO9XfyguJvTT) | [Left to Try](https://open.spotify.com/album/2zHZIjcH1M0Pq2XCMAbG22) | 3:36 | 2026-07-14 |  |
 | [leodo Island \(Parangdo lsland\)](https://open.spotify.com/track/135gyYI8MukV8Ny5c63vWP) | [BAE CHUL SOO](https://open.spotify.com/artist/5w0paTeWKFlcJytIF06AcU) | [Fly Again](https://open.spotify.com/album/77zmrTi35NrLJ6zzLdtOi9) | 3:13 | 2025-03-04 | 2025-03-18 |
 | [let it be summer](https://open.spotify.com/track/19PusCmhiWHG4UN5lAeRp0) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [let it be summer](https://open.spotify.com/album/6jOd9PTE8cu0s7s9pqYN0Y) | 3:14 | 2023-08-25 | 2023-09-07 |
 | [let it be summer](https://open.spotify.com/track/6SFurcT8NOuglistyVb2F9) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:14 | 2023-09-04 | 2023-09-20 |
@@ -948,7 +951,7 @@
 | [Sugar](https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [loop vol\. 1 \- Sugar](https://open.spotify.com/album/4MDyxmsFEznFjPrxOaqC1i) | 3:49 | 2026-02-01 | 2026-02-20 |
 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2023-10-19 |
 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-09-05 | 2022-10-01 |
-| [Summer Equation](https://open.spotify.com/track/35cHw3u8SKKmjlunF9yWmR) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [Summer Equation](https://open.spotify.com/album/7vxxHrc0G4FVWoBsG8auNQ) | 2:51 | 2026-07-03 |  |
+| [Summer Equation](https://open.spotify.com/track/35cHw3u8SKKmjlunF9yWmR) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [Summer Equation](https://open.spotify.com/album/7vxxHrc0G4FVWoBsG8auNQ) | 2:51 | 2026-07-03 | 2026-07-15 |
 | [Summer Nostalgia](https://open.spotify.com/track/6AaI8NkeP0Yaw2r2tSg6uv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [Summer Nostalgia](https://open.spotify.com/album/0xh9ejn2bLP6NUJGkORVkz) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Summer Thief](https://open.spotify.com/track/67OONnnL2GIjIYl7TwlCuc) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Summer Thief](https://open.spotify.com/album/6PL2hsh2DmcB9BRmGD97z1) | 3:06 | 2024-03-21 | 2024-05-10 |
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-30 | 2025-10-11 |
@@ -1176,7 +1179,7 @@
 | [Your Letter](https://open.spotify.com/track/3w1Q9xlMlm4NeG5ydVSfwP) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Your Letter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1) | 4:56 | 2025-09-01 | 2025-09-10 |
 | [Your voice](https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Voice4 \(Original Drama Sound Track, Pt\. 2\)](https://open.spotify.com/album/4gHX61RLuaLZnritQzl72P) | 3:44 | 2022-05-11 | 2022-07-23 |
 | [yours.](https://open.spotify.com/track/3C4KOIMBDPK21oTsvdMDRn) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [yours.](https://open.spotify.com/album/1jcBjaepZsSf1Wl0mx8S3d) | 3:25 | 2024-08-12 | 2024-08-23 |
-| [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-07-03 |  |
+| [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-07-03 | 2026-07-15 |
 | [Zero Fear Of Water](https://open.spotify.com/track/2zU9DYy1wlAe2ZtpTiLYNc) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [ZERO FEAR OF WATER](https://open.spotify.com/album/1SRsbPkuZUJ0NtcpZoHUEi) | 2:59 | 2022-04-21 | 2022-04-24 |
 | [Zinnia](https://open.spotify.com/track/0ll9zCUAVr3qmpGPfenFvI) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Zinnia](https://open.spotify.com/album/5MQ5dlRGUTSmWeKAYw9Ckh) | 3:47 | 2022-04-12 | 2022-07-27 |
 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |

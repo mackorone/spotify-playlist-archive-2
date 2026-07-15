@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Mastodon",
-  "num_followers": 1410103,
+  "num_followers": 1410137,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Empty Hands",
         "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 213533,
       "name": "Dying To Forget",
       "url": "https://open.spotify.com/track/58n0MyTEOVHzAlPowTVt4P"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Enter The Behelit",
+        "url": "https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 227361,
+      "name": "Enter The Behelit",
+      "url": "https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Crossing the Rubicon (feat. NOTHING MORE)",
         "url": "https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 204400,
       "name": "Crossing the Rubicon (feat. NOTHING MORE)",
       "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Enter The Behelit",
-        "url": "https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 227361,
-      "name": "Enter The Behelit",
-      "url": "https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Behelit",
-        "url": "https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Behelit",
-      "url": "https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 176466,
       "name": "No Loss, No Love",
       "url": "https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Behelit",
+        "url": "https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Behelit",
+      "url": "https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Russian Grizzly In America",
-        "url": "https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 254376,
-      "name": "Russian Grizzly In America",
-      "url": "https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Urban Discipline",
         "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 284066,
       "name": "Punishment",
       "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Russian Grizzly In America",
+        "url": "https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 254376,
+      "name": "Russian Grizzly In America",
+      "url": "https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "The Great Satan",
-        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "F.T.W. 84",
-      "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "The Great Satan",
+        "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "F.T.W. 84",
+      "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Dig Your Own Grave",
-        "url": "https://open.spotify.com/album/26ikTMpGuhIQNNcjt7DpPb"
-      },
-      "artists": [
-        {
-          "name": "DevilDriver",
-          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
-        }
-      ],
-      "duration_ms": 269287,
-      "name": "Dig Your Own Grave",
-      "url": "https://open.spotify.com/track/2tVcLmLOEag6OQrrrSygSp"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "State Of Unrest",
         "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
       },
@@ -1647,22 +1631,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Sonic Salvation (feat. Jamie Hails)",
-        "url": "https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht"
+        "name": "Dig Your Own Grave",
+        "url": "https://open.spotify.com/album/26ikTMpGuhIQNNcjt7DpPb"
       },
       "artists": [
         {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+          "name": "DevilDriver",
+          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
         }
       ],
-      "duration_ms": 253673,
-      "name": "Sonic Salvation (feat. Jamie Hails)",
-      "url": "https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG"
+      "duration_ms": 269287,
+      "name": "Dig Your Own Grave",
+      "url": "https://open.spotify.com/track/2tVcLmLOEag6OQrrrSygSp"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1683,18 +1663,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Grand Serpent Rising",
-        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
+        "name": "Sonic Salvation (feat. Jamie Hails)",
+        "url": "https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht"
       },
       "artists": [
         {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
         }
       ],
-      "duration_ms": 342567,
-      "name": "Ulvgjeld & Blodsodel",
-      "url": "https://open.spotify.com/track/4Gq4fPI8S6foOrUT8xkiTK"
+      "duration_ms": 253673,
+      "name": "Sonic Salvation (feat. Jamie Hails)",
+      "url": "https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1727,6 +1711,22 @@
       "duration_ms": 220893,
       "name": "The Catalyst",
       "url": "https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Grand Serpent Rising",
+        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 342567,
+      "name": "Ulvgjeld & Blodsodel",
+      "url": "https://open.spotify.com/track/4Gq4fPI8S6foOrUT8xkiTK"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Und die Engel singen",
+        "url": "https://open.spotify.com/album/3XGBLits7rW4XngEyzjTJF"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 207622,
+      "name": "Und die Engel singen",
+      "url": "https://open.spotify.com/track/3egJPsm8iPwtrQ5U3VqNCS"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Revenger",
         "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Und die Engel singen",
-        "url": "https://open.spotify.com/album/3XGBLits7rW4XngEyzjTJF"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 207622,
-      "name": "Und die Engel singen",
-      "url": "https://open.spotify.com/track/3egJPsm8iPwtrQ5U3VqNCS"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Helldorado",
-        "url": "https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj"
-      },
-      "artists": [
-        {
-          "name": "Spiritworld",
-          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Waiting on the Reaper",
-      "url": "https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Death Above Life",
         "url": "https://open.spotify.com/album/4wstmx3brleWK61hfO5y8P"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 329375,
       "name": "Death Above Life",
       "url": "https://open.spotify.com/track/4UAEU0YaHW4o6Dh5irv9Dv"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Helldorado",
+        "url": "https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj"
+      },
+      "artists": [
+        {
+          "name": "Spiritworld",
+          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Waiting on the Reaper",
+      "url": "https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "HOLLYWOOD SUICIDE",
-        "url": "https://open.spotify.com/album/6YFZoTSdDcMGv0ryhzB4Oy"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        }
-      ],
-      "duration_ms": 235061,
-      "name": "HEAVY RAIN",
-      "url": "https://open.spotify.com/track/2aNOTGXCObY6U2zblqqWA9"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Nerve",
         "url": "https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 352500,
       "name": "Nerve",
       "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "HOLLYWOOD SUICIDE",
+        "url": "https://open.spotify.com/album/6YFZoTSdDcMGv0ryhzB4Oy"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "HEAVY RAIN",
+      "url": "https://open.spotify.com/track/2aNOTGXCObY6U2zblqqWA9"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 223551,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "No Place of Warmth (feat. Gerard Way)",
         "url": "https://open.spotify.com/album/4k9gYOwN9shcLs1Xxd4YxU"
       },
@@ -2471,22 +2487,6 @@
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 223551,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2651,18 +2651,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Witch Club Satan",
-        "url": "https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp"
+        "name": "Good God / Baad Man",
+        "url": "https://open.spotify.com/album/5aEtaDnQwYruxTavJAaChJ"
       },
       "artists": [
         {
-          "name": "Witch Club Satan",
-          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+          "name": "Corrosion Of Conformity\t",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
         }
       ],
-      "duration_ms": 215786,
-      "name": "Fresh Blood, Fresh Pussy",
-      "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
+      "duration_ms": 240363,
+      "name": "Gimme Some Moore",
+      "url": "https://open.spotify.com/track/2tI78SEx3HpdqSdEG8G00L"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2683,18 +2683,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Good God / Baad Man",
-        "url": "https://open.spotify.com/album/5aEtaDnQwYruxTavJAaChJ"
+        "name": "Witch Club Satan",
+        "url": "https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp"
       },
       "artists": [
         {
-          "name": "Corrosion Of Conformity\t",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+          "name": "Witch Club Satan",
+          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
         }
       ],
-      "duration_ms": 240363,
-      "name": "Gimme Some Moore",
-      "url": "https://open.spotify.com/track/2tI78SEx3HpdqSdEG8G00L"
+      "duration_ms": 215786,
+      "name": "Fresh Blood, Fresh Pussy",
+      "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Bring Out Your Dead",
-        "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
-      },
-      "artists": [
-        {
-          "name": "Elysion",
-          "url": "https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v"
-        }
-      ],
-      "duration_ms": 242172,
-      "name": "Crossing Over",
-      "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Straight To Hell '25",
         "url": "https://open.spotify.com/album/3Zs0l8HbOXDHsMeLEA4Mpn"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 209158,
       "name": "Straight To Hell '25",
       "url": "https://open.spotify.com/track/4kBZ1nEcV40XjwTGdldLwU"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Bring Out Your Dead",
+        "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
+      },
+      "artists": [
+        {
+          "name": "Elysion",
+          "url": "https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v"
+        }
+      ],
+      "duration_ms": 242172,
+      "name": "Crossing Over",
+      "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Cult Of The Used",
-        "url": "https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS"
-      },
-      "artists": [
-        {
-          "name": "Death Angel",
-          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
-        }
-      ],
-      "duration_ms": 249072,
-      "name": "Cult Of The Used",
-      "url": "https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Chapter III - Downfall",
         "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 234346,
       "name": "Eternal Rains",
       "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Cult Of The Used",
+        "url": "https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS"
+      },
+      "artists": [
+        {
+          "name": "Death Angel",
+          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+        }
+      ],
+      "duration_ms": 249072,
+      "name": "Cult Of The Used",
+      "url": "https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Spider Lilly",
-        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
-      },
-      "artists": [
-        {
-          "name": "King Diamond",
-          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
-        }
-      ],
-      "duration_ms": 274243,
-      "name": "Spider Lilly",
-      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "The Mandrake Project",
         "url": "https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 288310,
       "name": "Many Doors to Hell",
       "url": "https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Spider Lilly",
+        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+      },
+      "artists": [
+        {
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+        }
+      ],
+      "duration_ms": 274243,
+      "name": "Spider Lilly",
+      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Armada",
-        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Armada",
-      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Lifeblood",
         "url": "https://open.spotify.com/album/3mOM9vXmOUVmlB4gBfw9R5"
       },
@@ -3167,6 +3151,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
       },
@@ -3179,22 +3179,6 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Broken and Blind",
-        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Broken and Blind",
-      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3219,18 +3203,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "A Perfect Day to Die",
-        "url": "https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD"
+        "name": "Broken and Blind",
+        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
       },
       "artists": [
         {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
         }
       ],
-      "duration_ms": 230680,
-      "name": "A Perfect Day to Die",
-      "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
+      "duration_ms": 192125,
+      "name": "Broken and Blind",
+      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3247,6 +3231,22 @@
       "duration_ms": 242133,
       "name": "Hands of Sin",
       "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "A Perfect Day to Die",
+        "url": "https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "A Perfect Day to Die",
+      "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
     },
     {
       "added_at": "2026-07-13 21:05:42",

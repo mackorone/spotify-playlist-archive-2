@@ -4,7 +4,7 @@
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-379 songs - 23 hr 27 min
+380 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [ガーデン](https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:49 | 2024-04-09 |  |
 | [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 | 2023-10-24 | 2024-02-02 |
 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2023-11-22 | 2026-05-09 |
+| [グッタイム](https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [グッタイム](https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11) | 3:21 | 2026-07-08 |  |
 | [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2024-01-19 | 2026-01-15 |
 | [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 | 2024-06-20 | 2025-07-07 |
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-03-01 | 2024-09-28 |
@@ -368,7 +369,7 @@
 | [花束](https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 4:46 | 2026-05-08 |  |
 | [花束を君に](https://open.spotify.com/track/31yv1hR9gw1WSEmtqsaZbD) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Fantome](https://open.spotify.com/album/3OsjveYa3ODxbAHuoZp7MS) | 4:38 | 2026-03-03 | 2026-06-22 |
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-24 | 2024-10-01 |
-| [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 | 2025-11-17 |  |
+| [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 | 2025-11-17 | 2026-07-15 |
 | [裸足のチェッコリー](https://open.spotify.com/track/6jAvoParpWFORg8pqmbMdz) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [裸足のチェッコリー](https://open.spotify.com/album/6UL3yCiubdnXZXBjp1YyAI) | 3:01 | 2025-08-04 | 2025-10-01 |
 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-24 | 2025-01-10 |
 | [誰よりも](https://open.spotify.com/track/0Jor9YHb8VKmMpboe7ZdUF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft / Sailing](https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY) | 4:59 | 2025-02-19 | 2025-03-28 |

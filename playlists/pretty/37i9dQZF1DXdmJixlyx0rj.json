@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Silly Silky (\uc2e4\ub9ac\uc2e4\ud0a4))",
-  "num_followers": 37498,
+  "num_followers": 37502,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "Dirty Work (Remixes)",
+        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 201454,
+      "name": "Dirty Work - RayRay Remix",
+      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "ScreaM Rookies : The Chase (Remixes)",
         "url": "https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq"
       },
@@ -843,22 +863,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "Dirty Work (Remixes)",
-        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
+        "name": "Mirror ball (feat. Moon Sujin)",
+        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
         },
         {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 201454,
-      "name": "Dirty Work - RayRay Remix",
-      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
+      "duration_ms": 193493,
+      "name": "Mirror ball (feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -883,42 +903,6 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "Mirror ball (feat. Moon Sujin)",
-        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
-      },
-      "artists": [
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Mirror ball (feat. Moon Sujin)",
-      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "allez, pousse!",
-        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 190151,
-      "name": "allez, pousse!",
-      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -955,6 +939,22 @@
       "duration_ms": 129677,
       "name": "TOMBOY (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
+        "name": "allez, pousse!",
+        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 190151,
+      "name": "allez, pousse!",
+      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
         "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 178000,
       "name": "DIRTY BOY (feat. JAMIE & UWA)",
       "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
         }
       ],
-      "duration_ms": 255628,
-      "name": "Energetic (Prequel Remix)",
-      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "like JENNIE (Peggy Gou Remix)",
         "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
       },
@@ -1327,26 +1327,6 @@
       "duration_ms": 208375,
       "name": "like JENNIE (Peggy Gou Remix)",
       "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "AREA X",
-        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
-      },
-      "artists": [
-        {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        },
-        {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
-        }
-      ],
-      "duration_ms": 220555,
-      "name": "Baya",
-      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "AREA X",
+        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        }
+      ],
+      "duration_ms": 220555,
+      "name": "Baya",
+      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
       },
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "eigensinn",
+        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "homes",
+      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "My Bad (feat. SHAUN)",
         "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 209656,
       "name": "My Bad (feat. SHAUN)",
       "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "eigensinn",
-        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "homes",
-      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
         "name": "latency",
         "url": "https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 181536,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1819,22 +1819,38 @@
     {
       "added_at": "2026-07-03 06:13:58",
       "album": {
-        "name": "Reminded of HAPPYEND",
-        "url": "https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7"
+        "name": "NO DRUGS",
+        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
       },
       "artists": [
         {
-          "name": "Lia Ouyang Rusli",
-          "url": "https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto"
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
         },
         {
-          "name": "Arexibo",
-          "url": "https://open.spotify.com/artist/0mMVB6TJ94c6hvihOcAV13"
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
         }
       ],
-      "duration_ms": 359305,
-      "name": "HAPPYEND (Closing) - \u201cArexibo\u201d Remix",
-      "url": "https://open.spotify.com/track/1Tc4G0ul4vhAe3pzIYe1wj"
+      "duration_ms": 142360,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n"
+    },
+    {
+      "added_at": "2026-07-03 06:13:58",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua"
+      },
+      "artists": [
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
+        }
+      ],
+      "duration_ms": 243165,
+      "name": "\ucc9c\uc0dd\uc5f0\ubd84 Destiny (Fyke Remix)",
+      "url": "https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x"
     },
     {
       "added_at": "2026-07-03 06:13:58",
@@ -1855,22 +1871,6 @@
       "duration_ms": 163500,
       "name": "MOONLIGHT - MOTi Remix",
       "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2026-07-03 06:13:58",
-      "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua"
-      },
-      "artists": [
-        {
-          "name": "Solid",
-          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
-        }
-      ],
-      "duration_ms": 243165,
-      "name": "\ucc9c\uc0dd\uc5f0\ubd84 Destiny (Fyke Remix)",
-      "url": "https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x"
     }
   ],
   "unique_name": "Electronii[K]",

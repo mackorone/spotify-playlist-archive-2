@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 411977,
+  "num_followers": 411992,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alLZAAAAAABt2db7Wkfz44s21SPFkL8o",
+  "snapshot_id": "alQqgAAAAADdskNkheGID7BzDIGUVwii",
   "tracks": [
     {
       "added_at": null,
@@ -1007,6 +1007,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
+      "url": "https://open.spotify.com/track/22ykS8KWpd2r4zcRZ0XMK5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 162826,
       "name": "Take Me Thru Dere",
       "url": "https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
-      "url": "https://open.spotify.com/track/22ykS8KWpd2r4zcRZ0XMK5"
     },
     {
       "added_at": null,

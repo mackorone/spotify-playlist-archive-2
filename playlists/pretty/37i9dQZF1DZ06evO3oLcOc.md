@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,553 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,566 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 25 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
 | 26 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
 | 27 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
-| 28 | [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 |
-| 29 | [Kream \(feat\. Tyga\)](https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Survive The Summer](https://open.spotify.com/album/4jzYKkhMfaEFxDRevZqDdK) | 2:46 |
+| 28 | [Kream \(feat\. Tyga\)](https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Survive The Summer](https://open.spotify.com/album/4jzYKkhMfaEFxDRevZqDdK) | 2:46 |
+| 29 | [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 |
 | 30 | [Fantastic](https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fantastic](https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz) | 2:52 |
 | 31 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 |
 | 32 | [Kim Kardashian](https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 45 | [Real Deal](https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Real Deal \- Single](https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0) | 3:37 |
 | 46 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 |
 | 47 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 |
-| 48 | [Lightskin Lil Wayne](https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:33 |
-| 49 | [Still Got It](https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:44 |
+| 48 | [Still Got It](https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:44 |
+| 49 | [Lightskin Lil Wayne](https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:33 |
 | 50 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 |
 
-Snapshot ID: `alLZAAAAAADJShSXKx32NFuMYV+ql4z+`
+Snapshot ID: `alQqgAAAAAD69dTDXuHTKktw1awGi86B`

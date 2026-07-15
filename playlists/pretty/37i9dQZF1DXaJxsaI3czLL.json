@@ -771,22 +771,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Organic Plastic Music",
         "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 240933,
       "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
       "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
       "artists": [
         {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
         }
       ],
-      "duration_ms": 116880,
-      "name": "\u591c\u306e\u307e\u307e\u3067",
-      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
+      "duration_ms": 220575,
+      "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
+      "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
       "artists": [
         {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
         }
       ],
-      "duration_ms": 220575,
-      "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
-      "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
+      "duration_ms": 116880,
+      "name": "\u591c\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -963,26 +963,6 @@
       "duration_ms": 167885,
       "name": "Moon Dance",
       "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
-      },
-      "artists": [
-        {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        },
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        }
-      ],
-      "duration_ms": 340573,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1007,6 +987,26 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+      },
+      "artists": [
+        {
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        },
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 340573,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "The Story of Us",
-        "url": "https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "Anytime Anywhere - Piano Session",
-      "url": "https://open.spotify.com/track/1uD0V0FXClTxj1eHd6H3iL"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "Anytime Anywhere - Piano Session",
+      "url": "https://open.spotify.com/track/1uD0V0FXClTxj1eHd6H3iL"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
         "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 259713,
       "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
       "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "texte",
-        "url": "https://open.spotify.com/album/7gAi50SKJ9bL2TXWgCUlaq"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
-      "url": "https://open.spotify.com/track/2nxeYMpGeXEGgebf3JJLBV"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "texte",
+        "url": "https://open.spotify.com/album/7gAi50SKJ9bL2TXWgCUlaq"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/2nxeYMpGeXEGgebf3JJLBV"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "NEW BORN GHOST",
-        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 269301,
-      "name": "\u30af\u30ec\u30a4",
-      "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u97f3\u697d\u3068\u79c1",
         "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 392173,
       "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
       "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 269301,
+      "name": "\u30af\u30ec\u30a4",
+      "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Slow time lover",
-        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 241810,
-      "name": "Slow time lover",
-      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
         "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 382866,
       "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
       "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "Slow time lover",
+        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 241810,
+      "name": "Slow time lover",
+      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "UTAU",
         "url": "https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0"
       },
@@ -1423,22 +1407,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 226585,
       "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Highlights from Simple is best",
-        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "The Rose (15th Anniversary Version\uff09",
-      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u6700\u60aa\u6700\u611b",
         "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "Highlights from Simple is best",
+        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "The Rose (15th Anniversary Version\uff09",
+      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9",
         "url": "https://open.spotify.com/album/42RtIuwRaKZXMhVGi2O5PY"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 275266,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/7L4VgQR2mhH8GBJV19FEoR"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "good life, good people",
-        "url": "https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "\u60aa\u9b54",
-      "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1615,6 +1599,22 @@
       "duration_ms": 187200,
       "name": "\u65c5\u7acb\u3064\u79cb",
       "url": "https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "good life, good people",
+        "url": "https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "\u60aa\u9b54",
+      "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u666f\u8272\u4e00\u7a7a",
-        "url": "https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb"
+        "name": "Freeway",
+        "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
       },
       "artists": [
         {
-          "name": "KUKIKODAN",
-          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
         }
       ],
-      "duration_ms": 376300,
-      "name": "\u6642\u306e\u89e3\u6c7a",
-      "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"
+      "duration_ms": 230204,
+      "name": "Tokyo Family Restaurant",
+      "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

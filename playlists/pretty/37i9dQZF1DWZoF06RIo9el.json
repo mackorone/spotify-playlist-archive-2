@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de julio 2026. Cover: AKRIILA",
-  "num_followers": 1557385,
+  "num_followers": 1557323,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-07-03 04:01:36",
       "album": {
-        "name": "Euforia",
-        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256911,
-      "name": "Incondicional",
-      "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
-    },
-    {
-      "added_at": "2026-07-03 04:01:36",
-      "album": {
         "name": "holanda (Remix)",
         "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 187386,
       "name": "holanda - Remix",
       "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
+    },
+    {
+      "added_at": "2026-07-03 04:01:36",
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256911,
+      "name": "Incondicional",
+      "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
     },
     {
       "added_at": "2026-07-03 04:01:36",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-07-03 04:01:36",
       "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 316026,
+      "name": "En bucle",
+      "url": "https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr"
+    },
+    {
+      "added_at": "2026-07-03 04:01:36",
+      "album": {
         "name": "Bingo",
         "url": "https://open.spotify.com/album/2V8codG8lD0YA9mHSZBmbJ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 197376,
       "name": "Nueva Era",
       "url": "https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S"
-    },
-    {
-      "added_at": "2026-07-03 04:01:36",
-      "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 316026,
-      "name": "En bucle",
-      "url": "https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr"
     },
     {
       "added_at": "2026-07-03 04:01:36",

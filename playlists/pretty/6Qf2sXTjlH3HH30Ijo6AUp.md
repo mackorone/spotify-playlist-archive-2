@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-[Topsify](https://open.spotify.com/user/topsify) - 468,540 likes - 100 songs - 5 hr 56 min
+[Topsify](https://open.spotify.com/user/topsify) - 468,529 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 27 | [The Climb](https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [The Climb](https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W) | 3:50 |
 | 28 | [Try It Again](https://open.spotify.com/track/0QS4x5Ts1YROJXScCsfBTR) | [The Slates](https://open.spotify.com/artist/5O5aAqBdU9DMMh6Ew7qnCR) | [Try It Again](https://open.spotify.com/album/3cOW2Jt0A88hPuMLFgpORx) | 4:26 |
 | 29 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
-| 30 | [All I Need](https://open.spotify.com/track/5TwrRbDsrFkAhaCOxIfoxt) | [Olive](https://open.spotify.com/artist/5jOBDBsf6lmsBO3uBx50Qq) | [All I Need](https://open.spotify.com/album/14LAoaEr9QcxrTsBszz7Jx) | 2:19 |
-| 31 | [Gold](https://open.spotify.com/track/17dNewo0r2wcw4B94KtOeB) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold](https://open.spotify.com/album/3VMvOJQfRBle7761FQg25w) | 3:19 |
-| 32 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 |
-| 33 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 |
-| 34 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 |
+| 30 | [Rivers and Roads \(feat\. The Head and The Heart\)](https://open.spotify.com/track/7AgI2hQUZCt3iEqNzhwUSz) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh), [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Rivers and Roads \(feat\. The Head and The Heart\)](https://open.spotify.com/album/5yvmY0O84Vgy0sQSkQF3SV) | 4:12 |
+| 31 | [All I Need](https://open.spotify.com/track/5TwrRbDsrFkAhaCOxIfoxt) | [Olive](https://open.spotify.com/artist/5jOBDBsf6lmsBO3uBx50Qq) | [All I Need](https://open.spotify.com/album/14LAoaEr9QcxrTsBszz7Jx) | 2:19 |
+| 32 | [Gold](https://open.spotify.com/track/17dNewo0r2wcw4B94KtOeB) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold](https://open.spotify.com/album/3VMvOJQfRBle7761FQg25w) | 3:19 |
+| 33 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 |
+| 34 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 |
 | 35 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
 | 36 | [Against The Grain](https://open.spotify.com/track/52lp1yv0ao7k2MhtqVVGG4) | [Naws](https://open.spotify.com/artist/6191cSczj4yvz3DWwGdf3j), [Hex & Solstice](https://open.spotify.com/artist/09IVjJm54cApXuwVwmG04B) | [Against The Grain](https://open.spotify.com/album/1ZLPTmXIxRYHlxv9moPRrJ) | 3:22 |
 | 37 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:47 |
 | 100 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 
-Snapshot ID: `AAAJDRwWlXU/OIXOy9phT35uI8dIZo8a`
+Snapshot ID: `AAAJEBYxZnTCE7wZU+vn+nE5mOBO0mHa`

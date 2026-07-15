@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: PAAK)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221978,
+  "num_followers": 221974,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -655,30 +655,6 @@
     {
       "added_at": "2026-07-09 06:31:35",
       "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
-      },
-      "artists": [
-        {
-          "name": "Yorch",
-          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
-      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
-    },
-    {
-      "added_at": "2026-07-09 06:31:35",
-      "album": {
         "name": "OST",
         "url": "https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 202213,
       "name": "Vancouver 2",
       "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
+    },
+    {
+      "added_at": "2026-07-09 06:31:35",
+      "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
+      },
+      "artists": [
+        {
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-07-09 06:31:35",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2026-07-09 06:31:35",
       "album": {
-        "name": "All Day (Better Days X Kim Seungmin, Layone)",
-        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
       "artists": [
         {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 199000,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2026-07-09 06:31:35",
@@ -1707,18 +1703,22 @@
     {
       "added_at": "2026-07-09 06:31:35",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "All Day (Better Days X Kim Seungmin, Layone)",
+        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+      "duration_ms": 199000,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
     },
     {
       "added_at": "2026-07-09 06:31:35",

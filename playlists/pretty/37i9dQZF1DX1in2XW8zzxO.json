@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 103156,
+  "num_followers": 103171,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,38 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
+        "name": "Shokozela",
+        "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
+      },
+      "artists": [
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        },
+        {
+          "name": "Lowbass Djy",
+          "url": "https://open.spotify.com/artist/21KhXtANqXDgtgCNdcZXhz"
+        },
+        {
+          "name": "Ndibo Ndibs",
+          "url": "https://open.spotify.com/artist/0NiFfDud2e3b99NDDCLE3q"
+        },
+        {
+          "name": "Matute Boy",
+          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 492759,
+      "name": "Shokozela",
+      "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -507,38 +539,6 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
-        "name": "Shokozela",
-        "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
-      },
-      "artists": [
-        {
-          "name": "Officixl RSA",
-          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
-        },
-        {
-          "name": "Lowbass Djy",
-          "url": "https://open.spotify.com/artist/21KhXtANqXDgtgCNdcZXhz"
-        },
-        {
-          "name": "Ndibo Ndibs",
-          "url": "https://open.spotify.com/artist/0NiFfDud2e3b99NDDCLE3q"
-        },
-        {
-          "name": "Matute Boy",
-          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 492759,
-      "name": "Shokozela",
-      "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
     },
     {
       "added_at": "2026-06-12 10:05:49",
@@ -631,6 +631,26 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
         "name": "Mr Big Flexa",
         "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 250671,
       "name": "Goat",
       "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        }
-      ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
     },
     {
       "added_at": "2026-06-12 10:05:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 29 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 29 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 | 25 | [Synth 2](https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:39 |
 | 26 | [Tokyo 1](https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 4:42 |
 | 27 | [Rain](https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:09 |
-| 28 | [Each Story](https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:15 |
+| 28 | [Matsumoto](https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 10:10 |
 | 29 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 |
 
-Snapshot ID: `alLZAAAAAAA7MYr1DkXCyILkmIkQYYBV`
+Snapshot ID: `alQqgAAAAABYOT3qvBhgwtIM638tkVnm`
