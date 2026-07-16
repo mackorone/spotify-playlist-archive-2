@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 799904,
+  "num_followers": 800125,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -1949,22 +1949,6 @@
       "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Got To Be There",
-        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Book Of Dreams",
@@ -1979,6 +1963,22 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Good Times: The Very Best Of Chic & Sister Sledge",
         "url": "https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 247666,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
     },
     {
       "added_at": "2021-09-08 13:31:49",

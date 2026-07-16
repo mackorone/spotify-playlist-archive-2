@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 115169,
+  "num_followers": 115206,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAAKqTKFLSmNjqe1S1CcXNSd",
+  "snapshot_id": "alV8AAAAAAByPYvhyKvEuq1iPZasvloU",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
+        "name": "Nice To Meet You (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
       },
       "artists": [
         {
-          "name": "Muscadine Bloodline",
-          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
+      "duration_ms": 176000,
+      "name": "Nice To Meet You (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
     },
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice To Meet You (feat. Lainey Wilson)",
-        "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
+      "duration_ms": 196306,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
     },
     {
       "added_at": null,

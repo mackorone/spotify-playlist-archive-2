@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,202 likes - 278 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,203 likes - 278 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 168 | [Hurting](https://open.spotify.com/track/2glEoXd5kk0MvHDHjRE8n5) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 3:00 |
 | 169 | [Back Then](https://open.spotify.com/track/598Dwv3jLVXfohLHSPVw7Y) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 3:05 |
 | 170 | [Eastside Sliding \(feat\. idontknowjeffery & Chris Travis\)](https://open.spotify.com/track/6WclEbHlipCKMaPsG8Ii1k) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S), [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5), [idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [East Memphis Maniac](https://open.spotify.com/album/5OEoU8caLGSPsLPGomY3PH) | 2:32 |
-| 171 | [Home Alone](https://open.spotify.com/track/3x8Act9pKmxjHqt3zexER4) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:53 |
-| 172 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 171 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 172 | [Home Alone](https://open.spotify.com/track/3x8Act9pKmxjHqt3zexER4) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:53 |
 | 173 | [Pillow Talk](https://open.spotify.com/track/7308gp7zJ2vGtsNkVI7wKg) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 2:42 |
 | 174 | [May I \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/4XaBD3YE1rbnN4fL7NBsRe) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Oblivion \(Expanded Edition\)](https://open.spotify.com/album/4prOSqkoRtSBI2gBiRxafm) | 7:53 |
 | 175 | [Freak](https://open.spotify.com/track/53Z2zWV2bz7vKonoN31xV9) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Petty Levels](https://open.spotify.com/artist/2y8EbgWOOmUkyUAo5V9N5J), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [In The Name Of Gee](https://open.spotify.com/album/4Ux9gzMHX26RVFAro1uFFk) | 2:20 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 277 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 278 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `AcW3QAAAAAD2YNqRs2CNjLEteZ3v1VOu`
+Snapshot ID: `AcW9HAAAAACdq1yQhNZr3hPZFqEPph+/`

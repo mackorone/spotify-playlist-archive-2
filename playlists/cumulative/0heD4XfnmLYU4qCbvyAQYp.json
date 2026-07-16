@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd"
+      },
+      "artists": [
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442666,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg"
+    },
+    {
+      "album": {
         "name": "Drain You",
         "url": "https://open.spotify.com/album/7lKrZsFDSZpSHOEYTT23G3"
       },

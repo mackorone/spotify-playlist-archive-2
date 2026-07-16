@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  Carrie K
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,032 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,057 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 24 | [pretty little thing](https://open.spotify.com/track/3X4JzWg9iUK5hYMysb53cu) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [pretty little thing](https://open.spotify.com/album/2KR8YSHpIenuVjxiP8BlUL) | 2:08 |
 | 25 | [ahh bby](https://open.spotify.com/track/2q0F1eLIKzQnM1SGXqMDpO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [ahh bby](https://open.spotify.com/album/5wgVvlVOZ4DdOz0VqeJGvx) | 2:07 |
 | 26 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
-| 27 | [To Know You](https://open.spotify.com/track/4PewY42ebXnwFJPZ3CaxPu) | [Melissa Kadas](https://open.spotify.com/artist/3eOzCx1fs3vuE0K2R4x29C) | [To Know You](https://open.spotify.com/album/6ANeh0U9ijUC8W32tIETrp) | 2:28 |
+| 27 | [to know you](https://open.spotify.com/track/4PewY42ebXnwFJPZ3CaxPu) | [Melissa Kadas](https://open.spotify.com/artist/3eOzCx1fs3vuE0K2R4x29C) | [to know you](https://open.spotify.com/album/6ANeh0U9ijUC8W32tIETrp) | 2:28 |
 | 28 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 29 | [Stars](https://open.spotify.com/track/3NRXZ4po5oroePEiRJUjDT) | [Toby Lightman](https://open.spotify.com/artist/3BDyPnpEAyd6kFM1Wgpdgz) | [Stars](https://open.spotify.com/album/3PQrnvkkujO4nHZlAe8SHg) | 3:50 |
 | 30 | [My Bad](https://open.spotify.com/track/46zBC2aMBA9Q5U8Xp8waAu) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [My Bad](https://open.spotify.com/album/7BdC5pkIvOQHsMjpwx5qUa) | 2:31 |

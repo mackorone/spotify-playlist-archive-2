@@ -1152,10 +1152,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 139636,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb"
+    },
+    {
+      "album": {
+        "name": "I Like That",
+        "url": "https://open.spotify.com/album/1c1lKwm8rU3fLjzsqhRtVL"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/6u3XEuLyFIGxEmfPLqpzfs"
     },
     {
       "album": {

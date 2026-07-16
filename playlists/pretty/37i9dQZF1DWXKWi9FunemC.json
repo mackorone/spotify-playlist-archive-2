@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 400022,
+  "num_followers": 400045,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "belief",
-        "url": "https://open.spotify.com/album/2zHvAXT8cLsC0QW96LsSS6"
+        "name": "Jesus Glow",
+        "url": "https://open.spotify.com/album/1XSsNegb55qGzykG9Vhly1"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
         }
       ],
-      "duration_ms": 169982,
-      "name": "belief",
-      "url": "https://open.spotify.com/track/00RJUxqmSh4UFm0NHOCAV2"
+      "duration_ms": 209076,
+      "name": "Jesus Glow",
+      "url": "https://open.spotify.com/track/1pSC8MUpl5ql6GAQz6hCXU"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Jesus Glow",
-        "url": "https://open.spotify.com/album/1XSsNegb55qGzykG9Vhly1"
+        "name": "belief",
+        "url": "https://open.spotify.com/album/2zHvAXT8cLsC0QW96LsSS6"
       },
       "artists": [
         {
-          "name": "Abe Parker",
-          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 209076,
-      "name": "Jesus Glow",
-      "url": "https://open.spotify.com/track/1pSC8MUpl5ql6GAQz6hCXU"
+      "duration_ms": 169982,
+      "name": "belief",
+      "url": "https://open.spotify.com/track/00RJUxqmSh4UFm0NHOCAV2"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 242850,
-      "name": "The Reminder",
-      "url": "https://open.spotify.com/track/6INilJMURz2ptArultdEDl"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Cold Of The Night",
         "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 223858,
       "name": "Cold Of The Night",
       "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 242850,
+      "name": "The Reminder",
+      "url": "https://open.spotify.com/track/6INilJMURz2ptArultdEDl"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Boundary Lines",
-        "url": "https://open.spotify.com/album/0xCVuzODTPP23VgIYoCwI9"
-      },
-      "artists": [
-        {
-          "name": "Kate Gurren",
-          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
-        }
-      ],
-      "duration_ms": 243433,
-      "name": "Boundary Lines",
-      "url": "https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "STRENGTH AND SONG",
         "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 213995,
       "name": "STRENGTH AND SONG",
       "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Boundary Lines",
+        "url": "https://open.spotify.com/album/0xCVuzODTPP23VgIYoCwI9"
+      },
+      "artists": [
+        {
+          "name": "Kate Gurren",
+          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
+        }
+      ],
+      "duration_ms": 243433,
+      "name": "Boundary Lines",
+      "url": "https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Everyday Things",
-        "url": "https://open.spotify.com/album/2hVIe10mQNzdmk3MF5Nu0s"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        }
-      ],
-      "duration_ms": 189642,
-      "name": "Everyday Things",
-      "url": "https://open.spotify.com/track/4hesfRaW8qOa6GGO5iR4mo"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/7usvayUkl3dLssBcnI5TwM"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 142978,
       "name": "Your Lead",
       "url": "https://open.spotify.com/track/0dfFm85NRrRj8XchR4nqEW"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Everyday Things",
+        "url": "https://open.spotify.com/album/2hVIe10mQNzdmk3MF5Nu0s"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        }
+      ],
+      "duration_ms": 189642,
+      "name": "Everyday Things",
+      "url": "https://open.spotify.com/track/4hesfRaW8qOa6GGO5iR4mo"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "His World",
+        "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "duration_ms": 267282,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Every Good Thing",
         "url": "https://open.spotify.com/album/750SKuZ1H4oRSAWy987LT1"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 202893,
       "name": "breakups with best friends",
       "url": "https://open.spotify.com/track/7lFGWkqlouBpadg5ylbh7u"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "His World",
-        "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 267282,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Holy Ground",
-        "url": "https://open.spotify.com/album/61KllsNNfR7b6N4XyKDeBS"
-      },
-      "artists": [
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        }
-      ],
-      "duration_ms": 328077,
-      "name": "Holy Ground",
-      "url": "https://open.spotify.com/track/5wZNss9iqUHm8ZKt1IlIrO"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "If It's Not You",
         "url": "https://open.spotify.com/album/7MjOODZWlFvTUqkPAWeHE7"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 227507,
       "name": "If It's Not You",
       "url": "https://open.spotify.com/track/5AlYFa916kw5mSCPKcA94X"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Holy Ground",
+        "url": "https://open.spotify.com/album/61KllsNNfR7b6N4XyKDeBS"
+      },
+      "artists": [
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "duration_ms": 328077,
+      "name": "Holy Ground",
+      "url": "https://open.spotify.com/track/5wZNss9iqUHm8ZKt1IlIrO"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1923,6 +1923,30 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "KNOWN",
+        "url": "https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS"
+      },
+      "artists": [
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 228279,
+      "name": "KNOWN",
+      "url": "https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
       },
@@ -1935,6 +1959,22 @@
       "duration_ms": 199666,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Don't Stop Praying (Acoustic)",
+        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 259869,
+      "name": "Don't Stop Praying (Acoustic)",
+      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1983,46 +2023,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Don't Stop Praying (Acoustic)",
-        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 259869,
-      "name": "Don't Stop Praying (Acoustic)",
-      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "KNOWN",
-        "url": "https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS"
-      },
-      "artists": [
-        {
-          "name": "Eniola Abioye",
-          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 228279,
-      "name": "KNOWN",
-      "url": "https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -2039,22 +2039,6 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "NO SKIPS (DELUXE)",
-        "url": "https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS"
-      },
-      "artists": [
-        {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
-        }
-      ],
-      "duration_ms": 189921,
-      "name": "heaven knows i tried - acoustic",
-      "url": "https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2079,6 +2063,22 @@
       "duration_ms": 173932,
       "name": "KOKORO",
       "url": "https://open.spotify.com/track/3Pln8paCZTrsAAWzt91R0Z"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "NO SKIPS (DELUXE)",
+        "url": "https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "duration_ms": 189921,
+      "name": "heaven knows i tried - acoustic",
+      "url": "https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "Slow Burn (Take Your Time)",
+        "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
+      },
+      "artists": [
+        {
+          "name": "darthy",
+          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
+        }
+      ],
+      "duration_ms": 183205,
+      "name": "Slow Burn (Take Your Time)",
+      "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Just Hold On",
         "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
       },
@@ -2227,22 +2243,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Slow Burn (Take Your Time)",
-        "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
-      },
-      "artists": [
-        {
-          "name": "darthy",
-          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
-        }
-      ],
-      "duration_ms": 183205,
-      "name": "Slow Burn (Take Your Time)",
-      "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Don't Count Me Out",
         "url": "https://open.spotify.com/album/2FePLiHwZ9hrrX53Zj4sUR"
       },
@@ -2255,22 +2255,6 @@
       "duration_ms": 204161,
       "name": "Don't Count Me Out",
       "url": "https://open.spotify.com/track/0zuJsIOYKAir5r0ZcjtTLf"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "oceans",
-        "url": "https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz"
-      },
-      "artists": [
-        {
-          "name": "xylin",
-          "url": "https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg"
-        }
-      ],
-      "duration_ms": 292250,
-      "name": "oceans",
-      "url": "https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2291,6 +2275,22 @@
       "duration_ms": 293475,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3eRawQl6CXLQY13nq98Pzb"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "oceans",
+        "url": "https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz"
+      },
+      "artists": [
+        {
+          "name": "xylin",
+          "url": "https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg"
+        }
+      ],
+      "duration_ms": 292250,
+      "name": "oceans",
+      "url": "https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "the unknown",
-        "url": "https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 178593,
-      "name": "always will be - acoustic",
-      "url": "https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Up With The Birds",
         "url": "https://open.spotify.com/album/7FH29UTUol8xqMRl1wrAOm"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 164094,
       "name": "Up With The Birds",
       "url": "https://open.spotify.com/track/30EPNX0HMflT7w6IBGV0sA"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "the unknown",
+        "url": "https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 178593,
+      "name": "always will be - acoustic",
+      "url": "https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Years and Years",
-        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
-      },
-      "artists": [
-        {
-          "name": "Northwest Stories",
-          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Years and Years",
-      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Anthem Worship Nights",
         "url": "https://open.spotify.com/album/0dpbfxcFAA5D9UcRr71Qal"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 243000,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6kSvZsBpTP83Vhu7n2X1nh"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Years and Years",
+        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Years and Years",
+      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2667,22 +2667,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3fMgYbhM34UYr1MtXUoJYv"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/6Vpp6LsUPvDZ1ltewfdijO"
       },
       "artists": [
         {
-          "name": "Spencer Kane",
-          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
         },
         {
-          "name": "brooke",
-          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
         }
       ],
-      "duration_ms": 183535,
-      "name": "FREE",
-      "url": "https://open.spotify.com/track/1Zpr3vfsaNmZhO8YcN14pd"
+      "duration_ms": 192168,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/5mRoQMgnniTmh9IITXZnwn"
     }
   ],
   "unique_name": "Christian Coffeehouse",

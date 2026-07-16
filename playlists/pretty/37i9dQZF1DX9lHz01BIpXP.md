@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,505 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,508 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 12 | [Tittewyt](https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Tittewyt](https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx) | 3:38 |
 | 13 | [By Dit.](https://open.spotify.com/track/7KX1JpTYQnz5DM6VKAzPix) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [By Dit.](https://open.spotify.com/album/35OERO7CicxDTR2pk6k3Og) | 2:25 |
 | 14 | [Sticks & Stones](https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Sticks & Stones](https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK) | 2:46 |
-| 15 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
-| 16 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
+| 15 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
+| 16 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
 | 17 | [BIETJIE](https://open.spotify.com/track/6uDb3okEXCoz4UQlwf8b2Q) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC), [Lu\-Win](https://open.spotify.com/artist/28HXIVa5PdKjSUdz1rqu1A) | [BIETJIE](https://open.spotify.com/album/16dnqt6Ze8RqQBSCKxtPpS) | 3:15 |
 | 18 | [Spanga](https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Spanga](https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk) | 3:00 |
 | 19 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 46 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
 | 47 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
 | 48 | [Stalaza Gedrik](https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Stalaza Gedrik](https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7) | 2:29 |
-| 49 | [Exs Die Ou](https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Exs Die Ou](https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4) | 3:06 |
+| 49 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
 | 50 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
 
 Snapshot ID: `AAAAAH2LGxQnz9bJRiuQxiFS+amCP2eg`

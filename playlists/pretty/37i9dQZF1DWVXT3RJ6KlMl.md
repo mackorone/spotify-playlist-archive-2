@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,665 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,681 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 3 | [Jimmy \- Originele Studio Versie](https://open.spotify.com/track/10qcJkRx2MVqnAVKtBquS6) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Hoe Sterk Is De Eenzame Fietser](https://open.spotify.com/album/43GWGeGchyR7Td3pkK2HRG) | 3:56 |
 | 4 | [Jan Klaassen De Trompetter](https://open.spotify.com/track/1ebr7FJjtFRM3hq1qBXoT3) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [In De Uren Van De Middag \(Expanded Edition\)](https://open.spotify.com/album/1HYy0T6EbZVJR2ioeTVRrg) | 3:12 |
 | 5 | [Voor Haar](https://open.spotify.com/track/5qKdMteVok1Rog4vIKz75q) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Frans Halsema 1939\-1984](https://open.spotify.com/album/0440RuDjeEIRAo5bwADBav) | 2:52 |
-| 6 | [Laat Me Alleen](https://open.spotify.com/track/1Z3Ns97nNVgXWGsgwOOQKG) | [Rita Hovink](https://open.spotify.com/artist/7blaRp95WUYbzLU6wXO87m) | [Laat Me Alleen \- 16 Onvergetelijke Liedjes](https://open.spotify.com/album/6RBetjOqVEFWiaMePJCzIf) | 4:41 |
-| 7 | [Het Dorp \- Single Version](https://open.spotify.com/track/60B0BFGuCb5w1aCYmxfwKs) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Liedjes 3 & 4 \- Wim Sonneveld](https://open.spotify.com/album/4PlaU7rWKNmjsM28mvM7a3) | 3:14 |
+| 6 | [Het Dorp \- Single Version](https://open.spotify.com/track/60B0BFGuCb5w1aCYmxfwKs) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Liedjes 3 & 4 \- Wim Sonneveld](https://open.spotify.com/album/4PlaU7rWKNmjsM28mvM7a3) | 3:14 |
+| 7 | [Laat Me Alleen](https://open.spotify.com/track/1Z3Ns97nNVgXWGsgwOOQKG) | [Rita Hovink](https://open.spotify.com/artist/7blaRp95WUYbzLU6wXO87m) | [Laat Me Alleen \- 16 Onvergetelijke Liedjes](https://open.spotify.com/album/6RBetjOqVEFWiaMePJCzIf) | 4:41 |
 | 8 | [Zing \- Vecht \- Huil \- Bid \- Lach \- Werk en Bewonder](https://open.spotify.com/track/6WSFHH1ReDQoeT7bUsufBo) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [De Top 10 Van](https://open.spotify.com/album/2Nc13S1yJXsN9xFO3XJphl) | 4:41 |
 | 9 | [Manuela](https://open.spotify.com/track/5wwi3PFLF74ifd5yDmNRph) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Jacques Herb](https://open.spotify.com/album/2dnBP1VFcWr4S7l6QWEOlO) | 4:59 |
 | 10 | [Als De Rook Om Je Hoofd Is Verdwenen](https://open.spotify.com/track/2jpptvSaztyVA95fvLq5O9) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 3:24 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 51 | [Een Lied Alleen Voor Kinderen](https://open.spotify.com/track/6kbOM1lp2na4rJu0964R3m) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 3:49 |
 | 52 | [Maar Wie Holt Van Mekaar](https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB) | [Gerard Hoeben](https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:46 |
 | 53 | [1948 \(Toen Was Geluk Heel Gewoon\)](https://open.spotify.com/track/12lKjWZSwRMejGWKTrvukB) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:04 |
-| 54 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
-| 55 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
+| 54 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |
+| 55 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
 | 56 | [Hé Kom Aan](https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 2:06 |
-| 57 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
-| 58 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |
+| 57 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
+| 58 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
 | 59 | [Vino \(Waar Blijft De Wijn\)](https://open.spotify.com/track/3AWIhm2aCaB2Nj6w4SH61W) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Lytse Hille Presenteert de 'Ik Kwam Je Tegen' tour](https://open.spotify.com/album/0huX9PWQ3GRT5PfpZhF6CZ) | 3:16 |
 | 60 | [Dag Zuster Ursula](https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:30 |
 

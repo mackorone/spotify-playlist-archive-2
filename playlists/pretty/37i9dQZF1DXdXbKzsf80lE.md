@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,719 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,727 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 35 | [Fingindo Maturidade \- Ao Vivo](https://open.spotify.com/track/3tU3UAasaDA9OixXGC3O33) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 3:09 |
 | 36 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
 | 37 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
-| 38 | [Se quiser é assim \- Ao Vivo](https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe](https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m) | 3:45 |
-| 39 | [Cena de Amor](https://open.spotify.com/track/6RMYuqlTn8777j5arY9zhC) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Cena de Amor](https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y) | 3:42 |
+| 38 | [Cena de Amor](https://open.spotify.com/track/6RMYuqlTn8777j5arY9zhC) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Cena de Amor](https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y) | 3:42 |
+| 39 | [Se quiser é assim \- Ao Vivo](https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe](https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m) | 3:45 |
 | 40 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
 | 41 | [Agora Estou Sofrendo](https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Agora Estou Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/2cjxqUYoTchRHLYeoWGJW8) | 4:18 |
 | 42 | [Jenifer](https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [À Vontade](https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP) | 2:40 |

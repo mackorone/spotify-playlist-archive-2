@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : IDIOT!\tPeled",
-  "num_followers": 34140,
+  "num_followers": 34144,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,18 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
-        "name": "I LOVE YOU (feat. Armani White)",
-        "url": "https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD"
+        "name": "Not My Problem",
+        "url": "https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD"
       },
       "artists": [
         {
           "name": "Noga Erez",
           "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 191950,
-      "name": "I LOVE YOU (feat. Armani White)",
-      "url": "https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh"
+      "duration_ms": 175500,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u"
     },
     {
       "added_at": "2026-07-09 21:00:20",
@@ -503,18 +499,22 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
-        "name": "Not My Problem",
-        "url": "https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD"
+        "name": "I LOVE YOU (feat. Armani White)",
+        "url": "https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD"
       },
       "artists": [
         {
           "name": "Noga Erez",
           "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Not My Problem",
-      "url": "https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u"
+      "duration_ms": 191950,
+      "name": "I LOVE YOU (feat. Armani White)",
+      "url": "https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh"
     },
     {
       "added_at": "2026-07-09 21:00:20",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
-        "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
-        "url": "https://open.spotify.com/album/2NV2v2cOtEWOSeyqkXJVff"
-      },
-      "artists": [
-        {
-          "name": "Mashina",
-          "url": "https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g"
-        }
-      ],
-      "duration_ms": 286467,
-      "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
-      "url": "https://open.spotify.com/track/4Pv9IHO3mgrVFT2USdZGan"
-    },
-    {
-      "added_at": "2026-07-09 21:00:20",
-      "album": {
         "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
         "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 217560,
       "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
+    },
+    {
+      "added_at": "2026-07-09 21:00:20",
+      "album": {
+        "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
+        "url": "https://open.spotify.com/album/2NV2v2cOtEWOSeyqkXJVff"
+      },
+      "artists": [
+        {
+          "name": "Mashina",
+          "url": "https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g"
+        }
+      ],
+      "duration_ms": 286467,
+      "name": "\u05db\u05de\u05e2\u05d8 \u05d5\u05db\u05d0\u05d9\u05dc\u05d5",
+      "url": "https://open.spotify.com/track/4Pv9IHO3mgrVFT2USdZGan"
     },
     {
       "added_at": "2026-07-09 21:00:20",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-07-09 21:00:20",
       "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+    },
+    {
+      "added_at": "2026-07-09 21:00:20",
+      "album": {
         "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
         "url": "https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 210620,
       "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
-    },
-    {
-      "added_at": "2026-07-09 21:00:20",
-      "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
-      },
-      "artists": [
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

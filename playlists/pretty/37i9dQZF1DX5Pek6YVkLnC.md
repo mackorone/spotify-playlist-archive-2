@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. The many sounds of the island 🇵🇷<br/>Cover: RaiNao
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,386 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,375 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 21 | [Cachos](https://open.spotify.com/track/4lXxyNEaO7Uqtan29qj6Py) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Cachos](https://open.spotify.com/album/2gnUOJCs6JkZz0RcMjJ1Z0) | 2:32 |
 | 22 | [cae la noche](https://open.spotify.com/track/6hQuEtWIAbzlA9VLwrXYYD) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Lado A / Lado B IV](https://open.spotify.com/album/5PVroSmmimln14hqW1sRNm) | 3:18 |
 | 23 | [Canvas](https://open.spotify.com/track/2mNMU3hxBXdtOtT0gtAAqt) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [OG Flamez](https://open.spotify.com/artist/1XXvDMGtl1jkaXZq5WPHNa) | [Canvas](https://open.spotify.com/album/1JXG7sWbofHIJVJRqqAbpy) | 3:15 |
-| 24 | [SIEMPRE TE PIENSO](https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [SIEMPRE TE PIENSO](https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH) | 3:19 |
+| 24 | [siempRE te pienso](https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [siempRE te pienso](https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH) | 3:19 |
 | 25 | [GANTEL y BELLAKz](https://open.spotify.com/track/7cVS9dvpA6p2dIVibiGaso) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:34 |
 | 26 | [DELULU](https://open.spotify.com/track/0um2dVYJbQSSBQmjozYmNE) | [Baby Yami](https://open.spotify.com/artist/3A1tF3YZ0Xa5IBo3NG32k4) | [DELULU](https://open.spotify.com/album/7pRvj5fGNwkajSwlV7rW80) | 2:29 |
 | 27 | [Psicosis](https://open.spotify.com/track/7y0WM8UQzHa0lyZDHwv6Su) | [Kenloid](https://open.spotify.com/artist/4HVh1drAYGKEiYVSR4NDaP), [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan) | [Psicosis](https://open.spotify.com/album/1aM7MStBQdBFwR3BVycl6p) | 3:25 |

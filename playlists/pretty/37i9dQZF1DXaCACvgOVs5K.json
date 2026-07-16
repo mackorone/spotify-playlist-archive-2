@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 897708,
+  "num_followers": 897953,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "I Never Knew",
         "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 231680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Watch Out Now",
-        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        }
-      ],
-      "duration_ms": 163890,
-      "name": "Watch Out Now",
-      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Marvellous",
         "url": "https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 210561,
       "name": "Marvellous",
       "url": "https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Watch Out Now",
+        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        }
+      ],
+      "duration_ms": 163890,
+      "name": "Watch Out Now",
+      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "Just Like That EP",
+        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 203909,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "Fold",
         "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 357466,
       "name": "Endlessly (feat. BEA1991)",
       "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Just Like That EP",
-        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1755,106 +1755,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Nexus 002",
-        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
-      },
-      "artists": [
-        {
-          "name": "Greggio",
-          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
-        }
-      ],
-      "duration_ms": 213769,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/44vqflfNrPLnAW1Y5B1e4c"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Mind, Body & Soul",
-        "url": "https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        },
-        {
-          "name": "Tristan Henry",
-          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Mind, Body & Soul",
-      "url": "https://open.spotify.com/track/3R4SI5aMIiUhNDGOAOQk38"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Expressions (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4"
-      },
-      "artists": [
-        {
-          "name": "Rio Tashan",
-          "url": "https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 180962,
-      "name": "Expressions (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 197829,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/55aOqFOHx3O10TU3bYos05"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Reese & Santonio",
-          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7oPK4HB8wAr3PIcxTgJ8mQ"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Activated (I Just Wanna)",
         "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
       },
@@ -1879,6 +1779,106 @@
       "duration_ms": 155096,
       "name": "Activated (I Just Wanna)",
       "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Mind, Body & Soul",
+        "url": "https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Mind, Body & Soul",
+      "url": "https://open.spotify.com/track/3R4SI5aMIiUhNDGOAOQk38"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Nexus 002",
+        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "duration_ms": 213769,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/44vqflfNrPLnAW1Y5B1e4c"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 197829,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Expressions (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4"
+      },
+      "artists": [
+        {
+          "name": "Rio Tashan",
+          "url": "https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 180962,
+      "name": "Expressions (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/55aOqFOHx3O10TU3bYos05"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Reese & Santonio",
+          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7oPK4HB8wAr3PIcxTgJ8mQ"
     },
     {
       "added_at": "2026-07-02 23:00:16",

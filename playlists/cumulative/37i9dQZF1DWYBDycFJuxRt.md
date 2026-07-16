@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/347449">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/347594">連動記事</a>をSPICEでチェック!
 
-15,433 songs - 40 day 22 hr 41 min
+15,435 songs - 40 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [2026/6/24 SUPER BEAVERがニューアルバム『人生』をリリース！indigo la Endのインタビューも！LEXのニューアルバム、jizueが Shing02を迎えた新曲もピックアップ！！](https://open.spotify.com/episode/4lCSiMlUMcyZME0fqY0J9j) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 48:23 | 2026-06-24 | 2026-07-01 |
 | [2026/6/3 Aoooがニューアルバム『Rooom』をリリースしてカバーに！Early Noiseアーティストでもあるハク。の新曲、スーパー登山部、Julia Takadaのアルバムも！山内総一郎とKREVAによるコラボ曲もピックアップ！楽音からメッセージも到着！](https://open.spotify.com/episode/1FBAfGKMz4OCe1IgrLnPT9) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 25:47 | 2026-06-03 | 2026-06-10 |
 | [2026/7/1 アイナ・ジ・エンドが新曲をリリース！BE:FIRST、名誉伝説、韓国のバンドSilica Gelの新曲もピックアップ！民謡クルセイダーズのニューアルバムも！](https://open.spotify.com/episode/4R3g7xFJuRPvakDFg9ph0N) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:16 | 2026-07-01 | 2026-07-08 |
+| [2026/7/15 Mrs\. GREEN APPLEが新曲をリリース！MILLENNIUM PARADE常田大希からメッセージが到着！YAOへのインタビューも！Vaundy、Bonbero、AKASAKI、Ginger Rootのニューリリースもピックアップ！](https://open.spotify.com/episode/6J7GwQuHUniEIvh80Bk8ZV) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 49:05 | 2026-07-15 |  |
 | [2026/7/8 YAOがカバー！TVアニメ『正反対な君と僕』特集！主題歌を務める7co、Mega Shinnosuke、音楽を担当するtofubeatsからメッセージが到着！新プロジェクト・Beach Boysの新曲、kurayamisakaの新曲、注目の新世代アーティストCHITAAの新曲、亀梨和也の1stアルバムもピックアップ！](https://open.spotify.com/episode/3CyxLF0a3TutZdba5x1NVU) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:29 | 2026-07-08 | 2026-07-15 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-14 | 2026-04-22 |
@@ -5845,6 +5846,7 @@
 | [motion](https://open.spotify.com/track/1vwzKZBHwW73JELX5LLQH3) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [motion](https://open.spotify.com/album/5GE6ZQHIvhQf6I071OhCe3) | 2:42 | 2026-07-14 |  |
 | [Motivation](https://open.spotify.com/track/6KitQ2zHcA2Iek61XosIFS) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [Bring it Back](https://open.spotify.com/album/7BdccscF8qqsDCb6LOXzUA) | 3:01 | 2026-01-14 | 2026-01-21 |
 | [Motto](https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/0cHcsmjduyUcemJtwXUsLj) | 3:13 | 2026-05-19 | 2026-05-27 |
+| [MOTTO](https://open.spotify.com/track/0kelq1mm2z3GhNFq0iWD5e) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [MOTTO](https://open.spotify.com/album/0JMvEdAXyGw8eHmMUol8Nr) | 3:06 | 2026-07-14 |  |
 | [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 | 2024-10-15 | 2024-10-23 |
 | [MOUNTAIN D](https://open.spotify.com/track/00qVXZrq0j1Gk6T3MvpOgH) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [Dos Atomos](https://open.spotify.com/album/3VWzxswPZ8RBDuVCcHqBO2) | 3:57 | 2024-06-04 | 2024-06-12 |
 | [Mourning](https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX) | 2:27 | 2023-05-24 | 2023-05-31 |
@@ -9271,7 +9273,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 5](https://open.spotify.com/track/0kelq1mm2z3GhNFq0iWD5e) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [MOTTO](https://open.spotify.com/album/0JMvEdAXyGw8eHmMUol8Nr) | 0:00 | 2026-07-14 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
@@ -15272,6 +15273,7 @@
 | [霹靂](https://open.spotify.com/track/4BQDhLoPyYjRSAPcojXUKC) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [西野恵未](https://open.spotify.com/artist/24RkBHI4XkYt7o3nFrV6Em), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [霹靂](https://open.spotify.com/album/1ti4yB3dW6IsVE8k6ftCUw) | 4:16 | 2023-08-01 | 2023-08-03 |
 | [青](https://open.spotify.com/track/5C536y5mcvqaE9hVNRmwDn) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [碧い海](https://open.spotify.com/album/5gYA6u1KUCExpmr9PYl45Z) | 2:52 | 2025-12-09 | 2025-12-17 |
 | [青々](https://open.spotify.com/track/005baC6qFCVxEj6dpbhUoA) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [青々](https://open.spotify.com/album/4ekpwUPq47WQ4pY4eH1w51) | 3:56 | 2025-07-22 | 2025-07-30 |
+| [青いソファの上で](https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [青いソファの上で](https://open.spotify.com/album/4nJJcD6J5InRZrFzIX34bF) | 3:07 | 2026-07-14 |  |
 | [青いワンピース](https://open.spotify.com/track/14AjzGgLwDhnK16wi5sn6V) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 ＿ 魚](https://open.spotify.com/album/2DJYhop9XRweeinNLK37YJ) | 2:45 | 2023-10-03 | 2023-10-11 |
 | [青い夏](https://open.spotify.com/track/1qBhIAXvFULjaawGIFjztK) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [青い夏](https://open.spotify.com/album/2d4SbdHCcwuZzOupXsEPbB) | 3:57 | 2024-06-04 | 2024-06-12 |
 | [青い太陽](https://open.spotify.com/track/0A1OyoslP1a4zTbsrvazw4) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青い太陽](https://open.spotify.com/album/5U8zjppA4A8pSzokUpK9tk) | 2:51 | 2025-06-03 | 2025-06-11 |

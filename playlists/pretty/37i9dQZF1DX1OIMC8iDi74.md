@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap ❤️‍🔥 with Lizdek
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,062 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,014 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 80 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 81 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 82 | [ALLNIGHTER](https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [ALLNIGHTER](https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp) | 2:48 |
-| 83 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
-| 84 | [move! \(that body\)](https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [CHARIOT](https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA) | 2:24 |
+| 83 | [move! \(that body\)](https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [CHARIOT](https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA) | 2:24 |
+| 84 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
 | 85 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
-| 86 | [STAB UP \(feat\. Shakewell\)](https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [DOOM](https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB) | 4:11 |
-| 87 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
+| 86 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
+| 87 | [STAB UP \(feat\. Shakewell\)](https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [DOOM](https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB) | 4:11 |
 | 88 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
 | 89 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 90 | [Lucid](https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Aida Sofia](https://open.spotify.com/artist/0QxPOCNkDNs3qaA1p5PzQu) | [Jesus Loves Trap Music](https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r) | 3:08 |
 | 91 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 92 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
-| 93 | [BACKSPIN](https://open.spotify.com/track/00n0pSDChqnHu56HE0hDP9) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [BACKSPIN](https://open.spotify.com/album/0sv29XhXrVeHSgs7CFLNMa) | 3:11 |
-| 94 | [SAVE U](https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA) | [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAVE U](https://open.spotify.com/album/1p2cM5KI8zCFBcKwzwdNlM) | 2:41 |
+| 93 | [SAVE U](https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA) | [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAVE U](https://open.spotify.com/album/1p2cM5KI8zCFBcKwzwdNlM) | 2:41 |
+| 94 | [BACKSPIN](https://open.spotify.com/track/00n0pSDChqnHu56HE0hDP9) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [BACKSPIN](https://open.spotify.com/album/0sv29XhXrVeHSgs7CFLNMa) | 3:11 |
 | 95 | [Afterglow](https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Snazur EP](https://open.spotify.com/album/3uiXCFAP0jWVVNvnEZLrmV) | 2:18 |
 | 96 | [Thumper](https://open.spotify.com/track/6MhzIGXeWkcEuRJ627wQXj) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Thumper](https://open.spotify.com/album/4J78Kjh86mCTE1VH6rttbi) | 2:19 |
 | 97 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 |
-| 98 | [FLY](https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FLY](https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs) | 3:08 |
-| 99 | [redSKY](https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld) | 2:13 |
+| 98 | [redSKY](https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld) | 2:13 |
+| 99 | [FLY](https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FLY](https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs) | 3:08 |
 | 100 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
 
 Snapshot ID: `AAAAAE2TDvLkQ0uV+7XMm7Ot2PqE2vTl`

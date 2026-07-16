@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Bruce Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,353 likes - 59 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,370 likes - 59 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

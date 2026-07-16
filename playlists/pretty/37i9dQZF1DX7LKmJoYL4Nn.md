@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,135 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,136 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 28 | [CELEBRATE!!](https://open.spotify.com/track/4uRZvH0o2HyGswFQOWDA23) | [Trickstar](https://open.spotify.com/artist/2LZHEtIelyVc5j5StCwh4m), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Trickstar 「CELEBRATE!!」あんさんぶるスターズ！！ ESアイドルソング season6](https://open.spotify.com/album/1O2mVKwhzQ4kVeZx4Hd8s3) | 4:06 |
 | 29 | [ベリイ・ベリイ・スイート・ホワイト♡](https://open.spotify.com/track/7BvTk4mj3sjBcshBHFRk7I) | [Special for Princess!](https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3) | [ベリイ・ベリイ・スイート・ホワイト♡](https://open.spotify.com/album/1lQL9w0VSAmShsqm18AjsF) | 3:03 |
 | 30 | [Foolish Alien](https://open.spotify.com/track/1MmoBTdCdBAWMTCq0TkTDN) | [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:15 |
-| 31 | [催花雨の片道切符](https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h) | [Lancetta](https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Lancetta「催花雨の片道切符」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I) | 4:53 |
-| 32 | [SunnyTrip Summer](https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [ALKALOID「SunnyTrip Summer」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy) | 3:31 |
+| 31 | [SunnyTrip Summer](https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [ALKALOID「SunnyTrip Summer」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy) | 3:31 |
+| 32 | [催花雨の片道切符](https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h) | [Lancetta](https://open.spotify.com/artist/3W674s5RmqmX7oYhXYeMki), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Lancetta「催花雨の片道切符」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I) | 4:53 |
 | 33 | [Dear World \- Short ver.](https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX) | [MELLOW DEAR US](https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h) | [Dear World \(Short ver.\)](https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV) | 2:25 |
 | 34 | [JUMPIN' LUCK BEAT](https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh) | [Ra\*bits](https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Ra\*bits 「JUMPIN' LUCK BEAT」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz) | 3:47 |
 | 35 | [OVERFLOW LIGHT UP!!!!!](https://open.spotify.com/track/2w9L5XKjmscu51QsSmimOb) | [流星隊](https://open.spotify.com/artist/67XI85b3PsLJyqfAqJe1Yp), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [流星隊「OVERFLOW LIGHT UP!!!!!」あんさんぶるスターズ！！ ESアイドルソング season6](https://open.spotify.com/album/01dNmR1qY5jKpsvNKqh322) | 3:47 |

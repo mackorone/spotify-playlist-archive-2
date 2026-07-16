@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,347 likes - 1,748 songs - 4 day 1 hr 30 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,351 likes - 1,748 songs - 4 day 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,13 +110,13 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 100 | [Still I Love Him](https://open.spotify.com/track/1PbuDuVr1YqxVTk3jv4LTl) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Still I Love Him](https://open.spotify.com/album/0ENfPSVn8uvUIytzWFwvat) | 6:16 |
 | 101 | [Swamp](https://open.spotify.com/track/6W2LJGwqHF4uuYFQEDS8Vj) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I) | 2:54 |
 | 102 | [US 54](https://open.spotify.com/track/3JHAJcMUl5J0eAS9G6zgRU) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [i’m DADA](https://open.spotify.com/album/4UW8U1w14P1DVmjiy6GbxN) | 4:10 |
-| 103 | [La La Land 2](https://open.spotify.com/track/7hiVDUkcBf3kr91rkc3wpK) | [The Intelligence](https://open.spotify.com/artist/6BvibnsgeiKxzkBkSCwGiM) | [La La Land 2](https://open.spotify.com/album/5mVnNlvgporFeh2L2sz1Jf) | 6:40 |
-| 104 | [Auratones of Desire](https://open.spotify.com/track/0OPv3zc4B5HzcxvD3KqTxz) | [Frances Chang](https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe) | [Auratones of Desire](https://open.spotify.com/album/1xbSeU0EhT7oi1igGgI9Fh) | 3:31 |
-| 105 | [Fear As A Gift](https://open.spotify.com/track/6QUXyASWPghbDjKWIIBZ27) | [The Easy Eight](https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo) | [Fear As A Gift](https://open.spotify.com/album/0C4nP3Y8lSr6aDs21pCOcj) | 2:12 |
-| 106 | [Anti\-pop](https://open.spotify.com/track/3JcQljp6ng4aPv17V1XKmz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [The Audio Of Being](https://open.spotify.com/album/0UYOqMcFOC8Pm4PPqgkUK6) | 4:08 |
-| 107 | [Pretty Little Lifers](https://open.spotify.com/track/21J0Y2u3xYLXGzNpSWqTj3) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [1331](https://open.spotify.com/album/5z015dWdJkUF0ngJM9s1O4) | 1:23 |
-| 108 | [Social Pressure](https://open.spotify.com/track/0TBBi9AdCuzpA1MuTrOk1f) | [Crazy Clue](https://open.spotify.com/artist/3E1x5YTXImUHE6DHbAyYLx) | [Social Pressure](https://open.spotify.com/album/5ZcVFKcRUkbBP8OFdGt9H6) | 2:04 |
-| 109 | [Diamond Dreams](https://open.spotify.com/track/7lb4Xs6yXjyMdYp3qO04rs) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Pleasure's All Yours](https://open.spotify.com/album/7rDNVzOacQatkyJKykkd5r) | 2:52 |
+| 103 | [Auratones of Desire](https://open.spotify.com/track/0OPv3zc4B5HzcxvD3KqTxz) | [Frances Chang](https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe) | [Auratones of Desire](https://open.spotify.com/album/1xbSeU0EhT7oi1igGgI9Fh) | 3:31 |
+| 104 | [Anti\-pop](https://open.spotify.com/track/3JcQljp6ng4aPv17V1XKmz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [The Audio Of Being](https://open.spotify.com/album/0UYOqMcFOC8Pm4PPqgkUK6) | 4:08 |
+| 105 | [Pretty Little Lifers](https://open.spotify.com/track/21J0Y2u3xYLXGzNpSWqTj3) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [1331](https://open.spotify.com/album/5z015dWdJkUF0ngJM9s1O4) | 1:23 |
+| 106 | [Social Pressure](https://open.spotify.com/track/0TBBi9AdCuzpA1MuTrOk1f) | [Crazy Clue](https://open.spotify.com/artist/3E1x5YTXImUHE6DHbAyYLx) | [Social Pressure](https://open.spotify.com/album/5ZcVFKcRUkbBP8OFdGt9H6) | 2:04 |
+| 107 | [Diamond Dreams](https://open.spotify.com/track/7lb4Xs6yXjyMdYp3qO04rs) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Pleasure's All Yours](https://open.spotify.com/album/7rDNVzOacQatkyJKykkd5r) | 2:52 |
+| 108 | [Fear As A Gift](https://open.spotify.com/track/6QUXyASWPghbDjKWIIBZ27) | [The Easy Eight](https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo) | [Fear As A Gift](https://open.spotify.com/album/0C4nP3Y8lSr6aDs21pCOcj) | 2:12 |
+| 109 | [La La Land 2](https://open.spotify.com/track/7hiVDUkcBf3kr91rkc3wpK) | [The Intelligence](https://open.spotify.com/artist/6BvibnsgeiKxzkBkSCwGiM) | [La La Land 2](https://open.spotify.com/album/5mVnNlvgporFeh2L2sz1Jf) | 6:40 |
 | 110 | [Saturday Sun](https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Saturday Sun](https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7) | 3:54 |
 | 111 | [Magical Thinking](https://open.spotify.com/track/2Qb7MEZRVY7ji0ZjkdQuqC) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Magical Thinking](https://open.spotify.com/album/1xYlqbZxWCXIL8oGiLTItF) | 3:08 |
 | 112 | [Bring Me Back to Life](https://open.spotify.com/track/6dryV7ETAg7yC1NZzYxPH2) | [Detalji](https://open.spotify.com/artist/50R4ZeEWAEMtF89K0Q2mIz) | [Bring Me Back to Life](https://open.spotify.com/album/49VbbA3ZgG5rlJZw0o29jS) | 2:38 |
@@ -1757,4 +1757,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1747 | [i can't see enough of you](https://open.spotify.com/track/7oQqne3UbHEtkNA9Mwf7yv) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [i can't see enough of you](https://open.spotify.com/album/4eqqpCisNuftclFSmMHADa) | 3:04 |
 | 1748 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABKtAgvF/GhyE/yM5jKl0qWh00XU8gw`
+Snapshot ID: `AABKtvI10o5lbwae0rkLSQNfKsKH9G4G`

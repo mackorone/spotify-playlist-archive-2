@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,409 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,396 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 12 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
 | 13 | [Flip The Switch x 4orttune](https://open.spotify.com/track/46fZ0dLw6zsMi7UCtk9YTC) | [Take Flight](https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG), [4orttune](https://open.spotify.com/artist/3YLy0CeBiLqr1PWAk6pnMp), [DON!](https://open.spotify.com/artist/6o6tpGl2HzLCQ0hGdRndQ5) | [Flip The Switch x 4orttune](https://open.spotify.com/album/67cAgd7kbOkG4v6rWxrKOF) | 1:15 |
 | 14 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
-| 15 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
+| 15 | [Organic Motion \(feat\. DJ.Fresh\)](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion \(feat\. DJ.Fresh\)](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
 | 16 | [Making Promises](https://open.spotify.com/track/4kVLd059k0S5WGNo8ULoZh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Making Promises](https://open.spotify.com/album/7EFfR2LfIfXxSoIPQZ8b8T) | 2:24 |
 | 17 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
 | 18 | [Radio](https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Radio](https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR) | 2:39 |

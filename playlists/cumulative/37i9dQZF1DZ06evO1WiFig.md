@@ -4,7 +4,7 @@
 
 > This is Aldous Harding\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 56 min
+43 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 | 2026-05-16 | 2026-05-19 |
 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 | 2026-05-16 |  |
 | [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2026-05-16 |  |
+| [Leathery Whip](https://open.spotify.com/track/3o7dptCQLKU20zdkA132ZQ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 4:00 | 2026-07-16 |  |
 | [Living The Classics](https://open.spotify.com/track/1KB6tYbLki88BjfsnPLuyq) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 2:44 | 2026-05-16 |  |
 | [No Front Teeth](https://open.spotify.com/track/2wtnykJJrH4ZMDnGu4ncou) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Glory](https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD) | 4:46 | 2026-05-16 |  |
 | [Nobody Gets What They Want Anymore](https://open.spotify.com/track/38lsn88uRuVnI3KDScU74f) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Make Way For Love](https://open.spotify.com/album/4NWOzoaQPO3ccUfbnA5Dcg) | 4:59 | 2026-06-02 |  |
@@ -33,7 +34,7 @@
 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 | 2026-05-16 |  |
 | [San Francisco](https://open.spotify.com/track/09rHthpRrPxjwXZdurBpfi) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:42 | 2026-05-16 | 2026-06-21 |
 | [Small Bones of Courage](https://open.spotify.com/track/2mhiBVuP20RnLXNQqt7kOj) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 6:15 | 2026-05-16 |  |
-| [Staring at the Henry Moore](https://open.spotify.com/track/62C2WwYSYXcr26MlDvKObU) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:19 | 2026-05-16 |  |
+| [Staring at the Henry Moore](https://open.spotify.com/track/62C2WwYSYXcr26MlDvKObU) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:19 | 2026-05-16 | 2026-07-16 |
 | [Stop Your Tears](https://open.spotify.com/track/5H5fiZ0h9ndRn1IDqYyKRw) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:38 | 2026-05-16 |  |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2026-05-16 |  |
 | [Three Hours](https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9) | 4:32 | 2026-05-16 |  |

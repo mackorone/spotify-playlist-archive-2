@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ayogya 2",
-  "num_followers": 70668,
+  "num_followers": 70683,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFPVatZP42j7adoIYQiER+iWz4j",
+  "snapshot_id": "AAAAAEKg/zUtGTQvJmVC5xfncPJxtbX6",
   "tracks": [
     {
       "added_at": "2026-07-09 07:08:49",
@@ -221,6 +221,30 @@
       "url": "https://open.spotify.com/track/5gliJLCa5VSlQ7tjsCbaZS"
     },
     {
+      "added_at": "2026-07-15 11:16:40",
+      "album": {
+        "name": "Bhoorame",
+        "url": "https://open.spotify.com/album/44HW8ArbVWmggl97IbMPBq"
+      },
+      "artists": [
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Harsh",
+          "url": "https://open.spotify.com/artist/1FMR5muimRkgF3zwGH8kjP"
+        }
+      ],
+      "duration_ms": 225204,
+      "name": "Bhoorame",
+      "url": "https://open.spotify.com/track/0ZIhN1UhpPHNJrA1VRk9UT"
+    },
+    {
       "added_at": "2026-07-03 16:54:26",
       "album": {
         "name": "Preethi Kathe",
@@ -235,6 +259,30 @@
       "duration_ms": 180000,
       "name": "Preethi Kathe",
       "url": "https://open.spotify.com/track/1XQsVRqsqtmeh8YfmzaNpa"
+    },
+    {
+      "added_at": "2026-07-15 11:13:38",
+      "album": {
+        "name": "Radheykkum Kannanukkum (From \"Rukmini Radhakrishna\")",
+        "url": "https://open.spotify.com/album/5zXrUNWCKwjG9b38gABwTt"
+      },
+      "artists": [
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        },
+        {
+          "name": "Sunaad Gowtham",
+          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
+        },
+        {
+          "name": "K Kalyan",
+          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
+        }
+      ],
+      "duration_ms": 218076,
+      "name": "Radheykkum Kannanukkum (From \"Rukmini Radhakrishna\")",
+      "url": "https://open.spotify.com/track/4XoiDL2XW759qf3qiaG36v"
     },
     {
       "added_at": "2026-07-14 05:34:31",
@@ -1767,50 +1815,6 @@
       "duration_ms": 194196,
       "name": "Yayathi Yayathi (From \"Moda Kavida Vaatavarana\")",
       "url": "https://open.spotify.com/track/2BYMzTceL3ZD3TmIFeNbv9"
-    },
-    {
-      "added_at": "2026-04-01 12:47:01",
-      "album": {
-        "name": "Maathu Madhura (From \"Elra Kaaleliyatte Kaala\")",
-        "url": "https://open.spotify.com/album/5KEOK8O3FdWOByRT7XShIt"
-      },
-      "artists": [
-        {
-          "name": "Praveen-Pradeep",
-          "url": "https://open.spotify.com/artist/2Nh3McF50LBstOocdkW6m9"
-        },
-        {
-          "name": "Darshan Narayan",
-          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
-        },
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        }
-      ],
-      "duration_ms": 192994,
-      "name": "Maathu Madhura (From \"Elra Kaaleliyatte Kaala\")",
-      "url": "https://open.spotify.com/track/1rkbRoL8M5OHiri4wmwIFJ"
-    },
-    {
-      "added_at": "2026-04-01 12:38:11",
-      "album": {
-        "name": "Ningannai (From \"Lo Naveena\")",
-        "url": "https://open.spotify.com/album/66zoSozfpZeNLDfcSC0bSZ"
-      },
-      "artists": [
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        },
-        {
-          "name": "Andani Himabashi",
-          "url": "https://open.spotify.com/artist/7iCrYWJsaat5VilSqkYDk3"
-        }
-      ],
-      "duration_ms": 224594,
-      "name": "Ningannai (From \"Lo Naveena\")",
-      "url": "https://open.spotify.com/track/0AUJnq7G50GDWoROO1B7qr"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! 008RACCA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,780 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,779 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ZAPATOS](https://open.spotify.com/track/05y0gZhdZPsOCwSUIv1nXb) | [008RACCA](https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM) | [ZAPATOS](https://open.spotify.com/album/5iLzs8Od50z0LnxT473EDa) | 2:33 |
 | 2 | [Overdose](https://open.spotify.com/track/5WfksmJFwtlrKRFvjRXj4S) | [Irving O.D](https://open.spotify.com/artist/2KHb42WxjhX5EbLrXi2RmB), [Cannabeats](https://open.spotify.com/artist/015XtOmFfkk7YTNfxh7Mv0), [Wend](https://open.spotify.com/artist/3ExS6GHsHORXBWJenjiuk5), [Yxung lost](https://open.spotify.com/artist/3s2MFhxCSKuxS1e3QZaZi9) | [Overdose](https://open.spotify.com/album/4RJSMonVjz3emASXcg37Lr) | 5:00 |
 | 3 | [Soy la Voz](https://open.spotify.com/track/5B6NvNw7dRiIiZ5xNlSuO9) | [Oscar Lee](https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz) | [Soy la Voz](https://open.spotify.com/album/5Rj0eSZ75Scc5RsVOXmaxK) | 1:58 |
-| 4 | [Chambonean](https://open.spotify.com/track/28sXa6bJgr6TCijFG4ZwVW) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Token'one](https://open.spotify.com/artist/23dkmyBb5NdKdjokpPjT9l), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Chambonean](https://open.spotify.com/album/0nr5Ulgvh8se8YaIiRbt9y) | 5:15 |
+| 4 | [Chambonean](https://open.spotify.com/track/28sXa6bJgr6TCijFG4ZwVW) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Token'one](https://open.spotify.com/artist/23dkmyBb5NdKdjokpPjT9l), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Caésar](https://open.spotify.com/artist/1prMbHuzKPLOhFlRFZm6F5) | [Chambonean](https://open.spotify.com/album/0nr5Ulgvh8se8YaIiRbt9y) | 5:15 |
 | 5 | [Tu Forma De Ser](https://open.spotify.com/track/00R9KAwLYf98AfPSv3Fif7) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Itchy & Buco Sounds](https://open.spotify.com/artist/4KiWwlk4Uf1vcWi3txXLgy) | [Tu Forma De Ser](https://open.spotify.com/album/57suvSRBDH0W4Jp9XjK03S) | 2:41 |
 | 6 | [Ice Ice Hielo Hielo](https://open.spotify.com/track/7tSgITjCIvCJHn4HUoqhVE) | [Micky Ricón](https://open.spotify.com/artist/58mvd9iktPkPZrbbYX9Fmr), [Liriko Wan](https://open.spotify.com/artist/6khtPUv6tk5DBepyI3Urq6) | [Ice Ice Hielo Hielo](https://open.spotify.com/album/0X5CL9HVX7OuReysosxtyI) | 3:01 |
 | 7 | [Baldosas](https://open.spotify.com/track/1gWPUnEChrbSPLjTpbPbLa) | [Trinkiboy](https://open.spotify.com/artist/71qbTjR2TlaBTMTPwkEhYG), [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [TRINKIWORLD](https://open.spotify.com/album/2i2rSbSi1rParkTQhLhmTx) | 3:20 |

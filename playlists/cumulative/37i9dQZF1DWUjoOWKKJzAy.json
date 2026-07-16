@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Elite Squad",
+        "url": "https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG"
+      },
+      "artists": [
+        {
+          "name": "Fausto Fawcett e Os Rob\u00f4s Ef\u00eameros",
+          "url": "https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "K\u00e1tia Fl\u00e1via, a Godiva de Iraj\u00e1",
+      "url": "https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA"
+    },
+    {
+      "album": {
         "name": "iCollection Pop Brasil",
         "url": "https://open.spotify.com/album/2gNwKYJJARenvtgdiq7yhG"
       },
@@ -792,24 +810,6 @@
       "duration_ms": 249146,
       "name": "K\u00e1tia Fl\u00e1via, a Godiva de Iraj\u00e1",
       "url": "https://open.spotify.com/track/5CJi4BG1lGSXwSx3UI1u5Q"
-    },
-    {
-      "album": {
-        "name": "Elite Squad",
-        "url": "https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG"
-      },
-      "artists": [
-        {
-          "name": "Fausto Fawcett e Os Rob\u00f4s Ef\u00eameros",
-          "url": "https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6"
-        }
-      ],
-      "date_added": "2020-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249146,
-      "name": "K\u00e1tia Fl\u00e1via, a Godiva de Iraj\u00e1",
-      "url": "https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109971,
+  "num_followers": 109981,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Was Je Nog Maar Hier (Radio Edit)",
-        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "Was Je Nog Maar Hier - Radio Edit",
-      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Juppige Geintjes",
         "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 177623,
       "name": "Tis Oke Mop",
       "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Was Je Nog Maar Hier (Radio Edit)",
+        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Was Je Nog Maar Hier - Radio Edit",
+      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1212,7 +1212,7 @@
           "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         },
         {
-          "name": "Mula B",
+          "name": "Mula",
           "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         },
         {
@@ -1308,7 +1308,7 @@
           "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
         },
         {
-          "name": "Mula B",
+          "name": "Mula",
           "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         }
       ],
@@ -1392,7 +1392,7 @@
           "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
         },
         {
-          "name": "Mula B",
+          "name": "Mula",
           "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         },
         {
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/4iaiyS8tLR6ub2WlSMd9SE"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 168595,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/6yCcR2dLHJF11tJtOJv2pU"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gate 16",
         "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 180983,
       "name": "Gass (feat. Jason Futuristic & BKO)",
       "url": "https://open.spotify.com/track/4mBNcduSWagbQJk8I14pGW"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/4iaiyS8tLR6ub2WlSMd9SE"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 168595,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6yCcR2dLHJF11tJtOJv2pU"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2108,7 +2108,7 @@
           "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
         },
         {
-          "name": "Mula B",
+          "name": "Mula",
           "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         }
       ],

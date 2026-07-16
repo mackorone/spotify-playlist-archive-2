@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73853,
+  "num_followers": 73851,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAADaXGeqw9kkHtP41bKF0yK8",
+  "snapshot_id": "alV8AAAAAADa27eM9f+P9gXnaxN8S1nj",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 212137,
-      "name": "Aos Teus P\u00e9s",
-      "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 205868,
       "name": "Vaso de Alabastro",
       "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 212137,
+      "name": "Aos Teus P\u00e9s",
+      "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 228948,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 416194,
       "name": "Jesus, Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 228948,
-      "name": "Algu\u00e9m",
-      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 231230,
-      "name": "Toca-me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -795,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 231230,
+      "name": "Toca-me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279614,
+      "name": "Enquanto Eu Chorava",
+      "url": "https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yahweh (Ao Vivo)",
         "url": "https://open.spotify.com/album/1LXAClsJedInbsmLFpr8rJ"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 321023,
       "name": "Yahweh (Ao Vivo)",
       "url": "https://open.spotify.com/track/0ky2Ef7jad2YcgqcPKMdqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279614,
-      "name": "Enquanto Eu Chorava",
-      "url": "https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ"
     },
     {
       "added_at": null,

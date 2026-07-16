@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60347,
+  "num_followers": 60351,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABKtAgvF/GhyE/yM5jKl0qWh00XU8gw",
+  "snapshot_id": "AABKtvI10o5lbwae0rkLSQNfKsKH9G4G",
   "tracks": [
     {
       "added_at": "2026-07-14 16:06:34",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "La La Land 2",
-        "url": "https://open.spotify.com/album/5mVnNlvgporFeh2L2sz1Jf"
-      },
-      "artists": [
-        {
-          "name": "The Intelligence",
-          "url": "https://open.spotify.com/artist/6BvibnsgeiKxzkBkSCwGiM"
-        }
-      ],
-      "duration_ms": 400906,
-      "name": "La La Land 2",
-      "url": "https://open.spotify.com/track/7hiVDUkcBf3kr91rkc3wpK"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
         "name": "Auratones of Desire",
         "url": "https://open.spotify.com/album/1xbSeU0EhT7oi1igGgI9Fh"
       },
@@ -1691,22 +1675,6 @@
       "duration_ms": 211227,
       "name": "Auratones of Desire",
       "url": "https://open.spotify.com/track/0OPv3zc4B5HzcxvD3KqTxz"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Fear As A Gift",
-        "url": "https://open.spotify.com/album/0C4nP3Y8lSr6aDs21pCOcj"
-      },
-      "artists": [
-        {
-          "name": "The Easy Eight",
-          "url": "https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo"
-        }
-      ],
-      "duration_ms": 132466,
-      "name": "Fear As A Gift",
-      "url": "https://open.spotify.com/track/6QUXyASWPghbDjKWIIBZ27"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -1771,6 +1739,38 @@
       "duration_ms": 172733,
       "name": "Diamond Dreams",
       "url": "https://open.spotify.com/track/7lb4Xs6yXjyMdYp3qO04rs"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "Fear As A Gift",
+        "url": "https://open.spotify.com/album/0C4nP3Y8lSr6aDs21pCOcj"
+      },
+      "artists": [
+        {
+          "name": "The Easy Eight",
+          "url": "https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo"
+        }
+      ],
+      "duration_ms": 132466,
+      "name": "Fear As A Gift",
+      "url": "https://open.spotify.com/track/6QUXyASWPghbDjKWIIBZ27"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "La La Land 2",
+        "url": "https://open.spotify.com/album/5mVnNlvgporFeh2L2sz1Jf"
+      },
+      "artists": [
+        {
+          "name": "The Intelligence",
+          "url": "https://open.spotify.com/artist/6BvibnsgeiKxzkBkSCwGiM"
+        }
+      ],
+      "duration_ms": 400906,
+      "name": "La La Land 2",
+      "url": "https://open.spotify.com/track/7hiVDUkcBf3kr91rkc3wpK"
     },
     {
       "added_at": "2026-07-14 16:06:34",

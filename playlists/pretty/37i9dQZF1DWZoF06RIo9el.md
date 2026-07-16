@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de julio 2026\. Cover: AKRIILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,323 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,196 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 30 | [AGRADECIMIENTO](https://open.spotify.com/track/3n2VrtOex6O2jV9SquyEyh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Quiero Que Se Acabe Este Bendito Verano](https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo) | 3:11 |
 | 31 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
 | 32 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 |
-| 33 | [TUS AMIGAS](https://open.spotify.com/track/1k3WX4cLH6umPTPuZdsqiX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [SECHO GANG](https://open.spotify.com/album/2Fk1qxzc8hy0JXVUConpxn) | 2:18 |
-| 34 | [mientras pueDa](https://open.spotify.com/track/7ELYHzcSOCDrdQTJaXH5bU) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [ANTES DE QUE SEA TARDE](https://open.spotify.com/album/7z513StymZaeATXNoCBeDr) | 2:55 |
+| 33 | [mientras pueDa](https://open.spotify.com/track/7ELYHzcSOCDrdQTJaXH5bU) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [ANTES DE QUE SEA TARDE](https://open.spotify.com/album/7z513StymZaeATXNoCBeDr) | 2:55 |
+| 34 | [TUS AMIGAS](https://open.spotify.com/track/1k3WX4cLH6umPTPuZdsqiX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [SECHO GANG](https://open.spotify.com/album/2Fk1qxzc8hy0JXVUConpxn) | 2:18 |
 | 35 | [Silverado](https://open.spotify.com/track/7AiufZydQdIZypUWpiEABD) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Silverado](https://open.spotify.com/album/1AFVBBfgExQd6OKIchabdA) | 3:09 |
 | 36 | [pequeñita!](https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [pequeñita!](https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt) | 2:39 |
 | 37 | [24/7](https://open.spotify.com/track/0Jh65GfYeOlGo6uoF9HUa5) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy) | [24/7](https://open.spotify.com/album/15d7AbyBktoIoZ6TdkH0Gx) | 2:20 |
 | 38 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 |
 | 39 | [aiaiaiaiai](https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:20 |
 | 40 | [Los Monsters](https://open.spotify.com/track/6CFs11pe4834Zkm9tqJGB6) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Perreando a Escondidas](https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7) | 2:26 |
-| 41 | [Rojo Rubí](https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Rojo Rubí](https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI) | 3:52 |
-| 42 | [En bucle](https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 5:16 |
+| 41 | [En bucle](https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 5:16 |
+| 42 | [Rojo Rubí](https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Rojo Rubí](https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI) | 3:52 |
 | 43 | [Bingo](https://open.spotify.com/track/0Uyd7DOBuZZ1StPj3LVuPi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Bingo](https://open.spotify.com/album/2V8codG8lD0YA9mHSZBmbJ) | 2:35 |
 | 44 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
 | 45 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 47 | [Notre\-Dame](https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Atanor](https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y) | 2:46 |
 | 48 | [Seadoo](https://open.spotify.com/track/0J1j75w9TvUqvPCyWMR3Jw) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Seadoo](https://open.spotify.com/album/7nT9N003PTCWvNdx4KxwYM) | 2:40 |
 | 49 | [Hijos de la Tierra](https://open.spotify.com/track/5MVLsgpXweeWLloLlChWDl) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Hijos de la Tierra](https://open.spotify.com/album/6L1jceOxEzSMuTSULHYqzE) | 3:02 |
-| 50 | [Power Ballad](https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Power Ballad](https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P) | 3:52 |
+| 50 | [DESASTRE](https://open.spotify.com/track/5NMlBtIr4iJ5mPrh4b9lfN) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ) | [ATLÁNTICO](https://open.spotify.com/album/4pkWNa2blLWxTPPTOQXwoz) | 3:05 |
 
 Snapshot ID: `AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv`

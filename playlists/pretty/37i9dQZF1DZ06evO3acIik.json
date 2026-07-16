@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65699,
+  "num_followers": 65694,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAABGMs33ESH1EbKEmawbd13d",
+  "snapshot_id": "alV8AAAAAACpUQLSgvWsl9siDgOC2QFJ",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 200009,
-      "name": "Is it a Crime?",
-      "url": "https://open.spotify.com/track/7dr1xuaEhYlykaoGNP10a3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Are Getting Shorter",
         "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 56000,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/21yc8LrPyJ8v52s4PC1hUC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 200009,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/7dr1xuaEhYlykaoGNP10a3"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 124885,
-      "name": "You Changed on Me.",
-      "url": "https://open.spotify.com/track/4zPtXbC2XnYo6AoEArcJBx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On My Way.",
         "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 187331,
       "name": "On My Way.",
       "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 124885,
+      "name": "You Changed on Me.",
+      "url": "https://open.spotify.com/track/4zPtXbC2XnYo6AoEArcJBx"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
+      "duration_ms": 334285,
+      "name": "Days Are Getting Shorter",
+      "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb"
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 334285,
-      "name": "Days Are Getting Shorter",
-      "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
     },
     {
       "added_at": null,

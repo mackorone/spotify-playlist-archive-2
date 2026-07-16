@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322011,
+  "num_followers": 322012,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Face Down In The Garden",
-        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 252593,
-      "name": "12 Blown Tires",
-      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Become",
         "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 306106,
       "name": "Holiday House",
       "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Face Down In The Garden",
+        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 252593,
+      "name": "12 Blown Tires",
+      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -495,22 +495,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Ways To Get Out",
-        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
       },
       "artists": [
         {
           "name": "Far Caspian",
           "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 225848,
-      "name": "Our Past Lives",
-      "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -579,18 +575,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+        "name": "Ways To Get Out",
+        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
       "artists": [
         {
           "name": "Far Caspian",
           "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
+      "duration_ms": 225848,
+      "name": "Our Past Lives",
+      "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "baby's out of luck again",
-        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "baby\u2019s out of luck again",
-      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Falling Apart Without You",
         "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203625,
       "name": "Falling Apart Without You",
       "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "baby's out of luck again",
+        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "baby\u2019s out of luck again",
+      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Little While",
+      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Back Into Your Arms",
         "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 263801,
       "name": "Back Into Your Arms",
       "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Triple Seven",
-        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Little While",
-      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "what if love isn't enough",
-        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 228522,
-      "name": "what if love isn't enough",
-      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "The Heart",
         "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 160262,
       "name": "Just Like Fireflies",
       "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "what if love isn't enough",
+        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 228522,
+      "name": "what if love isn't enough",
+      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
     },
     {
       "added_at": "2025-05-01 21:52:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,622 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,623 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Sometimes](https://open.spotify.com/track/5PigCfYuaTai3cDdVZU4nL) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Mirages](https://open.spotify.com/album/40AfbK7kPIClq6ixLA3Zpe) | 3:29 |
 | 50 | [Каждый раз](https://open.spotify.com/track/4IjiY0sShCYUEEoOSEwsgY) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Раскраски для взрослых](https://open.spotify.com/album/5dyKK0BGb0LrmIQVdB0ssA) | 3:28 |
 
-Snapshot ID: `MemhcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mer3oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

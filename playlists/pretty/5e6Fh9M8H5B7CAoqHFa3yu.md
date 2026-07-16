@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,471 songs - 6 day 1 hr 31 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 344 likes - 2,476 songs - 6 day 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2479,5 +2479,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2469 | [Reine des Dossiers](https://open.spotify.com/track/1c9fWUHP0cj6ijrzoIpQbZ) | [Sophie Larelle](https://open.spotify.com/artist/2hBLl6JuQNf0UiCbwGVNDF) | [Reine des Dossiers](https://open.spotify.com/album/5CwlhwzuOT5Rp2HdetPWjx) | 3:02 |
 | 2470 | [Silver Mask Tonight](https://open.spotify.com/track/45qm3ABEcnvbb7SnRe6Vw3) | [The Blossom](https://open.spotify.com/artist/44tJA03Gm4xOKdO8FQI9az) | [Silver Mask Tonight](https://open.spotify.com/album/5aR10nMe9P8QSHCWxWNyu0) | 3:08 |
 | 2471 | [As Long As You're By My Side](https://open.spotify.com/track/6SlEZck3pbUXIl3vVnX4Ia) | [Thee Phoniques](https://open.spotify.com/artist/4aOlREicgEGbc226Uo05yN) | [Afterglow & Heartbreak](https://open.spotify.com/album/5vw6BIcRFggUB0cpT2kiTf) | 2:46 |
+| 2472 | [Scattered Blueprints](https://open.spotify.com/track/2JmDEJXSNvspOOFgNOJu0l) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:01 |
+| 2473 | [Night Crane](https://open.spotify.com/track/4FD48eynO8XoG9Zn6nVzQr) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:19 |
+| 2474 | [Where the Structure Bends](https://open.spotify.com/track/3n2jTRrFP2Cgv9bZrNdKiL) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:44 |
+| 2475 | [After the Dust Settles](https://open.spotify.com/track/7IbNQFyIa84ruIy43ZH4t5) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:57 |
+| 2476 | [WOW](https://open.spotify.com/track/3zaomffGgeZhH5PxS3poTh) | [Raseem](https://open.spotify.com/artist/77ut7Rw6Wt62qO8crS2E1w) | [WOW](https://open.spotify.com/album/2woVblikP4LxCUKxMNLsHS) | 3:04 |
 
-Snapshot ID: `AAAKd+KVLXbuZBqKTy1Pm5KT1OhtA6+Q`
+Snapshot ID: `AAAKfHYEuGcuHps3q884+ck1AFnDcmhK`

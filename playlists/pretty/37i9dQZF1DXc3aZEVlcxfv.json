@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21666,
+  "num_followers": 21673,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 257644,
-      "name": "Omemma",
-      "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
-    },
-    {
       "added_at": "2025-12-12 00:01:22",
       "album": {
         "name": "Good God",
@@ -751,6 +735,22 @@
       "duration_ms": 889180,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
     },
     {
       "added_at": "2025-03-14 00:01:27",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
     },
     {
+      "added_at": "2025-12-19 00:01:10",
+      "album": {
+        "name": "\u00d3 D\u00e1ra",
+        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 507645,
+      "name": "\u00d3 D\u00e1ra",
+      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
+    },
+    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "Subscribed (Live)",
@@ -851,22 +867,6 @@
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
-      "added_at": "2025-12-19 00:01:10",
-      "album": {
-        "name": "\u00d3 D\u00e1ra",
-        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 507645,
-      "name": "\u00d3 D\u00e1ra",
-      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
     },
     {
       "added_at": "2025-10-17 00:01:26",
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
+    },
+    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Ifunanya",
@@ -1087,22 +1103,6 @@
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
-    },
-    {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1177,26 +1177,6 @@
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
-      "album": {
-        "name": "I See The Lord (Live)",
-        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Ibquake",
-          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
-        }
-      ],
-      "duration_ms": 610039,
-      "name": "I See The Lord - Live",
-      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
-    },
-    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Yeshua (The Summary Of My Life)",
@@ -1233,20 +1213,24 @@
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
+      "added_at": "2026-05-29 00:01:36",
       "album": {
-        "name": "Miracle Walking (Radio Edit)",
-        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
+        "name": "I See The Lord (Live)",
+        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
       },
       "artists": [
         {
-          "name": "Freke Umoh",
-          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Miracle Walking - Radio Edit",
-      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+      "duration_ms": 610039,
+      "name": "I See The Lord - Live",
+      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
     },
     {
       "added_at": "2026-06-26 00:01:41",
@@ -1273,20 +1257,20 @@
       "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
     },
     {
-      "added_at": "2026-06-19 00:01:33",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "My Thank You",
-        "url": "https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI"
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
       },
       "artists": [
         {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
         }
       ],
-      "duration_ms": 213430,
-      "name": "My Thank You",
-      "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1307,6 +1291,22 @@
       "duration_ms": 218666,
       "name": "Upendo Overdose",
       "url": "https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx"
+    },
+    {
+      "added_at": "2026-06-19 00:01:33",
+      "album": {
+        "name": "My Thank You",
+        "url": "https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "duration_ms": 213430,
+      "name": "My Thank You",
+      "url": "https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
-      "added_at": "2026-06-12 08:46:43",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
-    },
-    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Overflow",
@@ -1495,6 +1479,22 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-06-12 08:46:43",
+      "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/03VvutM1txcETp75KZwHE8"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
     },
     {
       "added_at": "2026-06-19 00:01:33",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "Nara Ekele (Remix)",
-        "url": "https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9"
-      },
-      "artists": [
-        {
-          "name": "Dr Paul Enenche",
-          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
-        }
-      ],
-      "duration_ms": 392462,
-      "name": "Nara Ekele - Remix",
-      "url": "https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN"
-    },
-    {
       "added_at": "2026-06-19 00:01:33",
       "album": {
         "name": "Sweet Jesus",
@@ -1557,28 +1541,36 @@
       "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
+      "added_at": "2026-05-22 00:01:37",
       "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j"
+        "name": "Nara Ekele (Remix)",
+        "url": "https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9"
       },
       "artists": [
         {
-          "name": "Johay",
-          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
-        },
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "A Tribe Apart",
-          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
         }
       ],
-      "duration_ms": 150750,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD"
+      "duration_ms": 392462,
+      "name": "Nara Ekele - Remix",
+      "url": "https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN"
+    },
+    {
+      "added_at": "2026-07-10 00:01:15",
+      "album": {
+        "name": "I'M BLESSED",
+        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        }
+      ],
+      "duration_ms": 176841,
+      "name": "I'M BLESSED",
+      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     }
   ],
   "unique_name": "Blessed",

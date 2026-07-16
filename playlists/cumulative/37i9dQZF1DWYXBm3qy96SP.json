@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Always You & I",
+        "url": "https://open.spotify.com/album/6GvIxPFsXOVOG9hU3N8ZKi"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218730,
+      "name": "Always You & I",
+      "url": "https://open.spotify.com/track/5xAmOiBeIrAWN80grlnvOz"
+    },
+    {
+      "album": {
         "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
         "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
       },
@@ -6646,7 +6664,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 189461,
       "name": "Carry the Weight",
       "url": "https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY"

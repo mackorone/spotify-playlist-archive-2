@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Curry",
-  "num_followers": 27188,
+  "num_followers": 27186,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBlvZLgsc4NVTRvmQOwAHMhgKj3",
+  "snapshot_id": "AAAAAP9fMZ6TAYzlsN6zcMxyI+8QY5+Q",
   "tracks": [
     {
       "added_at": "2026-07-13 06:39:56",
@@ -43,6 +43,30 @@
       "duration_ms": 159375,
       "name": "Nannavale",
       "url": "https://open.spotify.com/track/3OS7pl10PHd4JBtJQZSz9K"
+    },
+    {
+      "added_at": "2026-07-15 11:16:24",
+      "album": {
+        "name": "Bhoorame",
+        "url": "https://open.spotify.com/album/44HW8ArbVWmggl97IbMPBq"
+      },
+      "artists": [
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Harsh",
+          "url": "https://open.spotify.com/artist/1FMR5muimRkgF3zwGH8kjP"
+        }
+      ],
+      "duration_ms": 225204,
+      "name": "Bhoorame",
+      "url": "https://open.spotify.com/track/0ZIhN1UhpPHNJrA1VRk9UT"
     },
     {
       "added_at": "2026-07-10 11:34:44",
@@ -147,6 +171,22 @@
       "duration_ms": 180000,
       "name": "Preethi Kathe",
       "url": "https://open.spotify.com/track/1XQsVRqsqtmeh8YfmzaNpa"
+    },
+    {
+      "added_at": "2026-07-15 11:16:24",
+      "album": {
+        "name": "Maleya Sugandha",
+        "url": "https://open.spotify.com/album/3AKsAO0jpjQ1aJvJHNpyuI"
+      },
+      "artists": [
+        {
+          "name": "Surabhi Bharadwaj",
+          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Maleya Sugandha",
+      "url": "https://open.spotify.com/track/2LEigW0FyswEncrMWWS34H"
     },
     {
       "added_at": "2026-06-11 04:39:16",
@@ -1775,30 +1815,6 @@
       "duration_ms": 206000,
       "name": "That's OK",
       "url": "https://open.spotify.com/track/3xhDoKSUhjfeXnvTTt4U1o"
-    },
-    {
-      "added_at": "2025-07-21 06:23:38",
-      "album": {
-        "name": "Pappi Kodabek Anisaithi",
-        "url": "https://open.spotify.com/album/51n3dJlCVjis0ESErlmLuQ"
-      },
-      "artists": [
-        {
-          "name": "Shivu Bhergi",
-          "url": "https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z"
-        },
-        {
-          "name": "Malu Nipanal Singer",
-          "url": "https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx"
-        },
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        }
-      ],
-      "duration_ms": 264229,
-      "name": "Pappi Kodabek Anisaithi",
-      "url": "https://open.spotify.com/track/1a67KzJ30F9KW1Zxaljoxs"
     },
     {
       "added_at": "2025-08-11 06:50:52",

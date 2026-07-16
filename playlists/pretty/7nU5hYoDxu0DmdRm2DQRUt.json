@@ -1,13 +1,89 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 8027,
+  "num_followers": 8028,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPVfQ5w1re2eLgnFlwbP0tBuUpKI9m",
+  "snapshot_id": "AAAPXGQPhxkIKz7H8eoNDi97bCwbHx6A",
   "tracks": [
+    {
+      "added_at": "2026-07-15 09:15:44",
+      "album": {
+        "name": "November 89",
+        "url": "https://open.spotify.com/album/47jBxdCJfU23O7wNJcruHC"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 741058,
+      "name": "Tal 90",
+      "url": "https://open.spotify.com/track/6riUBY9NyadExERkTK5pXb"
+    },
+    {
+      "added_at": "2026-07-15 09:16:40",
+      "album": {
+        "name": "Mandu / Zuma (Reissue)",
+        "url": "https://open.spotify.com/album/5InNicr4p8JBOlpoIVchF9"
+      },
+      "artists": [
+        {
+          "name": "Losoul",
+          "url": "https://open.spotify.com/artist/0jO0TlgxW9Il5JphAWzhR4"
+        }
+      ],
+      "duration_ms": 698055,
+      "name": "Mandu",
+      "url": "https://open.spotify.com/track/6HD9KRS3jtzIhTlwTkcvz9"
+    },
+    {
+      "added_at": "2026-07-15 09:16:17",
+      "album": {
+        "name": "Basement Cuts",
+        "url": "https://open.spotify.com/album/0LPLFMvRE86eXK08FSKauO"
+      },
+      "artists": [
+        {
+          "name": "SAVED MY LIFE",
+          "url": "https://open.spotify.com/artist/6RS2HM31tI76SkBrAUHNtp"
+        },
+        {
+          "name": "Senpolya",
+          "url": "https://open.spotify.com/artist/3GCJuWuhn3b7a8DUUOPHps"
+        }
+      ],
+      "duration_ms": 280327,
+      "name": "Down - Radio Edit",
+      "url": "https://open.spotify.com/track/48pK6nY82LKmedEtbLONEQ"
+    },
+    {
+      "added_at": "2026-07-15 09:20:06",
+      "album": {
+        "name": "Elvau (DJ Koze Remix)",
+        "url": "https://open.spotify.com/album/2rQHVdwTpxjCX5lJYsX22i"
+      },
+      "artists": [
+        {
+          "name": "Paul Valentin",
+          "url": "https://open.spotify.com/artist/4tP5rLYxvg7juVNkvzAVTD"
+        },
+        {
+          "name": "Liv Lisa Fries",
+          "url": "https://open.spotify.com/artist/6Nt61UxS1b3tPURGch4aOV"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 298262,
+      "name": "Elvau - DJ Koze Remix",
+      "url": "https://open.spotify.com/track/65RWgwcZ944auUwRdSnlVj"
+    },
     {
       "added_at": "2026-06-09 09:06:10",
       "album": {

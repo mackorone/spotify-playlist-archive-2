@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 310696,
+  "num_followers": 310690,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "LINDA",
-        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "LINDA",
-      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 225480,
       "name": "GAVIL\u00c1N II",
       "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco - En Vivo",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "Campeones",
         "url": "https://open.spotify.com/album/07RvDCTEmwPoC0YTMmbuyv"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 228400,
       "name": "Campeones",
       "url": "https://open.spotify.com/track/3wNcQrEtxl9bR3VXnw8WwR"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Un Tabaco - En Vivo",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB"
-      },
-      "artists": [
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "The Essential Cypress Hill",
         "url": "https://open.spotify.com/album/2WPS1YnbXiaX1Ekr1HNICt"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 276413,
       "name": "Lowrider",
       "url": "https://open.spotify.com/track/0JFBf2PloRfMkPg5DjXhDx"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1967,18 +1967,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+        "name": "Abnormal",
+        "url": "https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA"
       },
       "artists": [
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
         }
       ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+      "duration_ms": 209482,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
     }
   ],
   "unique_name": "El Barrio MP3 ",

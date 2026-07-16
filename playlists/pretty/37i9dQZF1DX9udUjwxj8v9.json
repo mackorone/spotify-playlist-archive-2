@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154545,
+  "num_followers": 154542,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -835,18 +835,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Canto Negro",
-        "url": "https://open.spotify.com/album/3WgPAI060b6EN6UayPTKa5"
+        "name": "Vagabundo Ao Vivo",
+        "url": "https://open.spotify.com/album/3n95npT8f24QSsH7KL4KVU"
       },
       "artists": [
         {
-          "name": "Il\u00ea Aiy\u00ea",
-          "url": "https://open.spotify.com/artist/7ntfJVmjXJqHALQ89SVmLY"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "name": "Pedro Luis E A Parede",
+          "url": "https://open.spotify.com/artist/0gr5W0V12A1QsoG9lRdfQT"
         }
       ],
-      "duration_ms": 193133,
-      "name": "Que bloco \u00e9 esse?",
-      "url": "https://open.spotify.com/track/4njPA0lM6wexbn6L9eY8oQ"
+      "duration_ms": 289466,
+      "name": "Caio No Suingue",
+      "url": "https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud"
     }
   ],
   "unique_name": "carnavalizar",

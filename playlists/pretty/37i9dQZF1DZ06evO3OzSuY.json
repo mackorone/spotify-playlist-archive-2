@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25253,
+  "num_followers": 25259,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAA4V1e4YpHAnydZhupS8n1P",
+  "snapshot_id": "alV8AAAAAADX3ovddrkRD0889n+RKfC0",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+      "duration_ms": 218733,
+      "name": "Bottle You Up",
+      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,

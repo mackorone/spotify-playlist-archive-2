@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \u2764\ufe0f\u200d\ud83d\udd25 with Lizdek",
-  "num_followers": 878062,
+  "num_followers": 878014,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-07-10 04:01:57",
       "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-07-10 04:01:57",
+      "album": {
         "name": "Monomyth",
         "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2026-07-10 04:01:57",
       "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
-    },
-    {
-      "added_at": "2026-07-10 04:01:57",
-      "album": {
         "name": "Dead To Me",
         "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
       },
@@ -1643,26 +1643,6 @@
       "duration_ms": 179142,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
-    },
-    {
-      "added_at": "2026-07-10 04:01:57",
-      "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
-      },
-      "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "STAB UP (feat. Shakewell)",
-      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
     },
     {
       "added_at": "2026-07-10 04:01:57",
@@ -1683,6 +1663,26 @@
       "duration_ms": 192727,
       "name": "Lazarus Rise",
       "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
+    },
+    {
+      "added_at": "2026-07-10 04:01:57",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "STAB UP (feat. Shakewell)",
+      "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
     },
     {
       "added_at": "2026-07-10 04:01:57",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-07-10 04:01:57",
       "album": {
-        "name": "BACKSPIN",
-        "url": "https://open.spotify.com/album/0sv29XhXrVeHSgs7CFLNMa"
-      },
-      "artists": [
-        {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
-        }
-      ],
-      "duration_ms": 191831,
-      "name": "BACKSPIN",
-      "url": "https://open.spotify.com/track/00n0pSDChqnHu56HE0hDP9"
-    },
-    {
-      "added_at": "2026-07-10 04:01:57",
-      "album": {
         "name": "SAVE U",
         "url": "https://open.spotify.com/album/1p2cM5KI8zCFBcKwzwdNlM"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 161142,
       "name": "SAVE U",
       "url": "https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA"
+    },
+    {
+      "added_at": "2026-07-10 04:01:57",
+      "album": {
+        "name": "BACKSPIN",
+        "url": "https://open.spotify.com/album/0sv29XhXrVeHSgs7CFLNMa"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 191831,
+      "name": "BACKSPIN",
+      "url": "https://open.spotify.com/track/00n0pSDChqnHu56HE0hDP9"
     },
     {
       "added_at": "2026-07-10 04:01:57",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-07-10 04:01:57",
       "album": {
-        "name": "FLY",
-        "url": "https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs"
-      },
-      "artists": [
-        {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "FLY",
-      "url": "https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc"
-    },
-    {
-      "added_at": "2026-07-10 04:01:57",
-      "album": {
         "name": "RXGER CLUB!",
         "url": "https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 133333,
       "name": "redSKY",
       "url": "https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV"
+    },
+    {
+      "added_at": "2026-07-10 04:01:57",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc"
     },
     {
       "added_at": "2026-07-10 04:01:57",

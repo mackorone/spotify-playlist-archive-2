@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Carly Rae Jepsen",
-  "num_followers": 2028,
+  "num_followers": 2047,
   "original_name": "Editors' Picks: Best Canadian Songs of June",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy"
-      },
-      "artists": [
-        {
-          "name": "Zenesoul",
-          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
-        }
-      ],
-      "duration_ms": 195851,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "Where There's Smoke",
         "url": "https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 190628,
       "name": "Where There's Smoke",
       "url": "https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "duration_ms": 195851,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "chop it",
-        "url": "https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb"
-      },
-      "artists": [
-        {
-          "name": "em & I",
-          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
-        }
-      ],
-      "duration_ms": 120250,
-      "name": "chop it",
-      "url": "https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "Tastes Like",
         "url": "https://open.spotify.com/album/08hISP1omTAoTnfpLIjyJQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 151428,
       "name": "Tastes Like",
       "url": "https://open.spotify.com/track/250iYG82IKXiN4vQ76CzbL"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
+        "name": "chop it",
+        "url": "https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb"
+      },
+      "artists": [
+        {
+          "name": "em & I",
+          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
+        }
+      ],
+      "duration_ms": 120250,
+      "name": "chop it",
+      "url": "https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
+        "name": "Traveling Blues",
+        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
+      },
+      "artists": [
+        {
+          "name": "Evan Roderick",
+          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Traveling Blues",
+      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
         "name": "EVIDENT 2 ME",
         "url": "https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 110221,
       "name": "EVIDENT 2 ME",
       "url": "https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
-        "name": "Traveling Blues",
-        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
-      },
-      "artists": [
-        {
-          "name": "Evan Roderick",
-          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Traveling Blues",
-      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
     },
     {
       "added_at": "2026-07-03 03:21:47",

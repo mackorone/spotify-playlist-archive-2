@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1441340,
+  "num_followers": 1441212,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -615,30 +615,6 @@
     {
       "added_at": "2026-07-10 16:48:52",
       "album": {
-        "name": "A Vida \u00e9 Um Freestyle",
-        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 200409,
-      "name": "Falsos Profetas",
-      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
-    },
-    {
-      "added_at": "2026-07-10 16:48:52",
-      "album": {
         "name": "F\u00f3rmula Perfeita",
         "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 215433,
       "name": "F\u00f3rmula Perfeita",
       "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
+    },
+    {
+      "added_at": "2026-07-10 16:48:52",
+      "album": {
+        "name": "A Vida \u00e9 Um Freestyle",
+        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 200409,
+      "name": "Falsos Profetas",
+      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
     },
     {
       "added_at": "2026-07-10 16:48:52",
@@ -707,6 +707,34 @@
     {
       "added_at": "2026-07-10 16:48:52",
       "album": {
+        "name": "MANEIRINHO VIBES 2",
+        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Regufe",
+          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
+        },
+        {
+          "name": "Pariz Beat",
+          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "ENGAJAMENTO",
+      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
+    },
+    {
+      "added_at": "2026-07-10 16:48:52",
+      "album": {
         "name": "BASE: Climinha",
         "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
       },
@@ -735,34 +763,6 @@
       "duration_ms": 217446,
       "name": "Taca l\u00e1 dentro",
       "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
-    },
-    {
-      "added_at": "2026-07-10 16:48:52",
-      "album": {
-        "name": "MANEIRINHO VIBES 2",
-        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "Regufe",
-          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
-        },
-        {
-          "name": "Pariz Beat",
-          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "ENGAJAMENTO",
-      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
     },
     {
       "added_at": "2026-07-10 16:48:52",
@@ -859,38 +859,6 @@
     {
       "added_at": "2026-07-10 16:48:52",
       "album": {
-        "name": "DOISMILEVINTEHOJE",
-        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Pasta Registrada",
-      "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
-    },
-    {
-      "added_at": "2026-07-10 16:48:52",
-      "album": {
         "name": "AQUI \u00c9 BRASIL",
         "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
       },
@@ -959,6 +927,38 @@
     {
       "added_at": "2026-07-10 16:48:52",
       "album": {
+        "name": "DOISMILEVINTEHOJE",
+        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Pasta Registrada",
+      "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
+    },
+    {
+      "added_at": "2026-07-10 16:48:52",
+      "album": {
         "name": "Que toda dor vire dinheiro",
         "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
       },
@@ -971,6 +971,30 @@
       "duration_ms": 120000,
       "name": "Que toda dor vire dinheiro",
       "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
+    },
+    {
+      "added_at": "2026-07-10 16:48:52",
+      "album": {
+        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
+        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 136170,
+      "name": "COMO Q OFUSCA O BRILHO?",
+      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
     },
     {
       "added_at": "2026-07-10 16:48:52",
@@ -1039,30 +1063,6 @@
       "duration_ms": 156086,
       "name": "Sem Amor",
       "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
-    },
-    {
-      "added_at": "2026-07-10 16:48:52",
-      "album": {
-        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
-        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "COMO Q OFUSCA O BRILHO?",
-      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
     },
     {
       "added_at": "2026-07-10 16:48:52",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2026-07-10 16:48:52",
       "album": {
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+      },
+      "artists": [
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        }
+      ],
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+    },
+    {
+      "added_at": "2026-07-10 16:48:52",
+      "album": {
         "name": "Um Pouco Pensativo",
         "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
       },
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2026-07-10 16:48:52",
       "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
-      },
-      "artists": [
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
-        }
-      ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
-    },
-    {
-      "added_at": "2026-07-10 16:48:52",
-      "album": {
         "name": "Open Mic",
         "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
       },
@@ -1347,6 +1347,26 @@
       "duration_ms": 222692,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
       "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
+    },
+    {
+      "added_at": "2026-07-10 16:48:52",
+      "album": {
+        "name": "CARA DI CRIA #9",
+        "url": "https://open.spotify.com/album/4PzYlcuQHHtsj2LsN67bAw"
+      },
+      "artists": [
+        {
+          "name": "Jenario Mc",
+          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
+        },
+        {
+          "name": "Abaddie",
+          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
+        }
+      ],
+      "duration_ms": 145370,
+      "name": "CARA DI CRIA #9",
+      "url": "https://open.spotify.com/track/0rfCtJcklw0YJxn96wVW6W"
     },
     {
       "added_at": "2026-07-10 16:48:52",
@@ -1419,26 +1439,6 @@
       "duration_ms": 180923,
       "name": "MUNDO INVERTIDO",
       "url": "https://open.spotify.com/track/0PiKL2Db7LVyKkrGgMgNmt"
-    },
-    {
-      "added_at": "2026-07-10 16:48:52",
-      "album": {
-        "name": "CARA DI CRIA #9",
-        "url": "https://open.spotify.com/album/4PzYlcuQHHtsj2LsN67bAw"
-      },
-      "artists": [
-        {
-          "name": "Jenario Mc",
-          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
-        },
-        {
-          "name": "Abaddie",
-          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
-        }
-      ],
-      "duration_ms": 145370,
-      "name": "CARA DI CRIA #9",
-      "url": "https://open.spotify.com/track/0rfCtJcklw0YJxn96wVW6W"
     },
     {
       "added_at": "2026-07-10 16:48:52",

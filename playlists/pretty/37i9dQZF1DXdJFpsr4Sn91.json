@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59942,
+  "num_followers": 59937,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Ei kukaan muu",
+        "url": "https://open.spotify.com/album/0OvnYAwouXlElX6hFnDMPG"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        },
+        {
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "Ei kukaan muu",
+      "url": "https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
         "url": "https://open.spotify.com/album/6HPxidIevlLoAMToenpZCw"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 226154,
       "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
       "url": "https://open.spotify.com/track/2g4NUpywYmotb70ZipbiaA"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Ei kukaan muu",
-        "url": "https://open.spotify.com/album/0OvnYAwouXlElX6hFnDMPG"
-      },
-      "artists": [
-        {
-          "name": "Dilemma",
-          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
-        },
-        {
-          "name": "TINA",
-          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "Ei kukaan muu",
-      "url": "https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
-      },
-      "artists": [
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Talking Heads",
-      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Pallo jalast",
         "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 138773,
       "name": "Pallo jalast",
       "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Talking Heads",
+      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Amarantti",
+        "url": "https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw"
+      },
+      "artists": [
+        {
+          "name": "Coevisto",
+          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
+        }
+      ],
+      "duration_ms": 212096,
+      "name": "Amarantti",
+      "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Stiigerihai",
         "url": "https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 242640,
       "name": "Rakastan teit\u00e4 kaikkia",
       "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Amarantti",
-        "url": "https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw"
-      },
-      "artists": [
-        {
-          "name": "Coevisto",
-          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
-        }
-      ],
-      "duration_ms": 212096,
-      "name": "Amarantti",
-      "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
     },
     {
       "added_at": "2026-06-25 21:00:31",

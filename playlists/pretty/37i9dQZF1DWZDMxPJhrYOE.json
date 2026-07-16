@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105636,
+  "num_followers": 105637,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "THAT GUY",
-        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "THAT GUY",
-      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "Watch It Burn",
         "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "THAT GUY",
+        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "THAT GUY",
+      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -819,22 +819,18 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Piss In The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+        "name": "Break Up in Reverse",
+        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 154413,
-      "name": "Bluffin' (with The Kid LAROI)",
-      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
+      "duration_ms": 205523,
+      "name": "Break Up in Reverse",
+      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -851,6 +847,26 @@
       "duration_ms": 187120,
       "name": "Questions",
       "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Piss In The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "Bluffin' (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -899,6 +915,22 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
+        "name": "F\u00f8r Vi G\u00e5r Hjem",
+        "url": "https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Torpegaard Lund",
+          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "F\u00f8r Vi G\u00e5r Hjem",
+      "url": "https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
         "name": "Repeat It",
         "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
       },
@@ -915,38 +947,6 @@
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
-        "name": "Break Up in Reverse",
-        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 205523,
-      "name": "Break Up in Reverse",
-      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
-        "name": "F\u00f8r Vi G\u00e5r Hjem",
-        "url": "https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Torpegaard Lund",
-          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "F\u00f8r Vi G\u00e5r Hjem",
-      "url": "https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
       },
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Here With Me Now",
-        "url": "https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf"
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
       "artists": [
         {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 260023,
-      "name": "Here With Me Now",
-      "url": "https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n"
+      "duration_ms": 197720,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1075,6 +1055,26 @@
       "duration_ms": 152821,
       "name": "\u00c6rlig Freestyle",
       "url": "https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Here With Me Now",
+        "url": "https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 260023,
+      "name": "Here With Me Now",
+      "url": "https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 177561,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 201296,
       "name": "Silver Lines (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 177561,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 146335,
       "name": "Stil permanent",
       "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Talk On The Hill",
-        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 207774,
-      "name": "Talk On The Hill",
-      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "TIK TAK",
         "url": "https://open.spotify.com/album/411hbuzY43HR3rIHE9EDYy"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 145426,
       "name": "TIK TAK",
       "url": "https://open.spotify.com/track/7bZ2QUWiP3upNEnIQc7AmZ"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1331,6 +1331,26 @@
       "duration_ms": 171412,
       "name": "Spr\u00e6kker ft. S\u00f8n",
       "url": "https://open.spotify.com/track/1n9crbeZNJCUnj6bZcJgxP"
+    },
+    {
+      "added_at": "2026-07-09 22:01:09",
+      "album": {
+        "name": "Joven y Salvaje (with Bb trickz)",
+        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 122703,
+      "name": "Joven y Salvaje (with Bb trickz)",
+      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-07-09 22:01:09",
@@ -1391,26 +1411,6 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "Joven y Salvaje (with Bb trickz)",
-        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 122703,
-      "name": "Joven y Salvaje (with Bb trickz)",
-      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
-    },
-    {
-      "added_at": "2026-07-09 22:01:09",
-      "album": {
         "name": "Jordsk\u00e6lv",
         "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
       },
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2026-07-09 22:01:09",
       "album": {
-        "name": "siren",
-        "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
+        "name": "Yellow Top",
+        "url": "https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S"
       },
       "artists": [
         {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 165003,
-      "name": "siren",
-      "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
+      "duration_ms": 161522,
+      "name": "Yellow Top",
+      "url": "https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5"
     }
   ],
   "unique_name": "De nye",

@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
-  "num_followers": 542623,
+  "num_followers": 542580,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Hazy x Ti",
-        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
-      },
-      "artists": [
-        {
-          "name": "Loreto",
-          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 213749,
-      "name": "Hazy x Ti",
-      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "D\u00e9jame Entender",
         "url": "https://open.spotify.com/album/0JAELe9FSSHY3olbrlKZCW"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 232248,
       "name": "D\u00e9jame Entender",
       "url": "https://open.spotify.com/track/3RGpIuoduzZvJRK1N60wVV"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Coraz\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
-      },
-      "artists": [
-        {
-          "name": "Gala Montes",
-          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
-        }
-      ],
-      "duration_ms": 161480,
-      "name": "Coraz\u00f3n de Oro",
-      "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Mam\u00e1",
         "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+        "name": "Coraz\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Gala Montes",
+          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
         }
       ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
+      "duration_ms": 161480,
+      "name": "Coraz\u00f3n de Oro",
+      "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -875,6 +859,22 @@
       "duration_ms": 217699,
       "name": "Por Si Ma\u00f1ana No Estoy",
       "url": "https://open.spotify.com/track/3BJKXVM6DY8po3lLP70SE7"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Hola Perdido",
-        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "Hola Perdido",
-      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Hola Perdido",
+        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "Hola Perdido",
+      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "La Barca",
         "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 192123,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 207997,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Lo esencial de Or\u00edgenes: El Bolero",
         "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Bolero Para El Que No Esper\u00f3",
-        "url": "https://open.spotify.com/album/1hnIdv3iAXrpEaasJABJOx"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Bolero Para El Que No Esper\u00f3",
-      "url": "https://open.spotify.com/track/2qgNQyXPhIgeIrX660JKKY"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Una Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 171272,
       "name": "Una Ma\u00f1ana",
       "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Bolero Para El Que No Esper\u00f3",
+        "url": "https://open.spotify.com/album/1hnIdv3iAXrpEaasJABJOx"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Bolero Para El Que No Esper\u00f3",
+      "url": "https://open.spotify.com/track/2qgNQyXPhIgeIrX660JKKY"
     },
     {
       "added_at": "2026-05-22 06:00:54",

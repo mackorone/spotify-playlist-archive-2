@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,085 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,180 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 32 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
 | 33 | [Ando Meio Desligado](https://open.spotify.com/track/6Sye4JBw9nvWHdaprliRCs) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Ando Meio Desligado](https://open.spotify.com/album/54O2r9TMNa5GS8HWdFfuTt) | 2:53 |
 | 34 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
-| 35 | [Kátia Flávia, a Godiva de Irajá](https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [Elite Squad](https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG) | 4:09 |
+| 35 | [Kátia Flávia, a Godiva de Irajá](https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [Elite Squad](https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG) | 4:06 |
 | 36 | [Garota de Berlim](https://open.spotify.com/track/0i2pVaXri1ne58mfEC5TK1) | [Tokyo](https://open.spotify.com/artist/16NdOHGyaRuFv1365u0XEf), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Tokyo](https://open.spotify.com/album/0IraYmdQ0putFc89YQ3awM) | 3:05 |
 | 37 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
 | 38 | [Como uma onda \- Zen\-surfismo](https://open.spotify.com/track/2RBGbLDceAHxJ0w2Pfxnzn) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:37 |

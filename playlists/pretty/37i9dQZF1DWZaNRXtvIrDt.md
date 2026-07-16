@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: HAAi
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,415 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,407 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 22 | [Two Months Off](https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 9:08 |
 | 23 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 24 | [C'est Toi](https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW) | [LNRT](https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC) | [C'est Toi](https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF) | 3:10 |
-| 25 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
-| 26 | [Groovy Thang](https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP) | [DTAILR](https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e) | [Groovy Thang](https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC) | 2:47 |
+| 25 | [Groovy Thang](https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP) | [DTAILR](https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e) | [Groovy Thang](https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC) | 2:47 |
+| 26 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
 | 27 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 28 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
 | 29 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 41 | [Maia Maia](https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Maia Maia](https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu) | 3:01 |
 | 42 | [I Want You To Know](https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe) | [I Want You To Know](https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS) | 3:10 |
 | 43 | [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 |
-| 44 | [Patang](https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Marlon Lopez](https://open.spotify.com/artist/1D0mmSLwDys50XLi6A5b5m) | [Patang](https://open.spotify.com/album/33VlFHJP6rf5Q9a4JoLdLz) | 6:56 |
+| 44 | [Who Are They?](https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2) | [Hedonics](https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS) | [Who Are They?](https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM) | 4:54 |
 | 45 | [Night Moves](https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Night Moves](https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki) | 3:21 |
-| 46 | [Who Are They?](https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2) | [Hedonics](https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS) | [Who Are They?](https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM) | 4:54 |
+| 46 | [Patang](https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Marlon Lopez](https://open.spotify.com/artist/1D0mmSLwDys50XLi6A5b5m) | [Patang](https://open.spotify.com/album/33VlFHJP6rf5Q9a4JoLdLz) | 6:56 |
 | 47 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 48 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
 | 49 | [Spiralen](https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Spiralen](https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ) | 7:17 |

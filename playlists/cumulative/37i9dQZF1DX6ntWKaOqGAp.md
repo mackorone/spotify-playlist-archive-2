@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Vaundy
 
-3,382 songs - 8 day 18 hr 47 min
+3,383 songs - 8 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3337,6 +3337,7 @@
 | [電照菊](https://open.spotify.com/track/1HtSWNAhNv3X4rkxLqR3PH) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [かりゆし58 20th TRIBUTE ALBUM \-Solo\-solo HA!touch\-](https://open.spotify.com/album/1jJDPyf0MHagbYLMMgyrDe) | 3:50 | 2026-03-17 | 2026-04-01 |
 | [電話](https://open.spotify.com/track/4Ivha1S5ifAjJcL0ckow2C) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [電話](https://open.spotify.com/album/1PiCmopbgqhm2hfPu3T89V) | 3:46 | 2026-01-27 | 2026-02-04 |
 | [青](https://open.spotify.com/track/7zxCQ8TQZHJudxqVb5nRx1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [青](https://open.spotify.com/album/5KVyj8t42dWLIioJvasjRo) | 3:15 | 2024-10-22 | 2025-01-17 |
+| [青いソファの上で](https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [青いソファの上で](https://open.spotify.com/album/4nJJcD6J5InRZrFzIX34bF) | 3:07 | 2026-07-14 |  |
 | [青い夏](https://open.spotify.com/track/1qBhIAXvFULjaawGIFjztK) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [青い夏](https://open.spotify.com/album/2d4SbdHCcwuZzOupXsEPbB) | 3:57 | 2024-06-04 | 2024-07-10 |
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-02-15 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 | 2023-10-20 |

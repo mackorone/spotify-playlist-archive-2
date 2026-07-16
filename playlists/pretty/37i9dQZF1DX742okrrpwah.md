@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > La Mano 1.9 x Ninho, Genezio, U2 et Teddy Swims au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,157 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,119 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 18 | [INSTRUMENT](https://open.spotify.com/track/1XDmQEZjsDDSoInzjLe7lD) | [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [INSTRUMENT](https://open.spotify.com/album/6RE499ANI1c9XVC8a9GtxZ) | 2:42 |
 | 19 | [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 |
 | 20 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
-| 21 | [All My Life](https://open.spotify.com/track/5SIQKhxonWjF5C0f1KT7At) | [GGB](https://open.spotify.com/artist/5YxNG0dFyrvF92ZMSZhZft), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Lena Situations](https://open.spotify.com/artist/31mbaFC1l80Rsah5IVltYX), [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [All My Life](https://open.spotify.com/album/3D9ujtj8Re6EK1QgwEXeGe) | 2:35 |
+| 21 | [All My Life](https://open.spotify.com/track/5SIQKhxonWjF5C0f1KT7At) | [GGB](https://open.spotify.com/artist/5YxNG0dFyrvF92ZMSZhZft), [Lena Situations](https://open.spotify.com/artist/31mbaFC1l80Rsah5IVltYX), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [All My Life](https://open.spotify.com/album/3D9ujtj8Re6EK1QgwEXeGe) | 2:35 |
 | 22 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 |
 | 23 | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/track/1rwOLMfAwW4M6sehYf7Lop) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/album/1tku7mFvWNy5EmRy9WKsLe) | 3:09 |
 | 24 | [I'm Never Gonna R.I.P.](https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I'm Never Gonna R.I.P.](https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD) | 2:04 |

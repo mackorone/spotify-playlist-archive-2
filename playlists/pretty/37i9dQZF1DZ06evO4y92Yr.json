@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAAL7B9F6YXvI3F83m6DU4vm",
+  "snapshot_id": "alV8AAAAAABQ6pGbIBTbYcgbv0rHb5dT",
   "tracks": [
     {
       "added_at": null,
@@ -28,7 +28,7 @@
       "added_at": null,
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     },
     {
       "added_at": null,
@@ -92,7 +92,7 @@
       "added_at": null,
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Meantime",
-      "url": "https://open.spotify.com/track/1L3fMJNX5WUJ865uU406Vz"
+      "duration_ms": 192880,
+      "name": "Good Hurt",
+      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Good Hurt",
-      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
+      "duration_ms": 183440,
+      "name": "Meantime",
+      "url": "https://open.spotify.com/track/1L3fMJNX5WUJ865uU406Vz"
     },
     {
       "added_at": null,

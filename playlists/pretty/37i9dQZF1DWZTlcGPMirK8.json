@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73617,
+  "num_followers": 73614,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Reprisal",
         "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Sneaky Sound System",
         "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 269200,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Off The Grid",
-        "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
-      },
-      "artists": [
-        {
-          "name": "Bliss n Eso",
-          "url": "https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI"
-        },
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -871,6 +851,26 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Off The Grid",
+        "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
+      },
+      "artists": [
+        {
+          "name": "Bliss n Eso",
+          "url": "https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Innocent Eyes",
         "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Better in Blak",
         "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 192466,
       "name": "Better in Blak",
       "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "That's What I'm Talking About",
-        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
-      },
-      "artists": [
-        {
-          "name": "Shannon Noll",
-          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "What About Me",
-      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Sneaky Sound System",
         "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 196946,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "That's What I'm Talking About",
+        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
+      },
+      "artists": [
+        {
+          "name": "Shannon Noll",
+          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
     },
     {
       "added_at": "2024-08-05 06:00:58",

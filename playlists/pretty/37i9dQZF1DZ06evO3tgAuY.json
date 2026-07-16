@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2443,
+  "num_followers": 2444,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAAxQp13FN/c49iypbDkN8/9",
+  "snapshot_id": "alV8AAAAAAD2Bpyx8BMByU3drQMQh7mU",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Copa",
         "url": "https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 200000,
       "name": "Copa",
       "url": "https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona",
-        "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 119210,
-      "name": "La Corona",
-      "url": "https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ushua\u00efa",
         "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 144589,
       "name": "Bien Jalisco",
       "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona",
+        "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119210,
+      "name": "La Corona",
+      "url": "https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASARYK / BIEN PEDO",
         "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 189351,
       "name": "Culichi Vibes",
       "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOKO",
-        "url": "https://open.spotify.com/album/413pkByJQrneaoZmH29wD6"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 121606,
-      "name": "TOKO",
-      "url": "https://open.spotify.com/track/5zfMhzgCMxkaIc0s1MpGrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vino Rosa",
         "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 199384,
       "name": "Vino Rosa",
       "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOKO",
+        "url": "https://open.spotify.com/album/413pkByJQrneaoZmH29wD6"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 121606,
+      "name": "TOKO",
+      "url": "https://open.spotify.com/track/5zfMhzgCMxkaIc0s1MpGrT"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Lo Hubiera Pensado",
-        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 149994,
-      "name": "Nadie Lo Hubiera Pensado",
-      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Digas No",
         "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 169780,
       "name": "No Digas No",
       "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Lo Hubiera Pensado",
+        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 149994,
+      "name": "Nadie Lo Hubiera Pensado",
+      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
     },
     {
       "added_at": null,
@@ -971,22 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Abelardo Nevarez",
-          "url": "https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr"
         }
       ],
-      "duration_ms": 160362,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
     },
     {
       "added_at": null,

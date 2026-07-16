@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325700,
+  "num_followers": 325704,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
-        "name": "Pool (Gravagerz Version)",
-        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        },
-        {
-          "name": "kiki wera",
-          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Pool - Gravagerz Version",
-      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
+        "name": "Pool (Gravagerz Version)",
+        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        },
+        {
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Pool - Gravagerz Version",
+      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        }
+      ],
+      "duration_ms": 219556,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -1163,18 +1179,22 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
+        "name": "R 2 ME",
+        "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
       },
       "artists": [
         {
-          "name": "Nosi",
-          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
         }
       ],
-      "duration_ms": 219556,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
+      "duration_ms": 152173,
+      "name": "R 2 ME",
+      "url": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
-        "name": "R 2 ME",
-        "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "R 2 ME",
-      "url": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -1239,6 +1239,26 @@
       "duration_ms": 162644,
       "name": "Closer To The Floor",
       "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
+        "name": "Back to the 305",
+        "url": "https://open.spotify.com/album/5bz83EFYjM4ToJVofVL71a"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 177730,
+      "name": "Back to the 305",
+      "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1267,26 +1287,6 @@
       "duration_ms": 129302,
       "name": "Push It",
       "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
-        "name": "Back to the 305",
-        "url": "https://open.spotify.com/album/5bz83EFYjM4ToJVofVL71a"
-      },
-      "artists": [
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 177730,
-      "name": "Back to the 305",
-      "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
+        "name": "4Get The Girl",
+        "url": "https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "duration_ms": 214616,
+      "name": "4Get The Girl",
+      "url": "https://open.spotify.com/track/6yjyavXzUEkkBsg4ZQAUQr"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
         "name": "Boost Up",
         "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 176274,
       "name": "Zone (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
-        "name": "4Get The Girl",
-        "url": "https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        }
-      ],
-      "duration_ms": 214616,
-      "name": "4Get The Girl",
-      "url": "https://open.spotify.com/track/6yjyavXzUEkkBsg4ZQAUQr"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
-        "name": "Baian\u00e1 (Boa Noite)",
-        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Baian\u00e1 (Boa Noite)",
-      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 184827,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
+        "name": "Baian\u00e1 (Boa Noite)",
+        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Baian\u00e1 (Boa Noite)",
+      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
     },
     {
       "added_at": "2026-07-10 10:27:04",
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2026-07-10 10:27:04",
       "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
+    },
+    {
+      "added_at": "2026-07-10 10:27:04",
+      "album": {
         "name": "Wanna Party (feat. Dennis G)",
         "url": "https://open.spotify.com/album/4YVg92vxNbOUMyTxjW4QwI"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 181500,
       "name": "Wanna Party (feat. Dennis G)",
       "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"
-    },
-    {
-      "added_at": "2026-07-10 10:27:04",
-      "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
-      },
-      "artists": [
-        {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
     },
     {
       "added_at": "2026-07-10 10:27:04",

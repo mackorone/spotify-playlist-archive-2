@@ -2,9 +2,9 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest hits right now\. Cover: Aya Nakamura
+> The hottest hits right now\. Cover: Stormy
 
-566 songs - 1 day 5 hr 57 min
+567 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-07-13 | 2023-03-26 |
 | [Balak](https://open.spotify.com/track/19rbX7Z2gQniLuShTi7VxP) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Flou](https://open.spotify.com/album/67cpbnbv3A8dewZVqfHams) | 3:47 | 2022-05-12 | 2022-09-07 |
 | [Balek](https://open.spotify.com/track/6y6ogtH99BJiEiBlEIY77A) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Balek](https://open.spotify.com/album/4De1zo3rJdvKQ0XAUndtOe) | 3:41 | 2022-05-12 | 2022-06-03 |
-| [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 | 2025-11-03 |  |
+| [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 | 2025-11-03 | 2026-07-16 |
 | [BAMBARA](https://open.spotify.com/track/5EBSvoppcZtLqZ7kif2Mhz) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BAMBARA](https://open.spotify.com/album/4ZhiN2qHatPIIVWS6yWkLt) | 2:22 | 2024-07-18 | 2024-07-27 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-18 | 2024-09-10 |
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2023-04-17 | 2023-04-22 |
@@ -438,6 +438,7 @@
 | [SAMEDI \(feat\. Shaw\)](https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:16 | 2026-06-12 |  |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-26 | 2025-07-16 |
 | [Sarini](https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Sarini](https://open.spotify.com/album/2IwrMNUgldFJy5kcqY43xA) | 2:50 | 2025-08-29 | 2025-09-24 |
+| [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 | 2026-07-15 |  |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-08-14 | 2024-07-19 |
 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 | 2026-05-29 |  |
 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 | 2026-06-18 |  |

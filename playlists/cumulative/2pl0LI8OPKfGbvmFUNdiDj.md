@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-538 songs - 1 day 6 hr 30 min
+540 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 | 2026-04-28 | 2026-07-02 |
 | [Beggin' \- Cover](https://open.spotify.com/track/4E5qkEZy9dxONym38rdU9b) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Samuele Mariani](https://open.spotify.com/artist/3TRmdsBjoc62qFy7jEuqeG) | [Beggin' \(Cover\)](https://open.spotify.com/album/52qB0QzvjWURwEGs72iEuq) | 3:38 | 2026-02-08 | 2026-04-14 |
 | [Bellissimo](https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md) | [Crawl Town](https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd) | [Bellissimo](https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ) | 2:40 | 2026-03-08 | 2026-05-26 |
+| [Belmont's Burden](https://open.spotify.com/track/6JtTuNBzGGY9XCoosrEW58) | [Chaz](https://open.spotify.com/artist/0AMUMmgDk8XcRVkWwT3xpH) | [Gamers](https://open.spotify.com/album/4TDXJxqqHRtzFIKkx9ie4a) | 2:16 | 2026-07-15 |  |
 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 | 2026-07-07 |  |
 | [Bet that](https://open.spotify.com/track/18qtR7u4LsdxpE5klxjSDk) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Bet that](https://open.spotify.com/album/56z9uaeTezKa2eK4gnMUxW) | 1:45 | 2025-11-13 | 2026-01-05 |
 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-28 | 2026-01-25 |
@@ -263,6 +264,7 @@
 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 | 2026-02-08 | 2026-03-03 |
 | [LA CORREA](https://open.spotify.com/track/6crvVYcGro1Ewukvm98AL0) | [Hugo Serrano](https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj) | [HALLOWEEN](https://open.spotify.com/album/2q0gSWqA5rgVqAnXVTTAwj) | 2:18 | 2025-11-01 | 2025-12-01 |
 | [La valiente](https://open.spotify.com/track/7hojzEYFzsIFNcsoD8ElWD) | [Alicia Castillo](https://open.spotify.com/artist/75DS5VXEOn1wHK8Y5PdTBM) | [Silencio y vértigo](https://open.spotify.com/album/4Q8VjxMQTSGXQ8UCEw2zHz) | 3:02 | 2026-07-10 |  |
+| [Lagrimas sobre mi tumba](https://open.spotify.com/track/0Gnmrekg0aorhYHSORyoa5) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Lagrimas sobre mi tumba](https://open.spotify.com/album/30xueizYmcjpbJmsK4ZhXx) | 3:34 | 2026-07-15 |  |
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-02-28 | 2026-05-26 |
 | [Last Time Dancing](https://open.spotify.com/track/3XtY6BIFUKabU0CIrntHNe) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Last Time Dancing](https://open.spotify.com/album/2TPQDIZSmD7ZD1dxACv9u2) | 2:15 | 2025-11-08 | 2025-12-01 |
 | [Late Nites](https://open.spotify.com/track/75gsaxmN1p8wLimz3iKmRa) | [Gmile](https://open.spotify.com/artist/2tt6NEFNep08zMwtrzxNaF) | [Late Nites](https://open.spotify.com/album/5XwHLVp7dZCxO0b8W2as0k) | 2:52 | 2025-11-17 | 2026-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Beyoncé, Future, The Rolling Stones and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,770 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,708 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 73 | [Strong Like Lion](https://open.spotify.com/track/16PLoogX8O3nOQh1NmKG7s) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Strong Like Lion](https://open.spotify.com/album/2Cs03yrg3fBzjMlw2YTv4x) | 2:36 |
 | 74 | [Bittersweet Escape](https://open.spotify.com/track/7m048jBthqhBF62d67E1kM) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Bittersweet Escape](https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed) | 2:47 |
 | 75 | [Tides](https://open.spotify.com/track/7k7LWZrsCic16PiZJidKdL) | [Shafkkat](https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd), [Jess Young](https://open.spotify.com/artist/7mt5zMJCyOKmxPyDT0ihZK) | [Tides](https://open.spotify.com/album/57dp3wTJO7GspD9EqGXQPF) | 3:32 |
-| 76 | [Dickhead](https://open.spotify.com/track/6CwH3WJJPxchCOYPIewPOl) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Dickhead](https://open.spotify.com/album/1KvXYsdmne1A2YP3Szatfz) | 3:03 |
+| 76 | [Dickhead \- demo](https://open.spotify.com/track/6CwH3WJJPxchCOYPIewPOl) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Dickhead \(demo\)](https://open.spotify.com/album/1KvXYsdmne1A2YP3Szatfz) | 3:03 |
 | 77 | [CRAWLING OUT MY SKIN](https://open.spotify.com/track/5QRdC0sH4GR7BCrvLUgadP) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [CRAWLING OUT MY SKIN](https://open.spotify.com/album/7j9Oes4f4ejjqLZ7QcT0af) | 3:32 |
 | 78 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
 | 79 | [Wasting Time \(feat\. Anderson .Paak\)](https://open.spotify.com/track/2G4y316Kk8FNcH0pf3mjBY) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dem Goats](https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh) | 3:10 |

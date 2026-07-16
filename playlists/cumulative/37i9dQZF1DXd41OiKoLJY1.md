@@ -4,7 +4,7 @@
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Kasane\]\. Artwork: Isu Kim.
 
-4,115 songs - 10 day 0 hr 22 min
+4,119 songs - 10 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Bat Sayo Pa](https://open.spotify.com/track/3yUOhMlmDe7nI4dghQ6SHf) | [Mark Daniel](https://open.spotify.com/artist/0wdZsNcM1BUFzG1Oss3HQ1) | [Bat Sayo Pa](https://open.spotify.com/album/5INJYJPlJEDNFmkwDLsvMT) | 4:30 | 2025-05-30 | 2025-07-25 |
 | [Bati Na Ba?](https://open.spotify.com/track/1MXebJSXCc4UCb1q6yccYE) | [Dreiboi](https://open.spotify.com/artist/3s43UzWzqeDZvLhBb3FYiY) | [Bati Na Ba?](https://open.spotify.com/album/7bzpgg4PAOsHAgrnAVOOdn) | 4:06 | 2025-02-20 | 2025-04-04 |
 | [Bawal Ang Malisya](https://open.spotify.com/track/31Ox4uUKvZ6UthsV2tpkNi) | [Celine Laroza](https://open.spotify.com/artist/0qzPP9jEPlte12vBbIK02n) | [Bawal Ang Malisya](https://open.spotify.com/album/6k3BBW0gIbLeMYbwGQK9vl) | 3:06 | 2022-01-20 | 2022-03-11 |
+| [Bawal magkasakit](https://open.spotify.com/track/5HkhX0Bji9QNBDHJYFHnDf) | [Sexy Jay](https://open.spotify.com/artist/2qqmTHaQrHEYjfsuxredYP) | [DAGA](https://open.spotify.com/album/5tcXV1BUmS0KbiVhlxsxw9) | 2:36 | 2026-07-15 |  |
 | [Bawat Kalawakan](https://open.spotify.com/track/7D0vflIJuREza9OvWfO9My) | [Paul Arcega](https://open.spotify.com/artist/7egkoyQeJv0rQkkCVl35ME) | [City Nites](https://open.spotify.com/album/2RGA6lideiMzFMe1TNVxEd) | 5:05 | 2025-02-20 | 2025-04-04 |
 | [Bawat Tinig, Isang Bayan](https://open.spotify.com/track/3Loxb4CogU5hBa4eRNXiL3) | [Francine Bendol](https://open.spotify.com/artist/61EuTe4cB6ZwTo1TucafPI) | [Bawat Tinig, Isang Bayan](https://open.spotify.com/album/6elUkAwXwJORmyFsJU8vrD) | 3:51 | 2026-01-22 | 2026-03-13 |
 | [Bawat Yapak](https://open.spotify.com/track/0hjGJTZpGZfzXH2Ef45GAO) | [Jeffrey Querubin](https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn) | [Bawat Yapak](https://open.spotify.com/album/48COtlFiuhX5cpkUGAIaxs) | 4:39 | 2025-05-30 | 2026-01-15 |
@@ -1158,6 +1159,7 @@
 | [For All I Know is Love](https://open.spotify.com/track/3UdoLZAWsoVWs5YxfpLnFs) | [No Lore](https://open.spotify.com/artist/1dflKYBqIcK3KClERQfXtB) | [For All I Know is Love](https://open.spotify.com/album/6UZfjtfCar9FYO1gkRJL70) | 3:11 | 2024-10-03 | 2025-01-24 |
 | [for always](https://open.spotify.com/track/4YQXCrtrxGKHBhRWaOXz8O) | [esa](https://open.spotify.com/artist/32gKPyvVOMrhSCrjDm657c) | [for always](https://open.spotify.com/album/2Yw2iDBXk95ZwNSuY41T2U) | 4:31 | 2023-06-29 | 2023-07-21 |
 | [For Granted](https://open.spotify.com/track/05BQa7lIlHmVzTQBiSfgwO) | [E\-Kove](https://open.spotify.com/artist/1oy5G3wIJcMmPqOSaWzndE), [P4bl0](https://open.spotify.com/artist/0xh04KMHGerrwFTxxdLs4V) | [For Granted](https://open.spotify.com/album/5RrWGFEYgqeAMRwdgnnQCJ) | 2:55 | 2023-04-13 | 2023-05-05 |
+| [For Heaven's Sake](https://open.spotify.com/track/6sEJMpXldkp9FdkxwooPXk) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [For Heaven's Sake](https://open.spotify.com/album/7ky9rpICqZ7nNwuXH41n23) | 3:17 | 2026-07-15 |  |
 | [For Keeps](https://open.spotify.com/track/3IUwdeCnZWuGuJI0fsxfLI) | [Shell Tenedero](https://open.spotify.com/artist/1tSGjqENNBtBtaBWHnPSVv) | [For Keeps](https://open.spotify.com/album/0F8VMB8iNhdON5tHLxdxd4) | 3:30 | 2023-08-24 | 2024-01-12 |
 | [For Mary](https://open.spotify.com/track/1tsTf8xYZFhEqtLNb9JQ9d) | [Ayip](https://open.spotify.com/artist/5hvJjbF0h7vQRvZ47Ll1zP) | [For Mary](https://open.spotify.com/album/4WW3Wi9tru0VSjYDEcOPT4) | 2:57 | 2022-06-16 | 2022-07-22 |
 | [for the silent girl](https://open.spotify.com/track/5eYDrsqZsrXXHmZu5GS77J) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [for the silent girl](https://open.spotify.com/album/4k3YFcFpAb6i8eB8NSbXmp) | 4:08 | 2025-10-02 | 2025-12-04 |
@@ -1893,8 +1895,10 @@
 | [Knight](https://open.spotify.com/track/4si4ML9UAqh4aGi4567Ewv) | [franz](https://open.spotify.com/artist/4SnxAiKFmPTSMpQnqay1sk) | [Knight](https://open.spotify.com/album/42CUHWPctBT4fr3zsGeF6B) | 3:29 | 2024-10-10 | 2025-01-24 |
 | [KNOCK YOURSELF OUT XD](https://open.spotify.com/track/0vFzN3PNhClovqckL2UPw1) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [KNOCK YOURSELF OUT XD](https://open.spotify.com/album/1WRaZOsRQtS2vdm51Uiyjo) | 3:27 | 2024-06-06 | 2024-06-28 |
 | [Kodigo](https://open.spotify.com/track/7dX6SifhdulLGfFN2R6ptT) | [DIONE](https://open.spotify.com/artist/2tXlQ6wwH8bmOqXLEumYkg) | [Kodigo](https://open.spotify.com/album/06OR9EXI67XIRhnAytT8EG) | 3:15 | 2025-04-24 | 2025-06-06 |
+| [Kolorete](https://open.spotify.com/track/0XTly8Yt9kjeBTqSLPxH4K) | [Carren Eistrup](https://open.spotify.com/artist/4djvt3xWK9dfkga6FXAxvp) | [Kolorete](https://open.spotify.com/album/3yvqhlUJR1RWXXn0jJiOVB) | 3:15 | 2026-07-15 |  |
 | [KOMPLETO](https://open.spotify.com/track/2jwZHyrs1yxGg5SIobNtvK) | [Marco BMG](https://open.spotify.com/artist/46wFQ13fQTY41FSRJS2m1u), [Max Importunate](https://open.spotify.com/artist/1ey4bEDkXvpAzhMkoEcOlP) | [KOMPLETO](https://open.spotify.com/album/2CBWDk5V8CTFCyCSlxUFdw) | 5:09 | 2023-03-16 | 2023-03-31 |
 | [Kompletos Rekados](https://open.spotify.com/track/11UAVqbEwWNtmTWoWmuuM7) | [SNG On Da Track](https://open.spotify.com/artist/497uh8Q5OmAzaNpaZDVL35), [Rish Mel](https://open.spotify.com/artist/2ENtIAo6CMZB7bLmJj3Owf), [Big Drimm](https://open.spotify.com/artist/3VbppAr11BTMOgcltTTDqZ), [Rove](https://open.spotify.com/artist/4xWG2T3Q14InL7VoQbthUB), [Abat](https://open.spotify.com/artist/4zHrke1vCIgYcWeSO5vfEr) | [Kompletos Rekados](https://open.spotify.com/album/2Rw1EwXRvceQoCRT2KHVGv) | 3:43 | 2023-04-13 | 2023-05-05 |
+| [Komplikado](https://open.spotify.com/track/2SZ9VQQcltcmLSzxwbUXvK) | [STARIRAYS](https://open.spotify.com/artist/0XG8KzIYhfzZ6ZaOYuvWrc) | [Komplikado](https://open.spotify.com/album/2ewXfqQ8QfwPcQPqHPbaW3) | 4:17 | 2026-07-15 |  |
 | [Kompyansa](https://open.spotify.com/track/4Bzg6a3KTYXA0xlbCVcJVz) | [Ferny](https://open.spotify.com/artist/0c2o962KhSDjbr8doBqOcC), [Chuya](https://open.spotify.com/artist/2GXEVRwL1sW36TxBxq1QsV) | [Kompyansa](https://open.spotify.com/album/32ROu1tha6DyRWTidliClO) | 4:36 | 2024-05-16 | 2024-06-14 |
 | [KPG](https://open.spotify.com/track/0kFjcEbZKRy6IjtUTmNvC3) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [KPG](https://open.spotify.com/album/4jkjJKgRMRsjhgNbE6Ij8K) | 3:14 | 2024-09-26 | 2024-11-08 |
 | [Kras](https://open.spotify.com/track/6tZ8RlF1YpReq9SkIXiR10) | [Maria](https://open.spotify.com/artist/5tYdMaceLRc3VkMwFQsFN8) | [Kras](https://open.spotify.com/album/3sAvvbboXfXrggx4hakwCU) | 5:33 | 2025-02-27 | 2025-05-02 |

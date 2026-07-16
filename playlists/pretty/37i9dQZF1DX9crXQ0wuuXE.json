@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 601831,
+  "num_followers": 601812,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "I And Love And You",
         "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 300840,
       "name": "I And Love And You",
       "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "You Are Not Alone",
-        "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/2REeTHmiO6kbkNTwkolGwC"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 273853,
       "name": "King And Lionheart",
       "url": "https://open.spotify.com/track/5HF5PRNJ8KGtbzNPPc93tG"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/2REeTHmiO6kbkNTwkolGwC"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Falling Faster Than You Can Run",
-        "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 249579,
-      "name": "Still Trying",
-      "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 256560,
       "name": "At the Purchaser's Option",
       "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Falling Faster Than You Can Run",
+        "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 249579,
+      "name": "Still Trying",
+      "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Benjamin Booker",
-        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Violent Shiver",
-      "url": "https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Small Town Heroes",
         "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 153546,
       "name": "Blue Ridge Mountain",
       "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Benjamin Booker",
+        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Violent Shiver",
+      "url": "https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m"
     },
     {
       "added_at": "2024-08-28 14:08:37",

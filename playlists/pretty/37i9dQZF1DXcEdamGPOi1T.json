@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20397,
+  "num_followers": 20408,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-07-10 04:03:22",
       "album": {
-        "name": "Hit Sale",
-        "url": "https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez"
-      },
-      "artists": [
-        {
-          "name": "Therapie TAXI",
-          "url": "https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C"
-        },
-        {
-          "name": "Rom\u00e9o Elvis",
-          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Hit Sale",
-      "url": "https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA"
-    },
-    {
-      "added_at": "2026-07-10 04:03:22",
-      "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+    },
+    {
+      "added_at": "2026-07-10 04:03:22",
+      "album": {
+        "name": "Hit Sale",
+        "url": "https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez"
+      },
+      "artists": [
+        {
+          "name": "Therapie TAXI",
+          "url": "https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C"
+        },
+        {
+          "name": "Rom\u00e9o Elvis",
+          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Hit Sale",
+      "url": "https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA"
     },
     {
       "added_at": "2026-07-10 04:03:22",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-10 04:03:22",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Adagio",
-      "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX"
-    },
-    {
-      "added_at": "2026-07-10 04:03:22",
-      "album": {
         "name": "SOIS PAS TIMIDE",
         "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
+    },
+    {
+      "added_at": "2026-07-10 04:03:22",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX"
     },
     {
       "added_at": "2026-07-10 04:03:22",

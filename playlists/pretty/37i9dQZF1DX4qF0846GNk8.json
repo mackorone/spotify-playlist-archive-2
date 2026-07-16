@@ -1,13 +1,29 @@
 {
   "description": " \u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631! \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
-  "num_followers": 678052,
+  "num_followers": 678288,
   "original_name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACf40//GFTw9SXnllC7dqwckTHxM",
+  "snapshot_id": "AAAAALtxirQ2xk7S4RhQ95vHWBUbfBs7",
   "tracks": [
+    {
+      "added_at": "2026-07-15 11:53:13",
+      "album": {
+        "name": "\u0639\u064a\u0627\u0644 \u062c\u062f\u064a\u062f\u0629 \u0644\u0627\u0646\u062c",
+        "url": "https://open.spotify.com/album/5MjhZcWxOgcTHNFJeyWnO3"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
+        }
+      ],
+      "duration_ms": 196894,
+      "name": "\u0639\u064a\u0627\u0644 \u062c\u062f\u064a\u062f\u0629 \u0644\u0627\u0646\u062c",
+      "url": "https://open.spotify.com/track/6iDTooZzJTkEGDei5M1R5e"
+    },
     {
       "added_at": "2026-07-06 13:21:40",
       "album": {
@@ -23,6 +39,102 @@
       "duration_ms": 222981,
       "name": "\u0627\u0644\u0648\u0644\u0627 \u062d\u0645\u0648 \u062c\u0647",
       "url": "https://open.spotify.com/track/4fxldwxdslbbrh9ZOwQCO5"
+    },
+    {
+      "added_at": "2026-07-06 13:21:40",
+      "album": {
+        "name": "\u0627\u0644\u063a\u0627\u0628\u0629 \u0644\u064a\u0647\u0627 \u0628\u0627\u0628\u0627 ( \u0647\u0648 \u0627\u0644\u062f\u064a\u0628 \u0644\u0645\u0627 \u064a\u063a\u064a\u0628 )",
+        "url": "https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0635\u0637\u0641\u064a \u0627\u0644\u062c\u0646 \u0648 \u0647\u0627\u062f\u064a \u0627\u0644\u0635\u063a\u064a\u0631 - \u062a\u064a\u0645 \u0627\u0644\u0627\u0628\u062f\u0627\u0639",
+          "url": "https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "\u0627\u0644\u063a\u0627\u0628\u0629 \u0644\u064a\u0647\u0627 \u0628\u0627\u0628\u0627 ( \u0647\u0648 \u0627\u0644\u062f\u064a\u0628 \u0644\u0645\u0627 \u064a\u063a\u064a\u0628 )",
+      "url": "https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF"
+    },
+    {
+      "added_at": "2026-07-06 13:21:40",
+      "album": {
+        "name": "\u0643\u0644\u0647\u0627 \u0645\u0633\u062a\u0646\u0638\u0631\u0647 \u0639\u064a\u0632\u0646\u064a \u0627\u0631\u062c\u0639 \u0648\u0631\u0627",
+        "url": "https://open.spotify.com/album/6p9ieBIjSX9GCVZElCjNe0"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "duration_ms": 183543,
+      "name": "\u0643\u0644\u0647\u0627 \u0645\u0633\u062a\u0646\u0638\u0631\u0647 \u0639\u064a\u0632\u0646\u064a \u0627\u0631\u062c\u0639 \u0648\u0631\u0627",
+      "url": "https://open.spotify.com/track/0ytTMGsxwuse60V0dk8PIX"
+    },
+    {
+      "added_at": "2026-07-06 13:21:40",
+      "album": {
+        "name": "\u0627\u062e\u062f\u062a \u0627\u0644\u0643\u062f\u0631 \u0645\u0646 \u0627\u0644\u062c\u0645\u064a\u0639",
+        "url": "https://open.spotify.com/album/2haRGC54uu4OoperC6oUZv"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "\u0627\u062e\u062f\u062a \u0627\u0644\u0643\u062f\u0631 \u0645\u0646 \u0627\u0644\u062c\u0645\u064a\u0639",
+      "url": "https://open.spotify.com/track/6r5VAKShZTrcoGd318VYSS"
+    },
+    {
+      "added_at": "2026-07-15 11:53:13",
+      "album": {
+        "name": "\u0627\u0646\u062a \u0627\u0648\u0646\u0637\u062c\u064a ( \u0627\u0644\u0646\u0627\u0633 \u0639\u0642\u0627\u0631\u0628 )",
+        "url": "https://open.spotify.com/album/2diF1P3CD4zn4XriBddymW"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "duration_ms": 349857,
+      "name": "\u0627\u0646\u062a \u0627\u0648\u0646\u0637\u062c\u064a ( \u0627\u0644\u0646\u0627\u0633 \u0639\u0642\u0627\u0631\u0628 )",
+      "url": "https://open.spotify.com/track/3Iql8rZ78yGTYpmXKiopz7"
+    },
+    {
+      "added_at": "2026-07-15 11:53:13",
+      "album": {
+        "name": "\u0648\u0627\u062e\u062f \u0627\u0644\u0634\u0627\u0631\u0639 ( \u0641\u064a\u0646 \u0627\u0644\u0642\u0644\u0628 \u0627\u0644\u0627\u0628\u0637\u0627\u0644 \u0631\u0643\u0646\u062a \u0639\u0644\u064a \u062c\u0645\u0628 )",
+        "url": "https://open.spotify.com/album/4SrNf7pmwK91JrKiuBG9Et"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0635\u0637\u0641\u064a \u0627\u0644\u062c\u0646 \u0648 \u0647\u0627\u062f\u064a \u0627\u0644\u0635\u063a\u064a\u0631 - \u062a\u064a\u0645 \u0627\u0644\u0627\u0628\u062f\u0627\u0639",
+          "url": "https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc"
+        }
+      ],
+      "duration_ms": 217775,
+      "name": "\u0648\u0627\u062e\u062f \u0627\u0644\u0634\u0627\u0631\u0639 ( \u0641\u064a\u0646 \u0627\u0644\u0642\u0644\u0628 \u0627\u0644\u0627\u0628\u0637\u0627\u0644 \u0631\u0643\u0646\u062a \u0639\u0644\u064a \u062c\u0645\u0628 )",
+      "url": "https://open.spotify.com/track/3WEnmweyCsxfQnTrAI052u"
+    },
+    {
+      "added_at": "2026-07-06 13:21:40",
+      "album": {
+        "name": "\u0627\u0646\u0627 5 \u0627\u0633\u062a\u0627\u0631 \u0639\u0644\u0649 \u0643\u0648\u0643\u0628\u0649",
+        "url": "https://open.spotify.com/album/0l2T8bGfUDFxEmuZpg0nJo"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
+        }
+      ],
+      "duration_ms": 278857,
+      "name": "\u0627\u0646\u0627 5 \u0627\u0633\u062a\u0627\u0631 \u0639\u0644\u0649 \u0643\u0648\u0643\u0628\u0649",
+      "url": "https://open.spotify.com/track/0Br3YI2wSgy62XhFQdsXzD"
     },
     {
       "added_at": "2026-07-06 13:21:40",
@@ -59,70 +171,6 @@
       "duration_ms": 218784,
       "name": "\u0643\u0644\u0645\u0629 \u0645\u0646\u064a \u0644\u0644\u064a \u0633\u0644\u0645\u0648\u0646\u064a ( \u0641\u064a\u0643 \u0646\u0641\u0633 \u064a\u0627 \u062d\u0644\u0648 )",
       "url": "https://open.spotify.com/track/6nsFMVApgSBsVjXD7mDWIP"
-    },
-    {
-      "added_at": "2026-07-06 13:21:40",
-      "album": {
-        "name": "\u0643\u0644\u0647\u0627 \u0645\u0633\u062a\u0646\u0638\u0631\u0647 \u0639\u064a\u0632\u0646\u064a \u0627\u0631\u062c\u0639 \u0648\u0631\u0627",
-        "url": "https://open.spotify.com/album/6p9ieBIjSX9GCVZElCjNe0"
-      },
-      "artists": [
-        {
-          "name": "Essam Sasa",
-          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
-        }
-      ],
-      "duration_ms": 183543,
-      "name": "\u0643\u0644\u0647\u0627 \u0645\u0633\u062a\u0646\u0638\u0631\u0647 \u0639\u064a\u0632\u0646\u064a \u0627\u0631\u062c\u0639 \u0648\u0631\u0627",
-      "url": "https://open.spotify.com/track/0ytTMGsxwuse60V0dk8PIX"
-    },
-    {
-      "added_at": "2026-07-06 13:21:40",
-      "album": {
-        "name": "\u0627\u062e\u062f\u062a \u0627\u0644\u0643\u062f\u0631 \u0645\u0646 \u0627\u0644\u062c\u0645\u064a\u0639",
-        "url": "https://open.spotify.com/album/2haRGC54uu4OoperC6oUZv"
-      },
-      "artists": [
-        {
-          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
-          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "\u0627\u062e\u062f\u062a \u0627\u0644\u0643\u062f\u0631 \u0645\u0646 \u0627\u0644\u062c\u0645\u064a\u0639",
-      "url": "https://open.spotify.com/track/6r5VAKShZTrcoGd318VYSS"
-    },
-    {
-      "added_at": "2026-07-06 13:21:40",
-      "album": {
-        "name": "\u0627\u0644\u063a\u0627\u0628\u0629 \u0644\u064a\u0647\u0627 \u0628\u0627\u0628\u0627 ( \u0647\u0648 \u0627\u0644\u062f\u064a\u0628 \u0644\u0645\u0627 \u064a\u063a\u064a\u0628 )",
-        "url": "https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u0635\u0637\u0641\u064a \u0627\u0644\u062c\u0646 \u0648 \u0647\u0627\u062f\u064a \u0627\u0644\u0635\u063a\u064a\u0631 - \u062a\u064a\u0645 \u0627\u0644\u0627\u0628\u062f\u0627\u0639",
-          "url": "https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc"
-        }
-      ],
-      "duration_ms": 192052,
-      "name": "\u0627\u0644\u063a\u0627\u0628\u0629 \u0644\u064a\u0647\u0627 \u0628\u0627\u0628\u0627 ( \u0647\u0648 \u0627\u0644\u062f\u064a\u0628 \u0644\u0645\u0627 \u064a\u063a\u064a\u0628 )",
-      "url": "https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF"
-    },
-    {
-      "added_at": "2026-07-06 13:21:40",
-      "album": {
-        "name": "\u0627\u0646\u0627 5 \u0627\u0633\u062a\u0627\u0631 \u0639\u0644\u0649 \u0643\u0648\u0643\u0628\u0649",
-        "url": "https://open.spotify.com/album/0l2T8bGfUDFxEmuZpg0nJo"
-      },
-      "artists": [
-        {
-          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
-          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
-        }
-      ],
-      "duration_ms": 278857,
-      "name": "\u0627\u0646\u0627 5 \u0627\u0633\u062a\u0627\u0631 \u0639\u0644\u0649 \u0643\u0648\u0643\u0628\u0649",
-      "url": "https://open.spotify.com/track/0Br3YI2wSgy62XhFQdsXzD"
     },
     {
       "added_at": "2026-07-06 13:21:40",
@@ -295,22 +343,6 @@
       "duration_ms": 278064,
       "name": "\u0627\u0648\u0639\u064a \u062a\u0639\u0645\u0644 \u0641\u064a\u0647\u0627 \u0628\u0637\u064a\u0631 ( \u0639\u064a\u0628 \u064a\u0627 \u0635\u0627\u062d\u0628\u064a \u062a\u062c\u064a\u0628 \u0641\u064a \u0633\u064a\u0631\u062a\u064a )",
       "url": "https://open.spotify.com/track/1QkfUQ5oW0NtrsbPbhOXsb"
-    },
-    {
-      "added_at": "2026-07-06 13:21:40",
-      "album": {
-        "name": "\u0627\u0644\u0627\u0631\u0634\u0627\u062f \u062f\u0644\u0648\u0642\u062a\u0649 \u0648\u0638\u064a\u0641\u0629 ( \u0641\u0631\u062d\u0627\u0646\u0629 \u0639\u0634\u0627\u0646 \u0628\u064a\u0642\u0648\u0644\u0647\u0627 )",
-        "url": "https://open.spotify.com/album/0hMqobdqehpfCQLNmVsHXH"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u0635\u0637\u0641\u064a \u0627\u0644\u062c\u0646 \u0648 \u0647\u0627\u062f\u064a \u0627\u0644\u0635\u063a\u064a\u0631 - \u062a\u064a\u0645 \u0627\u0644\u0627\u0628\u062f\u0627\u0639",
-          "url": "https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "\u0627\u0644\u0627\u0631\u0634\u0627\u062f \u062f\u0644\u0648\u0642\u062a\u0649 \u0648\u0638\u064a\u0641\u0629 ( \u0641\u0631\u062d\u0627\u0646\u0629 \u0639\u0634\u0627\u0646 \u0628\u064a\u0642\u0648\u0644\u0647\u0627 )",
-      "url": "https://open.spotify.com/track/4ObSHwR8IQy9FgRvmUq23A"
     },
     {
       "added_at": "2026-07-06 13:21:40",
@@ -567,26 +599,6 @@
     {
       "added_at": "2026-07-06 13:21:40",
       "album": {
-        "name": "\u0647\u0644\u0627 \u0627\u0646\u0627 \u062c\u064a\u062a \u062a\u0631\u064a\u062d \u064a\u0644\u0627",
-        "url": "https://open.spotify.com/album/2HaoiAQBLEzr6b7b5BQXl5"
-      },
-      "artists": [
-        {
-          "name": "Hamo ElTikha",
-          "url": "https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7"
-        },
-        {
-          "name": "\u0645\u0648\u062f\u064a \u0627\u0645\u064a\u0646",
-          "url": "https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI"
-        }
-      ],
-      "duration_ms": 385880,
-      "name": "\u0647\u0644\u0627 \u0627\u0646\u0627 \u062c\u064a\u062a \u062a\u0631\u064a\u062d \u064a\u0644\u0627",
-      "url": "https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA"
-    },
-    {
-      "added_at": "2026-07-06 13:21:40",
-      "album": {
         "name": "\u0645\u062d\u0643\u0645\u0647 \u0648\u062f\u062e\u0644\u0646\u0627 \u0639\u0644\u064a \u0627\u0644\u0645\u0641\u0631\u0645\u0647 (\u0627\u0641\u062a\u0631\u064a \u0648 \u0639\u0648\u062c\u0644\u064a \u0634\u0639\u0631\u0647 \u0644\u0648\u0631\u0627)",
         "url": "https://open.spotify.com/album/7ihcvXd0yPY770NnodZhWD"
       },
@@ -599,26 +611,6 @@
       "duration_ms": 200855,
       "name": "\u0645\u062d\u0643\u0645\u0647 \u0648\u062f\u062e\u0644\u0646\u0627 \u0639\u0644\u064a \u0627\u0644\u0645\u0641\u0631\u0645\u0647 - \u0627\u0641\u062a\u0631\u064a \u0648 \u0639\u0648\u062c\u0644\u064a \u0634\u0639\u0631\u0647 \u0644\u0648\u0631\u0627",
       "url": "https://open.spotify.com/track/19KmGvzh31z2wqIgQkD1HH"
-    },
-    {
-      "added_at": "2026-07-06 13:21:40",
-      "album": {
-        "name": "\u0648\u0634\u0648\u0634 \u0645\u0641\u0628\u0631\u0643\u0647",
-        "url": "https://open.spotify.com/album/2SwQsR2WwWqvIQMrVwo53H"
-      },
-      "artists": [
-        {
-          "name": "Eslam Kabonga",
-          "url": "https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB"
-        },
-        {
-          "name": "\u0627\u064a\u0641\u0627 \u0627\u0644\u0627\u064a\u0631\u0627\u0646\u064a",
-          "url": "https://open.spotify.com/artist/0CNw6MNbrkG3Vd6aSpHhA5"
-        }
-      ],
-      "duration_ms": 296124,
-      "name": "\u0648\u0634\u0648\u0634 \u0645\u0641\u0628\u0631\u0643\u0647",
-      "url": "https://open.spotify.com/track/1s3XxWKQe5yeTiCmtmnVDX"
     },
     {
       "added_at": "2026-07-06 13:21:40",

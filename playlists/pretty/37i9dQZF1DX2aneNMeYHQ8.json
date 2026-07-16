@@ -1,6 +1,6 @@
 {
   "description": "alt, indie rock, and folk sprinkled into this sonic melting pot. Cover: Noah Kahan",
-  "num_followers": 614347,
+  "num_followers": 614317,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-07-10 04:01:50",
       "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/5bjrfLnlXq7JvqtCWWrold"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 235049,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X"
+    },
+    {
+      "added_at": "2026-07-10 04:01:50",
+      "album": {
         "name": "Everyone Around Me Dancing",
         "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 185955,
       "name": "Everyone Around Me Dancing",
       "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
-    },
-    {
-      "added_at": "2026-07-10 04:01:50",
-      "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2026-07-10 04:01:50",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-07-10 04:01:50",
       "album": {
-        "name": "So Long",
-        "url": "https://open.spotify.com/album/5bjrfLnlXq7JvqtCWWrold"
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
       },
       "artists": [
         {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 235049,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X"
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2026-07-10 04:01:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Jarah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,256 likes - 62 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,245 likes - 62 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

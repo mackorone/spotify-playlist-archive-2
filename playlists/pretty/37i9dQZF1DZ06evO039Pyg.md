@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,058 likes - 47 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,092 likes - 47 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 46 | [wRoNg \(feat\. Kehlani\)](https://open.spotify.com/track/7iCeaYJSEdGWeFNTAEqUzJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:32 |
 | 47 | [melt](https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 3:31 |
 
-Snapshot ID: `alQqgAAAAAACyBZQFIlWxW0517BxhnJ5`
+Snapshot ID: `alV8AAAAAACi5XOekZmMolZsVGPV5zCs`

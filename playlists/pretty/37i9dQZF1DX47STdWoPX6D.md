@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Parris Chariz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,837 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,972 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 98 | [Hate Won't Work](https://open.spotify.com/track/1m7sOV7t7pfX6a5vxUoo3J) | [Bryson Gray](https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk) | [Obedience](https://open.spotify.com/album/7E3aFljdKRLp4IFSQQbT1l) | 2:42 |
 | 99 | [Letting Go](https://open.spotify.com/track/1sqAOU4mgt6R09dE63xyDx) | [ASAP Preach](https://open.spotify.com/artist/32Sk85U3n2U9ji9PxvGAUC), [Brother Bo](https://open.spotify.com/artist/3cmp77GMj0JNM3YHYquhMo) | [Letting Go](https://open.spotify.com/album/0HCvKzmBimdlYRDhyzld0i) | 2:57 |
 
-Snapshot ID: `AAAAAGnVbL6OFgra+KU6rH/CuF77mPzi`
+Snapshot ID: `AAAAAJe7L63esrWIGtgIdv90G9mQhcry`

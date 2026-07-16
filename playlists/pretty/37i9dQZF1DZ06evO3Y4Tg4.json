@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 272603,
+  "num_followers": 272640,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAAks8M0Ce765SQcgzUQmLrv",
+  "snapshot_id": "alV8AAAAAABXLRmdy72mq66ZDc7jtsiA",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Titanium & Mercury",
+        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 127750,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trying Times",
         "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 197311,
       "name": "Doesn't Just Happen",
       "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 127750,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crop Circle",
         "url": "https://open.spotify.com/album/4375umzAIqqlWI49eue7Na"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 141146,
       "name": "Venting",
       "url": "https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
     },
     {
       "added_at": null,

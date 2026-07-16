@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,488 likes - 79 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,487 likes - 79 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 38 | [WKURWELEPSZEPOGO](https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [TRASH TAPE](https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax) | 2:16 |
 | 39 | [Zaprzepaszczone siły wielkiej armii świętych znaków \- Live](https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8) | [Coma](https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17) | [Coma Live Pol'and'Rock Festival 2024](https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7) | 14:15 |
 | 40 | [Life Is A Game](https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [White Room](https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB) | 3:32 |
-| 41 | [The Shit Ov God](https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV) | 5:36 |
-| 42 | [Moja bestia](https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 4:41 |
+| 41 | [Moja bestia](https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 4:41 |
+| 42 | [The Shit Ov God](https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV) | 5:36 |
 | 43 | [Nowy rozdział](https://open.spotify.com/track/02W2Rnd9yiaYMUdPb8FW8u) | [Turbo](https://open.spotify.com/artist/1hT8ADv3IA415PjBUwfLLv) | [Blizny](https://open.spotify.com/album/3zZetK9kvK3SFuI1hCazEB) | 4:06 |
 | 44 | [Bowie](https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 4:57 |
 | 45 | [VValka o każdy kolejny dzień](https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:53 |

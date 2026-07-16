@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,597 songs - 10 day 6 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,601 songs - 10 day 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4605,5 +4605,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4595 | [Mirrors](https://open.spotify.com/track/67HXK7DBWmoPCPzpusFe68) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Mirrors](https://open.spotify.com/album/5CRcVRdJ4eBr2v1dwaJDpx) | 4:57 |
 | 4596 | [Sangre y Limón](https://open.spotify.com/track/2ks7mu8WPoZtrYvry7vFAt) | [Mi novio dramático](https://open.spotify.com/artist/3VSmete7hOiLQadWOyyGf7) | [Sangre y Limón](https://open.spotify.com/album/3AYYSU1Jsbe4uTWMwUfcee) | 3:50 |
 | 4597 | [Dekhte Dekhte](https://open.spotify.com/track/7fB2A7mklrSf7lGTOwmQTK) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dekhte Dekhte](https://open.spotify.com/album/4gsOeNkHUnvfzzxB1uBiPQ) | 2:57 |
+| 4598 | [Bailamos](https://open.spotify.com/track/6UKlzJX1VKNucnnJF7rx3Q) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:39 |
+| 4599 | [Stopper](https://open.spotify.com/track/4PHOyudoqaGAFwDr8D3vqm) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Psychosomatic](https://open.spotify.com/album/0eDV5oAQ1vJtTpxYp3hEkf) | 5:33 |
+| 4600 | [Luz extinta](https://open.spotify.com/track/0uQvoYk6lRd0gkFdoNTn43) | [ENHEBRA](https://open.spotify.com/artist/4RGE7zTPz7t3P19jlljmHQ) | [Luz extinta](https://open.spotify.com/album/1o8ntDzfYLGFETA9hIZodc) | 5:45 |
+| 4601 | [Try Again](https://open.spotify.com/track/7zZH4I44iimTISzvkvZHmQ) | [CR0WN](https://open.spotify.com/artist/4t4Eu8jCaR3osTxu4hIGjV) | [Try Again](https://open.spotify.com/album/2qZpY5vs73qZj1HkHfU6kf) | 3:28 |
 
-Snapshot ID: `AAAJMofL49Zk4XGc26tjWKUcKJdaQoB3`
+Snapshot ID: `AAAJNgNzFQtGmsBKqqo95cVm0MuBxP5H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659 likes - 167 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 167 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 36 | [Lotus Blossom](https://open.spotify.com/track/1n6WfVhvWfj6zhehLJh82q) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Billy and Friends](https://open.spotify.com/album/6KYDeR2jJDrmJW544RXEV2) | 3:06 |
 | 37 | [I Don't Mind](https://open.spotify.com/track/06XRQBBz4XuOyDAlBZUxnh) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town](https://open.spotify.com/album/4fqNWJL8PQEt6eRX6AJ08Q) | 4:12 |
 | 38 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 |
-| 39 | [You Better Know It \- 2004 Remaster](https://open.spotify.com/track/76d5GR4aO4HZqb8NQGQzq2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:25 |
-| 40 | [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5nZ3cWYXLM6exMFCweubmL) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 5:00 |
+| 39 | [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5nZ3cWYXLM6exMFCweubmL) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 5:00 |
+| 40 | [You Better Know It \- 2004 Remaster](https://open.spotify.com/track/76d5GR4aO4HZqb8NQGQzq2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:25 |
 | 41 | [Strange Feeling](https://open.spotify.com/track/70shQlAT7pBE869zizxBs1) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:40 |
 | 42 | [Midriff \(12\)](https://open.spotify.com/track/23NLaObSzSJAmhdhHuumEA) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Historically Speaking \- The Duke \(Remastered 2014\)](https://open.spotify.com/album/7muEOF7DUhMsvqAN0nwsJw) | 3:51 |
 | 43 | [On the Wrong Side of the Railroad Tracks](https://open.spotify.com/track/3sEbCLAkVB1FmdXdJUverM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Duke Elegant](https://open.spotify.com/album/32944vJtxt5vMbR8dAMViB) | 5:42 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 166 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 167 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `AcW3NgAAAACEB8C0CMiAj6B9ro0qVYVA`
+Snapshot ID: `AcW86gAAAAAEEp/0sB1ryY2aPXYPG6td`

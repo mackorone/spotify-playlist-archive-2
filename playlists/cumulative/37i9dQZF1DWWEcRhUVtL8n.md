@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-2,469 songs - 5 day 11 hr 35 min
+2,470 songs - 5 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1428,7 +1428,7 @@
 | [melancholyism.](https://open.spotify.com/track/03ejfFAbwrrANbH4fZzF0W) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [melancholyism.](https://open.spotify.com/album/1Umawe3NueijnMkEGiQwZV) | 3:08 | 2020-10-20 | 2020-10-21 |
 | [Melrose Meltdown](https://open.spotify.com/track/0oXD7ewBoYpsLmgG07VMF6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 | 2022-06-17 | 2022-08-06 |
 | [Melrose Meltdown](https://open.spotify.com/track/7kvlIHCMeZyQVG6Fsn10Vf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Melrose Meltdown](https://open.spotify.com/album/2CxqquXzqf6JbYYVAAeEkm) | 3:32 | 2022-01-28 | 2022-06-29 |
-| [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 |  |
+| [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 | 2026-07-16 |
 | [menace](https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [menace](https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc) | 2:05 | 2022-07-22 | 2022-08-06 |
 | [Mesmerized](https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Mesmerized](https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr) | 2:38 | 2026-06-05 |  |
 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 | 2021-05-08 | 2023-06-24 |
@@ -1563,6 +1563,7 @@
 | [Nostalgia](https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [Nostalgia](https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN) | 3:50 | 2021-04-03 | 2022-04-16 |
 | [nostalgic \(luvsick\)](https://open.spotify.com/track/1DQj87dLf0PPrpEjvBgHXP) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [nostalgic \(luvsick\)](https://open.spotify.com/album/5DHL2kzqmvPTRwE5JJbUsK) | 2:45 | 2020-10-13\* | 2020-11-20 |
 | [not alone](https://open.spotify.com/track/4muWNZ5n69p9tnjTfDz7GO) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 2:34 | 2021-03-27 | 2021-05-19 |
+| [Not For A Lack Of Trying](https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Not For A Lack Of Trying](https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3) | 2:34 | 2026-07-10 |  |
 | [Not in the Mood](https://open.spotify.com/track/4raH6vunFptMQYF8jfWhQq) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Not in the Mood](https://open.spotify.com/album/3gbolpvpza9SKCKi0qtmav) | 3:13 | 2021-05-05 | 2021-10-13 |
 | [Not in the Mood](https://open.spotify.com/track/7xTTzKKNbwoK0vcbau1Psg) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Not in the Mood](https://open.spotify.com/album/1SR3X3u2gBgYattT2xJKjN) | 3:13 | 2021-05-03 | 2021-05-26 |
 | [Not My Life](https://open.spotify.com/track/2liIn60qyM4jaW58KBeryL) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Dontyoumind](https://open.spotify.com/album/01nuwf4e1RUjIDJfWbTgh5) | 2:54 | 2020-11-03 | 2020-11-15 |

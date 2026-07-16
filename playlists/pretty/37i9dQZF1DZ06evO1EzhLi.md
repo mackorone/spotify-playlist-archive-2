@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 
 > This is 3 Doors Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,496 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,509 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 41 | [When It's Over](https://open.spotify.com/track/5YseXPW7e6yxH30osSScQ1) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 4:16 |
 | 42 | [Pieces Of Me](https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:38 |
 | 43 | [Be Somebody](https://open.spotify.com/track/0z6aqMJAl7TbCP4okrKcHs) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:15 |
-| 44 | [Something In My Mind](https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:18 |
+| 44 | [Pop Song](https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:10 |
 | 45 | [Man In My Mind \- Escatawpa Sessions](https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life \(20th Anniversary / Deluxe\)](https://open.spotify.com/album/2drHOqyJSkIzS3zFUWMjMF) | 3:04 |
-| 46 | [Pop Song](https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:10 |
+| 46 | [Something In My Mind](https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:18 |
 | 47 | [Living A Lie](https://open.spotify.com/track/0h21bkO9NsR6i24ajwaA38) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:34 |
 | 48 | [That Smell](https://open.spotify.com/track/2SPKOzUEeuXlZgUQ1OzEeh) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 5:48 |
 | 49 | [Dead Love \- Early Version](https://open.spotify.com/track/0DaLO1tFuqya69xGEoTEAG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:05 |
 
-Snapshot ID: `alQqgAAAAABjLI2yG1bRb+QrxriZdod7`
+Snapshot ID: `alV8AAAAAAC+8kZc0S9BA4DdkjgFZ0KL`

@@ -281,8 +281,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 271 | [Jerks](https://open.spotify.com/track/2mRqulmiK3UKOMZcEHWX2v) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:10 |
 | 272 | [123456](https://open.spotify.com/track/7zVTLv5K9qk73GVtOyCL3c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:01 |
 | 273 | [When I Come Back](https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:44 |
-| 274 | [Alright Baby](https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:28 |
-| 275 | [Turquoise Eyes](https://open.spotify.com/track/2dTZHlfHdzh7mWiZhSGVBh) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 5:49 |
+| 274 | [Turquoise Eyes](https://open.spotify.com/track/2dTZHlfHdzh7mWiZhSGVBh) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 5:49 |
+| 275 | [Alright Baby](https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:28 |
 | 276 | [Drives Me Wild](https://open.spotify.com/track/4pzGUTJEWL4JjuJyZBZjCA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:24 |
 | 277 | [There You Go](https://open.spotify.com/track/0ZFiNVbt5LtEQLNmB4tow8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:51 |
 | 278 | [Lipstick](https://open.spotify.com/track/2m7NmDAmBpLGfFCZYkCgIb) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:44 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 287 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 288 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
 
-Snapshot ID: `AcW3VAAAAAAbPoqUTBWfeXB9N8AmJfz8`
+Snapshot ID: `AcW89AAAAAA4mIOA2PVzckDYeL729CBP`

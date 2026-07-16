@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Pashanim, Beyoncé, Luciano, Jazeek, Dilla & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,428 likes - 83 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,377 likes - 83 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

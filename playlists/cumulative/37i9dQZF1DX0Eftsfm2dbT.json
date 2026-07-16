@@ -17217,6 +17217,60 @@
     },
     {
       "album": {
+        "name": "Garage Cypher 3",
+        "url": "https://open.spotify.com/album/34jLj3AZEeycARItaWq3OE"
+      },
+      "artists": [
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        },
+        {
+          "name": "Playsson",
+          "url": "https://open.spotify.com/artist/53zqQpFYtM8Z0N1KYdNjmp"
+        },
+        {
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
+        {
+          "name": "G.CUE",
+          "url": "https://open.spotify.com/artist/5dfLnDej7G8A7RN6W6RBPH"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        },
+        {
+          "name": "YUKSTA-ILL",
+          "url": "https://open.spotify.com/artist/5ngUbaLg3xv3FBQLrQRqXb"
+        },
+        {
+          "name": "Mr.OZ",
+          "url": "https://open.spotify.com/artist/0M5Vh7jZg5LDqbQDWAce0j"
+        },
+        {
+          "name": "TWO-J",
+          "url": "https://open.spotify.com/artist/4fFp8ycPNdr9wDsLh185qJ"
+        },
+        {
+          "name": "\u5442\u5e03\u30ab\u30eb\u30de",
+          "url": "https://open.spotify.com/artist/1VXKlipOuDHUYu1TvrMBcG"
+        },
+        {
+          "name": "\"E\"qual",
+          "url": "https://open.spotify.com/artist/779lkWBjMEvu9jw9nB3z4u"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301678,
+      "name": "Garage Cypher 3",
+      "url": "https://open.spotify.com/track/74T03O3OmyflTVtqAzllek"
+    },
+    {
+      "album": {
         "name": "ASCENT",
         "url": "https://open.spotify.com/album/3HTOnKukMs0RuZwzPryPoY"
       },

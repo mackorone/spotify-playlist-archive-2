@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,217 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,218 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 30 | [It's Only Country](https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:10 |
 | 31 | [Planet Country \- Remastered 2017](https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:38 |
 | 32 | [Something in the Water \- Remastered 2017](https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 3:13 |
-| 33 | [Scrubbashin' \- Remastered 2017](https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:21 |
-| 34 | [Outback Club Reunion](https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 4:00 |
+| 33 | [Keep on Truckin'](https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:49 |
+| 34 | [Scrubbashin' \- Remastered 2017](https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:21 |
 | 35 | [I Milk Cows \- Remastered 2017](https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 2:58 |
-| 36 | [Keep on Truckin'](https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:49 |
-| 37 | [Beautiful Noise](https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:24 |
+| 36 | [Beautiful Noise](https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:24 |
+| 37 | [Outback Club Reunion](https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 4:00 |
 | 38 | [Country Crowd \- Remastered 2017](https://open.spotify.com/track/11zQvjFccpnImml13XWNdS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:54 |
 | 39 | [When the First Bombs Fell](https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:32 |
 | 40 | [Cowgirls Do \- Remastered 2017](https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:08 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 43 | [Let There Be Cowgirls](https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:49 |
 | 44 | [Mate \- Remastered 2017](https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Bush \(Remastered 2017\)](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:40 |
 | 45 | [Drive On](https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:51 |
-| 46 | [Electric Rodeo \- Remastered 2017](https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:20 |
-| 47 | [Goondiwindi Moon \- Remastered 2017](https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:55 |
+| 46 | [Goondiwindi Moon \- Remastered 2017](https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:55 |
+| 47 | [Electric Rodeo \- Remastered 2017](https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:20 |
 | 48 | [We'll Take Beersheba](https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:23 |
 | 49 | [Missin' Slim](https://open.spotify.com/track/2QD0oudzMWHvHiIW9mCKh5) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Missin' Slim](https://open.spotify.com/album/1g34UBpOqfpUPNNWRz9Dna) | 3:53 |
 | 50 | [She Gave Us the Song](https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL) | [We're Still Here](https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU) | 3:20 |
 
-Snapshot ID: `alQqgAAAAAD3fINCQefSlwGBUQPhc8DT`
+Snapshot ID: `alV8AAAAAABUtw/l9SFWoCrpd6a21rlF`

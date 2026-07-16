@@ -7234,7 +7234,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 100000,
       "name": "Disgust",
       "url": "https://open.spotify.com/track/191C7eOOjQLYb84Z1qNqRY"
@@ -12809,6 +12809,24 @@
     },
     {
       "album": {
+        "name": "HOOD STORY",
+        "url": "https://open.spotify.com/album/5dDqCPXNm6Mglp313BL98j"
+      },
+      "artists": [
+        {
+          "name": "Yanny",
+          "url": "https://open.spotify.com/artist/1NDBbYK6M7u2iFtQRXi41E"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "HOOD STORY",
+      "url": "https://open.spotify.com/track/2MObVHg31D5gd8k6e6uk8c"
+    },
+    {
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/4eB0ap6Y6KR9MZxfyGAgai"
       },
@@ -15414,7 +15432,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 136560,
       "name": "Key",
       "url": "https://open.spotify.com/track/3LLCNutEhnb5CjorqFf4k0"
@@ -23389,6 +23407,24 @@
     },
     {
       "album": {
+        "name": "Real Talk!!",
+        "url": "https://open.spotify.com/album/0Bbhf9TiqtmlJ2wP0yth4o"
+      },
+      "artists": [
+        {
+          "name": "YouGetOohShiYo",
+          "url": "https://open.spotify.com/artist/7yjtnAYHa4O6sVUkMrg5Hm"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158807,
+      "name": "Real Talk!!",
+      "url": "https://open.spotify.com/track/2CYhRhjb1VR0m5GCOJ7uLu"
+    },
+    {
+      "album": {
         "name": "#fromSCRATCH",
         "url": "https://open.spotify.com/album/4MdyFT5ZpecLtZT1LRqrgl"
       },
@@ -23914,7 +23950,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 173257,
       "name": "RIVER",
       "url": "https://open.spotify.com/track/1VZe5W0dybFijEZQqKScmB"
@@ -28800,7 +28836,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 87563,
       "name": "Tokyo Last Night",
       "url": "https://open.spotify.com/track/2cKZToGJc5CFFlV2TzfsqT"
@@ -31681,6 +31717,44 @@
     },
     {
       "album": {
+        "name": "yo bitch its DoubtClub 925 (exclusive)",
+        "url": "https://open.spotify.com/album/13TZKPWupGfVmGxS2jW9ZX"
+      },
+      "artists": [
+        {
+          "name": "tna",
+          "url": "https://open.spotify.com/artist/4hf0Y8m1sYNnb0xYpQHVFn"
+        },
+        {
+          "name": "nowyoumakemeup",
+          "url": "https://open.spotify.com/artist/6jfLIDaCUgExUmt243cQ3F"
+        },
+        {
+          "name": "surpass",
+          "url": "https://open.spotify.com/artist/4CmBcdM1oxZBCnqwDi7AcC"
+        },
+        {
+          "name": "Lie",
+          "url": "https://open.spotify.com/artist/0SSXO3qm51lAFkRcaSMNIW"
+        },
+        {
+          "name": "Libra albert",
+          "url": "https://open.spotify.com/artist/0RHsSBpJ1vc6NKm8gbzVOz"
+        },
+        {
+          "name": "Sloppybaybsally",
+          "url": "https://open.spotify.com/artist/4YxvWW4XJuL0UswEKP4SrZ"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240779,
+      "name": "yo bitch its doubtclub (feat. nowyoumakemeup, surpass, Lie, Libra albert & Sloppybaybsally) [exclusive]",
+      "url": "https://open.spotify.com/track/5C4fYdRz2SOdoNKLHV8MoG"
+    },
+    {
+      "album": {
         "name": "Yogibo feat. LOM",
         "url": "https://open.spotify.com/album/1ZH3EXX9ows7rOW5QbqXnf"
       },
@@ -33826,6 +33900,24 @@
       "duration_ms": 131069,
       "name": "\u629c\u5200",
       "url": "https://open.spotify.com/track/5KclqqNYmIN6YDuBHK8P1w"
+    },
+    {
+      "album": {
+        "name": "\u652f\u6301\u5c64",
+        "url": "https://open.spotify.com/album/5Wcu74FeCcCZbgtqrnhCAC"
+      },
+      "artists": [
+        {
+          "name": "Young Blood",
+          "url": "https://open.spotify.com/artist/1zqTZsgRDbKdplyBQ6Qxsg"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112583,
+      "name": "\u652f\u6301\u5c64",
+      "url": "https://open.spotify.com/track/4Arol1OyhnMCv26cKANRbP"
     },
     {
       "album": {

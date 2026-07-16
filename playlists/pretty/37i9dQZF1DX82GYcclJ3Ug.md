@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Cage The Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,260 likes - 151 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,281 likes - 151 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

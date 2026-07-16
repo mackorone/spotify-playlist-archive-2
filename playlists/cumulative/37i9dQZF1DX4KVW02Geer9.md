@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 市川空
 
-586 songs - 1 day 18 hr 4 min
+587 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Streets is Calling \(feat\. M.anifest & Moonchild Sanelly\) \- Single Edit](https://open.spotify.com/track/14SfLWyzXDzoDDsv4aq2eF) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Streets Is Calling \(feat\. Moonchild Sanelly & M.anifest\)](https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL) | 2:32 | 2024-09-05 | 2024-09-27 |
 | [Suite Plusante](https://open.spotify.com/track/0brKvUrsafXYO2YObXEdkj) | [Laranja](https://open.spotify.com/artist/3voFFouSzs8jq02XKwPQMP), [Chihiro Sings](https://open.spotify.com/artist/7p0ll6CO1q1v7iJeqe3yeg) | [ARCANE FLARE](https://open.spotify.com/album/6CEissgtxGuYlFRvlCVzei) | 5:39 | 2026-04-23 |  |
 | [Sum Love](https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 2:55 | 2024-10-10 | 2024-12-06 |
+| [Summer Haze](https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Summer Haze](https://open.spotify.com/album/6xAWyKJaOEVBOSvwdxbrR4) | 2:53 | 2026-07-14 |  |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-26 | 2025-10-03 |
 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2025-01-30 | 2025-05-09 |
 | [Superstring \- Rework](https://open.spotify.com/track/4yCpoba6seyaAGwRQyVvdj) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [Mud And Citrus Mix Tape](https://open.spotify.com/album/4Aq96x9QJ6DN9e5UCsZvNU) | 2:42 | 2024-06-27 | 2024-10-05 |

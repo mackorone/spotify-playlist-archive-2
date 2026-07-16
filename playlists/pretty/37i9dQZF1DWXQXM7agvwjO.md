@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Cornelius \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,664 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,667 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 25 | [夏燼](https://open.spotify.com/track/79QevogBPBrhNeZHe1TDah) | [8bite](https://open.spotify.com/artist/10adi7BOrRcihveeaZsRWA) | [夏燼](https://open.spotify.com/album/1wGFzarFTFN2xbwjCOHwMW) | 3:21 |
 | 26 | [公路 Highway](https://open.spotify.com/track/0YJtFxp46guIz1Xsyi5VGQ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [公路 Highway](https://open.spotify.com/album/1bMAMiSyDW96G6GZ1NSYtJ) | 3:23 |
 | 27 | [not again](https://open.spotify.com/track/6rc3jNCyKM37uZxCKTTKON) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [not again](https://open.spotify.com/album/6aUTe5jRMNsCzONsSQSVLI) | 4:24 |
-| 28 | [SPARKLE BLUE](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
+| 28 | [Sparkle Blue](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
 | 29 | [june](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:44 |
 | 30 | [ฟื้น \(Athithan\)](https://open.spotify.com/track/1syUFw0njvgnZEVUTkBvkR) | [Yellow Fang](https://open.spotify.com/artist/7aB8dPCY3CPCjnRFGrFi2u) | [ฟื้น \(Athithan\)](https://open.spotify.com/album/7AgYS5giG9z7COFKnuJefN) | 5:37 |
 | 31 | [Deja Vu Slider](https://open.spotify.com/track/6e06Ala73WWWXRzyqkUeE0) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Deja Vu Slider](https://open.spotify.com/album/5xOe6UdMimY5RUvjcdiMMj) | 3:30 |

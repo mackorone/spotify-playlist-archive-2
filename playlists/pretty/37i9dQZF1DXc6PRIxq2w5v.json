@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 192365,
+  "num_followers": 192376,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,22 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         },
         {
-          "name": "Dima",
-          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+          "name": "DJ Richa",
+          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
         }
       ],
-      "duration_ms": 200405,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+      "duration_ms": 171428,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -747,22 +743,26 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
       "artists": [
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
         },
         {
-          "name": "DJ Richa",
-          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
+          "name": "Dima",
+          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+      "duration_ms": 200405,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1411,30 +1411,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Love Sangre",
-        "url": "https://open.spotify.com/album/4Z21EoViE71csguinP5E1S"
-      },
-      "artists": [
-        {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "Love Sangre",
-      "url": "https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 237108,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Love Sangre",
+        "url": "https://open.spotify.com/album/4Z21EoViE71csguinP5E1S"
+      },
+      "artists": [
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "Love Sangre",
+      "url": "https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo"
     },
     {
       "added_at": "2026-06-12 03:01:42",

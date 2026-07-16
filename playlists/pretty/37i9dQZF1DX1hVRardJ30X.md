@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Feid, De La Rose & Ryan Castro, Benny Blanco & Bb trickz, Luis R Conriquez, & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,276 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,311 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 20 | [Nota de Voz 117](https://open.spotify.com/track/0PpPyx8bAnBg57W1qvms69) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Nota de Voz 117](https://open.spotify.com/album/0JAUrRvWIqM14pMhnmT2CC) | 1:57 |
 | 21 | [Paraíso](https://open.spotify.com/track/0MISnYHBOzwTF3w8jJ3ar2) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Paraíso](https://open.spotify.com/album/7E0b35ambQLxpqemZT5fLI) | 2:50 |
 | 22 | [NO C DA](https://open.spotify.com/track/4TAKgzC4HLuiNnDkRJjqNo) | [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY) | [NO C DA](https://open.spotify.com/album/7GpcUY50CIwVtjHmdvMsZr) | 2:17 |
-| 23 | [La Culpa Fue Mia](https://open.spotify.com/track/2xEAe9nV2Zv0H9arXYgK6t) | [Betzabeth](https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm) | [La Culpa Fue Mia](https://open.spotify.com/album/0FogzGehLF13aiADfXk99c) | 2:47 |
+| 23 | [La Culpa Fue Mía](https://open.spotify.com/track/2xEAe9nV2Zv0H9arXYgK6t) | [Betzabeth](https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm) | [La Culpa Fue Mía](https://open.spotify.com/album/0FogzGehLF13aiADfXk99c) | 2:47 |
 | 24 | [Denisse](https://open.spotify.com/track/0w8j13CM49tWDsEwtH6j0b) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Denisse](https://open.spotify.com/album/3sl18HgwShBn3K0arFlOyw) | 3:41 |
 | 25 | [¿Qué Le Pongo?](https://open.spotify.com/track/0nLLlhcfUCAp1baUYDRO4E) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [¿Qué Le Pongo?](https://open.spotify.com/album/5gOK68n1RYpJmfLgJkvC6P) | 3:16 |
 | 26 | [Tatuaje En La Espalda](https://open.spotify.com/track/3eYR0MMAo6V0sJ8XGGt9ov) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Noches En La Isla, Vol\. 2](https://open.spotify.com/album/3EuH8mvgWAu65sldSw8JvT) | 2:20 |

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420738,
+  "num_followers": 420741,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2026-07-13 16:42:56",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
-        "name": "Aeroporto (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Aeroporto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
         "name": "Pedra Preciosa",
         "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 204586,
       "name": "Pedra Preciosa",
       "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
+        "name": "Brisa e Mar",
+        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Brisa e Mar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
     },
     {
       "added_at": "2026-07-13 16:42:56",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-07-13 16:42:56",
       "album": {
-        "name": "Brisa e Mar",
-        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Brisa e Mar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
-    },
-    {
-      "added_at": "2026-07-13 16:42:56",
-      "album": {
         "name": "M\u00edstico",
         "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 187459,
       "name": "M\u00edstico",
       "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
+    },
+    {
+      "added_at": "2026-07-13 16:42:56",
+      "album": {
+        "name": "Aeroporto (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Aeroporto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
     },
     {
       "added_at": "2026-07-13 16:42:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover:  YEONJUN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,143,367 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,143,190 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 18 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 19 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 |
 | 20 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
-| 21 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
+| 21 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
 | 22 | [OXY](https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:34 |
 | 23 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
 | 24 | [Suddenly](https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [I.O.I 3rd MINI ALBUM \[I.O.I : LOOP\]](https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp) | 3:15 |

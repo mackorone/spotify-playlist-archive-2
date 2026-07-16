@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 103493,
+  "num_followers": 103522,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAADqbGwCOUKU06QmSqYH7d9E",
+  "snapshot_id": "alV8AAAAAAB/EuKsvNMAKxFp4owpFMli",
   "tracks": [
     {
       "added_at": null,
@@ -243,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slapeloosheid",
-        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
+        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
+        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
       "artists": [
         {
           "name": "Suzan & Freek",
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Slapeloosheid",
-      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
+      "duration_ms": 204154,
+      "name": "Hou Vol Hou Vast",
+      "url": "https://open.spotify.com/track/5JOCtxzN82M7tTXzcpLsx8"
     },
     {
       "added_at": null,
@@ -275,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
-        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+        "name": "Slapeloosheid",
+        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
       },
       "artists": [
         {
           "name": "Suzan & Freek",
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
         }
       ],
-      "duration_ms": 204154,
-      "name": "Hou Vol Hou Vast",
-      "url": "https://open.spotify.com/track/5JOCtxzN82M7tTXzcpLsx8"
+      "duration_ms": 177142,
+      "name": "Slapeloosheid",
+      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
       "added_at": null,

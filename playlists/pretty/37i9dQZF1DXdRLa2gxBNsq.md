@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,499 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,504 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 67 | [Adictos a la Lujuria \- con Ánxela \(Bala\)](https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Ana Curra y los 13 Apóstoles Presentan: La Última Cena de Parálisis Permanente](https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA) | 3:09 |
 | 68 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 69 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 70 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 |
-| 71 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
+| 70 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
+| 71 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 |
 | 72 | [Vuelvo](https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Vuelvo](https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf) | 2:56 |
 | 73 | [Un Día Caerán](https://open.spotify.com/track/17elqylJoZzetxkrdaOZgM) | [Los Pelukeros de Punset](https://open.spotify.com/artist/6juxKdApXKZBmcsINhuCb5) | [Un Día Caerán](https://open.spotify.com/album/4tbYlTd1gnFNRhtOwLeFqX) | 3:42 |
 | 74 | [O Mundo Toleou](https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA) | [Residuos Do Sistema](https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo), [Soak](https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa) | [O Mundo Toleou](https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk) | 3:38 |

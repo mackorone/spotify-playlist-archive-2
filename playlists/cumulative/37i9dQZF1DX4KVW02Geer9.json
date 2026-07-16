@@ -9395,6 +9395,24 @@
     },
     {
       "album": {
+        "name": "Summer Haze",
+        "url": "https://open.spotify.com/album/6xAWyKJaOEVBOSvwdxbrR4"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173742,
+      "name": "Summer Haze",
+      "url": "https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK"
+    },
+    {
+      "album": {
         "name": "Summertime Blue",
         "url": "https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW"
       },

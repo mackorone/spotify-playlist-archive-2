@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 572726,
+  "num_followers": 572669,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "Auf jeden Blick",
-        "url": "https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm"
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
       "artists": [
         {
           "name": "CIVO",
           "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
         }
       ],
-      "duration_ms": 129048,
-      "name": "Auf jeden Blick",
-      "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -491,22 +495,18 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "Keine Homies",
-        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+        "name": "Auf jeden Blick",
+        "url": "https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm"
       },
       "artists": [
         {
           "name": "CIVO",
           "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
         }
       ],
-      "duration_ms": 122241,
-      "name": "Keine Homies",
-      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+      "duration_ms": 129048,
+      "name": "Auf jeden Blick",
+      "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 216201,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
+    },
+    {
+      "added_at": "2026-07-02 22:00:44",
+      "album": {
         "name": "glaub dir nicht",
         "url": "https://open.spotify.com/album/5Kvs1nas4NfDpR9YFCyL0c"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 135600,
       "name": "glaub dir nicht",
       "url": "https://open.spotify.com/track/0Px456UcSYPzNpL2R0uzwN"
-    },
-    {
-      "added_at": "2026-07-02 22:00:44",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 216201,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
+        "name": "Ruf mich an",
+        "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ruf mich an",
+      "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
+    },
+    {
+      "added_at": "2026-07-02 22:00:44",
+      "album": {
         "name": "ALTE BILDER",
         "url": "https://open.spotify.com/album/1HSwhh2OtINcZNFU6OG2FL"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 176040,
       "name": "ALTE BILDER",
       "url": "https://open.spotify.com/track/40p8UwWvpJ8Iiqg4ioy5zX"
-    },
-    {
-      "added_at": "2026-07-02 22:00:44",
-      "album": {
-        "name": "Ruf mich an",
-        "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ruf mich an",
-      "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 123818,
-      "name": "Malediven",
-      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
-    },
-    {
-      "added_at": "2026-07-02 22:00:44",
-      "album": {
         "name": "Schatten",
         "url": "https://open.spotify.com/album/66ynoXazPbss2y4481rMZa"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 182000,
       "name": "Schatten",
       "url": "https://open.spotify.com/track/4rBBKTHIGcjKhukjOno0t1"
+    },
+    {
+      "added_at": "2026-07-02 22:00:44",
+      "album": {
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "Garten vorm Haus",
-        "url": "https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn"
+        "name": "3 Sekunden (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
       "artists": [
         {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
         },
         {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 114705,
-      "name": "Garten vorm Haus",
-      "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
+      "duration_ms": 166942,
+      "name": "3 Sekunden (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "3 Sekunden (feat. Paula Hartmann)",
-        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
+        "name": "Garten vorm Haus",
+        "url": "https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn"
       },
       "artists": [
         {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
         },
         {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
         }
       ],
-      "duration_ms": 166942,
-      "name": "3 Sekunden (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
+      "duration_ms": 114705,
+      "name": "Garten vorm Haus",
+      "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+        "name": "Bladerunner",
+        "url": "https://open.spotify.com/album/60fRRwprifz4WrxAX400un"
       },
       "artists": [
         {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
         }
       ],
-      "duration_ms": 221579,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
+      "duration_ms": 136666,
+      "name": "Bladerunner",
+      "url": "https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1403,6 +1399,26 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 221579,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
+    },
+    {
+      "added_at": "2026-07-02 22:00:44",
+      "album": {
         "name": "Weg zu weit",
         "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 151999,
       "name": "Weg zu weit",
       "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
-    },
-    {
-      "added_at": "2026-07-02 22:00:44",
-      "album": {
-        "name": "Bladerunner",
-        "url": "https://open.spotify.com/album/60fRRwprifz4WrxAX400un"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Bladerunner",
-      "url": "https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1459,42 +1459,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2026-07-02 22:00:44",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Gesegnet",
-      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
-    },
-    {
-      "added_at": "2026-07-02 22:00:44",
-      "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 174745,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1539,6 +1503,42 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Gesegnet",
+      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
+    },
+    {
+      "added_at": "2026-07-02 22:00:44",
+      "album": {
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
+    },
+    {
+      "added_at": "2026-07-02 22:00:44",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "2x",
-        "url": "https://open.spotify.com/album/26k2itHEXCVgUnO38aFbz1"
-      },
-      "artists": [
-        {
-          "name": "YBRE",
-          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
-        }
-      ],
-      "duration_ms": 101096,
-      "name": "2x",
-      "url": "https://open.spotify.com/track/6gY7aUuZ2vcWEB8ZLrrLrX"
-    },
-    {
-      "added_at": "2026-07-02 22:00:44",
-      "album": {
         "name": "Was war das",
         "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 160448,
       "name": "Was war das",
       "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
+    },
+    {
+      "added_at": "2026-07-02 22:00:44",
+      "album": {
+        "name": "2x",
+        "url": "https://open.spotify.com/album/26k2itHEXCVgUnO38aFbz1"
+      },
+      "artists": [
+        {
+          "name": "YBRE",
+          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
+        }
+      ],
+      "duration_ms": 101096,
+      "name": "2x",
+      "url": "https://open.spotify.com/track/6gY7aUuZ2vcWEB8ZLrrLrX"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1627,22 +1627,22 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "wegen dir.",
-        "url": "https://open.spotify.com/album/5G9TnMKD3nPTyxig4mHqv7"
+        "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
+        "url": "https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx"
       },
       "artists": [
         {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
         },
         {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 172857,
-      "name": "wegen dir.",
-      "url": "https://open.spotify.com/track/0V9tCM5tGcNicWoytK8D5o"
+      "duration_ms": 160653,
+      "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
+      "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1667,22 +1667,22 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
-        "url": "https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx"
+        "name": "wegen dir.",
+        "url": "https://open.spotify.com/album/5G9TnMKD3nPTyxig4mHqv7"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
         },
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
         }
       ],
-      "duration_ms": 160653,
-      "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
-      "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
+      "duration_ms": 172857,
+      "name": "wegen dir.",
+      "url": "https://open.spotify.com/track/0V9tCM5tGcNicWoytK8D5o"
     },
     {
       "added_at": "2026-07-02 22:00:44",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2026-07-02 22:00:44",
       "album": {
-        "name": "Titan",
-        "url": "https://open.spotify.com/album/4HBMG7zg1DA95a7mj7Wyzl"
+        "name": "Ok ich check",
+        "url": "https://open.spotify.com/album/4ExpueLMrJsWQ7QYTxRG8X"
       },
       "artists": [
         {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Titan",
-      "url": "https://open.spotify.com/track/4Z2oZGSnpQaPOTnKkg8A6h"
+      "duration_ms": 138506,
+      "name": "Ok ich check",
+      "url": "https://open.spotify.com/track/6C0ru05AIHvARhbQ4TdTNc"
     }
   ],
   "unique_name": "Rap in deep",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sofie Birch. The essential tracks, all in one playlist.",
-  "num_followers": 208,
+  "num_followers": 209,
   "original_name": "This Is Sofie Birch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAADi9143zAJ459LU/U997dJ2",
+  "snapshot_id": "alV8AAAAAAAdKfo4uP1/0M6ruiA8Xf9B",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/1AG2QdGXABKCvbqaVS0OyO"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Hiraeth",
-      "url": "https://open.spotify.com/track/2unhwFru9sVt2EfuJfnwU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calibrating Senses",
         "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 173501,
       "name": "Heart Donor",
       "url": "https://open.spotify.com/track/11qws3Eq7dG4ivPK7QF6UV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/1AG2QdGXABKCvbqaVS0OyO"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/2unhwFru9sVt2EfuJfnwU7"
     },
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 275942,
-      "name": "Heart of a waterfall",
-      "url": "https://open.spotify.com/track/0k6R4xKzwobcmNbTZbwZmK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calibrating Senses",
         "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 89977,
       "name": "You Make Me Care More",
       "url": "https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 275942,
+      "name": "Heart of a waterfall",
+      "url": "https://open.spotify.com/track/0k6R4xKzwobcmNbTZbwZmK"
     },
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Love object",
-      "url": "https://open.spotify.com/track/4zkUkLBt2YV8eIZkvLyWxo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 229418,
       "name": "Lilieae",
       "url": "https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Love object",
+      "url": "https://open.spotify.com/track/4zkUkLBt2YV8eIZkvLyWxo"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 260199,
       "name": "Sudany",
       "url": "https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "N\u00f8kken",
+      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "N\u00f8kken",
-      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 101775,
       "name": "Me of Ocean",
       "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 521986,
-      "name": "Collecting eyes",
-      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 108845,
       "name": "My River",
       "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 521986,
+      "name": "Collecting eyes",
+      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 311077,
-      "name": "Silver Age",
-      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 107015,
       "name": "Behind the Hill",
       "url": "https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
+      },
+      "artists": [
+        {
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+        },
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 311077,
+      "name": "Silver Age",
+      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 298865,
-      "name": "Endowment",
-      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 228011,
       "name": "Morning Room II",
       "url": "https://open.spotify.com/track/1l0XBAqITx2387TGripMv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
+      },
+      "artists": [
+        {
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+        },
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 298865,
+      "name": "Endowment",
+      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planetes",
-        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+        "name": "Hidden Terraces",
+        "url": "https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 712522,
-      "name": "Hills Bells Mother",
-      "url": "https://open.spotify.com/track/7fATVAuieODEabRB4txujc"
+      "duration_ms": 1087000,
+      "name": "Morgen\u00e5nder",
+      "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
       "duration_ms": 344827,
       "name": "Mu Evans",
       "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hidden Terraces",
-        "url": "https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1087000,
-      "name": "Morgen\u00e5nder",
-      "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
     },
     {
       "added_at": null,

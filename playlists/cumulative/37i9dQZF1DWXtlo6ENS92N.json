@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Bollywood Central, jab baje toh seedha dil ke centre mein lage \ud83e\udef6\ud83c\udffc Cover - Dhurandhar",
+  "description": "Bollywood Central, jab baje toh seedha dil ke centre mein lage \ud83e\udef6\ud83c\udffc Cover - Stree 2",
   "name": "Bollywood Central",
   "tracks": [
     {
@@ -898,6 +898,36 @@
       "duration_ms": 165375,
       "name": "Chunnari Chunnari - Let\u2019s Go! (From \"Hai Jawani Toh Ishq Hona Hai\")",
       "url": "https://open.spotify.com/track/7d4TNquNa91thANgxrD8h2"
+    },
+    {
+      "album": {
+        "name": "Shivaay",
+        "url": "https://open.spotify.com/album/0gCcyIYaX8OK2BcKs8behf"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374205,
+      "name": "Darkhaast",
+      "url": "https://open.spotify.com/track/1awtp7rf6ajhGY9BgzCHeZ"
     },
     {
       "album": {
@@ -3274,7 +3304,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 180000,
       "name": "Naina (From \"Crew\")",
       "url": "https://open.spotify.com/track/3aCxekXoAhWr6TMqqTctgV"
@@ -5087,6 +5117,32 @@
     },
     {
       "album": {
+        "name": "Half Girlfriend (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MJDmQZ0BDR3pw6m2oFc03"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296377,
+      "name": "Thodi Der",
+      "url": "https://open.spotify.com/track/5h4HUJcttHP0EuMLLdfXyO"
+    },
+    {
+      "album": {
         "name": "Bhediya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1tDqw5PVgd8b8pi26vCGsB"
       },
@@ -5732,7 +5788,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW"

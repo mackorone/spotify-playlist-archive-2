@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1638,
+  "num_followers": 1639,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAA/7aRJ8MYt+MzbToT2TEPZ",
+  "snapshot_id": "alV8AAAAAABQaIPzqHWQuQldj3Emvcq5",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Everything is Bathed in Sunlight",
-      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gravity (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
@@ -575,6 +559,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "Everything is Bathed in Sunlight",
+      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joy (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "My Beloved Spake",
-      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
       },
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 139120,
-      "name": "All Life Began in the Deep Blue Sea",
-      "url": "https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw"
+      "duration_ms": 170853,
+      "name": "Beneath the Waves",
+      "url": "https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 313640,
-      "name": "Out of the Emptiness",
-      "url": "https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5"
+      "duration_ms": 139120,
+      "name": "All Life Began in the Deep Blue Sea",
+      "url": "https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw"
     },
     {
       "added_at": null,
@@ -760,25 +760,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 170853,
-      "name": "Beneath the Waves",
-      "url": "https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Running Man (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 240373,
-      "name": "The Running Man",
-      "url": "https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK"
+      "duration_ms": 313640,
+      "name": "Out of the Emptiness",
+      "url": "https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5"
     },
     {
       "added_at": null,
@@ -807,22 +791,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost in the Frame",
-        "url": "https://open.spotify.com/album/4WeKqfgARZQxuU33cpqjww"
+        "name": "The Running Man (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O"
       },
       "artists": [
-        {
-          "name": "Jesse L. Martin",
-          "url": "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
-        },
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 200713,
-      "name": "Ghost in the Frame",
-      "url": "https://open.spotify.com/track/2JqrmLQPpIrOTwY8WEiPI8"
+      "duration_ms": 240373,
+      "name": "The Running Man",
+      "url": "https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "I Should Tell You My Story Myself",
+      "url": "https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc"
     }
   ],
   "unique_name": "This Is Steven Price",

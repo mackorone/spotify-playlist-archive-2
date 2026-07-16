@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Colin Lynch, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Emma Smalley, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 192485,
       "name": "Alabama Avenue",
       "url": "https://open.spotify.com/track/7GJpqysns7lTzCOLyAOOyp"
@@ -7443,6 +7443,24 @@
     },
     {
       "album": {
+        "name": "Boys on Film",
+        "url": "https://open.spotify.com/album/6GtB71dQ44mqz3gg75kzPO"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jane Lewis",
+          "url": "https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "Boys on Film",
+      "url": "https://open.spotify.com/track/26TQ2ADZDcTCMWvasNcHkt"
+    },
+    {
+      "album": {
         "name": "Boys These Days",
         "url": "https://open.spotify.com/album/3mN153WvfUXE1lGsLmcKo1"
       },
@@ -9356,6 +9374,24 @@
       "duration_ms": 227053,
       "name": "Can You Hear Me From Heaven",
       "url": "https://open.spotify.com/track/4g8Hu8rt3u7SNPKYmrsKdS"
+    },
+    {
+      "album": {
+        "name": "Can't Afford a Broken Heart",
+        "url": "https://open.spotify.com/album/3EEmQGlLhu6aNjYUDzzWlI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Vasquez",
+          "url": "https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256485,
+      "name": "Can't Afford a Broken Heart",
+      "url": "https://open.spotify.com/track/4rjHGALbX0zjl6sdSkWog7"
     },
     {
       "album": {
@@ -17183,6 +17219,24 @@
     },
     {
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/4mBX6S52bIEvKkYH7idTFY"
+      },
+      "artists": [
+        {
+          "name": "Maddie Lenhart",
+          "url": "https://open.spotify.com/artist/2vqBHPrnigNJCWusHebgMV"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259141,
+      "name": "Empty Room",
+      "url": "https://open.spotify.com/track/5ZE9ES08vL1jLOaHg6swxY"
+    },
+    {
+      "album": {
         "name": "End Game",
         "url": "https://open.spotify.com/album/5uQoGeooNx3xA57poJGnRA"
       },
@@ -18663,6 +18717,24 @@
     },
     {
       "album": {
+        "name": "fear of moving on",
+        "url": "https://open.spotify.com/album/6B3ZgQva4IzqDqHZDzW81i"
+      },
+      "artists": [
+        {
+          "name": "Tatum Scott",
+          "url": "https://open.spotify.com/artist/7qnInIoAbmwOwIVkOgQCwy"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "fear of moving on",
+      "url": "https://open.spotify.com/track/1tVJuMPRmUDcreJdTpN9JP"
+    },
+    {
+      "album": {
         "name": "Feel Like Home",
         "url": "https://open.spotify.com/album/3tifpzQWxBevrnvhOudOpH"
       },
@@ -19172,7 +19244,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 187096,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/0BohyVMh71G8kYXkpLA5yN"
@@ -20712,7 +20784,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 192843,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/399iOCsX7OxnlmqYnwjaNm"
@@ -22550,7 +22622,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 194492,
       "name": "Goodbye Gone",
       "url": "https://open.spotify.com/track/2FhWNtyWCtjb53GleLksp4"
@@ -22698,7 +22770,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 169309,
       "name": "got me good",
       "url": "https://open.spotify.com/track/6yPGzAdjpbOWz65bx2rbNX"
@@ -25246,6 +25318,24 @@
       "duration_ms": 210845,
       "name": "Heavens Know",
       "url": "https://open.spotify.com/track/1t4rBxUyowSDGHRXc97oFR"
+    },
+    {
+      "album": {
+        "name": "Gasolina",
+        "url": "https://open.spotify.com/album/2Bq1Q9g1zWJ1ABCQYgbfCy"
+      },
+      "artists": [
+        {
+          "name": "Dear Tommie",
+          "url": "https://open.spotify.com/artist/4kgQh9U3U38xNiLQ2DK3tP"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215590,
+      "name": "Heavens on Hold",
+      "url": "https://open.spotify.com/track/5CmcZWvdTekEj914V3HQsf"
     },
     {
       "album": {
@@ -27883,6 +27973,24 @@
     },
     {
       "album": {
+        "name": "I Ain't That Guy",
+        "url": "https://open.spotify.com/album/7xhktNCwZPqSy4YnDwY05X"
+      },
+      "artists": [
+        {
+          "name": "Schmitty",
+          "url": "https://open.spotify.com/artist/5mQw15vCNMnhD6LO8suS7b"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "I Ain't That Guy",
+      "url": "https://open.spotify.com/track/0FppFE0sXIP7XC4VQxxVaI"
+    },
+    {
+      "album": {
         "name": "Coming up Roses",
         "url": "https://open.spotify.com/album/2jVQ3DVXQSEcnQZ3h3hh4j"
       },
@@ -28100,6 +28208,24 @@
       "duration_ms": 196222,
       "name": "I Can't Unlove You",
       "url": "https://open.spotify.com/track/5VvnMbz2nEBCsuQN85PmXT"
+    },
+    {
+      "album": {
+        "name": "I Can't When",
+        "url": "https://open.spotify.com/album/54Xp5oWqxZjgOYitJyJ4rP"
+      },
+      "artists": [
+        {
+          "name": "Brooks Hoffman",
+          "url": "https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "I Can't When",
+      "url": "https://open.spotify.com/track/4Qbbdx61C7NluTh0lc8MSD"
     },
     {
       "album": {
@@ -28910,7 +29036,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 183219,
       "name": "I Miss Him",
       "url": "https://open.spotify.com/track/5d2uxTuOjgRgHj0jjrQvhA"
@@ -35942,7 +36068,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 165056,
       "name": "Looks That Follow",
       "url": "https://open.spotify.com/track/0kyZnosT01Su5Vwih6qALE"
@@ -35996,7 +36122,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 173635,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2wTe6Oyx1fYSzPJxkz9g0Q"
@@ -40654,7 +40780,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 197343,
       "name": "Never a Right Time",
       "url": "https://open.spotify.com/track/34HdbAuj9p9zEEXfsXTu0N"
@@ -40932,7 +41058,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 239281,
       "name": "nevermind",
       "url": "https://open.spotify.com/track/71Z7PeeB1YEv4KOKyZbEIJ"
@@ -41040,7 +41166,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 236358,
       "name": "Newton's First Law",
       "url": "https://open.spotify.com/track/2dfX33oYZynV6LP1dXRD3g"
@@ -45458,7 +45584,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 216000,
       "name": "Price Of Gold",
       "url": "https://open.spotify.com/track/5ns7npQ1WsRCmN2DuQB7p0"
@@ -48445,6 +48571,24 @@
     },
     {
       "album": {
+        "name": "Same Place, Same Time",
+        "url": "https://open.spotify.com/album/48SHfHcWq9EGKI1DhFwSNH"
+      },
+      "artists": [
+        {
+          "name": "Austin Mackay",
+          "url": "https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Same Place, Same Time",
+      "url": "https://open.spotify.com/track/1zd5lh1vqOYEZ1vWOfKBRL"
+    },
+    {
+      "album": {
         "name": "RAISED LIKE THAT",
         "url": "https://open.spotify.com/album/6sQ9VKXI6GlECcHW319zrN"
       },
@@ -48885,6 +49029,24 @@
     },
     {
       "album": {
+        "name": "seat of my skirt",
+        "url": "https://open.spotify.com/album/4bLJRG4DoQpOxkf1ZXYsLQ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Anne",
+          "url": "https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163752,
+      "name": "seat of my skirt",
+      "url": "https://open.spotify.com/track/2gzasCAYU41SE6gPNlIPPH"
+    },
+    {
+      "album": {
         "name": "Second Chances",
         "url": "https://open.spotify.com/album/5FH3qbQ4cp2ggcTPikqmml"
       },
@@ -49120,6 +49282,24 @@
       "duration_ms": 233592,
       "name": "Seein' Straight",
       "url": "https://open.spotify.com/track/3jUiuzTVVpkZBpAZQLZwXm"
+    },
+    {
+      "album": {
+        "name": "seen enough",
+        "url": "https://open.spotify.com/album/0vlWL2GHdD970RvEDBs9N9"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209698,
+      "name": "seen enough",
+      "url": "https://open.spotify.com/track/51uPCxApVvtuYkc2lFP1E0"
     },
     {
       "album": {
@@ -49912,6 +50092,24 @@
       "duration_ms": 210206,
       "name": "She's To Blame",
       "url": "https://open.spotify.com/track/5tB8TJsPbyvbAJaLLRGHWN"
+    },
+    {
+      "album": {
+        "name": "Written By A Woman",
+        "url": "https://open.spotify.com/album/0mqIcT41tQVoPwxw4moPuU"
+      },
+      "artists": [
+        {
+          "name": "Zoe Jean Fowler",
+          "url": "https://open.spotify.com/artist/79i4Y9rLmj4djhik1uYDQm"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193457,
+      "name": "Shh... It Happens",
+      "url": "https://open.spotify.com/track/1gok2rD6e1PdKRnMkWc5Sg"
     },
     {
       "album": {
@@ -54082,7 +54280,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 244000,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/6oFaDI1iezn00N0GR28Zto"
@@ -56445,6 +56643,24 @@
     },
     {
       "album": {
+        "name": "Thank God For The Dogs",
+        "url": "https://open.spotify.com/album/0u7WovzTZW7NsthXbtyHCt"
+      },
+      "artists": [
+        {
+          "name": "Hudson Macready",
+          "url": "https://open.spotify.com/artist/6P00UEN5OmbxLCLXPT6ZNa"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188171,
+      "name": "Thank God For The Dogs",
+      "url": "https://open.spotify.com/track/5WE8AJGUX2l8Jk4rbroOlo"
+    },
+    {
+      "album": {
         "name": "Thank You Card",
         "url": "https://open.spotify.com/album/69RR8FI3KIdVizuPF6Bf36"
       },
@@ -57724,7 +57940,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 177200,
       "name": "The Rough",
       "url": "https://open.spotify.com/track/4T0xKQwYGUBNL2fK3yZCDZ"
@@ -60860,7 +61076,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 180360,
       "name": "Two Years in Two Weeks",
       "url": "https://open.spotify.com/track/0P7lYijRL5egHjELsuKtRk"
@@ -61480,7 +61696,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 214466,
       "name": "Vivian",
       "url": "https://open.spotify.com/track/0gRJ0uDvYkMTMBLxunTbVL"
@@ -65568,7 +65784,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 156350,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/47tfKmQsZug1v7Ct4IuK1j"

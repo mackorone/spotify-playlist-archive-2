@@ -1967,6 +1967,32 @@
     },
     {
       "album": {
+        "name": "Bhoorame",
+        "url": "https://open.spotify.com/album/44HW8ArbVWmggl97IbMPBq"
+      },
+      "artists": [
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Harsh",
+          "url": "https://open.spotify.com/artist/1FMR5muimRkgF3zwGH8kjP"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225204,
+      "name": "Bhoorame",
+      "url": "https://open.spotify.com/track/0ZIhN1UhpPHNJrA1VRk9UT"
+    },
+    {
+      "album": {
         "name": "Biddiyabbe Hudugi",
         "url": "https://open.spotify.com/album/0WRoTyJwEgkaBF3BVgqsrv"
       },
@@ -7275,6 +7301,24 @@
     },
     {
       "album": {
+        "name": "Maleya Sugandha",
+        "url": "https://open.spotify.com/album/3AKsAO0jpjQ1aJvJHNpyuI"
+      },
+      "artists": [
+        {
+          "name": "Surabhi Bharadwaj",
+          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Maleya Sugandha",
+      "url": "https://open.spotify.com/track/2LEigW0FyswEncrMWWS34H"
+    },
+    {
+      "album": {
         "name": "Mallige Hoova",
         "url": "https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt"
       },
@@ -11424,7 +11468,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 264229,
       "name": "Pappi Kodabek Anisaithi",
       "url": "https://open.spotify.com/track/1a67KzJ30F9KW1Zxaljoxs"

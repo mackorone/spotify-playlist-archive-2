@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153 likes - 187 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152 likes - 187 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 90 | [Loudmouth](https://open.spotify.com/track/6cCHKwvTMIrA0SyRjkoN6C) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 4:02 |
 | 91 | [Lose My Love \(Acoustic\)](https://open.spotify.com/track/4Rzjt3rkPs5PfrBg5kPgxz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Lose My Love \(Acoustic\)](https://open.spotify.com/album/4bcNl7WHYBTiy0BXGsdayM) | 3:00 |
 | 92 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 |
-| 93 | [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 |
-| 94 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 |
+| 93 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 |
+| 94 | [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 |
 | 95 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
 | 96 | [Lonely](https://open.spotify.com/track/0u0UwHTBElRtS8QImH1oR4) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:40 |
 | 97 | [I Gotta I Gotta](https://open.spotify.com/track/2pKLhfqiY6yD1tZWlbE3tQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Gotta I Gotta](https://open.spotify.com/album/5tfq2xwJtGRKA7rIJgMyix) | 2:17 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 157 | [Steph Curry](https://open.spotify.com/track/2SoD6N6lXUp9cPmFkEFW3Q) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:18 |
 | 158 | [Sweet Release](https://open.spotify.com/track/6slHYtUdsRou97ZKllTF2w) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:08 |
 | 159 | [Crayola](https://open.spotify.com/track/3SzBzT0sUaKRMaD9MtmnlH) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:02 |
-| 160 | [Are We Gonna Play?](https://open.spotify.com/track/53AjjgxI3plxw34vGwpr1H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Finding Neverland The Album \(Songs From The Broadway Musical\)](https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW) | 2:48 |
-| 161 | [Daffodils](https://open.spotify.com/track/5YnND0smTTib0MG1ZUgMqi) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:40 |
+| 160 | [Daffodils](https://open.spotify.com/track/5YnND0smTTib0MG1ZUgMqi) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:40 |
+| 161 | [Are We Gonna Play?](https://open.spotify.com/track/53AjjgxI3plxw34vGwpr1H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Finding Neverland The Album \(Songs From The Broadway Musical\)](https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW) | 2:48 |
 | 162 | [Trapped In The Car](https://open.spotify.com/track/3rROv6Wlp9i3Ocx7aJ1yFq) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Lost but Found](https://open.spotify.com/album/1MfTTBG6YwGiOkph1bPs9L) | 2:46 |
 | 163 | [In Two](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:27 |
 | 164 | [TEST YOU](https://open.spotify.com/track/0cNCZ2X0ckWZYxD1sjhnWI) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 2:46 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 186 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
 | 187 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcW3NgAAAAAU5GohV1Zng2aX05BLcERx`
+Snapshot ID: `AcW9EgAAAAA4eXSiEa44r3WljOYEm0Z3`

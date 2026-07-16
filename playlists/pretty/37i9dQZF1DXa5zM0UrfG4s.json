@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118093,
+  "num_followers": 118099,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "E45",
+        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 136285,
+      "name": "E45",
+      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Drekke d\u00e6 fin",
         "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 119183,
       "name": "Drekke d\u00e6 fin",
       "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "E45",
-        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 136285,
-      "name": "E45",
-      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "H\u00f8gt over landet",
+        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "H\u00f8gt over landet",
+      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Promiski\u00f8s (PM)",
         "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "H\u00f8gt over landet",
-        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "H\u00f8gt over landet",
-      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "G\u00e5r det bra?",
         "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 143314,
       "name": "G\u00e5r det bra?",
       "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -815,6 +815,26 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
+        "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        },
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
+      "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
       },
@@ -835,22 +855,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
-        "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        },
-        {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
-      "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Eviva Espana (Charterfeber 2026)",
         "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 165569,
       "name": "Eviva Espana - Charterfeber 2026",
       "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "St\u00f8gg melodi",
-        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "St\u00f8gg melodi",
-      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -939,18 +923,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+        "name": "St\u00f8gg melodi",
+        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
       },
       "artists": [
         {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+      "duration_ms": 141750,
+      "name": "St\u00f8gg melodi",
+      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -967,6 +951,22 @@
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
     },
     {
       "added_at": "2026-06-25 22:01:29",

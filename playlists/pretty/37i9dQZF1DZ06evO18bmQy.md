@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,397 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,396 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 39 | [Depois do Baile](https://open.spotify.com/track/0XkH47qUbNA4YGdD4WEjAA) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Depois do Baile](https://open.spotify.com/album/3tUkjGo50rgl56XOQhBjl4) | 10:32 |
 | 40 | [Geminiano](https://open.spotify.com/track/3EBnCczKBkV03uMqNtDMW1) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 2:55 |
 | 41 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
-| 42 | [ETERNO \- Remake](https://open.spotify.com/track/0WjWIeXZighu9xmR5D7fhs) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 3:46 |
-| 43 | [Eu](https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 5:10 |
+| 42 | [Eu](https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 5:10 |
+| 43 | [ETERNO \- Remake](https://open.spotify.com/track/0WjWIeXZighu9xmR5D7fhs) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 3:46 |
 | 44 | [Esquimó](https://open.spotify.com/track/40b5YP1kX8xbWKvm0hFdZU) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 4:16 |
 | 45 | [LADRÃO](https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 4:22 |
 | 46 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [Oto Patamá](https://open.spotify.com/track/7AMSNqs5ApBmjuUQo8xEsd) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 3:58 |
 | 50 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 |
 
-Snapshot ID: `alQqgAAAAAC2KSwsds8qzecyg2Hn94ky`
+Snapshot ID: `alV8AAAAAAC54cB5mxUHIuYRXMLgi7ZN`

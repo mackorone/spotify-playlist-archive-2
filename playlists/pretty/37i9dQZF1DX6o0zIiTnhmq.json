@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 235419,
+  "num_followers": 235457,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-03 07:52:34",
       "album": {
-        "name": "Surya Namaskar Mantra",
-        "url": "https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ"
-      },
-      "artists": [
-        {
-          "name": "Uma Mohan",
-          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
-        }
-      ],
-      "duration_ms": 393750,
-      "name": "Surya Namaskar Mantra",
-      "url": "https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq"
-    },
-    {
-      "added_at": "2026-07-03 07:52:34",
-      "album": {
         "name": "Maha Mrityunjaya Mantra: 108 Times",
         "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 2976545,
       "name": "Maha Mrityunjaya Mantra: 108 Times",
       "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
+    },
+    {
+      "added_at": "2026-07-03 07:52:34",
+      "album": {
+        "name": "Surya Namaskar Mantra",
+        "url": "https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ"
+      },
+      "artists": [
+        {
+          "name": "Uma Mohan",
+          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
+        }
+      ],
+      "duration_ms": 393750,
+      "name": "Surya Namaskar Mantra",
+      "url": "https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq"
     },
     {
       "added_at": "2026-07-03 07:52:34",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-07-03 07:52:34",
       "album": {
+        "name": "Mantras & Chants",
+        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "duration_ms": 859743,
+      "name": "Hari Om Tat Sat",
+      "url": "https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs"
+    },
+    {
+      "added_at": "2026-07-03 07:52:34",
+      "album": {
         "name": "Mantras for a Happy Life",
         "url": "https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 513092,
       "name": "Om Tryambakam: Mantra for Health",
       "url": "https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH"
-    },
-    {
-      "added_at": "2026-07-03 07:52:34",
-      "album": {
-        "name": "Mantras & Chants",
-        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 859743,
-      "name": "Hari Om Tat Sat",
-      "url": "https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs"
     },
     {
       "added_at": "2026-07-03 07:52:34",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-07-03 07:52:34",
       "album": {
-        "name": "Ramashtakam",
-        "url": "https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp"
-      },
-      "artists": [
-        {
-          "name": "Uthara Unnikrishnan",
-          "url": "https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO"
-        }
-      ],
-      "duration_ms": 362857,
-      "name": "Ramashtakam",
-      "url": "https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL"
-    },
-    {
-      "added_at": "2026-07-03 07:52:34",
-      "album": {
         "name": "Om Namah Shivay",
         "url": "https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 365454,
       "name": "Om Namah Shivay",
       "url": "https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb"
+    },
+    {
+      "added_at": "2026-07-03 07:52:34",
+      "album": {
+        "name": "Ramashtakam",
+        "url": "https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp"
+      },
+      "artists": [
+        {
+          "name": "Uthara Unnikrishnan",
+          "url": "https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO"
+        }
+      ],
+      "duration_ms": 362857,
+      "name": "Ramashtakam",
+      "url": "https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL"
     },
     {
       "added_at": "2026-07-03 07:52:34",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-03 07:52:34",
       "album": {
-        "name": "Ancient Chakra Healing Meditation Mantras",
-        "url": "https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy"
-      },
-      "artists": [
-        {
-          "name": "Mahakatha",
-          "url": "https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN"
-        }
-      ],
-      "duration_ms": 3614954,
-      "name": "Ajna Mantra for Third Eye Chakra with OM Sound",
-      "url": "https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6"
-    },
-    {
-      "added_at": "2026-07-03 07:52:34",
-      "album": {
         "name": "Buddham Sharanam Gachhami (Buddha Chants, Pt. 4)",
         "url": "https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 286165,
       "name": "Buddham Sharanam Gachhami (Buddha Chants, Pt. 4)",
       "url": "https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe"
+    },
+    {
+      "added_at": "2026-07-03 07:52:34",
+      "album": {
+        "name": "Ancient Chakra Healing Meditation Mantras",
+        "url": "https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy"
+      },
+      "artists": [
+        {
+          "name": "Mahakatha",
+          "url": "https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN"
+        }
+      ],
+      "duration_ms": 3614954,
+      "name": "Ajna Mantra for Third Eye Chakra with OM Sound",
+      "url": "https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6"
     },
     {
       "added_at": "2026-07-03 07:52:34",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2026-07-03 07:52:34",
       "album": {
-        "name": "Laxmi Gayatri Mantra",
-        "url": "https://open.spotify.com/album/4yhes5SPCtpMOuBba2ZyQA"
+        "name": "Bhajan Clubbing with Madhubanti Bagchi",
+        "url": "https://open.spotify.com/album/6LzhudbAYf6HFhZ0om0dwk"
       },
       "artists": [
         {
-          "name": "Shagun Sodhi",
-          "url": "https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB"
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Laxmi Gayatri Mantra",
-      "url": "https://open.spotify.com/track/4Vxo5mQxdcP47UeZixn7CF"
+      "duration_ms": 210566,
+      "name": "Mahamrityunjay Mantra - Om Tryambakam Yajamahe",
+      "url": "https://open.spotify.com/track/3uZcOw76DA3G9fgpAYHj71"
     }
   ],
   "unique_name": "Magical Mantras",

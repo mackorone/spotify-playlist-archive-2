@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,977 likes - 173 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,001 likes - 173 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

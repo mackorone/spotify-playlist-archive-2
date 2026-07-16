@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-579 songs - 1 day 11 hr 52 min
+580 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [The Best of Me](https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ) | [Carve A Path](https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq) | [The Best of Me](https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD) | 2:34 | 2026-06-15 |  |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-02-13 | 2026-03-04 |
 | [The Day I'm Gone](https://open.spotify.com/track/6fOJUO7CRNIgSACqSZRIAa) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:05 | 2025-12-31 | 2026-01-21 |
+| [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 | 2026-07-15 |  |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-02 | 2026-01-21 |
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-13 | 2026-01-05 |
 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 | 2025-12-28 |

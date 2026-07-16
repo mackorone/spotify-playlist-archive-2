@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 102228,
+  "num_followers": 102246,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 211000,
       "name": "Destine",
       "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Souvni",
+        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        }
+      ],
+      "duration_ms": 210410,
+      "name": "Souvni",
+      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Souvni",
-        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        }
-      ],
-      "duration_ms": 210410,
-      "name": "Souvni",
-      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1767,8 +1767,8 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Stupid Love",
-        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
       "artists": [
         {
@@ -1776,13 +1776,13 @@
           "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
         },
         {
-          "name": "BlecksFlex",
-          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
+          "name": "Spectrum the Originator",
+          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
         }
       ],
-      "duration_ms": 164607,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
+      "duration_ms": 166008,
+      "name": "Wine Pon Me - Remix",
+      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1871,8 +1871,8 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
       },
       "artists": [
         {
@@ -1880,13 +1880,13 @@
           "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
         },
         {
-          "name": "Spectrum the Originator",
-          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
+          "name": "BlecksFlex",
+          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
         }
       ],
-      "duration_ms": 166008,
-      "name": "Wine Pon Me - Remix",
-      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
+      "duration_ms": 164607,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
     }
   ],
   "unique_name": "Haitian Heat",

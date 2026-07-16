@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Rivs, Sahir Montoya
 
-539 songs - 1 day 3 hr 33 min
+541 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [BESTIES](https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-02-24 | 2023-05-26 |
 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-07-27 | 2022-07-29 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2022-04-19 | 2023-12-07 |
+| [Bichote](https://open.spotify.com/track/12gwZBAujhpMx5KTWWvAaA) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr), [Luis Carrillo](https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn) | [Bichote](https://open.spotify.com/album/70ByIxtRNpExmsfyT3MFXu) | 2:28 | 2026-07-15 |  |
 | [Bien Jalisco](https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Bien Jalisco](https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez) | 2:24 | 2024-09-06 | 2024-11-30 |
 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 | 2023-12-06 | 2025-08-02 |
 | [BIKINI](https://open.spotify.com/track/6slXEgNhtJXAqgW9RQOdRM) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [BIKINI](https://open.spotify.com/album/6CeDEzgtJTweJGkPUasPXV) | 2:26 | 2023-05-25 | 2023-07-08 |
@@ -88,6 +89,7 @@
 | [Cachín](https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Cachín](https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx) | 2:45 | 2024-07-12 |  |
 | [CAJETA](https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [CAJETA](https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH) | 2:26 | 2024-07-12 |  |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2022-04-19 | 2022-07-09 |
+| [Campeón](https://open.spotify.com/track/3tEG859hqpyY6vQ9XViB4F) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Campeón](https://open.spotify.com/album/0EY6KRRjEGbEM9wbYUwHMX) | 2:42 | 2026-07-15 |  |
 | [Cara A La Muerte \(DJ Hessler Remix\)](https://open.spotify.com/track/6mib5fBRUO8NQVG2aV9kFp) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 4:29 | 2024-02-21 | 2024-03-23 |
 | [Castigada](https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Cory](https://open.spotify.com/artist/7o7FisMfKqVaysG1CSIWrr) | [Castigada](https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL) | 3:16 | 2022-07-08 | 2023-05-26 |
 | [Cavernicola \- Chuwe Remix](https://open.spotify.com/track/38oHCgLQMY4Iu0s6Wcz34v) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b), [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn) | [Cavernicola Remixes](https://open.spotify.com/album/4SCcUwLQ1eTbHZxs7SAiZL) | 2:55 | 2022-03-21 | 2022-07-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6047,
+  "num_followers": 6046,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAABFVHz3gwpF+tXyPlXgcN8h",
+  "snapshot_id": "alV8AAAAAAAK3fQlFyOfivZz40lDhyBu",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "According To Brother Nwachukwu",
         "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 193207,
       "name": "Onyeoma",
       "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AS I AM GRATEFUL",
-        "url": "https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm"
+        "name": "Psalm 8",
+        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
       },
       "artists": [
         {
-          "name": "Pita",
-          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
         },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 182488,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
+      "duration_ms": 199250,
+      "name": "Psalm 8",
+      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalm 8",
-        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
+        "name": "AS I AM GRATEFUL",
+        "url": "https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm"
       },
       "artists": [
         {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+          "name": "Pita",
+          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
         },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 199250,
-      "name": "Psalm 8",
-      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
+      "duration_ms": 182488,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
     },
     {
       "added_at": null,

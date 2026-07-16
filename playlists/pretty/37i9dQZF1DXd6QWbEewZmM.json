@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 339980,
+  "num_followers": 340032,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
+        "name": "0 Sentimientos",
+        "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 195334,
+      "name": "0 Sentimientos",
+      "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
         "name": "Mr. Lonely",
         "url": "https://open.spotify.com/album/4ph0fKRffMlUs9iPUR1haB"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 171176,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/3YT3IRkNg5MASgmQTo2l8R"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
-        "name": "0 Sentimientos",
-        "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 195334,
-      "name": "0 Sentimientos",
-      "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
+        "name": "PROYECTANDO",
+        "url": "https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "replica.",
+      "url": "https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
         "name": "Cielo Eterno - Spotify Singles",
         "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 244245,
       "name": "Cielo Eterno",
       "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
-        "name": "PROYECTANDO",
-        "url": "https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI"
-      },
-      "artists": [
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "replica.",
-      "url": "https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "AMAR TE DUELE",
-        "url": "https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "SI QUIERES ME VOY",
-      "url": "https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Fases del Amor",
         "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 216149,
       "name": "Amor Con Detalle",
       "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "AMAR TE DUELE",
+        "url": "https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "SI QUIERES ME VOY",
+      "url": "https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3KJQfNQxV6Nrncg7UXoKt9"
-      },
-      "artists": [
-        {
-          "name": "Ilusion Eterno",
-          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
-        }
-      ],
-      "duration_ms": 246357,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/7CdoGE5Kprr9nFiYLMivrf"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "772 Love (Remix)",
         "url": "https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 192992,
       "name": "772 Love - Remix",
       "url": "https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3KJQfNQxV6Nrncg7UXoKt9"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "duration_ms": 246357,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/7CdoGE5Kprr9nFiYLMivrf"
     },
     {
       "added_at": "2026-07-01 22:36:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rich Brian, Beyoncé, Barasuara, Vanessa Zee dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,878 likes - 106 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,851 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

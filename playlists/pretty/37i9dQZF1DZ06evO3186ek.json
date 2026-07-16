@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165969,
+  "num_followers": 165978,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAACXBepU4UIA6yET4dW2loxv",
+  "snapshot_id": "alV8AAAAAAC/M/TD62cklxHSTtMVBmDn",
   "tracks": [
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Made A Way",
-        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
+        "name": "Instrumental Worship Collection",
+        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
       "artists": [
         {
@@ -720,17 +720,21 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
         },
         {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        },
+        {
+          "name": "Calm Worship Collective",
+          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 150038,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/2Bkh2dlIHqSbPbJhlja3xw"
+      "duration_ms": 262304,
+      "name": "I Speak Jesus - Instrumental Worship",
+      "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
     },
     {
       "added_at": null,
@@ -759,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrumental Worship Collection",
-        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
+        "name": "Love Made A Way",
+        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
       },
       "artists": [
         {
@@ -768,21 +772,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "The Prayer Project",
-          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         },
         {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        },
-        {
-          "name": "Calm Worship Collective",
-          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
         }
       ],
-      "duration_ms": 262304,
-      "name": "I Speak Jesus - Instrumental Worship",
-      "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
+      "duration_ms": 150038,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/2Bkh2dlIHqSbPbJhlja3xw"
     },
     {
       "added_at": null,
@@ -895,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 420058,
+      "name": "Names (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 249152,
       "name": "What A Beautiful Name - Instrumental Worship",
       "url": "https://open.spotify.com/track/2C9IZBwpqLlexhvBx2HG7d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 420058,
-      "name": "Names (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"
     },
     {
       "added_at": null,
@@ -1127,34 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond (I See The Glory) feat. Mara Justine",
-        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 343953,
-      "name": "Diamond (I See the Glory) feat. Mara Justine",
-      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
         "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
@@ -1203,6 +1175,34 @@
       "duration_ms": 231161,
       "name": "Came Too Far (feat. Maverick City Music & My Mom)",
       "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond (I See the Glory) feat. Mara Justine",
+        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 343953,
+      "name": "Diamond (I See the Glory) feat. Mara Justine",
+      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
     },
     {
       "added_at": null,

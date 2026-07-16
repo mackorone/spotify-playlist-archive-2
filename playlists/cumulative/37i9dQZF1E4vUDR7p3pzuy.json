@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, David Von Beahm, Shane Embury and more",
+  "description": "With MIK's Reaction, David Von Beahm, Hrafnsson and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 329733,
       "name": "A Lament",
       "url": "https://open.spotify.com/track/1bgsZP9slBoncGw0Sh5VNg"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 219789,
       "name": "Angels Have No Wings",
       "url": "https://open.spotify.com/track/4T1IDZ1Mh8idHzzdv10zX0"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 278974,
       "name": "Breaking Walls",
       "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 196447,
       "name": "Cold Sweats",
       "url": "https://open.spotify.com/track/4xAbFkGcPhdws0Xu3lCYhG"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 183192,
       "name": "Crash",
       "url": "https://open.spotify.com/track/0Ka2wSdo1u8ypAMrK8CtcZ"
@@ -6204,7 +6204,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 205511,
       "name": "Gatekeep",
       "url": "https://open.spotify.com/track/3orrNzd0iaBzpdtFWjeA6t"
@@ -6758,7 +6758,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 226480,
       "name": "hands on the board",
       "url": "https://open.spotify.com/track/6FSTmhKIgmqjQmZ48ZEHm7"
@@ -9194,7 +9194,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -10706,7 +10706,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 244800,
       "name": "Necromantic",
       "url": "https://open.spotify.com/track/0uzlH0yNyjdmmBCyrGUqvf"
@@ -10724,7 +10724,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 352026,
       "name": "Negative Stimuli",
       "url": "https://open.spotify.com/track/3FdDf0U9vcd24Th7ESR7iw"
@@ -10764,7 +10764,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 226285,
       "name": "Never",
       "url": "https://open.spotify.com/track/7H2XExC1KVgaixnhP0T7yE"
@@ -10981,6 +10981,24 @@
     },
     {
       "album": {
+        "name": "Blinded by a Dark Star",
+        "url": "https://open.spotify.com/album/13uRegUuEoYecI02YijZD8"
+      },
+      "artists": [
+        {
+          "name": "Mercury Teardrop",
+          "url": "https://open.spotify.com/artist/3TFtEAflkXJNfG0i30inxr"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270545,
+      "name": "Noise in a Vacuum",
+      "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
+    },
+    {
+      "album": {
         "name": "If You Even Care",
         "url": "https://open.spotify.com/album/5OXJjbymWNF6OmBnOVrfYh"
       },
@@ -11104,7 +11122,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 228000,
       "name": "Nutshell",
       "url": "https://open.spotify.com/track/4EF8NlnszTLtmk2t1GIGNl"
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 272000,
       "name": "Rubyshine",
       "url": "https://open.spotify.com/track/7fhcrNzuryRRDMdKtzEUvv"
@@ -15272,7 +15290,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 245440,
       "name": "The Dreaming Abyss",
       "url": "https://open.spotify.com/track/1FsEE4LCWPcgT23wvkocLl"
@@ -15416,7 +15434,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -15578,7 +15596,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "THE MESS",
       "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
@@ -17108,7 +17126,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 240744,
       "name": "Velvet Black",
       "url": "https://open.spotify.com/track/5Qw3Xscsima9Mecp2uVDjN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 
 > Tune in for the year's hottest K\-Pop tracks! K\-Pop Tunes \| K\-Pop Mix \| K\-Pop Boyband \| K\-Pop Girl Groups \| Cover: Stray Kids
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 316,001 likes - 74 songs - 3 hr 39 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 315,933 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 | 21 | [Higher Than Heaven](https://open.spotify.com/track/2sl9KiihxhBtc4UKIjXChC) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY](https://open.spotify.com/album/72JboNccBYyXR676YNfcYE) | 2:41 |
 | 22 | [Eyes on you](https://open.spotify.com/track/7qkv7ZLTIMkObkyhNo6sdQ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 2:54 |
 | 23 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 |
-| 24 | [54321 \(Lift Off\) \(feat\. Vernon of SEVENTEEN\)](https://open.spotify.com/track/1PFP2Zrgg9P8OHNifYEuEK) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [THE 8 'STARDUST' 1st EP CHINA](https://open.spotify.com/album/1amtBT25YbJ6B6hEy5cUJT) | 2:30 |
+| 24 | [54321 \(Lift Off\) \(feat\. Vernon of SEVENTEEN\)](https://open.spotify.com/track/1PFP2Zrgg9P8OHNifYEuEK) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [THE 8 'STARDUST' 1st EP CHINA](https://open.spotify.com/album/1amtBT25YbJ6B6hEy5cUJT) | 2:30 |
 | 25 | [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 |
 | 26 | [iNSTEAD!](https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Open ♭eta v6.4](https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk) | 2:57 |
 | 27 | [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: cherice, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Deer Anna, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1708,6 +1708,24 @@
       "duration_ms": 164000,
       "name": "Archive Folder",
       "url": "https://open.spotify.com/track/7KmkP7LfMIH4FLP4MNgmCq"
+    },
+    {
+      "album": {
+        "name": "Aren't You Tired",
+        "url": "https://open.spotify.com/album/4OchpAq4iR4nlUt1i3SDVK"
+      },
+      "artists": [
+        {
+          "name": "Deer Anna",
+          "url": "https://open.spotify.com/artist/5hABsIK82aH9pts5yoZO6V"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216396,
+      "name": "Aren't You Tired",
+      "url": "https://open.spotify.com/track/5T3xo6PR0KfpbxPZ8MeMAf"
     },
     {
       "album": {
@@ -24296,7 +24314,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 105205,
       "name": "sl\u00e4tt",
       "url": "https://open.spotify.com/track/0IAFournGIRvQ4K17pS5W6"

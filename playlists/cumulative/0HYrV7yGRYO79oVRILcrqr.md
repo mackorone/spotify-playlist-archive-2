@@ -4,10 +4,11 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-632 songs - 1 day 15 hr 28 min
+635 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 | 2026-07-15 |  |
 | [3 AM Friend](https://open.spotify.com/track/4CCKlg2nD9FCbXeA9y9cEZ) | [Cody & Brody](https://open.spotify.com/artist/79r6SHtEhOvF5MQWIqGKSv) | [3 AM Friend](https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX) | 3:15 | 2026-06-06 | 2026-06-18 |
 | [5am Concrete Floor](https://open.spotify.com/track/4SUtQ1LsaQfA61CUuBuPMo) | [Father's Love Never In Contempt](https://open.spotify.com/artist/5B3BM4VcsFv1U5qZUaJjDv) | [5am Concrete Floor](https://open.spotify.com/album/31XosuzrD8Osj85f2COxd9) | 4:40 | 2026-03-15 |  |
 | [9/11 Dinamite](https://open.spotify.com/track/2ZfSQw1PBEyBt3YQZgZPEV) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 3:08 | 2025-10-22 | 2025-11-28 |
@@ -143,6 +144,7 @@
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 | 2026-04-21 |
 | [Die Zeit, die uns bleibt](https://open.spotify.com/track/6z1iaDb6x0eFQwvW2jph8e) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:24 | 2025-10-28 | 2025-12-17 |
 | [Dime](https://open.spotify.com/track/3SZ6y7If8OhjTKfEkfFjbv) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [No Hay Un Lugar a la Vista](https://open.spotify.com/album/2m0JDTrXLnMxq6FP2q8o8l) | 5:09 | 2026-06-06 | 2026-06-18 |
+| [DISDAINED:REANIMATED](https://open.spotify.com/track/0QCQ8vdVwTVj3uzte89TCi) | [Soulbloom](https://open.spotify.com/artist/5zDTFu6FMdanKfmNNVvPiW) | [DISDAINED:REANIMATED](https://open.spotify.com/album/0L5E3eEcCcrK1Z1TZIyQYF) | 2:25 | 2026-07-15 |  |
 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 | 2026-04-14 | 2026-06-25 |
 | [Do You Remember?](https://open.spotify.com/track/2ir8kJN0GO8wUP90oU3LSJ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Do You Remember?](https://open.spotify.com/album/73GDhhUlcUhxlDUm6BqdLo) | 3:40 | 2025-10-04 | 2025-12-17 |
 | [Do You Think You Are ...](https://open.spotify.com/track/6LZkKLSRhixSCSv0fU0Iyo) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Do You Think You Are ...](https://open.spotify.com/album/7aySkDtNQbHGcPsrG1GLNo) | 3:53 | 2026-04-12 |  |
@@ -230,6 +232,7 @@
 | [Groove of the Soul](https://open.spotify.com/track/661nbgxeFKG1G90ZZ6blQR) | [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0) | [Groove of the Soul](https://open.spotify.com/album/2wbyS7AgWdskZAJmkJiQFB) | 4:31 | 2026-05-25 |  |
 | [Guerrero](https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B) | [Wilson Ramírez](https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z) | [Guerrero](https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7) | 4:34 | 2025-09-21 | 2026-07-03 |
 | [Hag of the Mist](https://open.spotify.com/track/6jxNSVpJl3uNvJhLZngFrd) | [KK Verkefni](https://open.spotify.com/artist/1FVghWQaVyzv3bkCU6K26e) | [Hag of the Mist](https://open.spotify.com/album/3fETRZrElTcfZzsCAP4tS7) | 3:55 | 2026-07-12 |  |
+| [Haga Lo Que Haga](https://open.spotify.com/track/7rtCC8R2Id26sFryZuO13A) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Haga Lo Que Haga](https://open.spotify.com/album/1VKklGTrS2IZ2HlskmH7Ql) | 2:34 | 2026-07-15 |  |
 | [Half\-Life of a Heartbeat](https://open.spotify.com/track/2P9XNblTIpL9ioNcCbQymA) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 3:48 | 2026-04-28 | 2026-05-26 |
 | [Halfway Down The Road](https://open.spotify.com/track/5lkJZmsHA2dTQLNUB4Otka) | [Lark](https://open.spotify.com/artist/7IkbUEUIzEVuwxLo42da5n) | [Halfway Down The Road](https://open.spotify.com/album/6ZIyRpkF61BJtdLSSP7nIq) | 4:39 | 2026-02-22 |  |
 | [Halle klebt](https://open.spotify.com/track/3mL5eUXyowIDKW6hOTzgrf) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Halle klebt](https://open.spotify.com/album/0FQX4LCBCuGwbVENoCEPz2) | 2:37 | 2026-04-27 | 2026-05-26 |

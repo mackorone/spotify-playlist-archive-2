@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: HAAi",
-  "num_followers": 129415,
+  "num_followers": 129407,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
+        "name": "Groovy Thang",
+        "url": "https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC"
+      },
+      "artists": [
+        {
+          "name": "DTAILR",
+          "url": "https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e"
+        }
+      ],
+      "duration_ms": 167535,
+      "name": "Groovy Thang",
+      "url": "https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Groovy Thang",
-        "url": "https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC"
-      },
-      "artists": [
-        {
-          "name": "DTAILR",
-          "url": "https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e"
-        }
-      ],
-      "duration_ms": 167535,
-      "name": "Groovy Thang",
-      "url": "https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -805,24 +805,20 @@
       "url": "https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD"
     },
     {
-      "added_at": "2026-06-11 14:00:37",
+      "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Patang",
-        "url": "https://open.spotify.com/album/33VlFHJP6rf5Q9a4JoLdLz"
+        "name": "Who Are They?",
+        "url": "https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "Marlon Lopez",
-          "url": "https://open.spotify.com/artist/1D0mmSLwDys50XLi6A5b5m"
+          "name": "Hedonics",
+          "url": "https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS"
         }
       ],
-      "duration_ms": 416165,
-      "name": "Patang",
-      "url": "https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY"
+      "duration_ms": 294339,
+      "name": "Who Are They?",
+      "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -845,20 +841,24 @@
       "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
     },
     {
-      "added_at": "2026-05-06 00:22:41",
+      "added_at": "2026-06-11 14:00:37",
       "album": {
-        "name": "Who Are They?",
-        "url": "https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM"
+        "name": "Patang",
+        "url": "https://open.spotify.com/album/33VlFHJP6rf5Q9a4JoLdLz"
       },
       "artists": [
         {
-          "name": "Hedonics",
-          "url": "https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "Marlon Lopez",
+          "url": "https://open.spotify.com/artist/1D0mmSLwDys50XLi6A5b5m"
         }
       ],
-      "duration_ms": 294339,
-      "name": "Who Are They?",
-      "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
+      "duration_ms": 416165,
+      "name": "Patang",
+      "url": "https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY"
     },
     {
       "added_at": "2026-05-06 00:22:41",

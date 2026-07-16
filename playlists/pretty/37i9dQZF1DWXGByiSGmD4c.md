@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGByiSGmD4c.md) - [plain]
 
 > Enjoy the LE SSERAFIM WORLD TOUR \[PUREFLOW\] BEST SET for the upcoming concert! \(다가오는 르세라핌의 투어를 준비하며 히트곡  BEST SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138 likes - 25 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

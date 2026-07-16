@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,397 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,352 likes - 59 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 50 | [Trophée](https://open.spotify.com/track/3id6cTerbJqoX59IkjmQwN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/3faKicSICUWfcc1RRuy0xZ) | 3:06 |
 | 51 | [Confettis](https://open.spotify.com/track/4HylLIiXubG5xFmQLIEAAA) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk), [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Confettis](https://open.spotify.com/album/60R2KMqv2HEBGdLTBRebrZ) | 3:08 |
 | 52 | [La porte](https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [La porte](https://open.spotify.com/album/7xWOaKVO0Ge6DbbU8C17pf) | 2:33 |
-| 53 | [TT](https://open.spotify.com/track/5jkgxXpaOXBi7koVJOSXIB) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [TT](https://open.spotify.com/album/42K04QVewiP4vVYzmSERTf) | 3:20 |
-| 54 | [Champs\-Elysées](https://open.spotify.com/track/0L0EUIiVNMHGAoMkxKiZAc) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Champs\-Elysées](https://open.spotify.com/album/50n0otnT9R0vnjFqeuSCNu) | 2:32 |
-| 55 | [MANSORY](https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [MANSORY](https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP) | 3:46 |
-| 56 | [Anita](https://open.spotify.com/track/3dL0hbJyvdCzl1Dw9g01hs) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Anita](https://open.spotify.com/album/4UWz4OA122YMENL2wJzkmv) | 2:42 |
-| 57 | [C'EST QUI C'EST NOUS](https://open.spotify.com/track/10BMsgQMdhtybASU9SE8GD) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [C'EST QUI C'EST NOUS](https://open.spotify.com/album/6tVSD6o5et2tMaBGGpRHy0) | 2:12 |
-| 58 | [Mélange](https://open.spotify.com/track/0tQ6DjtHWrKBr2WwiD3Au1) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [Mélange](https://open.spotify.com/album/3KiZbHf512Q8PHbrwpebjo) | 2:39 |
-| 59 | [Bingo](https://open.spotify.com/track/2lpZ7BELOLoIUwON5WcTHa) | [Ramos.](https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB) | [Bingo](https://open.spotify.com/album/0RnyT2aO2bLDg4xmIs2yXd) | 2:35 |
-| 60 | [Pardon Maman](https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Pardon Maman](https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C) | 2:20 |
+| 53 | [Champs\-Elysées](https://open.spotify.com/track/0L0EUIiVNMHGAoMkxKiZAc) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Champs\-Elysées](https://open.spotify.com/album/50n0otnT9R0vnjFqeuSCNu) | 2:32 |
+| 54 | [MANSORY](https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [MANSORY](https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP) | 3:46 |
+| 55 | [Anita](https://open.spotify.com/track/3dL0hbJyvdCzl1Dw9g01hs) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Anita](https://open.spotify.com/album/4UWz4OA122YMENL2wJzkmv) | 2:42 |
+| 56 | [C'EST QUI C'EST NOUS](https://open.spotify.com/track/10BMsgQMdhtybASU9SE8GD) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [C'EST QUI C'EST NOUS](https://open.spotify.com/album/6tVSD6o5et2tMaBGGpRHy0) | 2:12 |
+| 57 | [Mélange](https://open.spotify.com/track/0tQ6DjtHWrKBr2WwiD3Au1) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [Mélange](https://open.spotify.com/album/3KiZbHf512Q8PHbrwpebjo) | 2:39 |
+| 58 | [Bingo](https://open.spotify.com/track/2lpZ7BELOLoIUwON5WcTHa) | [Ramos.](https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB) | [Bingo](https://open.spotify.com/album/0RnyT2aO2bLDg4xmIs2yXd) | 2:35 |
+| 59 | [Pardon Maman](https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Pardon Maman](https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C) | 2:20 |
 
-Snapshot ID: `AAAAAOoz5YAOKeFid2KD05JM9/YuX7ID`
+Snapshot ID: `AAAAALVI3qATTs96aFbPWJrDQzxiuqy4`

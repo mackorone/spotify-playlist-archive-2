@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Cristo.",
-  "num_followers": 22325,
+  "num_followers": 22342,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,18 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "V.I.P",
-        "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
+        "name": "Mocatriz",
+        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
       },
       "artists": [
         {
-          "name": "Lapili",
-          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
-        },
-        {
-          "name": "Jowell",
-          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
-        },
-        {
-          "name": "Los del Control",
-          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
         }
       ],
-      "duration_ms": 137872,
-      "name": "V.I.P",
-      "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
+      "duration_ms": 237228,
+      "name": "Mocatriz",
+      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -275,18 +267,26 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Mocatriz",
-        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
+        "name": "V.I.P",
+        "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
       },
       "artists": [
         {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+          "name": "Lapili",
+          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
         }
       ],
-      "duration_ms": 237228,
-      "name": "Mocatriz",
-      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
+      "duration_ms": 137872,
+      "name": "V.I.P",
+      "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
+        "name": "Pipe dream",
+        "url": "https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 157952,
+      "name": "Pipe dream",
+      "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
         "name": "Chocolate",
         "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 172650,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
-        "name": "Pipe dream",
-        "url": "https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 157952,
-      "name": "Pipe dream",
-      "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
     },
     {
       "added_at": "2026-07-13 22:00:02",

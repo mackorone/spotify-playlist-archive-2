@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 115161,
+  "num_followers": 115197,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+      },
+      "artists": [
+        {
+          "name": "Joutro Mundo",
+          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Nao Force",
+      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Cole\u00e7\u00e3o Nacional",
         "url": "https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 237426,
       "name": "Cabe\u00e7a de N\u00eago",
       "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Joutro Mundo",
-          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Nao Force",
-      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Jaguatirica Print",
-        "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa e os Alquimistas",
-          "url": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
-        },
-        {
-          "name": "Doralyce",
-          "url": "https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU"
-        }
-      ],
-      "duration_ms": 189525,
-      "name": "Calor no Rio",
-      "url": "https://open.spotify.com/track/3ThEeFihlrZhfaAPItIArO"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Roda de Funk",
         "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 191560,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Jaguatirica Print",
+        "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa e os Alquimistas",
+          "url": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
+        },
+        {
+          "name": "Doralyce",
+          "url": "https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU"
+        }
+      ],
+      "duration_ms": 189525,
+      "name": "Calor no Rio",
+      "url": "https://open.spotify.com/track/3ThEeFihlrZhfaAPItIArO"
     },
     {
       "added_at": "2025-10-04 00:28:31",

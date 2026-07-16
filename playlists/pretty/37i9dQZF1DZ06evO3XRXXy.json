@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 153457,
+  "num_followers": 153466,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAACEtYfD5oCXM7fvykFA9Vsv",
+  "snapshot_id": "alV8AAAAAACT5gF9teQyaq5N7v+OiF+K",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
+      "duration_ms": 281906,
+      "name": "Heart And Soul - Live",
+      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazilian Nights (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 281906,
-      "name": "Heart And Soul - Live",
-      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+      "duration_ms": 313933,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 440400,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 262533,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 440400,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
     },
     {
       "added_at": null,

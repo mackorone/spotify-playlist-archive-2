@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ASIA7",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tilly Birds",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 174000,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/3R5a0BnfrASTZ5f2ronWt3"
@@ -7455,6 +7455,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22 (The Wall)",
+        "url": "https://open.spotify.com/album/5ZVkGe0DRxrumm7blAE4mn"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288076,
+      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22 (The Wall)",
+      "url": "https://open.spotify.com/track/3IJO30sBHgv6xpllqjaZPk"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e33\u0e44\u0e27\u0e49",
         "url": "https://open.spotify.com/album/71lNvoJeFSc0bAKf5GhNrx"
       },
@@ -7466,7 +7484,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 241875,
       "name": "\u0e08\u0e33\u0e44\u0e27\u0e49",
       "url": "https://open.spotify.com/track/4UbYIYA0YmoSfkD7o9fbXJ"
@@ -8530,7 +8548,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 248802,
       "name": "\u0e17\u0e19\u0e2d\u0e35\u0e01\u0e19\u0e34\u0e14 (feat. KHEM FREEHAND)",
       "url": "https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6"
@@ -8918,6 +8936,24 @@
       "duration_ms": 228397,
       "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
       "url": "https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
     },
     {
       "album": {
@@ -10237,6 +10273,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
+        "url": "https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253764,
+      "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
+      "url": "https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA"
+    },
+    {
+      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9"
       },
@@ -10998,6 +11052,28 @@
       "duration_ms": 202105,
       "name": "\u0e2a\u0e31\u0e21\u0e20\u0e40\u0e27\u0e0b\u0e35\u0e49 (GFF Ghost Friend Forever) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e32\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/3pnYrlNhLlMwkV9gDSXphN"
+      },
+      "artists": [
+        {
+          "name": "9tokyo",
+          "url": "https://open.spotify.com/artist/3FxGLtMGpuO4myzWo0gktr"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "\u0e2a\u0e32\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/45VmbHRJywi2mNaIGvHs44"
     },
     {
       "album": {
@@ -12250,7 +12326,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 239656,
       "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
       "url": "https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998"

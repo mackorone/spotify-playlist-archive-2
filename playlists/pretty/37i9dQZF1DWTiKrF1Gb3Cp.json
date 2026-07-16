@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 253213,
+  "num_followers": 253266,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-07-03 06:00:17",
       "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
+    },
+    {
+      "added_at": "2026-07-03 06:00:17",
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
-    },
-    {
-      "added_at": "2026-07-03 06:00:17",
-      "album": {
-        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
-        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 155888,
-      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
-      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "added_at": "2026-07-03 06:00:17",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-07-03 06:00:17",
       "album": {
+        "name": "Mexicano Soy",
+        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Mexicano Soy",
+      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
+    },
+    {
+      "added_at": "2026-07-03 06:00:17",
+      "album": {
         "name": "Mercenarios",
         "url": "https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q"
       },
@@ -1131,26 +1147,6 @@
       "duration_ms": 142666,
       "name": "Mercenarios",
       "url": "https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L"
-    },
-    {
-      "added_at": "2026-07-03 06:00:17",
-      "album": {
-        "name": "Por Si Se Les Olvidaba",
-        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Alex Torres",
-          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Por Si Se Les Olvidaba",
-      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
     },
     {
       "added_at": "2026-07-03 06:00:17",
@@ -1223,6 +1219,26 @@
     {
       "added_at": "2026-07-03 06:00:17",
       "album": {
+        "name": "Por Si Se Les Olvidaba",
+        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Por Si Se Les Olvidaba",
+      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
+    },
+    {
+      "added_at": "2026-07-03 06:00:17",
+      "album": {
         "name": "Pacas De Billetes",
         "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 188074,
       "name": "Pacas De Billetes",
       "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
-    },
-    {
-      "added_at": "2026-07-03 06:00:17",
-      "album": {
-        "name": "Mexicano Soy",
-        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Mexicano Soy",
-      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
     },
     {
       "added_at": "2026-07-03 06:00:17",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-07-03 06:00:17",
       "album": {
-        "name": "TODO \u00d8 NADA",
-        "url": "https://open.spotify.com/album/3RtTWm3ks5SxtmpH1ZYTam"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 156283,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/3ow0KDTn32H0MKskS6UkHI"
-    },
-    {
-      "added_at": "2026-07-03 06:00:17",
-      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 407179,
       "name": "A2P",
       "url": "https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o"
+    },
+    {
+      "added_at": "2026-07-03 06:00:17",
+      "album": {
+        "name": "TODO \u00d8 NADA",
+        "url": "https://open.spotify.com/album/3RtTWm3ks5SxtmpH1ZYTam"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 156283,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/3ow0KDTn32H0MKskS6UkHI"
     },
     {
       "added_at": "2026-07-03 06:00:17",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2026-07-03 06:00:17",
       "album": {
-        "name": "El De La Letra B (Remix)",
-        "url": "https://open.spotify.com/album/6zlhI5c5nNI1T7RxRIj7rd"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "El De La Letra B (Remix)",
-      "url": "https://open.spotify.com/track/1PLXWZh44pL4f3hQ7YO4g4"
-    },
-    {
-      "added_at": "2026-07-03 06:00:17",
-      "album": {
         "name": "Andamos",
         "url": "https://open.spotify.com/album/1xAxVtARgZS7UkIuLUBl1v"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 195692,
       "name": "Andamos",
       "url": "https://open.spotify.com/track/1zz2ffaRZmI99OjHBjPVH8"
+    },
+    {
+      "added_at": "2026-07-03 06:00:17",
+      "album": {
+        "name": "El De La Letra B (Remix)",
+        "url": "https://open.spotify.com/album/6zlhI5c5nNI1T7RxRIj7rd"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "El De La Letra B (Remix)",
+      "url": "https://open.spotify.com/track/1PLXWZh44pL4f3hQ7YO4g4"
     },
     {
       "added_at": "2026-07-03 06:00:17",

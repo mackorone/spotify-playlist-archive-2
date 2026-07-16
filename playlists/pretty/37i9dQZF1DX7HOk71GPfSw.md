@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cannelle new mixtape = inspiring ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,360 likes - 120 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,669 likes - 120 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 6 | [I Like](https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W), [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [I Like](https://open.spotify.com/album/2HSr0Ar9OrNYCm9fyx9YHf) | 2:23 |
 | 7 | [A Fairy Bitch Like U](https://open.spotify.com/track/2vcvI9e2fOMGd9azh1mWiC) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm), [Swelle](https://open.spotify.com/artist/4eJLFac0KE64G6JB2hlzMs) | [A Fairy Bitch Like U](https://open.spotify.com/album/6O1hWedqd9NoP7V5aHFeBi) | 2:50 |
 | 8 | [how to be content :](https://open.spotify.com/track/1UzjeYE8X7fTgWAofd00sX) | [Intentions](https://open.spotify.com/artist/0Naa1nD2BZ3Rvjj73sYyxR), [halide](https://open.spotify.com/artist/17H5uNmdHlEpKe5Hg38m7J) | [how to be content :](https://open.spotify.com/album/1gi8EM8ivbw0TdU9vw5hab) | 4:54 |
-| 9 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
+| 9 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
 | 10 | [Kiss](https://open.spotify.com/track/4jZUTV3lMCxllZiIvWte9X) | [Westwood](https://open.spotify.com/artist/3ROUUVgC0l5pYp3wLQQ05v) | [Kiss](https://open.spotify.com/album/5bq0T1HikXAfh4Psg75aFL) | 2:10 |
 | 11 | [Satellites](https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Satellites](https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU) | 3:31 |
 | 12 | [GET UP! GET DOWN! \(EVERYBODYYY\)](https://open.spotify.com/track/2nqn5XsYk0gsCGSAWbBFsR) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [GET UP! GET DOWN! \(EVERYBODYYY\)](https://open.spotify.com/album/6CAkmTyIPUDpos74QpYEUb) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Madison Watkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,031 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,824 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Evergreen](https://open.spotify.com/track/5QSHsty6a2FdYP91iiBScF) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Evergreen](https://open.spotify.com/album/3TwJm2v7uoU9q8AoYLKTus) | 3:03 |
 | 100 | [Babylon](https://open.spotify.com/track/2V46hiHM4Z2QebVwmFRwwl) | [Mark Alan Schoolmeesters](https://open.spotify.com/artist/0mTJxKhV5L8JtQmXHTJZXy) | [Babylon](https://open.spotify.com/album/4e4IMW3HKZyod3lrRZkBAr) | 3:28 |
 
-Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`
+Snapshot ID: `AAAAAIYBVEY++Q2TdnqlDlVdCCODaPA8`

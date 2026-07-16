@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Bizarrap y Myke Towers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,029 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,026 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BOOBYTRAP](https://open.spotify.com/track/3SgX7xcsLSdB3yHLsAD4Oz) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z) | 3:16 |
-| 2 | [Chambonean](https://open.spotify.com/track/28sXa6bJgr6TCijFG4ZwVW) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Token'one](https://open.spotify.com/artist/23dkmyBb5NdKdjokpPjT9l), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Chambonean](https://open.spotify.com/album/0nr5Ulgvh8se8YaIiRbt9y) | 5:15 |
+| 2 | [Chambonean](https://open.spotify.com/track/28sXa6bJgr6TCijFG4ZwVW) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Token'one](https://open.spotify.com/artist/23dkmyBb5NdKdjokpPjT9l), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Caésar](https://open.spotify.com/artist/1prMbHuzKPLOhFlRFZm6F5) | [Chambonean](https://open.spotify.com/album/0nr5Ulgvh8se8YaIiRbt9y) | 5:15 |
 | 3 | [Atari](https://open.spotify.com/track/3d5QtjYLLorGzrBBkVl3ct) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF), [MZCLBR](https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [Atari](https://open.spotify.com/album/05srs2qxHI71SaP0xtIy1C) | 2:14 |
 | 4 | [Los Juanos](https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Bruja en el Beat](https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34) | [Los Juanos](https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0) | 3:37 |
 | 5 | [ZAPATOS](https://open.spotify.com/track/05y0gZhdZPsOCwSUIv1nXb) | [008RACCA](https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM) | [ZAPATOS](https://open.spotify.com/album/5iLzs8Od50z0LnxT473EDa) | 2:33 |

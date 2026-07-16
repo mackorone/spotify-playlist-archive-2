@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Sofia Lafuente\. Updates every Wednesday.
 
-2,806 songs - 6 day 5 hr 26 min
+2,808 songs - 6 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,7 +887,7 @@
 | [En la mia <3](https://open.spotify.com/track/2VTvp8pytd7ZHkSwfXWWmV) | [GYO](https://open.spotify.com/artist/3EAJ2SzsYLRaO7OJVVt3Qi), [Raiser Suena Nitido](https://open.spotify.com/artist/1DVjct7OqhhWYF9DN9dc70), [Ese Manuel](https://open.spotify.com/artist/5XEPPmN9Do2SZn222IF6BE) | [En la mia <3](https://open.spotify.com/album/7pJLTICKOF54c0ocnwGsGG) | 3:31 | 2025-02-06 | 2025-03-06 |
 | [En La Mía](https://open.spotify.com/track/2rpf5SUsJ1nZNlon3M3xNd) | [Spuck GC](https://open.spotify.com/artist/2qQmATpe7BxfEsVtYtJQI1) | [En La Mía](https://open.spotify.com/album/3WgNcO2hnsQASiaxKtCr8s) | 2:16 | 2023-09-27 | 2023-10-12 |
 | [En la Playa Con un Suéter](https://open.spotify.com/track/14kNuRVtcIfPcwO0GPeDru) | [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Olxs](https://open.spotify.com/artist/2jEZPymJEpNB0KMj94PMbl), [Pocket Tincho](https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387) | [En la Playa Con un Suéter](https://open.spotify.com/album/53PWH26Ck1XJOI95HItfSm) | 1:36 | 2024-02-07 | 2024-02-22 |
-| [En Las Estrellas Tu Nombre y el Mío](https://open.spotify.com/track/6w6iHmyRKg1QbGvvNzKsdv) | [Sofía Wallens](https://open.spotify.com/artist/4kuKEfDDpXOmtqowcLCYUs), [irene](https://open.spotify.com/artist/6MCQ5rHdg8uRPBJ9sl8V9E) | [En Las Estrellas Tu Nombre y el Mío](https://open.spotify.com/album/67hkfLi2JnLnz72IhrSl5W) | 2:00 | 2026-03-25 |  |
+| [En Las Estrellas Tu Nombre y el Mío](https://open.spotify.com/track/6w6iHmyRKg1QbGvvNzKsdv) | [Sofía Wallens](https://open.spotify.com/artist/4kuKEfDDpXOmtqowcLCYUs), [irene](https://open.spotify.com/artist/6MCQ5rHdg8uRPBJ9sl8V9E) | [En Las Estrellas Tu Nombre y el Mío](https://open.spotify.com/album/67hkfLi2JnLnz72IhrSl5W) | 2:00 | 2026-03-25 | 2026-07-16 |
 | [En los Parques](https://open.spotify.com/track/3IRj8U0Lt8bPdlW6GXBK5q) | [Mizuki Amapola](https://open.spotify.com/artist/1i1q599ea4CdgaVtomARti), [La Lauri Fire](https://open.spotify.com/artist/7Ku8lMIIWZ2fGXSVdzbM84) | [Calendario](https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ) | 2:12 | 2024-03-20 | 2024-04-04 |
 | [En Ningún Lugar](https://open.spotify.com/track/0k0mn8mOgjkJg1HK4QqMjF) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [En Ningún Lugar](https://open.spotify.com/album/7HocfBdL2g9qAwxp4Meqfn) | 3:01 | 2025-06-25 | 2026-03-05 |
 | [En Otra Vida](https://open.spotify.com/track/3i2yzsDIrTloyQJG4aCry0) | [Céres](https://open.spotify.com/artist/6A4zD8ETEX7CqCLEayZ60c) | [Las Cosas No Se Pierden Solo Se Transforman](https://open.spotify.com/album/4wdsTQ1pKvTjEVhD6Yu6wX) | 3:12 | 2023-09-20 | 2023-10-05 |
@@ -967,6 +967,7 @@
 | [estoy en mi peak](https://open.spotify.com/track/55EAQg04pnEPS2v8ugmUcj) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [estoy en mi peak](https://open.spotify.com/album/392TQ3BtDuR5j2acxHPQvZ) | 2:32 | 2025-05-07 | 2025-07-12 |
 | [Estrella](https://open.spotify.com/track/4COmqB89xOVYDmn61wSM1c) | [Caws DGP](https://open.spotify.com/artist/09Pc2WJtZqREapbEbn40xd) | [Estrella](https://open.spotify.com/album/5k6JbuPTyD8TMeAukHVNpy) | 2:39 | 2023-11-08 | 2023-11-30 |
 | [Estrella](https://open.spotify.com/track/65ujqMp1mdOhzp75c5t90R) | [Dinié](https://open.spotify.com/artist/1Xaa9v4eSL7fShYSUs4Jjq), [Amor Eterno](https://open.spotify.com/artist/5azVpthdaO4HLN381lLqW6) | [Amor Eterno Vol\. 1](https://open.spotify.com/album/1qbfBzAmMF3SbzO0IXdbpa) | 2:14 | 2023-04-12 | 2023-04-27 |
+| [Estrella](https://open.spotify.com/track/1ShklPH2en2S6e2LuDW514) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Perspectiva](https://open.spotify.com/album/5NRJBqlzwGiACqMCX6ycRG) | 2:32 | 2026-07-15 |  |
 | [Estrella Fugaz](https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Estrella Fugaz](https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt) | 4:26 | 2022-06-08 | 2022-07-07 |
 | [Estrella Matutina](https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Estrella Matutina](https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt) | 3:20 | 2024-01-31 | 2024-02-08 |
 | [Estrellas](https://open.spotify.com/track/12xPalbdr11FAzvb4GEQU9) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Estrellas](https://open.spotify.com/album/1XciJ0ujHmZSljO19r4sjs) | 2:59 | 2022-03-23 | 2022-04-07 |
@@ -988,6 +989,7 @@
 | [EXXXTRAÑANDOME](https://open.spotify.com/track/4wAGaaTBA1cAe9RuuzZDeK) | [Atlazzz](https://open.spotify.com/artist/4cX3HHpES9mEahy39jbWjl) | [KARMA](https://open.spotify.com/album/5YxtHcNmt0RtrXooSsBO2y) | 2:27 | 2024-06-12 | 2024-07-11 |
 | [F](https://open.spotify.com/track/26Yn71zCtoboRXL40WrOXg) | [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [F](https://open.spotify.com/album/3qhWO6nk1TNAk8V2kV2JSp) | 3:08 | 2021-12-22 | 2022-01-27 |
 | [F.R.I.E.N.D.S.](https://open.spotify.com/track/0c41M1Xk7H6XNadfnGfpr8) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k) | [F.R.I.E.N.D.S.](https://open.spotify.com/album/77uSvAjLZTjkb6XtY92cds) | 2:52 | 2025-05-07 | 2025-07-12 |
+| [F2J](https://open.spotify.com/track/1bX4WZ37PFeOPcsATB1lV9) | [Vortxz](https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8) | [F2J](https://open.spotify.com/album/3EdhR1pwARaZ3DnXUdnDSy) | 2:43 | 2026-07-15 |  |
 | [Facil](https://open.spotify.com/track/5im7FCGkR1HPYjdib3MZET) | [The Flowy](https://open.spotify.com/artist/6GsqeWG6snxBudpBeeDkOt) | [Facil](https://open.spotify.com/album/3AMtf4N4RRR5s3m9zvMKCO) | 3:20 | 2022-08-31 | 2022-09-29 |
 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 | 2023-11-08 | 2024-05-09 |
 | [Falso Verano](https://open.spotify.com/track/14SHSUgzpMzp1hyMk6vbrx) | [Tom Vin](https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc) | [Falso Verano](https://open.spotify.com/album/24hME3rIQJbIv8Emn8IPvv) | 3:12 | 2024-03-06 | 2024-03-28 |
@@ -1335,7 +1337,7 @@
 | [Lejos de Casa](https://open.spotify.com/track/73XCdtCioLUTL4EAvrKcqk) | [Victoria Yoi](https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T) | [Lejos de Casa](https://open.spotify.com/album/1wJMSBcODlTX2jN877SqqI) | 3:04 | 2022-08-24 | 2022-09-17 |
 | [Lelekí](https://open.spotify.com/track/4FrDdrcoOjIyv5khs5f0ob) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Bomby](https://open.spotify.com/artist/2U3Y8qTTqVAA7uoksbqTDh) | [Lelekí](https://open.spotify.com/album/4fwunG8NJxy1jTqSU4yTZq) | 2:50 | 2023-09-27 | 2024-01-11 |
 | [Lente Anamórfico](https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Lente Anamórfico](https://open.spotify.com/album/6iqnbkY71BpLZKalGwRQwo) | 2:10 | 2023-10-04 | 2023-10-19 |
-| [Lentes Rosados](https://open.spotify.com/track/34wpq0myOPwFEoX1aTHHuD) | [Jasmine Wesley](https://open.spotify.com/artist/3cAEKMvjBlVTUBkXV0Slsi) | [Lentes Rosados](https://open.spotify.com/album/05gArowHJdck08BCPKAxRR) | 3:29 | 2026-04-15 |  |
+| [Lentes Rosados](https://open.spotify.com/track/34wpq0myOPwFEoX1aTHHuD) | [Jasmine Wesley](https://open.spotify.com/artist/3cAEKMvjBlVTUBkXV0Slsi) | [Lentes Rosados](https://open.spotify.com/album/05gArowHJdck08BCPKAxRR) | 3:29 | 2026-04-15 | 2026-07-16 |
 | [Lento](https://open.spotify.com/track/2CAWEYKWO6lwbrBoAmU4NY) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Lento](https://open.spotify.com/album/5NN06mgYJh8izObPfukD47) | 3:02 | 2022-02-02 | 2022-03-10 |
 | [Lento](https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR) | [Lento](https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm) | 3:28 | 2023-08-23 | 2023-09-07 |
 | [LENTO](https://open.spotify.com/track/4TOxaPy0DldwlhOrUTnaej) | [Flu Os](https://open.spotify.com/artist/6Sv7bgGea4mSf1iLaQGvnE) | [PUNTO J](https://open.spotify.com/album/3UsoHlFfzemMYekdyoUR5h) | 3:29 | 2024-11-27 | 2024-12-05 |

@@ -1,6 +1,6 @@
 {
   "description": "\u0917\u093e\u0901\u0935-\u0918\u0930 \u0915\u0940 \u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0905\u0938\u0932\u0940 \u0938\u0902\u0917\u0940\u0924 '\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0935\u093f\u0935\u093e\u0939 \u0917\u0940\u0924'.",
-  "num_followers": 11563,
+  "num_followers": 11564,
   "original_name": "Bhojpuri Vivah Geet",
   "owner": {
     "name": "Spotify",
@@ -588,26 +588,6 @@
       },
       "artists": [
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 293856,
-      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
-      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
           "name": "Deepa Narayan Jha",
           "url": "https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx"
         },
@@ -623,6 +603,26 @@
       "duration_ms": 278816,
       "name": "Banno Ke Hardi Lagaav Re (From \"Ho Gayini Diwana Tohra Pyar Mein\")",
       "url": "https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "duration_ms": 293856,
+      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
+      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
     },
     {
       "added_at": "2026-05-22 10:52:14",

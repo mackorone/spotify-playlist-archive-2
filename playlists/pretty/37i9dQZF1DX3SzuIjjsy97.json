@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
-        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
-      },
-      "artists": [
-        {
-          "name": "Will Ferrell",
-          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
-        },
-        {
-          "name": "My Marianne",
-          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
-        }
-      ],
-      "duration_ms": 202286,
-      "name": "Husavik (My Hometown)",
-      "url": "https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
         "name": "Mean Girls (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 215000,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
+        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
+      },
+      "artists": [
+        {
+          "name": "Will Ferrell",
+          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
+        },
+        {
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+        }
+      ],
+      "duration_ms": 202286,
+      "name": "Husavik (My Hometown)",
+      "url": "https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX"
     },
     {
       "added_at": "2026-03-06 13:38:21",

@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: ALMAS
 
-1,238 songs - 2 day 13 hr 44 min
+1,240 songs - 2 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [BAILAR CONTIGO](https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:43 | 2022-11-25 | 2023-04-29 |
 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 | 2024-04-05 | 2024-06-22 |
 | [BAILAS EN MI MENTE](https://open.spotify.com/track/6jw78DLVUSqZRhXOvzZcQ8) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [Yannc](https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1), [Full Harmony](https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE) | [BAILAS EN MI MENTE](https://open.spotify.com/album/3GXdh1xy0FChbIPRjCb6kE) | 2:11 | 2026-05-29 |  |
+| [Baile](https://open.spotify.com/track/67r9j0N4Jl5Uu2hJQAHjbm) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Baile](https://open.spotify.com/album/2dBOJdQ6Z14IX0jm7URbg5) | 2:33 | 2026-07-15 |  |
 | [BAJO CERO](https://open.spotify.com/track/4vM7jPhNtOKihPksD0nw3L) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH), [Christopher Velez](https://open.spotify.com/artist/60w8lF7r9QhvUQNupt5GQk) | [BAJO CERO](https://open.spotify.com/album/3pQ54dQWi9W956cG1N9H7C) | 2:52 | 2026-02-09 | 2026-04-04 |
 | [Bajo Control](https://open.spotify.com/track/2BV0Fa4MS4w6Oush2CdNvV) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Bajo Control](https://open.spotify.com/album/5sQWD9mh4z7im5PWl1xpaz) | 3:36 | 2025-06-13 | 2025-07-19 |
 | [Bajo El Sol](https://open.spotify.com/track/1NC4ekXkSHiYoUMANvQ09E) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Bajo El Sol](https://open.spotify.com/album/77KKdfOtwdqsYkP0YXri7K) | 2:17 | 2025-06-27 | 2025-07-19 |
@@ -338,7 +339,7 @@
 | [Divino Castigo](https://open.spotify.com/track/0mPwBZORxOOvFzOZ7qLFmH) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Divino Castigo](https://open.spotify.com/album/4X0mMK6tzbPwP4nyj7ZehS) | 2:45 | 2025-10-24 | 2026-01-24 |
 | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 | 2022-07-25 | 2022-10-29 |
 | [dos dedos de frente](https://open.spotify.com/track/7unscTqHZ3UjQdvmPvBLQP) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [dos dedos de frente](https://open.spotify.com/album/6Kp8heod8OEnUnjy4MYHpZ) | 2:44 | 2025-10-07 | 2026-02-10 |
-| [Dos Lunas](https://open.spotify.com/track/241T0LgkefRZw84wxgexrM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:58 | 2026-04-10 |  |
+| [Dos Lunas](https://open.spotify.com/track/241T0LgkefRZw84wxgexrM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:58 | 2026-04-10 | 2026-07-16 |
 | [Dos Sagitarios](https://open.spotify.com/track/3AdAcGSN0SmUfD3Nfuvtqb) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Dos Sagitarios](https://open.spotify.com/album/6kHT8gWkafyoZ6KM4Qu1rD) | 3:17 | 2025-12-05 | 2026-02-21 |
 | [DOS VECES](https://open.spotify.com/track/1UAVfSfyJxzAM6O48jugjQ) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [DOS VECES](https://open.spotify.com/album/4yZDVCsYSLFcZkJX3SltJJ) | 3:18 | 2025-04-04 | 2025-05-31 |
 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 | 2022-03-21 | 2022-07-02 |
@@ -827,6 +828,7 @@
 | [Obra de Arte](https://open.spotify.com/track/6LPCdlFbNIo717DLDbGBDJ) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Obra de Arte](https://open.spotify.com/album/5VYBGV4gU3SLgE5wKQczyl) | 3:26 | 2025-11-21 | 2026-01-17 |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-14 | 2023-09-02 |
 | [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 | 2023-09-09 |
+| [Obvio](https://open.spotify.com/track/6wOORh5XMD4bahyFz2A7Dm) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Obvio](https://open.spotify.com/album/2bvUJpESIlK4ycTPx1seCt) | 2:46 | 2026-07-15 |  |
 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 | 2023-06-16 | 2023-10-30 |
 | [Octubre en NYC](https://open.spotify.com/track/57iyT48hV97oS5W6G7Z5zW) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Octubre en NYC](https://open.spotify.com/album/07ndZu0JstcWakkIdgSAdQ) | 3:25 | 2025-07-11 | 2025-09-13 |
 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 | 2025-04-04 | 2025-06-07 |
@@ -1143,7 +1145,7 @@
 | [Tu Mal](https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Tu Mal](https://open.spotify.com/album/39uy6LRqVbLbh5pFNCFtgT) | 2:56 | 2023-03-31 | 2023-04-15 |
 | [Tu Manera De Amar](https://open.spotify.com/track/1ocABazLBzqkca31voY0AO) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [Tu Manera De Amar](https://open.spotify.com/album/1aVXjqX2ShlH1zdsBK38CH) | 2:51 | 2025-03-28 | 2025-05-24 |
 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 | 2023-01-13 | 2023-01-22 |
-| [TU SUPITE](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 | 2026-05-01 |  |
+| [TU SUPITE](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 | 2026-05-01 | 2026-07-16 |
 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 | 2023-04-07 | 2023-09-02 |
 | [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 | 2025-09-19 | 2025-11-22 |
 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 | 2024-02-16 | 2024-04-06 |

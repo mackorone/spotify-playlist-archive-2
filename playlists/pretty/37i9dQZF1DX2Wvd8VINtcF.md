@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨DJ Suzy✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,436 likes - 329 songs - 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,439 likes - 329 songs - 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Primer Grado en portada.",
-  "num_followers": 530875,
+  "num_followers": 530882,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 147567,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/2HdHZu2iTKume9VHwC9Pd8"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 147567,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Evolucionando",
-        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 167552,
-      "name": "Evolucionando",
-      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/1a6uJBZfQHnjZmVkmbCGqT"
       },
@@ -555,18 +539,38 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+        "name": "Evolucionando",
+        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
         }
       ],
-      "duration_ms": 200357,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
+      "duration_ms": 167552,
+      "name": "Evolucionando",
+      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Cuando Casi Te Olvidaba",
+        "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Grupo Sexta Edicion",
+          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -591,6 +595,22 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "Para Que Ya No Duela",
         "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 213066,
       "name": "Para Que Ya No Duela",
       "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "Cuando Casi Te Olvidaba",
-        "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Grupo Sexta Edicion",
-          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "A Ver Como Le Hago",
-        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "A Ver Como Le Hago",
-      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Canelovers 2.0",
         "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 138166,
       "name": "Como Te Va Mi Amor",
       "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "A Ver Como Le Hago",
+        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "A Ver Como Le Hago",
+      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "Se Rindi\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "duration_ms": 153885,
+      "name": "Se Rindi\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "Necesito Amarte",
         "url": "https://open.spotify.com/album/1ylx9NTc5rRkaBrY8XmJVD"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 176021,
       "name": "Necesito Amarte",
       "url": "https://open.spotify.com/track/02F1FWKWVEJfsJyXCgC645"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "Sabor A Sonora (En Vivo)",
-        "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los Pikadientes De Caborca",
-          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
-        }
-      ],
-      "duration_ms": 143445,
-      "name": "Sabor A Sonora - En Vivo",
-      "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -799,6 +799,26 @@
       "duration_ms": 158850,
       "name": "Ni Tu Perro Ni Tu Gato",
       "url": "https://open.spotify.com/track/4j4FrTLZf7O92PLZ4UekoN"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Sabor A Sonora (En Vivo)",
+        "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        }
+      ],
+      "duration_ms": 143445,
+      "name": "Sabor A Sonora - En Vivo",
+      "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -835,26 +855,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Se Rindi\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Amanecer",
-          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
-        },
-        {
-          "name": "Conjunto Rio Grande",
-          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
-        }
-      ],
-      "duration_ms": 153885,
-      "name": "Se Rindi\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "La Pen\u00ednsula",
         "url": "https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 163669,
       "name": "La Pen\u00ednsula",
       "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "RED FLAG",
+        "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 186968,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -887,22 +903,6 @@
       "duration_ms": 198598,
       "name": "A Dios Le Ped\u00eda",
       "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "RED FLAG",
-        "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 186968,
-      "name": "RED FLAG",
-      "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
+        "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "El Baron del Desierto - En Vivo",
+      "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "Migajero",
         "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 164000,
       "name": "Pa' D\u00f3nde",
       "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
-        "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "El Baron del Desierto - En Vivo",
-      "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
+        "name": "La Troca Del Mo\u00f1o Negro",
+        "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
+      },
+      "artists": [
+        {
+          "name": "Reos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/4DQnycRabRkXz0mfaLCTSf"
+        }
+      ],
+      "duration_ms": 180617,
+      "name": "La Troca Del Mo\u00f1o Negro",
+      "url": "https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
         "name": "Tengo Que Olvidar",
         "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
       },
@@ -1651,6 +1667,22 @@
       "duration_ms": 226346,
       "name": "Te Amar\u00e9 M\u00e1s",
       "url": "https://open.spotify.com/track/3u1UKlvuMdCr5TexrT6RTH"
+    },
+    {
+      "added_at": "2026-07-10 04:02:27",
+      "album": {
+        "name": "Mi Condena",
+        "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "Mi Condena",
+      "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
     },
     {
       "added_at": "2026-07-10 04:02:27",
@@ -1703,22 +1735,6 @@
     {
       "added_at": "2026-07-10 04:02:27",
       "album": {
-        "name": "Mi Condena",
-        "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
-      },
-      "artists": [
-        {
-          "name": "Los Ejemplares del Rancho",
-          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "Mi Condena",
-      "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
         "name": "Seras Mia",
         "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 238463,
       "name": "Las Drzl",
       "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
-    },
-    {
-      "added_at": "2026-07-10 04:02:27",
-      "album": {
-        "name": "La Troca Del Mo\u00f1o Negro",
-        "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
-      },
-      "artists": [
-        {
-          "name": "Reos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/4DQnycRabRkXz0mfaLCTSf"
-        }
-      ],
-      "duration_ms": 180617,
-      "name": "La Troca Del Mo\u00f1o Negro",
-      "url": "https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH"
     },
     {
       "added_at": "2026-07-10 04:02:27",

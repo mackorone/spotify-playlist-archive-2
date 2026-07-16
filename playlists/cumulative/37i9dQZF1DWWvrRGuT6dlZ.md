@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Erika Foo\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Bonnie Loo\. Artwork: Isu Kim.
 
-1,489 songs - 3 day 9 hr 38 min
+1,491 songs - 3 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [BE MY GIRL](https://open.spotify.com/track/1IM1E9izqgRCOg3LrGm21g) | [AiZack](https://open.spotify.com/artist/1GG45fl2LYpdywitayCzGs) | [BE MY GIRL](https://open.spotify.com/album/2w9gqLvyka254WUuX33q72) | 1:58 | 2024-11-21 | 2025-04-04 |
 | [beach](https://open.spotify.com/track/3ci7mRfmiBiWXvns6lLmaM) | [dumbboi](https://open.spotify.com/artist/0r99oJaU4Fbnd4iDaDQp6V), [Thaarmin](https://open.spotify.com/artist/0lRxUCo7z1wCnL9EA9HXu5) | [beach](https://open.spotify.com/album/0hgplajKQiyKLLxDy5UHMn) | 4:03 | 2022-09-09 | 2023-02-10 |
 | [Beautiful View](https://open.spotify.com/track/6Y9MTerTb1HltES53plFGs) | [Asher Mendelsohn](https://open.spotify.com/artist/33gXtY0RSxRDn26H2Gak0e) | [Beautiful View](https://open.spotify.com/album/7hWsPPGX5ntIGxTRjIeaC8) | 3:25 | 2025-10-24 | 2026-02-07 |
+| [Bebas](https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA) | [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp) | [Bebas](https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG) | 3:55 | 2026-07-15 |  |
 | [Bebas \(OST Korban 2\)](https://open.spotify.com/track/4tytO8T6xbK4rycm267Xel) | [Zalelo](https://open.spotify.com/artist/7oIoEMjF4BysMurJ32HZQh) | [Bebas \(OST Korban 2\)](https://open.spotify.com/album/6DUwMhlQg9d6bWYl9AtYys) | 3:31 | 2025-05-22 | 2025-07-18 |
 | [been a while](https://open.spotify.com/track/02xkgr2qG29HfEROLC8L4q) | [dumbboi](https://open.spotify.com/artist/0r99oJaU4Fbnd4iDaDQp6V), [Thaarmin](https://open.spotify.com/artist/0lRxUCo7z1wCnL9EA9HXu5) | [been a while](https://open.spotify.com/album/4o2qDC8twsvU93UOTQmwMb) | 4:41 | 2022-01-13 | 2022-06-17 |
 | [Before Me](https://open.spotify.com/track/0nWfoi2NdhyRcJL8D397ws) | [myqo](https://open.spotify.com/artist/5OI3AxzyF8Y4U0jontBPfM), [Kevin Wright](https://open.spotify.com/artist/1ggTJuFFDDKSrW5tZnysYG) | [Before Me](https://open.spotify.com/album/0XAep6xcxec6uQnl1rmzE7) | 4:50 | 2025-06-26 | 2025-09-13 |
@@ -1436,6 +1437,7 @@
 | [內心有一把聲音](https://open.spotify.com/track/1Fd95Ud11xyxXI1C2ER2on) | [Ah5ive the Band](https://open.spotify.com/artist/7xeAey43hE64qU2CaN759N) | [內心有一把聲音](https://open.spotify.com/album/5ltdirAiuhR8nSLFq19aCR) | 5:09 | 2025-08-15 | 2025-09-27 |
 | [全新的春天](https://open.spotify.com/track/5YEkGRYBWuohtxWedWzQU6) | [Zyann](https://open.spotify.com/artist/6szARpNac5jGl7hBsby0kZ) | [全新的春天](https://open.spotify.com/album/6hohkogx7RgeUcDZVHEHXP) | 1:29 | 2026-01-30 | 2026-05-07 |
 | [冬日無聲](https://open.spotify.com/track/67G0P25PoaxbVt4brNuEet) | [易桀齊](https://open.spotify.com/artist/2vy0h2oTG1T57fpXDa4q3e) | [冬日無聲](https://open.spotify.com/album/0cB8ivnJOcVWdPM8FpxpXo) | 4:32 | 2026-01-30 | 2026-05-07 |
+| [刚好的Just nice](https://open.spotify.com/track/1Epv1zjABotwO1NTdWNR0J) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [刚好的Just nice](https://open.spotify.com/album/1WAeAtrSoYA4EhHhGBwUat) | 3:19 | 2026-07-15 |  |
 | [刚好而已](https://open.spotify.com/track/4JFGiLogJ7aQw0GSh5oZWk) | [Jenn](https://open.spotify.com/artist/6AwOiZlmGXGgFOcZOT697U), [Aaron Bosco](https://open.spotify.com/artist/408ln4Mmx3x3R36U5TRa8K), [Kayley](https://open.spotify.com/artist/1hcg1k4GZU2GsTYPNNZM5Z), [Kryston](https://open.spotify.com/artist/0ip1UMsCKVMZGKJ4KHuOog) | [刚好而已](https://open.spotify.com/album/6hn7kyUmORCgumHHafOMOS) | 3:29 | 2025-10-30 | 2026-03-21 |
 | [別人的夢](https://open.spotify.com/track/2K6eiVlOtuI1XD7EQ1M3bg) | [Lennerd](https://open.spotify.com/artist/1k262uxFEei0Hjh3Z4WRdd) | [別人的夢](https://open.spotify.com/album/2H91fRdt7LnwIUY4GS2pUS) | 4:05 | 2025-05-09 | 2025-06-07 |
 | [別流淚](https://open.spotify.com/track/4W4AX6oBDpBNkOXbbE4azp) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [別流淚](https://open.spotify.com/album/7uxLUqubu1VrRn0BOnRxMc) | 2:03 | 2025-09-12 | 2025-11-08 |

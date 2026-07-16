@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Mari Froes",
-  "num_followers": 434268,
+  "num_followers": 434259,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
+        "name": "Disco Tropical",
+        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 187589,
+      "name": "Disco Tropical",
+      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 171692,
       "name": "Emaranhei",
       "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
-        "name": "Disco Tropical",
-        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 187589,
-      "name": "Disco Tropical",
-      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -675,6 +675,26 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
+      },
+      "artists": [
+        {
+          "name": "Lara Estelita",
+          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Calma, Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
         "name": "Eu s\u00f3 quero um xod\u00f3",
         "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 119340,
       "name": "Eu s\u00f3 quero um xod\u00f3",
       "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
-      },
-      "artists": [
-        {
-          "name": "Lara Estelita",
-          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Calma, Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "Muita Sede",
-        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 185166,
-      "name": "Outro \u00c1udio Meu",
-      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
         "name": "Mar\u00e9 Alta",
         "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 186363,
       "name": "Barco de Papel",
       "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
+        "name": "Muita Sede",
+        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 185166,
+      "name": "Outro \u00c1udio Meu",
+      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
         "name": "Del Amor Una Bandera",
         "url": "https://open.spotify.com/album/2ISymt2oiMYBJaL7Iuy9k0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 187154,
       "name": "Del Amor Una Bandera",
       "url": "https://open.spotify.com/track/2UVQCFIHDHAvLEABsn5bqE"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-07-10 03:00:05",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-10 03:00:05",
       "album": {
-        "name": "colete \u00e0 prova de m\u00e1goas",
-        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 197389,
-      "name": "colete \u00e0 prova de m\u00e1goas",
-      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
-    },
-    {
-      "added_at": "2026-07-10 03:00:05",
-      "album": {
         "name": "Se Namorar (Ao vivo)",
         "url": "https://open.spotify.com/album/6bRr2xLchKz9K8DL4QBbwJ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 136375,
       "name": "Se Namorar - Ao vivo",
       "url": "https://open.spotify.com/track/59Miiv3WtpyPR3OyCkDUps"
+    },
+    {
+      "added_at": "2026-07-10 03:00:05",
+      "album": {
+        "name": "colete \u00e0 prova de m\u00e1goas",
+        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "colete \u00e0 prova de m\u00e1goas",
+      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
     },
     {
       "added_at": "2026-07-10 03:00:05",

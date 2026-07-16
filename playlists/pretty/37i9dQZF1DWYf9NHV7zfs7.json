@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Alejandro Sanz & Yami Safdie",
-  "num_followers": 77108,
+  "num_followers": 77107,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-06-26 14:25:09",
       "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
-    },
-    {
-      "added_at": "2026-06-26 14:25:09",
-      "album": {
         "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
         "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182946,
       "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "added_at": "2026-06-26 14:25:09",
+      "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
     },
     {
       "added_at": "2026-06-26 14:25:09",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-06-26 14:25:09",
       "album": {
+        "name": "Si Me Disculpo Ahora",
+        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 120759,
+      "name": "Si Me Disculpo Ahora",
+      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2026-06-26 14:25:09",
+      "album": {
         "name": "AWCH",
         "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
-    },
-    {
-      "added_at": "2026-06-26 14:25:09",
-      "album": {
-        "name": "Si Me Disculpo Ahora",
-        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 120759,
-      "name": "Si Me Disculpo Ahora",
-      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
     },
     {
       "added_at": "2026-06-26 14:25:09",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-26 14:25:09",
       "album": {
-        "name": "NO ME IMPORTA",
-        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 153815,
-      "name": "NO ME IMPORTA",
-      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2026-06-26 14:25:09",
-      "album": {
         "name": "Por Ese Hombre",
         "url": "https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 259136,
       "name": "Por Ese Hombre",
       "url": "https://open.spotify.com/track/1stm0GYHeqE0TLREIQ2vtn"
+    },
+    {
+      "added_at": "2026-06-26 14:25:09",
+      "album": {
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "added_at": "2026-06-26 14:25:09",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-06-26 14:25:09",
       "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
-    },
-    {
-      "added_at": "2026-06-26 14:25:09",
-      "album": {
         "name": "ESO Y M\u00c1S",
         "url": "https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2026-06-26 14:25:09",
+      "album": {
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     },
     {
       "added_at": "2026-06-26 14:25:09",

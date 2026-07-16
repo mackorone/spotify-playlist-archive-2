@@ -1,13 +1,61 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Abbie Gordon. Artwork by Paola Saliby",
-  "num_followers": 242092,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Mercer Artwork by Paola Saliby",
+  "num_followers": 242101,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANEJTbEcJygX6y/ZZcYJKJM4ehZ+",
+  "snapshot_id": "AAAAAA6LbXI2Tc84x56iLsJkMukdDm1i",
   "tracks": [
+    {
+      "added_at": "2026-07-15 04:00:28",
+      "album": {
+        "name": "London Tonight",
+        "url": "https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf"
+      },
+      "artists": [
+        {
+          "name": "Mercer",
+          "url": "https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "London Tonight",
+      "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
+    },
+    {
+      "added_at": "2026-07-15 04:00:28",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 206407,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
+    },
     {
       "added_at": "2026-07-08 04:00:12",
       "album": {
@@ -25,20 +73,100 @@
       "url": "https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY"
     },
     {
-      "added_at": "2026-07-08 04:00:12",
+      "added_at": "2026-07-15 04:00:28",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+        "name": "No Narcotics",
+        "url": "https://open.spotify.com/album/1XyWbK9QroIJngVcDJAFi1"
       },
       "artists": [
         {
-          "name": "D'Leesa",
-          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
         }
       ],
-      "duration_ms": 213993,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
+      "duration_ms": 168445,
+      "name": "No Narcotics",
+      "url": "https://open.spotify.com/track/3x9R6kjsYRX022NcZCXBnQ"
+    },
+    {
+      "added_at": "2026-07-15 04:00:28",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
+    },
+    {
+      "added_at": "2026-07-15 04:00:28",
+      "album": {
+        "name": "The Drugs Don't Work Anymore",
+        "url": "https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch"
+      },
+      "artists": [
+        {
+          "name": "Josephine Genais",
+          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
+        }
+      ],
+      "duration_ms": 211541,
+      "name": "The Drugs Don't Work Anymore",
+      "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
+    },
+    {
+      "added_at": "2026-07-15 04:00:28",
+      "album": {
+        "name": "Just My Luck",
+        "url": "https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "duration_ms": 215488,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
+    },
+    {
+      "added_at": "2026-07-15 04:00:28",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/3jzIBdrWSFX8zcn6LyWGAA"
+      },
+      "artists": [
+        {
+          "name": "Chiara Savasta",
+          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/7EwUOa9eqaDRiEkPgOh6bf"
+    },
+    {
+      "added_at": "2026-07-15 04:00:28",
+      "album": {
+        "name": "Sorry Mister",
+        "url": "https://open.spotify.com/album/5Bn5uZmBgIgIfDEiaiThOH"
+      },
+      "artists": [
+        {
+          "name": "Disgusting Sisters",
+          "url": "https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Sorry Mister",
+      "url": "https://open.spotify.com/track/4a2myfnWpnQ8ZkeB7pj7cw"
     },
     {
       "added_at": "2026-07-08 04:00:12",
@@ -649,22 +777,6 @@
       "url": "https://open.spotify.com/track/5aWeN56KTs6E8eGlVKnb5A"
     },
     {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "Glass Castle",
-        "url": "https://open.spotify.com/album/2zF3j1go7XUsKLIhHJnk0j"
-      },
-      "artists": [
-        {
-          "name": "Chloe Saavedra",
-          "url": "https://open.spotify.com/artist/2xUdw3i7hhy8Twz2vDwV2Y"
-        }
-      ],
-      "duration_ms": 258322,
-      "name": "Glass Castle",
-      "url": "https://open.spotify.com/track/533xEfzNpx2up8euBVlexi"
-    },
-    {
       "added_at": "2026-05-20 04:00:06",
       "album": {
         "name": "So What?",
@@ -727,22 +839,6 @@
       "duration_ms": 166232,
       "name": "shovel",
       "url": "https://open.spotify.com/track/7E4AEGIm9o7fxTPZGDRyvr"
-    },
-    {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "The Space Between",
-        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 161100,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
     },
     {
       "added_at": "2026-05-13 17:43:08",
@@ -1111,102 +1207,6 @@
       "duration_ms": 128445,
       "name": "BUTTERF-LIES",
       "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
-    },
-    {
-      "added_at": "2026-03-18 04:00:18",
-      "album": {
-        "name": "happier",
-        "url": "https://open.spotify.com/album/3aUogWaD1tOhlPoVHCf1Lb"
-      },
-      "artists": [
-        {
-          "name": "Lunar June",
-          "url": "https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S"
-        }
-      ],
-      "duration_ms": 155035,
-      "name": "happier",
-      "url": "https://open.spotify.com/track/7IzufCLmkfr4Btrph9wYgg"
-    },
-    {
-      "added_at": "2026-03-18 04:00:18",
-      "album": {
-        "name": "auburn",
-        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 209591,
-      "name": "auburn",
-      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
-    },
-    {
-      "added_at": "2026-03-18 04:00:18",
-      "album": {
-        "name": "Boardwalk",
-        "url": "https://open.spotify.com/album/1CsHlHoIrS2WyKCKDEOm9y"
-      },
-      "artists": [
-        {
-          "name": "Cloe Wilder",
-          "url": "https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf"
-        }
-      ],
-      "duration_ms": 234750,
-      "name": "Boardwalk",
-      "url": "https://open.spotify.com/track/5c9ODNAoJI6tkqCnOByDoK"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Arrow Heart",
-        "url": "https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c"
-      },
-      "artists": [
-        {
-          "name": "Sade Olutola",
-          "url": "https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "2099",
-      "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
-    },
-    {
-      "added_at": "2026-03-18 04:00:18",
-      "album": {
-        "name": "paint me like one of your fav american girls",
-        "url": "https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 143789,
-      "name": "Feel Like I Died",
-      "url": "https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7"
-    },
-    {
-      "added_at": "2026-03-18 04:00:18",
-      "album": {
-        "name": "Letting Love Die",
-        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
-      },
-      "artists": [
-        {
-          "name": "Heidi Simpson",
-          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Letting Love Die",
-      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
     }
   ],
   "unique_name": "Fresh Finds Pop",

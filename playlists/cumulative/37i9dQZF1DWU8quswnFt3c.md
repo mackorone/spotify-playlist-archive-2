@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: Hearts2Hearts
+> Listen to women at full volume\. Cover: Haifa Wehbe
 
 3,023 songs - 6 day 23 hr 23 min
 

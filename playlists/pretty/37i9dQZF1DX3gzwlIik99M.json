@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 203226,
+  "num_followers": 203208,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "El Nuevo Camino del Hombre",
+        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
+      },
+      "artists": [
+        {
+          "name": "A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+        },
+        {
+          "name": "Mario Altamirano and A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Pueblos erguidos",
+      "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "Llora Chiapas",
         "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "El Nuevo Camino del Hombre",
-        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
-      },
-      "artists": [
-        {
-          "name": "A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
-        },
-        {
-          "name": "Mario Altamirano and A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Pueblos erguidos",
-      "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
     },
     {
       "added_at": "2025-09-18 22:01:59",

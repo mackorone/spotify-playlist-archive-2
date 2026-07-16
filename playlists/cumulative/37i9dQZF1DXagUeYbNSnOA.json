@@ -16862,7 +16862,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 120000,
       "name": "En Las Estrellas Tu Nombre y el M\u00edo",
       "url": "https://open.spotify.com/track/6w6iHmyRKg1QbGvvNzKsdv"
@@ -18383,6 +18383,24 @@
     },
     {
       "album": {
+        "name": "Perspectiva",
+        "url": "https://open.spotify.com/album/5NRJBqlzwGiACqMCX6ycRG"
+      },
+      "artists": [
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152919,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/1ShklPH2en2S6e2LuDW514"
+    },
+    {
+      "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
       },
@@ -18766,6 +18784,24 @@
       "duration_ms": 172272,
       "name": "F.R.I.E.N.D.S.",
       "url": "https://open.spotify.com/track/0c41M1Xk7H6XNadfnGfpr8"
+    },
+    {
+      "album": {
+        "name": "F2J",
+        "url": "https://open.spotify.com/album/3EdhR1pwARaZ3DnXUdnDSy"
+      },
+      "artists": [
+        {
+          "name": "Vortxz",
+          "url": "https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163350,
+      "name": "F2J",
+      "url": "https://open.spotify.com/track/1bX4WZ37PFeOPcsATB1lV9"
     },
     {
       "album": {
@@ -25382,7 +25418,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 209638,
       "name": "Lentes Rosados",
       "url": "https://open.spotify.com/track/34wpq0myOPwFEoX1aTHHuD"

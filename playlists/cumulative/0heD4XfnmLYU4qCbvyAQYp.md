@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-140 songs - 9 hr 1 min
+141 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 | 2025-12-17 | 2026-02-07 |
 | [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-04 | 2026-05-16 |
 | [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 | 2026-07-07 |  |
+| [Doomed](https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Doomed](https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd) | 7:22 | 2026-07-15 |  |
 | [Drain You](https://open.spotify.com/track/2aIcXOu6wc7yNtviwbqp7A) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Drain You](https://open.spotify.com/album/7lKrZsFDSZpSHOEYTT23G3) | 3:42 | 2025-12-17 | 2026-02-07 |
 | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/track/4DkFtR711mWQSXJO3PApXa) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/album/3jAPjP3mXAIslhjF2szkO2) | 2:55 | 2025-11-02 | 2026-02-07 |
 | [Durango 99](https://open.spotify.com/track/6VDuKcHNgUY77G5ySWOFIX) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Durango 99](https://open.spotify.com/album/6fC5Q1eFDunGgY2BSUpUfZ) | 1:35 | 2025-11-02 |  |

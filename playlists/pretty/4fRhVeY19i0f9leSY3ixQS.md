@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,493 likes - 319 songs - 17 hr 36 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,504 likes - 334 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,5 +327,20 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 317 | [Yellow](https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Yellow](https://open.spotify.com/album/5Klb8K3CFOPAJgfPAupUKV) | 4:19 |
 | 318 | [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 |
 | 319 | [SILENCE INTO SOUND](https://open.spotify.com/track/36Rfe6kKy9U1JLJyngJuyy) | [Re:Instinct](https://open.spotify.com/artist/5sQwAdM036wHrul770MyqT) | [SILENCE INTO SOUND](https://open.spotify.com/album/1x80ZWeW9EGJubxRWOebn5) | 3:12 |
+| 320 | [SEJA LUZ \- Rock Version](https://open.spotify.com/track/0McTAUkajUghNOzwTGiQ9c) | [Sociedade Do Pensar](https://open.spotify.com/artist/6LttGb6aftBinrJwnOLcMQ) | [SEJA LUZ](https://open.spotify.com/album/6srrLw62M1pFkovV2T91Qn) | 4:07 |
+| 321 | [I Wrote This Song Instead of Going to Therapy \(Again\)](https://open.spotify.com/track/1Y98wAa9zpztPPGZoThRsK) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [I Wrote This Song Instead of Going to Therapy \(Again\)](https://open.spotify.com/album/4W4i7p4IzrHWdGLqgyMWLz) | 3:28 |
+| 322 | [Into the Naught](https://open.spotify.com/track/4e57yKdMzjd9DctnouGtyA) | [Ethereal Rot](https://open.spotify.com/artist/18MUaWfsSRPThPhFfThk5e) | [Into the Naught](https://open.spotify.com/album/5QxtUNdO7bk0T8OyZskv0P) | 8:45 |
+| 323 | [You Heard Me Wrong](https://open.spotify.com/track/4mUfhHxVrImXx6Xp005iJl) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [You Heard Me Wrong](https://open.spotify.com/album/10fQlVbHQNOmWnK2nMnISv) | 3:02 |
+| 324 | [Hexed](https://open.spotify.com/track/6DwuCZNGY7RWUMYF32270S) | [Crimson Day](https://open.spotify.com/artist/7iRc5yBzjX4wGQdsnf5B9i) | [Dark Dimension](https://open.spotify.com/album/6mSHo3g1Trzkmhfe6166GF) | 4:41 |
+| 325 | [Bewitching Pool](https://open.spotify.com/track/3Fmef5PO3cgDlvaRvhIyqp) | [Spells and Curses](https://open.spotify.com/artist/4tvk2iSS0wzb6JJDbH55Zs) | [Bewitching Pool](https://open.spotify.com/album/6B0F4OIWmCTlBETFUUqRCV) | 4:51 |
+| 326 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6YG6uiR5EAjQuSCKQOZG96) | [Torppsbride](https://open.spotify.com/artist/4AajIi9uAigYLb5TuldkdU) | [Manic Pixie Dream Girl](https://open.spotify.com/album/4btfSYGD2de3rwzt6gLmqX) | 3:40 |
+| 327 | [Never Say Goodbye](https://open.spotify.com/track/0x8qNRP0io9e8rBo9wsMhV) | [Grippers](https://open.spotify.com/artist/1i3lv73I5we0bg5x3Fy0eb), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Disobedient Mental Attitude](https://open.spotify.com/album/5yl51BhTCGT75QHJnWm7Pl) | 3:32 |
+| 328 | [Playing with Fire](https://open.spotify.com/track/3MZs56xsAcBYBmNpnqNeAV) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Place That Feels Like Home](https://open.spotify.com/album/4l0eGHuGZmXylX8FeiGmp7) | 3:52 |
+| 329 | [Dear Life](https://open.spotify.com/track/2YF3yvLeegk8Qu8cfJMFda) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Dear Life](https://open.spotify.com/album/2dQTUOCE0wZy47WHq7LGqH) | 4:34 |
+| 330 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 |
+| 331 | [Age\-Old Echoes](https://open.spotify.com/track/2JXyGnmdxawHySogBWEewT) | [Semench Chirock](https://open.spotify.com/artist/17jjZJtry78DrTpQB0uAlN) | [Age\-Old Echoes](https://open.spotify.com/album/3Cg3UKHf4UUub4lK4UYhNZ) | 3:57 |
+| 332 | [Psycho Barbie](https://open.spotify.com/track/0FGlt4hpOGHV0Q92Wn71R2) | [Lady Rosalie](https://open.spotify.com/artist/698ijYtVSCmdMcFhch6bSj) | [Divine Dreams](https://open.spotify.com/album/1IXRRtyDYwtXUVcPEix0rj) | 2:59 |
+| 333 | [Sweet](https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Sweet](https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD) | 2:30 |
+| 334 | [even after promising](https://open.spotify.com/track/2N9hWdl3oaz9TxAMLYlGae) | [bluntburned](https://open.spotify.com/artist/4lAXhOGCH9J0W5WVjtF8fA), [CeeBee](https://open.spotify.com/artist/1M8t25fGtBgKASlcxaTvnJ) | [even after promising](https://open.spotify.com/album/3ypNwtP1gJuWgSZeZ2WFEw) | 1:44 |
 
-Snapshot ID: `AAARs8Ntk83l9y+R1wsfPQLjP5CXBrGl`
+Snapshot ID: `AAARwhnZ/wV0MRlstFHKk2afX/Scik8u`

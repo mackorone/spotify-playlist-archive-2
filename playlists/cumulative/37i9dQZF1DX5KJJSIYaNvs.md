@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Twinkle Aggrwal
 
-708 songs - 1 day 18 hr 14 min
+709 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Ankahi](https://open.spotify.com/track/4YPgFpvwAVOrjolyy8FfQZ) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Ankahi](https://open.spotify.com/album/3jmpcEkCBpoEbkQfv3OCpH) | 3:10 | 2025-04-11 | 2025-04-26 |
 | [Ankhen Na Churao](https://open.spotify.com/track/0fZsiXFpZqsMvlhDQCaO1V) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Bhanu Singh](https://open.spotify.com/artist/6W4D2fiAamwzg9RMOvAS16) | [Ankhen Na Churao](https://open.spotify.com/album/2JBXFGVGUfSKFfWAl2y2Da) | 3:09 | 2025-04-28 | 2026-04-29 |
 | [Ankhiyan Nigodi](https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu) | [Shalini Mamgain](https://open.spotify.com/artist/1xUBrkqouhUTbiQbFwXUhY) | [Ankhiyan Nigodi](https://open.spotify.com/album/220OnLhJAzkYLGgDxKwePi) | 3:07 | 2026-04-23 | 2026-07-05 |
-| [Ankhiyan Roye](https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm) | [Ankhiyan Roye](https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M) | 3:15 | 2026-04-28 |  |
+| [Ankhiyan Roye](https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm) | [Ankhiyan Roye](https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M) | 3:15 | 2026-04-28 | 2026-07-16 |
 | [Apni Maati](https://open.spotify.com/track/1VnCh7EatouUVfSrvx39Uw) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Apni Maati](https://open.spotify.com/album/4UdNX6WKekchW7uIGFfszR) | 3:26 | 2024-09-14 | 2024-10-11 |
 | [Asar Tera Kaisa](https://open.spotify.com/track/6RXfTpSmLM4P5f6XiNSYC6) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Asar Tera Kaisa](https://open.spotify.com/album/7JiymfZOTvdMbmQAjHm34C) | 4:00 | 2024-08-16 | 2025-05-16 |
 | [Ashiqaan](https://open.spotify.com/track/7yr2QRuzDScjVcjGwJsdcu) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [The Ba\*\*\*ds Of Bollywood](https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k) | 2:28 | 2025-09-16 | 2025-10-15 |
@@ -372,6 +372,7 @@
 | [Maahi Ve](https://open.spotify.com/track/1wqdo6IYGnS4NYx98cWk1d) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [Kaante](https://open.spotify.com/album/0xH5BDNp1Yoxzbxy3wO20n) | 6:04 | 2025-03-05 | 2025-04-03 |
 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 | 2025-04-25 |  |
 | [Machhli](https://open.spotify.com/track/6mbYKnJVdaDkZjCxV0dbIq) | [Pawni Pandey](https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Machhli](https://open.spotify.com/album/0oFtiR6mimLJdsiUdCCRnj) | 2:48 | 2022-01-04 | 2022-02-02 |
+| [Madhaniya](https://open.spotify.com/track/2G2Hj6kWQbD81whGiagW99) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Madhaniya](https://open.spotify.com/album/4nRwLnyRapoBH2tmde8RPV) | 2:49 | 2026-07-06 |  |
 | [Mafiyaan](https://open.spotify.com/track/1YIpi9FrVSr1wpzKNukm3J) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Mafiyaan](https://open.spotify.com/album/3mWaCoYmxLh6SPz88oMAhJ) | 3:34 | 2022-02-01 | 2022-03-08 |
 | [Main Aur Tu \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/track/6cYWjvAPGJrb6ZOJn1URn2) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Main Aur Tu \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/album/0FIAu4n2sm21shBPtooJBe) | 3:30 | 2026-03-17 |  |
 | [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 | 2025-04-10 | 2025-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > sydney rose on the cover  <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,746 likes - 153 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,752 likes - 153 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

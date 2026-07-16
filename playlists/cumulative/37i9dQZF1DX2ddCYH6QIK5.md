@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: cherice, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Deer Anna, Artwork: Isu Kim
 
-1,687 songs - 3 day 21 hr 45 min
+1,688 songs - 3 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Apotropaion](https://open.spotify.com/track/6wjHOZzykb9tf3C8RqI9xT) | [Teng](https://open.spotify.com/artist/60me2hl1vytSupEYLQ5zSn) | [Apotropaion](https://open.spotify.com/album/5Tw2yUJwfEKPgpVdLDdiKI) | 2:16 | 2022-03-16 | 2022-03-24 |
 | [Arbeit und Struktur](https://open.spotify.com/track/1xhxXNRDW0FjkCxPQPxVa3) | [Hotel Rimini](https://open.spotify.com/artist/7biB33wdoy2Kz0sKoGfj53) | [Arbeit und Struktur](https://open.spotify.com/album/3mQjdSK4HcsB61Vf7W0Slm) | 4:08 | 2022-05-04 | 2023-01-05 |
 | [Archive Folder](https://open.spotify.com/track/7KmkP7LfMIH4FLP4MNgmCq) | [FINE.](https://open.spotify.com/artist/4asOB3NDvX82XNePNZpqQj) | [Archive Folder](https://open.spotify.com/album/19Ld6Z8NDFSvDfJbwZLsx7) | 2:44 | 2026-04-15 |  |
+| [Aren't You Tired](https://open.spotify.com/track/5T3xo6PR0KfpbxPZ8MeMAf) | [Deer Anna](https://open.spotify.com/artist/5hABsIK82aH9pts5yoZO6V) | [Aren't You Tired](https://open.spotify.com/album/4OchpAq4iR4nlUt1i3SDVK) | 3:36 | 2026-07-15 |  |
 | [ARM](https://open.spotify.com/track/5SEj49J7GiVe26ZV6FEUUW) | [xena](https://open.spotify.com/artist/1Y95RMBfKhdP7ura9dM82W) | [ARM](https://open.spotify.com/album/1DTo5HHJtXd09C1qCkpEd2) | 2:54 | 2024-02-21 | 2024-06-27 |
 | [Art und Weise](https://open.spotify.com/track/1yh0I7f6gMQLZF5wr7RHLx) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Art und Weise](https://open.spotify.com/album/0f9er9ha0bbTwoZsdP5myK) | 3:29 | 2023-05-31 | 2024-01-04 |
 | [Artist](https://open.spotify.com/track/0KE7stt2dZpcovegDpJoik) | [EsRAP](https://open.spotify.com/artist/3vmdW6YyGDEMYioWljS74k) | [Artist](https://open.spotify.com/album/1bFsQ1HqrYUmtWyZ3lSVBN) | 2:08 | 2022-01-05 | 2022-01-13 |
@@ -1326,7 +1327,7 @@
 | [slow burn](https://open.spotify.com/track/6jVHWlX9LhZbMLkCcq2cXI) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [slow burn](https://open.spotify.com/album/0PBZypYST7YcBUTGBG9p1c) | 2:41 | 2025-04-30 | 2025-06-05 |
 | [SLOWDANCE](https://open.spotify.com/track/52T9hjruVPKQBN4sj89nrJ) | [FRANZ Pop Collective](https://open.spotify.com/artist/16eDY2pftnSh3oLOdgjt3i) | [SLOWDANCE](https://open.spotify.com/album/50aXLAsxwTs8meTVA7m6pa) | 3:40 | 2022-10-05 | 2023-01-12 |
 | [Slowly](https://open.spotify.com/track/7zVIFvH514q4PX5RL0Ro24) | [Invisible Twins](https://open.spotify.com/artist/4iPvFGVPkRDzIAFwgKTTiw) | [Slowly](https://open.spotify.com/album/68WXuBImJzicXgPZ7njGxA) | 4:31 | 2022-02-09 | 2022-02-24 |
-| [slätt](https://open.spotify.com/track/0IAFournGIRvQ4K17pS5W6) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [keiner lacht](https://open.spotify.com/album/0I4QIa41Ls0ckSSwzXMJGs) | 1:45 | 2026-07-08 |  |
+| [slätt](https://open.spotify.com/track/0IAFournGIRvQ4K17pS5W6) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [keiner lacht](https://open.spotify.com/album/0I4QIa41Ls0ckSSwzXMJGs) | 1:45 | 2026-07-08 | 2026-07-16 |
 | [Smile](https://open.spotify.com/track/17EHQsJKw0njET2FH4toSc) | [Lioba](https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy) | [Smile](https://open.spotify.com/album/56dqVzAD6hUdCKCzouo303) | 3:15 | 2023-04-05 | 2023-05-01 |
 | [Smile](https://open.spotify.com/track/5WtqZvo6FpwsslVE9MdrU8) | [Lioba](https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy) | [Smile](https://open.spotify.com/album/5mdWtokpOmeaBfofTMWqBS) | 3:15 | 2023-04-26 | 2023-06-08 |
 | [Snow](https://open.spotify.com/track/3YfVl8ppe0M4nM3ROyBS6D) | [EVÎN](https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO) | [Snow](https://open.spotify.com/album/6pvPnoBxCmF1y7NLlTTZ0S) | 3:05 | 2022-02-02 | 2022-02-10 |

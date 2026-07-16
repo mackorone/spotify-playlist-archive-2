@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,330 songs - 2 day 2 hr 51 min
+1,331 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,7 +837,8 @@
 | [no stress](https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [no stress](https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy) | 2:21 | 2023-03-16 |  |
 | [no way back](https://open.spotify.com/track/72vhwaCoLwzCACdcqOaWAO) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [no way back](https://open.spotify.com/album/1xJN1I3OjDaIMKUOtToyMY) | 1:58 | 2022-05-13 | 2022-05-20 |
 | [NoHo Walks](https://open.spotify.com/track/1TyXDp22IIpopBKJUdoLcZ) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [NoHo Walks](https://open.spotify.com/album/0Zjpq0e6GZzxhvtPkMIxDb) | 1:40 | 2022-09-16 | 2023-08-04 |
-| [northern light](https://open.spotify.com/track/17c2b2WvFsQtQGGkRW8psl) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [northern light](https://open.spotify.com/album/4W5n9TkA0dHZC3TLvfFCpp) | 2:32 | 2026-06-11 |  |
+| [north](https://open.spotify.com/track/0zPy5NVLohdcz1bPdHf8le) | [tendgarden](https://open.spotify.com/artist/6Rf72Rsh1XjPZRrU5fHGJl) | [north](https://open.spotify.com/album/0O0qhqXRMLv3gzUwjrjP3K) | 2:08 | 2026-07-09 |  |
+| [northern light](https://open.spotify.com/track/17c2b2WvFsQtQGGkRW8psl) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [northern light](https://open.spotify.com/album/4W5n9TkA0dHZC3TLvfFCpp) | 2:32 | 2026-06-11 | 2026-07-16 |
 | [Norway](https://open.spotify.com/track/06Co3dkZW9abpw0feyJWl5) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Starcrossed](https://open.spotify.com/album/628FcjCPi9j1F27RG47lHs) | 2:08 | 2022-04-15 | 2022-12-10 |
 | [Nostalgia](https://open.spotify.com/track/12zINLpjdMmXVesmTDP63h) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nostalgia](https://open.spotify.com/album/5GJo1YoJaHfV19pQF3Pn21) | 2:20 | 2022-08-05 | 2022-10-01 |
 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 | 2024-08-08 | 2025-07-16 |

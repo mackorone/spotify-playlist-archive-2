@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Waze",
-  "num_followers": 55387,
+  "num_followers": 55385,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
+        "name": "Bisou",
+        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
+      },
+      "artists": [
+        {
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Bisou",
+      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
         "name": "Voz da Multid\u00e3o",
         "url": "https://open.spotify.com/album/4Dk6TDTbaP2pNdeOWYBLeE"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 135160,
       "name": "CABARET",
       "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
-        "name": "Bisou",
-        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
-      },
-      "artists": [
-        {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Bisou",
-      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Eu Quero Um Preto",
-        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Eu Quero Um Preto",
-      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Eu Quero Um Preto",
+        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Eu Quero Um Preto",
+      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
     },
     {
       "added_at": "2026-07-09 23:00:42",
@@ -1299,42 +1299,6 @@
     {
       "added_at": "2026-07-09 23:00:42",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 216556,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
-    },
-    {
-      "added_at": "2026-07-09 23:00:42",
-      "album": {
         "name": "Coca Cola",
         "url": "https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G"
       },
@@ -1359,6 +1323,42 @@
       "duration_ms": 219175,
       "name": "Coca Cola",
       "url": "https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 216556,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+    },
+    {
+      "added_at": "2026-07-09 23:00:42",
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
     },
     {
       "added_at": "2026-07-09 23:00:42",

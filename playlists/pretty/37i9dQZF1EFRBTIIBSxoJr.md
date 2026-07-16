@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903 likes - 141 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 904 likes - 141 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 104 | [The Way I'm Wired](https://open.spotify.com/track/1EU1P8r2tF089QQjM5dUIA) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:39 |
 | 105 | [Only a Woman](https://open.spotify.com/track/3Q4Lm3uuQco5pWXefzfEJ6) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D), [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI), [Felispeaks](https://open.spotify.com/artist/0xww0TrRTlmakv8leCK4xu), [Eleanor McEvoy](https://open.spotify.com/artist/50SDcJ4wO9jS355IoJc7O9) | [Only a Woman](https://open.spotify.com/album/57qyFqBYCHmpqwqn9fztnI) | 3:37 |
 | 106 | [Superman](https://open.spotify.com/track/1Dk4SNWcyKsJBOtyhUeMln) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:01 |
-| 107 | [Love Like That](https://open.spotify.com/track/2KeU7IKPz5OVDTBrWDIVnh) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal](https://open.spotify.com/album/3vv5r0qQ7HUOq2bhBHAOos) | 4:32 |
-| 108 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 107 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 108 | [Love Like That](https://open.spotify.com/track/2KeU7IKPz5OVDTBrWDIVnh) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal](https://open.spotify.com/album/3vv5r0qQ7HUOq2bhBHAOos) | 4:32 |
 | 109 | [Horror Movie](https://open.spotify.com/track/2N5AAoeXTv2j2b6uRo04cO) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [PRINCE$$ ROSIE](https://open.spotify.com/artist/5xmmPJI0GyVKVFRL82Ei2L) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 1:57 |
 | 110 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 |
 | 111 | [Love Me Like I Do](https://open.spotify.com/track/4QNgPUoNFCvDhLhZa6oYA3) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love Me Like I Do](https://open.spotify.com/album/7BfFYi1geUe3L0HEGlLs6S) | 3:01 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 140 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 141 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcW3NgAAAAAw1pRM2PRHHN3jFb4Bzp/p`
+Snapshot ID: `AcW9EgAAAADNNFiQx4o+HowaXTRRn67a`

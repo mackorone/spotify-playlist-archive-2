@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: S\u00e4m Wilder ",
-  "num_followers": 2003,
+  "num_followers": 2002,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Money Rain",
-        "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
-      },
-      "artists": [
-        {
-          "name": "BigBobbyBitch",
-          "url": "https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe"
-        }
-      ],
-      "duration_ms": 143061,
-      "name": "Money Rain",
-      "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "On This Lonely Day",
         "url": "https://open.spotify.com/album/3isk75FHFtqwnh1Of3XIh5"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 199364,
       "name": "On This Lonely Day",
       "url": "https://open.spotify.com/track/7eRs4FhnZzRx7rmSLRhUUZ"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Money Rain",
+        "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
+      },
+      "artists": [
+        {
+          "name": "BigBobbyBitch",
+          "url": "https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe"
+        }
+      ],
+      "duration_ms": 143061,
+      "name": "Money Rain",
+      "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Jongens van het Dorp",
-        "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
-      },
-      "artists": [
-        {
-          "name": "Mick Spek",
-          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
-        }
-      ],
-      "duration_ms": 125419,
-      "name": "Jongens van het Dorp",
-      "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Gingah",
         "url": "https://open.spotify.com/album/3DnQQs5TlPMctrgqNs5oog"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 136969,
       "name": "Gingah",
       "url": "https://open.spotify.com/track/5CiI5CS7yLfEq94B8rcTzo"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Jongens van het Dorp",
+        "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        }
+      ],
+      "duration_ms": 125419,
+      "name": "Jongens van het Dorp",
+      "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
-      },
-      "artists": [
-        {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Looking At You",
         "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156666,
       "name": "Looking At You",
       "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+      },
+      "artists": [
+        {
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Wannabe Superstar",
-        "url": "https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ"
-      },
-      "artists": [
-        {
-          "name": "KUZKO",
-          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
-        }
-      ],
-      "duration_ms": 237218,
-      "name": "wannabe superstar",
-      "url": "https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Bad Mood",
         "url": "https://open.spotify.com/album/0s7FGOz0lzMPPFqpeK8rlU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 186400,
       "name": "Bad Mood",
       "url": "https://open.spotify.com/track/2Vpd1LXBwRVKoeL6d1rZb3"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Wannabe Superstar",
+        "url": "https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ"
+      },
+      "artists": [
+        {
+          "name": "KUZKO",
+          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
+        }
+      ],
+      "duration_ms": 237218,
+      "name": "wannabe superstar",
+      "url": "https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Consistent",
-        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
-      },
-      "artists": [
-        {
-          "name": "Gilly",
-          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Consistent",
-      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "The Circle Ends Where It Began",
         "url": "https://open.spotify.com/album/4bLRgf3ADRInRkYznOLT3J"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
+        "name": "Consistent",
+        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
+      },
+      "artists": [
+        {
+          "name": "Gilly",
+          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Consistent",
+      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
         "name": "Hin Orer",
         "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 213167,
       "name": "Hin Orer",
       "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Comfort on its Knees",
+        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
+      },
+      "artists": [
+        {
+          "name": "In Good Spirit",
+          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
+        }
+      ],
+      "duration_ms": 288952,
+      "name": "Brother Please",
+      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -727,22 +743,6 @@
       "duration_ms": 122000,
       "name": "TWISTED",
       "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
-        "name": "Comfort on its Knees",
-        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
-      },
-      "artists": [
-        {
-          "name": "In Good Spirit",
-          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
-        }
-      ],
-      "duration_ms": 288952,
-      "name": "Brother Please",
-      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
+        "name": "ZO MOE",
+        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
+      },
+      "artists": [
+        {
+          "name": "WABR",
+          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "ZO MOE",
+      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
         "name": "Kleine Liefde",
         "url": "https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 131338,
       "name": "Kleine Liefde",
       "url": "https://open.spotify.com/track/3run92YHEJHsOa8EIttJru"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
-        "name": "ZO MOE",
-        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
-      },
-      "artists": [
-        {
-          "name": "WABR",
-          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
-        }
-      ],
-      "duration_ms": 235789,
-      "name": "ZO MOE",
-      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/7JThK5VKLEQDzwChzoUVy6"
-      },
-      "artists": [
-        {
-          "name": "Amani",
-          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
-        }
-      ],
-      "duration_ms": 120230,
-      "name": "Max",
-      "url": "https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Please you",
         "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 242474,
       "name": "Please you",
       "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/7JThK5VKLEQDzwChzoUVy6"
+      },
+      "artists": [
+        {
+          "name": "Amani",
+          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
+        }
+      ],
+      "duration_ms": 120230,
+      "name": "Max",
+      "url": "https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
-      },
-      "artists": [
-        {
-          "name": "The Robots Are Coming",
-          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
-        }
-      ],
-      "duration_ms": 213152,
-      "name": "Machine (Radio Edit)",
-      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Magnum Opus",
         "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "dislocated .",
-        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
+        "name": "Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
       },
       "artists": [
         {
-          "name": "MOR\u00c8L",
-          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
+          "name": "The Robots Are Coming",
+          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
         }
       ],
-      "duration_ms": 255120,
-      "name": "ozempic tears",
-      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
+      "duration_ms": 213152,
+      "name": "Machine (Radio Edit)",
+      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -1367,6 +1351,22 @@
       "duration_ms": 164897,
       "name": "Moment",
       "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "dislocated .",
+        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
+      },
+      "artists": [
+        {
+          "name": "MOR\u00c8L",
+          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "ozempic tears",
+      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
     },
     {
       "added_at": "2026-06-30 11:07:37",

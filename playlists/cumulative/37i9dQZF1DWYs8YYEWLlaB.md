@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\.  Kapak: Hadise
 
-297 songs - 15 hr 3 min
+298 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 | 2025-11-25 | 2026-05-19 |
 | [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-02-04 | 2025-05-09 |
 | [Hayat Şaşırtır!](https://open.spotify.com/track/2IPxsVjAkqoFXrzwGwUVia) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Hayat Şaşırtır!](https://open.spotify.com/album/3apM8VTMPcxfc2ogK3xP4G) | 3:25 | 2025-04-07 | 2025-06-06 |
-| [HAYRAN](https://open.spotify.com/track/6D4UduWC97tRdqQlaal2EI) | [Radikal](https://open.spotify.com/artist/16CDaDlBd2bji8I4Ck1iuV) | [HAYRAN](https://open.spotify.com/album/1yGkCrgghH7UJgMalYTSka) | 2:43 | 2026-06-24 |  |
+| [HAYRAN](https://open.spotify.com/track/6D4UduWC97tRdqQlaal2EI) | [Radikal](https://open.spotify.com/artist/16CDaDlBd2bji8I4Ck1iuV) | [HAYRAN](https://open.spotify.com/album/1yGkCrgghH7UJgMalYTSka) | 2:43 | 2026-06-24 | 2026-07-16 |
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-07-02 | 2024-12-05 |
 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 | 2026-03-23 |  |
 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 | 2026-05-11 |  |
@@ -206,6 +206,7 @@
 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 | 2024-10-24 | 2024-11-22 |
 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 | 2024-12-26 | 2025-04-04 |
 | [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 | 2025-04-23 | 2025-06-20 |
+| [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 | 2026-07-15 |  |
 | [RDM](https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [RDM](https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn) | 2:01 | 2026-04-27 | 2026-07-01 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-07-02 | 2024-09-06 |
 | [Roman Olur Yazsam Seni](https://open.spotify.com/track/7wSiIzgBSzNFDbVDgxCqeO) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Roman Olur Yazsam Seni](https://open.spotify.com/album/2baiXsRE7e2Koj4LIsbKUp) | 2:52 | 2025-04-16 | 2025-09-16 |

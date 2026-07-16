@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 14 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
 | 15 | [This Time](https://open.spotify.com/track/2Yd4qXngsCBJMGnl7jpd4J) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [Desirée Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [This Time](https://open.spotify.com/album/5lg1ZSzwI54olu69s3Uw37) | 2:50 |
 | 16 | [Madison \(feat\. Janieck\)](https://open.spotify.com/track/2dxfmq4OI7iy8ckdQE6J8q) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Music Is My Best Friend](https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq) | 2:45 |
-| 17 | [Rodeo](https://open.spotify.com/track/405KnDGhTDL2kYmczbN7AC) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Rodeo](https://open.spotify.com/album/51BlOCH8hpyZ7tYBjvVkZu) | 2:34 |
-| 18 | [Babylon](https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Babylon](https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5) | 2:07 |
+| 17 | [Babylon](https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Babylon](https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5) | 2:07 |
+| 18 | [Rodeo](https://open.spotify.com/track/405KnDGhTDL2kYmczbN7AC) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Rodeo](https://open.spotify.com/album/51BlOCH8hpyZ7tYBjvVkZu) | 2:34 |
 | 19 | [22](https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd) | [Sarah McTernan](https://open.spotify.com/artist/5KHDZuaKZOP6cJWRtSHWe8) | [22](https://open.spotify.com/album/7dakU6o0pVLhFyKOpBD1JY) | 2:53 |
 | 20 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 21 | [Take My Crown](https://open.spotify.com/track/5Cw3g20qoXLGM8ACIeiXko) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [LittleKings](https://open.spotify.com/artist/7pSOgeenBhBEN5a5yHzxIS), [Kalkovich](https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh) | [Take My Crown](https://open.spotify.com/album/1e1TUK852Wm9sw7cY46c8W) | 2:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 48 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 49 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcW3XgAAAAB9GfMvtiQEX3kHVDoC1X4V`
+Snapshot ID: `AcW89AAAAADdRz8StURhjB7DsBKlvKIb`

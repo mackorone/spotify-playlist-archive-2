@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The hottest hits right now. Cover: Aya Nakamura",
+  "description": "The hottest hits right now. Cover: Stormy",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 159310,
       "name": "Bali maak",
       "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
@@ -8562,6 +8562,28 @@
       "duration_ms": 170172,
       "name": "Sarini",
       "url": "https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY"
+    },
+    {
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "SATA 9TTALA",
+      "url": "https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo"
     },
     {
       "album": {

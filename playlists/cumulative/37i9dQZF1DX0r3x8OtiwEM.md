@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-798 songs - 3 day 2 hr 3 min
+799 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Resolve](https://open.spotify.com/track/0GOxBVl062KmJt4Spnvjuu) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Resolve](https://open.spotify.com/album/1D3Ix43zZ61laz8ww0MFZ3) | 7:22 | 2019-09-13 | 2020-06-07 |
 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 | 2023-01-13 | 2023-02-23 |
 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/1HHxzXIdk5XJrG8TJHEWq5) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/2S56TQxiApLBKaPD24xoUB) | 8:00 | 2019-08-06\* | 2020-01-04 |
+| [Returning Home](https://open.spotify.com/track/2J1RmBn30CRojpdfLpxnkF) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Returning Home](https://open.spotify.com/album/2M1pgphGdOG3Mu39g5nxZI) | 3:34 | 2026-07-10 |  |
 | [Revelations \- Dub Mix](https://open.spotify.com/track/3OEq4bTpC8lakFEwQhKhGa) | [Stan Kolev](https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Revelations](https://open.spotify.com/album/3qmNkcdFtEfqfMVS7oaEvw) | 7:32 | 2019-09-06 | 2020-01-04 |
 | [Revived](https://open.spotify.com/track/20LhXKgCy3ymdrPwwx27AY) | [IRA \(GER\)](https://open.spotify.com/artist/0Cw433VO1ZEaD8Jmq5lZwk) | [Revived](https://open.spotify.com/album/5T712jvqP0OB6e8GMHErCD) | 6:09 | 2021-06-24 | 2022-07-22 |
 | [Rhy](https://open.spotify.com/track/21kTLPrFYH8KuxdJvmvYXK) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Rhy](https://open.spotify.com/album/1LhOlDYuQtBpIffK1DT7Mm) | 7:20 | 2019-11-10 | 2020-10-21 |
@@ -657,7 +658,7 @@
 | [Tachyon](https://open.spotify.com/track/7m7nVRARGzxro7OMeGRauC) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh), [Jordan Bakker](https://open.spotify.com/artist/304E4EmFCfUL4r24KJ0iu6) | [Tachyon](https://open.spotify.com/album/1q2TlIW6JOGmMMlUz9qmdy) | 6:21 | 2020-01-12 | 2021-08-12 |
 | [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 | 2023-04-05 | 2024-10-17 |
 | [Take Care Of Business \- Solomun Mix](https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Take Care Of Business \(Solomun Mix\)](https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH) | 3:10 | 2026-02-20 | 2026-07-02 |
-| [Take Me High](https://open.spotify.com/track/1eBXkQ8zqXBrI90OuBMhOE) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Take Me High](https://open.spotify.com/album/730Gi9p7OFK8ZDfwyaxXLc) | 3:56 | 2026-06-05 |  |
+| [Take Me High](https://open.spotify.com/track/1eBXkQ8zqXBrI90OuBMhOE) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Take Me High](https://open.spotify.com/album/730Gi9p7OFK8ZDfwyaxXLc) | 3:56 | 2026-06-05 | 2026-07-16 |
 | [Take My Hand](https://open.spotify.com/track/1x6JcuNsTk2jv6CszQqyC9) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Take My Hand](https://open.spotify.com/album/5u0MC9Oaw6oahrK8OYgKiM) | 6:23 | 2020-01-01 | 2020-06-13 |
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-18 |  |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-30 | 2023-04-04 |

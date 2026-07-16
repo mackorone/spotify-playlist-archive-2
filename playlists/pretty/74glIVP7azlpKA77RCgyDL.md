@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,158 likes - 313 songs - 19 hr 36 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,157 likes - 313 songs - 19 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 123 | [Angel Wings](https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Angel Wings](https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H) | 3:52 |
 | 124 | [American Gothic](https://open.spotify.com/track/0pLW5T2sp2N4YEEHtF7ilb) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [MOSSBACK](https://open.spotify.com/artist/775jQ8mcGabkjuzjt8FShT) | [American Gothic](https://open.spotify.com/album/73fmKfsgfAA3TlzcDJpcQS) | 3:38 |
 | 125 | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg) | 3:26 |
-| 126 | [HEARTLESS](https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [HEARTLESS](https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe) | 4:26 |
+| 126 | [HEARTLESS](https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [HEARTLESS](https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe) | 4:24 |
 | 127 | [Force Meets Presence](https://open.spotify.com/track/3QnlkM9avGDdHaxyydzElM) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm) | 2:17 |
 | 128 | [Dirt](https://open.spotify.com/track/31cgFmhvnwfj1r97FtpYeI) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [God Forgives](https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii) | 2:39 |
 | 129 | [Silhouette](https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Silhouette](https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm) | 4:29 |

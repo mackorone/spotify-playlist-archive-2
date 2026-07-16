@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,392 songs - 5 day 21 hr 0 min
+2,397 songs - 5 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Adrenaline Rush](https://open.spotify.com/track/00Ab02W69EguUxqCFwbtNa) | [Fit with Luana](https://open.spotify.com/artist/0FJHi0Z34sZvHetSXPr5uw) | [Adrenaline Rush](https://open.spotify.com/album/1MJaEhmfWjgjNYbJfxEdII) | 2:00 | 2024-12-25 |  |
 | [Afghan House Music](https://open.spotify.com/track/1JYjENLsXqrmmcujDJJhWb) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Afghan House Music](https://open.spotify.com/album/4po7vfWFJJyPU1cfnq5iP2) | 2:09 | 2024-07-08 |  |
 | [Afghan méditation \(Phaz\-M Dub\) \- Bonus Remix](https://open.spotify.com/track/3GPC3dRA6tbBmW72p3KB2d) | [Tokiboun in Dub](https://open.spotify.com/artist/4Zd57im34ghqIM6ddkHCgt) | [Back To Roots](https://open.spotify.com/album/3QidxNN8JpX0ttlGDXWeYa) | 4:27 | 2024-03-25 |  |
+| [After the Dust Settles](https://open.spotify.com/track/7IbNQFyIa84ruIy43ZH4t5) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:57 | 2026-07-15 |  |
 | [After the Storm \- Original](https://open.spotify.com/track/5Go15EVaITaamtyyudMbJJ) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [After the Storm \(Original\)](https://open.spotify.com/album/3o4Ag0hDx39GlHxsv09smM) | 3:14 | 2025-06-13 |  |
 | [After Us](https://open.spotify.com/track/54KzWxkfywCM1cWPFh6Uhb) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [After Us](https://open.spotify.com/album/3C6v5BaV8srOBwaNLh5FgF) | 2:52 | 2026-02-07 |  |
 | [After You](https://open.spotify.com/track/6pH5wINAKInCg1OxE6QY0I) | [Ash](https://open.spotify.com/artist/2UEvPFghxa2unrXspMoZN7) | [After You](https://open.spotify.com/album/08mW2ftkRYULnuRXLMlk2C) | 3:10 | 2025-10-14 |  |
@@ -1431,6 +1432,7 @@
 | [Ni Un Cigarro A La Mitad](https://open.spotify.com/track/2bLgTRvXxP1Ju56C7N1sQF) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Ni Un Cigarro A La Mitad](https://open.spotify.com/album/42SscmaAfUiRLjt0lwVO92) | 2:43 | 2025-08-28 |  |
 | [Niebaschil](https://open.spotify.com/track/3QkXNDZIpBxJhnrOesyiqo) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 3:39 | 2025-10-09 |  |
 | [Nieład](https://open.spotify.com/track/783FpVzfgZ7odINgFMNTS3) | [Sierpu](https://open.spotify.com/artist/3KMXxgdgbehB8ELRqunraF) | [Nieład](https://open.spotify.com/album/2Dugjb0uZBqmWrgbQHrBGf) | 2:45 | 2026-06-25 |  |
+| [Night Crane](https://open.spotify.com/track/4FD48eynO8XoG9Zn6nVzQr) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:19 | 2026-07-15 |  |
 | [Night in Blue](https://open.spotify.com/track/3Oz0sNwPoqSdWnnpehCT7T) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Night in Blue](https://open.spotify.com/album/4MzNvJ1ZT60rEzgk7d6TLY) | 2:47 | 2022-10-24 |  |
 | [Night Shift](https://open.spotify.com/track/0UUfMuJyyosW5EQNtYPVWz) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Night Shift](https://open.spotify.com/album/6QJICO8aIvLQWjfa58PlpN) | 2:12 | 2025-09-15 |  |
 | [Night Spiral](https://open.spotify.com/track/04R6sCNhelPB7fjEviIWMi) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:50 | 2026-05-20 |  |
@@ -1779,6 +1781,7 @@
 | [Say something](https://open.spotify.com/track/3MbPvLgyM75WY8mQqlCNNl) | [Joy Rabit](https://open.spotify.com/artist/5G4cn7feNtHiI2P7Qzt40d) | [Say something](https://open.spotify.com/album/2GDeDZxD4xaYU9NQaM3qZA) | 3:58 | 2026-03-27 |  |
 | [Say What](https://open.spotify.com/track/0iSn4xw5kpFHDdW5UtCgLz) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 3:59 | 2025-06-21 |  |
 | [Scarlet Town](https://open.spotify.com/track/5voBjrP1jysRtRRWq2ad5T) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 3:38 | 2025-02-06 |  |
+| [Scattered Blueprints](https://open.spotify.com/track/2JmDEJXSNvspOOFgNOJu0l) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:01 | 2026-07-15 |  |
 | [SCHERZI DEL DESTINO](https://open.spotify.com/track/2fxS969zJw8ijvOzaiC1yv) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [SCHERZI DEL DESTINO](https://open.spotify.com/album/08rNm5EW3wZgTGoW8Q8POS) | 4:13 | 2025-02-27 |  |
 | [Schrei in Die Dunkelheit](https://open.spotify.com/track/52MehYkA7piR8WWCE3LSpo) | [DerBen](https://open.spotify.com/artist/2ROKHEeIFHnxoXlHcngvp3) | [Schrei in Die Dunkelheit](https://open.spotify.com/album/5PeLsuXfk5qFneRcoJirTj) | 4:25 | 2025-07-20 |  |
 | [Scooby Doo, Where Are You?](https://open.spotify.com/track/0bEmPc1bDkDsp7f5uYMK2z) | [Liam](https://open.spotify.com/artist/483R5iaeK00rsyEglxK5Gf), [Dickens](https://open.spotify.com/artist/2evQ6c4GA8rP5RlB0GFNkT), [Punchline 13](https://open.spotify.com/artist/6TPmpNJTVXsPvqtlYztNkC) | [Scooby Doo, Where Are You?](https://open.spotify.com/album/2mio7TKwrLi1NHU6YssJaL) | 1:51 | 2025-05-26 |  |
@@ -2275,6 +2278,7 @@
 | [Where Do I Start](https://open.spotify.com/track/5tlgrgkB96Smw5Ql8kw2jR) | [Rocky Neal](https://open.spotify.com/artist/0MP58FIbi8HPoGK6POckl6) | [Where Do I Start](https://open.spotify.com/album/6IX0njrofQ1mhfVT6ZnRdt) | 1:50 | 2025-10-07 |  |
 | [Where Is the Light](https://open.spotify.com/track/2SgVaHn2fQeU0ZgowXnFOI) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 3:24 | 2024-05-01 |  |
 | [Where Is the Love](https://open.spotify.com/track/0dkn8wqB6SH0m8vE5ldOXQ) | [Shaky Norman](https://open.spotify.com/artist/0RiPLgdovCJSQFKpBPz6QF), [Clement Roots](https://open.spotify.com/artist/0QPuRiQEXdhemNxYBSfGhg) | [Where Is the Love](https://open.spotify.com/album/6kDSUFCwsMhHW8OPdX7DPg) | 5:51 | 2024-03-23 |  |
+| [Where the Structure Bends](https://open.spotify.com/track/3n2jTRrFP2Cgv9bZrNdKiL) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:44 | 2026-07-15 |  |
 | [Where'd the Time Go](https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn) | [Unlucky, the Artist](https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN) | [The Girl in the Green Dress](https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda) | 2:18 | 2026-03-27 |  |
 | [Whispers in the Woods](https://open.spotify.com/track/4jKXQNoP21umJ1aSZOKlGX) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 2:45 | 2026-02-05 |  |
 | [Whispers Interlude](https://open.spotify.com/track/2vD0ygDVavXuP21jhGpWak) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 0:34 | 2026-02-05 |  |
@@ -2311,6 +2315,7 @@
 | [Wormhole](https://open.spotify.com/track/4ncAUZYSJtmS6sZ1eRWvuG) | [iGL & Alecho](https://open.spotify.com/artist/0P7Ws2hOKvUgOadBq0nTXn) | [From A Droplet](https://open.spotify.com/album/2KkhkN4s5St2MqJNVeojam) | 4:32 | 2024-03-25 |  |
 | [Worst Universe](https://open.spotify.com/track/0jdnGukKtJsvQ3EfvB5m3F) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Worst Universe](https://open.spotify.com/album/3ts13EAFlZY3xcN9jmN19L) | 4:07 | 2025-12-02 |  |
 | [Worst Year](https://open.spotify.com/track/6OyQzOnHeQ9cGsZls96tJE) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Retrospective](https://open.spotify.com/album/6NW8KhNDnYMHmjXFemwX16) | 4:13 | 2025-05-28 |  |
+| [WOW](https://open.spotify.com/track/3zaomffGgeZhH5PxS3poTh) | [Raseem](https://open.spotify.com/artist/77ut7Rw6Wt62qO8crS2E1w) | [WOW](https://open.spotify.com/album/2woVblikP4LxCUKxMNLsHS) | 3:04 | 2026-07-15 |  |
 | [Write I Name](https://open.spotify.com/track/7gIYFTYkM0pnRfu2GhdPny) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 4:19 | 2024-03-25 |  |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2024-03-04 |  |
 | [WW3 Dub](https://open.spotify.com/track/1bJJoJLnnYsUaFREO4v0Jt) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:57 | 2024-03-23 |  |

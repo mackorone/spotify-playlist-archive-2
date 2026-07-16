@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2183150,
+  "num_followers": 2183117,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
+        "name": "Fainted Light",
+        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
+      },
+      "artists": [
+        {
+          "name": "Indra Lesmana",
+          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
+        },
+        {
+          "name": "Maurice Mobetta Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+        }
+      ],
+      "duration_ms": 407910,
+      "name": "Fainted Light",
+      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
         "name": "Song To An Old Friend",
         "url": "https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 369293,
       "name": "Song To An Old Friend",
       "url": "https://open.spotify.com/track/456KdVK2lZh5ngKyxvFpfg"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
-        "name": "Fainted Light",
-        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
-      },
-      "artists": [
-        {
-          "name": "Indra Lesmana",
-          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
-        },
-        {
-          "name": "Maurice Mobetta Brown",
-          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
-        }
-      ],
-      "duration_ms": 407910,
-      "name": "Fainted Light",
-      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 270896,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
         "name": "ARTEMIS",
         "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 327379,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 270896,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/0xj6T0jUF1sQj1hXvTkMjW"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/1uAsRffdMyZdxvywReTQ9E"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
         "name": "This Is The Day",
         "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 297546,
       "name": "Trilly - Variation",
       "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/0xj6T0jUF1sQj1hXvTkMjW"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1uAsRffdMyZdxvywReTQ9E"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
-        "name": "Unembeza",
-        "url": "https://open.spotify.com/album/0UtUATkwdBFmZA4eWUzLfA"
+        "name": "There Will Always Be We",
+        "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
       },
       "artists": [
         {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+          "name": "David Gibson",
+          "url": "https://open.spotify.com/artist/2xtRXEqN4qxtf4AYocor5g"
         }
       ],
-      "duration_ms": 263829,
-      "name": "Unembeza",
-      "url": "https://open.spotify.com/track/0oXf39CHXtxZYGWWNsExhF"
+      "duration_ms": 241840,
+      "name": "There Will Always Be We",
+      "url": "https://open.spotify.com/track/2mPUBvYmCo2XEmcFPqptd8"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1395,22 +1395,6 @@
       "duration_ms": 341797,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/4u5mFoRNJAOP1h2MedgInP"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
-        "name": "There Will Always Be We",
-        "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
-      },
-      "artists": [
-        {
-          "name": "David Gibson",
-          "url": "https://open.spotify.com/artist/2xtRXEqN4qxtf4AYocor5g"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "There Will Always Be We",
-      "url": "https://open.spotify.com/track/2mPUBvYmCo2XEmcFPqptd8"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1455,6 +1439,22 @@
       "duration_ms": 313693,
       "name": "Seeds Of Change",
       "url": "https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
+        "name": "Unembeza",
+        "url": "https://open.spotify.com/album/0UtUATkwdBFmZA4eWUzLfA"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "duration_ms": 263829,
+      "name": "Unembeza",
+      "url": "https://open.spotify.com/track/0oXf39CHXtxZYGWWNsExhF"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
-        "name": "Oblique Two-Step",
-        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
-      },
-      "artists": [
-        {
-          "name": "Le Boeuf Brothers",
-          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Oblique Two-Step",
-      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
         "name": "Trust and Honesty",
         "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 278182,
       "name": "Designs",
       "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
+        "name": "Oblique Two-Step",
+        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
+      },
+      "artists": [
+        {
+          "name": "Le Boeuf Brothers",
+          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Oblique Two-Step",
+      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1747,18 +1747,22 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
-        "name": "Red Orange and Blue",
-        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
+        "name": "Western Music Box",
+        "url": "https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1"
       },
       "artists": [
         {
-          "name": "Daniel Guggenheim Quartet",
-          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
         }
       ],
-      "duration_ms": 432226,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
+      "duration_ms": 391422,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1791,38 +1795,18 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
-        "name": "Western Music Box",
-        "url": "https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1"
+        "name": "Red Orange and Blue",
+        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },
       "artists": [
         {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+          "name": "Daniel Guggenheim Quartet",
+          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
         }
       ],
-      "duration_ms": 391422,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
-        "name": "Ledsen",
-        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
-      },
-      "artists": [
-        {
-          "name": "John Nilsson",
-          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
-        }
-      ],
-      "duration_ms": 330120,
-      "name": "Ledsen",
-      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+      "duration_ms": 432226,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -1839,6 +1823,22 @@
       "duration_ms": 270508,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+      },
+      "artists": [
+        {
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+        }
+      ],
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
-      },
-      "artists": [
-        {
-          "name": "Casper Hejlesen",
-          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
-        }
-      ],
-      "duration_ms": 263872,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
         "name": "Semantics",
         "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 501106,
       "name": "Old Ballad For Hawk",
       "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "duration_ms": 263872,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
     },
     {
       "added_at": "2026-07-10 07:20:45",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2026-07-10 07:20:45",
       "album": {
+        "name": "Loslassen",
+        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
+      },
+      "artists": [
+        {
+          "name": "Bastian Menz Quintett",
+          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
+        }
+      ],
+      "duration_ms": 261708,
+      "name": "Loslassen",
+      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
+    },
+    {
+      "added_at": "2026-07-10 07:20:45",
+      "album": {
         "name": "Waltz for an Absent Lover",
         "url": "https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 244040,
       "name": "Waltz for an Absent Lover",
       "url": "https://open.spotify.com/track/3NOaSvn1vaUuKMZ6r6kJfX"
-    },
-    {
-      "added_at": "2026-07-10 07:20:45",
-      "album": {
-        "name": "Loslassen",
-        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
-      },
-      "artists": [
-        {
-          "name": "Bastian Menz Quintett",
-          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
-        }
-      ],
-      "duration_ms": 261708,
-      "name": "Loslassen",
-      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
     },
     {
       "added_at": "2026-07-10 07:20:45",

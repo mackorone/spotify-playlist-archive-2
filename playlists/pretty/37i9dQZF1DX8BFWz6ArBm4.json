@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Oikonomopoulos",
-  "num_followers": 39397,
+  "num_followers": 39405,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-07-09 21:00:27",
       "album": {
-        "name": "Se Thelo Parafora",
-        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
       },
       "artists": [
         {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
         }
       ],
-      "duration_ms": 201925,
-      "name": "Se Thelo Parafora",
-      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
     },
     {
       "added_at": "2026-07-09 21:00:27",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-07-09 21:00:27",
       "album": {
-        "name": "Deutera",
-        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+        "name": "Se Thelo Parafora",
+        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
       },
       "artists": [
         {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
         }
       ],
-      "duration_ms": 240222,
-      "name": "Deutera",
-      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+      "duration_ms": 201925,
+      "name": "Se Thelo Parafora",
+      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
     },
     {
       "added_at": "2026-07-09 21:00:27",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-09 21:00:27",
       "album": {
-        "name": "Na Giriseis Pou",
-        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Na Giriseis Pou",
-      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
-    },
-    {
-      "added_at": "2026-07-09 21:00:27",
-      "album": {
         "name": "Na M' Agapas",
         "url": "https://open.spotify.com/album/46U7QZidges6iCwapYS8Gj"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 180600,
       "name": "Na M' Agapas",
       "url": "https://open.spotify.com/track/3gE0aPgt8hXdVFY6ocKfRO"
+    },
+    {
+      "added_at": "2026-07-09 21:00:27",
+      "album": {
+        "name": "Na Giriseis Pou",
+        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Na Giriseis Pou",
+      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
     },
     {
       "added_at": "2026-07-09 21:00:27",

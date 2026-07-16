@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from La Mano 1.9 x Ninho, Genezio, U2, Teddy Swims and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,270 likes - 115 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,271 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 26 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 |
 | 27 | [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 |
 | 28 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
-| 29 | [All My Life](https://open.spotify.com/track/5SIQKhxonWjF5C0f1KT7At) | [GGB](https://open.spotify.com/artist/5YxNG0dFyrvF92ZMSZhZft), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Lena Situations](https://open.spotify.com/artist/31mbaFC1l80Rsah5IVltYX), [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [All My Life](https://open.spotify.com/album/3D9ujtj8Re6EK1QgwEXeGe) | 2:35 |
-| 30 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
+| 29 | [All My Life](https://open.spotify.com/track/5SIQKhxonWjF5C0f1KT7At) | [GGB](https://open.spotify.com/artist/5YxNG0dFyrvF92ZMSZhZft), [Lena Situations](https://open.spotify.com/artist/31mbaFC1l80Rsah5IVltYX), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [All My Life](https://open.spotify.com/album/3D9ujtj8Re6EK1QgwEXeGe) | 2:35 |
+| 30 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
 | 31 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 |
 | 32 | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/track/1rwOLMfAwW4M6sehYf7Lop) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/album/1tku7mFvWNy5EmRy9WKsLe) | 3:09 |
 | 33 | [I'm Never Gonna R.I.P.](https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I'm Never Gonna R.I.P.](https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD) | 2:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Maali
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,575 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,573 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 42 | [Athena, am I beautiful?](https://open.spotify.com/track/2brYh8EuopGb0C1NsJtOZt) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Speak to me](https://open.spotify.com/album/0dzjosZvWYTFaUAcv3d9nL) | 4:39 |
 | 43 | [TAKES TWO TO TANGO](https://open.spotify.com/track/58h0eY4GbidYlPoFRMQlme) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Slailah](https://open.spotify.com/artist/22iYTRzRdq07ngvF5ZAC5U), [Mikkah](https://open.spotify.com/artist/77L9ffhefvK540POxDBkRA) | [TAKES TWO TO TANGO](https://open.spotify.com/album/6T3PBBwxvTcaKD3gdkK2GB) | 3:29 |
 | 44 | [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 |
-| 45 | [Fly](https://open.spotify.com/track/1RboxJGwwhPee5v79GH8fJ) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Onyach Pala](https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U), [Garvin Mungai & Onyach Pala](https://open.spotify.com/artist/1MS1gY5jZg5rduaNtfCAaU) | [Fly](https://open.spotify.com/album/2KQudMxXH2DVX533i2o8Gp) | 3:40 |
+| 45 | [Fly](https://open.spotify.com/track/1RboxJGwwhPee5v79GH8fJ) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Onyach Pala](https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U) | [Fly](https://open.spotify.com/album/2KQudMxXH2DVX533i2o8Gp) | 3:40 |
 | 46 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 |
 | 47 | [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 |
 | 48 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 |

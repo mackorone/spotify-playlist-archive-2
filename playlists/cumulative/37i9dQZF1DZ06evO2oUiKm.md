@@ -4,7 +4,7 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 9 min
+99 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Holy Refrain](https://open.spotify.com/track/29Sl4DsJQazlOv5YQfmFpD) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:56 | 2025-09-26 | 2026-06-20 |
 | [How I Could Fall](https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:01 | 2026-02-11 |  |
 | [I Can't Wish Much More](https://open.spotify.com/track/3eZPkYLBP4R1MLY0m5jG31) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Cinderella Rock \(Studio Cast Soundtrack\)](https://open.spotify.com/album/6yn7txW90bI4ne4bq43rPM) | 4:16 | 2024-12-14 | 2025-06-08 |
-| [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 | 2025-04-13 |  |
+| [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 | 2025-04-13 | 2026-07-16 |
 | [I Don't Know How to Love Him](https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m) | 4:19 | 2024-12-14 | 2025-04-13 |
 | [I Don't Know How to Love Him](https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV) | [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Jesus Christ Superstar: Highlights From the All\-Female Studio Cast Recording](https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM) | 3:50 | 2025-11-25 | 2026-02-24 |
 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2024-12-14 |  |
@@ -53,6 +53,7 @@
 | [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 | 2026-04-19 |  |
 | [Inside \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 2:20 | 2024-12-14 |  |
 | [Intro \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:40 | 2024-12-14 |  |
+| [It Would Be](https://open.spotify.com/track/7FOHuxnnNpNoB0t8BhTV0I) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [It Would Be](https://open.spotify.com/album/5axtvktcltQMAFIoo2cxe8) | 3:46 | 2026-07-16 |  |
 | [I’m Not That Girl](https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 3:57 | 2024-12-14 |  |
 | [Jump](https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [STEP \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG) | 5:59 | 2024-12-14 | 2026-04-19 |
 | [Miss Celie's Pants](https://open.spotify.com/track/79ybmPyIMIH5WQ2npAiurG) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 2:41 | 2025-01-08 | 2025-11-07 |

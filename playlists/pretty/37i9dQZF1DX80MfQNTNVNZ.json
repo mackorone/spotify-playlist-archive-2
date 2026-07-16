@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 217968,
+  "num_followers": 217996,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
-        "name": "touch myself/idea of love",
-        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 249218,
-      "name": "touch myself",
-      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
         "name": "Prema",
         "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 262840,
       "name": "Prema",
       "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
     },
     {
       "added_at": "2026-06-26 00:33:09",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
         "name": "Need it Bad (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
       "added_at": "2026-06-26 00:33:09",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
+        "name": "In A World We Don't Belong",
+        "url": "https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 194648,
+      "name": "Does She Know",
+      "url": "https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
         "name": "Location Unknown feat. NIKI (10 Years)",
         "url": "https://open.spotify.com/album/49QKEYpomW6vxriaJM2xYM"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 331866,
       "name": "Location Unknown - feat. NIKI (10 Years)",
       "url": "https://open.spotify.com/track/4NWrXSfKtXX5FCPqwpCuwT"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
-        "name": "In A World We Don't Belong",
-        "url": "https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 194648,
-      "name": "Does She Know",
-      "url": "https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd"
     },
     {
       "added_at": "2026-06-26 00:33:09",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
-        "name": "Distracted",
-        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Funny Friends",
-      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
         "name": "Love You Right",
         "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 165818,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "added_at": "2026-06-26 00:33:09",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
-        "name": "LOVE, LOVE, LOVE",
-        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 242287,
-      "name": "LOVE, LOVE, LOVE",
-      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
         "name": "BACKWARD",
         "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 166687,
       "name": "THEMSELVES",
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 242287,
+      "name": "LOVE, LOVE, LOVE",
+      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
     },
     {
       "added_at": "2026-06-26 00:33:09",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2026-06-26 00:33:09",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Tom McFarland",
+          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
+        }
+      ],
+      "duration_ms": 199477,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Tom McFarland",
-          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
-        }
-      ],
-      "duration_ms": 199477,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
     },
     {
       "added_at": "2026-06-26 00:33:09",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-06-26 00:33:09",
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Hurry Hurry",
+      "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
+    },
+    {
+      "added_at": "2026-06-26 00:33:09",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 190779,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
-    },
-    {
-      "added_at": "2026-06-26 00:33:09",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Hurry Hurry",
-      "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
     },
     {
       "added_at": "2026-06-26 00:33:09",

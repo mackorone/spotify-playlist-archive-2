@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 248688,
+  "num_followers": 248712,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Back Bend (Remix)",
         "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 185538,
       "name": "Back Bend (Remix)",
       "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
+        "name": "Face Beat",
+        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
+      },
+      "artists": [
+        {
+          "name": "Father Philis",
+          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "Face Beat",
+      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
-        "name": "Face Beat",
-        "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
-      },
-      "artists": [
-        {
-          "name": "Father Philis",
-          "url": "https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK"
-        }
-      ],
-      "duration_ms": 143789,
-      "name": "Face Beat",
-      "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+        "name": "One Degree Hotter",
+        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
       },
       "artists": [
         {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+      "duration_ms": 158413,
+      "name": "Fling It Up",
+      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "One Degree Hotter",
-        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 158413,
-      "name": "Fling It Up",
-      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "DAP (Drink and Party)",
         "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 169142,
       "name": "DAP (Drink and Party)",
       "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Soca Savage",
-        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
-      },
-      "artists": [
-        {
-          "name": "Arrow",
-          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 167019,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Soca Savage",
+        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
+        "name": "Search Party",
+        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 206609,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 164409,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
-        "name": "Search Party",
-        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
-      },
-      "artists": [
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 206609,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
     },
     {
       "added_at": "2026-07-02 16:13:31",

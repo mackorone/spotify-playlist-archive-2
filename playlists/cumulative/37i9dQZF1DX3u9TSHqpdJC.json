@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Abbie Gordon. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Mercer Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 147500,
       "name": "2099",
       "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
@@ -5056,7 +5056,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 209591,
       "name": "auburn",
       "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
@@ -9290,7 +9290,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 234750,
       "name": "Boardwalk",
       "url": "https://open.spotify.com/track/5c9ODNAoJI6tkqCnOByDoK"
@@ -23984,7 +23984,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 143789,
       "name": "Feel Like I Died",
       "url": "https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7"
@@ -27990,7 +27990,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 258322,
       "name": "Glass Castle",
       "url": "https://open.spotify.com/track/533xEfzNpx2up8euBVlexi"
@@ -28178,6 +28178,24 @@
       "duration_ms": 150444,
       "name": "go out there",
       "url": "https://open.spotify.com/track/4YY28qxsloSIPccUzK1hZn"
+    },
+    {
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206407,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
     },
     {
       "album": {
@@ -29916,7 +29934,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 155035,
       "name": "happier",
       "url": "https://open.spotify.com/track/7IzufCLmkfr4Btrph9wYgg"
@@ -42100,7 +42118,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 179000,
       "name": "Letting Love Die",
       "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
@@ -43744,6 +43762,24 @@
       "duration_ms": 192213,
       "name": "London Boys",
       "url": "https://open.spotify.com/track/4BrsCwmDoOnuPUR7Xv193v"
+    },
+    {
+      "album": {
+        "name": "London Tonight",
+        "url": "https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf"
+      },
+      "artists": [
+        {
+          "name": "Mercer",
+          "url": "https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205669,
+      "name": "London Tonight",
+      "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
     },
     {
       "album": {
@@ -51675,6 +51711,24 @@
     },
     {
       "album": {
+        "name": "No Narcotics",
+        "url": "https://open.spotify.com/album/1XyWbK9QroIJngVcDJAFi1"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168445,
+      "name": "No Narcotics",
+      "url": "https://open.spotify.com/track/3x9R6kjsYRX022NcZCXBnQ"
+    },
+    {
+      "album": {
         "name": "No One 2 Blame",
         "url": "https://open.spotify.com/album/2VTusMlZ2YnBlizJTOd7xh"
       },
@@ -52106,6 +52160,24 @@
       "duration_ms": 287300,
       "name": "Nose Job",
       "url": "https://open.spotify.com/track/6IB1YxShFrWmhBxBtcr1aQ"
+    },
+    {
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/3jzIBdrWSFX8zcn6LyWGAA"
+      },
+      "artists": [
+        {
+          "name": "Chiara Savasta",
+          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/7EwUOa9eqaDRiEkPgOh6bf"
     },
     {
       "album": {
@@ -56324,6 +56396,24 @@
       "duration_ms": 178048,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
     },
     {
       "album": {
@@ -66481,6 +66571,24 @@
     },
     {
       "album": {
+        "name": "Sorry Mister",
+        "url": "https://open.spotify.com/album/5Bn5uZmBgIgIfDEiaiThOH"
+      },
+      "artists": [
+        {
+          "name": "Disgusting Sisters",
+          "url": "https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Sorry Mister",
+      "url": "https://open.spotify.com/track/4a2myfnWpnQ8ZkeB7pj7cw"
+    },
+    {
+      "album": {
         "name": "Sorry to Little Me",
         "url": "https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD"
       },
@@ -72235,6 +72343,24 @@
     },
     {
       "album": {
+        "name": "The Drugs Don't Work Anymore",
+        "url": "https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch"
+      },
+      "artists": [
+        {
+          "name": "Josephine Genais",
+          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211541,
+      "name": "The Drugs Don't Work Anymore",
+      "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
+    },
+    {
+      "album": {
         "name": "The End of the World!",
         "url": "https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO"
       },
@@ -72956,7 +73082,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 161100,
       "name": "The Space Between",
       "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
@@ -77510,6 +77636,24 @@
       "duration_ms": 211649,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/36ucHCqd276PZFIXqjeZfN"
+    },
+    {
+      "album": {
+        "name": "Just My Luck",
+        "url": "https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215488,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
     },
     {
       "album": {

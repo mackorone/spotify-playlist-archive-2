@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷<br/>cover: Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,592 likes - 110 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,586 likes - 110 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 9 | [The Way That It Feels](https://open.spotify.com/track/5gW0NRCJ8bnf22K9HoBBRo) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [The Way That It Feels](https://open.spotify.com/album/6Z0iMYUfuD3rnximAQahDk) | 3:34 |
 | 10 | [Just Like You](https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Just Like You](https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby) | 3:14 |
 | 11 | [Come Down](https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Come Down](https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ) | 2:55 |
-| 12 | [Dickhead](https://open.spotify.com/track/6CwH3WJJPxchCOYPIewPOl) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Dickhead](https://open.spotify.com/album/1KvXYsdmne1A2YP3Szatfz) | 3:03 |
+| 12 | [Dickhead \- demo](https://open.spotify.com/track/6CwH3WJJPxchCOYPIewPOl) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Dickhead \(demo\)](https://open.spotify.com/album/1KvXYsdmne1A2YP3Szatfz) | 3:03 |
 | 13 | [Good At Leaving](https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Is This Heaven? \(Extended\)](https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK) | 2:49 |
 | 14 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
 | 15 | [Honey](https://open.spotify.com/track/4TNi5ncp8uSbIy3mHtv5lF) | [Ellie Nanni](https://open.spotify.com/artist/3spMydBaIHg5DCbXY8tDqc) | [What makes us lovers](https://open.spotify.com/album/1ka8xYO3aQm6WHWHm4usXD) | 2:59 |

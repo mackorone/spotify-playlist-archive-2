@@ -1,12 +1,12 @@
 {
   "description": "This is kessoku band. The essential tracks, all in one playlist.",
-  "num_followers": 36898,
+  "num_followers": 36913,
   "original_name": "This Is kessoku band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAAgk5dIR15j2M3UtD17zDFu",
+  "snapshot_id": "alV8AAAAAAC0JXbNRKrGE8Z3kmNTg9sW",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "\u9752\u3044\u6625\u3068\u897f\u306e\u7a7a",
-      "url": "https://open.spotify.com/track/7hfOYw1pDISWok8ZR8JALg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Re:\u7d50\u675f\u30d0\u30f3\u30c9",
         "url": "https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 219613,
       "name": "\u50d5\u3068\u4e09\u539f\u8272",
       "url": "https://open.spotify.com/track/5C3AH2Pxm8r2wovLBFWHe7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "\u9752\u3044\u6625\u3068\u897f\u306e\u7a7a",
+      "url": "https://open.spotify.com/track/7hfOYw1pDISWok8ZR8JALg"
     },
     {
       "added_at": null,

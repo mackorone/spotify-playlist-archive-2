@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 417358,
+  "num_followers": 417348,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "2 Little 2 Late",
-        "url": "https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
-        },
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 171050,
-      "name": "2 Little 2 Late",
-      "url": "https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 174398,
       "name": "Old Friend (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "2 Little 2 Late",
+        "url": "https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 171050,
+      "name": "2 Little 2 Late",
+      "url": "https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7"
     },
     {
       "added_at": "2026-06-02 14:00:24",

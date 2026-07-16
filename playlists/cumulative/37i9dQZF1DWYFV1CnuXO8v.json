@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 206015,
       "name": "Beiny we Beinak",
       "url": "https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa"
@@ -2657,6 +2657,36 @@
     },
     {
       "album": {
+        "name": "Kan 3ala 3eny (Red Bull Mazzika Salonat)",
+        "url": "https://open.spotify.com/album/7HLh6PGIFjgHlLxNCKEK6l"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        },
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        },
+        {
+          "name": "Red Bull Sika",
+          "url": "https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127329,
+      "name": "Kan 3ala 3eny (Red Bull Mazzika Salonat)",
+      "url": "https://open.spotify.com/track/48tGSTYyKXZiHgwPDObPe1"
+    },
+    {
+      "album": {
         "name": "Khaleena A\u2019din",
         "url": "https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ"
       },
@@ -3650,7 +3680,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 264228,
       "name": "Qusad Einy",
       "url": "https://open.spotify.com/track/4k9cMYGwCfSNa0wFCN0uDo"
@@ -5642,6 +5672,24 @@
       "duration_ms": 277798,
       "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa"
+    },
+    {
+      "album": {
+        "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
+        "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264228,
+      "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
+      "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
     },
     {
       "album": {

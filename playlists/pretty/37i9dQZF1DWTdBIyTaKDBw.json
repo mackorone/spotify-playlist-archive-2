@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 29180,
+  "num_followers": 29206,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC"
-      },
-      "artists": [
-        {
-          "name": "Osaki",
-          "url": "https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze"
-        },
-        {
-          "name": "Tibeauthetraveler",
-          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
-        }
-      ],
-      "duration_ms": 135575,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Dandelion's Lullaby",
         "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 156190,
       "name": "Into the Reverie",
       "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC"
+      },
+      "artists": [
+        {
+          "name": "Osaki",
+          "url": "https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze"
+        },
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "duration_ms": 135575,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Shinjuku",
-        "url": "https://open.spotify.com/album/4KaWvtsalcd0fMEbval9dO"
-      },
-      "artists": [
-        {
-          "name": "Just Big Hills",
-          "url": "https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309"
-        }
-      ],
-      "duration_ms": 168001,
-      "name": "Shinjuku",
-      "url": "https://open.spotify.com/track/7LBO0230RXsB371lZmWKrv"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 169714,
       "name": "Journey",
       "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Shinjuku",
+        "url": "https://open.spotify.com/album/4KaWvtsalcd0fMEbval9dO"
+      },
+      "artists": [
+        {
+          "name": "Just Big Hills",
+          "url": "https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309"
+        }
+      ],
+      "duration_ms": 168001,
+      "name": "Shinjuku",
+      "url": "https://open.spotify.com/track/7LBO0230RXsB371lZmWKrv"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 172564,
-      "name": "one day in japan",
-      "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Legends of the Past",
         "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 128571,
       "name": "Torii Road",
       "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 172564,
+      "name": "one day in japan",
+      "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Motorbikes in Sapa",
-        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
       "artists": [
         {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
         }
       ],
-      "duration_ms": 172288,
-      "name": "Motorbikes in Sapa",
-      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
+      "duration_ms": 176222,
+      "name": "22 Samurai",
+      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "22 Samurai",
-      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Legends of the Past",
         "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 144000,
       "name": "Muramasa",
       "url": "https://open.spotify.com/track/75yKCtGs2x1rcMBiRQAdYX"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Motorbikes in Sapa",
+        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "Motorbikes in Sapa",
+      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd"
-      },
-      "artists": [
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Shinrin",
-      "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Waiting To Board",
         "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 138333,
       "name": "Waiting To Board",
       "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Shinrin",
+      "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -915,8 +915,8 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Moonlit Tales",
-        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
+        "name": "Ghosts of the Floating World",
+        "url": "https://open.spotify.com/album/3eZvLeVJrxO4eA8CUogkZS"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
         }
       ],
-      "duration_ms": 198254,
-      "name": "In the Roses",
-      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
+      "duration_ms": 214343,
+      "name": "Streetlight Reverie",
+      "url": "https://open.spotify.com/track/074zpK5Xw0yeNdi0kVCXhG"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Kick This",
-        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Sunflower Samurai",
-      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Maiko",
         "url": "https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 208000,
       "name": "Maiko's Hope",
       "url": "https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Kick This",
+        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Sunflower Samurai",
+      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "NKOHA 2K18",
-        "url": "https://open.spotify.com/album/5mUzJJIOEmJqGFRCXSKRbB"
-      },
-      "artists": [
-        {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
-        }
-      ],
-      "duration_ms": 178673,
-      "name": "Jiraiya",
-      "url": "https://open.spotify.com/track/5BE1V5eaSVKkNWxrGXoFME"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Vanishing Journey",
         "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 146925,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "NKOHA 2K18",
+        "url": "https://open.spotify.com/album/5mUzJJIOEmJqGFRCXSKRbB"
+      },
+      "artists": [
+        {
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "Jiraiya",
+      "url": "https://open.spotify.com/track/5BE1V5eaSVKkNWxrGXoFME"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+      },
+      "artists": [
+        {
+          "name": "Howle",
+          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Stories From Japan II",
         "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 188571,
       "name": "Lost in Tokyo",
       "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
-      },
-      "artists": [
-        {
-          "name": "Howle",
-          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Tokyo Skyline",
+        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Silk Road",
+      "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 160000,
       "name": "Arisa",
       "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Tokyo Skyline",
-        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
-      },
-      "artists": [
-        {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        },
-        {
-          "name": "Symoo",
-          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
-        }
-      ],
-      "duration_ms": 174111,
-      "name": "Silk Road",
-      "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 167102,
-      "name": "Miss Each Other Because of Love",
-      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Autumn in Osaka",
         "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 160800,
       "name": "Autumn in Osaka",
       "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 167102,
+      "name": "Miss Each Other Because of Love",
+      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
     },
     {
       "added_at": "2026-06-29 08:21:08",

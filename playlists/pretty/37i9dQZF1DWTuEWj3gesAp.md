@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEWj3gesAp.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 782 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEWj3gesAp.md) - [plain]
 | 46 | [ALL OVER AGAIN](https://open.spotify.com/track/5aQiJdi3UvPQlsQTHKo01C) | [VARO](https://open.spotify.com/artist/1YKxuJ1SjphF1nQ02LV3p8), [VeronicaReneé](https://open.spotify.com/artist/1c5GKmBDqO3SfCFNXpvVep) | [BLACKOUT](https://open.spotify.com/album/5JFtSyeDNGire2WBmgSbUR) | 4:04 |
 | 47 | [Side To Side \- Original Mix](https://open.spotify.com/track/4b754jx0bPUGE7l8eM0Hf4) | [RIIINGS](https://open.spotify.com/artist/6YjCQVUDS2R6Ydddu1end9) | [Side To Side](https://open.spotify.com/album/05NHQ5NRn1LsD7mD2YMxBA) | 4:05 |
 | 48 | [Lost Without You \- Radio Edit](https://open.spotify.com/track/4VYQ2OUv6V6KuzGahQvqNW) | [RIIINGS](https://open.spotify.com/artist/6YjCQVUDS2R6Ydddu1end9) | [RIIINGS \#1 \(Radio Edit\)](https://open.spotify.com/album/2ejqbLUr3zZEwJFkZDTB6Z) | 4:38 |
-| 49 | [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 |
+| 49 | [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [O‑NINEEIGHT](https://open.spotify.com/artist/07B2wRwMbnJLWUhjTFSpve), [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 |
 | 50 | [Expansion](https://open.spotify.com/track/04SCQ8UL0mcCbpvM89Yyvt) | [B2](https://open.spotify.com/artist/0vpOUJDr3cALJ5AiRFdv2S), [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Methodology I](https://open.spotify.com/album/4eOD4oh2VTPqi6ELLFyWxg) | 4:06 |
 | 51 | [Hachiboshi](https://open.spotify.com/track/1t7IqAEQUOfbY2EepdOjDu) | [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [the world](https://open.spotify.com/album/5VEfd0Z0dUIv1Tn2QvwBHB) | 4:16 |
 | 52 | [ray](https://open.spotify.com/track/2nZXCWkT4gbbh2GYNwHPQR) | [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [the world](https://open.spotify.com/album/5VEfd0Z0dUIv1Tn2QvwBHB) | 3:37 |

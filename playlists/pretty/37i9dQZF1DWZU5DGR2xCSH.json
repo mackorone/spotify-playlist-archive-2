@@ -1,375 +1,951 @@
 {
-  "description": "El pogo m\u00e1s grande del mundo...",
-  "num_followers": 1118086,
+  "description": "Los abanderados del rock argentino y sus himnos.",
+  "num_followers": 1117986,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAfZMx1zQF9vJuJNNmOSxc+EQPB",
+  "snapshot_id": "AAAAAGZxBMMhXL0yw1Q1AKV4o76saeVX",
   "tracks": [
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Pajaritos, Bravos Muchachitos",
-        "url": "https://open.spotify.com/album/751S3DWTtH4C5Pfpk4KJ6d"
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Giros",
+        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "11 Y 6",
+      "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Himno De Mi Corazon",
+        "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 336360,
+      "name": "Balada Del Diablo y La Muerte",
+      "url": "https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 313733,
+      "name": "\u00bfQu\u00e9 Ves?",
+      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Cr\u00edmenes perfectos",
+      "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Bajan",
+      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sr. Cobranza",
+      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Te Hacen Falta Vitaminas - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3caBCFURBMGqZYrZUc7j8s"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         },
         {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Hab\u00eda una Vez...",
-      "url": "https://open.spotify.com/track/3ayHT7okY784fCWMYDbspt"
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "\u00daltimo Bondi a Finisterre",
-        "url": "https://open.spotify.com/album/4AavSPysvEBXOr2Bipzi7q"
+        "name": "Acariciando Lo Aspero",
+        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 287826,
-      "name": "Gualicho",
-      "url": "https://open.spotify.com/track/30siWdB34ouB00EjpCWdBB"
+      "duration_ms": 354746,
+      "name": "Ala Delta",
+      "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
+        "name": "Los Fabulosos Cadillacs - Vol. V",
+        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 377399,
+      "name": "Mujer Amante - Vivo",
+      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Milonga del marinero y el capit\u00e1n",
+      "url": "https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Sueles Dejarme Solo - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Aire De Todos - Antolog\u00eda 1984 - 1986",
+        "url": "https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV"
+      },
+      "artists": [
+        {
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+        }
+      ],
+      "duration_ms": 310586,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Mejor No Hablar de Ciertas Cosas",
+      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 130080,
+      "name": "Todas las Hojas Son del Viento",
+      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Barro Tal Vez",
+      "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Necesito",
+      "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Spinetta y los Socios del Desierto",
+        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Y Los Socios Del Desierto",
+          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Nos Veremos Otra Vez",
+      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Lo Mejor de Pescado Rabioso",
+        "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Post-Crucifixion",
+      "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Mensajes Del Alma",
+        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 362240,
+      "name": "Los Salieris De Charly",
+      "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Cuentos Decapitados",
+        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
+      "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "La Balsa",
+      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Muchacha (Ojos de Papel)",
+      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Donde estabas tu... en el 93?",
+        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Joven Guardia Cronolog\u00eda - El Extra\u00f1o del Pelo Largo (1969)",
+        "url": "https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD"
+      },
+      "artists": [
+        {
+          "name": "La Joven Guardia",
+          "url": "https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La M\u00e1quina de Hacer P\u00e1jaros",
+        "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
+      },
+      "artists": [
+        {
+          "name": "La Maquina De Hacer P\u00e1jaros",
+          "url": "https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Como Mata el Viento Norte",
+      "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Jugo de Tomate",
+      "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Solo Se Trata de Vivir / Solopiano Vol. 1",
+        "url": "https://open.spotify.com/album/1qGJPF96mr8TReD46byqez"
+      },
+      "artists": [
+        {
+          "name": "Litto Nebbia",
+          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
+        }
+      ],
+      "duration_ms": 258403,
+      "name": "Solo Se Trata de Vivir",
+      "url": "https://open.spotify.com/track/4vKvCed2EoxBl4DFSqSUH8"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Treinta Minutos de Vida",
+        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+        }
+      ],
+      "duration_ms": 463666,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Tiempo de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
+      },
+      "artists": [
+        {
+          "name": "Arco Iris",
+          "url": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
+        }
+      ],
+      "duration_ms": 169525,
+      "name": "Ma\u00f1ana Campestre",
+      "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 230146,
+      "name": "No Pibe",
+      "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 130213,
+      "name": "Ayer Nom\u00e1s",
+      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
+      },
+      "artists": [
+        {
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
+        }
+      ],
+      "duration_ms": 219039,
+      "name": "La Mam\u00e1 de Jimmy",
+      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Treinta Minutos de Vida",
+        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "El Oso",
+      "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Chocolate Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
         },
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 263130,
-      "name": "QUEMAR\u00c1S",
-      "url": "https://open.spotify.com/track/37o3TuM0nRPMa9f9qpUKlo"
+      "duration_ms": 218320,
+      "name": "El Chino (feat. Andr\u00e9s Calamaro)",
+      "url": "https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
       "artists": [
         {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 304680,
-      "name": "Mi Genio Amor - En Vivo",
-      "url": "https://open.spotify.com/track/36q5g0MLMa7Szw10hRLyue"
+      "duration_ms": 179130,
+      "name": "Veinte Ciudades",
+      "url": "https://open.spotify.com/track/17a6EMs038tuh87eggDJ1G"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Tren de Fugitivos",
-        "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
+        "name": "Mi Cuarto",
+        "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
       },
       "artists": [
         {
-          "name": "El Soldado",
-          "url": "https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Sergio Dawi",
-          "url": "https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs"
+          "name": "Vivencia",
+          "url": "https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY"
         }
       ],
-      "duration_ms": 316626,
-      "name": "Angel de los Perdedores",
-      "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
+      "duration_ms": 237573,
+      "name": "Los Juguetes Y Los Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Encuentro con un \u00c1ngel Amateur (En Vivo)",
-        "url": "https://open.spotify.com/album/4i3tI2uy6nnr4gitNgXCtQ"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 213681,
-      "name": "Encuentro con un \u00c1ngel Amateur - En Vivo",
-      "url": "https://open.spotify.com/track/68baDWnU6XC7YRpMuDEYbJ"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Ladr\u00f3n de Mi Cerebro",
-      "url": "https://open.spotify.com/track/3q8dZmLL0dI8gMYqX5z00z"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "El Tesoro de los Inocentes (Bingo Fuel)",
-        "url": "https://open.spotify.com/album/03jnJ4DNoOPKYe1H3eW6Fz"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "El Tesoro de los Inocentes",
-      "url": "https://open.spotify.com/track/6RZZtPtwZdiYmqRGZhRlW8"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Desde los Sat\u00e9lites (En Vivo)",
-        "url": "https://open.spotify.com/album/2xrUpeNv6iAQshTdsKk0xh"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 248514,
-      "name": "Honolulu - En Vivo",
-      "url": "https://open.spotify.com/track/2Cp8lkH13ZhKZIA7A6kHP0"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Porco Rex",
-        "url": "https://open.spotify.com/album/2nT2LHBP43vxzj9iYG0y6e"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Y Mientras Tanto el Sol Se Muere...",
-      "url": "https://open.spotify.com/track/2KVK9tv3rKSYmPV1U5Pxqv"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Porco Rex",
-        "url": "https://open.spotify.com/album/2nT2LHBP43vxzj9iYG0y6e"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 307080,
-      "name": "Flight 956",
-      "url": "https://open.spotify.com/track/1hABbMLDKI5MPaGTjM589D"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Luzbelito",
-        "url": "https://open.spotify.com/album/5kk3PbroAezGBPucpoN4oC"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "La Dicha No Es una Cosa Alegre",
-      "url": "https://open.spotify.com/track/7jyxRbsT8PWvHP6D7itJC4"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "\u00a1Es Hora de Levantarse Querido! (\u00bfDormiste Bien?)",
-      "url": "https://open.spotify.com/track/1ybMA6cCs6ZsAZSPtdENqx"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "A los P\u00e1jaros",
-        "url": "https://open.spotify.com/album/3MwIw0p9Xso4myA5wrURsd"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 189134,
-      "name": "Un tal Brigitte Bardot",
-      "url": "https://open.spotify.com/track/5Jotot3gWP3xI6jEmaD2Lu"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Luzbelito",
-        "url": "https://open.spotify.com/album/5kk3PbroAezGBPucpoN4oC"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Cruz Diablo!",
-      "url": "https://open.spotify.com/track/7MnRI8RSkPHex1A9RJXL8w"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "El Tesoro de los Inocentes (Bingo Fuel)",
-        "url": "https://open.spotify.com/album/03jnJ4DNoOPKYe1H3eW6Fz"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "El Charro Chino",
-      "url": "https://open.spotify.com/track/2W7KHLnwmOSGQu2QFcVgIg"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Rezando Solo (En Vivo)",
-        "url": "https://open.spotify.com/album/6xU4VN8x2AImGFY93l5c8A"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 330428,
-      "name": "Rezando Solo - En Vivo",
-      "url": "https://open.spotify.com/track/0XSQ9yqkQ3Kx8U44QhkJ4b"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 321773,
-      "name": "Semen-Up",
-      "url": "https://open.spotify.com/track/3ed8vpk6UUEmV7hjkE5ym5"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Nueva Roma",
-      "url": "https://open.spotify.com/track/5BzJt1iwTxN7ArW3sSERNZ"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 274826,
-      "name": "M\u00fasica para Pastillas",
-      "url": "https://open.spotify.com/track/04w8gONnFBDA75VEXUAuWo"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
@@ -380,668 +956,76 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Susanita",
-      "url": "https://open.spotify.com/track/4B8uJ7gxcWagyfpF3HpH9p"
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "El Ruise\u00f1or, el Amor y la Muerte",
-        "url": "https://open.spotify.com/album/5RqHno42QNZ7aZoyYnztbj"
+        "name": "Ser\u00fa Gir\u00e1n (2021 Remasterizado)",
+        "url": "https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
         }
       ],
-      "duration_ms": 230053,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/56n94C7lJHOI1BbDQ4K9Rg"
+      "duration_ms": 202513,
+      "name": "Seminare - 2021 Remasterizado",
+      "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
+        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
         }
       ],
-      "duration_ms": 353906,
-      "name": "La Parabellum del Buen Psic\u00f3pata",
-      "url": "https://open.spotify.com/track/1i57a4l6q0rKgailNnYZ6h"
+      "duration_ms": 380933,
+      "name": "Desconf\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 142960,
-      "name": "Nadie Es Perfecto",
-      "url": "https://open.spotify.com/track/3Vw30qPlWkaHM6dzqIowFe"
+      "duration_ms": 326647,
+      "name": "Agua de R\u00edo",
+      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 147760,
-      "name": "Maldici\u00f3n Va a Ser un D\u00eda Hermoso",
-      "url": "https://open.spotify.com/track/1Wl531T4EVU5ZqMPy82Rpj"
+      "duration_ms": 240013,
+      "name": "Tan Solo",
+      "url": "https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "El Templo de Momo",
-      "url": "https://open.spotify.com/track/0v1Y8sDNSPC7FAgdVlDGAQ"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "El Ruise\u00f1or, el Amor y la Muerte",
-        "url": "https://open.spotify.com/album/5RqHno42QNZ7aZoyYnztbj"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "La Peque\u00f1a Mamba",
-      "url": "https://open.spotify.com/track/3umlS2fKBSIS9BElMkRmYs"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "\u00d1am Fri Fruli Fali Fru",
-      "url": "https://open.spotify.com/track/0iM7Ck72I4Jpc1xrOv1bgM"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 361333,
-      "name": "Canci\u00f3n para Naufragios",
-      "url": "https://open.spotify.com/track/1aYpO0WM3KHkhsljr4tHMo"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Luzbelito",
-        "url": "https://open.spotify.com/album/6pd1SqXVhDwFIq6R7HL1rW"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 289613,
-      "name": "Mariposa Pontiac - Rock del Pa\u00eds",
-      "url": "https://open.spotify.com/track/2i6bt0gKgRkCRZnPya54PS"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Rock para los Dientes",
-      "url": "https://open.spotify.com/track/4jR6F4pGMhui8B6AbW5dBb"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "El Tesoro de los Inocentes (Bingo Fuel)",
-        "url": "https://open.spotify.com/album/03jnJ4DNoOPKYe1H3eW6Fz"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 286133,
-      "name": "Pabell\u00f3n S\u00e9ptimo (Relato de Horacio)",
-      "url": "https://open.spotify.com/track/2jLZ93VPvSxoZ5KRvFjFRA"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 264133,
-      "name": "Ropa Sucia",
-      "url": "https://open.spotify.com/track/04jGUb3J7kQmyCkKZtISIz"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Ya Nadie Va a Escuchar Tu Remera",
-      "url": "https://open.spotify.com/track/2SQvTpmA3He8peISw6fzG8"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Un Bai\u00f3n para el Ojo Idiota",
-        "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Ella Debe Estar Tan Linda",
-      "url": "https://open.spotify.com/track/6c61kVcF2zmFExhWYwDrDX"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Barbazul Versus el Amor Letal",
-      "url": "https://open.spotify.com/track/3GoSaTEDB00eXQdCZSw0rM"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Porco Rex",
-        "url": "https://open.spotify.com/album/2nT2LHBP43vxzj9iYG0y6e"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Bebamos de las Copas Lindas",
-      "url": "https://open.spotify.com/track/30cVBv4c1viJRduJevuer5"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Fuegos de Octubre",
-      "url": "https://open.spotify.com/track/6pi8MHD4mXo0ZsL3efLvqq"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Luzbelito",
-        "url": "https://open.spotify.com/album/6pd1SqXVhDwFIq6R7HL1rW"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Me Matan Lim\u00f3n!",
-      "url": "https://open.spotify.com/track/7h0wz5amgGNqbcGOo9ebXD"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Fusilados por la Cruz Roja",
-      "url": "https://open.spotify.com/track/70oCSjkWqBvGBql9gJz5dx"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "Motor Psico",
-      "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "El Ruise\u00f1or, el Amor y la Muerte",
-        "url": "https://open.spotify.com/album/5RqHno42QNZ7aZoyYnztbj"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "El Martillo de las Brujas (Malleus Maleficarum)",
-      "url": "https://open.spotify.com/track/4zgE5pHez55vM8s1H5EAMi"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Divina Tv. F\u00fchrer",
-      "url": "https://open.spotify.com/track/4lkchZbpUEkOyqf9NUcuWw"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 292360,
-      "name": "El Infierno Est\u00e1 Encantador Esta Noche",
-      "url": "https://open.spotify.com/track/13eb5Cw8ctrgZPH3y8zqn9"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Yo No Me Ca\u00ed del Cielo",
-      "url": "https://open.spotify.com/track/2Hxe6AtN9V7ATyFRvySaZV"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Nuestro Amo Juega al Esclavo",
-      "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Pajaritos, Bravos Muchachitos",
-        "url": "https://open.spotify.com/album/751S3DWTtH4C5Pfpk4KJ6d"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Chau Mohicano",
-      "url": "https://open.spotify.com/track/5ps2f56yQTNURl773ucGrC"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Rock para el Negro Atila",
-      "url": "https://open.spotify.com/track/1JQOUueUnq9xoUcI1MiVVy"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 302200,
-      "name": "Salando las Heridas",
-      "url": "https://open.spotify.com/track/3Msp0yez7bCuJxSvwejOgq"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Blues de la Artiller\u00eda",
-      "url": "https://open.spotify.com/track/0aQAxk0VUa03yons7PZjS1"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "El Tesoro de los Inocentes (Bingo Fuel)",
-        "url": "https://open.spotify.com/album/03jnJ4DNoOPKYe1H3eW6Fz"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 279480,
-      "name": "To Beef Or Not To Beef",
-      "url": "https://open.spotify.com/track/3AtunC2EhvYnP8A7RjeA9k"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Un Bai\u00f3n para el Ojo Idiota",
-        "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Aquella Solitaria Vaca Cubana",
-      "url": "https://open.spotify.com/track/4NIQM07fdU2C8R1PnKrLkl"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 292493,
-      "name": "Queso Ruso",
-      "url": "https://open.spotify.com/track/3Zf6FUeAVlk0Rk1VIgBHlb"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Toxi-Taxi",
-      "url": "https://open.spotify.com/track/6dr4yfIX1gO7to68cDcCsp"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Oktubre",
-        "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Preso en Mi Ciudad",
-      "url": "https://open.spotify.com/track/04evy4QQAnYPMnIPmMDq72"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Porco Rex",
-        "url": "https://open.spotify.com/album/2nT2LHBP43vxzj9iYG0y6e"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Ramas Desnudas",
-      "url": "https://open.spotify.com/track/3QX0BsmDgLZ2K9bqC9xBdP"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Luzbelito",
-        "url": "https://open.spotify.com/album/6pd1SqXVhDwFIq6R7HL1rW"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Luzbelito y las Sirenas",
-      "url": "https://open.spotify.com/track/2ybNy7okIb11z8czxvxoEg"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Luzbelito",
-        "url": "https://open.spotify.com/album/6pd1SqXVhDwFIq6R7HL1rW"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 429400,
-      "name": "Juguetes Perdidos",
-      "url": "https://open.spotify.com/track/3TIkut2zp86kcWkzyGEFCS"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Esa Estrella Era Mi Lujo",
-      "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
         "name": "Cordero Atado",
         "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
@@ -1052,148 +1036,76 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 268226,
-      "name": "Ca\u00f1a Seca y un Membrillo",
-      "url": "https://open.spotify.com/track/7w00vSQ15P2c7YnNGC83lN"
+      "duration_ms": 176840,
+      "name": "Yo Can\u00edbal",
+      "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Pajaritos, Bravos Muchachitos",
-        "url": "https://open.spotify.com/album/751S3DWTtH4C5Pfpk4KJ6d"
+        "name": "Vasos Y Besos",
+        "url": "https://open.spotify.com/album/5O8onsit6TM3W7qqxshwqN"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 309920,
-      "name": "Amok! Amok!",
-      "url": "https://open.spotify.com/track/02jTxHibz0SRO4b1OvQ1v2"
+      "duration_ms": 170546,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario (2019 Remasterizado)",
+        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
         }
       ],
-      "duration_ms": 195173,
-      "name": "La Hija del Fletero",
-      "url": "https://open.spotify.com/track/5BQizgx9tskhfxQhjaSSzQ"
+      "duration_ms": 265312,
+      "name": "Viernes, 3AM - 2019 Remasterizado",
+      "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Un Bai\u00f3n para el Ojo Idiota",
-        "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
+        "name": "Billy Bond y la Pesada del Rock And Roll",
+        "url": "https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Billy Bond y La Pesada",
+          "url": "https://open.spotify.com/artist/4Se6WxeebNL0yEAs7NvCMY"
         }
       ],
-      "duration_ms": 348533,
-      "name": "Todo Preso Es Pol\u00edtico",
-      "url": "https://open.spotify.com/track/0iUuCOGuE6aeHjX0GarFC9"
+      "duration_ms": 199653,
+      "name": "Salgan al Sol",
+      "url": "https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Un Bai\u00f3n para el Ojo Idiota",
-        "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 285493,
-      "name": "Masacre en el Puticlub",
-      "url": "https://open.spotify.com/track/375vQvrHqdZrqHb8T39RrI"
+      "duration_ms": 135853,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     },
     {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Superl\u00f3gico",
-      "url": "https://open.spotify.com/track/2CCJ1YRPIk7c2VtRL8JMhg"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "El Perfume de la Tempestad",
-        "url": "https://open.spotify.com/album/54Tzuw0docS29npLiT9D3A"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 284453,
-      "name": "Vino Mariani",
-      "url": "https://open.spotify.com/track/0xGSiwUnTj67qZxpdipvxQ"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Tarea Fina",
-      "url": "https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
-      "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Etiqueta Negra",
-      "url": "https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm"
-    },
-    {
-      "added_at": "2026-06-05 18:44:02",
+      "added_at": "2024-11-11 16:58:11",
       "album": {
         "name": "Un Bai\u00f3n para el Ojo Idiota",
         "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
@@ -1204,9 +1116,25 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 440560,
-      "name": "Todo un Palo",
-      "url": "https://open.spotify.com/track/0HQMAExgp4BiKGq6UM3u9X"
+      "duration_ms": 208400,
+      "name": "Vencedores Vencidos",
+      "url": "https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Pappo's Blues, Vol. 8: Caso Cerrado",
+        "url": "https://open.spotify.com/album/3tMA4MFLKNJUDJuvQAoPpk"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "duration_ms": 186911,
+      "name": "Ruta 66",
+      "url": "https://open.spotify.com/track/4gN4cSdHUbd6eLzkWL1vdI"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

@@ -4797,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Gbemiwo (Live)",
+        "url": "https://open.spotify.com/album/7bnrsvw3HAUm0NfLLAbggy"
+      },
+      "artists": [
+        {
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 763219,
+      "name": "Gbemiwo - Live",
+      "url": "https://open.spotify.com/track/0Xz9wb0uARMUcKKjcMY4uD"
+    },
+    {
+      "album": {
         "name": "Give Me Chance",
         "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
       },
@@ -6188,7 +6206,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 728857,
       "name": "Holy Holy Holy",
       "url": "https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7"
@@ -10052,7 +10070,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 852000,
       "name": "MOUNTAINS TREMBLE - Live",
       "url": "https://open.spotify.com/track/1JiH8Y5VAjuGmkcYPIHAaq"
@@ -16702,6 +16720,24 @@
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+    },
+    {
+      "album": {
+        "name": "You Are Worthy",
+        "url": "https://open.spotify.com/album/6kKGBL4RrqvY1H3LZeDwqn"
+      },
+      "artists": [
+        {
+          "name": "E-Daniels",
+          "url": "https://open.spotify.com/artist/03upCtYnA658rlthncydHW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/0KvOZwao4GyQ1WZm56EFx0"
     },
     {
       "album": {

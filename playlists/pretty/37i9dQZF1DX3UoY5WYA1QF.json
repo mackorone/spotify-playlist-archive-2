@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 194251,
+  "num_followers": 194284,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -438,15 +438,11 @@
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 196240,
-      "name": "La Seven",
-      "url": "https://open.spotify.com/track/0H7ECz8veQKTVvi0fctPgs"
+      "duration_ms": 215000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -483,22 +479,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "En Un Hilo",
-      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje a un Poeta",
         "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
       },
@@ -515,6 +495,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "En Un Hilo",
+      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -522,11 +518,15 @@
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG"
+      "duration_ms": 196240,
+      "name": "La Seven",
+      "url": "https://open.spotify.com/track/0H7ECz8veQKTVvi0fctPgs"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -639,22 +639,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mil Navajas",
-        "url": "https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs"
+        "name": "Mi Guitarra y Yo Vol. 3",
+        "url": "https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Mil Navajas",
-      "url": "https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ"
+      "duration_ms": 330696,
+      "name": "Manuel Juarez",
+      "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -691,18 +687,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mi Guitarra y Yo Vol. 3",
-        "url": "https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL"
+        "name": "Mil Navajas",
+        "url": "https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 330696,
-      "name": "Manuel Juarez",
-      "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
+      "duration_ms": 178000,
+      "name": "Mil Navajas",
+      "url": "https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
         }
       ],
-      "duration_ms": 182099,
-      "name": "Aunque Me Duela El Alma",
-      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
+      "duration_ms": 164440,
+      "name": "Contando Penas",
+      "url": "https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Contando Penas",
-      "url": "https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe"
+      "duration_ms": 182099,
+      "name": "Aunque Me Duela El Alma",
+      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 205906,
-      "name": "Los Cazahuates",
-      "url": "https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6"
+      "duration_ms": 206306,
+      "name": "Amor Sin Cuenta",
+      "url": "https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1656,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Amor Sin Cuenta",
-      "url": "https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU"
+      "duration_ms": 205906,
+      "name": "Los Cazahuates",
+      "url": "https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6"
     },
     {
       "added_at": "2024-07-12 06:00:00",

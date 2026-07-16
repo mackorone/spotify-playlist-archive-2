@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Akbar Chalay, Mingse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,584 likes - 98 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510,846 likes - 98 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

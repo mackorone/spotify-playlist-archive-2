@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,077 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,079 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 46 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
 | 47 | [Soñar](https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Soñar](https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k) | 3:29 |
 | 48 | [Aquí Estamos](https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Aquí Estamos](https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s) | 3:03 |
-| 49 | [El Problema Eras Tú](https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Problema Eras Tú](https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd) | 3:12 |
-| 50 | [PILLS](https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9) | 3:07 |
+| 49 | [PILLS](https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9) | 3:07 |
+| 50 | [El Problema Eras Tú](https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Problema Eras Tú](https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd) | 3:12 |
 
-Snapshot ID: `alQqgAAAAADXf6xcDzU43RpwKJfv56Y4`
+Snapshot ID: `alV8AAAAAABFFdyo5RrED280sMDKt1Oy`

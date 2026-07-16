@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568 likes - 141 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 567 likes - 141 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 83 | [bodytalk](https://open.spotify.com/track/4rrqU96CxRTeKGt342pRsN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:27 |
 | 84 | [falling up](https://open.spotify.com/track/7mZGZjiVK1buBSwRhOEnpN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:57 |
 | 85 | [Selfish](https://open.spotify.com/track/49AmjLr38cCCe8gqVGJ6YF) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:56 |
-| 86 | [Careless \(feat\. CHIIILD\)](https://open.spotify.com/track/3VB6d1KOFGhSOMqbwveW1k) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:23 |
-| 87 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 |
+| 86 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 |
+| 87 | [Careless \(feat\. CHIIILD\)](https://open.spotify.com/track/3VB6d1KOFGhSOMqbwveW1k) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:23 |
 | 88 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 |
 | 89 | [Whatta Night](https://open.spotify.com/track/5s9Mej8j5JhpoD6IAWDM9e) | [Ricky J](https://open.spotify.com/artist/4p1VIazDqCs6DKQndCEg1A) | [Whatta Night](https://open.spotify.com/album/2iYs3FFkrQrVjw4tSfFKlg) | 3:41 |
 | 90 | [Flagrant AF](https://open.spotify.com/track/6UiNzz6WZMWYoGSnrPwrbe) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Orenjii](https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW) | 2:59 |
@@ -142,12 +142,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 132 | [The Quiet Pulse](https://open.spotify.com/track/5faV1ZgjUr5LSGYH2cwyej) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0RUIhDkxPVjAjUXawRmjgn) | 5:15 |
 | 133 | [Looping Resolutions](https://open.spotify.com/track/10eHIiQpmnKqGg95WAGPdV) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0RUIhDkxPVjAjUXawRmjgn) | 4:19 |
 | 134 | [A Breath Between Stars](https://open.spotify.com/track/1W6ZJhC7JhQLi1tj8rH5LM) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0RUIhDkxPVjAjUXawRmjgn) | 2:17 |
-| 135 | [Iridescence](https://open.spotify.com/track/7Cbrbid2jvK750deQKCWR8) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:11 |
-| 136 | [In The End](https://open.spotify.com/track/7ecMwpiXFNp8WGzKtzXCyB) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:23 |
+| 135 | [In The End](https://open.spotify.com/track/7ecMwpiXFNp8WGzKtzXCyB) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:23 |
+| 136 | [Iridescence](https://open.spotify.com/track/7Cbrbid2jvK750deQKCWR8) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:11 |
 | 137 | [Atelier](https://open.spotify.com/track/5YwvpHa4NdHRUelKH0iRmu) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:21 |
 | 138 | [Washing Through](https://open.spotify.com/track/6jCzPwEvd0KtBbBdymiGeQ) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:28 |
 | 139 | [Avant Garde](https://open.spotify.com/track/3MNBgKpzUwR2kFfxAtaiGR) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:58 |
 | 140 | [Aquatic Reflections](https://open.spotify.com/track/5qnES870WffOrO2s0iG8SM) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:03 |
 | 141 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AcW3NgAAAADkm3dmrq3CWHQZme6kuYi5`
+Snapshot ID: `AcW9EgAAAACh2njoNJwHhXbS3PZwp9T7`

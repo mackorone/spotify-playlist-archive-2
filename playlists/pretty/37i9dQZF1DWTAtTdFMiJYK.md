@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Mary Ann Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,805 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,951 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 52 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav](https://open.spotify.com/artist/1S7onr5TrZWAXIWUO2BhNG) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
 | 53 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 | 54 | [Ab Na Laut Paayenge](https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:02 |
-| 55 | [Aao Na](https://open.spotify.com/track/3E5paqQcR3TyAhvVxdnWqo) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aasmani](https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN) | 5:40 |
-| 56 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
+| 55 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
+| 56 | [Aao Na](https://open.spotify.com/track/3E5paqQcR3TyAhvVxdnWqo) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aasmani](https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN) | 5:40 |
 | 57 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 58 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 59 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 69 | [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 |
 | 70 | [Mulaqaat](https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Mulaqaat](https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe) | 3:31 |
 | 71 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Tanmay Maheshwari](https://open.spotify.com/artist/5pEYLd9VildKNA7qUa6SEs) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
-| 72 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
-| 73 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
+| 72 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
+| 73 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
 | 74 | [Ishq X Ranjha](https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo) | [Khotu Kharkhada](https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ) | [Ishq X Ranjha](https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6) | 2:31 |
 | 75 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
 

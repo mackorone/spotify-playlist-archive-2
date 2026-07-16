@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2487523,
+  "num_followers": 2487618,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Pool (Gravagerz Version)",
-        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        },
-        {
-          "name": "kiki wera",
-          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Pool - Gravagerz Version",
-      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Pool (Gravagerz Version)",
+        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        },
+        {
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Pool - Gravagerz Version",
+      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 148930,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "Mydnight",
         "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 189223,
       "name": "It's A Feeling",
       "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Lucky (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Lucky (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "Every Cloud - Silver Linings",
         "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 190609,
       "name": "Feels This Good",
       "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Lucky (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 127380,
+      "name": "Lucky (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2651,22 +2651,18 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Zou bisou bisou",
-        "url": "https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2yZDkDb0FqsCqnPJeKNDzO"
       },
       "artists": [
         {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        },
-        {
-          "name": "Gillian Hills",
-          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
         }
       ],
-      "duration_ms": 147857,
-      "name": "Zou bisou bisou",
-      "url": "https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM"
+      "duration_ms": 154804,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/4p7iocuzpoJgTLC1TLd2PZ"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2695,18 +2691,22 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2yZDkDb0FqsCqnPJeKNDzO"
+        "name": "Zou bisou bisou",
+        "url": "https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe"
       },
       "artists": [
         {
-          "name": "XANDRA",
-          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        },
+        {
+          "name": "Gillian Hills",
+          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
         }
       ],
-      "duration_ms": 154804,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/4p7iocuzpoJgTLC1TLd2PZ"
+      "duration_ms": 147857,
+      "name": "Zou bisou bisou",
+      "url": "https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2787,6 +2787,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/6rkguXAldm7dTMZjRkxF8C"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 201512,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/4LcgxmRpL6JlZiE0LjMWAd"
       },
@@ -2807,26 +2827,6 @@
       "duration_ms": 151935,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7MEGnPUY4dLQz3gvY212jM"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "Need Your Love",
-        "url": "https://open.spotify.com/album/6rkguXAldm7dTMZjRkxF8C"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        },
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        }
-      ],
-      "duration_ms": 201512,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/0AEymXR4R7Qi8nzb2L6zCg"
     },
     {
       "added_at": "2026-07-03 04:00:40",

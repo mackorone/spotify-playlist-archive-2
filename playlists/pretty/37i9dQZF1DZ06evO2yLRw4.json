@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37791,
+  "num_followers": 37794,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAACDrLcl9Txaf4rvRJf7+pM1",
+  "snapshot_id": "alV8AAAAAAAH3KRo2rFlDINDzIRdgvVL",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Jump on My Shoulders",
+      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Material Girl (feat. Taylor Hanson of Hanson)",
         "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 249240,
       "name": "Material Girl (feat. Taylor Hanson of Hanson)",
       "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Jump on My Shoulders",
-      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Take A Chance On Me (feat. Jewel)",
+      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here Come the Runts",
         "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 215849,
       "name": "flagpole sitta",
       "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "Take A Chance On Me (feat. Jewel)",
-      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
     },
     {
       "added_at": null,

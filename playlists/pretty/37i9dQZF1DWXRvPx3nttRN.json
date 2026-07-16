@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 617648,
+  "num_followers": 617684,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "All My Broken Pieces",
+        "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 242220,
+      "name": "All My Broken Pieces",
+      "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "All My Broken Pieces",
-        "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 242220,
-      "name": "All My Broken Pieces",
-      "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "All the Little Lights",
         "url": "https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "First Impressions",
         "url": "https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 216373,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
-      },
-      "artists": [
-        {
-          "name": "Noah Guthrie",
-          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
-        }
-      ],
-      "duration_ms": 233377,
-      "name": "Set Fire To The Rain",
-      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Stolen Dance",
         "url": "https://open.spotify.com/album/0Gl21cv3eR8SLk2AVR1sMr"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
+      },
+      "artists": [
+        {
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
+        }
+      ],
+      "duration_ms": 233377,
+      "name": "Set Fire To The Rain",
+      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 225493,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "September Song (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/5jnRfyqVu1M8ATrJ0hOrVD"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7hmcaSpHioj7SGfOU565WI"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1623,22 +1639,6 @@
       "duration_ms": 224560,
       "name": "You Don't Know Me - Acoustic Version",
       "url": "https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "September Song (Guitar Acoustic)",
-        "url": "https://open.spotify.com/album/5jnRfyqVu1M8ATrJ0hOrVD"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7hmcaSpHioj7SGfOU565WI"
     },
     {
       "added_at": "2026-01-26 17:25:39",

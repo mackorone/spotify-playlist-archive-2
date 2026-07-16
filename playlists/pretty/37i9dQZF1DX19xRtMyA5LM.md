@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Mula
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,065 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,045 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
+| 1 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
 | 2 | [Isolator](https://open.spotify.com/track/1qVSOM9AhwOsSqwCoClUCX) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj) | [Isolator](https://open.spotify.com/album/6sLoYje4ZTyPefK7CW2S7V) | 2:29 |
 | 3 | [208 & Polo's](https://open.spotify.com/track/4EfuG976Yv7VEErj0Bm3mb) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz), [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [208 & Polo's](https://open.spotify.com/album/46Ycvv7AA0SC0ndjzgdSFY) | 2:20 |
 | 4 | [HOTBOY](https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [GEM\-Z II](https://open.spotify.com/album/4uDJoGtxwEjbNaH8rsj7Zu) | 2:34 |

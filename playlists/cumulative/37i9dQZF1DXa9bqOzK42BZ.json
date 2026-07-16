@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "The best of Swahili gospel music. Cover: Moses Luka",
+  "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks.Cover: Moses Luka",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 271515,
       "name": "Chimbua",
       "url": "https://open.spotify.com/track/1G47QtLMdKiyV6LTUHsJHJ"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 293052,
       "name": "I Believe In God",
       "url": "https://open.spotify.com/track/3eyQZroKBvbwuGObbhyeAN"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 870000,
       "name": "Ila Yesu 2.0",
       "url": "https://open.spotify.com/track/4Wn56Oxveq87wGPDClhfLz"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 202945,
       "name": "Love",
       "url": "https://open.spotify.com/track/60HRNzRXPvqmwcI5F9HFHi"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 334053,
       "name": "Makatangirwa neDare",
       "url": "https://open.spotify.com/track/6zkhthljl0RPIfHPEoKZEc"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 234545,
       "name": "Mtoto Wa Mfalme",
       "url": "https://open.spotify.com/track/2MhzmEmdvQpmp9SXRgbofT"
@@ -3222,6 +3222,28 @@
       "duration_ms": 180302,
       "name": "NACHEZA",
       "url": "https://open.spotify.com/track/0SroOTkCo1Dzp2USuVVb8G"
+    },
+    {
+      "album": {
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/4PX1iirJp3PCFrrO5b5MZB"
+      },
+      "artists": [
+        {
+          "name": "Pitson",
+          "url": "https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM"
+        },
+        {
+          "name": "Timeless Noel",
+          "url": "https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231356,
+      "name": "Najificha Kwako",
+      "url": "https://open.spotify.com/track/16fckdlgZbO2M2z85Jvl2Z"
     },
     {
       "album": {
@@ -3985,6 +4007,40 @@
     },
     {
       "album": {
+        "name": "Final Say",
+        "url": "https://open.spotify.com/album/23rxPf1cZ6Ejb6VwpjPs6B"
+      },
+      "artists": [
+        {
+          "name": "Dj Kezz",
+          "url": "https://open.spotify.com/artist/74ck5RzqcEA7ahwPOI2FTg"
+        },
+        {
+          "name": "Benachi",
+          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
+        },
+        {
+          "name": "Jabidii",
+          "url": "https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU"
+        },
+        {
+          "name": "Timeless Noel",
+          "url": "https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE"
+        },
+        {
+          "name": "Didi Man",
+          "url": "https://open.spotify.com/artist/0u3gmLk5tQKe5RZ6Ace57A"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Nipange",
+      "url": "https://open.spotify.com/track/1rMkWcMr3iUtDfULG76A3B"
+    },
+    {
+      "album": {
         "name": "Nipe Kushinda",
         "url": "https://open.spotify.com/album/3TjTcm73Kxrd5humui07fx"
       },
@@ -4384,7 +4440,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/3nfgmQb4m4oHcgbRqqNhuQ"
@@ -4830,7 +4886,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 301757,
       "name": "Shuka Tukuone",
       "url": "https://open.spotify.com/track/3SdAyRhdxFiSf1w6vwr6yX"
@@ -5062,7 +5118,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 205500,
       "name": "Sina",
       "url": "https://open.spotify.com/track/4MCpezgY7YBrYRIVSbXNdk"
@@ -6574,7 +6630,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 418952,
       "name": "Wimbo Wa Sifa",
       "url": "https://open.spotify.com/track/2Y5aUvP2asWvWHKll6oZPw"

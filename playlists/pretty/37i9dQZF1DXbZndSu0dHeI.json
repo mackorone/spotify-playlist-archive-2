@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234179,
+  "num_followers": 234176,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Crash Landing",
-        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 334216,
-      "name": "Crash Landing",
-      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "unposted letters",
         "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Crash Landing",
+        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 334216,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "From the Night",
         "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -843,22 +859,6 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Don't Think of Kissing You",
-        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "I Don't Think of Kissing You",
-      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Don't Think of Kissing You",
+        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 169124,
+      "name": "I Don't Think of Kissing You",
+      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sink Into Me",
-        "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
-      },
-      "artists": [
-        {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
-        }
-      ],
-      "duration_ms": 158789,
-      "name": "Sink Into Me",
-      "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Grenadine",
         "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 188777,
       "name": "Grenadine",
       "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sink Into Me",
+        "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
+      },
+      "artists": [
+        {
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+        }
+      ],
+      "duration_ms": 158789,
+      "name": "Sink Into Me",
+      "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Minnie",
-      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 146811,
       "name": "Margaux",
       "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Minnie",
+      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Nosebleed",
-        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Nosebleed",
-      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "it's a landslide",
         "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Virgin Lake",
-        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
       "artists": [
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 265906,
-      "name": "Dog Bite",
-      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
+      "duration_ms": 206573,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 282529,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Virgin Lake",
+        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "Dog Bite",
+      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sad Summer",
-        "url": "https://open.spotify.com/album/3gX6kR3RhrMDD6P6gh03dI"
-      },
-      "artists": [
-        {
-          "name": "sundayclub",
-          "url": "https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Sad Summer",
-      "url": "https://open.spotify.com/track/1BK4EhT0zIW5FoD4LQRD4b"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Pushing Away",
         "url": "https://open.spotify.com/album/7fRtWwMStVuMJxAi0BbkP1"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 250921,
       "name": "Pushing Away",
       "url": "https://open.spotify.com/track/0Ki52CntVcVTfR9XU9E5cA"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sad Summer",
+        "url": "https://open.spotify.com/album/3gX6kR3RhrMDD6P6gh03dI"
+      },
+      "artists": [
+        {
+          "name": "sundayclub",
+          "url": "https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Sad Summer",
+      "url": "https://open.spotify.com/track/1BK4EhT0zIW5FoD4LQRD4b"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Please, Don't Wake Me",
         "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 219406,
       "name": "Please, Don't Wake Me",
       "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     },
     {
       "added_at": "2026-06-18 23:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,132 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,149 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 24 | [Jahreszeiten](https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Jahreszeiten](https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm) | 3:22 |
 | 25 | [Was müssen das für Bäume sein](https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:18 |
 | 26 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 |
-| 27 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
+| 27 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz), [Michel aus Lönneberga](https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
 | 28 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
-| 29 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz), [Michel aus Lönneberga](https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
+| 29 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
 | 30 | [Sommerkinder](https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 2:58 |
 | 31 | [Ab zum Meer / Към морето](https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU) | [Ab zum Meer / Към морето](https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg) | 1:59 |
 | 32 | [Ferien / Vacanza](https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Vanessa Civiello](https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu), [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR) | [Ferien / Vacanza](https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99) | 2:44 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 |
 | 46 | [Das Lied Vom Sommer](https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 1:56 |
 | 47 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
-| 48 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
+| 48 | [Gute Laune](https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommer\-Hits zum Tanzen](https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk) | 2:54 |
 | 49 | [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 |
-| 50 | [Urlaub unter Freunden](https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR) | [Die Lollipops](https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt) | [Zusammen sind wir doppelt stark\-Unser Freundschaftsalbum](https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS) | 3:33 |
+| 50 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
 
 Snapshot ID: `AAAAAH0XyCCHp8jOPPm05kGyg9JjuEp5`

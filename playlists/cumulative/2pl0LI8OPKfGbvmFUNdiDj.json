@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Gamers",
+        "url": "https://open.spotify.com/album/4TDXJxqqHRtzFIKkx9ie4a"
+      },
+      "artists": [
+        {
+          "name": "Chaz",
+          "url": "https://open.spotify.com/artist/0AMUMmgDk8XcRVkWwT3xpH"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136891,
+      "name": "Belmont's Burden",
+      "url": "https://open.spotify.com/track/6JtTuNBzGGY9XCoosrEW58"
+    },
+    {
+      "album": {
         "name": "Best Year Yet",
         "url": "https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq"
       },
@@ -4732,6 +4750,24 @@
       "duration_ms": 182774,
       "name": "La valiente",
       "url": "https://open.spotify.com/track/7hojzEYFzsIFNcsoD8ElWD"
+    },
+    {
+      "album": {
+        "name": "Lagrimas sobre mi tumba",
+        "url": "https://open.spotify.com/album/30xueizYmcjpbJmsK4ZhXx"
+      },
+      "artists": [
+        {
+          "name": "mediopelo",
+          "url": "https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214794,
+      "name": "Lagrimas sobre mi tumba",
+      "url": "https://open.spotify.com/track/0Gnmrekg0aorhYHSORyoa5"
     },
     {
       "album": {

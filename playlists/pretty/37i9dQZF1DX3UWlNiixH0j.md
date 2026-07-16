@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: maya ongaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,381 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,403 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 30 | [Blowin' in the wind](https://open.spotify.com/track/3pX7LCfjLdNyjLckacqHEM) | [踊ってばかりの国](https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2) | [PRISM](https://open.spotify.com/album/77xStIktKVvZe3PpbGS8xr) | 3:37 |
 | 31 | [夏休み](https://open.spotify.com/track/0U3CUep0YzWLoV7qDMxicJ) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [夏休み](https://open.spotify.com/album/0EZse5Ny7w2FBOXYeks8zp) | 2:45 |
 | 32 | [右目に稲妻](https://open.spotify.com/track/5lafnugWrfK5XuP9AYYZ3p) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [良くなった動物](https://open.spotify.com/album/1fvgKlQKtpUOtL07PQKqNX) | 3:47 |
-| 33 | [Aftertaste \- feat\. REJAY](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste \(feat\. REJAY\)](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 |
+| 33 | [Aftertaste](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 |
 | 34 | [anna's cradle](https://open.spotify.com/track/7AzVw9WvgdfNxn5VUdm6fj) | [brooks](https://open.spotify.com/artist/5hWZ3CvDbIPVZd3TnnzEL4) | [anna's cradle](https://open.spotify.com/album/0UWcWvzU9PMIW7nbiJW6Xt) | 4:09 |
 | 35 | [ビーナスライン](https://open.spotify.com/track/7aaVjsLZynEn4Z9fv55kaS) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [ビーナスライン](https://open.spotify.com/album/7tNoHuchIg8x1UtCCyv7HP) | 4:05 |
 | 36 | [If I](https://open.spotify.com/track/7sScucBpMHkMpQfz3BSvZn) | [Tosh Kugai](https://open.spotify.com/artist/126cRjPdUieqrzqLywzzdE) | [If I](https://open.spotify.com/album/4flBn0hPOgbKve8cODMTcU) | 3:30 |

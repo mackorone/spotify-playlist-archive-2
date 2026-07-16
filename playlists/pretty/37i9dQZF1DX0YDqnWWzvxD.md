@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,327 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,440 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 |
 | 2 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 |
-| 3 | [Gratitude at 432 Hz](https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:56 |
-| 4 | [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 |
+| 3 | [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 |
+| 4 | [Gratitude at 432 Hz](https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:56 |
 | 5 | [Gahar Saans Lene](https://open.spotify.com/track/1IN5GXBfxjj9AChKNxBIxY) | [Yog Sthaan](https://open.spotify.com/artist/3WT6T8U794GLy6Y5KQ22Mq) | [Gahar Saans Lene](https://open.spotify.com/album/6trlusMhaofoMrErS0kezO) | 3:31 |
 | 6 | [Fountain Of Calmness](https://open.spotify.com/track/1BcSsY73b8jCwC57mpu1Xk) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Fountain Of Calmness](https://open.spotify.com/album/5Q87MNpqzebIdfCoWTSSOS) | 3:26 |
 | 7 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 43 | [In A River](https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [David Peter Vestin](https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3) | [In A River](https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a) | 2:01 |
 | 44 | [Between the Worlds Yoga Nidra \- Sunset Flow](https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 7:51 |
 | 45 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
-| 46 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
-| 47 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
-| 48 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
+| 46 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
+| 47 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
+| 48 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
 | 49 | [Grounded](https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb) | 9:31 |
 | 50 | [Breath Exercises for Deep The Slow Fade](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Selene Noor](https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi) | [Moon Descent Introspection](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
 | 51 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |

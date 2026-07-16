@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 383156,
+  "num_followers": 383200,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Quem Te Guarda \u00c9 Deus",
+        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quem Te Guarda \u00c9 Deus",
+      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Carta de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Quem Te Guarda \u00c9 Deus",
-        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Quem Te Guarda \u00c9 Deus",
-      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
+      "duration_ms": 222607,
+      "name": "Encaixe",
+      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -471,22 +487,6 @@
       "duration_ms": 236013,
       "name": "Meu Barquinho",
       "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 222607,
-      "name": "Encaixe",
-      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Doce Presen\u00e7a",
-        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 247104,
-      "name": "Doce Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
         "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 285000,
       "name": "Estou Com Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
+        "name": "Doce Presen\u00e7a",
+        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 247104,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Acoustic Session, Vol. 01",
         "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 342250,
       "name": "A Casa \u00c9 Sua - Acoustic Session",
       "url": "https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2026-03-13 19:15:18",

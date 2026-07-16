@@ -1,6 +1,6 @@
 {
   "description": "Una noche en el Patio con Daniela, Lupita, Dulce y Yuri \ud83c\udf78",
-  "num_followers": 957578,
+  "num_followers": 957610,
   "original_name": "Modo Mentiras",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-06-20 20:01:19",
       "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/5mCOLMlKhKh5kSbN0Hzt41"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 253178,
+      "name": "Mentiras I",
+      "url": "https://open.spotify.com/track/2inQuIiMh57WacRsHO6xkF"
+    },
+    {
+      "added_at": "2025-06-20 20:01:19",
+      "album": {
         "name": "Sus Mas Grandes Exit",
         "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 304200,
       "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
       "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
-    },
-    {
-      "added_at": "2025-06-20 20:01:19",
-      "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/5mCOLMlKhKh5kSbN0Hzt41"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 253178,
-      "name": "Mentiras I",
-      "url": "https://open.spotify.com/track/2inQuIiMh57WacRsHO6xkF"
     },
     {
       "added_at": "2025-06-20 20:01:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,877 likes - 72 songs - 4 hr 51 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,881 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 70 | [Como Sera](https://open.spotify.com/track/17J86ythoMOl6Q5hKthhwA) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Como Sera](https://open.spotify.com/album/1ibAeEOqX8POmpxarOOczD) | 4:17 |
 | 71 | [Stay](https://open.spotify.com/track/5ih4AstOk7fxbPIDJZ45pi) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 5:25 |
 | 72 | [IN THE VERGE OF IT ALL](https://open.spotify.com/track/0eoUUP4H9Fpz6egFIx5Go2) | [Saint Capella](https://open.spotify.com/artist/19TrT7HHvfKG0DBhffPMbt) | [THE ABSENCE OF COLOR](https://open.spotify.com/album/5kyBd8JlQ6UGO4XxBSqY0M) | 2:57 |
+| 73 | [DISDAINED:REANIMATED](https://open.spotify.com/track/0QCQ8vdVwTVj3uzte89TCi) | [Soulbloom](https://open.spotify.com/artist/5zDTFu6FMdanKfmNNVvPiW) | [DISDAINED:REANIMATED](https://open.spotify.com/album/0L5E3eEcCcrK1Z1TZIyQYF) | 2:25 |
+| 74 | [Haga Lo Que Haga](https://open.spotify.com/track/7rtCC8R2Id26sFryZuO13A) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Haga Lo Que Haga](https://open.spotify.com/album/1VKklGTrS2IZ2HlskmH7Ql) | 2:34 |
+| 75 | [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 |
 
-Snapshot ID: `AAAMBVHEGS1vw6y657a3A9zvWT5wi3VR`
+Snapshot ID: `AAAMCBHrxvRwLL204VmHnSQDNTf76B0X`

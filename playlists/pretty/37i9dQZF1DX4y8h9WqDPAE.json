@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Omarion",
-  "num_followers": 4239,
+  "num_followers": 4247,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
-      "added_at": "2025-04-11 05:44:31",
-      "album": {
-        "name": "DEEP IN YOUR SOUL",
-        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
-      },
-      "artists": [
-        {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
-        }
-      ],
-      "duration_ms": 191515,
-      "name": "DEEP IN YOUR SOUL",
-      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
-    },
-    {
       "added_at": "2025-10-24 09:40:36",
       "album": {
         "name": "PHOLKS",
@@ -1869,20 +1853,20 @@
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
-      "added_at": "2025-09-06 03:04:45",
+      "added_at": "2025-04-11 05:44:31",
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+        "name": "DEEP IN YOUR SOUL",
+        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
         }
       ],
-      "duration_ms": 201119,
-      "name": "ALL THE WAY",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e"
+      "duration_ms": 191515,
+      "name": "DEEP IN YOUR SOUL",
+      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
     },
     {
       "added_at": "2026-02-06 08:23:32",
@@ -1903,6 +1887,22 @@
       "duration_ms": 135133,
       "name": "Piece of You (with Giveon)",
       "url": "https://open.spotify.com/track/5e4cPfjt4pEeNvik5Ld3df"
+    },
+    {
+      "added_at": "2025-09-06 03:04:45",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 201119,
+      "name": "ALL THE WAY",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2413,22 +2413,6 @@
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
     },
     {
-      "added_at": "2026-05-08 05:33:09",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
-    },
-    {
       "added_at": "2025-11-14 11:13:06",
       "album": {
         "name": "Finally Over It",
@@ -2445,40 +2429,20 @@
       "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
-      "added_at": "2026-03-27 06:15:19",
+      "added_at": "2026-05-08 05:33:09",
       "album": {
-        "name": "Up Out & Gone",
-        "url": "https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Up Out & Gone",
-      "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
-    },
-    {
-      "added_at": "2026-03-27 06:15:19",
-      "album": {
-        "name": "$TILL PAID",
-        "url": "https://open.spotify.com/album/2HrOxwGUV3bk56mynG4NpK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 169609,
-      "name": "PALO $ANTO (with Stormzy)",
-      "url": "https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31"
+      "duration_ms": 198095,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
     },
     {
       "added_at": "2025-08-22 10:10:54",
@@ -2501,6 +2465,26 @@
       "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
     },
     {
+      "added_at": "2026-03-27 06:15:19",
+      "album": {
+        "name": "$TILL PAID",
+        "url": "https://open.spotify.com/album/2HrOxwGUV3bk56mynG4NpK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 169609,
+      "name": "PALO $ANTO (with Stormzy)",
+      "url": "https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31"
+    },
+    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "BACKWARD",
@@ -2515,6 +2499,22 @@
       "duration_ms": 166687,
       "name": "THEMSELVES",
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
+      "added_at": "2026-03-27 06:15:19",
+      "album": {
+        "name": "Up Out & Gone",
+        "url": "https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Up Out & Gone",
+      "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
     },
     {
       "added_at": "2026-02-01 02:45:05",
@@ -2573,22 +2573,6 @@
       "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
     },
     {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
       "added_at": "2025-07-11 08:16:35",
       "album": {
         "name": "The Mood",
@@ -2623,22 +2607,6 @@
       "duration_ms": 136260,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
-    },
-    {
-      "added_at": "2026-02-20 18:30:52",
-      "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "added_at": "2025-10-17 05:35:16",
@@ -2683,6 +2651,38 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
+    },
+    {
+      "added_at": "2026-02-20 18:30:52",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2025-12-12 05:00:46",

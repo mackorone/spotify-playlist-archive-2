@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : IDIOT!	Peled
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,140 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,144 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 21 | [Kinder](https://open.spotify.com/track/19bc0sQFWkTr9Wp8sfLrf3) | [Amalia Small](https://open.spotify.com/artist/4lXSnNZ4n54sSMFfedgxhc) | [Something New](https://open.spotify.com/album/2t1Vcdz9jrp1I6qSjN76Di) | 4:10 |
 | 22 | [מילים](https://open.spotify.com/track/0H2WRlQmPhIww7r4JNmUJx) | [נוגה בנאי](https://open.spotify.com/artist/2uoNPOJBXOAaJI8O4UomQb) | [החוצה](https://open.spotify.com/album/1aFczNc2iquBlL2368iIQ6) | 3:21 |
 | 23 | [Bridge](https://open.spotify.com/track/74NFC3fU86cULjI9lkMN6A) | [Shir Frum](https://open.spotify.com/artist/31Cz2bC0pRyLQ7Xpsu16L9) | [Bridge](https://open.spotify.com/album/4OeqNwbvSY3NbzzDgKrGgE) | 3:55 |
-| 24 | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD) | 3:11 |
+| 24 | [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 |
 | 25 | [אבל את](https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אבל את](https://open.spotify.com/album/7nVbLJZz5SZXuXccAXnfRr) | 3:49 |
 | 26 | [דמיון חופשי](https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:21 |
 | 27 | [יותר מידי](https://open.spotify.com/track/2HYS3rLZrOD57DsxAgeTym) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [הכל טוב](https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj) | 3:08 |
 | 28 | [אמרתי תודה](https://open.spotify.com/track/7rZMtcxPtHkkXo4qsMGGh8) | [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [אמרתי תודה](https://open.spotify.com/album/7JoSpZ3Kdj37sEV9QHPFPs) | 3:06 |
-| 29 | [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 |
+| 29 | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD) | 3:11 |
 | 30 | [חלמתי שאתה פה](https://open.spotify.com/track/7zpZ8m6qH0NJOgI4NmbtA1) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [חלמתי שאתה פה](https://open.spotify.com/album/4Dt8OsEPKwhPKhNdKTeLwT) | 2:50 |
 | 31 | [בסיבוב](https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [בסיבוב](https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i) | 3:06 |
 | 32 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 43 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Tamir Muskat](https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
 | 44 | [טאם טאם](https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [טאם טאם](https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z) | 2:56 |
 | 45 | [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 |
-| 46 | [כמעט וכאילו](https://open.spotify.com/track/4Pv9IHO3mgrVFT2USdZGan) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמעט וכאילו](https://open.spotify.com/album/2NV2v2cOtEWOSeyqkXJVff) | 4:46 |
-| 47 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
+| 46 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
+| 47 | [כמעט וכאילו](https://open.spotify.com/track/4Pv9IHO3mgrVFT2USdZGan) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמעט וכאילו](https://open.spotify.com/album/2NV2v2cOtEWOSeyqkXJVff) | 4:46 |
 | 48 | [Let Your Love](https://open.spotify.com/track/3gII3Lj0n7eNttRsa9qbn7) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7) | [Hope](https://open.spotify.com/album/0l2nqwARVKUviyTmgFnCyY) | 2:44 |
-| 49 | [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 |
-| 50 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
+| 49 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
+| 50 | [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 |
 
 Snapshot ID: `AAAAAN6+zmNbWPqIZxqap6R5bOuMUASG`

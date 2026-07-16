@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears! ",
-  "num_followers": 325919,
+  "num_followers": 325945,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-25 13:28:22",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2026-06-25 13:28:22",
-      "album": {
         "name": "Marvellous",
         "url": "https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 210561,
       "name": "Marvellous",
       "url": "https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e"
+    },
+    {
+      "added_at": "2026-06-25 13:28:22",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2026-06-25 13:28:22",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-06-25 13:28:22",
       "album": {
-        "name": "Upclose",
-        "url": "https://open.spotify.com/album/2tH2faPDF9YMaviCAAnOIr"
+        "name": "Raw Control",
+        "url": "https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD"
       },
       "artists": [
         {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Upclose",
-      "url": "https://open.spotify.com/track/3OaWtFEtRFGLyNLi7KniS8"
+      "duration_ms": 150988,
+      "name": "Raw Control",
+      "url": "https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop"
     },
     {
       "added_at": "2026-06-25 13:28:22",

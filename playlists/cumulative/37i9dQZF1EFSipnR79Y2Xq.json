@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "DOLIDO Y BANDIDO",
+        "url": "https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "TrAigO",
+      "url": "https://open.spotify.com/track/3HyuKSBFbOgD2Cm2TnJFRi"
+    },
+    {
+      "album": {
         "name": "Medio Borracho",
         "url": "https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc"
       },

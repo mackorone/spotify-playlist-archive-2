@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Kathleen Ivanka
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,090 likes - 99 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,095 likes - 99 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

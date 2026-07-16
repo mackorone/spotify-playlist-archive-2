@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10897,
+  "num_followers": 10899,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAB/83j/XiR5XZX2B4RUc5m0",
+  "snapshot_id": "alV8AAAAAABm9kzkot7KlSjhcs5XMQ9b",
   "tracks": [
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+        "name": "P\u00e4rt: Spiegel im Spiegel",
+        "url": "https://open.spotify.com/album/2F238ewBYteHd1bVVoLvuz"
       },
       "artists": [
         {
@@ -192,17 +192,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Gidon Kremer",
-          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
-        },
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Duo Gazzana",
+          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
         }
       ],
-      "duration_ms": 688413,
-      "name": "Fratres",
-      "url": "https://open.spotify.com/track/7HghA8IIzsVsoF16SNSmbn"
+      "duration_ms": 625986,
+      "name": "Spiegel im Spiegel",
+      "url": "https://open.spotify.com/track/58i6YHZ4xZtxwGMhWVOWFD"
     },
     {
       "added_at": null,
@@ -227,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Spiegel im Spiegel",
-        "url": "https://open.spotify.com/album/2F238ewBYteHd1bVVoLvuz"
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
       "artists": [
         {
@@ -236,13 +232,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Duo Gazzana",
-          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 625986,
-      "name": "Spiegel im Spiegel",
-      "url": "https://open.spotify.com/track/58i6YHZ4xZtxwGMhWVOWFD"
+      "duration_ms": 688413,
+      "name": "Fratres",
+      "url": "https://open.spotify.com/track/7HghA8IIzsVsoF16SNSmbn"
     },
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "Variations for the Healing of Arinushka",
+      "url": "https://open.spotify.com/track/524E2l95o8aWYX1HdVWJJU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
         "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 350626,
       "name": "Es sang vor langen Jahren",
       "url": "https://open.spotify.com/track/3TauBOYLjym8k2aVkDi0f0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "Variations for the Healing of Arinushka",
-      "url": "https://open.spotify.com/track/524E2l95o8aWYX1HdVWJJU"
     },
     {
       "added_at": null,
@@ -507,6 +507,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Alleluia-Tropus",
+      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -531,30 +555,6 @@
       "duration_ms": 285493,
       "name": "F\u00fcr Jan van Eyck",
       "url": "https://open.spotify.com/track/43iHQ7h54AachjoHhJIBEO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Alleluia-Tropus",
-      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
     },
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 650000,
-      "name": "O Holy Father Nicholas",
-      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 566293,
       "name": "Cantique des degr\u00e9s",
       "url": "https://open.spotify.com/track/1NXUKupy1SizGnr4wR9pTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 239206,
+      "name": "Kleine Litanei",
+      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
     },
     {
       "added_at": null,
@@ -699,30 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 239206,
-      "name": "Kleine Litanei",
-      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 296986,
       "name": "Most Holy Mother of God",
       "url": "https://open.spotify.com/track/1dfc3iE4B7OTMAwLYFYYCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 650000,
+      "name": "O Holy Father Nicholas",
+      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
     },
     {
       "added_at": null,
@@ -795,6 +795,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 488706,
+      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
+      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 78760,
       "name": "Greater Antiphons: I. O Wisdom",
       "url": "https://open.spotify.com/track/1u6sBXkpKefzzaxWRnn9fu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 488706,
-      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
-      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
     },
     {
       "added_at": null,
@@ -919,6 +919,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: Choral Music",
+        "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Arvo",
         "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
@@ -932,9 +956,29 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 194480,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
-      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
+      "duration_ms": 87173,
+      "name": "F\u00fcr Anna Maria",
+      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "P\u00e4rt: F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
     },
     {
       "added_at": null,
@@ -963,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Choral Music",
-        "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
       "artists": [
         {
@@ -972,37 +1016,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
-        },
-        {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Morning Star",
-      "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "P\u00e4rt: F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
+      "duration_ms": 97693,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
+      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
     },
     {
       "added_at": null,
@@ -1020,15 +1040,15 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 87173,
-      "name": "F\u00fcr Anna Maria",
-      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
+      "duration_ms": 194480,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
+      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
       "artists": [
         {
@@ -1036,13 +1056,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
         }
       ],
-      "duration_ms": 97693,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
-      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
+      "duration_ms": 466213,
+      "name": "P\u00e4rt: Festina Lente",
+      "url": "https://open.spotify.com/track/2EiFiozvkqxcaO82en4pwx"
     },
     {
       "added_at": null,
@@ -1079,30 +1103,6 @@
       "duration_ms": 576360,
       "name": "Tabula rasa: I. Ludus. Con moto - Live",
       "url": "https://open.spotify.com/track/62a9yYZe25B02RPN8ymjQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
-        }
-      ],
-      "duration_ms": 466213,
-      "name": "P\u00e4rt: Festina Lente",
-      "url": "https://open.spotify.com/track/2EiFiozvkqxcaO82en4pwx"
     },
     {
       "added_at": null,

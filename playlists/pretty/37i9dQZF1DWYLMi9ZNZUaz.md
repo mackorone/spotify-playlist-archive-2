@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,979 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,991 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 47 | [Mắt Bão](https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK) | [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i), [Long Nón Lá](https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB), [Phương Nghiêm](https://open.spotify.com/artist/28GaoT4pqYOP6yiYsIlzay) | [Mắt Bão](https://open.spotify.com/album/0xZX8yjyrkRAVPdasLWNF7) | 4:19 |
 | 48 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
 | 49 | [Chưa Phải Là Yêu](https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z) | [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4) | [Chưa Phải Là Yêu](https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd) | 3:12 |
-| 50 | [Sắp Nổi Tiếng 2](https://open.spotify.com/track/5UUNrCgGtC6JOrATM3y3ZT) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Mắt Nhắm Mắt Mở](https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El) | 3:24 |
+| 50 | [ADAMN](https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [ADAMN](https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB) | 3:43 |
 
 Snapshot ID: `AAAAAKxeY5iNfS5VzYyH4Xd3il3jyYYZ`

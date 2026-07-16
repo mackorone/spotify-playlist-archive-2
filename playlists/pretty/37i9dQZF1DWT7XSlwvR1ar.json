@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2117347,
+  "num_followers": 2117342,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "I'm Not Bothered By The Rain",
-        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
-      },
-      "artists": [
-        {
-          "name": "Eric McEntee",
-          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
-        }
-      ],
-      "duration_ms": 225867,
-      "name": "I'm Not Bothered By The Rain",
-      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 222813,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "I'm Not Bothered By The Rain",
+        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
+      },
+      "artists": [
+        {
+          "name": "Eric McEntee",
+          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
+        }
+      ],
+      "duration_ms": 225867,
+      "name": "I'm Not Bothered By The Rain",
+      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
+        "name": "OptiMYSTIC",
+        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 232754,
+      "name": "OptiMYSTIC",
+      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
         "name": "Dying Star",
         "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
-        "name": "OptiMYSTIC",
-        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 232754,
-      "name": "OptiMYSTIC",
-      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "(watch my moves)",
-        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Floating On A Dream",
         "url": "https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 177720,
       "name": "All Is Well [Feat. Joy Williams]",
       "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Sweet Unknown",
         "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 238933,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
         "name": "Venus in the Zinnia",
         "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 197372,
       "name": "Venus in the Zinnia",
       "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 208083,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "Keep On Dreamin'",
-        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Keep On Dreamin'",
-      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 169186,
       "name": "Radio [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "Keep On Dreamin'",
+        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
     },
     {
       "added_at": "2026-06-26 04:01:32",

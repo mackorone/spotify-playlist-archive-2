@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3600509,
+  "num_followers": 3600386,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Black Caesar",
         "url": "https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+      "duration_ms": 257386,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1676,9 +1676,9 @@
           "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
         }
       ],
-      "duration_ms": 257386,
-      "name": "Ladies",
-      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2213,26 +2213,6 @@
       "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Butler",
-          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 254314,
-      "name": "When Love Comes In",
-      "url": "https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "The Very Best Of Marvin Gaye",
@@ -2251,6 +2231,26 @@
       "duration_ms": 146160,
       "name": "Ain't No Mountain High Enough - Stereo Version",
       "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 254314,
+      "name": "When Love Comes In",
+      "url": "https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
         "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 234093,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
     },
     {
       "added_at": "2023-08-03 17:52:54",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Too Hot To Handle",
-        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Number 1's",
         "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 158040,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Too Hot To Handle",
+        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+        "name": "Penny & the Quarters EP",
+        "url": "https://open.spotify.com/album/7p975H27xl8eGUtIcHXbCv"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Penny & The Quarters",
+          "url": "https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
+      "duration_ms": 160813,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/3ue9zcwNcoYvFqKVjG0C6r"
     }
   ],
   "unique_name": "Feelin' Good",

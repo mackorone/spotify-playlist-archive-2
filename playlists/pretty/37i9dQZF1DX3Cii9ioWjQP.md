@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,833 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,844 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 17 | [Baila, Baila](https://open.spotify.com/track/2splcDjHiK8dj39ZLn6Rrm) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Baila, Baila](https://open.spotify.com/album/7jBDLRqPdmSQM0w8j8xbaP) | 3:08 |
 | 18 | [Coucou](https://open.spotify.com/track/0X5S0n9710zbQgbMurM45J) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Madame Coucou Vol.3](https://open.spotify.com/album/1b27OMnldnCHHcauwsk5T6) | 3:49 |
 | 19 | [What A Wonderful Blue Night \(Feat\. Yun Seokcheol\) \- Bossanova Ver.](https://open.spotify.com/track/0QoGXe1zRzvNsOwbZ3dma6) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:04 |
-| 20 | [Fairy Tale](https://open.spotify.com/track/1Li3lHsdQKNK7xHsgvnhH7) | [한석규](https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR) | [Fairy Tale](https://open.spotify.com/album/2Pij3PvLdtV09XD4CJ7jaJ) | 2:59 |
+| 20 | [Fairy Tale](https://open.spotify.com/track/1Li3lHsdQKNK7xHsgvnhH7) | [Eddie Paper](https://open.spotify.com/artist/0qUAAU6CGmHP8YPQ7slYEs) | [Fairy Tale](https://open.spotify.com/album/2Pij3PvLdtV09XD4CJ7jaJ) | 2:59 |
 | 21 | [Romance.\. \(With Danny Koo\)](https://open.spotify.com/track/1Ia6U6HSebBO6GRZug2iNX) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [a Letter of Romance](https://open.spotify.com/album/6Ie9Ph66tRLid1J4e9jT9Q) | 3:23 |
 | 22 | [Sunshine Anywhere](https://open.spotify.com/track/7oYBZgop71FpNDWjIEChl6) | [Jieun Park](https://open.spotify.com/artist/1D2HmWMeOkEbIgGBcC80I0) | [Sunshine Anywhere](https://open.spotify.com/album/4Y47kiCfO1BGqKhN2NTsu8) | 3:20 |
 | 23 | [Fascination](https://open.spotify.com/track/3Cce15ZRmDB6p41GHiNEP4) | [Haewon Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q) | [Fascination](https://open.spotify.com/album/5bg9moPdC5rl4PEPykc2HU) | 3:25 |

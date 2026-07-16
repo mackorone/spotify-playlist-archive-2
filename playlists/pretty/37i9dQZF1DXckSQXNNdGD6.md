@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Sofía Cristo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,325 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,342 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 11 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |
 | 12 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |
 | 13 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
-| 14 | [V.I.P](https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [V.I.P](https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6) | 2:17 |
+| 14 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
 | 15 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
-| 16 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
+| 16 | [V.I.P](https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [V.I.P](https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6) | 2:17 |
 | 17 | [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 |
 | 18 | [se te ve feliz](https://open.spotify.com/track/7L9ct6NyuHjrU3tO12CJWZ) | [Farga](https://open.spotify.com/artist/17O0sOUnzCVMrJyKrKLYY7) | [ex/cusas](https://open.spotify.com/album/5jHtHGicQinajiAzIcjd5j) | 2:31 |
 | 19 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 37 | [Pantalón](https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [Pantalón](https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU) | 2:05 |
 | 38 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 | 39 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:54 |
-| 40 | [Chocolate](https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4) | [UMEN](https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf), [Cascales](https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X) | [Chocolate](https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw) | 2:52 |
-| 41 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
+| 40 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
+| 41 | [Chocolate](https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4) | [UMEN](https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf), [Cascales](https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X) | [Chocolate](https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw) | 2:52 |
 | 42 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 43 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
 | 44 | [Sant Joan](https://open.spotify.com/track/1gqBsUskpv8WKtoI3958h8) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO), [Triquell](https://open.spotify.com/artist/68CQGYnlJfrMyRcd255jVW) | [Sant Joan](https://open.spotify.com/album/6W8iwoMBIFt5BxU916WDBw) | 2:59 |

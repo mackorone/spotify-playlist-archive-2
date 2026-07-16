@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO3TX5qq/vLSg4sdr4caqw2SItzmC8",
+  "snapshot_id": "AAAO3gDdedU8QFF2uzKjnByKGKqho/In",
   "tracks": [
+    {
+      "added_at": "2026-07-15 08:14:12",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd"
+      },
+      "artists": [
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd"
+        }
+      ],
+      "duration_ms": 442666,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg"
+    },
     {
       "added_at": "2026-07-14 11:09:19",
       "album": {

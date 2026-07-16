@@ -1,6 +1,6 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13470,
+  "num_followers": 13471,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Attentato alla musica italiana",
+        "url": "https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8"
+      },
+      "artists": [
+        {
+          "name": "Lo Stato Sociale",
+          "url": "https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM"
+        }
+      ],
+      "duration_ms": 205530,
+      "name": "Combat pop (ALBI #1)",
+      "url": "https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "Sincero (feat. Morgan)",
         "url": "https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 223426,
       "name": "Sincero (feat. Morgan)",
       "url": "https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "Attentato alla musica italiana",
-        "url": "https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8"
-      },
-      "artists": [
-        {
-          "name": "Lo Stato Sociale",
-          "url": "https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM"
-        }
-      ],
-      "duration_ms": 205530,
-      "name": "Combat pop (ALBI #1)",
-      "url": "https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Controra",
-        "url": "https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd"
-      },
-      "artists": [
-        {
-          "name": "Almamegretta",
-          "url": "https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Mamma Non Lo Sa",
-      "url": "https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Mai dire compilation!",
         "url": "https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 161160,
       "name": "Sugli sugli bane bane",
       "url": "https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Controra",
+        "url": "https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd"
+      },
+      "artists": [
+        {
+          "name": "Almamegretta",
+          "url": "https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Mamma Non Lo Sa",
+      "url": "https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG"
     },
     {
       "added_at": "2026-01-25 23:01:07",

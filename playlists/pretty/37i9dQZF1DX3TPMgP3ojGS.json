@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 480752,
+  "num_followers": 480802,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Brume Matinale",
-        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
-      },
-      "artists": [
-        {
-          "name": "Valter Soll",
-          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
-        }
-      ],
-      "duration_ms": 166910,
-      "name": "Brume Matinale",
-      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "A Time Long Ago",
         "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 135105,
       "name": "A Time Long Ago",
       "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Mare Nostrum",
+        "url": "https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7"
+      },
+      "artists": [
+        {
+          "name": "Lotus Laverne",
+          "url": "https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Mare Nostrum",
+      "url": "https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Mare Nostrum",
-        "url": "https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7"
+        "name": "Brume Matinale",
+        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
       },
       "artists": [
         {
-          "name": "Lotus Laverne",
-          "url": "https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj"
+          "name": "Valter Soll",
+          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
         }
       ],
-      "duration_ms": 195416,
-      "name": "Mare Nostrum",
-      "url": "https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG"
+      "duration_ms": 166910,
+      "name": "Brume Matinale",
+      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Wish Your Way",
         "url": "https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 162624,
       "name": "Wish Your Way",
       "url": "https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
+        }
+      ],
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "The Tree",
-      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "The Tree",
+      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Une histoire d\u2019amour",
+        "url": "https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l"
+      },
+      "artists": [
+        {
+          "name": "Cedric Moulin",
+          "url": "https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3"
+        }
+      ],
+      "duration_ms": 152780,
+      "name": "Une histoire d\u2019amour",
+      "url": "https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Une histoire d\u2019amour",
-        "url": "https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l"
+        "name": "The Sky",
+        "url": "https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg"
       },
       "artists": [
         {
-          "name": "Cedric Moulin",
-          "url": "https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3"
+          "name": "Cary Appleby",
+          "url": "https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR"
         }
       ],
-      "duration_ms": 152780,
-      "name": "Une histoire d\u2019amour",
-      "url": "https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E"
+      "duration_ms": 158750,
+      "name": "The Sky",
+      "url": "https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "The Sky",
-        "url": "https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg"
-      },
-      "artists": [
-        {
-          "name": "Cary Appleby",
-          "url": "https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "The Sky",
-      "url": "https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Winter Unflorished",
         "url": "https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy"
       },
       "artists": [
         {
-          "name": "Logan Jameison",
-          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+          "name": "Cary Appleby",
+          "url": "https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR"
         }
       ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
+      "duration_ms": 162000,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy"
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
       "artists": [
         {
-          "name": "Cary Appleby",
-          "url": "https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR"
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0"
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Kalmte",
-        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
       },
       "artists": [
         {
-          "name": "Barry Hudson-Taylor",
-          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
         }
       ],
-      "duration_ms": 141736,
-      "name": "Languor",
-      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
+      "duration_ms": 185750,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
     }
   ],
   "unique_name": "Coffee and Piano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 💨 featuring MPH
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,682 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,684 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 71 | [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 |
 | 72 | [3am \- Nic Vans Remix](https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Nic Vans](https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4) | [3am \- Nic Vans Remix](https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol) | 2:44 |
 | 73 | [Left Right Center](https://open.spotify.com/track/5mYbB3uF2Yja0CDFj3umYD) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [Left Right Center](https://open.spotify.com/album/3MnNYJROxBY47nBIRU9Flx) | 3:27 |
-| 74 | [i'd hate me 2](https://open.spotify.com/track/2DfwSdlpqtOmErmqAdIUwH) | [Rad Cat](https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f) | [i'd hate me 2](https://open.spotify.com/album/0abVrKZPELc2yOSG0t6L73) | 2:36 |
+| 74 | [i'd hate me 2](https://open.spotify.com/track/2DfwSdlpqtOmErmqAdIUwH) | [rad cat](https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f) | [i'd hate me 2](https://open.spotify.com/album/0abVrKZPELc2yOSG0t6L73) | 2:36 |
 | 75 | [Never Adds Up \(feat\. Inéz\)](https://open.spotify.com/track/0Cum83rmJihiD99CkRmOCn) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Never Adds Up \(feat\. Inéz\)](https://open.spotify.com/album/7IXwcsGgJwo2bHlGFFjkhe) | 2:28 |
 | 76 | [Nothing Left](https://open.spotify.com/track/5ADhevsfCte2OEoI7c5VQi) | [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Nothing Left](https://open.spotify.com/album/6vH9f9hpHsVxs2dUmFc3k8) | 3:11 |
 | 77 | [Log On](https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw) | [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Log On](https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2) | 3:32 |

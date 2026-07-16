@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,146 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,137 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 18 | [La montagne](https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La Montagne](https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P) | 3:04 |
 | 19 | [La mer \- Remasterisé en 2017](https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [1943 \- 1948 \(Remasterisé en 2017\)](https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ) | 3:21 |
 | 20 | [La chanson d'Hélène](https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9) | [Michel Piccoli](https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy), [Philippe Sarde](https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK), [Romy Schneider](https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9) | [Les Choses De La Vie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV) | 2:51 |
-| 21 | [Paroles… paroles…](https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 4:03 |
-| 22 | [À bicyclette](https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand Gold](https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp) | 2:43 |
+| 21 | [À bicyclette](https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand Gold](https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp) | 2:43 |
+| 22 | [Paroles… paroles…](https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 4:03 |
 | 23 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 |
 | 24 | [Salade de fruits](https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq) | [Bourvil](https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm) | [Salade de fruits + 29 succès de Bourvil \(Chanson française\)](https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7) | 3:15 |
 | 25 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 34 | [Paris sera toujours Paris](https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Fleur De Paris](https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc) | 3:14 |
 | 35 | [Tout L'Amour](https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc) | [Dario Moreno](https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF) | [Si Tu Vas A Rio](https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe) | 1:56 |
 | 36 | [Tout va très bien madame la marquise](https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12) | [Ray Ventura](https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO) | [Du Caf' Conc' au Music Hall](https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe) | 3:25 |
-| 37 | [Jolie môme](https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Thank You Ferre](https://open.spotify.com/album/1D8gi44m6PdLBbDGCGwXP6) | 2:38 |
-| 38 | [Mamy Blue](https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Les Plus Grands Succes](https://open.spotify.com/album/0R9eQ7VFLVuTgm8L7v2aoA) | 3:51 |
+| 37 | [Mamy Blue](https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Les Plus Grands Succes](https://open.spotify.com/album/0R9eQ7VFLVuTgm8L7v2aoA) | 3:51 |
+| 38 | [Jolie môme](https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Thank You Ferre](https://open.spotify.com/album/1D8gi44m6PdLBbDGCGwXP6) | 2:38 |
 | 39 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
 | 40 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
 | 41 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 |

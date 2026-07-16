@@ -831,26 +831,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "LIES",
-        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "LIES",
-      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
         "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 152615,
       "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
       "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 199527,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Samen (Niet Alleen)",
         "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 145296,
       "name": "Samen (Niet Alleen)",
       "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "PGS",
-        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
       },
       "artists": [
         {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
         }
       ],
-      "duration_ms": 151016,
-      "name": "PGS",
-      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1511,22 +1515,18 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+        "name": "PGS",
+        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
       },
       "artists": [
         {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
         }
       ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+      "duration_ms": 151016,
+      "name": "PGS",
+      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
     },
     {
       "added_at": "2026-06-11 07:46:46",

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: tickertape
 
-4,561 songs - 10 day 11 hr 36 min
+4,562 songs - 10 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [Criminal \(Edit\)](https://open.spotify.com/track/6PRJqFvs0pATsXCu9qnunc) | [Dorsal Fins](https://open.spotify.com/artist/4EtfwTmKV4RidvzmoM7pL4) | [Criminal](https://open.spotify.com/album/5LHPdvmSob3Bk9hcNrU9Lh) | 3:43 | 2022-04-13 | 2022-05-12 |
 | [criminals](https://open.spotify.com/track/0TaxnxKdYMSF5vRgP68mA6) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [criminals](https://open.spotify.com/album/3YrLhEqAhafHAtuV5OV3QA) | 2:27 | 2022-05-18 | 2022-06-16 |
 | [Crisis](https://open.spotify.com/track/34EvKrNMNWeVDme3kmEPww) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Crisis](https://open.spotify.com/album/59eIIFVDz3nNBTGXZBDShZ) | 3:52 | 2022-06-08 | 2022-07-14 |
+| [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 | 2026-07-14 |  |
 | [Crocodile Tears](https://open.spotify.com/track/3uXA1daLAq7pLyzO8OHDaL) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Better Luck](https://open.spotify.com/album/7wrJUQn6SIe4VVZXycpXa7) | 2:56 | 2025-01-28 | 2025-03-26 |
 | [Crocodile Tears](https://open.spotify.com/track/5MuLkg9Ta7BYWjyEzn2V0H) | [Sacred Hearts](https://open.spotify.com/artist/21eoxj1g6qcneYWQCvflQa) | [Crocodile Tears](https://open.spotify.com/album/2Da3nq0ILrRTB0JzrS7wrT) | 2:34 | 2023-11-22 | 2023-11-30 |
 | [Cross](https://open.spotify.com/track/4apA0WCGptCvCWZ5iyPI5z) | [Perfect 50](https://open.spotify.com/artist/13KYPBw10xl1v2h4m8GHXY) | [the kids are mean to the cat](https://open.spotify.com/album/5H7tIchlXCB6y5wMl04HOB) | 2:34 | 2026-01-20 | 2026-05-20 |

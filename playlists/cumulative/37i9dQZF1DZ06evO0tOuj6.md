@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 53 min
+121 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [カナリヤ鳴く空](https://open.spotify.com/track/6xGoSgYLZ1oSBmCdVlqxnn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 3:58 | 2023-01-14 |  |
 | [カルぺ・ディエム～今日がその日さ](https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 4:56 | 2023-03-19 | 2025-10-19 |
 | [クリスマスカ \(諸人こぞりて\)](https://open.spotify.com/track/1iXpI5zNsSCg9dih1n9l6g) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [東京スカパラダイスオーケストラ](https://open.spotify.com/album/7gKRUkx9rEts3ITxoXj5qP) | 2:12 | 2023-12-23 | 2024-01-12 |
-| [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/3wQ0kDlzmUUEPy8Vt4BhFX) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 3:49 | 2026-04-03 |  |
+| [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/3wQ0kDlzmUUEPy8Vt4BhFX) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 3:49 | 2026-04-03 | 2026-07-16 |
 | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/7JXv8zritDObflbmgZ9dQZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/album/3zbsxwfh22qdpXt73Dmk24) | 3:50 | 2025-07-02 | 2026-04-03 |
 | [グッドラック！マイフレンド \- feat.ムロツヨシ & さかなクン](https://open.spotify.com/track/2xIGpq32I2oPv9KbCy6pQn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr), [Sakanakun](https://open.spotify.com/artist/4rfS2cN7FAWYGN4Fj1ALwR) | [グッドラック！マイフレンド \(feat.ムロツヨシ & さかなクン\)](https://open.spotify.com/album/4cNUIbTzvX4wGau9RtQEgp) | 3:23 | 2026-04-12 |  |
 | [グランドスラム](https://open.spotify.com/track/5ScWpZwjjvFIhuBWARJKgb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:06 | 2024-10-31 | 2025-01-09 |
@@ -82,6 +82,7 @@
 | [トイトイ \- feat.ムロツヨシ](https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [トイトイ \(feat.ムロツヨシ\)](https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA) | 3:44 | 2025-06-26 | 2025-09-20 |
 | [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 | 2023-01-14 |  |
 | [ホール イン ワン](https://open.spotify.com/track/3IKuwIyslLMXxEMkBGwddv) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ワールド フェイマス](https://open.spotify.com/album/3UIdjBKi7li3nuY4c80SQn) | 3:27 | 2026-04-10 | 2026-06-01 |
+| [メモリー・バンド](https://open.spotify.com/track/4diEvg6K2Dwc9v6TRh7QIj) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [メモリー・バンド / This Challenger](https://open.spotify.com/album/20j4kyk9aCIobvHg7BQZzB) | 3:56 | 2026-07-16 |  |
 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 | 2023-12-13 |  |
 | [ルパン三世'78](https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq) | 2:51 | 2023-01-14 |  |
 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 | 2023-01-14 | 2026-03-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9765,
+  "num_followers": 9768,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAALmyVXkvpl3Gl/q4SDjBK9",
+  "snapshot_id": "alV8AAAAAADQx+juz2U5lSCN4luQZalW",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
         "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 199753,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,

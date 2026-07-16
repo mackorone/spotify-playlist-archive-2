@@ -1,13 +1,53 @@
 {
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a",
-  "num_followers": 458812,
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0648\u0648\u0644\u064a\u062a",
+  "num_followers": 458967,
   "original_name": "\u0627\u0644\u062a\u0648\u0628",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOqYhLv7u+SGbbX5OJ7sNVl2CFKZ",
+  "snapshot_id": "AAAAAKOY8E++NE613sWinQgbMSB4zs4G",
   "tracks": [
+    {
+      "added_at": "2026-07-06 19:17:41",
+      "album": {
+        "name": "Garee2a Awy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 158502,
+      "name": "Garee2a Awy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC"
+    },
+    {
+      "added_at": "2026-07-06 17:03:44",
+      "album": {
+        "name": "\u0639\u0645\u0643 \u0648 \u0639\u0645 \u0639\u0645\u0643",
+        "url": "https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        },
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "duration_ms": 182330,
+      "name": "\u0639\u0645\u0643 \u0648 \u0639\u0645 \u0639\u0645\u0643",
+      "url": "https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9"
+    },
     {
       "added_at": "2026-07-06 17:03:44",
       "album": {
@@ -51,26 +91,6 @@
       "duration_ms": 232944,
       "name": "YALLY BEATOUNA",
       "url": "https://open.spotify.com/track/5gaNxPsxNWoDd8Jz5UYPRh"
-    },
-    {
-      "added_at": "2026-07-06 19:17:41",
-      "album": {
-        "name": "Garee2a Awy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 158502,
-      "name": "Garee2a Awy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC"
     },
     {
       "added_at": "2026-07-06 17:03:44",
@@ -145,24 +165,20 @@
       "url": "https://open.spotify.com/track/651btolFg8RZUfRiEl8RQ1"
     },
     {
-      "added_at": "2026-07-06 17:03:44",
+      "added_at": "2026-07-15 11:48:45",
       "album": {
-        "name": "\u0639\u0645\u0643 \u0648 \u0639\u0645 \u0639\u0645\u0643",
-        "url": "https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2"
+        "name": "Tayeh Fel Amaken",
+        "url": "https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32"
       },
       "artists": [
         {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        },
-        {
-          "name": "Essam Sasa",
-          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+          "name": "Nabil",
+          "url": "https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD"
         }
       ],
-      "duration_ms": 182330,
-      "name": "\u0639\u0645\u0643 \u0648 \u0639\u0645 \u0639\u0645\u0643",
-      "url": "https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9"
+      "duration_ms": 229040,
+      "name": "Tayeh Fel Amaken",
+      "url": "https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d"
     },
     {
       "added_at": "2026-07-06 17:03:44",
@@ -203,6 +219,26 @@
       "duration_ms": 230688,
       "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/5fSraLT3P7GXNAktagw6wf"
+    },
+    {
+      "added_at": "2026-07-06 17:03:44",
+      "album": {
+        "name": "Chokran,",
+        "url": "https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        },
+        {
+          "name": "Fares Sokar",
+          "url": "https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw"
+        }
+      ],
+      "duration_ms": 212155,
+      "name": "Estanna,",
+      "url": "https://open.spotify.com/track/1SIUMgwbaOVdSi5CZ4zOc6"
     },
     {
       "added_at": "2026-07-06 17:03:44",
@@ -255,26 +291,6 @@
       "duration_ms": 232411,
       "name": "\u062e\u0644\u064a\u0643 \u0645\u0639\u0627\u064a\u0627",
       "url": "https://open.spotify.com/track/4xjuBQBnXifS3554AAVtop"
-    },
-    {
-      "added_at": "2026-07-06 17:03:44",
-      "album": {
-        "name": "Chokran,",
-        "url": "https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB"
-      },
-      "artists": [
-        {
-          "name": "Tawsen",
-          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
-        },
-        {
-          "name": "Fares Sokar",
-          "url": "https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw"
-        }
-      ],
-      "duration_ms": 212155,
-      "name": "Estanna,",
-      "url": "https://open.spotify.com/track/1SIUMgwbaOVdSi5CZ4zOc6"
     },
     {
       "added_at": "2026-07-06 17:03:44",
@@ -415,22 +431,6 @@
       "duration_ms": 158400,
       "name": "\u0647\u0646\u0627 \u0645\u0635\u0631 \u0647\u0641\u0636\u0644 \u0643\u0644 \u0645\u0631\u0629 \u0627\u062c\u064a\u0644\u0643",
       "url": "https://open.spotify.com/track/6u5F7iulJgzOswzPix4riq"
-    },
-    {
-      "added_at": "2026-07-06 17:03:44",
-      "album": {
-        "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
-        "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 264228,
-      "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
-      "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
     },
     {
       "added_at": "2026-07-06 17:03:44",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-738 songs - 2 day 3 hr 7 min
+739 songs - 2 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 | 2022-09-08 |  |
 | [Blessed](https://open.spotify.com/track/4rKsQBxDysJWqXpY5TAekd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:02 | 2022-09-08 |  |
 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 | 2022-09-08 |  |
-| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 | 2026-07-12 |
+| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 |  |
 | [Blue Wonderful](https://open.spotify.com/track/5goFdE9LTs1r0JgVvOdMZ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:37 | 2022-09-08 |  |
 | [Blues](https://open.spotify.com/track/6SIkDFZKXzXBddYshDrgvl) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Back Country Suite](https://open.spotify.com/album/6Fe7ELZVZw5Qn3vdVtOvvF) | 1:24 | 2026-02-12 |  |
 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 | 2022-09-08 |  |
@@ -313,6 +313,7 @@
 | [I'll Stop Living When You Stop Loving Me \- Piano Demo](https://open.spotify.com/track/6MTdkyCyUn0d2umJWKpuRM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:23 | 2023-05-26 |  |
 | [I'm Going Home \- Piano Demo](https://open.spotify.com/track/3JGVQbfKChxILPc1xJw9HT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:03 | 2022-09-08 |  |
 | [I'm Going To Be A Teenage Idol](https://open.spotify.com/track/6bZ4nYreRpdPikggxXbzc6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 | 2022-09-08 |  |
+| [I'm Still Dancin'](https://open.spotify.com/track/63oJhHgiDZSwVq0d08XbtP) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [I'm Still Dancin'](https://open.spotify.com/album/4mtNLf7BDI6AnQyNWrHnSH) | 2:29 | 2026-07-15 |  |
 | [I'm Still Standing](https://open.spotify.com/track/6bn12F3UPvNnJjJvXXbDIw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [I'm Still Standing](https://open.spotify.com/album/7fUQQWrM4We8t2kcsyIe4h) | 3:02 | 2023-12-14 | 2024-01-31 |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2022-09-08 |  |
 | [I've Been Loving You](https://open.spotify.com/track/7pXAV1MkJRTpYlNtBh8SDe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:17 | 2022-09-08 |  |

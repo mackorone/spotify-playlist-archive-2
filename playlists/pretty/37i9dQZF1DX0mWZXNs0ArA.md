@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,752 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,635 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 56 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
 | 57 | [LOOK DON'T TOUCH \- Sped Up](https://open.spotify.com/track/2m9Ho5nRJ1JwHBmSkzRQQq) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 2:08 |
 | 58 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 |
-| 59 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
-| 60 | [Soaked \- Sped Up](https://open.spotify.com/track/2wHzwFZZ0gMPI9TnfRxq4z) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked \(Sped Up\)](https://open.spotify.com/album/4GrvG3QBiwLAfDEJ1cx2Fn) | 2:43 |
+| 59 | [Soaked \- Sped Up](https://open.spotify.com/track/2wHzwFZZ0gMPI9TnfRxq4z) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked \(Sped Up\)](https://open.spotify.com/album/4GrvG3QBiwLAfDEJ1cx2Fn) | 2:43 |
+| 60 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
 | 61 | [Džanum \- Sped Up](https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum \- Sped up](https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB) | 2:18 |
 | 62 | [Strangers \(feat\. Kenya Grace\) \- Sped Up](https://open.spotify.com/track/2CFl2JZVw74jVO5LTyiim3) | [sped up + nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel), [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(feat\. Kenya Grace\) \[Sped Up\]](https://open.spotify.com/album/3IJLMzgR1r29ij0cxNs5kV) | 2:35 |
 | 63 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 96 | [Perfect Night \(Sped Up ver.\)](https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Remix\)](https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1) | 2:08 |
 | 97 | [if u think i'm pretty \- sped up](https://open.spotify.com/track/1E7s51zCgiSqJhHnFvonAI) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/1sfetA5cWBhbBdIP6qstHo) | 1:40 |
 | 98 | [Murder On The Dancefloor \- Sped Up Version](https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder On The Dancefloor \(Edits\)](https://open.spotify.com/album/54Ch49X0yluaniJTOeMdZF) | 3:13 |
-| 99 | [YOU'RE TOO SLOW \- Sped Up](https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DOOR TO DUSK \(ODECORE MIX\)](https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX) | 1:39 |
-| 100 | [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
+| 99 | [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
+| 100 | [YOU'RE TOO SLOW \- Sped Up](https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DOOR TO DUSK \(ODECORE MIX\)](https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX) | 1:39 |
 
 Snapshot ID: `AAAAAPiHKWK8ByBnTarGuUWbme9mqnlo`

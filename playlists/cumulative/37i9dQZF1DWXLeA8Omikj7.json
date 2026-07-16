@@ -13936,7 +13936,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 337500,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/1sWnKhSzwYXkdS9ri2HwPE"
@@ -14092,6 +14092,32 @@
       "duration_ms": 214408,
       "name": "Opening Act",
       "url": "https://open.spotify.com/track/00wwQihZ4rdkjkfukNhuQj"
+    },
+    {
+      "album": {
+        "name": "Opto Files",
+        "url": "https://open.spotify.com/album/1I5INfKdOaqKdcHQMzCRVP"
+      },
+      "artists": [
+        {
+          "name": "Opto",
+          "url": "https://open.spotify.com/artist/0mdVUK3zymRXiPGQPWw8KX"
+        },
+        {
+          "name": "Opiate",
+          "url": "https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O"
+        },
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308560,
+      "name": "Opto File 1",
+      "url": "https://open.spotify.com/track/23bHroW7btyaM8KlPrCYAO"
     },
     {
       "album": {

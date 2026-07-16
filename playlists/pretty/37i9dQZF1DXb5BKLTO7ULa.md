@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Jonna Fraser & Tiwa Savage, Beyoncé, Kris Kross Amsterdam, Emma Heesters en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,558 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,550 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 6 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 |
 | 7 | [Mr Charm](https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 |
 | 8 | [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 |
-| 9 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
+| 9 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/0fzMb7AJnLMfYElJvYd8N4), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
 | 10 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/1zsJSTm6wlqdRMRl4dbvGg) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/album/75uyPFs1xFcE11CviRMV7S) | 2:47 |
 | 11 | [Niet Naar Huis](https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Niet Naar Huis](https://open.spotify.com/album/5dnGno5uQ18Y1StP7oCMWT) | 2:41 |
 | 12 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ Larita](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 |

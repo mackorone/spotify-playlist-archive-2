@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Number\_i
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,432 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,500 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 7 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
 | 8 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 |
 | 9 | [If You're Mine](https://open.spotify.com/track/23GA5FON8Aa21oSocnNmnm) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [DIFFERENT](https://open.spotify.com/album/2TtsDrSETlfL4RD8j5GQZG) | 2:43 |
-| 10 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
+| 10 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
 | 11 | [YO\-I\-DON!](https://open.spotify.com/track/5ApeRGjYG4TZAwv9wGlHPc) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [YO\-I\-DON! / BOY MEETS GIRL](https://open.spotify.com/album/0eWnGwI4wU02yU1WJreHi8) | 2:44 |
 | 12 | [TOP 5](https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL) | 2:27 |
 | 13 | [IF I](https://open.spotify.com/track/3IWNxztdd0eOeB2Zsslqa3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/1IinX64nobDfparPym8DlR) | 3:00 |

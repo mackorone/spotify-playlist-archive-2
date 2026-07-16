@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover stars <a href="https://www.instagram.com/spotify/p/Dakrekkld0y/">FLO<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,934 likes - 153 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,943 likes - 153 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

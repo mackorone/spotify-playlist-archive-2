@@ -4,7 +4,7 @@
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Lucky Brown y El Bogueto en portada.
 
-700 songs - 1 day 14 hr 32 min
+701 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Cartier en Mano](https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Cartier en Mano](https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL) | 2:35 | 2023-02-03 | 2023-07-15 |
 | [Casino](https://open.spotify.com/track/1BKS0lUJujEuCgaT8Gq74s) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Casino](https://open.spotify.com/album/7Jl1AjDBzC1aTXpqxeJpwD) | 3:01 | 2024-01-26 | 2024-02-24 |
 | [Categoría 5](https://open.spotify.com/track/1PNxX2NzwGB2VZd1iamwGn) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/4sghK9VDgqilBsCkgV0wFg) | 2:45 | 2025-10-20 |  |
+| [Cenizas](https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Abnormal](https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA) | 3:29 | 2026-07-03 |  |
 | [Cero Punto Cero](https://open.spotify.com/track/7usXJeeHI1fa9oBoby8UpT) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Cero Punto Cero](https://open.spotify.com/album/0R0JEnEpyLdk7asKxuFeLg) | 3:02 | 2023-03-10 | 2023-07-01 |
 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 | 2022-12-05 | 2023-12-06 |
 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 | 2023-03-24 | 2023-08-05 |
@@ -603,7 +604,7 @@
 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-24 |  |
 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 | 2023-12-01 |  |
 | [So High](https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 4:49 | 2023-01-27 | 2023-03-11 |
-| [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 | 2024-09-13 |  |
+| [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 | 2024-09-13 | 2026-07-16 |
 | [Soldado Y Profeta \(feat\. Ozuna, Almighty, Kendo & Ñengo Flow\)](https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Soldado Y Profeta \(Remix\) \[feat\. Ozuna, Almighty, Kendo & Ñengo Flow\]](https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz) | 8:32 | 2025-10-20 | 2026-01-03 |
 | [Somos Guerreros](https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Somos Guerreros](https://open.spotify.com/album/5hGoY2vlu617nfSlf7uNVN) | 4:44 | 2025-09-05 | 2025-09-20 |
 | [Somos Mayiza](https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX) | 3:12 | 2023-07-14 | 2024-01-13 |

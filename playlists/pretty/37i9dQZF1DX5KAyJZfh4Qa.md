@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,542 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,576 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 91 | [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 |
 | 92 | [Yesterday](https://open.spotify.com/track/3Qmp3Q050aV20drU1kbYx9) | [Tiny Voices](https://open.spotify.com/artist/09slOICvQXnXEGDUSjmEaD), [Chris Freeman](https://open.spotify.com/artist/5EPSzvtQgmhsD7jPs26ass) | [Backseat Therapist](https://open.spotify.com/album/6OdRUVTlGm3qVwBBJe5mdJ) | 2:53 |
 | 93 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 |
-| 94 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
-| 95 | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI) | [Tired Radio](https://open.spotify.com/artist/6im3GUuYNQtmULnJgTuEpk) | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm) | 3:27 |
+| 94 | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI) | [Tired Radio](https://open.spotify.com/artist/6im3GUuYNQtmULnJgTuEpk) | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm) | 3:27 |
+| 95 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
 | 96 | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9) | 3:04 |
 | 97 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
 | 98 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 |

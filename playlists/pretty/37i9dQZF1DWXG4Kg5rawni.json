@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115653,
+  "num_followers": 115661,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "A Dois",
+        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "A Dois",
+      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Cantares",
         "url": "https://open.spotify.com/album/0YkLal3wUjbk9c02TekuVO"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 205593,
       "name": "Deus me deu voc\u00ea Aleluia",
       "url": "https://open.spotify.com/track/3pgViD9u5HevoCKdgdS7dG"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "A Dois",
-        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "A Dois",
-      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "Disse Sim",
+        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Disse Sim",
+      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "Disse Sim",
-        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Disse Sim",
-      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
     },
     {
       "added_at": "2026-06-12 03:01:50",

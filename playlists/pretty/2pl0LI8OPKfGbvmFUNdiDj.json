@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1024,
+  "num_followers": 1026,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEI/idCd6YPtKp1L4iU8H3nZGEvMuq",
+  "snapshot_id": "AAAEJXzgFvbQ+gJxHYsPtsGMDvG8ecid",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1263,6 +1263,38 @@
       "duration_ms": 264047,
       "name": "WITHOUT A RUSH",
       "url": "https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX"
+    },
+    {
+      "added_at": "2026-07-15 12:25:56",
+      "album": {
+        "name": "Gamers",
+        "url": "https://open.spotify.com/album/4TDXJxqqHRtzFIKkx9ie4a"
+      },
+      "artists": [
+        {
+          "name": "Chaz",
+          "url": "https://open.spotify.com/artist/0AMUMmgDk8XcRVkWwT3xpH"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "Belmont's Burden",
+      "url": "https://open.spotify.com/track/6JtTuNBzGGY9XCoosrEW58"
+    },
+    {
+      "added_at": "2026-07-15 12:32:47",
+      "album": {
+        "name": "Lagrimas sobre mi tumba",
+        "url": "https://open.spotify.com/album/30xueizYmcjpbJmsK4ZhXx"
+      },
+      "artists": [
+        {
+          "name": "mediopelo",
+          "url": "https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU"
+        }
+      ],
+      "duration_ms": 214794,
+      "name": "Lagrimas sobre mi tumba",
+      "url": "https://open.spotify.com/track/0Gnmrekg0aorhYHSORyoa5"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

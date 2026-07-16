@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 35793,
+  "num_followers": 35808,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAACnCbbnu8u91F8FiIC5EVjQ",
+  "snapshot_id": "alV8AAAAAADtbotcN51j6l9h9ukfU5sz",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+        "name": "Young Man's Blues",
+        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Hell of a Year",
-      "url": "https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc"
+      "duration_ms": 206037,
+      "name": "Young Man's Blues",
+      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Man's Blues",
-        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 206037,
-      "name": "Young Man's Blues",
-      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
+      "duration_ms": 232653,
+      "name": "Hell of a Year",
+      "url": "https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc"
     },
     {
       "added_at": null,
@@ -139,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
       "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 257773,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/02ZvAl0VJLTMa4cfvjtCwB"
+      "duration_ms": 223062,
+      "name": "Love (feat. Parker McCollum)",
+      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
     },
     {
       "added_at": null,
@@ -171,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
       },
       "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 223062,
-      "name": "Love (feat. Parker McCollum)",
-      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+      "duration_ms": 257773,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/02ZvAl0VJLTMa4cfvjtCwB"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221781,
-      "name": "Things I Never Told You",
-      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
+      "duration_ms": 183653,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
+      "duration_ms": 221781,
+      "name": "Things I Never Told You",
+      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
       "duration_ms": 243506,
       "name": "Big Ole Fancy House",
       "url": "https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 225801,
-      "name": "Tails I Lose",
-      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 225801,
+      "name": "Tails I Lose",
+      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hollywood Gold",
         "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 205173,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 204489,
-      "name": "I Ain't Going Nowhere",
-      "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 204489,
+      "name": "I Ain't Going Nowhere",
+      "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold Chain Cowboy",
         "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy (Special Edition)",
-        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 218804,
-      "name": "Blanco County Rain - Special Edition Track",
-      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold Chain Cowboy (Special Edition)",
+        "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 218804,
+      "name": "Blanco County Rain - Special Edition Track",
+      "url": "https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hollywood Gold",
         "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 221986,
       "name": "Hallie Ray Light",
       "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parker McCollum (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "The One Before The One",
-      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
     },
     {
       "added_at": null,
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 257866,
-      "name": "Wind My Friend",
-      "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
+      "duration_ms": 220240,
+      "name": "The One Before The One",
+      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 287400,
       "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
       "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Wind My Friend",
+      "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
     },
     {
       "added_at": null,

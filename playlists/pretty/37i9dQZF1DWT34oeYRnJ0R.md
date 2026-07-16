@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: benny blanco & Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,171 likes - 200 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,113 likes - 200 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 89 | [LO QUE QUIERAN CREER 👑](https://open.spotify.com/track/4Im0TWQFCLVkLO0Dw2WPuq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:57 |
 | 90 | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/2ickiFDq9U1MKG94SSg30n) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [KARBeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/album/7c6vZUg8HMdXnAtBHUFLT4) | 3:33 |
 | 91 | [3am](https://open.spotify.com/track/4ODV63UfwVHQbPspjJwuF6) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [3am](https://open.spotify.com/album/2BjVs3CTPucSL5eAORi0Fx) | 2:40 |
-| 92 | [SIEMPRE TE PIENSO](https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [SIEMPRE TE PIENSO](https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH) | 3:19 |
+| 92 | [siempRE te pienso](https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [siempRE te pienso](https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH) | 3:19 |
 | 93 | [Yo Te Amo](https://open.spotify.com/track/276HeSy9BJ6de94QPY9dNd) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo), [Fred Rosa](https://open.spotify.com/artist/1uodjlzN2u4kguORIOuDcX) | [Yo Te Amo](https://open.spotify.com/album/7CKEns0wXCmu3QGdwmqE0a) | 2:22 |
 | 94 | [Suiza](https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Suiza](https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA) | 2:20 |
 | 95 | [casualidad](https://open.spotify.com/track/76CirVdwbTPD73kICChxJZ) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [casualidad](https://open.spotify.com/album/25Dq8Vh1wTBbTaV6gvrTqf) | 2:47 |

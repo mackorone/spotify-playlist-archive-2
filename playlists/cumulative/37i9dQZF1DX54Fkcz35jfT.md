@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Doona
 
-496 songs - 1 day 4 hr 35 min
+497 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [PLAYDEAD](https://open.spotify.com/track/1c4hhwfHiqpjYXDO9tLXOf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 2:00 | 2023-09-26 | 2023-11-22 |
 | [PLAYDEAD](https://open.spotify.com/track/6xI23gJ23oTq2EAwjE3gjb) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 2:00 | 2023-09-26 | 2023-09-28 |
 | [Player](https://open.spotify.com/track/7pCPywA8iN4WVJdNcPXOSL) | [Bubble Baby](https://open.spotify.com/artist/4g3C4VejuB09XqHyNhs1AC) | [Player](https://open.spotify.com/album/21XW1pX2rCszRc5YRrQloP) | 3:11 | 2024-01-31 | 2024-02-21 |
-| [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 |  |
+| [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 | 2026-07-16 |
 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 | 2024-07-09 | 2024-11-07 |
 | [PSYCHO SISTER!!!!!](https://open.spotify.com/track/7KOEnaAtgweLXXtwlLNJT8) | [首振りDolls](https://open.spotify.com/artist/5YkHlLjqjiBcL9Jv5PImcE) | [PSYCHO SISTER!!!!!](https://open.spotify.com/album/2vG6YILPwBSvmytTQPvki1) | 4:07 | 2023-10-24 | 2023-11-01 |
 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 | 2025-01-21 |  |
@@ -358,6 +358,7 @@
 | [STILL ON FIRE](https://open.spotify.com/track/5blRKN8WIFG3WXUzNytf5B) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [STILL ON FIRE](https://open.spotify.com/album/0mVecY7PMTHop2lnWOb7Vf) | 3:16 | 2026-03-03 | 2026-05-13 |
 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 | 2024-07-23 |  |
 | [Straight Up feat\. JESSE](https://open.spotify.com/track/75dPUj5ErNVEQexYGcGq3x) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [Straight Up feat\. JESSE](https://open.spotify.com/album/4KedQNW6Evrgu7vZCJtYYG) | 4:20 | 2024-10-01 | 2025-04-16 |
+| [Stray God](https://open.spotify.com/track/0MiTNFH5xyJ8d6sFqy3U3A) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Goodbye My Roots](https://open.spotify.com/album/6U12GCvRQpAqhFSob0xHju) | 1:39 | 2026-07-14 |  |
 | [sugar cannon ball](https://open.spotify.com/track/6KF2HG0q8q7xighJaoKPvU) | [インディアカヌー](https://open.spotify.com/artist/1KNT3mnqMTCRXaDHkGcm7r) | [sugar cannon ball / alcohol](https://open.spotify.com/album/3s1VTJFQN3viRC9NEh2mfU) | 5:18 | 2023-11-30 | 2024-01-17 |
 | [Suisei](https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [CINEMA](https://open.spotify.com/album/0GENh5wpCaj351vVUu4Pty) | 3:39 | 2023-12-05 | 2023-12-20 |
 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 | 2025-11-25 |  |

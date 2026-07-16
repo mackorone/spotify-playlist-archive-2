@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,087 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,096 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 35 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
 | 36 | [Você Não Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/3lDGU5FKsywJzNbdAINxhR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Só Vvamo na Ilha \(Ao Vivo\)](https://open.spotify.com/album/1q3K1MYoCr97RFIwVNvGWL) | 3:12 |
 | 37 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |
-| 38 | [Mulher no Espelho](https://open.spotify.com/track/1IaB94N2QjtCPz0h1pueLH) | [Riane Mascarenhas](https://open.spotify.com/artist/6VVAOpIvLkd1NemCaCqvao), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Mulher no Espelho](https://open.spotify.com/album/5yJSXtMCcTBXL5nPjpSpcj) | 3:35 |
-| 39 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
+| 38 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
+| 39 | [Mulher no Espelho](https://open.spotify.com/track/1IaB94N2QjtCPz0h1pueLH) | [Riane Mascarenhas](https://open.spotify.com/artist/6VVAOpIvLkd1NemCaCqvao), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Mulher no Espelho](https://open.spotify.com/album/5yJSXtMCcTBXL5nPjpSpcj) | 3:35 |
 | 40 | [Sonho Meu](https://open.spotify.com/track/5rbxBmoBDxvnhyVYWBSBRa) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j), [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Para Sempre](https://open.spotify.com/album/4zSZT5Qre7hpFgEk0yQy0C) | 3:22 |
 | 41 | [Consegue](https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6) | [Rafa Laranja](https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7) | [Consegue](https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir) | 3:26 |
-| 42 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
-| 43 | [Nossa Brincadeira](https://open.spotify.com/track/6H7sEkjKCG95mejUtF2tNi) | [Marina Iris](https://open.spotify.com/artist/5iK58wMvoI0nNXMCHMUN9U), [Marcelle Motta](https://open.spotify.com/artist/7J5aKHQliQ4L12PsUutaF1), [Samba Que Dá](https://open.spotify.com/artist/4DLTl0Mv0q0c87qibEEUeU) | [Nossa Brincadeira](https://open.spotify.com/album/1eRM4XtsESz7aISUssPQBd) | 3:12 |
+| 42 | [Nossa Brincadeira](https://open.spotify.com/track/6H7sEkjKCG95mejUtF2tNi) | [Marina Iris](https://open.spotify.com/artist/5iK58wMvoI0nNXMCHMUN9U), [Marcelle Motta](https://open.spotify.com/artist/7J5aKHQliQ4L12PsUutaF1), [Samba Que Dá](https://open.spotify.com/artist/4DLTl0Mv0q0c87qibEEUeU) | [Nossa Brincadeira](https://open.spotify.com/album/1eRM4XtsESz7aISUssPQBd) | 3:12 |
+| 43 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
 | 44 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 | 45 | [E Depois?](https://open.spotify.com/track/786fu99IQ8V9kKZBVcFCyy) | [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy) | [E Depois?](https://open.spotify.com/album/7nela367wRJK6VB42YNA6T) | 3:04 |
 | 46 | [Buquê de Rosas](https://open.spotify.com/track/4eBpX20rWTv6sKozgz4C26) | [Gaby Valentim](https://open.spotify.com/artist/7hIw5Ce8GiFF4MwMnKLsCB) | [Posturada](https://open.spotify.com/album/6l6RRc7iWCKA6qXwinhxl3) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Será Que É Amor / Castelo de um Quarto Só / Amor Sem Fim \- Ao Vivo](https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Andressa Hayalla In Floripa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh) | 4:56 |
 | 50 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 
-Snapshot ID: `AAAAABi67A7HOYNQX9xhPU4aEKAcplIA`
+Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

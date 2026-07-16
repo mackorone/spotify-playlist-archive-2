@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 16392,
+  "num_followers": 16400,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAACUacN1ebiIyyDYkRfeNckY",
+  "snapshot_id": "alV8AAAAAAAEdm5mR+zIDScFH2wAFV0g",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aju",
         "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 204013,
       "name": "O Suficiente (feat. N.I.N.A)",
       "url": "https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
     },
     {
       "added_at": null,
@@ -1035,18 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+        "name": "Tente Outra Vez",
+        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
       },
       "artists": [
         {
           "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Sebrae Nosso Canto",
+          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
         }
       ],
-      "duration_ms": 120893,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
+      "duration_ms": 114196,
+      "name": "Tente Outra Vez",
+      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
     },
     {
       "added_at": null,
@@ -1071,22 +1075,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tente Outra Vez",
-        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
       },
       "artists": [
         {
           "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Sebrae Nosso Canto",
-          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
         }
       ],
-      "duration_ms": 114196,
-      "name": "Tente Outra Vez",
-      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
+      "duration_ms": 120893,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
     },
     {
       "added_at": null,

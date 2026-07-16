@@ -1,13 +1,33 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11570,
+  "num_followers": 11579,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAACMYjalO2liRoJMulDuyGWc",
+  "snapshot_id": "alV8AAAAAAAnaN9hV6yApH3VRGfPkGlI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Would Be",
+        "url": "https://open.spotify.com/album/5axtvktcltQMAFIoo2cxe8"
+      },
+      "artists": [
+        {
+          "name": "Laura Mvula",
+          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "It Would Be",
+      "url": "https://open.spotify.com/track/7FOHuxnnNpNoB0t8BhTV0I"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Up (From Harriet)",
-        "url": "https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 303477,
-      "name": "Stand Up (From Harriet)",
-      "url": "https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wicked: For Good \u2013 The Soundtrack",
         "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
       },
@@ -63,6 +67,22 @@
       "duration_ms": 377098,
       "name": "For Good",
       "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand Up (From Harriet)",
+        "url": "https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 303477,
+      "name": "Stand Up (From Harriet)",
+      "url": "https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a"
     },
     {
       "added_at": null,
@@ -103,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 271929,
-      "name": "I'm Here",
-      "url": "https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wicked: For Good \u2013 The Soundtrack",
         "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
       },
@@ -131,6 +135,22 @@
       "duration_ms": 230250,
       "name": "No Good Deed",
       "url": "https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 271929,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L"
     },
     {
       "added_at": null,
@@ -171,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harriet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 72200,
-      "name": "Goodbye Song",
-      "url": "https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wicked: For Good \u2013 The Soundtrack",
         "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
       },
@@ -207,6 +207,26 @@
       "duration_ms": 246573,
       "name": "As Long As You\u2019re Mine",
       "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harriet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 72200,
+      "name": "Goodbye Song",
+      "url": "https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG"
     },
     {
       "added_at": null,
@@ -247,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 231233,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Wicked Good Finale",
         "url": "https://open.spotify.com/album/7cw1RA5QNAnGuPxcvbrOAQ"
       },
@@ -275,22 +311,6 @@
       "duration_ms": 279628,
       "name": "A Wicked Good Finale (feat. Ariana Grande & Cynthia Erivo)",
       "url": "https://open.spotify.com/track/0hGrcAapSjvygI4SayBccd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 231233,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
     },
     {
       "added_at": null,
@@ -343,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wicked: For Good \u2013 The Soundtrack",
         "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
       },
@@ -383,22 +387,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
       },
       "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 160289,
-      "name": "Intro (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
+      "duration_ms": 220036,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 275198,
+      "name": "Save Me From You",
+      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 275198,
-      "name": "Save Me From You",
-      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wicked: For Good \u2013 The Soundtrack",
         "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
       },
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 160289,
+      "name": "Intro (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Only Knows (feat. yMusic)",
         "url": "https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU"
       },
@@ -503,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Night Blooms",
         "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
       },
@@ -519,22 +555,6 @@
       "duration_ms": 184346,
       "name": "We'll Meet Again - Late Night Session",
       "url": "https://open.spotify.com/track/201a3upQFiGtvWQSGlaVlk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
     },
     {
       "added_at": null,
@@ -575,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "The Good",
-      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -603,6 +607,22 @@
       "duration_ms": 207500,
       "name": "Worst Of Me",
       "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "The Good",
+      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
     },
     {
       "added_at": null,
@@ -647,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -675,6 +679,22 @@
       "duration_ms": 200187,
       "name": "Push and Pull",
       "url": "https://open.spotify.com/track/1R00ByLf1CY6EagkfPylxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -719,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -751,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -763,6 +783,22 @@
       "duration_ms": 232896,
       "name": "Glowing Up",
       "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singing You Home - Children's Songs for Family Reunification",
+        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 157966,
+      "name": "Si Pudiera Leer Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
     },
     {
       "added_at": null,
@@ -807,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing You Home - Children's Songs for Family Reunification",
-        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 157966,
-      "name": "Si Pudiera Leer Tus Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -835,6 +855,26 @@
       "duration_ms": 212755,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean In The Desert",
+        "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 224643,
+      "name": "Ocean In The Desert",
+      "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
     },
     {
       "added_at": null,
@@ -871,26 +911,6 @@
       "duration_ms": 183506,
       "name": "Fly Before You Fall",
       "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ocean In The Desert",
-        "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 224643,
-      "name": "Ocean In The Desert",
-      "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
     },
     {
       "added_at": null,
@@ -947,22 +967,6 @@
       "duration_ms": 77077,
       "name": "Somebody Gonna Love You",
       "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

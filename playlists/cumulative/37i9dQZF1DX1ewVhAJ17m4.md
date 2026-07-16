@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Lina\-Mariah
 
-586 songs - 1 day 5 hr 25 min
+587 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 | 2024-07-18 | 2024-11-13 |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-04-04 | 2022-05-21 |
 | [Barely Here](https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Barely Here](https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U) | 2:44 | 2026-05-09 |  |
-| [Before We Go](https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Before We Go](https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh) | 2:34 | 2026-06-05 |  |
+| [Before We Go](https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Before We Go](https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh) | 2:34 | 2026-06-05 | 2026-07-16 |
 | [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-10-06 | 2023-06-21 |
 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 | 2025-06-20 |  |
 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 | 2025-06-23 | 2026-02-21 |
@@ -499,7 +499,7 @@
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-11-18 | 2026-05-10 |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-08-10 | 2024-10-16 |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-09-09 | 2023-10-20 |
-| [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 | 2025-07-17 |  |
+| [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 | 2025-07-17 | 2026-07-16 |
 | [Talking To Myself](https://open.spotify.com/track/3YVG2OfBF5ov6sl2NE2rkL) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Talking To Myself](https://open.spotify.com/album/6JSEuzJCBvazkD8Ewi7Yxt) | 2:22 | 2022-03-14 | 2022-07-29 |
 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 | 2022-07-18 | 2022-08-19 |
 | [Tanners arms](https://open.spotify.com/track/39FBGLNnrbQLjB2sQPBM9j) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Tanners arms](https://open.spotify.com/album/6cH9szQvHQ0w7tFk07xz1z) | 3:04 | 2022-09-09 | 2022-11-11 |
@@ -508,6 +508,7 @@
 | [Teeth](https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Teeth](https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV) | 2:44 | 2026-05-09 |  |
 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 | 2023-01-13 | 2023-02-18 |
 | [Thanks For Asking](https://open.spotify.com/track/6zyTFxXRoQQDg6gXVagobF) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Thanks For Asking](https://open.spotify.com/album/2GQJz8Czxzui5aVpQ5dnjC) | 3:24 | 2023-09-22 | 2024-02-06 |
+| [That's So True](https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH) | [Jack The Underdog](https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A) | [That's So True](https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4) | 2:47 | 2026-07-03 |  |
 | [The Airport](https://open.spotify.com/track/4wEZvijBJiwUVRpRtOf57I) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [The Airport](https://open.spotify.com/album/7xhsmbA4nTan7kD38hwZin) | 3:16 | 2023-02-10 | 2023-06-21 |
 | [THE AMERICAN DREAM](https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [BURNOUT](https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza) | 3:02 | 2022-08-18 | 2023-02-10 |
 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 | 2024-02-23 | 2025-02-22 |
@@ -585,7 +586,7 @@
 | [Worst Ain't Over Yet](https://open.spotify.com/track/4OlUEtLcfADjgnIWoCZ4kL) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD), [Nathan Hardy](https://open.spotify.com/artist/1e84he2I7QYOXpFilCS73M) | [Worst Ain't Over Yet](https://open.spotify.com/album/2lGvA3t0nzDx08ha686nsM) | 2:52 | 2024-11-18 | 2025-02-22 |
 | [Worthy](https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Worthy](https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO) | 3:11 | 2025-05-23 |  |
 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 | 2026-05-09 |  |
-| [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 | 2025-08-07 | 2025-11-11 |
+| [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 | 2025-08-07 |  |
 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 | 2023-10-19 |  |
 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 | 2025-10-10 |  |
 | [You Know Who the Fuck We Are](https://open.spotify.com/track/0kqqFUL05VFt3D99tlNPJp) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [You Know Who the Fuck We Are](https://open.spotify.com/album/0GXkkVCZdlq6oYxGTVeZqO) | 3:05 | 2025-08-07 | 2025-09-13 |

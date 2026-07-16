@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,674 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,675 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 25 | [Alubarika](https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alubarika](https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw) | 3:55 |
 | 26 | [African Soldier](https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [African Soldier](https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan) | 2:46 |
 | 27 | [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 |
-| 28 | [MA GIRL](https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [MA GIRL](https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h) | 3:28 |
-| 29 | [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 |
+| 28 | [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 |
+| 29 | [MA GIRL](https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [MA GIRL](https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h) | 3:28 |
 | 30 | [Pretty Girl](https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
 | 31 | [Make Am \(feat\. Ebonyi State Band\)](https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ebonyi State Band](https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur) | [Make Am \(feat\. Ebonyi State Band\)](https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS) | 3:52 |
 | 32 | [Higher](https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:11 |
 | 33 | [Magbe \(feat\. Patoranking\)](https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Alagbe](https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn) | 2:53 |
-| 34 | [Yo Body](https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:09 |
-| 35 | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO) | [Rich Mavoko](https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt) | 3:39 |
+| 34 | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO) | [Rich Mavoko](https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt) | 3:39 |
+| 35 | [Yo Body](https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:09 |
 | 36 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
 | 37 | [Wait Refix](https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 4:41 |
 | 38 | [Spiritual \(feat\. Kuami Eugene & Patoranking\)](https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Daniella Whine](https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Daniella Whine \- single](https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR) | 4:04 |
 | 50 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 
-Snapshot ID: `alQqgAAAAAAXR6ijCY0qaoaA0qHzxFGc`
+Snapshot ID: `alV8AAAAAAD3vkm2MFvdmB+zJA2DdiI0`

@@ -4,7 +4,7 @@
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-131 songs - 6 hr 22 min
+132 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Born to Ride](https://open.spotify.com/track/0lHqYOYYtJ00Q5b8sBiZ1T) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:43 | 2023-12-13 | 2024-02-06 |
 | [Brave Enough to Be Unknown](https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 3:39 | 2026-05-11 | 2026-06-04 |
 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Quantum Beats](https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu) | 2:51 | 2025-12-07 | 2026-05-24 |
-| [Broken Strings](https://open.spotify.com/track/7HoWt1XVdWPcdZi2oVi9OQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [Broken Strings](https://open.spotify.com/album/5F9xaz8GYu2lIIrDRX7nUx) | 2:27 | 2026-01-04 |  |
+| [Broken Strings](https://open.spotify.com/track/7HoWt1XVdWPcdZi2oVi9OQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [Broken Strings](https://open.spotify.com/album/5F9xaz8GYu2lIIrDRX7nUx) | 2:27 | 2026-01-04 | 2026-07-16 |
+| [Broken Strings](https://open.spotify.com/track/4wepPpHACjMo8cd1TjK14j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd) | 2:28 | 2026-07-16 |  |
 | [By Your Side](https://open.spotify.com/track/1bFwGKZFvnDQYvf4TiKLBI) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:40 | 2025-01-17 | 2025-03-24 |
 | [By Your Side](https://open.spotify.com/track/65iIFIjmHtzK0GrNw7RAEU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:40 | 2025-10-14 | 2026-04-14 |
 | [Catch Me If You Can](https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:31 | 2023-06-18 | 2024-08-30 |

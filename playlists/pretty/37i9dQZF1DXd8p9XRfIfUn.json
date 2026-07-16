@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81195,
+  "num_followers": 81197,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,34 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Como \u00d1engo (feat. Jota Rosa)",
+        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
+      },
+      "artists": [
+        {
+          "name": "Club16",
+          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        }
+      ],
+      "duration_ms": 204136,
+      "name": "Como \u00d1engo (feat. Jota Rosa)",
+      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
       },
@@ -387,34 +415,6 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Como \u00d1engo (feat. Jota Rosa)",
-        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
-      },
-      "artists": [
-        {
-          "name": "Club16",
-          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
-        },
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Jota Rosa",
-          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
-        }
-      ],
-      "duration_ms": 204136,
-      "name": "Como \u00d1engo (feat. Jota Rosa)",
-      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -519,30 +519,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "YO SE QUE TU (feat. Rusherking)",
         "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 193043,
       "name": "YO SE QUE TU (feat. Rusherking)",
       "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Uy k raro",
         "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 127264,
       "name": "Uy k raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Enredao",
-        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Enredao",
-      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Que Loco Mami",
         "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Enredao",
+        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Enredao",
+      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
     },
     {
       "added_at": "2025-09-18 23:00:14",

@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 462269,
+  "num_followers": 462442,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Laughter of the Sea",
-        "url": "https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Mola Mola",
-          "url": "https://open.spotify.com/artist/0Dx2tP67L4Gs9ucLTGk1S9"
-        }
-      ],
-      "duration_ms": 359781,
-      "name": "Laughter of the Sea",
-      "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Claremont 56: 10 Years, Pt. 1",
         "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 429913,
       "name": "Teu Sorriso - Jex Opolis Remix",
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Laughter of the Sea",
+        "url": "https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0Dx2tP67L4Gs9ucLTGk1S9"
+        }
+      ],
+      "duration_ms": 359781,
+      "name": "Laughter of the Sea",
+      "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
     },
     {
       "added_at": "2024-04-05 15:58:26",

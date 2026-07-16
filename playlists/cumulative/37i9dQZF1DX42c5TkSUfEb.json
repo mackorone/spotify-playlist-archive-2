@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Deck 5",
+        "url": "https://open.spotify.com/album/6Mgvj0mAL5ZXPKzqcJhJvk"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202739,
+      "name": "Deck 5",
+      "url": "https://open.spotify.com/track/4IeJaI3T2NT9PD48J4JBjB"
+    },
+    {
+      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
       },
@@ -6524,7 +6542,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"

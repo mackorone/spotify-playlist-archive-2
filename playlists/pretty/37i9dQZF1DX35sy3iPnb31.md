@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,047 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 24 | [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 |
 | 25 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 |
 | 26 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
-| 27 | [Summer Breeze](https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Summer Breeze](https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy) | 3:15 |
-| 28 | [Where There's Smoke](https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Where There's Smoke](https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd) | 3:10 |
+| 27 | [Where There's Smoke](https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Where There's Smoke](https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd) | 3:10 |
+| 28 | [Summer Breeze](https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Summer Breeze](https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy) | 3:15 |
 | 29 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
 | 30 | [Aaliyah](https://open.spotify.com/track/4yH2qoFWpypuS8RE4yubMa) | [The Bankes Brothers](https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o) | [Aaliyah](https://open.spotify.com/album/6EHIfJvbNSzyWmmYay5zPN) | 2:54 |
 | 31 | [Making Sense](https://open.spotify.com/track/6lDnwp05Nuth6Ps84DScVn) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Stragglers I](https://open.spotify.com/album/2epHxmm0GBPyeZ7KFiAdo4) | 4:02 |
 | 32 | [Gold in California](https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Gold in California](https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm) | 3:34 |
 | 33 | [two crows](https://open.spotify.com/track/0c9LZHh6EBmE8JZdy2nd1q) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [two crows](https://open.spotify.com/album/1WMsTboGCN24oLXoyYIH2u) | 4:09 |
-| 34 | [chop it](https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [chop it](https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb) | 2:00 |
-| 35 | [Tastes Like](https://open.spotify.com/track/250iYG82IKXiN4vQ76CzbL) | [Lockimara](https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx) | [Tastes Like](https://open.spotify.com/album/08hISP1omTAoTnfpLIjyJQ) | 2:31 |
+| 34 | [Tastes Like](https://open.spotify.com/track/250iYG82IKXiN4vQ76CzbL) | [Lockimara](https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx) | [Tastes Like](https://open.spotify.com/album/08hISP1omTAoTnfpLIjyJQ) | 2:31 |
+| 35 | [chop it](https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [chop it](https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb) | 2:00 |
 | 36 | [Plaster](https://open.spotify.com/track/2Uxcxzwhd02rbNJ1bwqfgL) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Mythologie de la dérape](https://open.spotify.com/album/5JIcYV17n7Lakw38rt8ogM) | 4:02 |
 | 37 | [7ayati](https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [7ayati](https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms) | 2:31 |
 | 38 | [In The House](https://open.spotify.com/track/3EhJsEMhuTLPqdfuAqNjqC) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Chrome Maxell](https://open.spotify.com/album/2w3drgt7Ke9Z83ZFCLyOEb) | 2:34 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 41 | [mess in a dress](https://open.spotify.com/track/5XKXxYFSMTstk992dG9gS3) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [it's all a mess!](https://open.spotify.com/album/6wPK2AZAx7gi2pGuL5CJ1V) | 3:29 |
 | 42 | [Time of Your Life](https://open.spotify.com/track/1mK6XmC8hkJKyKzZfkmaZ3) | [Shabason & Krgovich](https://open.spotify.com/artist/1Y7BUpNYM8Yc8ZIBUq7qy2), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Four Days in June](https://open.spotify.com/album/0mESueswYCXof6azv7pUjs) | 3:44 |
 | 43 | [Superstar](https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Superstar](https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu) | 5:37 |
-| 44 | [EVIDENT 2 ME](https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y) | [EVIDENT 2 ME](https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7) | 1:50 |
-| 45 | [Traveling Blues](https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i) | [Evan Roderick](https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE) | [Traveling Blues](https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju) | 3:35 |
+| 44 | [Traveling Blues](https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i) | [Evan Roderick](https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE) | [Traveling Blues](https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju) | 3:35 |
+| 45 | [EVIDENT 2 ME](https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y) | [EVIDENT 2 ME](https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7) | 1:50 |
 | 46 | [DEAD INSIDE](https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [DEAD INSIDE](https://open.spotify.com/album/1cONkdKIoUVz9lE6TLChbw) | 2:15 |
 | 47 | [21 Freestyle](https://open.spotify.com/track/1b2bIUcvo6JWWDu5FucKEh) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [21 Freestyle](https://open.spotify.com/album/5Mnj6WTQeteXwx3GQqhwzd) | 1:06 |
 | 48 | [Doomed](https://open.spotify.com/track/1eSADzvm7DFVwRUOXpAmdf) | [Avery Laird](https://open.spotify.com/artist/3kwAG9BYmYer35EEMZHadZ) | [Doomed](https://open.spotify.com/album/29RCGtgIZKezj1TQuG60eq) | 5:38 |

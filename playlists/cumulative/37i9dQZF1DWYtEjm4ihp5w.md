@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Stormy
+> Cover: ElGrandeToto
 
 536 songs - 1 day 3 hr 48 min
 

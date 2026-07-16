@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863391,
+  "num_followers": 863378,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Atrasadinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 172766,
-      "name": "Atrasadinha - Live",
-      "url": "https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Atrasadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 172766,
+      "name": "Atrasadinha - Live",
+      "url": "https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "added_at": "2026-06-22 17:28:18",

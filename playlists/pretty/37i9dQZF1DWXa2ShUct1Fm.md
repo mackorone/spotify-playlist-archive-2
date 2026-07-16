@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,519 likes - 235 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,497 likes - 235 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 99 | [April shower](https://open.spotify.com/track/7rIXkPCaibFJTs4rKS29OS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FML](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:32 |
 | 100 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [SECOND WIND](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
 | 101 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN \(SEVENTEEN\)](https://open.spotify.com/artist/4vYl3WahY3URtjubpKoGSR) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 |
-| 102 | [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 |
+| 102 | [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 |
 | 103 | [LUNCH](https://open.spotify.com/track/0MMIrw3mCssQj4uqJlBzdp) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [SECOND WIND](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:20 |
 | 104 | [7PM \(Feat\. Peder Elias\)](https://open.spotify.com/track/6tAPw1Rtt3SGEOm6ohYi8l) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [SECOND WIND](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:15 |
 | 105 | [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 |
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 230 | [Missed Connections](https://open.spotify.com/track/4jAh51yhz3LUtbm1p7vOfY) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Tempted OST Part.3](https://open.spotify.com/album/6gnnrJuB1MF1ikNG5nlhrM) | 3:56 |
 | 231 | [YOSM \(feat\. Woozi\)](https://open.spotify.com/track/3euYNE8OgAMAy6caUKOUeL) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju), [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [YOSM \(feat\. Woozi\)](https://open.spotify.com/album/7wp03GdaypNJSocQj3XdjR) | 3:14 |
 | 232 | [Sickness \(feat.PLEDIS GIRLZ\)](https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d) | [Vernon](https://open.spotify.com/artist/031ssH1fIRkJVEk11IUZdu), [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [Sickness](https://open.spotify.com/album/3vX4Wr2G40cQAsNC5WO3K1) | 3:24 |
-| 233 | [Looped Up \(feat\. VERNON\)](https://open.spotify.com/track/5InZzHAvyMPSMEXT4AeDQ3) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:31 |
+| 233 | [Looped Up \(feat\. VERNON\)](https://open.spotify.com/track/5InZzHAvyMPSMEXT4AeDQ3) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:31 |
 | 234 | [Miracle](https://open.spotify.com/track/0TCk149bpoWtPn4QjGfpel) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu 조선로코 \- 녹두전 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5KIPerlwk34hDgSwUOAVm7) | 3:38 |
-| 235 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
+| 235 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
 Snapshot ID: `AAAAAGshcYQJkKLGQblXpORF4mMeRD1U`

@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Mercer
 
-3,639 songs - 8 day 0 hr 13 min
+3,640 songs - 8 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Adore](https://open.spotify.com/track/72L7JWIjYl53Hro6JpUlEm) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Adore](https://open.spotify.com/album/01h6nSC1jehQ4FxOR7Baat) | 2:21 | 2025-07-29 | 2025-09-10 |
 | [Adore Ya'](https://open.spotify.com/track/4C4uu4hEolZW8HavVsBR55) | [Beringei](https://open.spotify.com/artist/24moFDwbCOEwj7TWjGnL44), [Kristian Hamilton](https://open.spotify.com/artist/5N5Sh4gVdtIQU9uhwHUlN5) | [Adore Ya'](https://open.spotify.com/album/2YOzqTKUASLbYgv5ycswD8) | 3:56 | 2022-07-27 | 2022-09-15 |
 | [Adrenaline](https://open.spotify.com/track/7s4VhBKX9tnGOOefeTc5vF) | [Matilda Shakes](https://open.spotify.com/artist/129mbD4ax2n7S6xFPmN9Fi) | [Adrenaline](https://open.spotify.com/album/6PJR089PZLN1iIrwbZ5KqL) | 2:47 | 2023-08-29 | 2023-09-27 |
-| [Adultery](https://open.spotify.com/track/7mVTZvLnpAghsNZ0wgfdfy) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Adultery](https://open.spotify.com/album/32N0EPwXxW39UlItZbqS0X) | 2:42 | 2026-05-19 |  |
+| [Adultery](https://open.spotify.com/track/7mVTZvLnpAghsNZ0wgfdfy) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Adultery](https://open.spotify.com/album/32N0EPwXxW39UlItZbqS0X) | 2:42 | 2026-05-19 | 2026-07-16 |
 | [afloat](https://open.spotify.com/track/25YQR6lLv8i89lbNEhu63B) | [Jack Patchett](https://open.spotify.com/artist/1jxl5bUGSeYcwV7U0MAXv5) | [afloat](https://open.spotify.com/album/2rFm1HSG04k4eZiknCcDep) | 4:39 | 2026-05-19 | 2026-07-15 |
 | [Again](https://open.spotify.com/track/12hlmFC0kmPTVfrwJr55yA) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Again](https://open.spotify.com/album/2Rv29DiIEjX54L0u4Oco42) | 3:32 | 2025-07-22 | 2025-08-22 |
 | [Again n Again](https://open.spotify.com/track/07avznlRbMDf1AstH2RNlb) | [Cisco](https://open.spotify.com/artist/3wdNPtgVXjxnFuqKUSvsYf) | [Again n Again](https://open.spotify.com/album/56e1bSnYn79cSvq2P55Bv2) | 2:54 | 2024-03-12 | 2024-04-24 |
@@ -323,6 +323,7 @@
 | [Belong Here](https://open.spotify.com/track/0u2TjVmlK9Xzs7Js6Zf14I) | [Ruby Duff](https://open.spotify.com/artist/7arrmC5cRDHLESNxZmUax1) | [Belong Here](https://open.spotify.com/album/0txRQhpTVcKjAIu5ucBeUj) | 3:21 | 2023-06-27 | 2023-07-26 |
 | [BERLIN](https://open.spotify.com/track/2KGq3U0TkeQU8d5kH07Kkq) | [Franki](https://open.spotify.com/artist/21HIGEndYjoMvJUc7vPiyp) | [BERLIN](https://open.spotify.com/album/13JyzYbAp1cEB3rPrRL9PD) | 3:06 | 2023-09-26 | 2023-11-08 |
 | [Berlin](https://open.spotify.com/track/52JodxprtCiEEO5FODNxwu) | [Michael B Thomas](https://open.spotify.com/artist/0SQMSsL2ds4MNdzP5sKv0B) | [Berlin](https://open.spotify.com/album/2POEkhrK6ZoCM2fKg4G3Zy) | 3:14 | 2023-01-04 | 2023-02-23 |
+| [Best of My Life](https://open.spotify.com/track/3QtC8qwynQY5foKoVKUOPE) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Best of My Life](https://open.spotify.com/album/2A655KuqrRKvubOOgukzQ0) | 3:30 | 2026-07-15 |  |
 | [Best Time](https://open.spotify.com/track/3m1O3Pay9gDHhwP1zTuNr5) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Best Time](https://open.spotify.com/album/0HPbrN73oJzTyWVqWAs2B6) | 2:41 | 2024-06-26 | 2024-07-24 |
 | [Best/Worst](https://open.spotify.com/track/69r7N1aWBkIhwKAp2W1ryY) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Best/Worst](https://open.spotify.com/album/1izI3XnEQKsFTIo9eyGhSG) | 3:03 | 2023-03-01 | 2023-03-16 |
 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 | 2024-05-07 | 2024-06-12 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
-  "num_followers": 515794,
+  "num_followers": 516106,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Die Tonight",
+        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 227612,
+      "name": "Die Tonight",
+      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "Kick Drum Talk",
         "url": "https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1"
       },
@@ -563,26 +579,14 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Die Tonight",
-        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 227612,
-      "name": "Die Tonight",
-      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Endless Dance EP",
         "url": "https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m"
       },
       "artists": [
+        {
+          "name": "O\u2011NINEEIGHT",
+          "url": "https://open.spotify.com/artist/07B2wRwMbnJLWUhjTFSpve"
+        },
         {
           "name": "Version 34",
           "url": "https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T"
@@ -799,22 +803,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Let the Bass Kick",
-        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 146100,
-      "name": "Let the Bass Kick",
-      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "REMEMBER THIS FACE",
         "url": "https://open.spotify.com/album/3cYKPp26P57F81IdlAtSnI"
       },
@@ -831,6 +819,22 @@
       "duration_ms": 231374,
       "name": "REMEMBER THIS FACE",
       "url": "https://open.spotify.com/track/7bwjc2oYo6mkLblcqh0IcD"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Let the Bass Kick",
+        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 146100,
+      "name": "Let the Bass Kick",
+      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1363,26 +1367,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Data Corrupted",
-        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
-      },
-      "artists": [
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Data Corrupted",
-      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Keep Me High",
         "url": "https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia"
       },
@@ -1407,6 +1391,26 @@
       "duration_ms": 147695,
       "name": "Keep Me High",
       "url": "https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Data Corrupted",
+        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Data Corrupted",
+      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1659,6 +1663,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "H\u00d6LLE IM HERZ",
+        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "H\u00d6LLE IM HERZ",
+      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "Bella Ciao (Hard Techno Remix)",
         "url": "https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF"
       },
@@ -1695,22 +1715,6 @@
       "duration_ms": 142454,
       "name": "Touch It (feat. Jazmine Johnson)",
       "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "H\u00d6LLE IM HERZ",
-        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
-      },
-      "artists": [
-        {
-          "name": "Michael Klotz",
-          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "H\u00d6LLE IM HERZ",
-      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
     },
     {
       "added_at": "2026-07-10 00:01:26",

@@ -4,7 +4,7 @@
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 16 min
+99 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,10 +30,11 @@
 | [Deli](https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:05 | 2025-06-10 |  |
 | [Derecha la Flecha](https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Derecha la Flecha](https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp) | 3:20 | 2024-08-08 |  |
 | [Descontrol](https://open.spotify.com/track/32P1jzQQ8K3zp97AirjLFG) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6DRs1wUbne7sb2hBxMxIah) | 2:34 | 2024-08-08 | 2024-11-04 |
-| [Descontrol](https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6aoOHdMLH7CL6E6LgNCDni) | 2:34 | 2026-03-11 |  |
+| [Descontrol](https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6aoOHdMLH7CL6E6LgNCDni) | 2:34 | 2026-03-11 | 2026-07-16 |
 | [Descontrol](https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J) | 2:34 | 2024-12-06 | 2026-02-15 |
 | [Dime](https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:49 | 2024-08-08 |  |
 | [Dime](https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 3:35 | 2024-08-08 | 2026-01-15 |
+| [Discoteca \- Deorro Remix](https://open.spotify.com/track/5YZX840FQQuMpLFUXE9Cla) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [The Most Winning](https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty) | 3:10 | 2026-07-16 |  |
 | [El Tomate](https://open.spotify.com/track/3ZpMX9D7h8racm8EJiE5dw) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Tomate](https://open.spotify.com/album/31ADV8Q4Xn6eqxaB6l4I1f) | 4:19 | 2025-11-23 | 2026-04-27 |
 | [EL TOMATE](https://open.spotify.com/track/7v9AJ3O6wedDJ4zSnlTQSB) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 4:19 | 2026-05-07 |  |
 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 | 2024-09-22 |  |

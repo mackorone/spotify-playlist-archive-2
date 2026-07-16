@@ -60827,6 +60827,24 @@
     },
     {
       "album": {
+        "name": "\u9752\u3044\u30bd\u30d5\u30a1\u306e\u4e0a\u3067",
+        "url": "https://open.spotify.com/album/4nJJcD6J5InRZrFzIX34bF"
+      },
+      "artists": [
+        {
+          "name": "My Hair is Bad",
+          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "\u9752\u3044\u30bd\u30d5\u30a1\u306e\u4e0a\u3067",
+      "url": "https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF"
+    },
+    {
+      "album": {
         "name": "\u9752\u3044\u590f",
         "url": "https://open.spotify.com/album/2d4SbdHCcwuZzOupXsEPbB"
       },

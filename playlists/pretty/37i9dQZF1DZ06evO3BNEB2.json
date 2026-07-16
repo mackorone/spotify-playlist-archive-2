@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAAkLWyIfaYEW5VOtKVjoCfW",
+  "snapshot_id": "alV8AAAAAACZDj1v78ISnoeUrx+VAG3Y",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beauty of Becoming",
-        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185461,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "everything is a lot.",
         "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 229112,
       "name": "Watching Us (with Leon Thomas)",
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beauty of Becoming",
+        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185461,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 109000,
       "name": "Dearly Beloved (feat. Jamie Foxx)",
       "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 236000,
       "name": "Feel the Love (feat. Wale)",
       "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coffee (F***ing) (feat. Wale)",
+        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 314053,
+      "name": "Coffee (F***ing) (feat. Wale)",
+      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coffee (F***ing) (feat. Wale)",
-        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 314053,
-      "name": "Coffee (F***ing) (feat. Wale)",
-      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
     }
   ],
   "unique_name": "This Is Wale",

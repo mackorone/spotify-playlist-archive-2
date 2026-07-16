@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 197482,
+  "num_followers": 197507,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBNWnNVK9dVn7boxmarlvFqZQX4",
+  "snapshot_id": "AAAAAJUkoSW8FQtwTsJpiNpEwoFOfUku",
   "tracks": [
     {
       "added_at": "2026-07-07 15:00:33",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-07 15:00:33",
       "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
-      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
-    },
-    {
-      "added_at": "2026-07-07 15:00:33",
-      "album": {
         "name": "\u50d5\u305f\u3061\u304c\u3084\u308a\u307e\u3057\u305f",
         "url": "https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 276040,
       "name": "\u732b",
       "url": "https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx"
+    },
+    {
+      "added_at": "2026-07-07 15:00:33",
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
       "added_at": "2026-07-07 15:00:33",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-07 15:00:33",
       "album": {
-        "name": "SiX",
-        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 248653,
-      "name": "CITRUS",
-      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
-    },
-    {
-      "added_at": "2026-07-07 15:00:33",
-      "album": {
         "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
         "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
+    },
+    {
+      "added_at": "2026-07-07 15:00:33",
+      "album": {
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
     },
     {
       "added_at": "2026-07-07 15:00:33",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-07 15:00:33",
       "album": {
-        "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
-        "url": "https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
-      "url": "https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6"
-    },
-    {
-      "added_at": "2026-07-07 15:00:33",
-      "album": {
         "name": "Toki Yo Tomare",
         "url": "https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2026-07-07 15:00:33",
       "album": {
-        "name": "\u3059\u308b\u3069\u3044\u3055\u3055\u304f\u308c",
-        "url": "https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt"
+        "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA"
       },
       "artists": [
         {
-          "name": "ChoQMay",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 234117,
-      "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q"
+      "duration_ms": 302346,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6"
     },
     {
       "added_at": "2026-07-07 15:00:33",
@@ -827,6 +811,22 @@
       "duration_ms": 309440,
       "name": "\u82b1\u675f\u306e\u304b\u308f\u308a\u306b\u30e1\u30ed\u30c7\u30a3\u30fc\u3092",
       "url": "https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE"
+    },
+    {
+      "added_at": "2026-07-07 15:00:33",
+      "album": {
+        "name": "\u3059\u308b\u3069\u3044\u3055\u3055\u304f\u308c",
+        "url": "https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "duration_ms": 234117,
+      "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q"
     },
     {
       "added_at": "2026-07-07 15:00:33",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-07 15:00:33",
       "album": {
-        "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
-        "url": "https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
-      "url": "https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD"
-    },
-    {
-      "added_at": "2026-07-07 15:00:33",
-      "album": {
         "name": "Topping",
         "url": "https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 166640,
       "name": "Topping",
       "url": "https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y"
+    },
+    {
+      "added_at": "2026-07-07 15:00:33",
+      "album": {
+        "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "\u4e16\u754c\u304c\u7d42\u308f\u308a\u307e\u3057\u305f",
+      "url": "https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD"
     },
     {
       "added_at": "2026-07-07 15:00:33",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-07-07 15:00:33",
       "album": {
-        "name": "First Sight",
-        "url": "https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR"
-      },
-      "artists": [
-        {
-          "name": "Rake",
-          "url": "https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "100\u4e07\u56de\u306e\u300cI love you\u300d",
-      "url": "https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF"
-    },
-    {
-      "added_at": "2026-07-07 15:00:33",
-      "album": {
         "name": "\u77b3\u3078\u843d\u3061\u308b\u3088\u30ec\u30b3\u30fc\u30c9",
         "url": "https://open.spotify.com/album/7yqN9LY6txINrErO79WNge"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 207600,
       "name": "\u59ff",
       "url": "https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW"
+    },
+    {
+      "added_at": "2026-07-07 15:00:33",
+      "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR"
+      },
+      "artists": [
+        {
+          "name": "Rake",
+          "url": "https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "100\u4e07\u56de\u306e\u300cI love you\u300d",
+      "url": "https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF"
     },
     {
       "added_at": "2026-07-07 15:00:33",

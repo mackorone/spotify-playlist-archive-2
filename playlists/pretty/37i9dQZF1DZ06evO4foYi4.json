@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55755,
+  "num_followers": 55751,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAA+ukpCKspPDdBhejOpVkR7",
+  "snapshot_id": "alV8AAAAAAC23d2mhEkuyt+g832fFX3t",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 237911,
-      "name": "Marrow (Live)",
-      "url": "https://open.spotify.com/track/53x8ls1sxWC6RcCplsFgu5"
+      "duration_ms": 256321,
+      "name": "Black Rainbow (Live)",
+      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
     },
     {
       "added_at": null,
@@ -515,42 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 233426,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 256321,
-      "name": "Black Rainbow (Live)",
-      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -571,6 +535,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 237911,
+      "name": "Marrow (Live)",
+      "url": "https://open.spotify.com/track/53x8ls1sxWC6RcCplsFgu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 233426,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+        "name": "Teenage Talk",
+        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph"
+      "duration_ms": 248463,
+      "name": "Teenage Talk",
+      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Talk",
-        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 248463,
-      "name": "Teenage Talk",
-      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
+      "duration_ms": 206426,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 115373,
-      "name": "Candy Darling",
-      "url": "https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz"
+      "duration_ms": 200426,
+      "name": "My Baby Wants A Baby",
+      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
     },
     {
       "added_at": null,

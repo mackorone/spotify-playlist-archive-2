@@ -27803,6 +27803,24 @@
     },
     {
       "album": {
+        "name": "Rave (PAROOKAVILLE Anthem 2026)",
+        "url": "https://open.spotify.com/album/2nHJsXSPKLWGR953PNWbRq"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "Rave (PAROOKAVILLE 2026 Anthem)",
+      "url": "https://open.spotify.com/track/4SeXGxm2bhFsGs3vWkMkP6"
+    },
+    {
+      "album": {
         "name": "Rave Baby",
         "url": "https://open.spotify.com/album/47FjIz0KeSWm3GIVCBeKzj"
       },

@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 218762,
       "name": "Alternative Ulster",
       "url": "https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b"
@@ -3683,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "Im not going home",
+        "url": "https://open.spotify.com/album/3YIwF38ME0q1PRfqF8kBpa"
+      },
+      "artists": [
+        {
+          "name": "Eupholia",
+          "url": "https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T"
+        },
+        {
+          "name": "nostranger",
+          "url": "https://open.spotify.com/artist/1llGv7eEgoGpXykdEan0cJ"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Im not going home",
+      "url": "https://open.spotify.com/track/1U1Eqi1n2Q0PMoi1Rw9FuA"
+    },
+    {
+      "album": {
         "name": "superficial bliss",
         "url": "https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4"
       },
@@ -5505,6 +5527,24 @@
     },
     {
       "album": {
+        "name": "quicksand",
+        "url": "https://open.spotify.com/album/43v361PdkLF8N96uki0aBb"
+      },
+      "artists": [
+        {
+          "name": "soft flowers.",
+          "url": "https://open.spotify.com/artist/7uleEBual0KHdmVLCZd27d"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "quicksand",
+      "url": "https://open.spotify.com/track/4777yCVrmQ7HAFS5U4si8p"
+    },
+    {
+      "album": {
         "name": "So Close, So Far",
         "url": "https://open.spotify.com/album/4hd303OKz08CpaNAlVnhUS"
       },
@@ -6463,6 +6503,24 @@
     },
     {
       "album": {
+        "name": "Surprise, Surprise",
+        "url": "https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk"
+      },
+      "artists": [
+        {
+          "name": "Friends With Boats",
+          "url": "https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184309,
+      "name": "Surprise, Surprise",
+      "url": "https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo"
+    },
+    {
+      "album": {
         "name": "Sweet Lover",
         "url": "https://open.spotify.com/album/1KulyKHZhq2GB61l239sbp"
       },
@@ -7264,6 +7322,24 @@
       "duration_ms": 243500,
       "name": "Used to Be So Easy",
       "url": "https://open.spotify.com/track/1foVO83KMcSfEZD6LgbBlW"
+    },
+    {
+      "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/5x5DH9RSBhGjkmhgnjr9ob"
+      },
+      "artists": [
+        {
+          "name": "strange world's end",
+          "url": "https://open.spotify.com/artist/2MCW80Q2JBmvQARxrYI1Tb"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/1isdRGP8dqpVLayBrlHXtg"
     },
     {
       "album": {

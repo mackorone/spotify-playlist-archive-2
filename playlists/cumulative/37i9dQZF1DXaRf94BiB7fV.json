@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Danish Sood",
+  "description": "The best new music by independent artists and labels in India. Cover - som.",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2448,6 +2448,28 @@
       "duration_ms": 245555,
       "name": "Aria",
       "url": "https://open.spotify.com/track/59Gh7hAmHdkmOCgUbNgtyO"
+    },
+    {
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/4KCE13r9k7bgAhi9ScewrW"
+      },
+      "artists": [
+        {
+          "name": "Abraham Khanna",
+          "url": "https://open.spotify.com/artist/2JKQ0zWtBjRqduXMsQsSHc"
+        },
+        {
+          "name": "Zian B",
+          "url": "https://open.spotify.com/artist/4imQzO0zZCenjPDKiKWPua"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254467,
+      "name": "As It Goes On",
+      "url": "https://open.spotify.com/track/7ssi3PNZX0IPp3TmEZYDe9"
     },
     {
       "album": {
@@ -8338,7 +8360,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 194000,
       "name": "DMTMH",
       "url": "https://open.spotify.com/track/68ettx2RO6hmkGvayF9mVM"
@@ -14314,6 +14336,24 @@
       "duration_ms": 175325,
       "name": "Ishq Mera Hai",
       "url": "https://open.spotify.com/track/5rpW4OGhgBVDbrxVOcA4qu"
+    },
+    {
+      "album": {
+        "name": "Ishq seekh lo",
+        "url": "https://open.spotify.com/album/3Ky1smlAG69k8dXHEOsmEG"
+      },
+      "artists": [
+        {
+          "name": "Abhin Joshi",
+          "url": "https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228461,
+      "name": "Ishq seekh lo",
+      "url": "https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94"
     },
     {
       "album": {
@@ -20737,6 +20777,24 @@
     },
     {
       "album": {
+        "name": "Life and Times of Pinocchio",
+        "url": "https://open.spotify.com/album/3Lds3f9UqdKGRuR1csX61m"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Bulusu",
+          "url": "https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179465,
+      "name": "Life and Times of Pinocchio",
+      "url": "https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/44vL80zQib9ErFXTBHcyZv"
       },
@@ -25426,7 +25484,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 261412,
       "name": "Oba",
       "url": "https://open.spotify.com/track/4eckcb7lW7atOL4fsvXFgk"
@@ -28887,6 +28945,24 @@
     },
     {
       "album": {
+        "name": "Romeo.",
+        "url": "https://open.spotify.com/album/3FILmWCBKJpKZ2oqmspw8r"
+      },
+      "artists": [
+        {
+          "name": "som.",
+          "url": "https://open.spotify.com/artist/4SfYrm8nXbR7IOK04PWwU6"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336433,
+      "name": "Romeo.",
+      "url": "https://open.spotify.com/track/0BGkzaDbOlO8l0PosWFyyt"
+    },
+    {
+      "album": {
         "name": "Roobaroo",
         "url": "https://open.spotify.com/album/7iiLaQldT1CvP7N9JzoA6O"
       },
@@ -30154,7 +30230,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 259200,
       "name": "Saiyaan Ji",
       "url": "https://open.spotify.com/track/7Fj7BynBezZtivL1zWbgiO"
@@ -34328,7 +34404,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 197647,
       "name": "Thikana",
       "url": "https://open.spotify.com/track/4KRBPwRWfYKWKOUYP5LrY7"

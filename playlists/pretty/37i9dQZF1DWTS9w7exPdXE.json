@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 167708,
+  "num_followers": 167763,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "In Elk Stadje",
+        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "In Elk Stadje",
+      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Pretty Belinda",
         "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 174533,
       "name": "Pretty Belinda",
       "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "In Elk Stadje",
-        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 210810,
-      "name": "In Elk Stadje",
-      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1579,22 +1579,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
       },
       "artists": [
         {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 171285,
       "name": "De Laatste",
       "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
       },
       "artists": [
         {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     }
   ],
   "unique_name": "Hollandse Meezingers",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 5 hr 48 min
+127 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 | 2025-03-11 | 2025-03-31 |
 | [Dichterbij Je](https://open.spotify.com/track/6l9oLAnDNEA01tgrFWjp95) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 3:05 | 2024-01-29 |  |
 | [Diep](https://open.spotify.com/track/1bhImCiDhiyX4rOsOvWUpA) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Levenslied](https://open.spotify.com/album/1ubh3JX7ILvdWh1rlbJvv6) | 2:57 | 2024-01-29 | 2025-09-05 |
-| [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/3V2cE4cuhzhpjQIi3H0tLG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:41 | 2024-01-29 |  |
+| [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/2pgZE3x15azVTs6htG42Aj) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6V53SKudfixIPSrfXKDQ6P) | 2:41 | 2026-07-15 |  |
+| [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/3V2cE4cuhzhpjQIi3H0tLG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:41 | 2024-01-29 | 2026-07-16 |
 | [Doe ‘t Voor Kleine](https://open.spotify.com/track/2HAB4T8FrO01NjffeB2mUh) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 3:05 | 2024-01-29 |  |
 | [Domino](https://open.spotify.com/track/26HAyC91fElbGO1VFZ5wcM) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [Domino](https://open.spotify.com/album/5li7D9axdukGIhQWZl6nlR) | 2:27 | 2024-01-29 |  |
 | [Dopamine](https://open.spotify.com/track/7LtXEqKBYfgRgUaxuPlZRq) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Dopamine](https://open.spotify.com/album/7FDxW4VGBaB2csF8gzEItE) | 2:44 | 2025-07-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 351897,
+  "num_followers": 352039,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
-      },
-      "artists": [
-        {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
-        }
-      ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Shall We Begin",
         "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 207000,
       "name": "Shall We Begin",
       "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+      },
+      "artists": [
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
+        "name": "wistful",
+        "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "wistful",
+      "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "wistful",
-        "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "wistful",
-      "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "The Beautiful World",
-        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+        "name": "The Beautiful World",
+        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
       },
       "artists": [
         {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
         }
       ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+      "duration_ms": 178858,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -895,6 +879,22 @@
       "duration_ms": 149333,
       "name": "hexa",
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-06-12 14:06:48",

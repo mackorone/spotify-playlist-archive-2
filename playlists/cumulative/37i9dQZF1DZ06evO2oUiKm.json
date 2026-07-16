@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 259900,
       "name": "I Don't Know How to Love Him",
       "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
@@ -988,6 +988,28 @@
       "duration_ms": 160289,
       "name": "Intro (feat. Cynthia Erivo)",
       "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
+    },
+    {
+      "album": {
+        "name": "It Would Be",
+        "url": "https://open.spotify.com/album/5axtvktcltQMAFIoo2cxe8"
+      },
+      "artists": [
+        {
+          "name": "Laura Mvula",
+          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226840,
+      "name": "It Would Be",
+      "url": "https://open.spotify.com/track/7FOHuxnnNpNoB0t8BhTV0I"
     },
     {
       "album": {

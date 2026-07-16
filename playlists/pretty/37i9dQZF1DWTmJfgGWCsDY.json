@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
-  "num_followers": 10822,
+  "num_followers": 10827,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
         "name": "Tumeuona",
         "url": "https://open.spotify.com/album/5VlX8ImZMnhGCj5FAKg7Sn"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 221666,
       "name": "Tumeuona",
       "url": "https://open.spotify.com/track/3JK53Y1G5pQiv3Boxyew0Q"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
+      },
+      "artists": [
+        {
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
         "name": "Kuokota",
         "url": "https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 242076,
       "name": "Kuokota",
       "url": "https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
-        "name": "Makombolelo singeli version",
-        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
-      },
-      "artists": [
-        {
-          "name": "Mazegele Boy",
-          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Makombolelo singeli version",
-      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Jiangalie",
-        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
-      },
-      "artists": [
-        {
-          "name": "Nay Wa Mitego",
-          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 229944,
-      "name": "Jiangalie",
-      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
         "name": "Lipa",
         "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 223884,
       "name": "Lipa",
       "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
+        "name": "Jiangalie",
+        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 229944,
+      "name": "Jiangalie",
+      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
     },
     {
       "added_at": "2026-06-05 03:30:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,024 likes - 75 songs - 4 hr 22 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,026 likes - 77 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 73 | [La valiente](https://open.spotify.com/track/7hojzEYFzsIFNcsoD8ElWD) | [Alicia Castillo](https://open.spotify.com/artist/75DS5VXEOn1wHK8Y5PdTBM) | [Silencio y vértigo](https://open.spotify.com/album/4Q8VjxMQTSGXQ8UCEw2zHz) | 3:02 |
 | 74 | [Soy Bitcoin](https://open.spotify.com/track/1En4oVInBsxbcnnhJqnqxM) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Fomo](https://open.spotify.com/album/6JSwfaJHoJzy5GTSugAv5t) | 2:58 |
 | 75 | [WITHOUT A RUSH](https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [IS IT STILL IN ME?](https://open.spotify.com/album/1CnOt3j4Oxhu2Iy81TrpXJ) | 4:24 |
+| 76 | [Belmont's Burden](https://open.spotify.com/track/6JtTuNBzGGY9XCoosrEW58) | [Chaz](https://open.spotify.com/artist/0AMUMmgDk8XcRVkWwT3xpH) | [Gamers](https://open.spotify.com/album/4TDXJxqqHRtzFIKkx9ie4a) | 2:16 |
+| 77 | [Lagrimas sobre mi tumba](https://open.spotify.com/track/0Gnmrekg0aorhYHSORyoa5) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Lagrimas sobre mi tumba](https://open.spotify.com/album/30xueizYmcjpbJmsK4ZhXx) | 3:34 |
 
-Snapshot ID: `AAAEI/idCd6YPtKp1L4iU8H3nZGEvMuq`
+Snapshot ID: `AAAEJXzgFvbQ+gJxHYsPtsGMDvG8ecid`

@@ -8601,6 +8601,24 @@
     },
     {
       "album": {
+        "name": "The Gauntlet",
+        "url": "https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb"
+      },
+      "artists": [
+        {
+          "name": "The UNSOLVED",
+          "url": "https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186317,
+      "name": "The End (For You)",
+      "url": "https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp"
+    },
+    {
+      "album": {
         "name": "The Endless Line",
         "url": "https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup"
       },

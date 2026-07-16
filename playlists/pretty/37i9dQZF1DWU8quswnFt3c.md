@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: Hearts2Hearts
+> Listen to women at full volume\. Cover: Haifa Wehbe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,081 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,978 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 |
-| 2 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
+| 1 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
+| 2 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 |
 | 3 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 4 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 5 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi) | 6:55 |
 | 35 | [GIẢ VỜ](https://open.spotify.com/track/4DM8buF9J04zNPtYVMUt74) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIẢ VỜ](https://open.spotify.com/album/3jqXa5a8QG4DnNPcY9JZTu) | 4:13 |
 | 36 | [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 |
-| 37 | [Diamonds in the Sky](https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Diamonds in the Sky](https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN) | 3:05 |
-| 38 | [Superman](https://open.spotify.com/track/3seFRBH0poqCNPUA00XYaX) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Superman](https://open.spotify.com/album/4mrKLwrqsKD8vskUhIT3wm) | 3:12 |
+| 37 | [Superman](https://open.spotify.com/track/3seFRBH0poqCNPUA00XYaX) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Superman](https://open.spotify.com/album/4mrKLwrqsKD8vskUhIT3wm) | 3:12 |
+| 38 | [Diamonds in the Sky](https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Diamonds in the Sky](https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN) | 3:05 |
 | 39 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 |
 | 40 | [Returning Home](https://open.spotify.com/track/2J1RmBn30CRojpdfLpxnkF) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Returning Home](https://open.spotify.com/album/2M1pgphGdOG3Mu39g5nxZI) | 3:34 |
 | 41 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 46 | [Rai pe Pământ](https://open.spotify.com/track/5Qhn3eTnypeKtXehB8bY0I) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Rai pe Pământ](https://open.spotify.com/album/0Lu94fr5u1EVUMkHFfgmB4) | 3:35 |
 | 47 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
 | 48 | [Rabszolga](https://open.spotify.com/track/51IUF2k7kR8AtY3dPyg4jU) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Rabszolga](https://open.spotify.com/album/1DoyH26hV9YfqSDTCSeqPT) | 2:19 |
-| 49 | [VERTICAL WORLDS](https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [VERTICAL WORLDS](https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G) | 3:15 |
-| 50 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
+| 49 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
+| 50 | [VERTICAL WORLDS](https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [VERTICAL WORLDS](https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G) | 3:15 |
 
-Snapshot ID: `AAAAAKe4fbPatVFFJMQKe6FqKXlBpWle`
+Snapshot ID: `AAAAAGjt0R7mf+UUnyDC1dSSAWA8Y5FB`

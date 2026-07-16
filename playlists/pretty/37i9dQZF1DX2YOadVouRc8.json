@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 48650,
+  "num_followers": 48673,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-07-10 00:01:35",
       "album": {
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
+    },
+    {
+      "added_at": "2026-07-10 00:01:35",
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2026-07-10 00:01:35",
       "album": {
-        "name": "ATOM II",
-        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 157487,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
+      "duration_ms": 201874,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
     },
     {
       "added_at": "2026-07-10 00:01:35",
@@ -795,22 +811,6 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
-    },
-    {
-      "added_at": "2026-07-10 00:01:35",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
     },
     {
       "added_at": "2026-07-10 00:01:35",
@@ -923,30 +923,6 @@
     {
       "added_at": "2026-07-10 00:01:35",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        }
-      ],
-      "duration_ms": 119347,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
-    },
-    {
-      "added_at": "2026-07-10 00:01:35",
-      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
+    },
+    {
+      "added_at": "2026-07-10 00:01:35",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 119347,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
     },
     {
       "added_at": "2026-07-10 00:01:35",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-07-10 00:01:35",
       "album": {
-        "name": "DEARLY",
-        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "DEARLY",
-      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
-    },
-    {
-      "added_at": "2026-07-10 00:01:35",
-      "album": {
         "name": "Toro - A COLORS SHOW",
         "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 194436,
       "name": "Toro - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
+    },
+    {
+      "added_at": "2026-07-10 00:01:35",
+      "album": {
+        "name": "DEARLY",
+        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "DEARLY",
+      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
     },
     {
       "added_at": "2026-07-10 00:01:35",

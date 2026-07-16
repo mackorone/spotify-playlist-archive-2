@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 
 > Easy listening for a comfortable drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,627 likes - 200 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,671 likes - 200 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 163 | [Too Much To Ask](https://open.spotify.com/track/2NkbRmygVirMQFCjSkyY7Q) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask](https://open.spotify.com/album/3vhVJsjiAe3UAaHUTijAK5) | 3:43 |
 | 164 | [Golden Slumbers](https://open.spotify.com/track/6aVrw27a4INLfxTvbJF24k) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Golden Slumbers](https://open.spotify.com/album/4SsSg5WyleibuAwqXdhIgE) | 2:24 |
 | 165 | [Ease Me On](https://open.spotify.com/track/77opdbsdErn2e5UHnrUGcs) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:28 |
-| 166 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 |
-| 167 | [Latch \- Acoustic](https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana](https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY) | 3:41 |
+| 166 | [Latch \- Acoustic](https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana](https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY) | 3:41 |
+| 167 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 |
 | 168 | [Airwaves](https://open.spotify.com/track/79sjkr7DxrDfk9qXwB4IxS) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 4:41 |
 | 169 | [Forever](https://open.spotify.com/track/7ra7mVrA3SGTNzImA7UacC) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [By My Side \(Retrospective\)](https://open.spotify.com/album/3LBTIeX3u0zodXW4Hu7qXQ) | 3:25 |
 | 170 | [Regret Me](https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Regret Me](https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA) | 3:16 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 181 | [Summer Clothes \(Acoustic\)](https://open.spotify.com/track/3ldQn5GUmDqs0L4z4GORI6) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Summer Clothes](https://open.spotify.com/album/71eFxdkCuPOa2pkT8Zb0k4) | 2:17 |
 | 182 | [Mother Road](https://open.spotify.com/track/0c0V7KFyAXcuxM0XwyDb72) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 5:12 |
 | 183 | [Only Want You](https://open.spotify.com/track/2zYFfLULhSgZWCCRVZ5csm) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Smoke and Mirrors](https://open.spotify.com/album/2pAIXVAEZ6J4t2LdKrhlJY) | 3:26 |
-| 184 | [Open up Your Eyes](https://open.spotify.com/track/4xbHz6WrKIZaIb7omWi7Jr) | [Tristan Prettyman](https://open.spotify.com/artist/49RRjdOtssOA73G9NnVeUM) | [Back to Home](https://open.spotify.com/album/6WI8PZgFya82QRcFkvoCc4) | 2:57 |
-| 185 | [Don't Even Worry](https://open.spotify.com/track/59budStVXuAhbpyBKJBdX9) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Don’t Even Worry](https://open.spotify.com/album/4O2OauH8V7xGJ0yru5xndT) | 3:23 |
+| 184 | [Don't Even Worry](https://open.spotify.com/track/59budStVXuAhbpyBKJBdX9) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Don’t Even Worry](https://open.spotify.com/album/4O2OauH8V7xGJ0yru5xndT) | 3:23 |
+| 185 | [Open up Your Eyes](https://open.spotify.com/track/4xbHz6WrKIZaIb7omWi7Jr) | [Tristan Prettyman](https://open.spotify.com/artist/49RRjdOtssOA73G9NnVeUM) | [Back to Home](https://open.spotify.com/album/6WI8PZgFya82QRcFkvoCc4) | 2:57 |
 | 186 | [You and Me](https://open.spotify.com/track/4MiPEIYsdYCjFcV4u4ch2W) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [You and Me](https://open.spotify.com/album/2AIXEbGhqx1somdjXpGbxW) | 3:12 |
 | 187 | [Lost Stars](https://open.spotify.com/track/30p0klayCW8WvkcTehVvqs) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [V \(Deluxe\)](https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu) | 4:27 |
 | 188 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 196 | [Hey, Soul Sister](https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hey, Soul Sister](https://open.spotify.com/album/5lTCUyQrKcSmcw5ULkt75O) | 3:36 |
 | 197 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
 | 198 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 |
-| 199 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 |
-| 200 | [Gone, Gone, Gone](https://open.spotify.com/track/5L79aNYCTKiZq7vaOElXYj) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon \(Deluxe\)](https://open.spotify.com/album/773GsAWk3z8mGgMDeR7n1A) | 3:29 |
+| 199 | [Gone, Gone, Gone](https://open.spotify.com/track/5L79aNYCTKiZq7vaOElXYj) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon \(Deluxe\)](https://open.spotify.com/album/773GsAWk3z8mGgMDeR7n1A) | 3:29 |
+| 200 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 |
 
 Snapshot ID: `AAAAAEvHK3OnAfbC457MPJQGzTsYa6im`

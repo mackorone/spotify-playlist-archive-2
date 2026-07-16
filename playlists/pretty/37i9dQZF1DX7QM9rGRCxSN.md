@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,037 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,043 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 17 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 18 | [Destello](https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Todo Ocaso Resplandece y Acaba](https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ) | 5:00 |
 | 19 | [Mera Telos & Letpig Adventure](https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6) | [Incendios Forestales Del Viejo Continente](https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ) | [Principios Y Fundamentos De La Fauna Moderna](https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK) | 5:25 |
-| 20 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
-| 21 | [lo que no tiene forma](https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02) | [miraflores](https://open.spotify.com/artist/2gNsyO8EaIN8NcBekODo7g) | [lo que no tiene forma](https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx) | 4:11 |
+| 20 | [lo que no tiene forma](https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02) | [miraflores](https://open.spotify.com/artist/2gNsyO8EaIN8NcBekODo7g) | [lo que no tiene forma](https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx) | 4:11 |
+| 21 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
 | 22 | [Monty murió por mi culpa y ahora su fantasma no deja de molestarme](https://open.spotify.com/track/1Css9p0LMeZ8v84E7tig4j) | [Angelo Con Baja Autoestima](https://open.spotify.com/artist/15eh6gwszLI2pu628n0nRx) | [Verde Color Universo](https://open.spotify.com/album/7hIp2B3nKf6iERwUkWk9IS) | 3:02 |
 | 23 | [Emo Mid Windows](https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs) | [El mejor verano de mi vida](https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n) | [El mejor verano de mi vida](https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2) | 2:26 |
 | 24 | [Aniversários São Difíceis](https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY) | [El Toro Fuerte](https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ) | [Nossos Amigos e os Lugares Que Visitamos](https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL) | 6:21 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 40 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
 | 41 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
 | 42 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
-| 43 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
-| 44 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
-| 45 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
+| 43 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
+| 44 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
+| 45 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
 | 46 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
 | 47 | [Todo es igual](https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT) | [Dan Taylor MX](https://open.spotify.com/artist/3XMLtLBrACQZcPO846w2Ri) | [IV](https://open.spotify.com/album/5vEJgoBOUoxPGyIFQN71k6) | 2:12 |
 | 48 | [Sabado en Alemán](https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X) | [Teniente](https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a) | [Fuseimyaku](https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL) | 4:13 |

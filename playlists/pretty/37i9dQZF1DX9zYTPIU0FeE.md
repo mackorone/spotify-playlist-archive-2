@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Bokang Ramatlapeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,185 likes - 60 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,189 likes - 60 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 51 | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 |
 | 52 | [Air](https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [A Semblance: Of Return](https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl) | 6:33 |
 | 53 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
-| 54 | [Kwandebele \(Live\)](https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [ISIGQI \(live at the bird's eye\)](https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM) | 7:20 |
-| 55 | [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 |
+| 54 | [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 |
+| 55 | [Kwandebele \(Live\)](https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [ISIGQI \(live at the bird's eye\)](https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM) | 7:20 |
 | 56 | [People of the South](https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu) | [Viwe Mkizwana Ensemble](https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4) | [People of the South](https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd) | 5:45 |
 | 57 | [Africa](https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP) | [Lucas Senyatso](https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy) | [Africa](https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E) | 3:56 |
 | 58 | [Homecoming \(Part 1\) \- Revisited](https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Homecoming \(Part 1\) \[Revisited\]](https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT) | 6:11 |

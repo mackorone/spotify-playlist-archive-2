@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,917 songs - 5 day 10 hr 5 min
+1,918 songs - 5 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Fading Out](https://open.spotify.com/track/0na4GriccSSdSu8QquLDYd) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Fading Out](https://open.spotify.com/album/0HrNoFYHg4dNuosyMjmbZy) | 4:03 | 2026-07-10 |  |
 | [Falcon Eyes](https://open.spotify.com/track/0cdKQ230JvdLwG2JtPQ0Ws) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Falcon Eyes](https://open.spotify.com/album/4t4XC01yuFtLTcaWopgw3y) | 3:42 | 2022-12-28 | 2023-01-06 |
 | [Fall \- 6AM Mix](https://open.spotify.com/track/63dG0sIaqOYLFZ0S94XF89) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Fall \(KC Lights Remixes\)](https://open.spotify.com/album/7amjEc3T8lTIJuOFFjbORO) | 3:17 | 2022-03-25 | 2022-12-29 |
-| [Fall Apart](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Fall Apart](https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2) | 3:08 | 2025-01-24 |  |
+| [Fall Apart](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Fall Apart](https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2) | 3:08 | 2025-01-24 | 2026-07-16 |
 | [Fall in Deep](https://open.spotify.com/track/4pgOyxhTFOuNZJndYQJkKk) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fall in Deep](https://open.spotify.com/album/0ro9l9lDWGBP8liktBsJOZ) | 3:37 | 2020-05-18 | 2021-01-11 |
 | [Fall To You](https://open.spotify.com/track/563UGSS5oMHKG2Xx2mPivC) | [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fall To You](https://open.spotify.com/album/4nzE5FiBuMwS3n5TQaGJbl) | 4:07 | 2026-01-16 | 2026-04-10 |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-09 | 2022-12-29 |
@@ -1194,6 +1194,7 @@
 | [No Time Like Now \- Yoste Remix](https://open.spotify.com/track/7aZnBNLw2fiQ2nFYSICkXs) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Awake \(Remixes\)](https://open.spotify.com/album/4f9voI47wfAZIp0UgwGy6o) | 3:01 | 2020-03-22 | 2022-04-19 |
 | [No Way Back](https://open.spotify.com/track/5pt3fpHOY7hevMXxyj8P4S) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Weird Kid](https://open.spotify.com/album/0exttWypl3tW1MIkkeqgVu) | 4:02 | 2020-03-18 | 2020-07-18 |
 | [No Way Back](https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Circle In Time: Bonus Tracks](https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC) | 4:33 | 2024-11-15 | 2025-03-08 |
+| [No Way Out](https://open.spotify.com/track/78Tuh53Z1R1H99xVFJoffE) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [No Way Out](https://open.spotify.com/album/3MC1XET81JT8nChk0UTDtg) | 4:16 | 2026-07-10 |  |
 | [Nobody](https://open.spotify.com/track/5b3VOW8Z3KRPrUS2889NfE) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Ghost Notes](https://open.spotify.com/album/17RQgvIhxDC17NKO71jkZx) | 4:28 | 2020-05-22 | 2021-12-21 |
 | [Nobody Seems To Care \- Anjunadeep 08 Mix](https://open.spotify.com/track/1x59oKVUwdqBUMWjc9OtQN) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 5:52 | 2020-05-22 | 2020-07-03 |
 | [Nocturne \- Frederic Robinson Remix](https://open.spotify.com/track/0QvohxRXfJAuCWNnaBk2N1) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Frederic Robinson](https://open.spotify.com/artist/3wCcW4YNnb7qT4wOMBfkfr) | [Nocturne \(Frederic Robinson Remix\)](https://open.spotify.com/album/1fYec5YDMGEWVff8XiXiBo) | 4:03 | 2020-05-18 | 2021-03-10 |

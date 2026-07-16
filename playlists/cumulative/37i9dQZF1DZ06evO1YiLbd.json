@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u96c6",
+        "url": "https://open.spotify.com/album/2w1RtD6AONTpmaNibYVvpM"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125748,
+      "name": "A Sunny Day Stroll",
+      "url": "https://open.spotify.com/track/4vzhgO9Wk0skMbSRG21mlf"
+    },
+    {
+      "album": {
         "name": "My Hero Academia: FINAL SEASON (Original Series Soundtrack) Pre-release",
         "url": "https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K"
       },
@@ -702,7 +720,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 185200,
       "name": "Grief (Piano Solo Ver.)",
       "url": "https://open.spotify.com/track/0JUCIeprrKwVed2QfqQgiC"
@@ -3188,7 +3206,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 190240,
       "name": "\u5f37\u304f\u306a\u308c",
       "url": "https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E"
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 141160,
       "name": "\u8105\u8feb(\u3057\u3093\u3089\u3044)",
       "url": "https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j"

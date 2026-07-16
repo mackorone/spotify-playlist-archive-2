@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAC8H6Eo98FKKKWoG3RshkwV",
+  "snapshot_id": "alV8AAAAAADgrIlPSYGhiBdW92TOG7jd",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Comin' From / Khe Sanh - Medley",
+      "url": "https://open.spotify.com/track/5lotEi7KPbW8VYwyKhV8bW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adam Brand (Special Bonus Tour Edition)",
         "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 218666,
       "name": "Love Away The Night",
       "url": "https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Comin' From / Khe Sanh - Medley",
-      "url": "https://open.spotify.com/track/5lotEi7KPbW8VYwyKhV8bW"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
       "duration_ms": 238240,
       "name": "This Time Of Year",
       "url": "https://open.spotify.com/track/6IEZSsTVESxddW1CqMClGs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Every Time She Walks By",
-      "url": "https://open.spotify.com/track/1dUyGRhjo2fLkyUnGJ4883"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Every Time She Walks By",
+      "url": "https://open.spotify.com/track/1dUyGRhjo2fLkyUnGJ4883"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Speed of Life",
         "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 196181,
       "name": "Freakin' Weekend",
       "url": "https://open.spotify.com/track/0uWn5pMMb1go0idjjYxgRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "When I Get My Wheels",
-      "url": "https://open.spotify.com/track/128zWWtr1fYyxJNLi0bFYh"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "When I Get My Wheels",
+      "url": "https://open.spotify.com/track/128zWWtr1fYyxJNLi0bFYh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
       },
@@ -615,26 +615,6 @@
       "duration_ms": 190754,
       "name": "Changing Tunes",
       "url": "https://open.spotify.com/track/6WRpvScDBQhxZaxopTLvj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speed of Life",
-        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        },
-        {
-          "name": "Casey Donovan",
-          "url": "https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X"
-        }
-      ],
-      "duration_ms": 205022,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/5mP1Lr0EfB2rj2BAfYaZag"
     },
     {
       "added_at": null,
@@ -655,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adam Brand (Special Bonus Tour Edition)",
-        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
       },
       "artists": [
         {
           "name": "Adam Brand",
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Casey Donovan",
+          "url": "https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X"
         }
       ],
-      "duration_ms": 207400,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/2eHg7AeicXla6XsfH5G11n"
+      "duration_ms": 205022,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/5mP1Lr0EfB2rj2BAfYaZag"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adam Brand (Special Bonus Tour Edition)",
+        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/2eHg7AeicXla6XsfH5G11n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What a Life",
         "url": "https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD"
       },
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Is A Highway",
+        "url": "https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7"
+      },
+      "artists": [
+        {
+          "name": "Jason Owen",
+          "url": "https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05"
+        },
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 270782,
+      "name": "Sweet Home Alabama (feat. Adam Brand)",
+      "url": "https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get On Your Feet",
         "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
       },
@@ -823,22 +843,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is A Highway",
-        "url": "https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7"
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
       },
       "artists": [
-        {
-          "name": "Jason Owen",
-          "url": "https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05"
-        },
         {
           "name": "Adam Brand",
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 270782,
-      "name": "Sweet Home Alabama (feat. Adam Brand)",
-      "url": "https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC"
+      "duration_ms": 182140,
+      "name": "Speed of Life",
+      "url": "https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Thump",
+      "url": "https://open.spotify.com/track/3vVdzNLiy8wrub6LxY584E"
     },
     {
       "added_at": null,
@@ -852,41 +884,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 281840,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adam Brand (Special Bonus Tour Edition)",
-        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Feelin' Single Seein' Double",
-      "url": "https://open.spotify.com/track/0T6Kyw9tweLpFJsjCuNWBJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speed of Life",
-        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "Speed of Life",
-      "url": "https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT"
+      "duration_ms": 183280,
+      "name": "We're Makin' Up",
+      "url": "https://open.spotify.com/track/5cIeWT5M7BcnQIg3qn2ZEv"
     }
   ],
   "unique_name": "This Is Adam Brand",

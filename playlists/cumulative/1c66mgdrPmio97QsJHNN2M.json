@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 197997,
       "name": "At The Time In New York",
       "url": "https://open.spotify.com/track/4g3x8k65lqP9bRUvqD1oL0"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 168724,
       "name": "Becca's Song",
       "url": "https://open.spotify.com/track/2p39YPuIoiXiN4o3008u7k"
@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 291447,
       "name": "Black Waters",
       "url": "https://open.spotify.com/track/7qWoBoXAPrKl8rtf9O7cYj"
@@ -4772,6 +4772,24 @@
       "duration_ms": 158769,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/3uD74LCzCjXIDq3YvfES8R"
+    },
+    {
+      "album": {
+        "name": "Body Party",
+        "url": "https://open.spotify.com/album/2ZHrT8qKtovOZuEE9gKdye"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167595,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/6zlLeBm2IBiFaYwckiq8Hs"
     },
     {
       "album": {
@@ -5694,7 +5712,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 169218,
       "name": "Butterflies We Chased",
       "url": "https://open.spotify.com/track/6iV3Xjp48A4JtEHOsBNBu9"
@@ -8102,7 +8120,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 200610,
       "name": "Damn Luxury",
       "url": "https://open.spotify.com/track/71Snil0cOeUszQZMBG8ORf"
@@ -8522,7 +8540,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 203592,
       "name": "DEAD WEIGHT",
       "url": "https://open.spotify.com/track/2rY6U6EFbybjYFTXuu9kLN"
@@ -8940,10 +8958,32 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 197800,
       "name": "Did You Know It My Friend",
       "url": "https://open.spotify.com/track/4tdivNk8izLC7v1UzML87p"
+    },
+    {
+      "album": {
+        "name": "Die By The Sword",
+        "url": "https://open.spotify.com/album/1K6v41Xlv4fDiyqgkWVZCB"
+      },
+      "artists": [
+        {
+          "name": "Kiaatti",
+          "url": "https://open.spotify.com/artist/377cfCgISHAg4XpqT07ei8"
+        },
+        {
+          "name": "ADG YellaBoi",
+          "url": "https://open.spotify.com/artist/6wIfVfxdMW2UNePhYv1cob"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177175,
+      "name": "Die By The Sword",
+      "url": "https://open.spotify.com/track/2rJne5ulBILHWgOYGWOq5F"
     },
     {
       "album": {
@@ -9048,7 +9088,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 157709,
       "name": "DIGNITY",
       "url": "https://open.spotify.com/track/0QzCTGI2x0aR6gmOcmoaA3"
@@ -11406,7 +11446,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 204984,
       "name": "Eternal Flame Inside",
       "url": "https://open.spotify.com/track/1EMgHAulWiukWelGGIHB19"
@@ -13834,7 +13874,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 225730,
       "name": "FRIENDLY FIRE",
       "url": "https://open.spotify.com/track/5yt6fjF2OF0dNlyLVxY3Sm"
@@ -19814,7 +19854,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 271680,
       "name": "Is This Normal? \u2013 My Heritage",
       "url": "https://open.spotify.com/track/4GcNNXYroiU0XKcZMvCnBj"
@@ -20042,7 +20082,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 192584,
       "name": "It\u2019s Not Like I\u2019m in Love",
       "url": "https://open.spotify.com/track/2Yv78DQVL0T4zAwcQ9fJTa"
@@ -24192,7 +24232,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 169285,
       "name": "Master Manipulator",
       "url": "https://open.spotify.com/track/2jObfi1IcQPvKrRGJJ8cgT"
@@ -26582,7 +26622,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 246688,
       "name": "NEVER FADE",
       "url": "https://open.spotify.com/track/08NDdyzO46LeYLeQOCjZfT"
@@ -26708,7 +26748,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 195494,
       "name": "New Classic",
       "url": "https://open.spotify.com/track/7biQFmMlQWFVT63Adgr08w"
@@ -26762,7 +26802,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 156800,
       "name": "New Revisions",
       "url": "https://open.spotify.com/track/3c4f856B08uJa145XGBu6W"
@@ -28566,7 +28606,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 128767,
       "name": "Only Like - Radio Edit",
       "url": "https://open.spotify.com/track/2Suk3lU2BrI84QspRYieB3"
@@ -30766,7 +30806,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 192413,
       "name": "PULSY",
       "url": "https://open.spotify.com/track/48kBqgHJIL1iaSJEMAXUAB"
@@ -32088,7 +32128,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 132857,
       "name": "Ride",
       "url": "https://open.spotify.com/track/3gCGGskJBpwRzZnaJA5lOX"
@@ -34678,7 +34718,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 169655,
       "name": "Slide My Way",
       "url": "https://open.spotify.com/track/32GkNKuOiDECS4BhTxErqz"
@@ -34978,7 +35018,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 160000,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/4FvPEmDNN1oZDj7sqUNTWv"
@@ -35576,7 +35616,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 288531,
       "name": "SPEAK TO THE WIND",
       "url": "https://open.spotify.com/track/5Ljwp5uq6ngsIGYfVNFcPV"
@@ -43072,7 +43112,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 188264,
       "name": "WHERE THE RIVER FLOWS",
       "url": "https://open.spotify.com/track/4vmjUd8chnh3jhkDd6WXEa"
@@ -45290,7 +45330,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 147840,
       "name": "Yours Truly (Reimagined)",
       "url": "https://open.spotify.com/track/1dGCzsEVp0ePIAOEQUYgOG"

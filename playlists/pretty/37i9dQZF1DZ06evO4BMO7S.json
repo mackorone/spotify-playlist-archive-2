@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 24515,
+  "num_followers": 24523,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAADaPS5V4U93JBKt7S6VPqk3",
+  "snapshot_id": "alV8AAAAAADqJ8gJApf0KWjXCu1rWoAb",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Over Heels b/w Essentially",
-        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 196214,
-      "name": "Essentially",
-      "url": "https://open.spotify.com/track/3fIwfLKOf7bVMPMxPSITtE"
+      "duration_ms": 150187,
+      "name": "Ibexxi Camp (Night)",
+      "url": "https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Head Over Heels b/w Essentially",
+        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 196214,
+      "name": "Essentially",
+      "url": "https://open.spotify.com/track/3fIwfLKOf7bVMPMxPSITtE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 150187,
-      "name": "Ibexxi Camp (Night)",
-      "url": "https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Exploration (Ruins)",
+      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NamgungFEFERE",
         "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 228544,
       "name": "NamgungFEFERE (feat. Japanese Breakfast)",
       "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Exploration (Ruins)",
-      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 226981,
-      "name": "Skinny Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 66703,
       "name": "Campfires",
       "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 257234,
-      "name": "Say It Ain't So - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 210625,
       "name": "Better the Mask",
       "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 257234,
+      "name": "Say It Ain't So - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
     },
     {
       "added_at": null,

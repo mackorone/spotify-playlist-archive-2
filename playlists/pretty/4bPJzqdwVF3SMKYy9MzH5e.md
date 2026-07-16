@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,397 songs - 5 day 8 hr 39 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,400 songs - 5 day 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2405,5 +2405,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2395 | [FILLE](https://open.spotify.com/track/3rqyWkpY4Qx3HVsryAOcFu) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [FILLE](https://open.spotify.com/album/1reg9VJhlIsm3n9ZthHW2Q) | 2:08 |
 | 2396 | [Crushed](https://open.spotify.com/track/0vnh0D3xtxMMuG0VO8kr2p) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Hazyville](https://open.spotify.com/album/4kMTX5zW78Oj7c60qKzQaA) | 3:15 |
 | 2397 | [Dis\-Moi](https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [CINNA](https://open.spotify.com/album/4zPfDnzz6TWxxhITxpoYBf) | 2:27 |
+| 2398 | [Homie Don’t Shake](https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Homie Don’t Shake](https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w) | 2:56 |
+| 2399 | [GIIRLSWORLD](https://open.spotify.com/track/47AVZ6U30HmixCjSfFQFda) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [GIIRLSWORLD](https://open.spotify.com/album/3OZtJ85LivFVjC7chz2Ker) | 2:44 |
+| 2400 | [Left for USA](https://open.spotify.com/track/62JNG84aYlIXH2bFDd4LXt) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 1:59 |
 
-Snapshot ID: `AAAFZPFlQmClmrn/I87sf86UlJaBLI56`
+Snapshot ID: `AAAFZ20I0wKafZZj4KsV/D3Fb7tR5XLg`

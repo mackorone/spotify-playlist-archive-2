@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,852 likes - 252 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,946 likes - 252 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 14 | [ill be there for u](https://open.spotify.com/track/2pfbhevjWzuSycZzSXAuVU) | [amil raja](https://open.spotify.com/artist/4emKkyOHSx3lMdmNNBZiUt) | [ill be there for u](https://open.spotify.com/album/4igH6XAgzuFY0OXVXOSIod) | 3:09 |
 | 15 | [Like Me Better](https://open.spotify.com/track/4tOYk3SBI6mvxDcmp2QdZz) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Memory Card \(June 2026\)](https://open.spotify.com/album/19tfJ0TQURO6qVOKEFpejJ) | 3:17 |
 | 16 | [Water](https://open.spotify.com/track/3qUoeSO7fHMU9ZMnT9iVuT) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Water](https://open.spotify.com/album/63QRVApN9ugLFMqqufqqdS) | 5:06 |
-| 17 | [Feel So Right](https://open.spotify.com/track/1w4ovi2ob7kOujP5COL8v7) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kimonos](https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN) | [Feel So Right](https://open.spotify.com/album/0SAtqCGoeVPEIpvpZjRQE6) | 3:25 |
+| 17 | [Feel So Right](https://open.spotify.com/track/1w4ovi2ob7kOujP5COL8v7) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [KIMONOS](https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN) | [Feel So Right](https://open.spotify.com/album/0SAtqCGoeVPEIpvpZjRQE6) | 3:25 |
 | 18 | [Sweet Nothings](https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Sweet Nothings](https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE) | 2:22 |
 | 19 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
 | 20 | [Down For You \(feat\. Jyll\)](https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Down For You \(feat\. Jyll\)](https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf) | 3:22 |

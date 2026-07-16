@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 195518,
+  "num_followers": 195563,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAAQYuI5WV2FeOxDqo2sUJNL",
+  "snapshot_id": "alV8AAAAAACAdSo0fCwlXkz44iDApxHC",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 271859,
       "name": "El AV",
       "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 228379,
-      "name": "Sobre Mis Pies",
-      "url": "https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pocho 43",
         "url": "https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 227184,
       "name": "El Pocho 43",
       "url": "https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 228379,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy Ya Me Voy",
+        "url": "https://open.spotify.com/album/0llMwofoz2YhJP9H4hORhh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 260063,
+      "name": "Hoy Ya Me Voy",
+      "url": "https://open.spotify.com/track/4o5jGJPVE7bDeidcEM1qYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy Ya Me Voy",
-        "url": "https://open.spotify.com/album/0llMwofoz2YhJP9H4hORhh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 260063,
-      "name": "Hoy Ya Me Voy",
-      "url": "https://open.spotify.com/track/4o5jGJPVE7bDeidcEM1qYv"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "El Pocho (En Vivo)",
+        "url": "https://open.spotify.com/album/7eSm5HJazbVWs2NRjOTE5v"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 277105,
-      "name": "El Robot",
-      "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
+      "duration_ms": 168344,
+      "name": "El Pocho - En Vivo",
+      "url": "https://open.spotify.com/track/3JbmQUutdkiOrW70mN6yUj"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho (En Vivo)",
-        "url": "https://open.spotify.com/album/7eSm5HJazbVWs2NRjOTE5v"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 168344,
-      "name": "El Pocho - En Vivo",
-      "url": "https://open.spotify.com/track/3JbmQUutdkiOrW70mN6yUj"
+      "duration_ms": 277105,
+      "name": "El Robot",
+      "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
     },
     {
       "added_at": null,

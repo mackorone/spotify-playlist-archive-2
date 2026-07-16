@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Keith Ape\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,178 likes - 123 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,106 likes - 123 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-154 songs - 7 hr 44 min
+155 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Top 3](https://open.spotify.com/track/493nGQfnCmfvxD2s8VC59m) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Top 3](https://open.spotify.com/album/3JOf9ABKYYD2hiCdUMLsDB) | 3:10 | 2025-08-26 |  |
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 | 2022-09-16 | 2025-04-01 |
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4F8RQF4VdR0WWuv1OfCIW3) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4RmBffeqCWf8nG39vydGv7) | 3:17 | 2025-03-31 |  |
+| [TrAigO](https://open.spotify.com/track/3HyuKSBFbOgD2Cm2TnJFRi) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:30 | 2026-07-15 |  |
 | [Tu Amor Como Cigarro](https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 4:00 | 2026-05-17 |  |
 | [Tu Perfume](https://open.spotify.com/track/38dXuZfkZKTDEkQ8APoNz5) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:54 | 2025-03-08 | 2025-04-12 |
 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 | 2024-02-16 | 2025-03-09 |

@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29334,
+  "num_followers": 29340,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "El mago y la publicidad",
+        "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 140249,
+      "name": "El mago y la publicidad",
+      "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "El mago y la publicidad",
-        "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        },
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 140249,
-      "name": "El mago y la publicidad",
-      "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
-      },
-      "artists": [
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 222006,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
+      },
+      "artists": [
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/5Iah1jUzkQe7WWtCBbq927"
-      },
-      "artists": [
-        {
-          "name": "Alexia Naomi",
-          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/5SfWbIwxCKmEYp9INyXdpC"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "V13",
         "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 175810,
       "name": "V13",
       "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/5Iah1jUzkQe7WWtCBbq927"
+      },
+      "artists": [
+        {
+          "name": "Alexia Naomi",
+          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/5SfWbIwxCKmEYp9INyXdpC"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Juana De C\u00e1diz",
         "url": "https://open.spotify.com/album/701XCJBlqDynw3S06YAufd"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 203701,
       "name": "Juana De C\u00e1diz",
       "url": "https://open.spotify.com/track/6HPltAAAB93eEXGfPuDW7K"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Cortina",
-        "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 191118,
-      "name": "Cortina",
-      "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "REGALAMOS ROSAS EN LA LUNA",
         "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 280106,
       "name": "REGALAMOS ROSAS EN LA LUNA",
       "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Cortina",
+        "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 191118,
+      "name": "Cortina",
+      "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Po\u00e9tica Bailable Vol. 1",
+        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "\u00a1Juegue!",
+      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Cantor",
         "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
       },
@@ -1611,18 +1627,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Po\u00e9tica Bailable Vol. 1",
-        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
+        "name": "Empez\u00e1",
+        "url": "https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp"
       },
       "artists": [
         {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+          "name": "Martina P\u00e9rez Cabrera",
+          "url": "https://open.spotify.com/artist/7pUWJxIzYbGScodFyWco4d"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Jer\u00f3nimo Verd\u00fan",
+          "url": "https://open.spotify.com/artist/3TmRLOd6WcO1FcYVEuHmoR"
         }
       ],
-      "duration_ms": 185666,
-      "name": "\u00a1Juegue!",
-      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
+      "duration_ms": 199429,
+      "name": "Empez\u00e1",
+      "url": "https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1679,30 +1703,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Empez\u00e1",
-        "url": "https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp"
-      },
-      "artists": [
-        {
-          "name": "Martina P\u00e9rez Cabrera",
-          "url": "https://open.spotify.com/artist/7pUWJxIzYbGScodFyWco4d"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Jer\u00f3nimo Verd\u00fan",
-          "url": "https://open.spotify.com/artist/3TmRLOd6WcO1FcYVEuHmoR"
-        }
-      ],
-      "duration_ms": 199429,
-      "name": "Empez\u00e1",
-      "url": "https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 172137,
       "name": "Chance",
       "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/0axvfQLHypEXhvM6wccZHk"
-      },
-      "artists": [
-        {
-          "name": "Purahei Soul",
-          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
-        }
-      ],
-      "duration_ms": 178576,
-      "name": "Soles en la Luna - Ma'\u1ebdna anga",
-      "url": "https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1751,6 +1735,22 @@
       "duration_ms": 220435,
       "name": "excusa barata",
       "url": "https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/0axvfQLHypEXhvM6wccZHk"
+      },
+      "artists": [
+        {
+          "name": "Purahei Soul",
+          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
+        }
+      ],
+      "duration_ms": 178576,
+      "name": "Soles en la Luna - Ma'\u1ebdna anga",
+      "url": "https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Otras Bocas, Otras Lenguas",
-        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
-      },
-      "artists": [
-        {
-          "name": "Alejo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 285375,
-      "name": "Otras Bocas, Otras Lenguas",
-      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Desencanto",
         "url": "https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 258269,
       "name": "Desencanto",
       "url": "https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Otras Bocas, Otras Lenguas",
+        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
+      },
+      "artists": [
+        {
+          "name": "Alejo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "Otras Bocas, Otras Lenguas",
+      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
     },
     {
       "added_at": "2026-03-10 15:20:53",

@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fafenos",
+        "url": "https://open.spotify.com/album/6ByKqInwOclMGzm6pA0BCD"
+      },
+      "artists": [
+        {
+          "name": "Frane",
+          "url": "https://open.spotify.com/artist/6nS9ouoHJP473M7180H9tP"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114878,
+      "name": "Ac\u00fafenos",
+      "url": "https://open.spotify.com/track/4Ab2fhl8bxLtQ5Qni3oBgB"
+    },
+    {
+      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/1j6TxzD6vU4bvHZ37pJwe7"
       },
@@ -266,6 +284,24 @@
       "duration_ms": 228828,
       "name": "Agua",
       "url": "https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn"
+    },
+    {
+      "album": {
+        "name": "AH\u00cd VIENE LA MIEL",
+        "url": "https://open.spotify.com/album/5SREVdMCXgDFk0aDIW1Ld8"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3",
+          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230370,
+      "name": "AH\u00cd VIENE LA MIEL",
+      "url": "https://open.spotify.com/track/3KDa3dYhVsQY7NRd0fOpKD"
     },
     {
       "album": {
@@ -5836,6 +5872,28 @@
       "duration_ms": 223910,
       "name": "Un Verano",
       "url": "https://open.spotify.com/track/4KmifMKGyC8kQ326lEgVUP"
+    },
+    {
+      "album": {
+        "name": "Una Ma\u00f1ana M\u00e1s",
+        "url": "https://open.spotify.com/album/2RipfeES7U9HDusL4hQS9D"
+      },
+      "artists": [
+        {
+          "name": "Mar Marzo",
+          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169670,
+      "name": "Una Ma\u00f1ana M\u00e1s",
+      "url": "https://open.spotify.com/track/4bE74uhUpgxxMQxnqEOO0j"
     },
     {
       "album": {

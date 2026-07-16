@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 49 | [Djigui](https://open.spotify.com/track/6I5R8Zy3dAXyt6CqtpYCsv) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Kemo Kouyaté](https://open.spotify.com/artist/1rJGYz9Kvl5gsyoQHyGZTR) | [Mandekalou \- Les voix mandingues](https://open.spotify.com/album/2bTxC4rVfNIhHZLjFCkCrP) | 8:08 |
 | 50 | [Yele n Na](https://open.spotify.com/track/0e4Nz847n4DHLxEFQJWEpY) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:13 |
 
-Snapshot ID: `alQqgAAAAADj26Uo6Hkgk5K230Y1dpZ0`
+Snapshot ID: `alV8AAAAAAB1JYouABxQLrWfzDHg40Tq`

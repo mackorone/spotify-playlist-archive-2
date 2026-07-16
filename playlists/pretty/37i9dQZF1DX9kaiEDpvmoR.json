@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93909,
+  "num_followers": 93905,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
+        "name": "Mitt hj\u00e4rta en rebell",
+        "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        }
+      ],
+      "duration_ms": 191635,
+      "name": "Mitt hj\u00e4rta en rebell",
+      "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
         "name": "One on One",
         "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
       },
@@ -567,6 +583,22 @@
       "duration_ms": 221623,
       "name": "One on One",
       "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 198796,
+      "name": "Sagolik",
+      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -591,38 +623,6 @@
       "duration_ms": 208960,
       "name": "Eld fire fogo",
       "url": "https://open.spotify.com/track/6bUjuJns2EqRNhAr9HTa96"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 198796,
-      "name": "Sagolik",
-      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
-        "name": "Mitt hj\u00e4rta en rebell",
-        "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        }
-      ],
-      "duration_ms": 191635,
-      "name": "Mitt hj\u00e4rta en rebell",
-      "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Everything's wasted",
-        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 262501,
-      "name": "Everything's wasted",
-      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
         "url": "https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv"
       },
@@ -891,34 +875,18 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+        "name": "Everything's wasted",
+        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
       },
       "artists": [
         {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
         }
       ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
-        "name": "\u00d6ver",
-        "url": "https://open.spotify.com/album/6Rj381d50c8zjs37wts189"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 229146,
-      "name": "\u00d6ver",
-      "url": "https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK"
+      "duration_ms": 262501,
+      "name": "Everything's wasted",
+      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -939,18 +907,34 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Honey Honey",
-        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
+        "name": "\u00d6ver",
+        "url": "https://open.spotify.com/album/6Rj381d50c8zjs37wts189"
       },
       "artists": [
         {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
         }
       ],
-      "duration_ms": 179444,
-      "name": "Honey Honey",
-      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
+      "duration_ms": 229146,
+      "name": "\u00d6ver",
+      "url": "https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -967,6 +951,22 @@
       "duration_ms": 274000,
       "name": "Bra \u00e4nd\u00e5",
       "url": "https://open.spotify.com/track/1N49b6uPQ4xAT6mpYzvPRR"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "Honey Honey",
+        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Nu \u00e4r det sommar",
-        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 187604,
-      "name": "Nu \u00e4r det sommar",
-      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
         "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 288020,
       "name": "You",
       "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "Nu \u00e4r det sommar",
+        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 187604,
+      "name": "Nu \u00e4r det sommar",
+      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "Deabolo Hypomania",
         "url": "https://open.spotify.com/album/05CloJ3lVo4wMkn4A2jrgo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 192683,
       "name": "Bipolar Crack",
       "url": "https://open.spotify.com/track/2oMvt1MKq8zgeq57Uf9CL7"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Valborg hela veckan",
-        "url": "https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 166511,
-      "name": "Valborg hela veckan",
-      "url": "https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "M\u00e4nniskobarn",
         "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
-        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
+        "name": "Valborg hela veckan",
+        "url": "https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H"
       },
       "artists": [
         {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Du \u00e4r vid liv",
-      "url": "https://open.spotify.com/track/2pyPEuPvXdvJMr7CjN0cUA"
+      "duration_ms": 166511,
+      "name": "Valborg hela veckan",
+      "url": "https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1247,6 +1231,22 @@
       "duration_ms": 172874,
       "name": "EXISTENS",
       "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
+        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Du \u00e4r vid liv",
+      "url": "https://open.spotify.com/track/2pyPEuPvXdvJMr7CjN0cUA"
     },
     {
       "added_at": "2026-07-02 22:00:39",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-02 22:00:39",
       "album": {
-        "name": "Bara trummor kvar",
-        "url": "https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 218622,
-      "name": "Bara trummor kvar",
-      "url": "https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4"
-    },
-    {
-      "added_at": "2026-07-02 22:00:39",
-      "album": {
         "name": "Svindlande h\u00f6jder",
         "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 255386,
       "name": "Svindlande h\u00f6jder",
       "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+    },
+    {
+      "added_at": "2026-07-02 22:00:39",
+      "album": {
+        "name": "Bara trummor kvar",
+        "url": "https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd"
+      },
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "duration_ms": 218622,
+      "name": "Bara trummor kvar",
+      "url": "https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4"
     },
     {
       "added_at": "2026-07-02 22:00:39",

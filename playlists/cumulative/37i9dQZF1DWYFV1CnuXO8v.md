@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-352 songs - 22 hr 28 min
+354 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Be Omry Shareek](https://open.spotify.com/track/4TESi8O8ReCLnBLNYZ0aVg) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [Be Omry Shareek](https://open.spotify.com/album/4mRSYRPzqqlLrF7ZsDhk7L) | 3:13 | 2023-02-13 | 2023-05-04 |
 | [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 | 2023-07-03 | 2023-09-09 |
 | [Beehom Kolohom](https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Beehom Kolohom](https://open.spotify.com/album/1TUpXSqsCKAT3nm6EJszhe) | 3:48 | 2023-02-13 | 2023-05-23 |
-| [Beiny we Beinak](https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Beiny we Beinak](https://open.spotify.com/album/4PpzhwjYyUeAWhmZMA96Le) | 3:26 | 2023-09-08 |  |
+| [Beiny we Beinak](https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Beiny we Beinak](https://open.spotify.com/album/4PpzhwjYyUeAWhmZMA96Le) | 3:26 | 2023-09-08 | 2026-07-16 |
 | [Bel Bont El3areedh](https://open.spotify.com/track/4ZU4yHDLZcMcy8BF6Y89fu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bel Bont El3areedh](https://open.spotify.com/album/6w5blHKUDHSspaKU5cuf9J) | 3:18 | 2023-02-13 | 2023-05-23 |
 | [Betewhasheiny](https://open.spotify.com/track/0BPqBuNdkz210zBh9AbC4m) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Tewedny Leih](https://open.spotify.com/album/74Httxkj689OzX0tJeCxP7) | 4:48 | 2023-02-13 | 2023-09-09 |
 | [Bi Kelma Menak](https://open.spotify.com/track/042s2c7HA1Bd1LLFUEaja0) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Habbeit](https://open.spotify.com/album/06o2PRxxn8CSKjNkEiOyCk) | 4:17 | 2023-09-14 | 2024-01-20 |
@@ -154,6 +154,7 @@
 | [Je Suis Malade](https://open.spotify.com/track/1QEg5Sqt8VCGDuuJl1hlAF) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Je Suis Malade](https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD) | 2:55 | 2023-02-13 | 2023-05-23 |
 | [Kalam](https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Hazi Men El Sama](https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o) | 3:59 | 2023-02-13 |  |
 | [Kam Sana](https://open.spotify.com/track/1Og247VjsUi4hZIBq6fZEt) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kam Sana](https://open.spotify.com/album/6yxp3wpvxoafrJ6vhdfG35) | 2:56 | 2023-07-13 | 2023-09-09 |
+| [Kan 3ala 3eny \(Red Bull Mazzika Salonat\)](https://open.spotify.com/track/48tGSTYyKXZiHgwPDObPe1) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Kan 3ala 3eny \(Red Bull Mazzika Salonat\)](https://open.spotify.com/album/7HLh6PGIFjgHlLxNCKEK6l) | 2:07 | 2026-07-15 |  |
 | [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2023-02-13 | 2024-02-19 |
 | [Khaleke Fe Hodny el Leila](https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Khaleke Fe Hodny el Leila](https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4) | 3:20 | 2023-02-13 |  |
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 | 2023-02-13 |  |
@@ -207,7 +208,7 @@
 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 | 2023-02-13 |  |
 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 | 2023-02-13 |  |
 | [Qalby Ertah](https://open.spotify.com/track/4wo3x8RiCShFhuABw71uxE) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Qalby Ertah](https://open.spotify.com/album/3vsZQu0Z4fOa3FrzQToHmA) | 3:45 | 2023-09-08 | 2023-09-15 |
-| [Qusad Einy](https://open.spotify.com/track/4k9cMYGwCfSNa0wFCN0uDo) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Lealy Nahary](https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg) | 4:24 | 2026-06-17 |  |
+| [Qusad Einy](https://open.spotify.com/track/4k9cMYGwCfSNa0wFCN0uDo) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Lealy Nahary](https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg) | 4:24 | 2026-06-17 | 2026-07-16 |
 | [Rabe3 Fengan Ahwa](https://open.spotify.com/track/7arsxgfPgULHOa5rsENcZI) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Rabe3 Fengan Ahwa](https://open.spotify.com/album/0KpM26FhOZpln9EQeJ4OBm) | 3:30 | 2023-02-13 | 2023-09-15 |
 | [Ragel Mesaly](https://open.spotify.com/track/4Wxp3iwiT4XJZ3lEA9A7Ok) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 4:32 | 2023-10-05 | 2024-02-08 |
 | [Rawa2any](https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Rawa2any](https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS) | 3:11 | 2023-09-29 | 2024-09-06 |
@@ -316,6 +317,7 @@
 | [فرحه وبس](https://open.spotify.com/track/7gLdjsgvdlqGpGhqw4e07X) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [شايفه فيك](https://open.spotify.com/album/6ylllDswM090TsaEqRXsci) | 3:24 | 2023-09-08 | 2023-09-22 |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2023-02-13 | 2023-09-15 |
 | [فضحاني عنية](https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa) | [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فضحاني عنية](https://open.spotify.com/album/090FJL1hXb1Bxvf5cj6JZr) | 4:37 | 2024-02-16 | 2024-02-28 |
+| [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 | 2026-07-15 |  |
 | [قصة حب \- نسخة شرقي](https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 3:33 | 2023-02-13 | 2023-07-14 |
 | [قصة حبنا](https://open.spotify.com/track/6MIBjmomqZw9un6PHG0IsR) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [النسخة الجديدة](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 4:45 | 2023-02-13 | 2023-05-05 |
 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 | 2023-09-15 |  |

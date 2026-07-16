@@ -7497,6 +7497,24 @@
     },
     {
       "album": {
+        "name": "FADEAWAY",
+        "url": "https://open.spotify.com/album/3EQJvXNmXb3CVFgOBbnOB6"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197880,
+      "name": "FADEAWAY",
+      "url": "https://open.spotify.com/track/7uL3j02IAUGhqcBZdkpXJt"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K"
       },

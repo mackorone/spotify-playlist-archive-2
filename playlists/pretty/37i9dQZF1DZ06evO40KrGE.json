@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 38184,
+  "num_followers": 38185,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAADZN2chNuzZ3vFdHQUi1Dms",
+  "snapshot_id": "alV8AAAAAAAP+5IjRSzEcNhSXLyXVO2T",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 232571,
-      "name": "Recompensa",
-      "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Louvarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 334656,
       "name": "Te Louvarei - Ao Vivo",
       "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "Recompensa",
+      "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For\u00e7a Imensa",
+        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 302927,
+      "name": "Igreja Pequena",
+      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 322478,
       "name": "Louve Sempre",
       "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For\u00e7a Imensa",
-        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 302927,
-      "name": "Igreja Pequena",
-      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 222958,
-      "name": "Para Sempre",
-      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Pare Agora",
         "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 269775,
       "name": "N\u00e3o Pare Agora",
       "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 222958,
+      "name": "Para Sempre",
+      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > roots run deep with Carter Faith and Wyatt Flores
 
-488 songs - 1 day 5 hr 12 min
+489 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Franklin House](https://open.spotify.com/track/3R4he4bi1O5gQxDWRHYJHj) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Franklin House](https://open.spotify.com/album/7FvCQcq1nnenLdOl6xolpU) | 4:50 | 2025-02-21 | 2026-01-17 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2023-02-24 | 2023-12-09 |
 | [Frostbite](https://open.spotify.com/track/0tW7pjrVgWcu0yUr0OJVsC) | [Jake Kohn](https://open.spotify.com/artist/5tfKTqbUneP4J3dHeRiLSw) | [Frostbite](https://open.spotify.com/album/1PdfeND2jB3u8fvQ2G243x) | 3:40 | 2023-11-17 | 2024-04-27 |
+| [Gary](https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Gary](https://open.spotify.com/album/2oRy1LSwPVKeELSNxewLHc) | 5:14 | 2026-07-15 |  |
 | [Gas Station Flowers](https://open.spotify.com/track/7q5DhpYZrHZxxG3UNMxFQN) | [Zandi Holup](https://open.spotify.com/artist/4nDqdCi31TxVG3j6cyMQtR) | [Gas Station Flowers](https://open.spotify.com/album/5f8yEW4g6YneSpxqbri2Pi) | 4:04 | 2023-10-14 |  |
 | [Gas Station Flowers](https://open.spotify.com/track/2lN2MjsqSIBmazsOiRC1y2) | [Zandi Holup](https://open.spotify.com/artist/4nDqdCi31TxVG3j6cyMQtR) | [Wildflower](https://open.spotify.com/album/5uMtols7BBVCKqTh3qIxWS) | 4:06 | 2026-05-01 | 2026-06-27 |
 | [Georgia Girl](https://open.spotify.com/track/7Hk5WvZzinaWXfJ1M6Knsf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:37 | 2024-07-10 |  |

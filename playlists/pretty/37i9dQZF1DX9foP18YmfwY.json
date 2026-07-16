@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 380728,
+  "num_followers": 380770,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -763,46 +763,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Gba Stage, Vol. 35",
-        "url": "https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Um Peregrino",
-          "url": "https://open.spotify.com/artist/46ZuGsckiA4Pwvm3QUyUiR"
-        }
-      ],
-      "duration_ms": 319171,
-      "name": "A Barca",
-      "url": "https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Mostra a Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4EDskVT9iohrgRN3Lvu2CN"
       },
@@ -827,6 +787,46 @@
       "duration_ms": 247792,
       "name": "Mostra a Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/5XlC1vepKohkbVmuCw3heD"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Gba Stage, Vol. 35",
+        "url": "https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Um Peregrino",
+          "url": "https://open.spotify.com/artist/46ZuGsckiA4Pwvm3QUyUiR"
+        }
+      ],
+      "duration_ms": 319171,
+      "name": "A Barca",
+      "url": "https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2026-06-12 03:01:51",

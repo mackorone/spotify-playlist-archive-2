@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4372051,
+  "num_followers": 4371768,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Aquamarine / Arcamarine",
-        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 194180,
-      "name": "Aquamarine / Arcamarine",
-      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Espresso (Working Late Remixes)",
         "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 184156,
       "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
       "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "Aquamarine / Arcamarine",
+        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Aquamarine / Arcamarine",
+      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "My Head & My Heart (Claptone Remix)",
-        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "My Head & My Heart - Claptone Remix",
-      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Girl, so confusing featuring lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "My Head & My Heart (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "My Head & My Heart - Claptone Remix",
+      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
     },
     {
       "added_at": "2026-06-13 04:01:33",
@@ -1141,26 +1141,6 @@
       "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
-      "added_at": "2026-06-13 04:01:33",
-      "album": {
-        "name": "Sick Of Love (Mura Masa Remix)",
-        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 334078,
-      "name": "Sick Of Love (Mura Masa Remix)",
-      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
-    },
-    {
       "added_at": "2026-05-09 02:01:26",
       "album": {
         "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
@@ -1179,6 +1159,26 @@
       "duration_ms": 201711,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
       "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
+    },
+    {
+      "added_at": "2026-06-13 04:01:33",
+      "album": {
+        "name": "Sick Of Love (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 334078,
+      "name": "Sick Of Love (Mura Masa Remix)",
+      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
     },
     {
       "added_at": "2026-05-09 02:01:26",

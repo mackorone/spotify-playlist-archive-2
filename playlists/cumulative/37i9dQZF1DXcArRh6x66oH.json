@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/2oRy1LSwPVKeELSNxewLHc"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314623,
+      "name": "Gary",
+      "url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
+    },
+    {
+      "album": {
         "name": "Gas Station Flowers",
         "url": "https://open.spotify.com/album/5f8yEW4g6YneSpxqbri2Pi"
       },

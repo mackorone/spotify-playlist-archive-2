@@ -2527,6 +2527,28 @@
     },
     {
       "album": {
+        "name": "Bilder von dir",
+        "url": "https://open.spotify.com/album/3CuhVNf6HAxtVf4iT5eNyv"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Chrissyjeey",
+          "url": "https://open.spotify.com/artist/4t1OwXCd8p5VD9DEqsbOjJ"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162713,
+      "name": "Bilder von dir",
+      "url": "https://open.spotify.com/track/10uQtkmgXhqcsuLD4IGseV"
+    },
+    {
+      "album": {
         "name": "Birthday Sex (feat. Jeremih) [Levi Mix]",
         "url": "https://open.spotify.com/album/48WrgU50NKEsOB9TFIlbiw"
       },
@@ -6012,7 +6034,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 123750,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/2kGMz4gdfrAmZ1H6jR2li8"
@@ -8784,6 +8806,28 @@
       "duration_ms": 130298,
       "name": "Helele",
       "url": "https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU"
+    },
+    {
+      "album": {
+        "name": "Here In My Arms (Enjoy The Silence)",
+        "url": "https://open.spotify.com/album/1tku7mFvWNy5EmRy9WKsLe"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Here In My Arms (Enjoy The Silence)",
+      "url": "https://open.spotify.com/track/1rwOLMfAwW4M6sehYf7Lop"
     },
     {
       "album": {
@@ -16735,6 +16779,28 @@
     },
     {
       "album": {
+        "name": "Reasons EP",
+        "url": "https://open.spotify.com/album/7cqwMYtGdmytQ4tga6W6XL"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114103,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1nZz6nJgjcinLKZ40Ulrjj"
+    },
+    {
+      "album": {
         "name": "Rebel Heart",
         "url": "https://open.spotify.com/album/6IXEiaAZLwz49AiaHq01kk"
       },
@@ -16846,7 +16912,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 113618,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk"
@@ -21268,7 +21334,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 207483,
       "name": "Vem Comigo",
       "url": "https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1"

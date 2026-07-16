@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 8450,
+  "num_followers": 8478,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
+        "name": "FAKE feat\uff0e \u5b89\u5ba4\u5948\u7f8e\u6075",
+        "url": "https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        },
+        {
+          "name": "Namie Amuro",
+          "url": "https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL"
+    },
+    {
+      "added_at": "2026-06-26 00:37:16",
+      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 209600,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M"
-    },
-    {
-      "added_at": "2026-06-26 00:37:16",
-      "album": {
-        "name": "FAKE feat\uff0e \u5b89\u5ba4\u5948\u7f8e\u6075",
-        "url": "https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
-        {
-          "name": "Namie Amuro",
-          "url": "https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL"
     },
     {
       "added_at": "2026-06-26 00:37:16",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
+        "name": "Movin' on without you",
+        "url": "https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "B & C",
+      "url": "https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT"
+    },
+    {
+      "added_at": "2026-06-26 00:37:16",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 264006,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5"
-    },
-    {
-      "added_at": "2026-06-26 00:37:16",
-      "album": {
-        "name": "Movin' on without you",
-        "url": "https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "B & C",
-      "url": "https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT"
     },
     {
       "added_at": "2026-06-26 00:37:16",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc"
-      },
-      "artists": [
-        {
-          "name": "Double",
-          "url": "https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "BED (DOUBLES)",
-      "url": "https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR"
-    },
-    {
-      "added_at": "2026-06-26 00:37:16",
-      "album": {
         "name": "NICO",
         "url": "https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 169208,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP"
+    },
+    {
+      "added_at": "2026-06-26 00:37:16",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc"
+      },
+      "artists": [
+        {
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "BED (DOUBLES)",
+      "url": "https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR"
     },
     {
       "added_at": "2026-06-26 00:37:16",

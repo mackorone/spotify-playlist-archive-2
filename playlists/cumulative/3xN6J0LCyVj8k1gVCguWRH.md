@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,276 songs - 14 day 14 hr 58 min
+6,278 songs - 14 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Al Revés](https://open.spotify.com/track/51hp3nw4WEptghJzIezH1w) | [Manny P](https://open.spotify.com/artist/74kdQzJuRodF9irs7FIXSB) | [Al Revés](https://open.spotify.com/album/4C8Q7nrBZ699NTjR82y3ys) | 2:55 | 2024-08-28 | 2024-09-09 |
 | [AL SOL](https://open.spotify.com/track/5XFVj7wjZb3xScbceQIY2e) | [Travel Plans](https://open.spotify.com/artist/23NifRyXOkUITXAPhftjnX), [Natalia Clavier](https://open.spotify.com/artist/5eNBCrl6JL8r6QKkQu733b) | [AL SOL](https://open.spotify.com/album/3r1dHE3PnTao79ANYcz4iY) | 2:22 | 2025-04-09 | 2025-04-21 |
 | [Al son de las balas](https://open.spotify.com/track/6oqnhrAWlGEvcFj8mLj8ut) | [Anna Ferrer](https://open.spotify.com/artist/3It8AsQKxFW3Fx0FrrpF1z), [Dani López](https://open.spotify.com/artist/12bYlNcUnyMzMUAEldwuRD) | [Al son de las balas](https://open.spotify.com/album/1IIjTWBOpUPY06sMQSjQ5r) | 4:02 | 2023-03-11 | 2023-04-03 |
+| [Alaska](https://open.spotify.com/track/3qIevzQIeisJunW320ukvk) | [Maw](https://open.spotify.com/artist/6oPoOnY9pFZIpwpfIwAmzi) | [Cyclo](https://open.spotify.com/album/3q368f3VNEVBq0tV1RQGuJ) | 2:14 | 2026-07-16 |  |
 | [Alexa](https://open.spotify.com/track/6NfIAbSNGsDGC3eT75fxTX) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Alexa](https://open.spotify.com/album/5dLKI7w1n1QiimLQp6f6Bx) | 4:27 | 2022-05-13 | 2022-05-29 |
 | [ALEXANDER MCQUEEN \- Club Version](https://open.spotify.com/track/222Wb60mBCBWTVCXnuWizI) | [BENTLY BOY](https://open.spotify.com/artist/5O6G0s4pUvarYNRP5qhByW), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Elise Estrada](https://open.spotify.com/artist/2YXSkQ0ZcXbIttcvsnbKQ5) | [ALEXANDER MCQUEEN \(The Versions\)](https://open.spotify.com/album/3SfJfd69dsBwKcYfmyHgVu) | 3:04 | 2024-03-03 | 2024-03-14 |
 | [Algo de Mi](https://open.spotify.com/track/7i0cPcwZxHkr48xW8R3UGe) | [Dandy](https://open.spotify.com/artist/2UTLp5oCUAH25hLq8yGZXN) | [Dandy](https://open.spotify.com/album/12ltn3SIfnfo3uU7NSUeRu) | 3:06 | 2023-08-01 | 2023-08-11 |
@@ -2631,6 +2632,7 @@
 | [i'm out](https://open.spotify.com/track/6ZaMUeJbdksiE98WMZg9Gs) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [i'm out](https://open.spotify.com/album/4hzuJ1py4srcceyi5M3ldN) | 3:18 | 2021-06-01 | 2021-06-08 |
 | [I'm Ready](https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh) | 2:17 | 2023-07-31 | 2023-08-20 |
 | [I'm Shakin'](https://open.spotify.com/track/07AjyDeE85pDr4Dj8BzgWB) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:00 | 2022-07-26 | 2024-04-30 |
+| [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 | 2026-07-15 |  |
 | [I'm Still In Love \- Radio Edit](https://open.spotify.com/track/4iTj9g4kGGsuvyYL803hUK) | [Isaac And The Soul Machine](https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld) | [I'm Still In Love \(Radio Edit\)](https://open.spotify.com/album/4ZwDEayKYY68Hkf9fzOxOv) | 2:54 | 2025-05-29 | 2025-06-10 |
 | [I'm the Man](https://open.spotify.com/track/61TecE9fSXzVK411EAMmWi) | [Kendrick P.](https://open.spotify.com/artist/0qrHiWumZtqyV65tKmFWFR) | [I'm the Man](https://open.spotify.com/album/6SOcuDNeilRW2xvjvVWTrA) | 3:08 | 2024-07-27 | 2024-08-07 |
 | [I'm The Problem](https://open.spotify.com/track/7AeM1BGYM7emrqmQn1PuWv) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 2:57 | 2025-06-30 | 2025-12-19 |

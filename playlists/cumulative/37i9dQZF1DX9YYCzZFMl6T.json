@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas Asshole",
+        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185056,
+      "name": "Merry Christmas Asshole",
+      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
+    },
+    {
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4"
       },
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 162333,
       "name": "Under the Mistletoe!",
       "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-183 songs - 11 hr 17 min
+184 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Hechicera](https://open.spotify.com/track/1KT9yq05mrkWpQYIvC9BAH) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/5kZm448aOkmJal9xbHiwh6) | 3:38 | 2025-12-06 |  |
 | [In the Middle](https://open.spotify.com/track/07g2wuOZXmXnqPG1SOdmtt) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:00 | 2023-12-13 | 2024-09-13 |
 | [In the Middle](https://open.spotify.com/track/2yUp50Sl8f1UXvv8Zcbdf1) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/3qifUQcqRxlOWNRcTwo0mS) | 4:00 | 2023-03-09 | 2023-12-14 |
-| [Indestructible](https://open.spotify.com/track/1FWNaYZdL0npIuzxsHb8aK) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/4xUjdG7ySlpPVEFCmjCWG4) | 3:25 | 2023-03-09 |  |
+| [Indestructible](https://open.spotify.com/track/0PcxqkMl22Y1tNeWjhGaUg) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/6ccZZG7WZX2SVMLySKuxVM) | 3:25 | 2026-07-15 |  |
+| [Indestructible](https://open.spotify.com/track/1FWNaYZdL0npIuzxsHb8aK) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/4xUjdG7ySlpPVEFCmjCWG4) | 3:25 | 2023-03-09 | 2026-07-16 |
 | [Indispensable](https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Me Haces Falta](https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc) | 3:27 | 2023-03-09 |  |
 | [Invencible](https://open.spotify.com/track/20Z9Q0zOEOV4fzvkPffczo) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [DM](https://open.spotify.com/album/5z5Kk5PO3V8sBnjfnk4ZW7) | 2:58 | 2023-03-09 |  |
 | [La Ex](https://open.spotify.com/track/5Phi7N5n5Mgt8Uk4DbGKQX) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:52 | 2023-03-09 |  |

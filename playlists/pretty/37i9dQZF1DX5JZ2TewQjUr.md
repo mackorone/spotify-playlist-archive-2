@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Deb Fan
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,455 likes - 114 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,456 likes - 114 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 2 | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/track/33PjA0pWLFeggSnpGu17hm) | [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [Ghost Style](https://open.spotify.com/artist/6QljZ2X0gO5jqG9u096o6j) | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/album/4D9ZkcqwxbBrJokLVgY81j) | 2:58 |
 | 3 | [depresso](https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [depresso](https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp) | 3:48 |
 | 4 | [陰謀家](https://open.spotify.com/track/2DsddKT0UJ2DYheaeg3kHs) | [MIDNIGHT COWBOY](https://open.spotify.com/artist/1yA9oQkytFUpfFdnppJnIC) | [See You Down The Road](https://open.spotify.com/album/2zNvvPTwmGQ3ghwc6WA9OA) | 4:22 |
-| 5 | [SPARKLE BLUE](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
+| 5 | [Sparkle Blue](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
 | 6 | [wish u could](https://open.spotify.com/track/2LJO9MbWI7UUr6SXWkWyj0) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [wish u could](https://open.spotify.com/album/6MJIAUGXCVBUrCXjYVu6Hz) | 3:11 |
 | 7 | [蛻變中請勿打擾](https://open.spotify.com/track/2yaPUeFhwqczGGdURBzdLQ) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [蛻變中請勿打擾](https://open.spotify.com/album/4bKnNtSWDKCoTc4RE2JTFr) | 3:49 |
 | 8 | [在兩個心中間坐下 Two Worlds \(feat\. Ivana Wong\)](https://open.spotify.com/track/1TZBNT3sqxVCBNr7g0lTti) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [在兩個心中間坐下 Two Worlds](https://open.spotify.com/album/3T1evDXqRxEMVOe7NXMU2o) | 4:12 |

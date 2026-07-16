@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 99 songs - 5 hr 52 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,166 likes - 104 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 97 | [Runner](https://open.spotify.com/track/3EE7VV4wxNVu0sWYtP2nid) | [Jude Watkins](https://open.spotify.com/artist/5eSjKqo8lqiGTqYYG8naMn) | [Just This Once](https://open.spotify.com/album/5esNLPl6s0u3gakmkWAvcq) | 4:30 |
 | 98 | [Let me die](https://open.spotify.com/track/3qT5QSy4iruq5xwbhj3iKd) | [Ismael Blanno](https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU) | [ICDWIW](https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde) | 2:12 |
 | 99 | [Stay \(Until i die\)](https://open.spotify.com/track/2KRhjzJS92DTaiB3RshpcP) | [Ismael Blanno](https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU) | [ICDWIW](https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde) | 3:03 |
+| 100 | [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 |
+| 101 | [quicksand](https://open.spotify.com/track/4777yCVrmQ7HAFS5U4si8p) | [soft flowers.](https://open.spotify.com/artist/7uleEBual0KHdmVLCZd27d) | [quicksand](https://open.spotify.com/album/43v361PdkLF8N96uki0aBb) | 3:12 |
+| 102 | [Surprise, Surprise](https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Surprise, Surprise](https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk) | 3:04 |
+| 103 | [Im not going home](https://open.spotify.com/track/1U1Eqi1n2Q0PMoi1Rw9FuA) | [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T), [nostranger](https://open.spotify.com/artist/1llGv7eEgoGpXykdEan0cJ) | [Im not going home](https://open.spotify.com/album/3YIwF38ME0q1PRfqF8kBpa) | 3:36 |
+| 104 | [Useless](https://open.spotify.com/track/1isdRGP8dqpVLayBrlHXtg) | [strange world's end](https://open.spotify.com/artist/2MCW80Q2JBmvQARxrYI1Tb) | [Useless](https://open.spotify.com/album/5x5DH9RSBhGjkmhgnjr9ob) | 3:57 |
 
-Snapshot ID: `AAAPcV7hDNMBhWDFz8r1LdT3HA5DQwU5`
+Snapshot ID: `AAAPdv8vKFNHCwA9gZ1uThFEqFAbB5Fu`

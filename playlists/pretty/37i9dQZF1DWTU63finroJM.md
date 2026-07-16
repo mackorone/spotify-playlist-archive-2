@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JBABE
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,252 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,256 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 12 | [under my skin](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 2:46 |
 | 13 | [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 |
 | 14 | [DIOR$AVAGE](https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DIOR$AVAGE](https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5) | 2:30 |
-| 15 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
-| 16 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
+| 15 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
+| 16 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
 | 17 | [Could've Been](https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Could've Been](https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT) | 2:45 |
 | 18 | [Cries in Crocodile](https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa) | [JBABE](https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby) | [A Little Larger Than The Entire Universe](https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2) | 3:01 |
 | 19 | [Antipatica](https://open.spotify.com/track/3DRoZ6h54bS2JfWd8bAmvJ) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:16 |

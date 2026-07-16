@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(Only Takes a) Moment",
+        "url": "https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp"
+      },
+      "artists": [
+        {
+          "name": "James Sebastian",
+          "url": "https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182210,
+      "name": "(Only Takes a) Moment",
+      "url": "https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV"
+    },
+    {
+      "album": {
         "name": "3 AM Friend",
         "url": "https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX"
       },
@@ -2499,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "DISDAINED:REANIMATED",
+        "url": "https://open.spotify.com/album/0L5E3eEcCcrK1Z1TZIyQYF"
+      },
+      "artists": [
+        {
+          "name": "Soulbloom",
+          "url": "https://open.spotify.com/artist/5zDTFu6FMdanKfmNNVvPiW"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145621,
+      "name": "DISDAINED:REANIMATED",
+      "url": "https://open.spotify.com/track/0QCQ8vdVwTVj3uzte89TCi"
+    },
+    {
+      "album": {
         "name": "Dissonanze",
         "url": "https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8"
       },
@@ -4098,6 +4134,24 @@
       "duration_ms": 235923,
       "name": "Hag of the Mist",
       "url": "https://open.spotify.com/track/6jxNSVpJl3uNvJhLZngFrd"
+    },
+    {
+      "album": {
+        "name": "Haga Lo Que Haga",
+        "url": "https://open.spotify.com/album/1VKklGTrS2IZ2HlskmH7Ql"
+      },
+      "artists": [
+        {
+          "name": "Mil Disparos",
+          "url": "https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154995,
+      "name": "Haga Lo Que Haga",
+      "url": "https://open.spotify.com/track/7rtCC8R2Id26sFryZuO13A"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,267 songs - 2 day 22 hr 20 min
+1,268 songs - 2 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 | 2024-06-19 | 2024-09-12 |
 | [EYES ON ME \- Sped Up](https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME \(Sped Up\)](https://open.spotify.com/album/42wLzzlEeQ1SHVwsPzbqWF) | 3:25 | 2024-10-07 | 2025-01-15 |
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-15 | 2024-08-14 |
+| [FADEAWAY](https://open.spotify.com/track/7uL3j02IAUGhqcBZdkpXJt) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [FADEAWAY](https://open.spotify.com/album/3EQJvXNmXb3CVFgOBbnOB6) | 3:17 | 2026-07-15 |  |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Blue Dream](https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs) | 3:15 | 2023-06-02 | 2023-08-28 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |

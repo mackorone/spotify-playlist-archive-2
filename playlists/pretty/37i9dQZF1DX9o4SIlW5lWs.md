@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,211 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,257 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 87 | [FUE ELLA, FUI YO \- EN VIVO](https://open.spotify.com/track/4oe4Yi4dv1rviTg6w2kLj0) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [PRELUDIOS \(EN VIVO\)](https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq) | 3:27 |
 | 88 | [MALA](https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Cacho Deicas](https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2) | [MALA](https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar) | 3:17 |
 | 89 | [Mi Primer Amor](https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor](https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj) | 3:08 |
-| 90 | [Date cuenta](https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Date cuenta](https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN) | 2:37 |
-| 91 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
+| 90 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
+| 91 | [Date cuenta](https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Date cuenta](https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN) | 2:37 |
 | 92 | [Ahora \- Remasterizado 2017](https://open.spotify.com/track/6oyIWiKfcH3gjvLs9cV44t) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [180 Grados](https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn) | 3:45 |
 | 93 | [Si Me Lo Pide Otra Vez](https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Hay Mas de Mi](https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV) | 3:33 |
 | 94 | [Como Duele/ Tu Presa/ Te Vas A Arrepentir](https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf) | [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Como Duele / Tu Presa / Te Vas A Arrepentir](https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa) | 7:37 |

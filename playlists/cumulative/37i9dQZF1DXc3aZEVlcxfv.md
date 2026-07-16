@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-645 songs - 1 day 19 hr 24 min
+646 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [I Surrender](https://open.spotify.com/track/4LuaKxOzwnUJ1P88fXjR0T) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [I Surrender](https://open.spotify.com/album/2eCZ2zLOptlOg9EBUo8I3V) | 3:00 | 2025-11-21 | 2026-01-15 |
 | [I Testify](https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 6:02 | 2025-02-14 |  |
 | [I'm a Living Fire](https://open.spotify.com/track/5jMev9PUAvCTqvx3KGUPG4) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [ReBirth](https://open.spotify.com/album/5aGAXK6OLeKDtDvC3WWfLO) | 3:38 | 2025-03-28 | 2025-05-16 |
+| [I'M BLESSED](https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f) | [Kevin Adams & Voices of Praise](https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV) | [I'M BLESSED](https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u) | 2:56 | 2026-07-10 |  |
 | [I'm So Blessed](https://open.spotify.com/track/2C0CRs9cwkD8VABHxrBkEd) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up](https://open.spotify.com/album/6J077INxLUE8Yq1xhRKx7E) | 2:55 | 2024-09-27 | 2025-02-28 |
 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 | 2025-05-16 | 2025-11-28 |
 | [If E No Be You Jesus](https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv) | [Blessings Ng](https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Elijah Daniel Omo Majemu](https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG) | [If E No Be You Jesus](https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw) | 3:54 | 2026-06-26 |  |
@@ -553,7 +554,7 @@
 | [THANK YOU FOR BEING GOD](https://open.spotify.com/track/5vkYr5LARcSmBeBe72XoQH) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [THANK YOU FOR BEING GOD](https://open.spotify.com/album/5DxuuH3I49aT4DoQsfLFqQ) | 3:15 | 2025-02-28 | 2025-05-02 |
 | [Thank you Jesus \- Refix](https://open.spotify.com/track/1aZpLeU19W5QrBZ9CxpN9l) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Thank you Jesus \(Refix\)](https://open.spotify.com/album/43Q2DxWJjveYobyFWLKf2o) | 4:27 | 2025-05-16 | 2025-08-08 |
 | [Thank You Lord](https://open.spotify.com/track/6qZwgTk4UOlN9oN3MhdOYD) | [Grace Uma](https://open.spotify.com/artist/1H7NA9xbNLXR6ckY55K1ep) | [Thank You Lord](https://open.spotify.com/album/3X3cDqZxggXSKHGx5FAC3Q) | 7:35 | 2026-01-09 | 2026-04-14 |
-| [Thank You Lord](https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Thank You Lord](https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j) | 2:30 | 2026-05-29 |  |
+| [Thank You Lord](https://open.spotify.com/track/6O79hOkKBJqmcq2dzFJsdD) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Thank You Lord](https://open.spotify.com/album/7qQgba2IcWXawnNWUGoR2j) | 2:30 | 2026-05-29 | 2026-07-16 |
 | [That's What You Do](https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4Love \(Live at CRC, Pretoria, 2025\)](https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI) | 6:23 | 2025-10-03 | 2025-10-31 |
 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 | 2024-09-27 |  |
 | [The Journey](https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Victorious Lucas](https://open.spotify.com/artist/1pHZMBHrislFKRnW5mto8q), [House of Faith](https://open.spotify.com/artist/2gd3Nx0mLp4GLIODtehPDy) | [The Journey](https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL) | 3:26 | 2025-10-31 | 2025-11-14 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,538 songs - 5 day 11 hr 9 min
+2,539 songs - 5 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [det her liv](https://open.spotify.com/track/0FWck5zQaJS3cib1sDZpZH) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:10 | 2023-09-02 | 2023-09-08 |
 | [Det jo bare et kram \(interlude\)](https://open.spotify.com/track/4Gj9vSPvSd8u9ugjDPSy7x) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 1:20 | 2025-05-09 | 2025-05-18 |
 | [det ku jeg ik se \(feat\. Sira Jovina\)](https://open.spotify.com/track/3aIkfHMJphau3JylyathD4) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF), [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [det ku jeg ik se \(feat\. Sira Jovina\)](https://open.spotify.com/album/1mdTXl0Y4Jccir9adu2hiQ) | 2:52 | 2026-01-15 | 2026-01-25 |
-| [Det Modsatte](https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Det Modsatte](https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8) | 3:21 | 2024-01-03 |  |
+| [Det Modsatte](https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Det Modsatte](https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8) | 3:21 | 2024-01-03 | 2026-07-16 |
 | [Det samme](https://open.spotify.com/track/0XD6kwpubfslkR15JEsDmj) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:01 | 2025-10-04 | 2025-10-06 |
 | [Det Vi Venter På](https://open.spotify.com/track/5rEt8B0mS2e7KvbrKHpkpb) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:29 | 2022-01-08 | 2022-01-14 |
 | [Det Ønsker Jeg For Dig](https://open.spotify.com/track/3tqRWbqid8syEuHFnrpALx) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [For Evigt I Går](https://open.spotify.com/album/7jLGoAldNIM7iBrZBK1oHu) | 2:57 | 2025-03-01 | 2025-03-03 |
@@ -730,7 +730,7 @@
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 | 2024-05-11 |
 | [Fancy](https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Fancy](https://open.spotify.com/album/78cZnSsvi9ddflTjMLYYLL) | 2:02 | 2026-05-21 | 2026-06-07 |
 | [Farlig](https://open.spotify.com/track/5UPl2VTyxRTbu8OXcjCYYR) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Farlig](https://open.spotify.com/album/6MbJkHaTPM65dFFsV1FOfC) | 2:21 | 2021-07-25 | 2021-08-01 |
-| [FARLIGT](https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O) | 2:24 | 2026-07-11 |  |
+| [FARLIGT](https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O) | 2:24 | 2026-07-11 | 2026-07-16 |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-05-26 | 2023-07-05 |
 | [Fastelavn](https://open.spotify.com/track/0n4eXmkGEhgvagEecQt4fc) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 2:46 | 2023-05-13 | 2023-05-30 |
 | [FAT DET! \(feat\. Lamin\)](https://open.spotify.com/track/7w3iYJSO5jT1pMjnMd0Xe7) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [JORDEN KALDER](https://open.spotify.com/album/3bBxOm0CSB0oHoqVPIAz0h) | 2:59 | 2025-10-04 | 2025-10-13 |
@@ -923,6 +923,7 @@
 | [Graffiti](https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Graffiti](https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH) | 2:13 | 2024-01-20 | 2024-01-22 |
 | [Gran Turismo](https://open.spotify.com/track/5M44hk5WAFjUzZq64lff5p) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 4:34 | 2023-05-13 | 2023-06-04 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-30 |
+| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-07-15 |  |
 | [greedy](https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:09 | 2025-01-01 | 2025-01-03 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 | 2024-05-19 |
@@ -1549,7 +1550,7 @@
 | [Midnight Madness](https://open.spotify.com/track/1fNBaPbxYweUUWRJKnYueQ) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:28 | 2023-11-04 | 2023-11-13 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-10-30 |
-| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-07-05 | 2026-07-15 |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-07-05 |  |
 | [Midsommersangen](https://open.spotify.com/track/0Iyr5LEeBUEZCHU29wDOpU) | [Shu\-Bi\-Dua](https://open.spotify.com/artist/6Y99TxJKt19wJFbmpoRzLp) | [Shu\-bi\-dua 1\-9](https://open.spotify.com/album/5h2OPEvVo0Afkjza9Lo4Dt) | 4:29 | 2023-06-24 | 2026-06-26 |
 | [Midsommersangen](https://open.spotify.com/track/66PsWt1kmbGog4rw2kNdmh) | [Shu\-Bi\-Dua](https://open.spotify.com/artist/6Y99TxJKt19wJFbmpoRzLp) | [Shu\-bi\-dua 7 \(Deluxe udgave\)](https://open.spotify.com/album/32GgYnmBT6ilmhEvqL8kqs) | 4:33 | 2021-06-25 | 2024-06-26 |
 | [Mig Og Min Guitar](https://open.spotify.com/track/7fHQ53GmHT3nNpxGxK6HVS) | [Niklas](https://open.spotify.com/artist/3sci9u9BlnRpPmR957OVXn), [MGP](https://open.spotify.com/artist/7Gl5Kp9xBBFAH0wNUTAP38) | [MGP 2025](https://open.spotify.com/album/2Cqy1aiXAEPCYFuQl6HNFl) | 2:50 | 2025-02-23 | 2025-02-27 |

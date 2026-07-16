@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PYC. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: STEAK N' CO. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 278149,
       "name": "120dB",
       "url": "https://open.spotify.com/track/1n68R82Lj2OaZSxf5vK9EX"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 207360,
       "name": "i hate you SO!",
       "url": "https://open.spotify.com/track/3LqTSlBTBQLDx6w4jmrw8d"
@@ -28525,6 +28525,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e40\u0e2a\u0e21\u0e2d\u0e16\u0e49\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/6pAZl7iwWIRv30Yjx9lYyE"
+      },
+      "artists": [
+        {
+          "name": "STEAK N' CO",
+          "url": "https://open.spotify.com/artist/3E5hKvxFmUMQkiHkq4lJon"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272039,
+      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e40\u0e2a\u0e21\u0e2d\u0e16\u0e49\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/6bI1BNFkars2piVP8n4rOj"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e44\u0e1b\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
         "url": "https://open.spotify.com/album/0mCCYd3k22TcA95jlARO14"
       },
@@ -31054,6 +31072,24 @@
       "duration_ms": 242117,
       "name": "\u0e25\u0e1a\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/5GTN9Hnks6MLlmfG8Ka5bK"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e1a\u0e40\u0e25\u0e37\u0e2d\u0e19\u0e41\u0e25\u0e30\u0e08\u0e32\u0e01\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/1sN7c3pcuYwWeNzAMtdI3j"
+      },
+      "artists": [
+        {
+          "name": "23'O",
+          "url": "https://open.spotify.com/artist/6EhSBsNJfsZiWYQUdjBkqB"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274675,
+      "name": "\u0e25\u0e1a\u0e40\u0e25\u0e37\u0e2d\u0e19\u0e41\u0e25\u0e30\u0e08\u0e32\u0e01\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/4mS8QF1wGqZDwBA5d4mAh1"
     },
     {
       "album": {
@@ -33990,7 +34026,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 301714,
       "name": "\u0e2b\u0e22\u0e32\u0e14\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e24\u0e14\u0e39 (Will O' the Wisp)",
       "url": "https://open.spotify.com/track/7c0SVmG60e1bVo57QI0XeR"
@@ -36818,7 +36854,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 147500,
       "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e22\u0e31\u0e07\u0e19\u0e49\u0e32 ( Nahh )",
       "url": "https://open.spotify.com/track/4OZVYd9hLP6GXdWoLgG5mV"
@@ -37832,7 +37868,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 285517,
       "name": "\u0e40\u0e07\u0e34\u0e19\u0e15\u0e23\u0e32",
       "url": "https://open.spotify.com/track/4BbmLTx2Pp6biPZ0ZOqlKp"
@@ -38958,7 +38994,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 224500,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e17\u0e38\u0e01\u0e04\u0e33\u0e15\u0e2d\u0e1a\u0e02\u0e49\u0e32\u0e07\u0e43\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19(ANS)",
       "url": "https://open.spotify.com/track/66HxG9drKaZxUIbumLXsSo"
@@ -45770,7 +45806,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 206355,
       "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e08\u0e23\u0e34\u0e07 (Where I Never Existed)",
       "url": "https://open.spotify.com/track/31ga0kUK97uh43AgiOeTht"

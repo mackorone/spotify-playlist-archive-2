@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,525 songs - 10 day 2 hr 36 min
+4,529 songs - 10 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Baila Leila](https://open.spotify.com/track/4KFYZgRICYfhsj83pDxYQB) | [Bubamara](https://open.spotify.com/artist/05nRUnFhtGqkYO14LkT2eo) | [Marilyn](https://open.spotify.com/album/6pu5dQSQWsbYwAAiBOdUVs) | 3:38 | 2025-11-05 |  |
 | [Baila Sin Final](https://open.spotify.com/track/0KFLZJzXhlWkSANqamX4MU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:08 | 2026-05-21 |  |
 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:08 | 2026-04-30 |  |
+| [Bailamos](https://open.spotify.com/track/6UKlzJX1VKNucnnJF7rx3Q) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:39 | 2026-07-15 |  |
 | [Bailando Bajo el Sol](https://open.spotify.com/track/6rWmZqGcf6XwisxAZvVRw7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:46 | 2025-09-17 |  |
 | [Bailando Bajo el Sol \(another\)](https://open.spotify.com/track/3vj0l36QUTQZzmohYQO2MC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:35 | 2025-09-17 |  |
 | [Bailando en el Caos](https://open.spotify.com/track/0557nBuVYCauQnoHrRjVVX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:55 | 2025-09-17 |  |
@@ -2373,6 +2374,7 @@
 | [Lust in Flames \#Music \#NewMusic \#Viral](https://open.spotify.com/track/3ZQHB4NQsUyYYbMOw9Ptt8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:38 | 2025-09-15 |  |
 | [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 | 2025-07-28 |  |
 | [Luz de invierno](https://open.spotify.com/track/2eyL70rGgZyvDKmwhWsGV3) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Mi tú y yo](https://open.spotify.com/album/7kpb1aHHgP4NterHXumzvo) | 2:27 | 2026-04-12 |  |
+| [Luz extinta](https://open.spotify.com/track/0uQvoYk6lRd0gkFdoNTn43) | [ENHEBRA](https://open.spotify.com/artist/4RGE7zTPz7t3P19jlljmHQ) | [Luz extinta](https://open.spotify.com/album/1o8ntDzfYLGFETA9hIZodc) | 5:45 | 2026-07-15 |  |
 | [LV Sandals](https://open.spotify.com/track/5XIkzgjs6TJwJmfGaB9jji) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [LV Sandals](https://open.spotify.com/album/7dk9B9ktyUhnChQA2C7YrK) | 1:51 | 2025-07-28 |  |
 | [LVING IT](https://open.spotify.com/track/3ENnhUuyp2l967WUZp3f9Z) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [LVING IT](https://open.spotify.com/album/5XcyzIEwH9CDhmhS3QXgJj) | 2:23 | 2025-07-01 |  |
 | [Lying](https://open.spotify.com/track/3NQ352T1u3Zn389Io8EmF5) | [Unlucky Empathy](https://open.spotify.com/artist/3stdHKfwcRB3Vmj7KQOsYl) | [Lying](https://open.spotify.com/album/6qdZO3ebPEZhVxx0BRDU6h) | 5:12 | 2026-04-20 |  |
@@ -3713,6 +3715,7 @@
 | [STOP](https://open.spotify.com/track/74AI6IwRwBsnzPFWDfjBLy) | [Blue Cabs](https://open.spotify.com/artist/6mF5Cb0gYrse7CzbffqwqK) | [STOP](https://open.spotify.com/album/0wfOhUJJKk74S3c6q7WeSP) | 3:11 | 2026-05-25 |  |
 | [Stop Me](https://open.spotify.com/track/4CuXQ9mercSGlJj0n7yOfw) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Stop Me](https://open.spotify.com/album/2KEXeYDi8pDJIPSDxR61b6) | 3:38 | 2025-06-05 |  |
 | [Stop What You're doing](https://open.spotify.com/track/5mcRtAZ9gOwLf2CkINf5NS) | [Patrick DeVille](https://open.spotify.com/artist/4viUY1EItvZqlpcFk8BDpy) | [Stop What You're doing](https://open.spotify.com/album/0vlImhxJOVAkfi2Z9tAIRM) | 2:30 | 2025-08-19 |  |
+| [Stopper](https://open.spotify.com/track/4PHOyudoqaGAFwDr8D3vqm) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Psychosomatic](https://open.spotify.com/album/0eDV5oAQ1vJtTpxYp3hEkf) | 5:33 | 2026-07-15 |  |
 | [Stories](https://open.spotify.com/track/4dbT44ru3cBCaZF3xmRHwy) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:42 | 2026-04-13 |  |
 | [Storm in My Head](https://open.spotify.com/track/5I96Ksec6DFpsWNeHLDb2I) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn th Night, Vol\. 2](https://open.spotify.com/album/732QXoYcUYkM9K7nICidlq) | 2:28 | 2025-09-12 |  |
 | [Story Of A Journey](https://open.spotify.com/track/2UPxDVFQ2RqFEBZFwYXHgB) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Story Of A Journey](https://open.spotify.com/album/6CK5j6N0671hNoTHVUswwL) | 2:48 | 2025-05-27 |  |
@@ -4081,6 +4084,7 @@
 | [Truth Shows Up](https://open.spotify.com/track/7L3KxmC2uRc6fRL3lheVL2) | [PaSK](https://open.spotify.com/artist/0ubHnI1tYSkVVxslIkr3gO) | [Truth Shows Up](https://open.spotify.com/album/5DYRpTEVeQOoaClbDLMmZS) | 3:35 | 2025-03-03 |  |
 | [Truth Without A Voice](https://open.spotify.com/track/6VWCYsFaSzmtdmzSrTKMW7) | [Changeover](https://open.spotify.com/artist/2u4GX0Bif1sfEzNfj6ehmg) | [Truth Without A Voice](https://open.spotify.com/album/3zEX5kzLx0JYkhFhyW9ZVt) | 3:10 | 2026-05-11 |  |
 | [Try](https://open.spotify.com/track/1wa2z0DVUphZcmfxUVvaeN) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Try](https://open.spotify.com/album/4UlGGdntkH7WIS8UfAy5cR) | 4:24 | 2026-07-03 |  |
+| [Try Again](https://open.spotify.com/track/7zZH4I44iimTISzvkvZHmQ) | [CR0WN](https://open.spotify.com/artist/4t4Eu8jCaR3osTxu4hIGjV) | [Try Again](https://open.spotify.com/album/2qZpY5vs73qZj1HkHfU6kf) | 3:28 | 2026-07-15 |  |
 | [Tränen](https://open.spotify.com/track/5QMOsZYAXmC74zyNA6MVY1) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Tränen](https://open.spotify.com/album/3vqsRlHgBSdKnWWUziTpji) | 3:12 | 2025-05-26 |  |
 | [Tu dors](https://open.spotify.com/track/1Gxj17JyqnTezJkK62eVrM) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [Weedlack](https://open.spotify.com/artist/01BvBbo2LhDw1fwCnr7iYL) | [Tu dors](https://open.spotify.com/album/4FPji3VCeIl6Um0xkKZEOk) | 2:56 | 2025-06-05 |  |
 | [Tu Hai Toh](https://open.spotify.com/track/3BjYRmww0BVPv28wfGkWJv) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1c0jWhoRT6biZMrqxUYx4g) | 4:11 | 2026-06-19 |  |

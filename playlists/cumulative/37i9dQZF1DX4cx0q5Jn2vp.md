@@ -4,7 +4,7 @@
 
 > <3<3<3<3
 
-305 songs - 18 hr 9 min
+307 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-11-06 | 2025-01-19 |
 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2022-04-04 | 2024-02-21 |
 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 | 2025-09-17 | 2025-09-27 |
-| [Carolina](https://open.spotify.com/track/1g9mpQbdwwEmlU24eopgHD) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Carolina](https://open.spotify.com/album/2nzacwMnbvPJ8MclUOkYxm) | 3:51 | 2026-05-05 |  |
+| [Carolina](https://open.spotify.com/track/1g9mpQbdwwEmlU24eopgHD) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Carolina](https://open.spotify.com/album/2nzacwMnbvPJ8MclUOkYxm) | 3:51 | 2026-05-05 | 2026-07-16 |
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-06-28 | 2023-07-27 |
+| [Certified Lover Girl](https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Certified Lover Girl](https://open.spotify.com/album/2dHmPBAdAem0jne9czNYWz) | 3:11 | 2026-07-15 |  |
 | [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/68zMRaBN30RjKDpvSa25mq) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 | 2025-12-03 | 2026-01-15 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-08 | 2024-08-18 |
 | [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-19 | 2025-03-04 |
@@ -94,7 +95,7 @@
 | [Fresh Eyes](https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:18 | 2024-02-27 | 2024-04-19 |
 | [Gabi\-Gabi](https://open.spotify.com/track/0VD8nNbhZwthMjutmj4O5X) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Gabi\-Gabi](https://open.spotify.com/album/4T6XW4vmK6Zlcw2mP2tNdl) | 4:25 | 2025-10-03 | 2025-10-10 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-04-04 |  |
-| [GILIW \(feat\. Al James, Kyla\)](https://open.spotify.com/track/06VvXeS5F4B66Cwq7RvBtb) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S) | [GILIW \(feat\. Al James, Kyla\)](https://open.spotify.com/album/3ELseqL4Ws30hN6gk3OFyd) | 3:49 | 2026-05-05 |  |
+| [GILIW \(feat\. Al James, Kyla\)](https://open.spotify.com/track/06VvXeS5F4B66Cwq7RvBtb) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S) | [GILIW \(feat\. Al James, Kyla\)](https://open.spotify.com/album/3ELseqL4Ws30hN6gk3OFyd) | 3:49 | 2026-05-05 | 2026-07-16 |
 | [Ginintuang Tanawin](https://open.spotify.com/track/6LPLKpVc6fISqAVR6qigXZ) | [Wilbert Ross](https://open.spotify.com/artist/6bVVssXSh08il9SKx18XOA) | [Golden Scenery of Tomorrow \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/62qp8pX7nk1vTjRGOksGoc) | 4:49 | 2025-11-07 | 2025-12-02 |
 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2022-04-04 | 2025-07-17 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2022-04-04 | 2022-11-13 |
@@ -238,6 +239,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-08 |  |
 | [Plot Twist](https://open.spotify.com/track/5wDbCy1UXyCV79jpTm4xyF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/2JYYakgDf5R0Ych28NvYkS) | 3:27 | 2022-04-04 | 2022-06-21 |
 | [Pretty Eyes](https://open.spotify.com/track/5V2buzGktAWyMe1ldrIvmd) | [zehdi](https://open.spotify.com/artist/2bcxtLCqGuAIVn7HVhw1Ct) | [Pretty Eyes](https://open.spotify.com/album/7bpaXspASgTxku7QCc6jZN) | 3:29 | 2024-10-18 | 2024-10-25 |
+| [Pretty Eyes \(feat\. FLO\)](https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Pretty Eyes](https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ) | 3:09 | 2026-07-15 |  |
 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-14 | 2024-04-19 |
 | [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 | 2024-08-12 | 2025-03-18 |
 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 | 2022-04-04 |  |

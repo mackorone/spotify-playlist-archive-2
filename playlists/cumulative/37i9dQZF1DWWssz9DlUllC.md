@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Amaeya
 
-195 songs - 9 hr 32 min
+196 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2025-10-24 | 2026-05-22 |
 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-10-24 |  |
 | [Coco Samba](https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Coco Samba](https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5) | 3:09 | 2025-12-19 | 2026-03-17 |
-| [Color](https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Color / Wulo](https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56) | 2:02 | 2026-06-19 |  |
+| [Color](https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Color / Wulo](https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56) | 2:02 | 2026-06-19 | 2026-07-16 |
 | [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 | 2026-04-10 |  |
 | [Dangbana Riddim](https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Dangbana Riddim](https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D) | 2:40 | 2025-10-24 |  |
 | [Dantata](https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Dantata](https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR) | 2:55 | 2026-06-26 |  |
@@ -62,6 +62,7 @@
 | [ENJOYMENT](https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE) | [ENJOYMENT](https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur) | 2:55 | 2025-11-07 |  |
 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 | 2025-10-24 |  |
 | [EVERLASTING](https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [EVERLASTING](https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q) | 2:19 | 2026-06-12 |  |
+| [Evil Money](https://open.spotify.com/track/1Mr8xJQ0cvnmfJlcGEme1U) | [Energee](https://open.spotify.com/artist/1qsnZKg3nwdObGwAC1ZB4U) | [Evil Money](https://open.spotify.com/album/5Nqdj8IAykjqzlWJoJTnFS) | 2:10 | 2026-07-03 |  |
 | [Ewo](https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 3:00 | 2025-10-24 |  |
 | [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 | 2026-03-16 | 2026-03-20 |
 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 | 2025-10-24 | 2026-01-15 |

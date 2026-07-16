@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,977 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,980 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 17 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
 | 18 | [DOPAMINE](https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [DOPAMINE](https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA) | 2:14 |
 | 19 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
-| 20 | [3bdo Mota](https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [3bdo Mota](https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2) | 3:05 |
-| 21 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
+| 20 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
+| 21 | [3bdo Mota](https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [3bdo Mota](https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2) | 3:05 |
 | 22 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 23 | [TARAT ALTAYARA](https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [TARAT ALTAYARA](https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu) | 2:02 |
 | 24 | [Kabasa](https://open.spotify.com/track/3BWwZO7jEDkJDfEMkcu9VO) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Kabasa](https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6) | 2:47 |

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,155 songs - 3 day 21 hr 59 min
+1,156 songs - 3 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 | 2024-12-06 | 2026-03-11 |
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 | 2024-09-28 |
 | [La Casa](https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw) | [Souave](https://open.spotify.com/artist/4UhKvEeSMf3oxPvVlkryJw) | [La Casa](https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV) | 4:38 | 2024-09-13 | 2025-02-01 |
+| [La La La](https://open.spotify.com/track/0FIAB3qd9n8Va9rhmRjteH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Daybreaker](https://open.spotify.com/artist/6tlxu5AIXKdS2ODsaxjms1), [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [La La La](https://open.spotify.com/album/726IuXpQlxUGdrlSr1fwKR) | 5:03 | 2026-07-10 |  |
 | [La Luz](https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 5:28 | 2021-05-07 | 2023-03-11 |
 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 | 2023-03-10 | 2023-08-12 |
 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 | 2021-07-16 | 2023-02-11 |
@@ -783,7 +784,7 @@
 | [Pamparis](https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pampa EP](https://open.spotify.com/album/10LQNgzRkFqvJwFhKOxTjB) | 8:11 | 2022-02-25 | 2022-07-27 |
 | [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 | 2024-09-12 |
 | [Pans Of Death](https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [AD02: Pans Of Death / Rounds](https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL) | 5:20 | 2025-08-15 |  |
-| [Papele](https://open.spotify.com/track/1KgnEtrsijfpDhGO7Sl63M) | [Lanns](https://open.spotify.com/artist/2alKnU6Zf9XMBnqbMRSY10) | [Papele](https://open.spotify.com/album/1svm8nghOHjB2b2sBQTtmA) | 3:31 | 2026-07-10 |  |
+| [Papele](https://open.spotify.com/track/1KgnEtrsijfpDhGO7Sl63M) | [Lanns](https://open.spotify.com/artist/2alKnU6Zf9XMBnqbMRSY10) | [Papele](https://open.spotify.com/album/1svm8nghOHjB2b2sBQTtmA) | 3:31 | 2026-07-10 | 2026-07-16 |
 | [Paradise \- Chambord Remix](https://open.spotify.com/track/5RzQkSgX1TjGUtnzgFOkzY) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Paradise \(Chambord Remix\)](https://open.spotify.com/album/4rHpK2TRa26iJnqVDgc9Q5) | 4:17 | 2024-04-26 | 2024-06-29 |
 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 | 2026-02-27 |  |
 | [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2024-01-19 | 2024-01-27 |

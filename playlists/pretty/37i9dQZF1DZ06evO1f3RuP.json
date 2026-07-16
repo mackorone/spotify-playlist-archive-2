@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAADT7skDswPfxIo9hUcaAwzg",
+  "snapshot_id": "alV8AAAAAABvP0vnrK6q9hopl7Eh6r8s",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Float (feat. BAYLI)",
-        "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
       },
       "artists": [
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        },
-        {
-          "name": "Sparrow (CH)",
-          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
-        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Float (feat. BAYLI)",
-      "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
     },
     {
       "added_at": null,
@@ -307,18 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "boys lie",
-        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
+        "name": "Float (feat. BAYLI)",
+        "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
       },
       "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Sparrow (CH)",
+          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
+        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 145857,
-      "name": "boys lie",
-      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
+      "duration_ms": 174193,
+      "name": "Float (feat. BAYLI)",
+      "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
     },
     {
       "added_at": null,
@@ -571,30 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best I've Ever Had",
-        "url": "https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Best I've Ever Had",
-      "url": "https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 139090,
       "name": "Enter The Chat",
       "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best I've Ever Had",
+        "url": "https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Best I've Ever Had",
+      "url": "https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC"
     },
     {
       "added_at": null,

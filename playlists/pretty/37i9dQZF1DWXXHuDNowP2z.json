@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 289610,
+  "num_followers": 289656,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Te Sigo Amando",
-        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Hay Problema",
-      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Salvaje y Tierno",
         "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 174333,
       "name": "Con Zapatos de Tac\u00f3n",
       "url": "https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Hay Problema",
+      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Los Reyes Del Baile",
-        "url": "https://open.spotify.com/album/7DL853qsnorJL4jKap209q"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Cumbia Loca",
-      "url": "https://open.spotify.com/track/1YPeIFymfD66aAPY1OaJv9"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Los S\u00faper \u00c9xitos",
         "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 156306,
       "name": "La Vecinita",
       "url": "https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Los Reyes Del Baile",
+        "url": "https://open.spotify.com/album/7DL853qsnorJL4jKap209q"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "Cumbia Loca",
+      "url": "https://open.spotify.com/track/1YPeIFymfD66aAPY1OaJv9"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Una No Es Ninguna",
         "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 251933,
       "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
       "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "El Son Del Tlacololero",
-        "url": "https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o"
+        "name": "Puras Pa' Trapear",
+        "url": "https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH"
       },
       "artists": [
         {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 315106,
-      "name": "El Son Del Tlacololero",
-      "url": "https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8"
+      "duration_ms": 191956,
+      "name": "La Burra Orejona",
+      "url": "https://open.spotify.com/track/2U8586LzgHPHmcqd2PlQWV"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Los Saxofones Alegres",
-        "url": "https://open.spotify.com/album/6pNhPyCej3dPwZcEs9L9w3"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
       },
       "artists": [
         {
-          "name": "Identidad",
-          "url": "https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka"
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
         }
       ],
-      "duration_ms": 179748,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/3c30EjdSPP1VuuY1ElSrru"
+      "duration_ms": 189106,
+      "name": "Zapateado Encabronado - Medley",
+      "url": "https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2059,18 +2059,50 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Puras Pa' Trapear",
-        "url": "https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH"
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
         }
       ],
-      "duration_ms": 191956,
-      "name": "La Burra Orejona",
-      "url": "https://open.spotify.com/track/2U8586LzgHPHmcqd2PlQWV"
+      "duration_ms": 199250,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "El Son Del Tlacololero",
+        "url": "https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "duration_ms": 315106,
+      "name": "El Son Del Tlacololero",
+      "url": "https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Los Saxofones Alegres",
+        "url": "https://open.spotify.com/album/6pNhPyCej3dPwZcEs9L9w3"
+      },
+      "artists": [
+        {
+          "name": "Identidad",
+          "url": "https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/3c30EjdSPP1VuuY1ElSrru"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2091,38 +2123,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Acuerdate De Mi",
-        "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 185388,
-      "name": "Ya No Me Mires Asi",
-      "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
-      },
-      "artists": [
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Zapateado Encabronado - Medley",
-      "url": "https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "A Bailar De Caballito",
         "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
       },
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
+        "name": "Acuerdate De Mi",
+        "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
       },
       "artists": [
         {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 199250,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
+      "duration_ms": 185388,
+      "name": "Ya No Me Mires Asi",
+      "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
     },
     {
       "added_at": "2024-11-28 22:59:11",

@@ -1,6 +1,6 @@
 {
   "description": "Festive season staples and new holiday favourites \ud83c\udf81",
-  "num_followers": 1100708,
+  "num_followers": 1100657,
   "original_name": "Christmas is Coming",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 146293,
       "name": "Silent Night - 1999 Remaster",
       "url": "https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
-        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 181469,
-      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
-      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "Where Are You Christmas?",
         "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 188545,
       "name": "Where Are You Christmas?",
       "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
+        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 181469,
+      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
     }
   ],
   "unique_name": "Christmas is Coming",

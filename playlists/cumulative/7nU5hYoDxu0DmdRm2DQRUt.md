@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-506 songs - 2 day 0 hr 48 min
+510 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Don't Sync With My Tag \- Radio Edit](https://open.spotify.com/track/5KqpaAg2yktK26s6nQzvJJ) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Speicher 137](https://open.spotify.com/album/0ViyekTH6xFVG7yuuMsBcK) | 4:25 | 2026-01-16 |  |
 | [Doobie \- Original Mix](https://open.spotify.com/track/1GrOOgLBQZd2uNgox1rqwn) | [Swayzak](https://open.spotify.com/artist/4Zd2v5EFS3D9h4CgnEk4qq) | [Floyd / Doobie](https://open.spotify.com/album/6jr8KotPM8DO9CQyDTzsuy) | 7:31 | 2025-04-02 | 2026-01-15 |
 | [Down \(Original Mix\)](https://open.spotify.com/track/6YaFyRsRbB2AIy6Ajea4jB) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Down](https://open.spotify.com/album/2aN1FWQGqSU86NVzRAmvCE) | 3:49 | 2025-11-04 |  |
+| [Down \- Radio Edit](https://open.spotify.com/track/48pK6nY82LKmedEtbLONEQ) | [SAVED MY LIFE](https://open.spotify.com/artist/6RS2HM31tI76SkBrAUHNtp), [Senpolya](https://open.spotify.com/artist/3GCJuWuhn3b7a8DUUOPHps) | [Basement Cuts](https://open.spotify.com/album/0LPLFMvRE86eXK08FSKauO) | 4:40 | 2026-07-15 |  |
 | [Drainage/Overflow](https://open.spotify.com/track/1nhMYh1TDxNwiZtAKXGeYJ) | [Surface Access](https://open.spotify.com/artist/5Ev2mHd9pK6LXAg1rDqjOG) | [Advanced Surface Habitat](https://open.spotify.com/album/0ZpG5eSOlgqH6yB7W5xURb) | 8:13 | 2025-04-02 | 2026-01-15 |
 | [Dreams](https://open.spotify.com/track/1TU00sJWkX7WevdhUpPDuV) | [Quench](https://open.spotify.com/artist/7KxmXTMMSMu1DIYA2G3CNZ) | [Dreams](https://open.spotify.com/album/6yCCubnlpvQg5ZYNVHWB4P) | 6:12 | 2024-10-26 | 2025-09-06 |
 | [Dreams of an Insomniac](https://open.spotify.com/track/7wkf71jqo5419M0xUTnP9v) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Hawalat \(Habibi Funk 030\) \[Bonus Edition\]](https://open.spotify.com/album/4GLdlHaa7GF37iehYoVJ8h) | 2:47 | 2025-04-11 | 2026-03-17 |
@@ -147,6 +148,7 @@
 | [El Internet](https://open.spotify.com/track/6BOlL4OuJjkZYQuQMhnzT0) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [El Internet](https://open.spotify.com/album/6GpiRBQ67Swvk2tooza2nH) | 3:52 | 2025-06-03 | 2026-03-17 |
 | [Elecno Theme](https://open.spotify.com/track/2VCJE1d3aRw0F6bPshjo1d) | [Luca Lozano](https://open.spotify.com/artist/57YTLw15CKLrwSJKUFN5ep), [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Elecno Posse](https://open.spotify.com/album/5M7z8V9WBPJp1OSRglbm7U) | 7:01 | 2025-03-27 | 2026-01-15 |
 | [Electrostatic 2025](https://open.spotify.com/track/5bufTndJRaySeBxMfbOjzW) | [Terence Fixmer](https://open.spotify.com/artist/54yHcfvcrKO91U46rnzHkc) | [Electrostatic 2025 / Electric Vision 2025](https://open.spotify.com/album/66Atx7HkIVLJLbweXJbXqu) | 5:21 | 2025-11-04 |  |
+| [Elvau \- DJ Koze Remix](https://open.spotify.com/track/65RWgwcZ944auUwRdSnlVj) | [Paul Valentin](https://open.spotify.com/artist/4tP5rLYxvg7juVNkvzAVTD), [Liv Lisa Fries](https://open.spotify.com/artist/6Nt61UxS1b3tPURGch4aOV), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Elvau \(DJ Koze Remix\)](https://open.spotify.com/album/2rQHVdwTpxjCX5lJYsX22i) | 4:58 | 2026-07-15 |  |
 | [EMCZ](https://open.spotify.com/track/2AAgkfkd28q5hxNrSH1ioW) | [Shed](https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ) | [Applications](https://open.spotify.com/album/4xZb4tneSRxdxFNtME8ccY) | 4:04 | 2024-11-25 | 2025-11-11 |
 | [Emerald Hill](https://open.spotify.com/track/2WGGuwdoTGIBmUhRtQweCk) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Anchor Songs](https://open.spotify.com/album/25V9EwThcJmExQHojvnxvI) | 6:27 | 2026-02-03 |  |
 | [Empire \(feat\. John Carroll Kirby\)](https://open.spotify.com/track/2UTGBS4LQQHR46UnM2fMmV) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Lay Low](https://open.spotify.com/album/4soTMRGtMufO0SL6x3LMgv) | 2:59 | 2025-01-31 | 2026-01-15 |
@@ -274,6 +276,7 @@
 | [Mach Loop](https://open.spotify.com/track/1r7hsKSXkop8by32anaQXI) | [Brother Nebula](https://open.spotify.com/artist/63892764JEslxgCtaD5dLP) | [The Grandeur Of Delusions EP](https://open.spotify.com/album/4KcxXxrQ7jSkUCQDRWtyTp) | 5:31 | 2025-01-31 | 2026-01-15 |
 | [Macho](https://open.spotify.com/track/35piaqQPBnJe2XqnrGcai5) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24) | [10 Years Kurzweil](https://open.spotify.com/album/5YZ3lkwS7OmYeoXCq3RAUP) | 6:04 | 2024-10-29 | 2025-09-06 |
 | [Malam](https://open.spotify.com/track/46E9DiKZakpWTHfebjNNnj) | [Kaoru Inoue](https://open.spotify.com/artist/5fr4WRZR59VYttwBALTLUo) | [A Missing Myth of the Future](https://open.spotify.com/album/3hdvaEGVSHNbDyhoOz38TF) | 3:17 | 2024-11-19 | 2025-11-11 |
+| [Mandu](https://open.spotify.com/track/6HD9KRS3jtzIhTlwTkcvz9) | [Losoul](https://open.spotify.com/artist/0jO0TlgxW9Il5JphAWzhR4) | [Mandu / Zuma \(Reissue\)](https://open.spotify.com/album/5InNicr4p8JBOlpoIVchF9) | 11:38 | 2026-07-15 |  |
 | [Manie Sans Delire \(JD Twitch Remix\)](https://open.spotify.com/track/41DkqEvYPa6pq5vGgrfeCT) | [Bikini Body](https://open.spotify.com/artist/4CDEnnNpEhFU82W2G4oTWt), [JD Twitch](https://open.spotify.com/artist/3UdUeNg9U6zvHh5tHTYUiV) | [Manie Sans Delire \(JD Twitch Remix\)](https://open.spotify.com/album/0GqHUXNzttxbVSLaWkU18W) | 4:12 | 2025-04-07 | 2026-03-17 |
 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 | 2025-09-16 |  |
 | [Mariner's Dub \- Mathimidori Sensuikan Remix](https://open.spotify.com/track/07I9kbzILBVpwy9zxuoyI6) | [Mike Schommer](https://open.spotify.com/artist/74PxjzyiwUMM1JBrqba8ix), [Mathimidori](https://open.spotify.com/artist/1MHqWkB6mHZcnRNYo6MGEu) | [Heirloom Signal](https://open.spotify.com/album/1VIDriLRyOq7Cq3HyYe4BB) | 6:40 | 2025-09-29 |  |
@@ -429,6 +432,7 @@
 | [Sunglasses at Night](https://open.spotify.com/track/6nOYKhskIZXcfdFe8eVmOi) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Zyntherius](https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM) | [Sunglasses at Night](https://open.spotify.com/album/2WHs0kGRqZh2EU0yeDSc6b) | 3:43 | 2025-07-18 | 2026-06-19 |
 | [Sunya](https://open.spotify.com/track/11kZwNu0PUkEG7HiWjvPJV) | [Decoder](https://open.spotify.com/artist/1IURUyIPZTz2yxRdFinPoD) | [Anutva](https://open.spotify.com/album/3PEGaRaLXCuB8QdTmmTqu8) | 6:46 | 2025-04-25 | 2026-03-17 |
 | [Sycophant \- Radio Edit](https://open.spotify.com/track/3Bi0wAauJ0crJG0owLJ7Km) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Sycophant \(Radio Edit\)](https://open.spotify.com/album/6HJ4Ew4KIh3UDm2cjnEBiR) | 3:49 | 2024-10-11 | 2025-09-06 |
+| [Tal 90](https://open.spotify.com/track/6riUBY9NyadExERkTK5pXb) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [November 89](https://open.spotify.com/album/47jBxdCJfU23O7wNJcruHC) | 12:21 | 2026-07-15 |  |
 | [Taro](https://open.spotify.com/track/4qvSy2iqm8iK6eaIGGpQez) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Zero](https://open.spotify.com/album/465gcY0TdcbgpO0fNiQv9r) | 6:09 | 2024-11-19 | 2025-11-11 |
 | [Te Conoci](https://open.spotify.com/track/15YgNVANAkLbiNligewd1R) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Sensual Disguise EP](https://open.spotify.com/album/5a4tu8Yr8PQDN9fOooSBmA) | 3:10 | 2025-09-05 |  |
 | [Teaser \(Sunrise Melter\)](https://open.spotify.com/track/4TrxVDSqyeqYqLYwvUG8Sj) | [Kito Jempere](https://open.spotify.com/artist/1rcYZdCzi3poheNNvupX7K) | [Infinite Azure](https://open.spotify.com/album/0qyuog0geqrMNKUY9uABrl) | 8:49 | 2025-09-29 |  |

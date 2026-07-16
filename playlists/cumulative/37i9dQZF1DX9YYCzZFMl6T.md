@@ -4,7 +4,7 @@
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-82 songs - 4 hr 26 min
+83 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 | 2024-09-02 |  |
 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 | 2024-09-02 | 2026-07-11 |
 | [Merry Christmas](https://open.spotify.com/track/189X75jZ9JkpIih9OKkCoz) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 3:31 | 2024-09-02 | 2024-12-21 |
+| [Merry Christmas Asshole](https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Merry Christmas Asshole](https://open.spotify.com/album/5hw1XopOflGny25y4XchSo) | 3:05 | 2025-12-12 |  |
 | [Merry Christmas Darling](https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kate Bernhardt](https://open.spotify.com/artist/4tD1DjtxZogb0F6uRn2ty4), [Coco Reilly](https://open.spotify.com/artist/4B0rRuYqf9TbbnJSnGpW0Q) | [Merry Christmas Darling](https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4) | 3:11 | 2025-11-28 |  |
 | [Merry Christmas Mary Jane](https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Merry Christmas Mary Jane](https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j) | 4:12 | 2024-09-02 |  |
 | [Merry Christmas Wherever You Are](https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0) | 3:01 | 2024-09-02 | 2025-11-28 |
@@ -82,7 +83,7 @@
 | [The Sweetest Season](https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO), [Teddy Morgan](https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU) | [The Sweetest Season](https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj) | 2:48 | 2025-10-24 |  |
 | [Trim This Tree](https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Trim This Tree](https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm) | 3:55 | 2024-09-02 | 2025-07-15 |
 | [Ugly Sweater Blues](https://open.spotify.com/track/4vqUiwZ2f6bYjpmbo7LW5x) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC) | 2:56 | 2025-11-28 |  |
-| [Under the Mistletoe!](https://open.spotify.com/track/74YpSfHQSct8wznkHopETX) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ronnie Spector](https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj) | [Under the Mistletoe!](https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ) | 2:42 | 2024-09-02 |  |
+| [Under the Mistletoe!](https://open.spotify.com/track/74YpSfHQSct8wznkHopETX) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ronnie Spector](https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj) | [Under the Mistletoe!](https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ) | 2:42 | 2024-09-02 | 2026-07-16 |
 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 | 2024-09-02 |  |
 | [When It Snows In Texas](https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [When It Snows In Texas](https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe) | 2:46 | 2025-11-28 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 | 2024-09-02 |  |

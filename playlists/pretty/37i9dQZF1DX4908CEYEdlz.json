@@ -1,6 +1,6 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: The Pretty Reckless",
-  "num_followers": 915817,
+  "num_followers": 915699,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-06-26 03:03:24",
       "album": {
+        "name": "Foregone, Pt. 2",
+        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 270454,
+      "name": "Foregone, Pt. 2",
+      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
+    },
+    {
+      "added_at": "2026-06-26 03:03:24",
+      "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 182526,
       "name": "High on Me",
       "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
-    },
-    {
-      "added_at": "2026-06-26 03:03:24",
-      "album": {
-        "name": "Foregone, Pt. 2",
-        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 270454,
-      "name": "Foregone, Pt. 2",
-      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
     },
     {
       "added_at": "2026-06-26 03:03:24",

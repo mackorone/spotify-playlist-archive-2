@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 858162,
+  "num_followers": 858171,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -179,18 +163,18 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -207,6 +191,22 @@
       "duration_ms": 228000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
-      },
-      "artists": [
-        {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "On the Beach",
         "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 302426,
       "name": "On the Beach",
       "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+      },
+      "artists": [
+        {
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
       "added_at": "2026-03-19 15:24:01",

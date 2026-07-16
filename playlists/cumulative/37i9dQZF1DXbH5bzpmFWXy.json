@@ -2507,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "Abnormal",
+        "url": "https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
+    },
+    {
+      "album": {
         "name": "Cero Punto Cero",
         "url": "https://open.spotify.com/album/0R0JEnEpyLdk7asKxuFeLg"
       },
@@ -12790,7 +12812,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 198036,
       "name": "Sold Out",
       "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"

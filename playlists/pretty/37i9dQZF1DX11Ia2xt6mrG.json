@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 73109,
+  "num_followers": 73117,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,18 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "LA PERLA (V. ELECTRO-CORRIDO)",
-        "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
+        "name": "Runaways",
+        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Yay",
-          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
         }
       ],
-      "duration_ms": 182584,
-      "name": "LA PERLA (V. ELECTRO-CORRIDO)",
-      "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
+      "duration_ms": 269880,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -599,18 +591,26 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "Runaways",
-        "url": "https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo"
+        "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+        "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
       },
       "artists": [
         {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
         }
       ],
-      "duration_ms": 269880,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
+      "duration_ms": 182584,
+      "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+      "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -659,34 +659,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "Bien Loco",
-        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 169062,
-      "name": "Bien Loco",
-      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -727,6 +699,34 @@
       "duration_ms": 196800,
       "name": "SONI23BALL",
       "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 169062,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 160258,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 160857,
       "name": "999 (Goer)",
       "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "BLING BLING",
-        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "BLING BLING",
-      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
     },
     {
       "added_at": "2026-07-03 06:00:25",

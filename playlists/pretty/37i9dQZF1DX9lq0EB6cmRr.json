@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5768,
+  "num_followers": 5770,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Summer Vacation",
-        "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
-      },
-      "artists": [
-        {
-          "name": "Uaieo",
-          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
-        },
-        {
-          "name": "Joyful Island",
-          "url": "https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "100% Summer",
-      "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 257040,
       "name": "Minuet in G Minor, HWV 434 No. 4 (Arr. Kempff for Piano)",
       "url": "https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Summer Vacation",
+        "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
+      },
+      "artists": [
+        {
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Joyful Island",
+          "url": "https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "100% Summer",
+      "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
+        "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
+        "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        },
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
+      "duration_ms": 280687,
+      "name": "It's okay - Orchestra Version",
+      "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1123,28 +1127,24 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
-        "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
       },
       "artists": [
         {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
-        },
-        {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 280687,
-      "name": "It's okay - Orchestra Version",
-      "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
+      "duration_ms": 234000,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
     },
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "2022 Winter SMTOWN : SMCU PALACE",
-        "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
+        "name": "Hello Future (Orchestra Version)",
+        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 129440,
-      "name": "Welcome To SMCU PALACE",
-      "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
+      "duration_ms": 265120,
+      "name": "Hello Future - Orchestra Version",
+      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1171,6 +1171,22 @@
       "duration_ms": 194413,
       "name": "A Christmas Symphony",
       "url": "https://open.spotify.com/track/6iNSCePbwUiSDQ2bF5yj3e"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Growl (Orchestra Version)",
+        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Growl - Orchestra Version",
+      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Growl (Orchestra Version)",
-        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
-      },
-      "artists": [
-        {
-          "name": "Seoul Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Growl - Orchestra Version",
-      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI"
       },
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Hello Future (Orchestra Version)",
-        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
+        "name": "2022 Winter SMTOWN : SMCU PALACE",
+        "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 265120,
-      "name": "Hello Future - Orchestra Version",
-      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
+      "duration_ms": 129440,
+      "name": "Welcome To SMCU PALACE",
+      "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Twilight Waltz",
-      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Sherlock (Clue + Note) [Orchestra Version]",
-        "url": "https://open.spotify.com/album/2fg7HdPCDSHdbZRXzh70RE"
-      },
-      "artists": [
-        {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
-        }
-      ],
-      "duration_ms": 260325,
-      "name": "Sherlock (Clue + Note) - Orchestra Version",
-      "url": "https://open.spotify.com/track/73rDAj6Wl1JBgaKsr2qHlA"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Rachmaninoff, A Reflection",
         "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
       },
@@ -1523,6 +1491,38 @@
       "duration_ms": 41733,
       "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
       "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Our Beloved BoA #5 - SM STATION",
+        "url": "https://open.spotify.com/album/2qCFU2r5sHsVlffK3mclJs"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "Tree - Orchestra Version",
+      "url": "https://open.spotify.com/track/4Jd92aiHEfyHSf8IGlO9Ay"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Twilight Waltz",
+      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+        "name": "Enrique Granados \u2013 Goyescas",
+        "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
         },
         {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 516492,
-      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
-      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
+      "duration_ms": 412120,
+      "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
+      "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1851,22 +1851,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Enrique Granados \u2013 Goyescas",
-        "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
       },
       "artists": [
         {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
         }
       ],
-      "duration_ms": 412120,
-      "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
-      "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
+      "duration_ms": 516492,
+      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
+      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1883,26 +1883,6 @@
       "duration_ms": 232000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
-        }
-      ],
-      "duration_ms": 441320,
-      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
-      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1971,6 +1951,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "duration_ms": 441320,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
+      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1991,26 +1991,6 @@
       "duration_ms": 254226,
       "name": "his days are like a passing shadow I",
       "url": "https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Piano Sonata No. 5 in C Minor, Op. 10 No. 1: III. Finale. Prestissimo",
-      "url": "https://open.spotify.com/track/11FAr98BqkUlyuJoJ8zmgA"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -2043,6 +2023,26 @@
       "duration_ms": 246546,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Deep Sleep Deep",
+        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
+      },
+      "artists": [
+        {
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Yeongene",
+          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "iMessage (feat. Yeongene)",
+      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
     }
   ],
   "unique_name": "Classics Korea",

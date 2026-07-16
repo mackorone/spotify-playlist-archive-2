@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123533,
+  "num_followers": 123524,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVkjbD8Izr1S+4oDpSzrxXs7EgyLju",
+  "snapshot_id": "AAAVkyWeS2B4MLsKHRjbLg/CqWy89lXu",
   "tracks": [
+    {
+      "added_at": "2026-07-15 15:16:15",
+      "album": {
+        "name": "FADEAWAY",
+        "url": "https://open.spotify.com/album/3EQJvXNmXb3CVFgOBbnOB6"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "FADEAWAY",
+      "url": "https://open.spotify.com/track/7uL3j02IAUGhqcBZdkpXJt"
+    },
     {
       "added_at": "2026-07-13 15:31:02",
       "album": {

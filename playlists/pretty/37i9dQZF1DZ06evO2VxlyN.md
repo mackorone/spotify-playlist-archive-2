@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,957 likes - 19 songs - 58 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,998 likes - 19 songs - 58 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 | 5 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 6 | [STOP](https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:56 |
 | 7 | [wonder wander](https://open.spotify.com/track/3HHTqTM0Bgjs6ABUOwA5Ju) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:12 |
-| 8 | [Lonely](https://open.spotify.com/track/0brOhzwJscn8Bw5q0o2YZ6) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Lonely](https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu) | 3:18 |
-| 9 | [tongue](https://open.spotify.com/track/0Hxa8rxKGhFzsyZpqZVSmQ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:39 |
+| 8 | [tongue](https://open.spotify.com/track/0Hxa8rxKGhFzsyZpqZVSmQ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:39 |
+| 9 | [Lonely](https://open.spotify.com/track/0brOhzwJscn8Bw5q0o2YZ6) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Lonely](https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu) | 3:18 |
 | 10 | [Say it Say](https://open.spotify.com/track/4iZURXIvatKR7u2xpyGmwo) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:42 |
 | 11 | [ur new girlfriend](https://open.spotify.com/track/2ppMAeg7IwrpPuEu6MQind) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:55 |
 | 12 | [Blur](https://open.spotify.com/track/4asmKFh6Z5iTdJkxqC2wKQ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:46 |
 | 13 | [God Knows](https://open.spotify.com/track/31sakVrrESRDsoRsDlNWik) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 3:20 |
 | 14 | [karaoke](https://open.spotify.com/track/2iLaE22r3gShJyFfJ8Zzbc) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:45 |
 | 15 | [georgia](https://open.spotify.com/track/58h1pJQkym9CRAt5Ubc4tG) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:54 |
-| 16 | [swu](https://open.spotify.com/track/1vdBUAjKRjqLVFBPVdiLjZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:08 |
+| 16 | [mindf\*ck](https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:20 |
 | 17 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
-| 18 | [mindf\*ck](https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:20 |
+| 18 | [swu](https://open.spotify.com/track/1vdBUAjKRjqLVFBPVdiLjZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:08 |
 | 19 | [marrow](https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 |
 
-Snapshot ID: `alQqgAAAAAB3H09m642dVZL0Do5YoIoY`
+Snapshot ID: `alV8AAAAAADrTRexkAbrMoQV/8rMKh2V`

@@ -1,6 +1,6 @@
 {
   "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: JIHYO, Shenseea)",
-  "num_followers": 506255,
+  "num_followers": 506246,
   "original_name": "K-Pop X-Overs",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-07-10 09:40:31",
       "album": {
-        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
-        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
-      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
-    },
-    {
-      "added_at": "2026-07-10 09:40:31",
-      "album": {
         "name": "blue (with MINNIE)",
         "url": "https://open.spotify.com/album/2nikWz2AcwtWjdNMKCs6sG"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 213323,
       "name": "blue (with MINNIE)",
       "url": "https://open.spotify.com/track/6HIngEWX8ycnLjuUfSZyah"
+    },
+    {
+      "added_at": "2026-07-10 09:40:31",
+      "album": {
+        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
+        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
+      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
     },
     {
       "added_at": "2026-07-10 09:40:31",

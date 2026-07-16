@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 189583,
+  "num_followers": 189592,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Las Rejas No Matan",
-        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
         "name": "Tengo Ganas De Olvidarte",
         "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 218061,
       "name": "Tengo Ganas De Olvidarte",
       "url": "https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Las Rejas No Matan",
+        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
     },
     {
       "added_at": "2026-02-13 06:00:00",

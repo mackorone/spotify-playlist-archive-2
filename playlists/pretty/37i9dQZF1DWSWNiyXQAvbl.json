@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 516795,
+  "num_followers": 516809,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Even In The Quietest Moments (Remastered)",
         "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Exodus (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Starland Vocal Band",
         "url": "https://open.spotify.com/album/5DDpGgEdJKpH99oD4jlvQ8"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Bloody Tourists",
         "url": "https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL"
       },
@@ -1211,6 +1195,38 @@
       "duration_ms": 242840,
       "name": "Golden Years",
       "url": "https://open.spotify.com/track/0gOx4r5a1KkRTZ4uZDilrb"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "I Got A Name",
+        "url": "https://open.spotify.com/album/6QVn3X0VlX6XynvzgQVPi0"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "I'll Have To Say I Love You In A Song",
+      "url": "https://open.spotify.com/track/55KKzF53NXeY7neYbd8wz5"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1259,22 +1275,6 @@
       "duration_ms": 217533,
       "name": "Forever In Blue Jeans",
       "url": "https://open.spotify.com/track/1HNVGw472sKr3TeiECwmIH"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "I Got A Name",
-        "url": "https://open.spotify.com/album/6QVn3X0VlX6XynvzgQVPi0"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "I'll Have To Say I Love You In A Song",
-      "url": "https://open.spotify.com/track/55KKzF53NXeY7neYbd8wz5"
     },
     {
       "added_at": "2024-06-03 14:45:23",

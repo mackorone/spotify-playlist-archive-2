@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Folie's
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,122 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,104 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 20 | [MISTRAL EN HIVER](https://open.spotify.com/track/18K1Ho4UzlXHAsgCl9QQ05) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [MISTRAL EN HIVER](https://open.spotify.com/album/6CwGh54TpRCawYWGa5GsYY) | 2:30 |
 | 21 | [Ma mère va me tuer](https://open.spotify.com/track/2ovxLH2PYpesPw1gnBe8lz) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:28 |
 | 22 | [MR\. DJ](https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Luzyqv](https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb) | [MR\. DJ](https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf) | 2:53 |
-| 23 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 |
-| 24 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 |
+| 23 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 |
+| 24 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 |
 | 25 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
 | 26 | [Offerings](https://open.spotify.com/track/1A2uwr1Zpdd467Vzue8bXV) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offerings](https://open.spotify.com/album/0KKhGegQzdFh8ZWKqXDdiC) | 2:14 |
 | 27 | [Osimhen .OP\_6](https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6) | [Assaf](https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS), [Zeu](https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF) | [Osimhen .OP\_6](https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V) | 3:10 |

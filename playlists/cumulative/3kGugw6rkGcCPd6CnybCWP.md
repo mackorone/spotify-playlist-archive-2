@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-440 songs - 1 day 1 hr 31 min
+444 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All You Fear Is All You Feel](https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2) | [Next Week's Washing](https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6) | [All You Fear Is All You Feel](https://open.spotify.com/album/7IgK5aia8usQ29Ttdu0QwG) | 2:34 | 2026-05-16 |  |
 | [Alone](https://open.spotify.com/track/3Z4v94f97kZae71m3BP61t) | [Adaon](https://open.spotify.com/artist/6XlOoosLaDRzdbVuZQrodR) | [Alone](https://open.spotify.com/album/0VPhlG383qYQbHWHcDSfnL) | 3:08 | 2026-07-01 |  |
 | [ALONE](https://open.spotify.com/track/4MAwoES9cwXqjuVJP8RM40) | [陽那 京](https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0) | [ALONE](https://open.spotify.com/album/2honpOXWPjyA9LT1QV3OJO) | 4:06 | 2026-07-01 |  |
-| [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 | 2026-04-12 | 2026-05-28 |
+| [Alternative Ulster](https://open.spotify.com/track/5SVn3rhLXevK8FsM73yN0b) | [The Manky Melters](https://open.spotify.com/artist/7eeVrnLC5YwCslvhxGTVuF) | [Alternative Ulster](https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj) | 3:38 | 2026-04-12 |  |
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 | 2026-04-16 |
 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-04-06 | 2026-05-14 |
 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 | 2026-02-28 | 2026-04-16 |
@@ -209,6 +209,7 @@
 | [Ides Of March](https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [Morgan S Oteric](https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:33 | 2026-04-18 | 2026-07-01 |
 | [Idle Stranger](https://open.spotify.com/track/11S6dH5Sklh1cE0UrmvlKl) | [Miccoli](https://open.spotify.com/artist/5k6ayjMCjG9Dyjkrnjwijv) | [Idle Stranger](https://open.spotify.com/album/1TbYvKKwBIqu9zesWejWRk) | 3:46 | 2025-10-24 | 2025-12-12 |
 | [If I Go Missin’](https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [If I Go Missin’](https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ) | 3:40 | 2026-04-06 | 2026-05-14 |
+| [Im not going home](https://open.spotify.com/track/1U1Eqi1n2Q0PMoi1Rw9FuA) | [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T), [nostranger](https://open.spotify.com/artist/1llGv7eEgoGpXykdEan0cJ) | [Im not going home](https://open.spotify.com/album/3YIwF38ME0q1PRfqF8kBpa) | 3:36 | 2026-07-15 |  |
 | [in my bones](https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB) | [purr grief](https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI) | [superficial bliss](https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4) | 4:49 | 2026-02-02 | 2026-03-10 |
 | [Infinito](https://open.spotify.com/track/5K4JUd244XjzQLWfmiaTmS) | [Andrés Zapata](https://open.spotify.com/artist/3EVyrf1OgXe8woUNY6fbdO), [Daniela Garzon](https://open.spotify.com/artist/57VooYaAoRCGzc6AuRcIqj) | [Infinito](https://open.spotify.com/album/0JerWmlIVL40BX3uDukQSF) | 4:32 | 2026-04-17 | 2026-07-01 |
 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 | 2026-03-18 | 2026-04-21 |
@@ -308,6 +309,7 @@
 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 | 2026-02-02 | 2026-03-10 |
 | [Purple Apology](https://open.spotify.com/track/43uzmSmFrFWUoysDNeRfVo) | [SrJ Is DeD](https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U) | [Flow.](https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS) | 2:51 | 2026-03-31 | 2026-05-06 |
 | [Pushing Forty](https://open.spotify.com/track/5KSUDblE2pIpmRatGwptbP) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm) | 3:08 | 2026-03-29 | 2026-04-30 |
+| [quicksand](https://open.spotify.com/track/4777yCVrmQ7HAFS5U4si8p) | [soft flowers.](https://open.spotify.com/artist/7uleEBual0KHdmVLCZd27d) | [quicksand](https://open.spotify.com/album/43v361PdkLF8N96uki0aBb) | 3:12 | 2026-07-15 |  |
 | [Quiet Place](https://open.spotify.com/track/1O1fVtBK6sY4ewIwilA0K2) | [SUNSHRD](https://open.spotify.com/artist/4Qhw3YVszSYCJ583d05fkV) | [So Close, So Far](https://open.spotify.com/album/4hd303OKz08CpaNAlVnhUS) | 4:50 | 2026-04-20 | 2026-07-01 |
 | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/track/7AzxTnwsUBw23TfOKpGk71) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/album/3oEjpwbZUee3pVdJ6CG7yh) | 3:35 | 2025-11-02 | 2026-01-15 |
 | [Raise the Flag](https://open.spotify.com/track/3FPJOKXbHLeHbD82qHGDG5) | [M.E.109](https://open.spotify.com/artist/5O7bcW05QzF1Ixl3uS442D) | [Raise the Flag](https://open.spotify.com/album/4IIemHPTrZXD5qStydTv7d) | 3:40 | 2026-03-28 | 2026-04-30 |
@@ -361,6 +363,7 @@
 | [SuperNatural Man](https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr) | [Hope Noel](https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf) | [SuperNatural Man](https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX) | 3:49 | 2026-03-04 | 2026-04-16 |
 | [SUPREME](https://open.spotify.com/track/6ErKUvYCfx6SjTye09G4Pe) | [MOSES](https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum) | [SUPREME](https://open.spotify.com/album/26CoKHg8FTNbHbKN8gOKfF) | 2:49 | 2025-11-02 | 2026-01-17 |
 | [Surge](https://open.spotify.com/track/4tQsM9IalKTHhkhHVQiltP) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Surge](https://open.spotify.com/album/7N230KyMTKvE3eGFjov7ew) | 3:22 | 2026-01-12 | 2026-02-08 |
+| [Surprise, Surprise](https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Surprise, Surprise](https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk) | 3:04 | 2026-07-15 |  |
 | [Sweet Lover](https://open.spotify.com/track/7bV3prZwAoq9mekXMRXm0U) | [Miller Matthews](https://open.spotify.com/artist/18qZ4JJVQNtaFfreNnZkFr), [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Sweet Lover](https://open.spotify.com/album/1KulyKHZhq2GB61l239sbp) | 2:59 | 2025-10-30 | 2026-01-17 |
 | [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 | 2026-04-23 | 2026-07-02 |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-04-08 | 2026-05-14 |
@@ -405,6 +408,7 @@
 | [under my skin](https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [under my skin](https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD) | 2:42 | 2026-03-20 | 2026-04-21 |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-02-28 | 2026-04-16 |
 | [Used to Be So Easy](https://open.spotify.com/track/1foVO83KMcSfEZD6LgbBlW) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [Salty Beach Friends](https://open.spotify.com/album/33tsEys6xUWR6l31TCjG2R) | 4:03 | 2026-03-18 | 2026-04-21 |
+| [Useless](https://open.spotify.com/track/1isdRGP8dqpVLayBrlHXtg) | [strange world's end](https://open.spotify.com/artist/2MCW80Q2JBmvQARxrYI1Tb) | [Useless](https://open.spotify.com/album/5x5DH9RSBhGjkmhgnjr9ob) | 3:57 | 2026-07-15 |  |
 | [Valley](https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j), [Eisbaer](https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 6:01 | 2026-03-04 | 2026-04-16 |
 | [Velvet Afterglow](https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79) | [The Drixes](https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s) | [Velvet Afterglow](https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ) | 3:53 | 2026-02-14 | 2026-04-02 |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-11-02 | 2026-01-15 |

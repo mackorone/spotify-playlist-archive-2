@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF?si=p40mh03ZQUWbRcYGVfCs-A\">Jiggy Stapes</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/6IEl7tasSo01hU9z5wFTpm?si=Bs5Z5xiJRHqLwTXbvCgwQg&nd=1&dlsi=88880b1bca9d4d82\">The Babaz</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 166384,
       "name": "Almost Famous",
       "url": "https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or"
@@ -1927,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Let The Sky Open Under Your Feet",
+        "url": "https://open.spotify.com/album/3cnhP219J3izqk35c6r8XI"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458960,
+      "name": "Ayan",
+      "url": "https://open.spotify.com/track/10vZF9kxLbMnh5h3yRx5kn"
+    },
+    {
+      "album": {
         "name": "BABYGONE",
         "url": "https://open.spotify.com/album/2ljSJ1WWhc6UKneNndqmcW"
       },
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 229787,
       "name": "BEEF",
       "url": "https://open.spotify.com/track/4dS9eIRXHrsCrBm38KtQiI"
@@ -6531,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Know",
+        "url": "https://open.spotify.com/album/6NZYEzata1zkqtUYbkGsly"
+      },
+      "artists": [
+        {
+          "name": "Jonno Sweetman",
+          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Don't Wanna Know",
+      "url": "https://open.spotify.com/track/0qnPHnYOPrpdGK4B6hhtDr"
+    },
+    {
+      "album": {
         "name": "DONJA DONJA",
         "url": "https://open.spotify.com/album/5htJEN6KrIRXgERckmDToz"
       },
@@ -7489,6 +7525,28 @@
     },
     {
       "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/7D2iwvHS001asU8te42zGR"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        },
+        {
+          "name": "Remaya",
+          "url": "https://open.spotify.com/artist/6dHenbNUA9bZZKOTodNq5e"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/5fW4iJMqmtsKtLn8YIlGEt"
+    },
+    {
+      "album": {
         "name": "Kitoweo",
         "url": "https://open.spotify.com/album/2l2mHQtyUdRlElgOhCeObv"
       },
@@ -8158,7 +8216,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 208140,
       "name": "Fatherless Daughters",
       "url": "https://open.spotify.com/track/7wITUPZXcfo90ws7WP27Ls"
@@ -8814,7 +8872,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 122879,
       "name": "for my dawgs",
       "url": "https://open.spotify.com/track/3sMKZMUWOc8F5U4vAcTWfr"
@@ -10071,6 +10129,24 @@
     },
     {
       "album": {
+        "name": "Are You With Me!",
+        "url": "https://open.spotify.com/album/6efiIGTRyuGuHLliDvpX49"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85349,
+      "name": "green mile",
+      "url": "https://open.spotify.com/track/3tT9tgQ5VaobAVITOyOr8S"
+    },
+    {
+      "album": {
         "name": "GREENLIGHT",
         "url": "https://open.spotify.com/album/2AfewMlrsvFicTdGkDgrhM"
       },
@@ -10180,7 +10256,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 123333,
       "name": "H M",
       "url": "https://open.spotify.com/track/6ztCJcQFWrIunxqIFlLtBR"
@@ -11793,6 +11869,24 @@
     },
     {
       "album": {
+        "name": "Avant God",
+        "url": "https://open.spotify.com/album/2HfRLVLNFlh0a1X32Y4bmt"
+      },
+      "artists": [
+        {
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Idols",
+      "url": "https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4"
+    },
+    {
+      "album": {
         "name": "A Zulu Lover Girl",
         "url": "https://open.spotify.com/album/6quj8KJtq38WLpoyMOjIuL"
       },
@@ -11884,7 +11978,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 162456,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/3Dt1dGG3OLQ2j9FynaYPYZ"
@@ -11960,6 +12054,28 @@
       "duration_ms": 193800,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/5MtuWDaTKrWI94fC6eFtaC"
+    },
+    {
+      "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A"
+      },
+      "artists": [
+        {
+          "name": "SERRO",
+          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
+        },
+        {
+          "name": "Coster Ojwang",
+          "url": "https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Ilomba",
+      "url": "https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc"
     },
     {
       "album": {
@@ -14495,6 +14611,28 @@
     },
     {
       "album": {
+        "name": "Living Without You",
+        "url": "https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        },
+        {
+          "name": "YOSHE",
+          "url": "https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Living Without You",
+      "url": "https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx"
+    },
+    {
+      "album": {
         "name": "Lo Mi",
         "url": "https://open.spotify.com/album/7q8aIMuEJ3rKUBtEqKxFvT"
       },
@@ -15612,6 +15750,24 @@
       "duration_ms": 147691,
       "name": "Mamazala",
       "url": "https://open.spotify.com/track/1lMCiqYEH0Kyp6Z41NtF2p"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/6cNcYQ6z20VSVzFObvc3wz"
+      },
+      "artists": [
+        {
+          "name": "Operation Khataza",
+          "url": "https://open.spotify.com/artist/3YjcXnnF0A6ep6maq4es90"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369361,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4akPOkvKplg1sYtLYHfN9G"
     },
     {
       "album": {
@@ -19097,6 +19253,28 @@
     },
     {
       "album": {
+        "name": "Okunkun",
+        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        },
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Okunkun",
+      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
+    },
+    {
+      "album": {
         "name": "Blue Roses & Red Violets",
         "url": "https://open.spotify.com/album/1G5lsx75BjEYVffrMyOHJn"
       },
@@ -19504,6 +19682,28 @@
       "duration_ms": 195555,
       "name": "Onlo",
       "url": "https://open.spotify.com/track/3JRPWbAbAwER38HZ05wgPe"
+    },
+    {
+      "album": {
+        "name": "Only Soul",
+        "url": "https://open.spotify.com/album/1H8YjNelq9qnAXqZgkEZJO"
+      },
+      "artists": [
+        {
+          "name": "Cellz",
+          "url": "https://open.spotify.com/artist/5BFEr8AvjXPRGzf1hZyel3"
+        },
+        {
+          "name": "Packed Rich",
+          "url": "https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175116,
+      "name": "Only Soul",
+      "url": "https://open.spotify.com/track/0Fdo8JjoA6sVmiT2sAVZgZ"
     },
     {
       "album": {
@@ -20476,7 +20676,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 208493,
       "name": "Pombe Kidogo",
       "url": "https://open.spotify.com/track/3xa2CeGRfoTjaLvRccS3j9"
@@ -20566,7 +20766,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 165782,
       "name": "Power",
       "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
@@ -20790,7 +20990,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 118974,
       "name": "Princessa",
       "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
@@ -21824,7 +22024,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 142400,
       "name": "Run",
       "url": "https://open.spotify.com/track/3LC92AHJEVtTV0X2wu9sWz"
@@ -22052,6 +22252,24 @@
       "duration_ms": 213287,
       "name": "Safe",
       "url": "https://open.spotify.com/track/6tPzBJptprIjA8hk4ir3rz"
+    },
+    {
+      "album": {
+        "name": "Salaale",
+        "url": "https://open.spotify.com/album/6eUyZsLMwTaYDiwL2a85xv"
+      },
+      "artists": [
+        {
+          "name": "The Babaz",
+          "url": "https://open.spotify.com/artist/6IEl7tasSo01hU9z5wFTpm"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Salaale",
+      "url": "https://open.spotify.com/track/0xK2BojTGxnUbSC4Ol4mgT"
     },
     {
       "album": {
@@ -23110,6 +23328,28 @@
       "duration_ms": 198281,
       "name": "Sinister",
       "url": "https://open.spotify.com/track/1oM1Bku8VoveENQf9Kz3zF"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/25sxivXOQ0WZadZneVC0Vm"
+      },
+      "artists": [
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        },
+        {
+          "name": "PD",
+          "url": "https://open.spotify.com/artist/5ul0sPH3QadTyY5V3EYYbS"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4lWhQA6X4KNTRSQmhpwIN5"
     },
     {
       "album": {
@@ -25178,7 +25418,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 169142,
       "name": "Taking chances",
       "url": "https://open.spotify.com/track/0gRsD3pcXt8Hef4z2f0aQQ"
@@ -25304,7 +25544,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 183688,
       "name": "tash",
       "url": "https://open.spotify.com/track/1odjQdCmmGsTKKhgRMX1P5"
@@ -26770,7 +27010,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 132307,
       "name": "T\u1eb8 WO",
       "url": "https://open.spotify.com/track/5X2Sckl5eAkT4LKcaQkLZe"
@@ -27170,6 +27410,24 @@
       "duration_ms": 152994,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/6J2xVnZsEgnXyl2hzQawRd"
+    },
+    {
+      "album": {
+        "name": "Vaseline (On Your Collar)",
+        "url": "https://open.spotify.com/album/1Zr7Pu4Qp5crWXb4fMth3F"
+      },
+      "artists": [
+        {
+          "name": "Zwonaka",
+          "url": "https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167478,
+      "name": "Vaseline (On Your Collar)",
+      "url": "https://open.spotify.com/track/61Kcp90iGQWiZL6NIWzYhd"
     },
     {
       "album": {
@@ -29262,6 +29520,24 @@
       "duration_ms": 258665,
       "name": "ZOJIKI IZINTO",
       "url": "https://open.spotify.com/track/2up5Dd9llCPQT87KNaJ975"
+    },
+    {
+      "album": {
+        "name": "Zuzu (Kompa Edit)",
+        "url": "https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC"
+      },
+      "artists": [
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Zuzu (Kompa Edit)",
+      "url": "https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB"
     },
     {
       "album": {

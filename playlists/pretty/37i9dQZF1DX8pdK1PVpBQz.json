@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels. Cover: tickertape",
-  "num_followers": 31101,
+  "num_followers": 31110,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,26 @@
       "duration_ms": 191996,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/5KtU9AoG21eTPnO7QLe14g"
+    },
+    {
+      "added_at": "2026-07-14 14:00:39",
+      "album": {
+        "name": "Cristalina",
+        "url": "https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck"
+      },
+      "artists": [
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        }
+      ],
+      "duration_ms": 173581,
+      "name": "Cristalina",
+      "url": "https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M"
     },
     {
       "added_at": "2026-07-14 14:00:39",

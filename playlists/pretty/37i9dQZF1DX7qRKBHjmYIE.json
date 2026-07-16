@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cultura Prof\u00e9tica.",
-  "num_followers": 742193,
+  "num_followers": 742146,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -43,26 +43,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 155039,
-      "name": "EL CIELO",
-      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "Hecho para ti",
         "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "Cry about it! (feat. Ravyn Lenae)",
-        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 171507,
-      "name": "Cry about it! (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "TANTO TANTO",
         "url": "https://open.spotify.com/album/7JQ2W78F3nUzUYTdiThV53"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 240000,
       "name": "TANTO TANTO",
       "url": "https://open.spotify.com/track/6ALHw0J3sXfvcdDhli6xPe"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "duration_ms": 151808,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
         "name": "ALIENS",
         "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 163125,
       "name": "La Noche Que No Hab\u00eda Uber",
       "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
-        "name": "1-800",
-        "url": "https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 151808,
-      "name": "1-800",
-      "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "DUE\u00d1O DEL CIELO",
-        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 138926,
-      "name": "NIRVANA",
-      "url": "https://open.spotify.com/track/0s4LK91rXYM52FQiAI50x6"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "Me Caigo",
         "url": "https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 103650,
       "name": "Me Caigo",
       "url": "https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 138926,
+      "name": "NIRVANA",
+      "url": "https://open.spotify.com/track/0s4LK91rXYM52FQiAI50x6"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "quisiera",
-        "url": "https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 254218,
-      "name": "quisiera",
-      "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "me cuesta hablar",
         "url": "https://open.spotify.com/album/4spdgnGkbsTubgVbkhdKfa"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 180225,
       "name": "me cuesta hablar",
       "url": "https://open.spotify.com/track/7J2yiSiENs7Yexe08XW9h6"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "quisiera",
+        "url": "https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 254218,
+      "name": "quisiera",
+      "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "Cenizas En El Desierto",
-        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Cenizas En El Desierto",
-      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "En Tercera Persona",
-        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
+        "name": "Cenizas En El Desierto",
+        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
       },
       "artists": [
         {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
         }
       ],
-      "duration_ms": 211435,
-      "name": "En Tercera Persona",
-      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
+      "duration_ms": 204265,
+      "name": "Cenizas En El Desierto",
+      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1591,22 +1575,18 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "Alone In Roma (feat. French Braids)",
-        "url": "https://open.spotify.com/album/0phNiAwsxluRkaQkzdzIPW"
+        "name": "En Tercera Persona",
+        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
       },
       "artists": [
         {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "More",
+          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
         }
       ],
-      "duration_ms": 207557,
-      "name": "Alone In Roma (feat. French Braids)",
-      "url": "https://open.spotify.com/track/0HYHy6kaZ8ospkqYOeYLYw"
+      "duration_ms": 211435,
+      "name": "En Tercera Persona",
+      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1623,6 +1603,26 @@
       "duration_ms": 172840,
       "name": "EL OTRO T\u00da",
       "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "Alone In Roma (feat. French Braids)",
+        "url": "https://open.spotify.com/album/0phNiAwsxluRkaQkzdzIPW"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "duration_ms": 207557,
+      "name": "Alone In Roma (feat. French Braids)",
+      "url": "https://open.spotify.com/track/0HYHy6kaZ8ospkqYOeYLYw"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "Madrug\u00e1",
-        "url": "https://open.spotify.com/album/4Xd8y35JgDCHJWyQ2ljQge"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 188842,
-      "name": "Madrug\u00e1",
-      "url": "https://open.spotify.com/track/2IkZgaT0PlisNPXbmu8FMv"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "NI\u00d1O BUENO",
         "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 191375,
       "name": "contraste",
       "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "Madrug\u00e1",
+        "url": "https://open.spotify.com/album/4Xd8y35JgDCHJWyQ2ljQge"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 188842,
+      "name": "Madrug\u00e1",
+      "url": "https://open.spotify.com/track/2IkZgaT0PlisNPXbmu8FMv"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1711,6 +1711,22 @@
       "duration_ms": 216677,
       "name": "Pinta Bonito",
       "url": "https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "F2J",
+        "url": "https://open.spotify.com/album/3EdhR1pwARaZ3DnXUdnDSy"
+      },
+      "artists": [
+        {
+          "name": "Vortxz",
+          "url": "https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "F2J",
+      "url": "https://open.spotify.com/track/1bX4WZ37PFeOPcsATB1lV9"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1759,22 +1775,6 @@
       "duration_ms": 247043,
       "name": "el tiempo pasa r\u00e1pido",
       "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
-        "name": "F2J",
-        "url": "https://open.spotify.com/album/3EdhR1pwARaZ3DnXUdnDSy"
-      },
-      "artists": [
-        {
-          "name": "Vortxz",
-          "url": "https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "F2J",
-      "url": "https://open.spotify.com/track/1bX4WZ37PFeOPcsATB1lV9"
     }
   ],
   "unique_name": "Mixto",

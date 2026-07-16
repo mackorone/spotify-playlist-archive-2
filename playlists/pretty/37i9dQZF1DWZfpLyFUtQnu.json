@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 112392,
+  "num_followers": 112404,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Superflu",
-        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
-      },
-      "artists": [
-        {
-          "name": "Pascal Obispo",
-          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "Lucie",
-      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Best of",
         "url": "https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 254813,
       "name": "\u00c0 toutes les filles",
       "url": "https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Superflu",
+        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
+      },
+      "artists": [
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Lucie",
+      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
     },
     {
       "added_at": "2026-01-21 14:43:12",

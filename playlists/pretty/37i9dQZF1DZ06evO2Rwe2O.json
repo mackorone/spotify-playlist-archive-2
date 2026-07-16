@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 13116,
+  "num_followers": 13118,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAADTNNIwJhMkA+6gaI/sFYtk",
+  "snapshot_id": "alV8AAAAAACZJtHGr0wGIe4JGpFifS9a",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4vC1IhhSleQa81nbvE5Z8L"
+      "duration_ms": 344760,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 344760,
-      "name": "Good Good Father - Live",
-      "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
+      "duration_ms": 222266,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4vC1IhhSleQa81nbvE5Z8L"
     },
     {
       "added_at": null,
@@ -539,6 +539,38 @@
       "duration_ms": 180997,
       "name": "Lions And Eagles",
       "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "I Will Go",
+      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "Who You Are To Me",
+      "url": "https://open.spotify.com/track/4ruPH3r7BRjf1vj5nBBXvp"
     },
     {
       "added_at": null,
@@ -563,38 +595,6 @@
       "duration_ms": 243917,
       "name": "If We Are The Body (feat. Hannah Kerr)",
       "url": "https://open.spotify.com/track/12AUzHL6cmZNCKZT3HZIMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "Who You Are To Me",
-      "url": "https://open.spotify.com/track/4ruPH3r7BRjf1vj5nBBXvp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "I Will Go",
-      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life: The Redeemed Edition",
-        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 288060,
-      "name": "No Other Name",
-      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215706,
       "name": "Friend Like You",
       "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,

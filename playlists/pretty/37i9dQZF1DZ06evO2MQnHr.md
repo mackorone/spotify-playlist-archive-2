@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 12 | [Whatcha Wanna Do About It](https://open.spotify.com/track/4RvfyCTSXK7sxQ6Srp26lu) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:31 |
 | 13 | [Neon Love](https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Neon Love](https://open.spotify.com/album/18e5sUiTLTXM7Kk05LU75j) | 3:09 |
 | 14 | [Motel Flamingo](https://open.spotify.com/track/3o4n673cQvRJ0mON7vg5pF) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Motel Flamingo](https://open.spotify.com/album/3qxC1n7VT78zERw6tUByxR) | 3:32 |
-| 15 | [Unraveling](https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Unraveling](https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D) | 3:32 |
+| 15 | [Take A Broken Heart](https://open.spotify.com/track/2xAD7x9ZZ0JRzTg9X63Yxt) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Take A Broken Heart](https://open.spotify.com/album/2Gdv4H1aIjyLMklwti30lM) | 2:49 |
 | 16 | [War Paint](https://open.spotify.com/track/0ozzHTaaXNLaVxuO1VQ8KT) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:24 |
-| 17 | [Take A Broken Heart](https://open.spotify.com/track/2xAD7x9ZZ0JRzTg9X63Yxt) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Take A Broken Heart](https://open.spotify.com/album/2Gdv4H1aIjyLMklwti30lM) | 2:49 |
+| 17 | [Unraveling](https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Unraveling](https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D) | 3:32 |
 | 18 | [Makeup](https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Makeup](https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR) | 3:07 |
 | 19 | [You'll Think Of Me](https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [You'll Think Of Me](https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89) | 4:07 |
 | 20 | [Honey Jack](https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:08 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 35 | [Here I Am Gone](https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:49 |
 | 36 | [Don't](https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 4:20 |
 
-Snapshot ID: `alQqgAAAAAD99/JR91veYjXqFekRYSdD`
+Snapshot ID: `alV8AAAAAAC8eRMHuXH4XOwZ+KzQ+FIF`

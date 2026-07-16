@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 270602,
       "name": "Beyaz",
       "url": "https://open.spotify.com/track/01BIEhvSOowecScRovMFll"
@@ -11682,6 +11682,24 @@
       "duration_ms": 202000,
       "name": "Gidenlerden - Mustafa Sandal Sayg\u0131 1",
       "url": "https://open.spotify.com/track/4OtrYpdRaOpB9xgaKKbIKc"
+    },
+    {
+      "album": {
+        "name": "Gidi\u015fat",
+        "url": "https://open.spotify.com/album/67EvM60fproAJUULEJFEbR"
+      },
+      "artists": [
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        }
+      ],
+      "date_added": "2026-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225570,
+      "name": "Gidi\u015fat",
+      "url": "https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6"
     },
     {
       "album": {
@@ -22176,7 +22194,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 150352,
       "name": "Outro II",
       "url": "https://open.spotify.com/track/7Bg8I75fRGSZKyy5mH57LD"
@@ -23510,7 +23528,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 121714,
       "name": "RDM",
       "url": "https://open.spotify.com/track/2jxd1D0PUKtzFjML3gcuRK"
@@ -24752,7 +24770,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 144079,
       "name": "Say",
       "url": "https://open.spotify.com/track/1So3NgMTcyaAXMfB2DsFMe"
@@ -27278,7 +27296,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-16",
       "duration_ms": 164241,
       "name": "Timsahlar",
       "url": "https://open.spotify.com/track/1yBuBLIsoFymv9KKSHcqxN"

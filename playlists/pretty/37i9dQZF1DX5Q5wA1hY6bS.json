@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1331260,
+  "num_followers": 1331135,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
+        "name": "Reckless Skyline",
+        "url": "https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 224713,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Reckless Skyline",
-        "url": "https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 224713,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Backpush",
-        "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
+        "name": "October (October Version)",
+        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
       },
       "artists": [
         {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
         }
       ],
-      "duration_ms": 182152,
-      "name": "Backpush",
-      "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
+      "duration_ms": 277777,
+      "name": "October (October Version)",
+      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "October (October Version)",
-        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
+        "name": "Backpush",
+        "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
       },
       "artists": [
         {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
         }
       ],
-      "duration_ms": 277777,
-      "name": "October (October Version)",
-      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
+      "duration_ms": 182152,
+      "name": "Backpush",
+      "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
     },
     {
       "added_at": "2026-05-08 17:21:15",

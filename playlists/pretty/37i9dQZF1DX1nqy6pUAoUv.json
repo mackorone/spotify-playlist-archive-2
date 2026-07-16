@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170546,
+  "num_followers": 170542,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Wildflowers in the Graveyard",
-        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
-      },
-      "artists": [
-        {
-          "name": "Amber Rubarth",
-          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Wildflowers in the Graveyard",
-      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 174640,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+        "name": "Wildflowers in the Graveyard",
+        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
       },
       "artists": [
         {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+          "name": "Amber Rubarth",
+          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+      "duration_ms": 180977,
+      "name": "Wildflowers in the Graveyard",
+      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Strip Me Bare",
-        "url": "https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 285472,
-      "name": "Lawrence of Arcadia",
-      "url": "https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "In Another Life",
         "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 238560,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Strip Me Bare",
+        "url": "https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 285472,
+      "name": "Lawrence of Arcadia",
+      "url": "https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 234826,
-      "name": "Avalon (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 249886,
       "name": "The Fray (feat. The Milk Carton Kids)",
       "url": "https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 234826,
+      "name": "Avalon (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306216,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 306216,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 163280,
       "name": "Worried Mind",
       "url": "https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Manchester Air",
+        "url": "https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 247328,
+      "name": "Manchester Air",
+      "url": "https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1659,22 +1675,6 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Manchester Air",
-        "url": "https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 247328,
-      "name": "Manchester Air",
-      "url": "https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l"
     }
   ],
   "unique_name": "Contemporary Folk",

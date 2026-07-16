@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-138 songs - 6 hr 27 min
+139 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [HICCUP](https://open.spotify.com/track/4LMJRxu8w0b9cB6s5rUjrO) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/0b5Rqd7gSb8gBS8xCzgYR2) | 2:10 | 2025-07-23 |  |
 | [Honestly](https://open.spotify.com/track/4UlcyqEAKetKwxTq4EXvwp) | [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7) | [Honestly](https://open.spotify.com/album/7Bw7ts6BuO8Yz9IrRWfaTI) | 2:00 | 2025-06-24 |  |
 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2025-06-24 |  |
-| [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 | 2023-12-13 |  |
+| [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 | 2023-12-13 | 2026-07-16 |
+| [I Like That](https://open.spotify.com/track/6u3XEuLyFIGxEmfPLqpzfs) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [I Like That](https://open.spotify.com/album/1c1lKwm8rU3fLjzsqhRtVL) | 2:19 | 2026-07-15 |  |
 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 | 2023-12-13 | 2026-01-29 |
 | [IDKWGO \(feat\. Mikey More\)](https://open.spotify.com/track/2uhdE7tLdhs6YlriUVGnHy) | [Kid Trunks](https://open.spotify.com/artist/57SA5Qv24Vydwd6bJnV8fI), [Mikey More](https://open.spotify.com/artist/7fGyVluaial1tNZrtQgf9E) | [Moon](https://open.spotify.com/album/5AhEtD7zAxB0G90CdvEutL) | 3:39 | 2026-05-14 |  |
 | [INTRO](https://open.spotify.com/track/254e1d9X2yuvBvDt6Xnbay) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 0:14 | 2023-12-13 | 2026-02-13 |

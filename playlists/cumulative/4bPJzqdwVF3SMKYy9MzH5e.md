@@ -4,7 +4,7 @@
 
 > 
 
-2,424 songs - 5 day 10 hr 20 min
+2,427 songs - 5 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 | 2021-08-05 |  |
 | [Ghosting](https://open.spotify.com/track/3vZUC1m6QVm7urnN6lcF64) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:45 | 2022-04-03 |  |
 | [giirL math](https://open.spotify.com/track/2vkkkaDiOamN4sNcCgsTE1) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 2:29 | 2025-04-24 |  |
+| [GIIRLSWORLD](https://open.spotify.com/track/47AVZ6U30HmixCjSfFQFda) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [GIIRLSWORLD](https://open.spotify.com/album/3OZtJ85LivFVjC7chz2Ker) | 2:44 | 2026-07-15 |  |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2024-05-25 |  |
 | [Ginger Claps](https://open.spotify.com/track/42UDQ4nsp2aYpPjQm8svSR) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:04 | 2022-06-02 |  |
 | [Girl Anachronism](https://open.spotify.com/track/6Zbv79YWB0iZSXwIwEsIOP) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [The Dresden Dolls](https://open.spotify.com/album/3BMhZk7YVMQBh0Y4DuyNSt) | 2:59 | 2022-04-19 |  |
@@ -966,6 +967,7 @@
 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2025-04-08 |  |
 | [homeswitcher](https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Teen Week](https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3) | 2:25 | 2022-04-03 |  |
 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 | 2022-02-04 |  |
+| [Homie Don’t Shake](https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Homie Don’t Shake](https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w) | 2:56 | 2026-07-15 |  |
 | [HONEY](https://open.spotify.com/track/3k0iCsB9pZJ86yVWwQ16jS) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [THREE CHEERS FOR THE AMERICAN BEAUTY](https://open.spotify.com/album/76HILyNi5osIyJraAhmVWz) | 2:35 | 2021-08-05 |  |
 | [Honey I'm Home](https://open.spotify.com/track/7ihrhrqGhR9JjQ2U0WXC9f) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Honey I'm Home](https://open.spotify.com/album/6xRGntdgg4kfPkB2wEkrko) | 3:13 | 2021-08-05 |  |
 | [Honey I'm Home](https://open.spotify.com/track/6mi1qJnxW164dbHszk32z5) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [Honey I'm Home](https://open.spotify.com/album/5pQ3seSamWt2dGyOjFhpNz) | 3:33 | 2021-08-05 |  |
@@ -1220,6 +1222,7 @@
 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2021-08-05 |  |
 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 | 2021-08-05 |  |
 | [Leave Me Alone](https://open.spotify.com/track/7HpGa6LsvKZnJsfCZk0Oy4) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIX: The Deep End Saga](https://open.spotify.com/album/6zFDOD1SXs27ERSlm1q7kY) | 1:50 | 2023-04-22 |  |
+| [Left for USA](https://open.spotify.com/track/62JNG84aYlIXH2bFDd4LXt) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 1:59 | 2026-07-15 |  |
 | [Lemon \- Edit](https://open.spotify.com/track/2LKlHBPHxLG5ArAXfF148n) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lemon \(Edit\)](https://open.spotify.com/album/2xGzVkqqc7CFi74fAoIbAa) | 2:26 | 2021-08-05 |  |
 | [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 | 2024-11-04 |  |
 | [Les](https://open.spotify.com/track/0mCVNGC4Vvb6gDDQrDpaRh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx) | 5:17 | 2022-02-04 |  |

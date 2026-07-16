@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Luis R Conriquez y Tito Double P 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,407 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,517 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,25 +68,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 58 | [Bandidas](https://open.spotify.com/track/3SroxZM38FVMw2G1Ggia2P) | [Grupo Efecto TJ](https://open.spotify.com/artist/6nrrBRDAQY73LoX0kB6tJS) | [Bandidas](https://open.spotify.com/album/2kx9UT2ztkxTbswUi9O3yM) | 2:10 |
 | 59 | [Soy Yo](https://open.spotify.com/track/6NyYYcxBRWqQgKKEVnCLWm) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU) | [Soy Yo](https://open.spotify.com/album/2jWBsJ2aMzmxNMMNBQOpfN) | 3:02 |
 | 60 | [Los Castigados](https://open.spotify.com/track/3BsQGOEgeGM7L0flxDVW4B) | [Sammy El Rayo](https://open.spotify.com/artist/5kRk18NYVgllsXhs2BpGs3), [Many Y Los Impredecibles](https://open.spotify.com/artist/6hnIEh92xw2czaQ0NPgoXB) | [Los Castigados](https://open.spotify.com/album/20ueAPrQdzVUBUEZ3nUu3D) | 2:18 |
-| 61 | [ANOCHE MIRE AL CIELO](https://open.spotify.com/track/05lqS6Hbr75P6X4qILhAlw) | [Santo Double](https://open.spotify.com/artist/6W2Kme9xXl15U0peNsBTG4) | [ANOCHE MIRE AL CIELO](https://open.spotify.com/album/7574aF2qB2YeSND9TrYk6m) | 3:58 |
-| 62 | [500 Novillos](https://open.spotify.com/track/4GwKqH49eHCRYZOdWYTBKI) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [500 Novillos](https://open.spotify.com/album/2w4803DwHgi5OA8qqX5n9S) | 4:29 |
-| 63 | [El Preso De Michoacán](https://open.spotify.com/track/6aVWcjxgUVABqVQRX6HioV) | [Efrain Toledo y Sus Calentanos](https://open.spotify.com/artist/7oo9csjE3Ugx8MbUTrBL4N) | [El Preso De Michoacán](https://open.spotify.com/album/4UTq6ASC4p2VWQdkOTc6UG) | 3:59 |
-| 64 | [Decías](https://open.spotify.com/track/4PfYbfUpKZMcS4yR83Ruuj) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Decías](https://open.spotify.com/album/4qbGlRLvzWKjqrBHU1WPJ9) | 2:54 |
-| 65 | [Que el destino hable](https://open.spotify.com/track/749MFzxTiqtP6hoWVP7d3h) | [Grupo Convicto](https://open.spotify.com/artist/1xG4cl0gLcagLcL3YBVGZL) | [Que el destino hable](https://open.spotify.com/album/1d0WeahO3SugaD1zsz28Mz) | 2:23 |
-| 66 | [El Azucar y La Sal](https://open.spotify.com/track/3DWWhKjxsyBHIm4Cs6UtAo) | [Carlos Mercado](https://open.spotify.com/artist/2horMImTmjmQUUwfmiRXiP) | [El Azucar y La Sal](https://open.spotify.com/album/58CbL7aUOqDPMxqj8hl9yO) | 2:22 |
-| 67 | [El Alegre De Tecolotes \- En Vivo](https://open.spotify.com/track/0PEjjclEgoOJfZ5jAe0odp) | [Los Mayores](https://open.spotify.com/artist/4RuAfEsx5oySuBMwR8N8Zy) | [Session Desde Los Mochis \(En Vivo\)](https://open.spotify.com/album/2DAmg5o6zRXvXOyiY0AZQt) | 3:27 |
-| 68 | [SUPERESTRELLA](https://open.spotify.com/track/1CZ3do0coOlRccm8yczXzI) | [Los Peña](https://open.spotify.com/artist/3hSQCidlBONJWyq8PC2tSC) | [SUPERESTRELLA](https://open.spotify.com/album/2XILjMamIrYt2yAinH6onW) | 2:53 |
-| 69 | [Es Parte De](https://open.spotify.com/track/5hzQXwdG0M9pPMrPysFRpC) | [Roberto Luna](https://open.spotify.com/artist/6kZjHPAvakMaTGRK1w5pZP) | [Es Parte De](https://open.spotify.com/album/3vC9jvaA9qlow8FdsmbrMH) | 2:19 |
-| 70 | [Monalisa](https://open.spotify.com/track/7BAbtFbMUPvwQsPWaMXuTN) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [Monalisa](https://open.spotify.com/album/3dbfF0JYs3Vyj9Kx3gfInE) | 3:23 |
-| 71 | [Bohemio Loco](https://open.spotify.com/track/2m50oBXnZKWPctAQOlIdfi) | [Adrian Preciado](https://open.spotify.com/artist/5a0U6P0EX5Q4oOKGGzgb3W) | [Bohemio Loco](https://open.spotify.com/album/5SPCNCMChVF8v45oxG1mFQ) | 3:01 |
-| 72 | [Baby You Already Know](https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy) | [Jaime Carrasco Y Su 37](https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf) | [Baby You Already Know](https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq) | 2:44 |
-| 73 | [EL SHOW DEBE CONTINUAR](https://open.spotify.com/track/0LiyQ22QG2Owxl4AQv33fT) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [EL SHOW DEBE CONTINUAR](https://open.spotify.com/album/3xTl7U8yAgfPgBBSl5eAP4) | 2:55 |
-| 74 | [Desvelado](https://open.spotify.com/track/77TgsM9aMY3mfkNHSH6Xq1) | [Bocca Myers](https://open.spotify.com/artist/1cogPMvLxnNKOqjegSz53s) | [Desvelado](https://open.spotify.com/album/19C9G3OHrDdnB6Al6OK2yS) | 3:42 |
-| 75 | [Compa Lupe](https://open.spotify.com/track/3HI5JK7BLTtbFWltI1H9Z9) | [LEGADO MICHOACANO](https://open.spotify.com/artist/4Q51ZdLJ6kjEHvOlVOIasa) | [Compa Lupe](https://open.spotify.com/album/6BiBS5OMrTSVRAp3RhPSNa) | 4:28 |
-| 76 | [Mal Amor](https://open.spotify.com/track/3WQwllWX4kgynrhsCBl2gk) | [Alex Ortuño](https://open.spotify.com/artist/51Hy9TkaR4cBeX2uF2sDz2) | [Mal Amor](https://open.spotify.com/album/2R96LnFdd3qAGszJW1ynxn) | 3:24 |
-| 77 | [Antes De Que Te Vayas](https://open.spotify.com/track/3FcSJrq6ZJi3oGX7RvrjIX) | [Firma De Oro](https://open.spotify.com/artist/0MLobE5P8KqiVdo3y47d50) | [Tributo a Marco Antonio Solís \(En Vivo\)](https://open.spotify.com/album/16nxg1uEWb9DYAENClbrnm) | 3:57 |
-| 78 | [Japan](https://open.spotify.com/track/5diddGNJH2svqZnsVfAwKk) | [Grupo La Revo](https://open.spotify.com/artist/2CCm63X8y210EdLf541qBr) | [Japan](https://open.spotify.com/album/33ktm9mqdTd8sbR3IW707f) | 3:44 |
-| 79 | [Charlando \- En Vivo](https://open.spotify.com/track/5Lh6b1qriFWZETVobQHJAs) | [Alto Código](https://open.spotify.com/artist/5mTPOQ9UrBKsQC6eQMFjYN) | [Charlando \(En Vivo\)](https://open.spotify.com/album/43iYEk5Z3hehklwEh0scxI) | 2:44 |
-| 80 | [NI EN TU SOMBRA](https://open.spotify.com/track/0fgPhstDjVjWxhAyQ6CCfD) | [DANNY DUARTE](https://open.spotify.com/artist/7umeKQuONOmBJNYP0wPob8) | [NO MERCY](https://open.spotify.com/album/2hBWBLRuQJJIDKALC5xzR4) | 3:34 |
+| 61 | [500 Novillos](https://open.spotify.com/track/4GwKqH49eHCRYZOdWYTBKI) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [500 Novillos](https://open.spotify.com/album/2w4803DwHgi5OA8qqX5n9S) | 4:29 |
+| 62 | [El Preso De Michoacán](https://open.spotify.com/track/6aVWcjxgUVABqVQRX6HioV) | [Efrain Toledo y Sus Calentanos](https://open.spotify.com/artist/7oo9csjE3Ugx8MbUTrBL4N) | [El Preso De Michoacán](https://open.spotify.com/album/4UTq6ASC4p2VWQdkOTc6UG) | 3:59 |
+| 63 | [Decías](https://open.spotify.com/track/4PfYbfUpKZMcS4yR83Ruuj) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Decías](https://open.spotify.com/album/4qbGlRLvzWKjqrBHU1WPJ9) | 2:54 |
+| 64 | [Que el destino hable](https://open.spotify.com/track/749MFzxTiqtP6hoWVP7d3h) | [Grupo Convicto](https://open.spotify.com/artist/1xG4cl0gLcagLcL3YBVGZL) | [Que el destino hable](https://open.spotify.com/album/1d0WeahO3SugaD1zsz28Mz) | 2:23 |
+| 65 | [El Azucar y La Sal](https://open.spotify.com/track/3DWWhKjxsyBHIm4Cs6UtAo) | [Carlos Mercado](https://open.spotify.com/artist/2horMImTmjmQUUwfmiRXiP) | [El Azucar y La Sal](https://open.spotify.com/album/58CbL7aUOqDPMxqj8hl9yO) | 2:22 |
+| 66 | [El Alegre De Tecolotes \- En Vivo](https://open.spotify.com/track/0PEjjclEgoOJfZ5jAe0odp) | [Los Mayores](https://open.spotify.com/artist/4RuAfEsx5oySuBMwR8N8Zy) | [Session Desde Los Mochis \(En Vivo\)](https://open.spotify.com/album/2DAmg5o6zRXvXOyiY0AZQt) | 3:27 |
+| 67 | [SUPERESTRELLA](https://open.spotify.com/track/1CZ3do0coOlRccm8yczXzI) | [Los Peña](https://open.spotify.com/artist/3hSQCidlBONJWyq8PC2tSC) | [SUPERESTRELLA](https://open.spotify.com/album/2XILjMamIrYt2yAinH6onW) | 2:53 |
+| 68 | [Es Parte De](https://open.spotify.com/track/5hzQXwdG0M9pPMrPysFRpC) | [Roberto Luna](https://open.spotify.com/artist/6kZjHPAvakMaTGRK1w5pZP) | [Es Parte De](https://open.spotify.com/album/3vC9jvaA9qlow8FdsmbrMH) | 2:19 |
+| 69 | [Monalisa](https://open.spotify.com/track/7BAbtFbMUPvwQsPWaMXuTN) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [Monalisa](https://open.spotify.com/album/3dbfF0JYs3Vyj9Kx3gfInE) | 3:23 |
+| 70 | [Bohemio Loco](https://open.spotify.com/track/2m50oBXnZKWPctAQOlIdfi) | [Adrian Preciado](https://open.spotify.com/artist/5a0U6P0EX5Q4oOKGGzgb3W) | [Bohemio Loco](https://open.spotify.com/album/5SPCNCMChVF8v45oxG1mFQ) | 3:01 |
+| 71 | [Baby You Already Know](https://open.spotify.com/track/2KqhiKIOo47WRZMBY30vLy) | [Jaime Carrasco Y Su 37](https://open.spotify.com/artist/1luesZjrXUWCvqfkUF7RCf) | [Baby You Already Know](https://open.spotify.com/album/7ffW9e0vWEcbobN2UYsIPq) | 2:44 |
+| 72 | [EL SHOW DEBE CONTINUAR](https://open.spotify.com/track/0LiyQ22QG2Owxl4AQv33fT) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [EL SHOW DEBE CONTINUAR](https://open.spotify.com/album/3xTl7U8yAgfPgBBSl5eAP4) | 2:55 |
+| 73 | [Desvelado](https://open.spotify.com/track/77TgsM9aMY3mfkNHSH6Xq1) | [Bocca Myers](https://open.spotify.com/artist/1cogPMvLxnNKOqjegSz53s) | [Desvelado](https://open.spotify.com/album/19C9G3OHrDdnB6Al6OK2yS) | 3:42 |
+| 74 | [Compa Lupe](https://open.spotify.com/track/3HI5JK7BLTtbFWltI1H9Z9) | [LEGADO MICHOACANO](https://open.spotify.com/artist/4Q51ZdLJ6kjEHvOlVOIasa) | [Compa Lupe](https://open.spotify.com/album/6BiBS5OMrTSVRAp3RhPSNa) | 4:28 |
+| 75 | [Mal Amor](https://open.spotify.com/track/3WQwllWX4kgynrhsCBl2gk) | [Alex Ortuño](https://open.spotify.com/artist/51Hy9TkaR4cBeX2uF2sDz2) | [Mal Amor](https://open.spotify.com/album/2R96LnFdd3qAGszJW1ynxn) | 3:24 |
+| 76 | [Antes De Que Te Vayas](https://open.spotify.com/track/3FcSJrq6ZJi3oGX7RvrjIX) | [Firma De Oro](https://open.spotify.com/artist/0MLobE5P8KqiVdo3y47d50) | [Tributo a Marco Antonio Solís \(En Vivo\)](https://open.spotify.com/album/16nxg1uEWb9DYAENClbrnm) | 3:57 |
+| 77 | [Japan](https://open.spotify.com/track/5diddGNJH2svqZnsVfAwKk) | [Grupo La Revo](https://open.spotify.com/artist/2CCm63X8y210EdLf541qBr) | [Japan](https://open.spotify.com/album/33ktm9mqdTd8sbR3IW707f) | 3:44 |
+| 78 | [Charlando \- En Vivo](https://open.spotify.com/track/5Lh6b1qriFWZETVobQHJAs) | [Alto Código](https://open.spotify.com/artist/5mTPOQ9UrBKsQC6eQMFjYN) | [Charlando \(En Vivo\)](https://open.spotify.com/album/43iYEk5Z3hehklwEh0scxI) | 2:44 |
+| 79 | [NI EN TU SOMBRA](https://open.spotify.com/track/0fgPhstDjVjWxhAyQ6CCfD) | [DANNY DUARTE](https://open.spotify.com/artist/7umeKQuONOmBJNYP0wPob8) | [NO MERCY](https://open.spotify.com/album/2hBWBLRuQJJIDKALC5xzR4) | 3:34 |
 
-Snapshot ID: `AAAAAFKqHyPcDu4H5T93vo24/fdn/4tm`
+Snapshot ID: `AAAAAKvLsmHrPsXRfEJliINRPB8bsqkl`

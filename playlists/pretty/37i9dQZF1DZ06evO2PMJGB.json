@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264712,
+  "num_followers": 264698,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alQqgAAAAAB0205NbKLNnac5kNfeunoW",
+  "snapshot_id": "alV8AAAAAAD1MnJUTmY+sKC+F+IRYor/",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BATE VOLTA",
-        "url": "https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6"
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
       },
       "artists": [
         {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         }
       ],
-      "duration_ms": 149090,
-      "name": "BATE VOLTA",
-      "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
+      "duration_ms": 156591,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
     },
     {
       "added_at": null,
@@ -575,6 +575,30 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BATE VOLTA",
+        "url": "https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "BATE VOLTA",
+      "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
     },
     {
       "added_at": null,
@@ -615,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor In Studio",
-        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "P\u00f3s Voc\u00ea",
-      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -651,26 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
+        "name": "Amor In Studio",
+        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         }
       ],
-      "duration_ms": 156591,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
+      "duration_ms": 240000,
+      "name": "P\u00f3s Voc\u00ea",
+      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 125245,
       "name": "sentaDONA (Remix) s2",
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": null,
@@ -899,30 +899,6 @@
       "duration_ms": 171490,
       "name": "Consola\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3aQlzls4W5SlVuEBsLUCZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LABUBU (Latin Version)",
-        "url": "https://open.spotify.com/album/6FSY6tFduBWJvbhkZeDftj"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "ILYAH",
-          "url": "https://open.spotify.com/artist/3BKrAAsxD33NXflFODb7kq"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "LABUBU - Latin Version",
-      "url": "https://open.spotify.com/track/09fNHC3AibrTnmndlRuFVF"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

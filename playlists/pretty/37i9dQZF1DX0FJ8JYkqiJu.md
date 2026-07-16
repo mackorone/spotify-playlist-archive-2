@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,358 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,348 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 38 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 |
 | 39 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 40 | [Go](https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Go](https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR) | 2:25 |
-| 41 | [2 Little 2 Late](https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [2 Little 2 Late](https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF) | 2:51 |
-| 42 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
-| 43 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 |
+| 41 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
+| 42 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 |
+| 43 | [2 Little 2 Late](https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [2 Little 2 Late](https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF) | 2:51 |
 | 44 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 |
 | 45 | [FAR](https://open.spotify.com/track/6gmSMIDB3CjwWxFwWQXy0v) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [STANDOUT](https://open.spotify.com/album/7zrAaDBtgjDprzv1zXRtm4) | 2:15 |
 | 46 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [goodlife](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 |

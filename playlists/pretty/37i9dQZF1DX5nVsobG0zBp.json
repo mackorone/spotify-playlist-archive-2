@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: LON3R JOHNY",
-  "num_followers": 85820,
+  "num_followers": 85846,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-06-12 15:13:25",
       "album": {
-        "name": "SYSTEM",
-        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "Jo\u00e3o Maia Ferreira",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
-        }
-      ],
-      "duration_ms": 246368,
-      "name": "TRIBUNAL",
-      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
-    },
-    {
-      "added_at": "2026-06-12 15:13:25",
-      "album": {
         "name": "N\u00e3o d\u00e1 pa parar",
         "url": "https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 193700,
       "name": "N\u00e3o d\u00e1 pa parar",
       "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
+    },
+    {
+      "added_at": "2026-06-12 15:13:25",
+      "album": {
+        "name": "SYSTEM",
+        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "duration_ms": 246368,
+      "name": "TRIBUNAL",
+      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
     },
     {
       "added_at": "2026-06-12 15:13:25",

@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 1991587,
+  "num_followers": 1991279,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152626,
+      "name": "Naked As We Came",
+      "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 171576,
       "name": "Whiskey Whiskey",
       "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Our Endless Numbered Days",
-        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152626,
-      "name": "Naked As We Came",
-      "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
     },
     {
       "added_at": "2024-08-23 15:05:15",

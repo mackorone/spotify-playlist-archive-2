@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: VAYONN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,953 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,896 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 5 | [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 |
 | 6 | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/track/7etsBgkoZX9jywsQqXOj6Z) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4) | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/album/6XDcZiFKUmUcddGG03OoFb) | 2:25 |
 | 7 | [Us, Now](https://open.spotify.com/track/7hHXvDy58AOKIWZgXeYarw) | [OHYUL of LNGSHOT](https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8) | [결혼의 완성 Original Sound Track Part.2](https://open.spotify.com/album/22MrFdUTUvpJ0XZztCf3Uy) | 4:11 |
-| 8 | [girlsnboys](https://open.spotify.com/track/0Jnh3156FyIz7SHWgKHRmp) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 2:39 |
+| 8 | [girlsnboys](https://open.spotify.com/track/0Jnh3156FyIz7SHWgKHRmp) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 2:39 |
 | 9 | [GENE](https://open.spotify.com/track/7mlJgNMZsmbiKRE3FvnoGS) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#Your Youth](https://open.spotify.com/album/0SXSJGq70vyCzasqsppeoa) | 3:33 |
 | 10 | [OXY](https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:34 |
 | 11 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
