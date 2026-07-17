@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 
 > Great songs by Australian music legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,241 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,243 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 72 | [Alone with You \- 2014 Remaster](https://open.spotify.com/track/0cK7vBvgmRQVJpqgNwehch) | [Sunnyboys](https://open.spotify.com/artist/2th8vLqYKk3joxETdAZ2OB) | [Sunnyboys \(Expanded Edition\)](https://open.spotify.com/album/3avNYPQrtAxtqlBRrw9wJo) | 3:58 |
 | 73 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
 | 74 | [Jump in My Car](https://open.spotify.com/track/1XIXkp7bJDMQeINqrKgMjq) | [Ted Mulry Gang](https://open.spotify.com/artist/1o711LqmNPfr4wUF9KEJIE) | [The Essential Ted Mulry Gang](https://open.spotify.com/album/4ide5Gp9T9L8b5WrSYt7Rc) | 3:00 |
-| 75 | [Its Only the Beginning](https://open.spotify.com/track/1HXaX12pA7jVuwUczy5UOd) | [Deborah Conway](https://open.spotify.com/artist/3l1Tuoqd0JXoaOrAiOyrB0) | [String Of Pearls](https://open.spotify.com/album/3uJt66Vz0jymlFZxedk63k) | 4:41 |
+| 75 | [It's Only the Beginning](https://open.spotify.com/track/1HXaX12pA7jVuwUczy5UOd) | [Deborah Conway](https://open.spotify.com/artist/3l1Tuoqd0JXoaOrAiOyrB0) | [String Of Pearls](https://open.spotify.com/album/3uJt66Vz0jymlFZxedk63k) | 4:41 |
 | 76 | [Am I Ever Gonna See Your Face Again \(live\)](https://open.spotify.com/track/1Q8D0KzrDnj8lpdfaaiTDY) | [The Angels](https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al) | [Greatest Hits](https://open.spotify.com/album/6WWq4QGRPcBEWpeB9w4qJR) | 4:18 |
 | 77 | [Heavy Heart](https://open.spotify.com/track/5pPftjklQPooJBlE6WOQjk) | [You Am I](https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw) | [You Am I's \#4 Record](https://open.spotify.com/album/3Z16nJr79Hi5j2pgOmzOu5) | 3:11 |
 | 78 | [Father's Day](https://open.spotify.com/track/2mnvzsLKEG033tp9Bqm4S1) | [Weddings Parties Anything](https://open.spotify.com/artist/1RNwrc6Yfn4mxT8RCnck0y) | [Difficult Loves](https://open.spotify.com/album/5RdjICDNGB804bJNuSAKXr) | 4:02 |

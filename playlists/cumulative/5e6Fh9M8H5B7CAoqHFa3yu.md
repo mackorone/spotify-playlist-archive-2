@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,397 songs - 5 day 21 hr 24 min
+2,398 songs - 5 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Booty Fitness 144BPM \(Hiit Mix 30\-10\)](https://open.spotify.com/track/0qiqfNcnpu5rUOcDVUln1z) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [High Intensity Training](https://open.spotify.com/album/1JJwI42eaM8Vo4tJjNfwBS) | 1:21 | 2024-03-08 |  |
 | [Booty Workout 144BPM \(Hiit Mix 30\-10\)](https://open.spotify.com/track/3YQ5g2cPChJzzIhKcP182r) | [CROSSFIT WORKOUT](https://open.spotify.com/artist/25dYdNv02BZie634eo6Ezm) | [High Intensity Training](https://open.spotify.com/album/1JJwI42eaM8Vo4tJjNfwBS) | 1:20 | 2024-03-08 |  |
 | [Born Free](https://open.spotify.com/track/2gdJQePF3LkqluWUmFjZnu) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Very Best Of Matt Monro](https://open.spotify.com/album/1n4VuuvNLZepFrHucqrBIl) | 2:48 | 2026-03-15 |  |
+| [Borrowed Light](https://open.spotify.com/track/1bho1XejCPCYz4G6RJ3CS4) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:54 | 2026-07-16 |  |
 | [bossanova](https://open.spotify.com/track/6DCLJAi26EOix1B1NFdjx3) | [Zoe Gabrielle](https://open.spotify.com/artist/18o0M5S6lejez1ZWSQH2aq) | [Big Fucking Whoop](https://open.spotify.com/album/3HuPTPGIIwc6w7mRzbv16e) | 2:16 | 2025-11-18 |  |
 | [Botanical Bongo](https://open.spotify.com/track/0bhZPudq7aSiywPKGAR4f9) | [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:49 | 2024-05-01 |  |
 | [Botanical Dub](https://open.spotify.com/track/1grpjdPISPbqL8RUPCjIbI) | [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:50 | 2024-05-01 |  |
@@ -1281,7 +1282,7 @@
 | [Media melanco](https://open.spotify.com/track/1oxoK3rc47doNVKCMCduFz) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw) | [Media melanco](https://open.spotify.com/album/7pSTfD8VVcvjek0m0EqGSE) | 3:27 | 2025-05-20 |  |
 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 | 2026-02-20 |  |
 | [Meditation Version](https://open.spotify.com/track/4xz1AZQVP23FfxMomfYlz0) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 4:14 | 2024-07-06 |  |
-| [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 | 2026-05-28 |  |
+| [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [Josè Sechi](https://open.spotify.com/artist/13nlBFWZVZjdFKwE8ynV16), [Davide Caddeo](https://open.spotify.com/artist/3xAmH4xE6tJXOvq3U9c5TW) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 | 2026-05-28 |  |
 | [Meditherranea \- Extended Mix](https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 4:03 | 2026-05-28 |  |
 | [Meglio \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/0FWI6Glw2QagTUM8XI2d9U) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Bugatti Cristian](https://open.spotify.com/album/2JFwpVw1ZdevcYCWPrOZKF) | 3:28 | 2023-03-15 |  |
 | [Mejorar la Especie](https://open.spotify.com/track/2fHnu29xq4544B0aXdwAow) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Mejorar la Especie](https://open.spotify.com/album/27awH2vQ8fb0UH2e7rVA9Q) | 2:54 | 2025-08-05 |  |

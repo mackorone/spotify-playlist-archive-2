@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 127800,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 194186,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/0Dho96aJIZ5LJZXyPllbWA"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 145677,
       "name": "G.Y.M.",
       "url": "https://open.spotify.com/track/3kW2zl3jDOgBYGr3sgQ38l"
@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 166153,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -5664,6 +5664,24 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "album": {
+        "name": "Welcome To My Paradise",
+        "url": "https://open.spotify.com/album/6HwqzF4IBmmEDKBz77EJ2I"
+      },
+      "artists": [
+        {
+          "name": "Phake",
+          "url": "https://open.spotify.com/artist/3UNdNPvBcX8gFPbxyLchRC"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Welcome To My Paradise",
+      "url": "https://open.spotify.com/track/6A6w8MFCKf6FB4ruAPoIjK"
     },
     {
       "album": {

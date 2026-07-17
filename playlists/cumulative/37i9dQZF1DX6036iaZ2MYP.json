@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Victony",
+  "description": "Tracks popping off in the Afro scene. Cover: CKay",
   "name": "Afro Station",
   "tracks": [
     {
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 207085,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 148474,
       "name": "ALL NIGHT LONG",
       "url": "https://open.spotify.com/track/5DvdtBY6G6swbOsS1nwhfY"
@@ -2903,6 +2903,28 @@
     },
     {
       "album": {
+        "name": "BB Lifestyle",
+        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "BB Lifestyle",
+      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
+    },
+    {
+      "album": {
         "name": "KAID",
         "url": "https://open.spotify.com/album/1hLGGWyMJ4yJ84c7CITrWC"
       },
@@ -3907,6 +3929,28 @@
     },
     {
       "album": {
+        "name": "BOUCANTIER",
+        "url": "https://open.spotify.com/album/4tjw7ywwiDUZQVe3QN0339"
+      },
+      "artists": [
+        {
+          "name": "Dalso",
+          "url": "https://open.spotify.com/artist/0zAXRPAuLqtMW3lmLrn3T5"
+        },
+        {
+          "name": "L I B",
+          "url": "https://open.spotify.com/artist/7Ij70AqQaRRiBNSxcJrZUa"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "BOUCANTIER",
+      "url": "https://open.spotify.com/track/0cyIbRfL8NNkAz9QgQ61mi"
+    },
+    {
+      "album": {
         "name": "Bouche de femme",
         "url": "https://open.spotify.com/album/2lTS6t5wGOtKYFeUXMLTaH"
       },
@@ -4627,6 +4671,28 @@
     },
     {
       "album": {
+        "name": "Caribbean Girl",
+        "url": "https://open.spotify.com/album/4L4n4M1pfCbAjp1p2KLGS2"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Caribbean Girl",
+      "url": "https://open.spotify.com/track/4VskUdh8Hn1STK1OpqEUKo"
+    },
+    {
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes"
       },
@@ -5260,6 +5326,24 @@
       "duration_ms": 202434,
       "name": "CHOUAAA (feat. Didi B)",
       "url": "https://open.spotify.com/track/1lv632Lie6YEflCPHUoBgN"
+    },
+    {
+      "album": {
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/1z9teLk092jm41eMvSnrU9"
+      },
+      "artists": [
+        {
+          "name": "BNVM",
+          "url": "https://open.spotify.com/artist/2ax7EITTn2BrwIdLKW9ll3"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/6z8JW14G0jZzzL3RKkKuxs"
     },
     {
       "album": {
@@ -6900,7 +6984,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 130485,
       "name": "Dis moi o\u00f9 t'es",
       "url": "https://open.spotify.com/track/1xwsyWKGaVaRXkEZS88rDR"
@@ -7694,6 +7778,24 @@
       "duration_ms": 177212,
       "name": "D\u00e9sormais",
       "url": "https://open.spotify.com/track/3uB9sT2loCpq8jOlIbND6D"
+    },
+    {
+      "album": {
+        "name": "E CLEAR",
+        "url": "https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "E CLEAR",
+      "url": "https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1"
     },
     {
       "album": {
@@ -9034,6 +9136,24 @@
       "duration_ms": 161854,
       "name": "Ferrero",
       "url": "https://open.spotify.com/track/7fJ7mEdFiOQ0JkZ1LoDNVG"
+    },
+    {
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/6RH6ELGWC7daNrSALgvlss"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143146,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/2TZyT1cnb5qo7rJOJmYIlV"
     },
     {
       "album": {
@@ -11738,7 +11858,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 187714,
       "name": "IS IT LOVE",
       "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
@@ -12328,6 +12448,24 @@
       "duration_ms": 128495,
       "name": "JIGGLE",
       "url": "https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT"
+    },
+    {
+      "album": {
+        "name": "JIGI",
+        "url": "https://open.spotify.com/album/5HRPVkbAHctAbGe7zTN9Ft"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173488,
+      "name": "JIGI",
+      "url": "https://open.spotify.com/track/0yEcNatddWkpWV7qfsry2j"
     },
     {
       "album": {
@@ -13832,7 +13970,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 172758,
       "name": "LIKE 2 DANCE",
       "url": "https://open.spotify.com/track/3cA3z4Peiv6xqkW6wrZEoR"
@@ -15904,7 +16042,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 159056,
       "name": "MOGBE",
       "url": "https://open.spotify.com/track/4FXXbuuGKP7w90JJERp67u"
@@ -15956,6 +16094,28 @@
       "duration_ms": 176453,
       "name": "Molo (feat. Dadju)",
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
+    },
+    {
+      "album": {
+        "name": "Molo Molo",
+        "url": "https://open.spotify.com/album/1PAwwww4TA50hyBzmFjXV4"
+      },
+      "artists": [
+        {
+          "name": "AfroWide",
+          "url": "https://open.spotify.com/artist/2xEeE6FbatpY0tpwfwKeIg"
+        },
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Molo Molo",
+      "url": "https://open.spotify.com/track/1DXeb8x0JI7TuNleRtl81C"
     },
     {
       "album": {
@@ -19396,7 +19556,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 167040,
       "name": "PAS UNE AUTRE",
       "url": "https://open.spotify.com/track/3cFCvSS99CImqeynYXihG0"
@@ -19578,7 +19738,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 132857,
       "name": "Petit jeu",
       "url": "https://open.spotify.com/track/3jTEyLRWyCyPiJLDeGZvS0"
@@ -20018,7 +20178,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 192786,
       "name": "POPULAIR",
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
@@ -20480,7 +20640,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 161157,
       "name": "QTVOR",
       "url": "https://open.spotify.com/track/6RuzuuTjT01UVpwV6TAJfA"
@@ -22154,7 +22314,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 106909,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
@@ -24907,6 +25067,24 @@
     },
     {
       "album": {
+        "name": "Live In The Flesh",
+        "url": "https://open.spotify.com/album/36R0BAZr8HqgNUIdk5o8Xy"
+      },
+      "artists": [
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247655,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/6wffE1E39cj1JUg6vhLKQG"
+    },
+    {
+      "album": {
         "name": "Vanit\u00e9",
         "url": "https://open.spotify.com/album/0V9hllhlNbHqK175smjlA1"
       },
@@ -25028,6 +25206,28 @@
       "duration_ms": 137100,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
+    },
+    {
+      "album": {
+        "name": "VIBES",
+        "url": "https://open.spotify.com/album/7BR2UhlMz52qSB9YR3hvdh"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150752,
+      "name": "VIBES",
+      "url": "https://open.spotify.com/track/7pchvc1iKVljVhZLUu7mUs"
     },
     {
       "album": {
@@ -25440,7 +25640,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 141734,
       "name": "WDYS ( WHAT DO YOU SAY?)",
       "url": "https://open.spotify.com/track/0D1DLIH9Xe9tkt12B9fGqQ"
@@ -26186,6 +26386,28 @@
       "duration_ms": 133846,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"
+    },
+    {
+      "album": {
+        "name": "ZWINA",
+        "url": "https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "ZWINA",
+      "url": "https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB"
     },
     {
       "album": {

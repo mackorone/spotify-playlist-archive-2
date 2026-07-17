@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Future, Beyoncé, The Rolling Stones, Suki Waterhouse, ROLE MODEL, Tucker Wetmore, Finn Wolfhard, and Magi Merlin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,425 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,400 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 86 | [Force](https://open.spotify.com/track/72g0jOWRGF2cpoNlRn3RDS) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [ProdByPanda](https://open.spotify.com/artist/1T6qr1gEMrwWCflNaoxY0Y) | [Force](https://open.spotify.com/album/5cH02oII58OcyICVCsV2Kj) | 2:41 |
 | 87 | [Miami Vice](https://open.spotify.com/track/4weo7UBnXLgp7RN9zqHoru) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P) | [JamPack](https://open.spotify.com/album/1Q6F68AS8dqwHqc62cEaiD) | 3:02 |
 | 88 | [Mahiya](https://open.spotify.com/track/5UJPytmZC2GQlfw3iAVTsP) | [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Rani Randeep](https://open.spotify.com/artist/6lfYp7aQFOnsSMPY0pE9oS) | [Best Kept Secret](https://open.spotify.com/album/1Ai2o0Nw0OoBsmhX4oT8Jb) | 3:20 |
-| 89 | [If It Aint Broke \(Love Wins\) \(feat\. Phoelix & 9th Wonder\)](https://open.spotify.com/track/2dDULsctTpwmEPyY7HQNhf) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [If It Aint Broke \(Love Wins\) \[feat\. Phoelix & 9th Wonder\]](https://open.spotify.com/album/0jjJ8x1GanN2fLf3SM98wZ) | 2:25 |
+| 89 | [If It Ain't Broke \(Love Wins\) \(feat\. Phoelix & 9th Wonder\)](https://open.spotify.com/track/2dDULsctTpwmEPyY7HQNhf) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [If It Ain't Broke \(Love Wins\) \[feat\. Phoelix & 9th Wonder\]](https://open.spotify.com/album/0jjJ8x1GanN2fLf3SM98wZ) | 2:25 |
 | 90 | [Untold](https://open.spotify.com/track/5m2bo5HoHlmQeVahUmYrVQ) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Untold](https://open.spotify.com/album/3rpbnVmcQGcrIE91qOvNKP) | 2:43 |
 | 91 | [Not on the Run](https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6) | [True Quiet](https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO) | [Not on the Run](https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp) | 3:51 |
 | 92 | [Dupe](https://open.spotify.com/track/5cdGa77tX90MjFSlepk6lk) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Dupe](https://open.spotify.com/album/7CFlseQhPVnIyn4QlDFiLI) | 2:57 |

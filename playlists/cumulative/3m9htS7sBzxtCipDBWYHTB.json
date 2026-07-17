@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Get Lonely",
+        "url": "https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Maybe Sprout Wings",
+      "url": "https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW"
+    },
+    {
+      "album": {
         "name": "My Ordinary Life",
         "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
       },
@@ -590,6 +608,24 @@
       "duration_ms": 152346,
       "name": "Underwater Woman",
       "url": "https://open.spotify.com/track/7EEYzmpHXXwiaMrEBWHwZy"
+    },
+    {
+      "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168893,
+      "name": "Until I Am Whole",
+      "url": "https://open.spotify.com/track/0DB6VaEyabpqAemzIxWpPo"
     },
     {
       "album": {

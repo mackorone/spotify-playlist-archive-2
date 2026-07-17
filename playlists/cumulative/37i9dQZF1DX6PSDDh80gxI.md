@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> birthh ci riempie il cuore questa estate 🧡
+> se pò spezzà nu ciore 'mmiez'ô viento, 'o viento senza ciore addora 'e niente 🩵
 
-595 songs - 1 day 7 hr 49 min
+596 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Attitudini: nessuna](https://open.spotify.com/track/1Q4JNJowlBd2EsJiD56OCy) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Attitudini: nessuna](https://open.spotify.com/album/4fr0LS6QjF35GwB67wNjKi) | 2:55 | 2025-12-04 | 2026-01-30 |
 | [Avvoltoi](https://open.spotify.com/track/3ByNcS81LqRYUvJjpWhZ7T) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Avvoltoi](https://open.spotify.com/album/2Pm3fClssWE7Bhnijoi7E1) | 2:45 | 2026-02-26 | 2026-05-08 |
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 | 2024-10-11 |
-| [BABY BANANA](https://open.spotify.com/track/52et5l2RCMKC4wcRgtwLZv) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM) | [BABY BANANA](https://open.spotify.com/album/3ehegyncFwhNrQzMTXU23f) | 3:17 | 2026-06-18 |  |
+| [BABY BANANA](https://open.spotify.com/track/52et5l2RCMKC4wcRgtwLZv) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM) | [BABY BANANA](https://open.spotify.com/album/3ehegyncFwhNrQzMTXU23f) | 3:17 | 2026-06-18 | 2026-07-17 |
 | [Baciamoci](https://open.spotify.com/track/3S8vs3CYZDKEsh1WyJgr3f) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Baciamoci](https://open.spotify.com/album/242Zc9kOOYBpCaaTiLOvJj) | 2:47 | 2026-04-30 |  |
 | [BALLA](https://open.spotify.com/track/0mlZdAdXr19dGJ1tNHBvr7) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [BALLA COI LUPI NELLA STALLA](https://open.spotify.com/album/4mF8RZSmhTnNujFm3YUIVH) | 3:48 | 2024-10-17 | 2024-11-15 |
 | [BALLA DA SOLA](https://open.spotify.com/track/50spFDfvMoXukKiT5rZuWB) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [33](https://open.spotify.com/album/0CnhUDR5R712uOBRT2KlHo) | 2:46 | 2025-05-22 | 2025-06-06 |
@@ -260,6 +260,7 @@
 | [La crisi dopo i tre](https://open.spotify.com/track/4RGnIRLOYBlZ8aC5tXGY8T) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [PAOLO SANTO SUPERSTAR](https://open.spotify.com/album/7KRDjhOKCx1B3F2sH76dPt) | 3:05 | 2026-05-21 | 2026-07-03 |
 | [La Distanza \(con Ariete & Lorenzza\)](https://open.spotify.com/track/347ILhysXGJPDiF3JLi93m) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:14 | 2025-05-29 | 2026-01-30 |
 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 | 2026-02-25 |  |
+| [La foto migliore](https://open.spotify.com/track/6PwjtvnsJRpz3U4poHj2s4) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [La foto migliore](https://open.spotify.com/album/1rEGgiUzZzbXP0MtEf7DAw) | 2:34 | 2026-07-16 |  |
 | [LA FRETTA](https://open.spotify.com/track/6svY4DOYitwdeBK6CfmPLt) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LA FRETTA](https://open.spotify.com/album/5ABb9tC3u5KrDd42ErGpO1) | 2:53 | 2025-11-20 | 2026-06-05 |
 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 | 2024-09-19 | 2024-10-18 |
 | [LA MACCHINA](https://open.spotify.com/track/3Shhi6otR1WYLtgwMCWjF8) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:44 | 2024-11-28 | 2025-04-25 |

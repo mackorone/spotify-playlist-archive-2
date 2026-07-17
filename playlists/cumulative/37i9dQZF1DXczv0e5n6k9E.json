@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SIGMA, \tSIDARTA",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Strat, Arab",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 136615,
       "name": "AMA SARESW",
       "url": "https://open.spotify.com/track/27YR9PvR67oRBOquAXS87Y"
@@ -3371,6 +3371,40 @@
     },
     {
       "album": {
+        "name": "CMC CYPHER",
+        "url": "https://open.spotify.com/album/3RSDQ2KivQSlaoudIflFDD"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Silly Slime",
+          "url": "https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Quervo",
+          "url": "https://open.spotify.com/artist/4SEFbvxDiWfU8ucxo1kymr"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "CMC CYPHER",
+      "url": "https://open.spotify.com/track/4vWKrBQxQluuF9kgCwxZUY"
+    },
+    {
+      "album": {
         "name": "CO",
         "url": "https://open.spotify.com/album/2J59CEpFhUzRwHHyiVO3hd"
       },
@@ -4728,7 +4762,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 122880,
       "name": "EGW",
       "url": "https://open.spotify.com/track/0ZbE3pJyd4bpZYo5kqVAqf"
@@ -5328,6 +5362,28 @@
       "duration_ms": 175774,
       "name": "FAST LIFE",
       "url": "https://open.spotify.com/track/05wzSenrDxynjOvBRsTFJF"
+    },
+    {
+      "album": {
+        "name": "FEFE",
+        "url": "https://open.spotify.com/album/6xNTjKegcGNHGs24czDJcI"
+      },
+      "artists": [
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "FEFE",
+      "url": "https://open.spotify.com/track/6AIgY4qRD1UdPDzmHXLLRo"
     },
     {
       "album": {
@@ -6260,7 +6316,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 142909,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/4IcDfTKEPoCyZNbPWDLV32"
@@ -6582,7 +6638,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 224600,
       "name": "GKD",
       "url": "https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP"
@@ -9038,7 +9094,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139636,
       "name": "LIGO AKOMA",
       "url": "https://open.spotify.com/track/5QXZy0LU1kNhi9TAus1nVP"
@@ -9347,6 +9403,28 @@
     },
     {
       "album": {
+        "name": "MA BELLA",
+        "url": "https://open.spotify.com/album/5iqoxZyNIM51nNKB4hXxhC"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "MA BELLA",
+      "url": "https://open.spotify.com/track/0G0Szl8nwClU1z4JS1A5Ts"
+    },
+    {
+      "album": {
         "name": "EGO THERAPY",
         "url": "https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8"
       },
@@ -9584,7 +9662,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 152243,
       "name": "MANA",
       "url": "https://open.spotify.com/track/1ILngKJ6ch1BiR93zH3miq"
@@ -9942,7 +10020,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 186141,
       "name": "MAZI SOU",
       "url": "https://open.spotify.com/track/1Uk26mbvJAUWNypJdIRThS"
@@ -10442,6 +10520,28 @@
       "duration_ms": 185026,
       "name": "MNPN",
       "url": "https://open.spotify.com/track/2NVFxETIb3t7tmU4u0wLid"
+    },
+    {
+      "album": {
+        "name": "MOLIS GNORISTIKAME",
+        "url": "https://open.spotify.com/album/23kYnNwK9OjPGsmK0idMO9"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146820,
+      "name": "MOLIS GNORISTIKAME",
+      "url": "https://open.spotify.com/track/4SGfLxbpqOCh1xLCLDzK5g"
     },
     {
       "album": {
@@ -10964,7 +11064,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 169937,
       "name": "NAOMI",
       "url": "https://open.spotify.com/track/6IDZ2GAM7U6G1ldxq0t3mQ"
@@ -12382,7 +12482,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 144705,
       "name": "PAPAPA",
       "url": "https://open.spotify.com/track/1hLrdZsklfL8joX7mhiDYS"
@@ -12994,6 +13094,32 @@
       "duration_ms": 204105,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2lzP8ZaWG45DhmaMZ7L7q3"
+    },
+    {
+      "album": {
+        "name": "RICH BEFORE DEATH",
+        "url": "https://open.spotify.com/album/3VA73ZIe1fZsf3CXyVIvdN"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "PHUKET",
+      "url": "https://open.spotify.com/track/2Vgi5hFpSkiB0yWHRwAWxj"
     },
     {
       "album": {

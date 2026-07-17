@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,166 songs - 3 day 11 hr 43 min
+2,168 songs - 3 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [autumn leaves](https://open.spotify.com/track/7lNsl4bH1XMY4id1AR3Ckx) | [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [autumn leaves](https://open.spotify.com/album/7rE6KjwdKElWoPppNlqOAX) | 2:23 | 2022-11-11 | 2023-07-14 |
 | [Autumn Leaves](https://open.spotify.com/track/0IFEhrlRocuukXjcQ5szSW) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Autumn Leaves](https://open.spotify.com/album/3FbpvHVLSB0NVN2SZOvoBX) | 1:58 | 2022-09-16 | 2023-08-22 |
 | [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 | 2023-11-24 |
-| [Autumn Views](https://open.spotify.com/track/6ehKIufwrcNY6oJhSR90hM) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Autumn Views](https://open.spotify.com/album/4ea2LxOrBLP22em8V8ZOUN) | 1:34 | 2025-02-07 |  |
+| [Autumn Views](https://open.spotify.com/track/6ehKIufwrcNY6oJhSR90hM) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Autumn Views](https://open.spotify.com/album/4ea2LxOrBLP22em8V8ZOUN) | 1:34 | 2025-02-07 | 2026-07-17 |
 | [Autumnal](https://open.spotify.com/track/6yzQKC1L9iwf2dCYUReZOW) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [Autumnal](https://open.spotify.com/album/3O0t86julI9PhKkXUEdWCe) | 2:25 | 2022-11-11 | 2023-07-14 |
 | [Aviary](https://open.spotify.com/track/2giDcUZGybbvJljKtgxgnY) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Aviary](https://open.spotify.com/album/3lk5iCsLEyEHEiNypGMmwF) | 2:14 | 2022-08-12 | 2022-11-26 |
 | [Avocades](https://open.spotify.com/track/72VPz6obgR5JjPCv8uRotp) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Avocades](https://open.spotify.com/album/2gBKkx8mHrbY9pZxsjwjYJ) | 2:11 | 2024-01-19 | 2026-03-14 |
@@ -1445,7 +1445,7 @@
 | [pawsitive](https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [pawsitive](https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m) | 2:16 | 2024-06-05 | 2025-08-21 |
 | [Peace](https://open.spotify.com/track/6ivY5r6kbT1t8WQeWBK0kc) | [Eddie & George](https://open.spotify.com/artist/5aYybCPaexHcWutawAyUvv) | [Peace](https://open.spotify.com/album/56y7dcDWWN47pDCuaecWA0) | 2:06 | 2021-12-07 | 2022-09-10 |
 | [Peace and Stone](https://open.spotify.com/track/4P3flpTrYtN1VcVuK4BhPf) | [Skyplanter](https://open.spotify.com/artist/7iaPZbKQSJ5Sw9ThZNfJw7) | [Equivalence](https://open.spotify.com/album/63yQb9VeujB0rdz1m4g5jb) | 2:43 | 2021-12-07 | 2022-08-19 |
-| [peaceful](https://open.spotify.com/track/385fgx1lcfPAypihGYYfTT) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [peaceful](https://open.spotify.com/album/7rVGN9NF0yZMxjou6b4YoP) | 2:29 | 2025-11-14 |  |
+| [peaceful](https://open.spotify.com/track/385fgx1lcfPAypihGYYfTT) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [peaceful](https://open.spotify.com/album/7rVGN9NF0yZMxjou6b4YoP) | 2:29 | 2025-11-14 | 2026-07-17 |
 | [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 | 2025-05-24 |
 | [Peaceful Memories](https://open.spotify.com/track/0OUpv9yCY3bLswfTRJRG71) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Peaceful Memories](https://open.spotify.com/album/1TNid7svH4s7JHDZynrKTJ) | 2:36 | 2022-09-23 | 2022-09-30 |
 | [peach cordial](https://open.spotify.com/track/4qR6uehVA36HgGDSUdCCUv) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [peach cordial](https://open.spotify.com/album/6INTKlHOZOL0q3d8643PNC) | 2:17 | 2025-05-23 |  |
@@ -1782,6 +1782,7 @@
 | [Still Young](https://open.spotify.com/track/4akTe398s6zuJumFOM84Ik) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Still Young](https://open.spotify.com/album/2trVdjWprHDbEPZ4zG597Y) | 1:48 | 2021-12-07 | 2022-07-01 |
 | [Stingray Jam](https://open.spotify.com/track/1LBULFw1T8HFqkA9PWAXnU) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Stingray Jam](https://open.spotify.com/album/2ik8qd7jDyATt7V4vsu7N2) | 2:41 | 2022-12-16 | 2023-10-20 |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 | 2023-11-11 |
+| [Stop chasing Sam](https://open.spotify.com/track/7aBNcBkY9W84cwE5NFOf2i) | [Faded Amber](https://open.spotify.com/artist/77peTL3rXZCTebbHNcM3e2) | [Stop chasing Sam](https://open.spotify.com/album/0F3kgDlEPXu8lchEtaZR9S) | 2:22 | 2026-07-16 |  |
 | [Strawberry Mimosa](https://open.spotify.com/track/0FST9iMS6Q3rGDHNWPU0gd) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [Strawberry Mimosa](https://open.spotify.com/album/0ZHY6wUt1eEERFZSQAq2Tx) | 2:30 | 2023-09-29 | 2023-11-11 |
 | [strawberry wine](https://open.spotify.com/track/7sshQUmPbEbp1ENaKm6Q3l) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [strawberry wine](https://open.spotify.com/album/6oGxV1Hu7S3d86AvJCWdX1) | 2:28 | 2022-09-09 | 2023-08-22 |
 | [Street Light](https://open.spotify.com/track/7jDnKToNs76wyPpZWI40s9) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Street Light](https://open.spotify.com/album/6eEXU50lfZDYvNSL8QMLuP) | 2:08 | 2023-09-29 | 2024-10-26 |
@@ -1819,6 +1820,7 @@
 | [Sundayz](https://open.spotify.com/track/21lO5APQxUVgJmS5ixKM9s) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Sundayz](https://open.spotify.com/album/4ZO9A4n9Y7qrX2hdUyK2dy) | 2:08 | 2022-07-29 | 2022-10-14 |
 | [Sunfair](https://open.spotify.com/track/3FCRP6SZL4bWbDoa5x5E32) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [lo\-fido](https://open.spotify.com/artist/08pbX4XuBFQiAmsmRgiKpX), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [Sunfair](https://open.spotify.com/album/5e26PtQLNxdyjFDTIrzvXk) | 2:20 | 2022-11-25 | 2023-09-22 |
 | [Sunny Afternoon](https://open.spotify.com/track/1rALEWQrG74zTa0FI7beYI) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Sunny Afternoon](https://open.spotify.com/album/15hFvBJlfe2phFq69PVGYi) | 1:53 | 2024-11-22 | 2025-08-21 |
+| [sunny beach](https://open.spotify.com/track/55FOZATEDVRh7UXV4gXXh0) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [sunny beach](https://open.spotify.com/album/5PmOrPHJTl8uXrkt05e5Sk) | 2:37 | 2026-07-16 |  |
 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 | 2025-07-03 |
 | [Sunny Day Inside](https://open.spotify.com/track/1BIsAZOGS9pBgAX0fMToQS) | [Kamden Kids](https://open.spotify.com/artist/1fYoFQk1JknPQfbNP7L7j8) | [Hand Me Your Honey](https://open.spotify.com/album/0GxXZyyiBNfFAcAezHkm0B) | 2:47 | 2023-03-08 | 2023-08-22 |
 | [sunny days](https://open.spotify.com/track/5hqELfATuiNqZchjqMRxUO) | [mxgnetic.](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunny days](https://open.spotify.com/album/6kctCVjzOXAbdo9lMITPPo) | 2:08 | 2025-04-11 | 2026-01-15 |

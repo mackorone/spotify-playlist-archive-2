@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 멋진 신세계\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712,833 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,712,696 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 7 | [Mona Lisa](https://open.spotify.com/track/6wbidrBh6pfgwDLChJEIfr) | [Kim Seong Ri](https://open.spotify.com/artist/6lt5VopkvqJxcX71NdIZAQ) | [Mona Lisa \(Original Soundtrack from Recipe for Love, Pt\. 13\)](https://open.spotify.com/album/0rCw6glds5S1cCHzaV9DEG) | 2:54 |
 | 8 | [Faded Words \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/6vgarqZvEEzWUgCK45gCfz) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [My Royal Nemesis, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/39eE2rHfiTrxv6SPVCHdFY) | 4:06 |
 | 9 | [Electric Love](https://open.spotify.com/track/2rKyRQhzzZp3NvrF8FdQek) | [more](https://open.spotify.com/artist/3s7Vf3VIlmtqVDsTWG7xij) | [Doctor on the Edge, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3CUB8HLGqWyYbrXOHuBd9h) | 3:25 |
-| 10 | [Buds](https://open.spotify.com/track/44wyuac75ntH5YrciHoGhV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Netflix Series 'The Echoes of Survivors: Inside Korea's Tragedies' Ending Theme](https://open.spotify.com/album/5zFhUyKEislqa5moHcK9ST) | 3:22 |
+| 10 | [Buds](https://open.spotify.com/track/44wyuac75ntH5YrciHoGhV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Netflix Series 'The Echoes of Survivors: Inside Korea's Tragedies' Ending Theme \(2026 Remastered Version\)](https://open.spotify.com/album/5zFhUyKEislqa5moHcK9ST) | 3:22 |
 | 11 | [After work](https://open.spotify.com/track/0RsIMdiMbgHD5NWk3EMnRj) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [See You At Work Tomorrow! \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3XqrGW4WHJxzRs3I0nIbvA) | 2:41 |
 | 12 | [What If?](https://open.spotify.com/track/7rGfrz6mSipP8oFYuOA4XE) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Doctor on the Edge, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/2ZpjbovmIGsJGTXRso1b0k) | 3:20 |
 | 13 | [Burn](https://open.spotify.com/track/58kVAoRD1xcFy53KH4xNOq) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Burn \(From 'The SHRINE' Original Soundtrack\)](https://open.spotify.com/album/0mWYIFE4iXMybey4e5FRLi) | 3:24 |

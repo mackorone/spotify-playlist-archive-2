@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Did you know that the <a href="https://open.spotify.com/genre/section0JQ5IMCbQBLsvaMndZN0To">BTS NORMAL DAY voting </a> is currently underway? Check out the playlists for each member and vote right now! Your votes will shape the official BTS NORMAL playlist\. Also, something huge will be revealed on the 17th!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,098,589 likes - 324 songs - 18 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,099,114 likes - 324 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Deb Fan
 
-1,707 songs - 4 day 0 hr 36 min
+1,710 songs - 4 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Dancing Till The End](https://open.spotify.com/track/7exwQq1QlgFIOpyIzVRkvL) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Dancing Till The End](https://open.spotify.com/album/6P3wkbCT4tuIWtnMbXZQjT) | 3:56 | 2026-03-26 |  |
 | [Dapple Pattern II](https://open.spotify.com/track/3HKMIRrMRsnESUsP16yQKE) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [Dapple Patterns](https://open.spotify.com/album/7shjQRLV5FBYJXGyVMr4Ky) | 4:22 | 2024-05-02 | 2024-11-15 |
 | [Darling, Stop Me](https://open.spotify.com/track/1zCPxGoZZN5DaFHEtI3HTK) | [Sam Kaiser](https://open.spotify.com/artist/36U2ZqoHfSHMraW6SCEOkw) | [Darling, Stop Me](https://open.spotify.com/album/4O6zgjlPmdT6V0ObWGvkaJ) | 3:38 | 2023-08-24 | 2023-12-01 |
+| [DEAD END](https://open.spotify.com/track/3XLGw3md7QifexmPNxbuae) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DEAD END](https://open.spotify.com/album/6MdTvRbWC3SJ9oSjnWYIRq) | 3:45 | 2026-07-16 |  |
 | [DEAL WITH IT](https://open.spotify.com/track/5hBEMwZ849YNPOdB46ooZU) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [DEAL WITH IT](https://open.spotify.com/album/4mkixXEWQ1fgJZiYebclGu) | 1:46 | 2025-03-20 | 2025-07-11 |
 | [Dear Frosty](https://open.spotify.com/track/1zHgBwJ9tJXIewPPv8qved) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Dear Frosty](https://open.spotify.com/album/0ifg9N6mckISiaB31ppOtb) | 2:27 | 2025-12-11 | 2026-06-12 |
 | [Dear Vicky](https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [Dear Vicky](https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws) | 4:05 | 2024-09-12 | 2024-12-13 |
@@ -537,6 +538,7 @@
 | [Leave\-Taking \(feat\. Daniel Chu\)](https://open.spotify.com/track/2t1uIVzsYvR0GHXAWd4lLu) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe), [Daniel Chu](https://open.spotify.com/artist/6cE2k1b1Vz0jWil3gChUp2) | [Leave\-Taking \(feat\. Daniel Chu\)](https://open.spotify.com/album/1e1jFXUM49FsaZy09zSDxr) | 4:41 | 2022-12-29 | 2023-05-26 |
 | [LEGENDARY](https://open.spotify.com/track/4DrBpQXjZMGQfriaMSEpFb) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [LEGENDARY](https://open.spotify.com/album/46j1nNtPnQsKYtWXiWqgQk) | 2:51 | 2024-04-18 | 2024-11-15 |
 | [Lemonade](https://open.spotify.com/track/1WLVAwtMG2ybHuumcEivyB) | [Emmahotel](https://open.spotify.com/artist/7b4LxE2BmMztZ0p7MdprNs) | [Lemonade](https://open.spotify.com/album/5aETnEP1mGB1LLiSXXaKts) | 3:46 | 2023-09-28 | 2024-01-05 |
+| [Lemons](https://open.spotify.com/track/32GgQmuBSuHrYc0XNvfv0v) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Lemons](https://open.spotify.com/album/67Ajtw9rA83ErOpYlcN0Jj) | 3:02 | 2026-07-16 |  |
 | [Let It Snow](https://open.spotify.com/track/2bHGEJ7DiKvSr6iVg0d3lj) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:22 | 2023-12-07 | 2024-02-16 |
 | [Let You](https://open.spotify.com/track/7zaLSiaxf17v61FqHjcMhJ) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz) | [Let You](https://open.spotify.com/album/5hNiHudVSlKJY9meRPOIma) | 2:50 | 2024-02-15 | 2024-05-10 |
 | [Let's Stay In](https://open.spotify.com/track/4ez32AQQjqjw4F1hItmqA0) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Let's Stay In](https://open.spotify.com/album/6zMofv6OrGxA1VG1Kuex1r) | 2:30 | 2024-11-14 | 2025-02-14 |
@@ -1315,6 +1317,7 @@
 | [婆娘PAULLEUNG](https://open.spotify.com/track/0vvONjfKPXhyzHCp5lH3Kt) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [小悲咒三週年EP](https://open.spotify.com/album/0Fv6m3KgDYPYGQlXOzHYAA) | 1:57 | 2023-08-31 | 2023-12-01 |
 | [學柔而修](https://open.spotify.com/track/4V1BVYXpUCSXkgdXED5PCc) | [ERN9](https://open.spotify.com/artist/0BEPNot13vK1o6U8Gcja3V), [BillyT](https://open.spotify.com/artist/66oBldKAMOv1vFqUwD4cUJ) | [學柔而修](https://open.spotify.com/album/6KY3XU9jHipWmpq5tVkRgK) | 2:35 | 2026-02-12 |  |
 | [守](https://open.spotify.com/track/4EOg9ajGad1pg7KKnaQgvA) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [守](https://open.spotify.com/album/5VO0nVaONkT3qsI1hougBX) | 2:20 | 2023-03-09 | 2023-07-14 |
+| [完全真空](https://open.spotify.com/track/68QFt8SNQziUZwussFlLSr) | [Kacey 陳凱琪](https://open.spotify.com/artist/3yd1vE8VmUGIYavgWsLb3u) | [完全真空](https://open.spotify.com/album/6cRyN1Q0uxI0LG8Fc902Ed) | 3:47 | 2026-07-16 |  |
 | [完美崩壞](https://open.spotify.com/track/5WflHLCFUifKpKF5mMxCY2) | [Cy Leo 何卓彥](https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [完美崩壞](https://open.spotify.com/album/7qLmka3ckaawwIE2lZxVpc) | 2:48 | 2023-05-04 | 2023-09-01 |
 | [寂寞時分 Think About U](https://open.spotify.com/track/38rCWwDEMhtnRAsnlZx1Cf) | [Daviouxx](https://open.spotify.com/artist/5eBm6xxkstcecWsTyT2A14), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [寂寞時分 Think About U](https://open.spotify.com/album/39vKvGetVVc9UspXsvQXIj) | 2:52 | 2023-07-27 | 2023-11-03 |
 | [寂寞派對](https://open.spotify.com/track/1hGXokRksaCCCN38D630DH) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [寂寞派對](https://open.spotify.com/album/7FWvL2ICSgtStl9fk6HDVJ) | 2:10 | 2022-11-24 | 2023-02-03 |

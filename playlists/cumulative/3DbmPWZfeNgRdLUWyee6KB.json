@@ -9665,6 +9665,24 @@
     },
     {
       "album": {
+        "name": "Inno al PC",
+        "url": "https://open.spotify.com/album/1f87d1xbqwItZEjgUSaMkg"
+      },
+      "artists": [
+        {
+          "name": "Leone Marco Bartolo",
+          "url": "https://open.spotify.com/artist/4siIwYrFflrWFFxKuYI11J"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171925,
+      "name": "Inno al PC",
+      "url": "https://open.spotify.com/track/2p4h5PZvl9pPSpIKyJGotv"
+    },
+    {
+      "album": {
         "name": "Innocent",
         "url": "https://open.spotify.com/album/02bG1fDonGrUYyVlROGmUN"
       },

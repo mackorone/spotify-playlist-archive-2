@@ -4,7 +4,7 @@
 
 > sunny bossa beats to chill, focus or study to.
 
-125 songs - 4 hr 37 min
+128 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,11 @@
 | [Triplo](https://open.spotify.com/track/5RpukHbnGDArxAsBV6Uk4W) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Triplo](https://open.spotify.com/album/5VqOQRx98N3whzppY6PvmO) | 2:08 | 2025-05-16 |  |
 | [Tropical Days](https://open.spotify.com/track/1cliCJSb5qm2yumtSx6uYe) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Tropical Days](https://open.spotify.com/album/7KUJ7xt2pkeP9sd92aykwt) | 1:56 | 2025-05-16 | 2025-07-11 |
 | [Under The Sea](https://open.spotify.com/track/4jgis9wRdpmwRWoqKPh3hB) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [bozzabeats](https://open.spotify.com/artist/0grNxrdM1P3IKCt5Bn0kB6) | [Under The Sea](https://open.spotify.com/album/3DAPIgiEP9FJLXK6PKIgSh) | 2:13 | 2025-05-16 |  |
+| [Vacation Mode](https://open.spotify.com/track/2WtjKA12DSWkbu5IMK5pix) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [keeplove.](https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Lofi Girl: Summer Collection 2026](https://open.spotify.com/album/1PiqaSNptT2HN7Znz16fiK) | 2:03 | 2026-07-16 |  |
 | [Vagabond](https://open.spotify.com/track/5aBpj5WmYKaGPyqjsX8mMu) | [Deiira](https://open.spotify.com/artist/4mYKKow09qwLyu72PTEMvx), [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Vagabond](https://open.spotify.com/album/1DT9wwrvzD8iTfpN9eF8xM) | 2:14 | 2025-05-16 | 2025-07-11 |
-| [Wave Rider](https://open.spotify.com/track/6m9hDC3uksXTzu8SPHDAnv) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [Wave Rider](https://open.spotify.com/album/4cpW5HSenjzhjWkuhSxNyr) | 2:22 | 2025-05-16 |  |
+| [Warm sand](https://open.spotify.com/track/7GLQVnUSLbfzRPBujYni52) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Lofi Girl: Summer Collection 2026](https://open.spotify.com/album/1PiqaSNptT2HN7Znz16fiK) | 2:17 | 2026-07-16 |  |
+| [Warmer Summer](https://open.spotify.com/track/62FYiRuQdvVlMKfimRThSy) | [Zycix](https://open.spotify.com/artist/2Wv6IR9Z1e2zHWLDOHWUFy), [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Warmer Summer](https://open.spotify.com/album/5lhKyucQssiNsRqM6dlKDK) | 2:12 | 2026-07-16 |  |
+| [Wave Rider](https://open.spotify.com/track/6m9hDC3uksXTzu8SPHDAnv) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [Wave Rider](https://open.spotify.com/album/4cpW5HSenjzhjWkuhSxNyr) | 2:22 | 2025-05-16 | 2026-07-17 |
 | [yellow](https://open.spotify.com/track/5ir5AAbF3FlumSUufYcxKy) | [lost in calabasas](https://open.spotify.com/artist/3GF2XFVjpHIE64oLGHx2Tx) | [yellow](https://open.spotify.com/album/50wSXn4wgZyCG4jGBitgGg) | 1:42 | 2025-07-10 |  |
 
 \*This playlist was first scraped on 2025-06-05. Prior content cannot be recovered.

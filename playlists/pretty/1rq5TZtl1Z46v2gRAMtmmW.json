@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31936,
+  "num_followers": 31938,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARvTCfua/PTbTYR0LtQlfB+nl5FzS8",
+  "snapshot_id": "AAARvu+Lo0ZVacU0IH7fRNA5H3DOe0mP",
   "tracks": [
     {
       "added_at": "2026-06-10 17:55:44",
@@ -1219,6 +1219,26 @@
       "duration_ms": 186550,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/7HkBkfc3xK4rJ7y3MLaVce"
+    },
+    {
+      "added_at": "2026-07-16 13:04:31",
+      "album": {
+        "name": "Staring at the Sun",
+        "url": "https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 212707,
+      "name": "Staring at the Sun",
+      "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

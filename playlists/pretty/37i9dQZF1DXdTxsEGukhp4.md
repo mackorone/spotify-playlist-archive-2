@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: SUPER BEAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,428 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,478 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 3 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 4 | [My SunShine](https://open.spotify.com/track/5AplfXQJgaj3lsGj1ShWAW) | [ROCK'A'TRENCH](https://open.spotify.com/artist/1kWzWCT81LMI1c5FpWPc4u) | [ACTION!](https://open.spotify.com/album/5yKG9a1Z9PWFgB9UEJGx8s) | 4:27 |
 | 5 | [Partner](https://open.spotify.com/track/48lsRmp9AC6tU4rP9QJx4H) | [YUKA](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Partner](https://open.spotify.com/album/1wvgIolL7kiU2z52hVV8BK) | 2:54 |
-| 6 | [Hug \(feat\. kojikoji\)](https://open.spotify.com/track/4cHB6U8fasfxq7XD8uNxuK) | [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Hug \(feat\. kojikoji\)](https://open.spotify.com/album/1q8jca3CXP19IutTf5BKMp) | 3:04 |
-| 7 | [きゃわぽっぴんどぅー](https://open.spotify.com/track/52gvDFxowUMDEctb3OAxaL) | [iLiFE!](https://open.spotify.com/artist/539GTPlYhFLCL6eh4jnbYy) | [きゃわぽっぴんどぅー](https://open.spotify.com/album/57vcfOByCgGmKJc09gmlke) | 3:10 |
-| 8 | [Neko\(ねこ\)](https://open.spotify.com/track/3Ssjb03mjfjgGTLOBkJ2TA) | [Neko Jealousy](https://open.spotify.com/artist/1djRHinMObgwj8Imt0kbxO) | [35 BOYS 5 CONCEPTS](https://open.spotify.com/album/411XplusT1eRg9U1PR3cuU) | 2:45 |
-| 9 | [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 |
+| 6 | [otukare](https://open.spotify.com/track/0idKcK4Kn2ufuScidLGBPL) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [otukare](https://open.spotify.com/album/43PYBVng0F5Njhxpubgilf) | 2:37 |
+| 7 | [Hug \(feat\. kojikoji\)](https://open.spotify.com/track/4cHB6U8fasfxq7XD8uNxuK) | [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Hug \(feat\. kojikoji\)](https://open.spotify.com/album/1q8jca3CXP19IutTf5BKMp) | 3:04 |
+| 8 | [きゃわぽっぴんどぅー](https://open.spotify.com/track/52gvDFxowUMDEctb3OAxaL) | [iLiFE!](https://open.spotify.com/artist/539GTPlYhFLCL6eh4jnbYy) | [きゃわぽっぴんどぅー](https://open.spotify.com/album/57vcfOByCgGmKJc09gmlke) | 3:10 |
+| 9 | [Neko\(ねこ\)](https://open.spotify.com/track/3Ssjb03mjfjgGTLOBkJ2TA) | [Neko Jealousy](https://open.spotify.com/artist/1djRHinMObgwj8Imt0kbxO) | [35 BOYS 5 CONCEPTS](https://open.spotify.com/album/411XplusT1eRg9U1PR3cuU) | 2:45 |
 | 10 | [two](https://open.spotify.com/track/02qqbVSYkDc6FTClN5gwH5) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:15 |
 | 11 | [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 |
 | 12 | [2時間3分](https://open.spotify.com/track/6MEe4hFAdepYsOc2vMQlSC) | [freespace](https://open.spotify.com/artist/5sRuYHUZg2rUKCkKJzw2ew) | [2時間3分](https://open.spotify.com/album/2lpcrdrUS0o5LqrJHHSsQV) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [最初はキュン！](https://open.spotify.com/track/5WBFEpEo85flRybWZfqhHf) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOL1ST \(Special Edition\)](https://open.spotify.com/album/3CN0ZrWt88sbfjYsDYqJvq) | 2:57 |
 | 50 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/7L1gMHl2Hd65Yt4J8IhIk5) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/2RoCdV0YAeOcc96olS0Tyj) | 5:22 |
 
-Snapshot ID: `AAAAAE2dSXNWYSSnw3OJgwFpME7vxnPB`
+Snapshot ID: `AAAAADVktu/YYCZP2b9SkRBkWsjRisyh`

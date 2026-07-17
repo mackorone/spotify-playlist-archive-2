@@ -2,36 +2,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Dolu Kadehi Ters Tut
+> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Model
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,734 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,723 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lafını Balla](https://open.spotify.com/track/01SaMbecMbxKKjfYSnq7Uc) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Lafını Balla](https://open.spotify.com/album/74GKJkNn38YCue0LQAAinj) | 2:34 |
-| 2 | [Cambaz](https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:50 |
-| 3 | [Ben Senden Vazgeçmem \- Pür Cunda Live Sessions](https://open.spotify.com/track/0xs37QUHC0yhGWdMhCzaA0) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Pür Cunda Live Sessions](https://open.spotify.com/album/1kdeB8pxjRz6tnNqAgPQSQ) | 6:10 |
-| 4 | [Yoksun Yine](https://open.spotify.com/track/1eAgOZ5yuGIAFJaSLr4DyJ) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Yoksun Yine](https://open.spotify.com/album/1KSjZg0bd9Ev6qPoYvnN3k) | 5:11 |
-| 5 | [Aşk Kırıntıları](https://open.spotify.com/track/3wGzzjEIBQmdztkH989jlf) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC), [Beyza Başak](https://open.spotify.com/artist/38awyHzw1soCVVfDYjLevO), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Aşk Kırıntıları](https://open.spotify.com/album/4oYtqyg84L6Y27D1nKcENo) | 3:50 |
-| 6 | [Hata](https://open.spotify.com/track/3KGS5EBB5E0gPZLqleWH8o) | [Makbet](https://open.spotify.com/artist/5qwmcwRkE9KTZHYJfReVVC), [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Hata](https://open.spotify.com/album/3TFhZNWpYg6f0piOrhPepN) | 3:49 |
-| 7 | [Ben de Çok İstedim](https://open.spotify.com/track/0jPjYxkMoL9rWIHSZufQZ6) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1), [Cenk Erdoğan](https://open.spotify.com/artist/5HKrYaVYdN3MyIe2WpVYCo) | [Ben de Çok İstedim](https://open.spotify.com/album/6BdsuWVrkhype0i9V2oc8V) | 3:58 |
-| 8 | [Senden Sonra](https://open.spotify.com/track/3KRBVTuqsPRXBGExrv7ZeT) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Rock n Roll](https://open.spotify.com/album/1I9iD5B51kt0LhsIfo1xaw) | 3:38 |
-| 9 | [Kıskaç](https://open.spotify.com/track/4lzdz1iJRvT7QZbb071M2D) | [Murat Yılmazyıldırım](https://open.spotify.com/artist/6mBx5K5N1hDmqMCWfdhIWG) | [Kıskaç](https://open.spotify.com/album/0iZfGeWGL8EtRUExMe74as) | 5:58 |
-| 10 | [Büyükada](https://open.spotify.com/track/4cfXPWM2EIjxRCpvfzC4gb) | [Yakup](https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR) | [Büyükada](https://open.spotify.com/album/0GtoOt5CmS2v2SmwlJ2Uhb) | 4:51 |
-| 11 | [Bomboş Bardak](https://open.spotify.com/track/1izpRfpb9OncSgnwXfR5H8) | [Eren Yeşilyurt](https://open.spotify.com/artist/4Mz3Q0kdTs0U9RDLF1AMFG) | [Bomboş Bardak](https://open.spotify.com/album/3BgLtpbJqWH0wKo8wrJOMv) | 3:09 |
-| 12 | [Bu Aşk Fazla Sana](https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kadın](https://open.spotify.com/album/5aSqHgJXiGReiPlk8BaWre) | 4:28 |
-| 13 | [Bu Adamı Üzer](https://open.spotify.com/track/5MEbunIRrE5XZRsxF7UBcE) | [Tesadüfen Karşılaştık](https://open.spotify.com/artist/1Fm0unHNngf7VWVc0yR0H6) | [birdenbire](https://open.spotify.com/album/2ET9QHUlhq7jP7ZlFLFmGe) | 4:05 |
-| 14 | [Hiçbir Zaman](https://open.spotify.com/track/1Gzs8R4ON3f8aL2gJUYbYV) | [Efe Ünsalan](https://open.spotify.com/artist/2PY8RVWVxw1rqJaVJEzMn5) | [Hiçbir Zaman](https://open.spotify.com/album/3s1KA5Mz6A4ZnZjYtbYDxw) | 3:31 |
-| 15 | [Vampir](https://open.spotify.com/track/6DkqiyxNS8KtIARHm0A2M0) | [Murat Yılmazyıldırım](https://open.spotify.com/artist/6mBx5K5N1hDmqMCWfdhIWG) | [Vampir](https://open.spotify.com/album/5v4gDlRqobrWYMoXbbhpEn) | 9:21 |
-| 16 | [Gönülçelen](https://open.spotify.com/track/1YHuqpq9S8rLkOc8XKFA0O) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Gönülçelen](https://open.spotify.com/album/6FNuIoN5vvqoNsK80yqAuP) | 4:51 |
-| 17 | [Sonum Ol](https://open.spotify.com/track/3waipLozRiAKg6Ad0o40xg) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Sonum Ol](https://open.spotify.com/album/0x5Cz4GC7HnNmvr6kUmJx5) | 3:39 |
-| 18 | [Yine mi Yollar](https://open.spotify.com/track/36ZHbblTiLScfpSzwiXLJt) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv) | [Yine mi Yollar](https://open.spotify.com/album/4XglaHk8uQU5kAsk46vuQ2) | 3:39 |
-| 19 | [Beni Unutamamışsın](https://open.spotify.com/track/4q4712qdkHR6cLCQJJMCxF) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Beni Unutamamışsın](https://open.spotify.com/album/53IJrwK5FeDsspN0Yo7Y9h) | 3:57 |
-| 20 | [Halledicem](https://open.spotify.com/track/2q743C2xUf4ubF5np8FjJ0) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Halledicem](https://open.spotify.com/album/45dQgGGUfow6ixV4IOF9zN) | 3:02 |
-| 21 | [Canımsın \- Pür Cunda Live Sessions](https://open.spotify.com/track/33nQDhsMg9gBF7R6PpRitk) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Canımsın \(Pür Cunda Live Sessions\)](https://open.spotify.com/album/2rik2yBNcHjrFtSJjegz8I) | 5:06 |
-| 22 | [Bir Alt Katın Şeytanı](https://open.spotify.com/track/10xNSzLdAf0AeoWBBuEQg2) | [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S), [Ethnique Punch](https://open.spotify.com/artist/4eSAzGCtD0jcxNuNK4OkDn) | [RAH](https://open.spotify.com/album/1NTx1MgoYoteRZaNK6VMJX) | 4:17 |
-| 23 | [Dünya Dursa](https://open.spotify.com/track/4c5ty1HJmkbsJHCGmo9yoH) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Dünya Dursa](https://open.spotify.com/album/2Y8ISyrGyjGMbYDX239TIX) | 2:51 |
-| 24 | [Eminönü](https://open.spotify.com/track/7p1xZbbjlmkxzXB9QYdJZm) | [OD Band](https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL) | [Eminönü](https://open.spotify.com/album/7zwvKMvYsO6xUvnTDOmZnf) | 3:51 |
+| 1 | [Ölürüm Daha İyi](https://open.spotify.com/track/7AZFyg2bqG4lcxCWpXYfup) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Ölürüm Daha İyi](https://open.spotify.com/album/2ZNObyR8dNJNyKYHH65LkT) | 4:08 |
+| 2 | [Lafını Balla](https://open.spotify.com/track/01SaMbecMbxKKjfYSnq7Uc) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Lafını Balla](https://open.spotify.com/album/74GKJkNn38YCue0LQAAinj) | 2:34 |
+| 3 | [Kaderimin Oyunusun](https://open.spotify.com/track/1bohYgXJvqMJq6p2kAyBWi) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Kaderimin Oyunusun](https://open.spotify.com/album/1l03blQ9P8DXSx5uOe9Ggy) | 2:55 |
+| 4 | [Cambaz](https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:50 |
+| 5 | [Beton](https://open.spotify.com/track/6cDzVi0YkzKQS0izDe7efo) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Beton](https://open.spotify.com/album/0Pte6Dsval8ReDmFYPjVQe) | 3:00 |
+| 6 | [Uyan](https://open.spotify.com/track/0f079K6bsQ4t4GVE0ig8cR) | [Fırat Uyulur](https://open.spotify.com/artist/4GkYuMQivqQ7rsb4T5cawo) | [Deliler Gibiydim](https://open.spotify.com/album/1hl1RK5UMy1cpF7vKvjWnr) | 3:42 |
+| 7 | [Ben Senden Vazgeçmem \- Pür Cunda Live Sessions](https://open.spotify.com/track/0xs37QUHC0yhGWdMhCzaA0) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Pür Cunda Live Sessions](https://open.spotify.com/album/1kdeB8pxjRz6tnNqAgPQSQ) | 6:10 |
+| 8 | [.güya bırakmıştım yüzünü](https://open.spotify.com/track/6QxoBSn4N8ZIaIj8DIeFtT) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [.güya bırakmıştım yüzünü](https://open.spotify.com/album/2F5JTWym7VnjYvr26nfHXd) | 3:06 |
+| 9 | [Yoksun Yine](https://open.spotify.com/track/1eAgOZ5yuGIAFJaSLr4DyJ) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Yoksun Yine](https://open.spotify.com/album/1KSjZg0bd9Ev6qPoYvnN3k) | 5:11 |
+| 10 | [Karanlığıma](https://open.spotify.com/track/2BeTpoO9hFa3UsiuKol3Ae) | [İsa Özkocaman](https://open.spotify.com/artist/0U4jQs28By5TA9EzKTG6vZ) | [Karanlığıma](https://open.spotify.com/album/0OXQqApMjW4JufBl7PDoQF) | 3:46 |
+| 11 | [Zehir Akar](https://open.spotify.com/track/6LLgDGB9NkPPkLwIsCH0iq) | [Flu](https://open.spotify.com/artist/1pTcYSU6MNJRLU4EcEDCVw) | [Zehir Akar](https://open.spotify.com/album/7w7UAz9C6JuDo5vDVdG5r5) | 2:55 |
+| 12 | [Aşk Kırıntıları](https://open.spotify.com/track/3wGzzjEIBQmdztkH989jlf) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC), [Beyza Başak](https://open.spotify.com/artist/38awyHzw1soCVVfDYjLevO), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Aşk Kırıntıları](https://open.spotify.com/album/4oYtqyg84L6Y27D1nKcENo) | 3:50 |
+| 13 | [Hata](https://open.spotify.com/track/3KGS5EBB5E0gPZLqleWH8o) | [Makbet](https://open.spotify.com/artist/5qwmcwRkE9KTZHYJfReVVC), [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Hata](https://open.spotify.com/album/3TFhZNWpYg6f0piOrhPepN) | 3:49 |
+| 14 | [Kritik](https://open.spotify.com/track/3WlyNQ6I5JNUSwkW3TfIUF) | [Murat Yılmazyıldırım](https://open.spotify.com/artist/6mBx5K5N1hDmqMCWfdhIWG) | [Guguk Kuşu Jack](https://open.spotify.com/album/6O8YcyVdEH75kqJTlY3pL6) | 11:04 |
+| 15 | [Ben de Çok İstedim](https://open.spotify.com/track/0jPjYxkMoL9rWIHSZufQZ6) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1), [Cenk Erdoğan](https://open.spotify.com/artist/5HKrYaVYdN3MyIe2WpVYCo) | [Ben de Çok İstedim](https://open.spotify.com/album/6BdsuWVrkhype0i9V2oc8V) | 3:58 |
+| 16 | [Senden Sonra](https://open.spotify.com/track/3KRBVTuqsPRXBGExrv7ZeT) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Rock n Roll](https://open.spotify.com/album/1I9iD5B51kt0LhsIfo1xaw) | 3:38 |
+| 17 | [Büyükada](https://open.spotify.com/track/4cfXPWM2EIjxRCpvfzC4gb) | [Yakup](https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR) | [Büyükada](https://open.spotify.com/album/0GtoOt5CmS2v2SmwlJ2Uhb) | 4:51 |
+| 18 | [Bu Aşk Fazla Sana](https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kadın](https://open.spotify.com/album/5aSqHgJXiGReiPlk8BaWre) | 4:28 |
+| 19 | [Bu Adamı Üzer](https://open.spotify.com/track/5MEbunIRrE5XZRsxF7UBcE) | [Tesadüfen Karşılaştık](https://open.spotify.com/artist/1Fm0unHNngf7VWVc0yR0H6) | [birdenbire](https://open.spotify.com/album/2ET9QHUlhq7jP7ZlFLFmGe) | 4:05 |
+| 20 | [Gönülçelen](https://open.spotify.com/track/1YHuqpq9S8rLkOc8XKFA0O) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Gönülçelen](https://open.spotify.com/album/6FNuIoN5vvqoNsK80yqAuP) | 4:51 |
+| 21 | [Yine mi Yollar](https://open.spotify.com/track/36ZHbblTiLScfpSzwiXLJt) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv) | [Yine mi Yollar](https://open.spotify.com/album/4XglaHk8uQU5kAsk46vuQ2) | 3:39 |
+| 22 | [Beni Unutamamışsın](https://open.spotify.com/track/4q4712qdkHR6cLCQJJMCxF) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Beni Unutamamışsın](https://open.spotify.com/album/53IJrwK5FeDsspN0Yo7Y9h) | 3:57 |
+| 23 | [Halledicem](https://open.spotify.com/track/2q743C2xUf4ubF5np8FjJ0) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Halledicem](https://open.spotify.com/album/45dQgGGUfow6ixV4IOF9zN) | 3:02 |
+| 24 | [Canımsın \- Pür Cunda Live Sessions](https://open.spotify.com/track/33nQDhsMg9gBF7R6PpRitk) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Canımsın \(Pür Cunda Live Sessions\)](https://open.spotify.com/album/2rik2yBNcHjrFtSJjegz8I) | 5:06 |
 | 25 | [Mevlam Birçok Dert Vermiş](https://open.spotify.com/track/5Ix34s8LcFINpL2QNEGxN7) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Mevlam Birçok Dert Vermiş](https://open.spotify.com/album/5Iab49IzNotqbgPX5Exzay) | 3:43 |
 | 26 | [Pembe Mezarlık](https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:15 |
 | 27 | [Hatun \- Pür Cunda Live Sessions](https://open.spotify.com/track/7K9QWOEqKt1Mei6yriMuI1) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Hatun \(Pür Cunda Live Sessions\)](https://open.spotify.com/album/03EPY5qKsaGu0k7r8h8s1v) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 |
 | 75 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 
-Snapshot ID: `AAAAABF0jt/L4iCufHDYX1H4prCuOZMC`
+Snapshot ID: `AAAAAETq73aPkvHaMG4cWtzwJthGKlim`

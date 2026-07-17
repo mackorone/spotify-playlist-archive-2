@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "kun det nyeste danske rap \ud83d\udc40 Carmon & Jamaika p\u00e5 cover ",
+  "description": "kun det nyeste danske rap \ud83d\udc40 Carmon",
   "name": "rap dk",
   "tracks": [
     {
@@ -3367,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "En af de dage",
+        "url": "https://open.spotify.com/album/23qaoj5ytLp0sn5utVuf7j"
+      },
+      "artists": [
+        {
+          "name": "2Tiltango",
+          "url": "https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "En af de dage",
+      "url": "https://open.spotify.com/track/4G1dXs8bbYnKgcssrWmQz4"
+    },
+    {
+      "album": {
         "name": "JEEZ",
         "url": "https://open.spotify.com/album/3EWP8YtT28co1o8A6d14KH"
       },
@@ -5216,7 +5234,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 129368,
       "name": "Hop Ind I",
       "url": "https://open.spotify.com/track/7eo5owFb9jeDNyuSe0ivlE"
@@ -7833,6 +7851,24 @@
     },
     {
       "album": {
+        "name": "Napoli",
+        "url": "https://open.spotify.com/album/1evSQF3LMP5BblYEfLPs72"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162619,
+      "name": "Napoli",
+      "url": "https://open.spotify.com/track/4UyUTjExsdAUJ8ze9AtyYb"
+    },
+    {
+      "album": {
         "name": "N1YA",
         "url": "https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY"
       },
@@ -9182,6 +9218,28 @@
       "duration_ms": 174600,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/6nUOeJtgyhDwbBUbzThKkP"
+    },
+    {
+      "album": {
+        "name": "Siden Sidst (feat. Thor Farlov)",
+        "url": "https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153719,
+      "name": "Siden Sidst (feat. Thor Farlov)",
+      "url": "https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e"
     },
     {
       "album": {

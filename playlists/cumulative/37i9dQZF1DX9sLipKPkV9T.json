@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 155250,
       "name": "\u05d1\u05d5\u05d0",
       "url": "https://open.spotify.com/track/2kLJX7xsWphpV4R6v4Vef4"
@@ -7318,7 +7318,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 140000,
       "name": "\u05dc\u05d0 \u05d1\u05d0 \u05dc\u05d9 \u05dc\u05d4\u05d9\u05d5\u05ea",
       "url": "https://open.spotify.com/track/7h5BAUO5bbDRMu4y6dk7Mw"
@@ -7688,6 +7688,32 @@
       "duration_ms": 195294,
       "name": "\u05dc\u05d0 \u05e0\u05e9\u05d1\u05e8",
       "url": "https://open.spotify.com/track/1r2NwWWxOz3zpWC4dDAY4Z"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05e4\u05e9\u05d5\u05d8\u05e2 - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05e1\u05d3\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/6uVLuuGvS7FxgjGnzqX75R"
+      },
+      "artists": [
+        {
+          "name": "\u05d4\u05e4\u05e9\u05d5\u05d8\u05e2",
+          "url": "https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb"
+        },
+        {
+          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
+        },
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "\u05dc\u05d0 \u05e4\u05e9\u05d5\u05d8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05e4\u05e9\u05d5\u05d8\u05e2",
+      "url": "https://open.spotify.com/track/3vYnLpndyoxRvvoV80or49"
     },
     {
       "album": {
@@ -10370,6 +10396,28 @@
       "duration_ms": 161666,
       "name": "\u05e1\u05d5\u05e8\u05d9",
       "url": "https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d8\u05d0\u05e8\u05d1\u05e7\u05e1",
+        "url": "https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        },
+        {
+          "name": "ShrekDiMC",
+          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "\u05e1\u05d8\u05d0\u05e8\u05d1\u05e7\u05e1",
+      "url": "https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Memocracia
 
-5,693 songs - 13 day 15 hr 17 min
+5,694 songs - 13 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,6 +943,7 @@
 | [Con el puño arriba](https://open.spotify.com/track/0zToHa9tf22NEVQ7BC7Rf6) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Con el puño arriba](https://open.spotify.com/album/1MQyvHftMAYra9T8K5hCPn) | 3:23 | 2025-11-06 | 2025-11-22 |
 | [Con la vista en tus rodillas](https://open.spotify.com/track/4fR2IumggCszdtnL0bFqHy) | [Mala Hierba](https://open.spotify.com/artist/49GSrUPCjHgiiraQbar5ga) | [Con la vista en tus rodillas](https://open.spotify.com/album/2CDK8OygLKTHrBtO0gOvct) | 3:59 | 2024-03-08 | 2024-03-16 |
 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 | 2023-02-10 | 2023-02-18 |
+| [Con todo](https://open.spotify.com/track/7HmuKtVOkG07fIOjwCtgIs) | [Q69k](https://open.spotify.com/artist/1Mg8WSoSk3WhU7ohjk6uEO) | [Turbulencias](https://open.spotify.com/album/7uFjrKaoNTR7LKkNh4tq1P) | 2:33 | 2026-07-10 |  |
 | [Conciencia Holografica](https://open.spotify.com/track/4TBWW36y1pmQWfl0QkMK9b) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Conciencia Holografica](https://open.spotify.com/album/3qui2ItJBV3iTUbdWTItCa) | 4:24 | 2022-10-14 | 2022-10-22 |
 | [CONCRETO APARENTE](https://open.spotify.com/track/7pedpDZi1uxpkZYpvo6m3E) | [jacarandas](https://open.spotify.com/artist/0RudUrUhzYXY7irJKBOrA8) | [CONCRETO APARENTE](https://open.spotify.com/album/4nHfOHqEYUjXtkfGp0nJf0) | 2:21 | 2023-02-17 | 2023-02-25 |
 | [Condena](https://open.spotify.com/track/7pqRhBYhm9kU5XvymmZqoD) | [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Condena](https://open.spotify.com/album/4euDN4Es39dUOQu6G7uSai) | 3:38 | 2022-09-09 | 2022-09-24 |

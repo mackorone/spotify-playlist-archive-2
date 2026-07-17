@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
   "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25  Awoooo! ",
-  "name": "HOT NOW - De La Rose & Ryan Castro ",
+  "name": "HOT NOW - Yeri Mua & R\u00e9gulo Molina",
   "tracks": [
     {
       "album": {
@@ -2699,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171880,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
+    },
+    {
+      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -3460,7 +3482,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 206485,
       "name": "Callate y Besame",
       "url": "https://open.spotify.com/track/4I7u8l7P2A409S1emPOUhX"
@@ -10974,7 +10996,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 146711,
       "name": "La M\u00e1s Rika",
       "url": "https://open.spotify.com/track/3eIhjAdYTPIacTss3HGrz6"
@@ -17323,6 +17345,28 @@
     },
     {
       "album": {
+        "name": "PRADA",
+        "url": "https://open.spotify.com/album/1q0qIEQ2IpBre8A9LMkN88"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "PRADA",
+      "url": "https://open.spotify.com/track/1BfncFeDU02qCPMniEs8UQ"
+    },
+    {
+      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -20191,6 +20235,28 @@
     },
     {
       "album": {
+        "name": "SuFrida - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3sSc6B9elz63oSpwwJteHh"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222672,
+      "name": "SuFrida - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1J84LaabzdVcoIDdhmi0U2"
+    },
+    {
+      "album": {
         "name": "The Name Chapter: TEMPTATION",
         "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
@@ -21504,7 +21570,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 154698,
       "name": "Todo va Bien",
       "url": "https://open.spotify.com/track/4lVjokY2PSvcb0JTs5Tess"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves right now.  Cover: Fake'Well",
+  "description": "The biggest Amapiano singles making waves right now.  Cover: Daliwonga",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -30211,6 +30211,36 @@
     },
     {
       "album": {
+        "name": "Deepla Sauce",
+        "url": "https://open.spotify.com/album/1xa0IUeCjedFwBXVQX2iwS"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Aidah",
+          "url": "https://open.spotify.com/artist/7rGyvNLz2H42H1OT0J4Kpp"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440307,
+      "name": "Rapela",
+      "url": "https://open.spotify.com/track/04JXmin6bZfNtporfywMm4"
+    },
+    {
+      "album": {
         "name": "Red Velvet",
         "url": "https://open.spotify.com/album/2Ey8woZ2fjpT2p2co0Wq7c"
       },
@@ -30954,7 +30984,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 349391,
       "name": "Sandla Sam",
       "url": "https://open.spotify.com/track/1FZRDThxlb6EoG2zd0a6zN"
@@ -32654,6 +32684,32 @@
       "duration_ms": 425880,
       "name": "Sika Bopha",
       "url": "https://open.spotify.com/track/6WoADSeE4dmkzXKGBQbbu1"
+    },
+    {
+      "album": {
+        "name": "Simi Kanje (feat. Focalistic & Mas Musiq)",
+        "url": "https://open.spotify.com/album/1qIf7lGtybdN6RIpNaVFqd"
+      },
+      "artists": [
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334425,
+      "name": "Simi Kanje (feat. Focalistic & Mas Musiq)",
+      "url": "https://open.spotify.com/track/0CpcIsOj97GACTtuOeAwca"
     },
     {
       "album": {
@@ -42302,7 +42358,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 394408,
       "name": "Xaka Ra Mina (feat. QuayR Musiq, Terra Fontain & Enny Man Da Guitar)",
       "url": "https://open.spotify.com/track/6xDCfoZGK9uShZx0y0PWs4"

@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 223800,
       "name": "ALL THORNS NO ROSES",
       "url": "https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 289539,
       "name": "Deep Water",
       "url": "https://open.spotify.com/track/0mxOqMRyj73HBPszDNbo14"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 241379,
       "name": "DEVOUR",
       "url": "https://open.spotify.com/track/7N0SBUaJMk8Ch5WN5D2ofY"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 203750,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/3Q0CCmpgxZ22Ul1t6OyWN6"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 275621,
       "name": "I Can't Sleep",
       "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 143068,
       "name": "I Feel Fine",
       "url": "https://open.spotify.com/track/6jhf0Wr4YPPq5V7L4x2PNk"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 182486,
       "name": "Love Is Gonna Hurt This Way Forever",
       "url": "https://open.spotify.com/track/1qOqqWPg3RZmmWz6EdmSHH"
@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 319146,
       "name": "Portals",
       "url": "https://open.spotify.com/track/1rSVfPIynSjWD5ocg7yRwI"
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 157259,
       "name": "Scars",
       "url": "https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4"
@@ -4736,6 +4736,24 @@
       "duration_ms": 279003,
       "name": "Senti",
       "url": "https://open.spotify.com/track/5dVSklQulJHOWD4NIbXMO9"
+    },
+    {
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/47yjPAh22GX8w75mZky7K1"
+      },
+      "artists": [
+        {
+          "name": "Mark Hegan",
+          "url": "https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186571,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/2RUuKH2kkwsPETkKpj6olS"
     },
     {
       "album": {
@@ -5818,7 +5836,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 178877,
       "name": "VILE",
       "url": "https://open.spotify.com/track/4EoQv0pEK6p8yQZKL5QtrG"

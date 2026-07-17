@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: ZAF",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Michalis Karagkounis",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 143181,
       "name": "ohmygod",
       "url": "https://open.spotify.com/track/2kur125fjl7251RlmsYdZX"
@@ -4703,6 +4703,28 @@
     },
     {
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7AXkEwed8dTCfCiyIRUv5C"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182419,
+      "name": "PARA\u00cdSO",
+      "url": "https://open.spotify.com/track/3P3FqfZ1bHWfO2cdFpNRXJ"
+    },
+    {
+      "album": {
         "name": "Press Start",
         "url": "https://open.spotify.com/album/2UYi4pXbDbWKaURIYMOuyk"
       },
@@ -4714,7 +4736,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139272,
       "name": "PARTO",
       "url": "https://open.spotify.com/track/1896xuYFhI4nycrx8SzFXV"
@@ -5267,6 +5289,28 @@
     },
     {
       "album": {
+        "name": "SIMADI",
+        "url": "https://open.spotify.com/album/51gIPvPrXSEo5KJjnf7Rpm"
+      },
+      "artists": [
+        {
+          "name": "Michalis Karagkounis",
+          "url": "https://open.spotify.com/artist/2pyJFxIC4rry7PluWUSiBD"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "SIMADI",
+      "url": "https://open.spotify.com/track/0egPezwTy8DiyTRUHFbUDe"
+    },
+    {
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/2ymczzSSd10YyCyBd0RrC5"
       },
@@ -5468,7 +5512,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 195652,
       "name": "Ta Zodia",
       "url": "https://open.spotify.com/track/5DQwQ5msHyjTo58XjCXsm4"
@@ -5534,6 +5578,28 @@
       "duration_ms": 192000,
       "name": "TELEFTEA FORA",
       "url": "https://open.spotify.com/track/4ik2v05QflCm8AtLZUg9z3"
+    },
+    {
+      "album": {
+        "name": "Thelw Toso Na Se Dw",
+        "url": "https://open.spotify.com/album/5xN7LjtUMYOiStB9e2n1rb"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "Thelw Toso Na Se Dw",
+      "url": "https://open.spotify.com/track/1ajWbZobyrOEcPBUb9s2HK"
     },
     {
       "album": {

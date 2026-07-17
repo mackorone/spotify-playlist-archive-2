@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Axel Tony x Yoan",
+  "description": "Les hits zouk & kompa du moment. Photo : Na\u00efka x Kalash",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 196918,
       "name": "Avou\u00e9",
       "url": "https://open.spotify.com/track/6t4b6FgHaB9q53Hgfj9zbB"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 251422,
       "name": "DIS-MOI",
       "url": "https://open.spotify.com/track/4sn3FqYa8jvMGBO3QKPqN1"
@@ -2766,6 +2766,28 @@
       "duration_ms": 178536,
       "name": "Fan",
       "url": "https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs"
+    },
+    {
+      "album": {
+        "name": "Kwonik a lanmou",
+        "url": "https://open.spotify.com/album/0uFeEqnXmfFobms9FIaFfA"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Emboul\u00e9",
+          "url": "https://open.spotify.com/artist/7BLv95GIAewL8GOsIM8qN4"
+        },
+        {
+          "name": "Misi\u00e9 Sadik",
+          "url": "https://open.spotify.com/artist/2BfjmShvoGPl4migLIun7a"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "FANN AN D\u00c9",
+      "url": "https://open.spotify.com/track/1tOGGuLNwrRrvB8dK13x42"
     },
     {
       "album": {
@@ -5742,7 +5764,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 205842,
       "name": "Ou ek mwin",
       "url": "https://open.spotify.com/track/4p6RookEaSLNq6waIWEicL"
@@ -7861,6 +7883,28 @@
     },
     {
       "album": {
+        "name": "Tankou Mwen",
+        "url": "https://open.spotify.com/album/2siMmrzb8ynUrnJ37XizPa"
+      },
+      "artists": [
+        {
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
+        },
+        {
+          "name": "TCK",
+          "url": "https://open.spotify.com/artist/3WZ8ZJmiGCm3ylxokVJF3p"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Tankou Mwen",
+      "url": "https://open.spotify.com/track/6l6RR3r2eJvzbeB0bRcF69"
+    },
+    {
+      "album": {
         "name": "TASTY",
         "url": "https://open.spotify.com/album/1RWI2svnFLEMglOFZEsBKD"
       },
@@ -9148,6 +9192,24 @@
       "duration_ms": 168834,
       "name": "\u00c0 jamais",
       "url": "https://open.spotify.com/track/5AMi98voEjWjwdJcpZlQJL"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'infini",
+        "url": "https://open.spotify.com/album/5a3hsHzXxYXwfnO1fG6mwQ"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "\u00c0 l'infini",
+      "url": "https://open.spotify.com/track/4vm325WI6Ip5mOsUfYiCNt"
     },
     {
       "album": {

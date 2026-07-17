@@ -3307,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "KidShot",
+        "url": "https://open.spotify.com/album/3wZUC66ljp9ohgvuicnUwk"
+      },
+      "artists": [
+        {
+          "name": "Mc Azy",
+          "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184273,
+      "name": "KidShot",
+      "url": "https://open.spotify.com/track/7v0j5B4ty1vbJ2MStc98KZ"
+    },
+    {
+      "album": {
         "name": "Kill This One",
         "url": "https://open.spotify.com/album/3dnYSrjFds9C75dEq2xS2W"
       },

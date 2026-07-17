@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,987 likes - 100 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,998 likes - 100 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 99 | [Gbemiwo \- Live](https://open.spotify.com/track/0Xz9wb0uARMUcKKjcMY4uD) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Gbemiwo \(Live\)](https://open.spotify.com/album/7bnrsvw3HAUm0NfLLAbggy) | 12:43 |
 | 100 | [You Are Worthy](https://open.spotify.com/track/0KvOZwao4GyQ1WZm56EFx0) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy](https://open.spotify.com/album/6kKGBL4RrqvY1H3LZeDwqn) | 7:20 |
 
-Snapshot ID: `AAAAAO+UVSR87Ijy0W33PDUoagRt39Xb`
+Snapshot ID: `AAAAACYlPKb9CB+6MLElizX8/aaUwnKU`

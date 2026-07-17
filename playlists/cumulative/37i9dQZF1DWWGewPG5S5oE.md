@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 小野リサ
 
-532 songs - 1 day 19 hr 19 min
+533 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Drummer is Dreamer](https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Drummer is Dreamer](https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs) | 2:30 | 2024-12-03 | 2025-02-01 |
 | [Dynamics](https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS) | 2:48 | 2023-11-29 | 2024-02-01 |
 | [Dynamics \(Piano Play\-Along\)](https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX) | 2:48 | 2024-06-11 | 2024-11-11 |
-| [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 | 2025-09-24 |  |
+| [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 | 2025-09-24 | 2026-07-17 |
 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 | 2023-02-28 |  |
 | [Elephant Ride](https://open.spotify.com/track/5PTNddC1kWbHxNTXLR0cH7) | [melodies](https://open.spotify.com/artist/43wNMkQDh4h3lSKc0YP7S4), [市野元彦](https://open.spotify.com/artist/48TBc7P43abz7TzVyPULhr), [津上研太](https://open.spotify.com/artist/6WhvBq2pCwvpCQqbtGfaxu), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp), [外山明](https://open.spotify.com/artist/5VylIfkuBTg7EYq98afofV) | [Elephant Ride](https://open.spotify.com/album/2g1S2HLTWJneH3bwd9LJcS) | 8:07 | 2025-01-07 | 2025-01-15 |
 | [Emotional](https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [LINK](https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA) | 3:02 | 2024-12-10 | 2025-01-18 |
@@ -153,6 +153,7 @@
 | [Friends](https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Friends](https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw) | 6:30 | 2026-01-13 |  |
 | [Friends](https://open.spotify.com/track/7lECorfr6yQeruqdY2NaYC) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Friends](https://open.spotify.com/album/7AeNL2e4gX3C2x7txDr05Q) | 4:32 | 2023-06-06 | 2023-07-05 |
 | [From dusk till Dawn](https://open.spotify.com/track/0MJNq2lws5DJo7s8TDW3IW) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [Chillin' Spot](https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd) | [From dusk till Dawn](https://open.spotify.com/album/3bMhtS4fNtZKp9909pP7D1) | 4:15 | 2023-12-26 | 2024-01-31 |
+| [Fuji](https://open.spotify.com/track/5RCinVhZYDE08L3TF4OW1R) | [秩父英里](https://open.spotify.com/artist/3zVWuFMxi3W6BBeKUZX8GO), [Remy Le Boeuf](https://open.spotify.com/artist/6fKaPbQlGgDcbtF90RD8iH), [Charlie Lincoln](https://open.spotify.com/artist/1yr32zeF3gnfCdUZwDn5xr), [Keita Ogawa](https://open.spotify.com/artist/65DEy8AaHS57VLDqkpOm84), [Kan](https://open.spotify.com/artist/3wjmuKXErsPpqNOtjT3j2x) | [Looking Back, Looking Forward](https://open.spotify.com/album/6w0M77ojQG15lyvKfwNsBq) | 6:09 | 2026-07-16 |  |
 | [Futurez](https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [Futurez](https://open.spotify.com/album/4iK5RotnCqsb4hBtluRXn5) | 4:52 | 2022-10-25 | 2022-12-13 |
 | [Garage Flower](https://open.spotify.com/track/6QrgpcSpIs1vUopy1TafjD) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Garage Flower](https://open.spotify.com/album/0jGUtjIN8PzJggAoEOEq6q) | 3:41 | 2023-10-24 | 2023-11-22 |
 | [GGS](https://open.spotify.com/track/6dkIASmteFndsxfQH5cAYb) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [GGS / Re:Pulse](https://open.spotify.com/album/0iWqxAjDQ96LsD2ezyKthi) | 4:17 | 2024-07-09 | 2024-09-18 |

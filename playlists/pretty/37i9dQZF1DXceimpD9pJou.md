@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Shammai
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,179 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,210 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 47 | [MARANATA](https://open.spotify.com/track/19RHXvjQGVZ6x5BQulYeM4) | [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [MARANATA](https://open.spotify.com/album/524TIPx5EWoali7BmFWF55) | 6:02 |
 | 48 | [Se Fiel](https://open.spotify.com/track/6TpFPZAxWgy2hTOMEL9v0r) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Al Señor](https://open.spotify.com/album/3cSuxWfkJcGUiLUUmDxZ1E) | 3:17 |
 | 49 | [Examíname](https://open.spotify.com/track/1dx0pLQ2BjK0aCDPDmnuqP) | [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3) | [Examíname](https://open.spotify.com/album/6aKFGDWFBybgCCzx8b3PQy) | 4:02 |
-| 50 | [Tú Me Amaste Primero](https://open.spotify.com/track/0QV5ZdVCuZfyoBMoF4n4Hc) | [Álvaro López](https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv) | [Tú Me Amaste Primero](https://open.spotify.com/album/0icQ8RecLejUhgQHbLWj4x) | 2:44 |
+| 50 | [Tú Me Amaste Primero](https://open.spotify.com/track/0QV5ZdVCuZfyoBMoF4n4Hc) | [Álvaro López](https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv), [ARTURO DE LA FUENTE](https://open.spotify.com/artist/2ojh2nwFWLMKIVC1Xdghix) | [Tú Me Amaste Primero](https://open.spotify.com/album/0icQ8RecLejUhgQHbLWj4x) | 2:44 |
 | 51 | [Tíralo](https://open.spotify.com/track/3WHio4D4UmwgbUDXbcVpVk) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Amanecimos Otro Día](https://open.spotify.com/album/4LyMmmr7QRXRqkVpAu9WlP) | 2:45 |
 | 52 | [PUESTO](https://open.spotify.com/track/1ogsfDwsNKAzxOdI1urTja) | [STIXX aka Conejo](https://open.spotify.com/artist/3khYLvZ6GmLlPMPlTfMTBr), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [PUESTO](https://open.spotify.com/album/3Ji1IseWneApRdADTIUmYB) | 2:19 |
 | 53 | [Perdón y Gracia](https://open.spotify.com/track/6izQ0MS67RTDF9s7rxsMoy) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Perdón y Gracia](https://open.spotify.com/album/1d8CyWDgguNjet3tjJngVp) | 4:12 |

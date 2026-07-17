@@ -17747,6 +17747,24 @@
     },
     {
       "album": {
+        "name": "Turbulencias",
+        "url": "https://open.spotify.com/album/7uFjrKaoNTR7LKkNh4tq1P"
+      },
+      "artists": [
+        {
+          "name": "Q69k",
+          "url": "https://open.spotify.com/artist/1Mg8WSoSk3WhU7ohjk6uEO"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153297,
+      "name": "Con todo",
+      "url": "https://open.spotify.com/track/7HmuKtVOkG07fIOjwCtgIs"
+    },
+    {
+      "album": {
         "name": "Conciencia Holografica",
         "url": "https://open.spotify.com/album/3qui2ItJBV3iTUbdWTItCa"
       },

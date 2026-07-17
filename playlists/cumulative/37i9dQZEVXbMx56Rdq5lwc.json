@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 182950,
       "name": "Atsukim Laik\u0105",
       "url": "https://open.spotify.com/track/46YwX7ao55NOQR0xp4jDSE"
@@ -3666,7 +3666,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -10608,7 +10608,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -13944,6 +13944,28 @@
       "duration_ms": 206243,
       "name": "Free Free",
       "url": "https://open.spotify.com/track/6X7g5w1moM609bE2f5ipw2"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"
     },
     {
       "album": {
@@ -24540,7 +24562,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -32696,7 +32718,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 163000,
       "name": "Pasilik Praeity",
       "url": "https://open.spotify.com/track/38grlitW19BsvUcEE5pz9Z"
@@ -33364,7 +33386,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 216444,
       "name": "PERLAI GINTARAI",
       "url": "https://open.spotify.com/track/3A9bK1jGCCk8aBSoRkl4z6"
@@ -42668,6 +42690,24 @@
       "duration_ms": 225908,
       "name": "Tavo veidas",
       "url": "https://open.spotify.com/track/6oNsrrv0HjsHDbI8jIDkKI"
+    },
+    {
+      "album": {
+        "name": "GOLD LITUANICA",
+        "url": "https://open.spotify.com/album/6qQr0XWFs6q1L1KruptOqX"
+      },
+      "artists": [
+        {
+          "name": "Aist\u00e8",
+          "url": "https://open.spotify.com/artist/1aGjmnCN164ZJ1t5rqfd14"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142259,
+      "name": "TAVO \u017dVILGSNIS",
+      "url": "https://open.spotify.com/track/7mX8NmBKR46yK5xtFYaS2c"
     },
     {
       "album": {

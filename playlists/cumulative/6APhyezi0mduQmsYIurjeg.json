@@ -3633,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "The Fuzes Live",
+        "url": "https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Hey Woman - Live",
+      "url": "https://open.spotify.com/track/6752pDfyK4wjdx461bV7CD"
+    },
+    {
+      "album": {
         "name": "Seasons In Exile",
         "url": "https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9"
       },

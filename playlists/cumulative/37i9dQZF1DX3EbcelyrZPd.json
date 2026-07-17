@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Ibraah",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Barnaba",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -5240,7 +5240,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 219574,
       "name": "Kosha",
       "url": "https://open.spotify.com/track/2Bu6m4cxJBEzDEpjm0tztz"
@@ -6816,7 +6816,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 200000,
       "name": "Moja",
       "url": "https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31"
@@ -7132,6 +7132,28 @@
       "duration_ms": 199134,
       "name": "Mtoto",
       "url": "https://open.spotify.com/track/6bAE1iw1u8Anq9n5xZBATc"
+    },
+    {
+      "album": {
+        "name": "Mtu Fudenge",
+        "url": "https://open.spotify.com/album/5dpE1mt5cedspnSdshXll7"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "Mtu Fudenge",
+      "url": "https://open.spotify.com/track/5z2OstvhgsGL8WJrYfudEN"
     },
     {
       "album": {
@@ -8005,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "Nasinzia",
+        "url": "https://open.spotify.com/album/0BxoKKVUyp8HCDR09F9nU7"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Nasinzia",
+      "url": "https://open.spotify.com/track/5bxgdeBoXeqZ9HgWtkkMUK"
+    },
+    {
+      "album": {
         "name": "Nitulize",
         "url": "https://open.spotify.com/album/1ewr5cJO5MHYhYhM6aj6Jj"
       },
@@ -8746,7 +8786,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 188848,
       "name": "Ningepata Nafasi",
       "url": "https://open.spotify.com/track/0vQJvac7JIZI2g7BImyzSd"
@@ -10004,6 +10044,24 @@
       "duration_ms": 257666,
       "name": "Pom Pom",
       "url": "https://open.spotify.com/track/3wqGL8Mf7Nugx4Zlr2GzBW"
+    },
+    {
+      "album": {
+        "name": "Pombe Niache",
+        "url": "https://open.spotify.com/album/1XYGmEyvU3XbYh0iDQ8Mde"
+      },
+      "artists": [
+        {
+          "name": "Ay Masta",
+          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195603,
+      "name": "Pombe Niache",
+      "url": "https://open.spotify.com/track/38shMayCyKubmfVHnktY08"
     },
     {
       "album": {

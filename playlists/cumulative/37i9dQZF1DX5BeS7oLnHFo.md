@@ -2,9 +2,9 @@
 
 ### [هيب هوبنا](https://open.spotify.com/playlist/37i9dQZF1DX5BeS7oLnHFo)
 
-> كافيار الراب المحلّي
+> زبدة الراب الصافية\. ١٠٠٪ صناعة محليّة
 
-89 songs - 4 hr 15 min
+92 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bashkatib](https://open.spotify.com/track/5t7c62O8KkO9pdcBS6OpLQ) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 2:15 | 2025-10-02 |  |
 | [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 | 2024-06-24 | 2025-07-16 |
 | [Cima](https://open.spotify.com/track/0Aa8tvJw1AaDPF29mmBECv) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Cima](https://open.spotify.com/album/3c90YV2TtEGpmoMXSttMFf) | 3:18 | 2025-10-02 | 2025-10-15 |
+| [CULTURE](https://open.spotify.com/track/5mdg0oP9YXVLd3D6s5Y3uJ) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [CULTURE](https://open.spotify.com/album/2BL4uJw64vXfWTfAUNNR20) | 2:14 | 2026-07-16 |  |
 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 | 2024-06-24 |  |
 | [DOMA](https://open.spotify.com/track/4cPz71LZVkKTdIzP3CwJM8) | [Hyper249](https://open.spotify.com/artist/3T7CEZ4h8vXO8kEftlggOI), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [DOMA](https://open.spotify.com/album/1mMvVmB0dpOWxJvIIF564a) | 3:00 | 2025-10-02 |  |
 | [Donia](https://open.spotify.com/track/1Eb7vspAiXYvlwtFCTY0JK) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Donia](https://open.spotify.com/album/5tawL1TpvFCJyHa59wPlpW) | 2:34 | 2025-10-03 | 2025-10-15 |
@@ -63,6 +64,7 @@
 | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/track/6Ng41Z45QiJ88KmEuFpS0N) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [PETROL ALFAN \(feat\. Alshaikh\)](https://open.spotify.com/album/009Fnoj0mfiihyzxg1ZjyZ) | 2:47 | 2025-04-29 | 2025-10-03 |
 | [Rawq Elmanga](https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Rawq Elmanga](https://open.spotify.com/album/24i5mi7wRZIZATTQCWipGC) | 3:15 | 2024-06-24 |  |
 | [Shampoo](https://open.spotify.com/track/4qPsQJxMOREpkJcWz8OggA) | [Dr.Slim](https://open.spotify.com/artist/4Rb8AeljgYsMU3YW6D1asy) | [Shampoo](https://open.spotify.com/album/0BqtNn7UOpSUow10X2uG3I) | 2:40 | 2025-05-12 | 2025-10-03 |
+| [Shift](https://open.spotify.com/track/7Il7dirZYENWLPUMvYxLTC) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Shift](https://open.spotify.com/album/7aY1uHmcbbKdNZe3vLmUf5) | 2:30 | 2026-07-16 |  |
 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 | 2024-06-24 |  |
 | [SRT](https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Rissi Tempo](https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2) | [SRT](https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0) | 3:20 | 2024-06-24 | 2025-10-15 |
 | [Storm](https://open.spotify.com/track/3eXWngGDvtPMFcBPfuWqW7) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 3:13 | 2025-10-02 |  |
@@ -76,6 +78,7 @@
 | [Ween Yabu](https://open.spotify.com/track/2JvrzoueEOcl6cYhnnI8XS) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [Ween Yabu](https://open.spotify.com/album/1Fa0JCaLqGpUctiOcABxY5) | 3:23 | 2024-06-24 |  |
 | [Y20](https://open.spotify.com/track/1UDiiOdFUs3MdV9uAo8cYe) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [YSN Lowkey](https://open.spotify.com/artist/2gaO2Gwf588OnnaDwArIAW) | [Y20](https://open.spotify.com/album/6KB2ail4OHmi7hLE9sO9x6) | 1:54 | 2026-02-12 |  |
 | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS) | 3:47 | 2025-10-02 |  |
+| [اشناك](https://open.spotify.com/track/0ZehBprB7kEqrboKujaVVg) | [Júnior T](https://open.spotify.com/artist/1MYUszmFEtNVSEZ2UC92Sd), [INSEVEN](https://open.spotify.com/artist/5la1BXSjVSVTyF1E8Vj3EZ) | [اشناك](https://open.spotify.com/album/28eIWKEmIgz7Kcg4rZM6xu) | 2:50 | 2026-07-16 |  |
 | [الجلسة الاولى : فريستايل](https://open.spotify.com/track/4dvz8mbfDaERCEFa1gt9fV) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [الجلسة الاولى : فريستايل](https://open.spotify.com/album/0UA4g53jHzmPvYdQM0EKEe) | 2:16 | 2024-06-24 | 2025-10-03 |
 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 | 2025-10-02 |  |
 | [المكتوب](https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [المكتوب](https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d) | 2:56 | 2025-10-02 |  |

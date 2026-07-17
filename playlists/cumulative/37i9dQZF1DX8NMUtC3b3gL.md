@@ -4,7 +4,7 @@
 
 > chill vibes for lazy mornings, sun\-soaked afternoons, and late\-night breezes 🏖️☀️
 
-642 songs - 1 day 1 hr 1 min
+645 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Camping](https://open.spotify.com/track/6JJOCnGGphX1aSLMEDeY3m) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Camping](https://open.spotify.com/album/1GjAfuFpQgKk3IcbUbjEPN) | 1:40 | 2022-10-28 | 2023-10-27 |
 | [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 | 2023-03-24 |  |
 | [Can't Stop](https://open.spotify.com/track/4UWgHP5mf1Bp1oguCvOG7n) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Can't Stop](https://open.spotify.com/album/1VlRVqoTU5iPWpqtVlti60) | 2:10 | 2024-08-09 | 2025-07-12 |
+| [Caprese](https://open.spotify.com/track/0R0q2QiodrNaVpYs5n9P1f) | [rden.96](https://open.spotify.com/artist/7s88vlh8bM08TBlu8GgAlR) | [Caprese](https://open.spotify.com/album/2DEQ7Cp0AmvpVik3fSFZFM) | 2:08 | 2026-07-16 |  |
 | [capricorn](https://open.spotify.com/track/0slmLnFxVAM2qnV61MrvJV) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [capricorn](https://open.spotify.com/album/5fNzYU0J9xK2ivT9UdkahG) | 2:04 | 2023-03-01 | 2026-06-24 |
 | [Catchin' The Vibe](https://open.spotify.com/track/0zWSkVjrsxfqHBx6WAfdFA) | [404flipp](https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Catchin' The Vibe](https://open.spotify.com/album/3WcDo0yzRMbqTBWEQ0qSnq) | 2:07 | 2023-08-03 | 2025-07-19 |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-03-24 | 2023-09-22 |
@@ -245,6 +246,7 @@
 | [grind](https://open.spotify.com/track/54wyyYVcwwBYbJzYBmaQc8) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Attitudes Of November](https://open.spotify.com/album/7q69vhnV5YDtI5fQTp1UAE) | 2:05 | 2022-05-27 | 2026-06-10 |
 | [Half Moon](https://open.spotify.com/track/0iWxaTdBHSLRtDIUEh16Ee) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Half Moon](https://open.spotify.com/album/2J9XleapibIQICho30gRz6) | 1:53 | 2025-07-11 |  |
 | [half time lemons](https://open.spotify.com/track/5SljEnU1YkR3GG1ZTp8eqo) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [half time lemons](https://open.spotify.com/album/5dKMaIwDOPAQIn662wcZyE) | 2:25 | 2024-07-19 | 2025-07-12 |
+| [Halo](https://open.spotify.com/track/0dZxlWUNktj88LDuJmcGI6) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [Halo](https://open.spotify.com/album/4BsUTOVXOqPoQitE38YVI1) | 2:28 | 2026-07-16 |  |
 | [haze avenue](https://open.spotify.com/track/12YAU1BzBei8xXoSu10Ae8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [haze avenue](https://open.spotify.com/album/3LGb9f9WeXASzdKanaiPdu) | 2:08 | 2022-07-08 | 2025-05-17 |
 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 | 2024-09-06 |  |
 | [Hazy Days](https://open.spotify.com/track/2exoFnH2pc2Qv9mypJjJX4) | [PandaBjørn](https://open.spotify.com/artist/3jMHu1ztcMHmgeioLcXBCE) | [Hazy Days](https://open.spotify.com/album/29PMdosIStKAlcQNXhYlCU) | 2:09 | 2022-11-11 | 2022-11-26 |
@@ -548,6 +550,7 @@
 | [sunburn](https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [sunburn](https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ) | 2:10 | 2023-09-22 | 2025-06-26 |
 | [Sunchilling](https://open.spotify.com/track/1XLuUPIEJys3L1HTKdgnM4) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Sunchilling](https://open.spotify.com/album/6c2g6INMRJNbJMP1ikMjCY) | 2:16 | 2023-08-03 |  |
 | [Sundew](https://open.spotify.com/track/6PRi7RcZU3P0atYsV6WVmx) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [Sundew](https://open.spotify.com/album/4xWQSV1KUuvABJPGJ9KvUS) | 3:46 | 2024-05-13 | 2025-07-03 |
+| [sunny beach](https://open.spotify.com/track/55FOZATEDVRh7UXV4gXXh0) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [sunny beach](https://open.spotify.com/album/5PmOrPHJTl8uXrkt05e5Sk) | 2:37 | 2026-07-16 |  |
 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 |  |
 | [Sunrise](https://open.spotify.com/track/4uaP7h80XL1YP2vjpZNETc) | [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Sunrise / Radiance](https://open.spotify.com/album/1DeExeJUt9ZIo4KpL3hSRC) | 1:58 | 2024-05-13 | 2025-05-17 |
 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 | 2022-05-27 | 2023-08-04 |

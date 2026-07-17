@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Levin Liam, SIRA",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Ski Aggu",
   "name": "me right now",
   "tracks": [
     {
@@ -12323,6 +12323,28 @@
     },
     {
       "album": {
+        "name": "copacabana",
+        "url": "https://open.spotify.com/album/6CWgsBTmIgEhSCouhgHdcj"
+      },
+      "artists": [
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165719,
+      "name": "copacabana",
+      "url": "https://open.spotify.com/track/50a7wC8RowFgh1Fr8rRt6t"
+    },
+    {
+      "album": {
         "name": "coq au vin",
         "url": "https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM"
       },
@@ -12818,6 +12840,24 @@
       "duration_ms": 146228,
       "name": "cross my heart",
       "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
+    },
+    {
+      "album": {
+        "name": "CRUSH DER STADT",
+        "url": "https://open.spotify.com/album/3CYKQb92655YKkZA17ecbg"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104984,
+      "name": "CRUSH DER STADT",
+      "url": "https://open.spotify.com/track/38tAiO2CratMgaclM2Y31K"
     },
     {
       "album": {
@@ -19396,7 +19436,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 208146,
       "name": "falling 4 me",
       "url": "https://open.spotify.com/track/6mWrWXGmgK6YfMjcLPhbRy"
@@ -20379,6 +20419,28 @@
     },
     {
       "album": {
+        "name": "filmreif",
+        "url": "https://open.spotify.com/album/0Vjo4WDm11aqiPki0htKjo"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150555,
+      "name": "filmreif",
+      "url": "https://open.spotify.com/track/66XaQMtr0miFqszrITsxWS"
+    },
+    {
+      "album": {
         "name": "Fiebertrauma",
         "url": "https://open.spotify.com/album/5uVN29dw3NluK8RAoAqeSu"
       },
@@ -20430,7 +20492,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 160144,
       "name": "fingergun",
       "url": "https://open.spotify.com/track/5tIEzZwkcz3L1RZLRBssTz"
@@ -21386,6 +21448,24 @@
       "duration_ms": 125004,
       "name": "FSK (ficken saufen kotzen)",
       "url": "https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig"
+    },
+    {
+      "album": {
+        "name": "FU",
+        "url": "https://open.spotify.com/album/7AjqH6delBUZTlUPoi9H0J"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127606,
+      "name": "FU",
+      "url": "https://open.spotify.com/track/5Epi46p3HR61x9uGZIyimP"
     },
     {
       "album": {
@@ -24112,7 +24192,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 159974,
       "name": "glitter in the night",
       "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
@@ -24968,6 +25048,24 @@
       "duration_ms": 148546,
       "name": "GTA",
       "url": "https://open.spotify.com/track/5shgHEo8Zgm94sjr6BYTUq"
+    },
+    {
+      "album": {
+        "name": "GTI Function",
+        "url": "https://open.spotify.com/album/6QhakvzoCW6qA42slxNI45"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149685,
+      "name": "GTI Function",
+      "url": "https://open.spotify.com/track/3dA6SFhxIi2uDFPKNe8Nn2"
     },
     {
       "album": {
@@ -32866,7 +32964,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 134500,
       "name": "Kaltblut",
       "url": "https://open.spotify.com/track/7FBPhx8xt7R5iKPUpO1omc"
@@ -32976,6 +33074,28 @@
       "duration_ms": 130666,
       "name": "kaputt",
       "url": "https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp"
+    },
+    {
+      "album": {
+        "name": "Kaputte Diamanten",
+        "url": "https://open.spotify.com/album/7hpe6nTNGDMGvCwdTwQsNB"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191207,
+      "name": "Kaputte Diamanten",
+      "url": "https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx"
     },
     {
       "album": {
@@ -35062,7 +35182,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -44668,7 +44788,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 157563,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/40MQCDCTKImFEBGbh8zRaR"
@@ -49831,6 +49951,28 @@
     },
     {
       "album": {
+        "name": "Prima",
+        "url": "https://open.spotify.com/album/5vGTYXyfOj2bXTlV1O0xSV"
+      },
+      "artists": [
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115298,
+      "name": "Prima",
+      "url": "https://open.spotify.com/track/7J7O6Rp5v3RAQGVkTmXFZ3"
+    },
+    {
+      "album": {
         "name": "PRINCE OF DARKNESS",
         "url": "https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY"
       },
@@ -51929,6 +52071,28 @@
     },
     {
       "album": {
+        "name": "S.U.L.",
+        "url": "https://open.spotify.com/album/78HRaSj9UYYFVMjENErZjy"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "S.U.L.",
+      "url": "https://open.spotify.com/track/2SlvpDfgl78OHWxTFjUaOk"
+    },
+    {
+      "album": {
         "name": "S0MM@ (z\u00fcrich)",
         "url": "https://open.spotify.com/album/0qPrYbvdykq3HcFIyjFeic"
       },
@@ -52892,7 +53056,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 136207,
       "name": "schmetterlinge fangen",
       "url": "https://open.spotify.com/track/2iiEvGTxZ1u9XjlDC8mCTM"
@@ -55856,7 +56020,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 132705,
       "name": "So Wie Du",
       "url": "https://open.spotify.com/track/6q8TJY4J6tBAi3yklwLgRn"

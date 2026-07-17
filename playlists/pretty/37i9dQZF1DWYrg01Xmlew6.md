@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. Frezza in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,050 likes - 75 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,059 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 16 | [N.A.P.L.](https://open.spotify.com/track/3Uhoh8vZ7DnePaI9KLY2WV) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [N.A.P.L.](https://open.spotify.com/album/4jiXKxgljMm7wuzybd1wb8) | 2:11 |
 | 17 | [John Dillinger \(feat\. Dipinto & Frezza\)](https://open.spotify.com/track/4GYgPGC8aGcnNRM1xSRGX1) | [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [John Dillinger \(feat\. Dipinto & Frezza\)](https://open.spotify.com/album/7ebs1vlI6Tu6LbbgevK8BR) | 3:07 |
 | 18 | [P tutt a vit](https://open.spotify.com/track/01tyjGbDTG63iQrLsOWyfP) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc) | [P tutt a vit](https://open.spotify.com/album/52lujTZeOxzH9RlDo1z50L) | 2:12 |
-| 19 | ['O BENE E 'O MALE \(feat\. Dipinto\)](https://open.spotify.com/track/0os5NV0tGKIJtgFyWsJiE2) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [RAGAZZO DI GIÙ \(DELUXE\)](https://open.spotify.com/album/6Z2ZiS8R5V1CAodxim4oJB) | 2:42 |
-| 20 | [MILLY MILLY](https://open.spotify.com/track/78bfPOEIgbb3v9h0brogPH) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [MILLY](https://open.spotify.com/album/5jySMbRvSiAL9s6esQBRGp) | 1:49 |
-| 21 | [COMM MAJE](https://open.spotify.com/track/7hzZEihCTEmO5oSknytJi2) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [COMM MAJE](https://open.spotify.com/album/0P6sZz0sFoc0tp2usYjA5o) | 2:15 |
+| 19 | [NAPOLI CARACAS](https://open.spotify.com/track/65MXUZ0CM0Z335LQ5t7smY) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [NAPOLI CARACAS](https://open.spotify.com/album/0V8IEgk7hAN5RUt8SjIuJ4) | 2:04 |
+| 20 | ['O BENE E 'O MALE \(feat\. Dipinto\)](https://open.spotify.com/track/0os5NV0tGKIJtgFyWsJiE2) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [RAGAZZO DI GIÙ \(DELUXE\)](https://open.spotify.com/album/6Z2ZiS8R5V1CAodxim4oJB) | 2:42 |
+| 21 | [MILLY MILLY](https://open.spotify.com/track/78bfPOEIgbb3v9h0brogPH) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [MILLY](https://open.spotify.com/album/5jySMbRvSiAL9s6esQBRGp) | 1:49 |
 | 22 | [CHAPO](https://open.spotify.com/track/14TsNrxyopRFvQI86o7ui4) | [EYKEY](https://open.spotify.com/artist/3aOWq3jfuEv9aBQXqW8iTe), [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ) | [CHAPO](https://open.spotify.com/album/72hyZxGu9Ou2OaX60WQSZY) | 2:46 |
 | 23 | [OLÈ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:05 |
-| 24 | [ME TIENE LOCO](https://open.spotify.com/track/4AdDGOb1FRQ84WbKYkciQG) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [ME TIENE LOCO](https://open.spotify.com/album/3V2d0HOmLHrb6B0j9RPuBS) | 2:45 |
+| 24 | [Kiss Me](https://open.spotify.com/track/5Xy2g53dJDzIExZlpeajiv) | [R3versal](https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP) | [Kiss Me](https://open.spotify.com/album/6UDNRcLKSaQvOOcUESgHxC) | 2:23 |
 | 25 | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/track/1iX6LqbBWwhfctAy3DnNMh) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/album/7sSafpY92CsWyhn46s0MDI) | 2:47 |
 | 26 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
 | 27 | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 74 | [Favela](https://open.spotify.com/track/0zBuNEWy5YufPBn0xUdCQ9) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [Favela](https://open.spotify.com/album/1Tt1QbxEytKl9ub1ypTlDp) | 1:56 |
 | 75 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy) | 3:04 |
 
-Snapshot ID: `AAAAAHjf9kOEyyMrV+L1ONDRunrybp1Q`
+Snapshot ID: `AAAAAJ7G2+8R2bK1iE5Lu1Q7XlFFXNmB`

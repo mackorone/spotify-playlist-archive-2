@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1504,
+  "num_followers": 1501,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAARwhnZ/wV0MRlstFHKk2afX/Scik8u",
+  "snapshot_id": "AAARxa4qJ6hyW1yFmfsRkJXe0snATH/6",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -1227,38 +1227,6 @@
       "duration_ms": 170280,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/5IrHwr1Ul8vkOrCkHoyLL2"
-    },
-    {
-      "added_at": "2026-06-15 13:35:37",
-      "album": {
-        "name": "Go Fish",
-        "url": "https://open.spotify.com/album/5moPphgJ9xbmKs3AbVPJ5s"
-      },
-      "artists": [
-        {
-          "name": "Gooseberry",
-          "url": "https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV"
-        }
-      ],
-      "duration_ms": 229353,
-      "name": "Go Fish",
-      "url": "https://open.spotify.com/track/3wusci1UD9vUMBi4HPGlLJ"
-    },
-    {
-      "added_at": "2026-06-15 13:26:23",
-      "album": {
-        "name": "SDSP",
-        "url": "https://open.spotify.com/album/7zf869CJmttxZ2Orleeep4"
-      },
-      "artists": [
-        {
-          "name": "Supa Dupa Supa Punk",
-          "url": "https://open.spotify.com/artist/5OfotB00RVZqUAHPBpJaEZ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Ticket to Paradise",
-      "url": "https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -5475,6 +5443,22 @@
       "duration_ms": 104000,
       "name": "even after promising",
       "url": "https://open.spotify.com/track/2N9hWdl3oaz9TxAMLYlGae"
+    },
+    {
+      "added_at": "2026-07-16 14:46:48",
+      "album": {
+        "name": "Pressing Matters!",
+        "url": "https://open.spotify.com/album/2JtHj97SK3YiIVHj2HD7uM"
+      },
+      "artists": [
+        {
+          "name": "Kodin Hill 'N The Pressed Pills",
+          "url": "https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy"
+        }
+      ],
+      "duration_ms": 112592,
+      "name": "Everything I Ever Wanted",
+      "url": "https://open.spotify.com/track/12GZH8VjSHd2KIr62YI1qA"
     }
   ],
   "unique_name": "Spotify Radio",

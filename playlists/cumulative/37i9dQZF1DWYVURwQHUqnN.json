@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Jungeli",
+  "description": "Photo : Leto",
   "name": "Best Life",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 180705,
       "name": "ACC\u00c9L\u00c9RER",
       "url": "https://open.spotify.com/track/2pspQJV6PSW0KziAKLhwYe"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 162352,
       "name": "Anita",
       "url": "https://open.spotify.com/track/3dL0hbJyvdCzl1Dw9g01hs"
@@ -1515,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/7guyvAhEoq69BYMCKTLWqa"
+      },
+      "artists": [
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/4KmrZGwYxoSlqppyXCTCPA"
+    },
+    {
+      "album": {
         "name": "SEREIN",
         "url": "https://open.spotify.com/album/2SwRAyssqlAy8XwaOKbKWQ"
       },
@@ -1896,7 +1918,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 132517,
       "name": "C'EST QUI C'EST NOUS",
       "url": "https://open.spotify.com/track/10BMsgQMdhtybASU9SE8GD"
@@ -3399,6 +3421,28 @@
     },
     {
       "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/4otB5I7RixSf9yKCJWzrld"
+      },
+      "artists": [
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185677,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/0LJT3T6VxrWrSY5o1MGwUo"
+    },
+    {
+      "album": {
         "name": "DJIMBO",
         "url": "https://open.spotify.com/album/4ocbJrkObBZBypa7juv5pX"
       },
@@ -4382,6 +4426,28 @@
       "duration_ms": 116363,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD"
+    },
+    {
+      "album": {
+        "name": "GOGOWINE",
+        "url": "https://open.spotify.com/album/2xmpR4pEkkRN2LSmICAv58"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "GOGOWINE",
+      "url": "https://open.spotify.com/track/3Q28tA9fHvAkDifcORBi7T"
     },
     {
       "album": {
@@ -5904,6 +5970,24 @@
       "duration_ms": 152626,
       "name": "Ma Life",
       "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
+    },
+    {
+      "album": {
+        "name": "Ma vie est savage",
+        "url": "https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170704,
+      "name": "Ma vie est savage",
+      "url": "https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU"
     },
     {
       "album": {
@@ -7886,7 +7970,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 140512,
       "name": "Pardon Maman",
       "url": "https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN"
@@ -8382,6 +8466,24 @@
       "duration_ms": 160487,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
+    },
+    {
+      "album": {
+        "name": "PIRANHA",
+        "url": "https://open.spotify.com/album/4ERQv00l8hkCBcXr39LBw9"
+      },
+      "artists": [
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "PIRANHA",
+      "url": "https://open.spotify.com/track/6f4a5xe5WMCbyi5HR4dn67"
     },
     {
       "album": {
@@ -9718,7 +9820,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 166922,
       "name": "Sex Model",
       "url": "https://open.spotify.com/track/4YiP42tiEfZ1blOnzJ6fRr"
@@ -9956,7 +10058,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 131563,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
@@ -11196,7 +11298,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 146013,
       "name": "Tu m'aimes plus",
       "url": "https://open.spotify.com/track/4cAEgsyXRtjg34Be3PTDl0"
@@ -11524,10 +11626,28 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 159023,
       "name": "Viens L\u00e0",
       "url": "https://open.spotify.com/track/7uycHv7OJgMkHO51HErfek"
+    },
+    {
+      "album": {
+        "name": "VIENS VOIR",
+        "url": "https://open.spotify.com/album/5f5hrFuaJhYc7BW23Wuvur"
+      },
+      "artists": [
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "VIENS VOIR",
+      "url": "https://open.spotify.com/track/6c5ognUdZPoE8Ou4BMpLwk"
     },
     {
       "album": {
@@ -11706,6 +11826,28 @@
       "duration_ms": 165217,
       "name": "Y m\u00e9ritent pas",
       "url": "https://open.spotify.com/track/60071ZZAxwmHyubRk4DBCO"
+    },
+    {
+      "album": {
+        "name": "Y'A BLO",
+        "url": "https://open.spotify.com/album/6sFyM6izpawV5ZL536dd1D"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "Y'A BLO",
+      "url": "https://open.spotify.com/track/0kKrice1pNmJSOW8q5FnTx"
     },
     {
       "album": {
@@ -11909,6 +12051,28 @@
     },
     {
       "album": {
+        "name": "ZWINA",
+        "url": "https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "ZWINA",
+      "url": "https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB"
+    },
+    {
+      "album": {
         "name": "Z\u00e9ro Soucis",
         "url": "https://open.spotify.com/album/1ko9mdCInvVZpHv8yeuVUl"
       },
@@ -11942,6 +12106,24 @@
       "duration_ms": 133014,
       "name": "Z\u00e9ro stress",
       "url": "https://open.spotify.com/track/59Gs1p5Z0IQA8zN9X37aWH"
+    },
+    {
+      "album": {
+        "name": "\u00c0 jamais",
+        "url": "https://open.spotify.com/album/5mpjQagvAboYeL85j1mp34"
+      },
+      "artists": [
+        {
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164869,
+      "name": "\u00c0 jamais",
+      "url": "https://open.spotify.com/track/0hkAgyjEhEhutkeQaBCo8q"
     },
     {
       "album": {

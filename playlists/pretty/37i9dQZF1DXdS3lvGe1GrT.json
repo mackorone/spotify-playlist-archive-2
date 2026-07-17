@@ -1,13 +1,65 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ivy Knight",
-  "num_followers": 99148,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Maya Donovan",
+  "num_followers": 99197,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7qcP9Q4q50XPopoHtugusf2A0d",
+  "snapshot_id": "AAAAAPACtwOFkZku37bmtGwJg+6o11uy",
   "tracks": [
+    {
+      "added_at": "2026-07-16 15:18:39",
+      "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ"
+      },
+      "artists": [
+        {
+          "name": "Maya Donovan",
+          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Cephalopods Do",
+      "url": "https://open.spotify.com/track/4qwZ29tDAmGKmNTA9YVbGw"
+    },
+    {
+      "added_at": "2026-07-16 15:18:39",
+      "album": {
+        "name": "Portal to the Past",
+        "url": "https://open.spotify.com/album/6cUZeY1E3OX3E7GTZBhmpI"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "duration_ms": 422306,
+      "name": "Portal to the Past",
+      "url": "https://open.spotify.com/track/739dDUpE5EOSRxWp3v79Rh"
+    },
+    {
+      "added_at": "2026-07-16 15:18:39",
+      "album": {
+        "name": "janie!",
+        "url": "https://open.spotify.com/album/02cW3O8IYROH1zZiXaDCtT"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        },
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "janie!",
+      "url": "https://open.spotify.com/track/2TKDwjdp5oLah1otwcctNY"
+    },
     {
       "added_at": "2026-06-24 22:08:07",
       "album": {
@@ -23,6 +75,54 @@
       "duration_ms": 172944,
       "name": "Angel So Bad",
       "url": "https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4"
+    },
+    {
+      "added_at": "2026-07-16 15:18:39",
+      "album": {
+        "name": "iwtfy",
+        "url": "https://open.spotify.com/album/1rpLkRaC2Q39NNJmDd8H4K"
+      },
+      "artists": [
+        {
+          "name": "sofii",
+          "url": "https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS"
+        }
+      ],
+      "duration_ms": 235788,
+      "name": "iwtfy",
+      "url": "https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH"
+    },
+    {
+      "added_at": "2026-07-16 15:18:39",
+      "album": {
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "duration_ms": 165084,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
+    },
+    {
+      "added_at": "2026-07-16 15:18:39",
+      "album": {
+        "name": "Levers and Pulleys",
+        "url": "https://open.spotify.com/album/5TnZxoTV1XON9CIAlXuMhz"
+      },
+      "artists": [
+        {
+          "name": "kole\u017canka",
+          "url": "https://open.spotify.com/artist/3u4dOU5Uc471ciIiPBTohL"
+        }
+      ],
+      "duration_ms": 273840,
+      "name": "Levers and Pulleys",
+      "url": "https://open.spotify.com/track/4Lb8OAcJUZgJLj9rWh9zDs"
     },
     {
       "added_at": "2026-06-24 22:08:07",
@@ -183,22 +283,6 @@
       "duration_ms": 215718,
       "name": "Needle",
       "url": "https://open.spotify.com/track/6vj1PhVCk44hnaUw6igQkn"
-    },
-    {
-      "added_at": "2026-06-10 16:10:25",
-      "album": {
-        "name": "Georgia the Ceremonialist",
-        "url": "https://open.spotify.com/album/6Yu79pXvnZMBTyKoanjVVu"
-      },
-      "artists": [
-        {
-          "name": "Maya Donovan",
-          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
-        }
-      ],
-      "duration_ms": 276095,
-      "name": "Georgia the Ceremonialist",
-      "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
     },
     {
       "added_at": "2026-06-17 18:25:45",
@@ -1111,150 +1195,6 @@
       "duration_ms": 336000,
       "name": "Friendship Is The Truth",
       "url": "https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4"
-    },
-    {
-      "added_at": "2026-04-15 17:14:04",
-      "album": {
-        "name": "Pitch Boats",
-        "url": "https://open.spotify.com/album/70O9VuLVmOTriNPq6kGh8a"
-      },
-      "artists": [
-        {
-          "name": "mildred",
-          "url": "https://open.spotify.com/artist/3yKgN8NhQcYDi6CXDSYKM0"
-        }
-      ],
-      "duration_ms": 211670,
-      "name": "Pitch Boats",
-      "url": "https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a"
-    },
-    {
-      "added_at": "2026-04-15 17:14:04",
-      "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/0t0aZd1jbEiYUzUiKPXiNn"
-      },
-      "artists": [
-        {
-          "name": "Zoh Amba",
-          "url": "https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL"
-        }
-      ],
-      "duration_ms": 181537,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC"
-    },
-    {
-      "added_at": "2026-04-15 17:14:04",
-      "album": {
-        "name": "Crackled Grounds",
-        "url": "https://open.spotify.com/album/5TjeuLoE1i9HgpRSRSsL0Y"
-      },
-      "artists": [
-        {
-          "name": "Georgian",
-          "url": "https://open.spotify.com/artist/45BKB70SYuiW2jRGxC1dYv"
-        }
-      ],
-      "duration_ms": 228053,
-      "name": "Crackled Grounds",
-      "url": "https://open.spotify.com/track/6M18ClPMkQTS7M7hiwgXz2"
-    },
-    {
-      "added_at": "2026-04-08 18:25:59",
-      "album": {
-        "name": "I\u2019m Still Learning How To Leave You",
-        "url": "https://open.spotify.com/album/03E8Neqz8GSu5TFeaM5prG"
-      },
-      "artists": [
-        {
-          "name": "Harmony Tividad",
-          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
-        }
-      ],
-      "duration_ms": 215715,
-      "name": "I\u2019m Still Learning How To Leave You",
-      "url": "https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ"
-    },
-    {
-      "added_at": "2026-04-08 16:00:07",
-      "album": {
-        "name": "Wendy Eisenberg",
-        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
-      },
-      "artists": [
-        {
-          "name": "Wendy Eisenberg",
-          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
-        }
-      ],
-      "duration_ms": 258537,
-      "name": "Meaning Business",
-      "url": "https://open.spotify.com/track/7b8Q7CPNLqnsHj8jwJKQ2x"
-    },
-    {
-      "added_at": "2026-04-08 16:00:07",
-      "album": {
-        "name": "S'mores",
-        "url": "https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n"
-      },
-      "artists": [
-        {
-          "name": "Isaac Stalling",
-          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
-        }
-      ],
-      "duration_ms": 154737,
-      "name": "S'mores",
-      "url": "https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR"
-    },
-    {
-      "added_at": "2026-04-08 16:00:07",
-      "album": {
-        "name": "Green Wood",
-        "url": "https://open.spotify.com/album/3ZwWCMDgRve6DRXE8uelUK"
-      },
-      "artists": [
-        {
-          "name": "face of ancient gallery",
-          "url": "https://open.spotify.com/artist/0ZGx5KuOeOamwoQ2384MUz"
-        }
-      ],
-      "duration_ms": 205457,
-      "name": "Green Wood",
-      "url": "https://open.spotify.com/track/3oENjcvjsNwxfB3OPtQGwk"
-    },
-    {
-      "added_at": "2026-04-08 16:00:07",
-      "album": {
-        "name": "Something like an Angel",
-        "url": "https://open.spotify.com/album/4DvxQOqtxXKVfsNEKW92Ah"
-      },
-      "artists": [
-        {
-          "name": "Juke",
-          "url": "https://open.spotify.com/artist/1EAOtSJNVKF5eHIGLodlpW"
-        }
-      ],
-      "duration_ms": 185289,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/3lB4p614IjTS8rFYJS7BsL"
-    },
-    {
-      "added_at": "2026-04-09 14:48:44",
-      "album": {
-        "name": "Algae Bloom / Martyr",
-        "url": "https://open.spotify.com/album/6ueVUYttFFfL0APBWFAmrY"
-      },
-      "artists": [
-        {
-          "name": "Trinity Ace",
-          "url": "https://open.spotify.com/artist/3O3IFttPeEWlD97qgHoc86"
-        }
-      ],
-      "duration_ms": 472982,
-      "name": "Algae Bloom",
-      "url": "https://open.spotify.com/track/2xgo1E9g90fftyw6KFgfsa"
     }
   ],
   "unique_name": "Fresh Finds Folk",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Kold AF & ODUMODUBLVCK",
+  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Scottyolorin",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -870,6 +870,28 @@
       "duration_ms": 223000,
       "name": "Afro G Western",
       "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+    },
+    {
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/5TsaHCdkZC6xhapMnZgKh2"
+      },
+      "artists": [
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "After",
+      "url": "https://open.spotify.com/track/10t22Qwyd0fbxfENS6ssbI"
     },
     {
       "album": {
@@ -8079,6 +8101,32 @@
     },
     {
       "album": {
+        "name": "GLACIER GIRL / FAAJI",
+        "url": "https://open.spotify.com/album/7aV7yb4bhdcAzeBDo0bC5w"
+      },
+      "artists": [
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
+        },
+        {
+          "name": "Kobilou",
+          "url": "https://open.spotify.com/artist/2DL38TZNK8x8hxvnxNkQB5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "GLACIER GIRL",
+      "url": "https://open.spotify.com/track/7DjCte93Dk2YIVMixhUqHO"
+    },
+    {
+      "album": {
         "name": "Could This Be Love",
         "url": "https://open.spotify.com/album/0VuqYK1Dsl7ecE1JA5tyf0"
       },
@@ -9836,7 +9884,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 197956,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
@@ -17780,7 +17828,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 116869,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
@@ -18720,7 +18768,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 122033,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4lWhQA6X4KNTRSQmhpwIN5"
@@ -20801,6 +20849,24 @@
     },
     {
       "album": {
+        "name": "The People",
+        "url": "https://open.spotify.com/album/2hooHrh3FfBGAwbXtknQSS"
+      },
+      "artists": [
+        {
+          "name": "Rigo Kamp",
+          "url": "https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "The People",
+      "url": "https://open.spotify.com/track/03JxBMz5guJWjiwOpU95CS"
+    },
+    {
+      "album": {
         "name": "ULTRALIGHT",
         "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
       },
@@ -21344,6 +21410,24 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2"
     },
     {
       "album": {
@@ -22254,7 +22338,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 178775,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"

@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 27 min
+54 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Theme \(from "Spider Man"\) \[Original Television Series\]](https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Homecoming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1) | 0:39 | 2026-07-08 |  |
 | [Turbo Transmission \- From "Cars 2"/Score](https://open.spotify.com/track/2XWfTQt91OXHKBotO9aBAl) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 0:52 | 2026-07-15 |  |
 | [Up With End Credits](https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 7:38 | 2026-07-08 |  |
-| [We're In the Club Now](https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:43 | 2026-07-08 |  |
+| [Up With Titles](https://open.spotify.com/track/6sIZFWgScdBoCzEuo3H4pE) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:52 | 2026-07-17 |  |
+| [We're In the Club Now](https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:43 | 2026-07-08 | 2026-07-17 |
 | [Welcome to Jurassic World](https://open.spotify.com/track/3aDH2C8MwdlxlFSI0B7f0F) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Jurassic World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh) | 2:08 | 2026-07-08 |  |
 | [Your Father Would Be Proud](https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 4:51 | 2026-07-08 |  |
 | [Zootopening](https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 0:55 | 2026-07-08 |  |

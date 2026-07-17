@@ -4301,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Compositions",
+        "url": "https://open.spotify.com/album/6e8n4UEP3B71zl6G6WBvYg"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149074,
+      "name": "Hey, Babe, Hey!",
+      "url": "https://open.spotify.com/track/2AtJDtWp8xywuhbGQEooyY"
+    },
+    {
+      "album": {
         "name": "Something for the Boys (2018 Studio Cast Recording)",
         "url": "https://open.spotify.com/album/65LY4Eb3mx3xevfaycMflh"
       },

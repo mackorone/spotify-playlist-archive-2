@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Sinan Ak\u00e7\u0131l, Enes Yolcu, KERRO",
+  "description": "Pop'un sevilen isimleri. Kapak: Mert Demir",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 198976,
       "name": "Bana Bir G\u00fcl\u00fcmseme Ismarla",
       "url": "https://open.spotify.com/track/1X8w2fVhbwyRZhSrB6MuLn"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 167250,
       "name": "Bitmedi Senelerce",
       "url": "https://open.spotify.com/track/6a24UkNP1NRrf2UWfMZT5V"
@@ -3729,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Dur Nereye",
+        "url": "https://open.spotify.com/album/355tL6mkYYoqTPXwIcbrUR"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc",
+          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Dur Nereye",
+      "url": "https://open.spotify.com/track/4Qd6sYslxSCEO6yx4kh4AF"
+    },
+    {
+      "album": {
         "name": "Duram\u0131yorum",
         "url": "https://open.spotify.com/album/7BxE88O270NoDxMbvsldCy"
       },
@@ -4020,6 +4038,24 @@
       "duration_ms": 185906,
       "name": "D\u00fc\u015ft\u00fcm Bi Anda",
       "url": "https://open.spotify.com/track/1vcjSDZisFwtAM55fXmrGI"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6Eti4ZhWAV7yWIV2mSqyN5"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan Akar",
+          "url": "https://open.spotify.com/artist/2rugEs4ym77v8gPi80XXr5"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162631,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6HHWodibgYh3Z03V6LSGD2"
     },
     {
       "album": {
@@ -5459,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "Haz\u0131r\u0131m \u0130nan Kaybolmaya",
+        "url": "https://open.spotify.com/album/2mnWqcerQOD5zLTcwNnVx9"
+      },
+      "artists": [
+        {
+          "name": "Mert Demir",
+          "url": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Haz\u0131r\u0131m \u0130nan Kaybolmaya",
+      "url": "https://open.spotify.com/track/3j2xBX2pv5LTISBa5qwOxr"
+    },
+    {
+      "album": {
         "name": "Heba",
         "url": "https://open.spotify.com/album/7FFIUBzawvny6iMmohY7Zo"
       },
@@ -6686,7 +6740,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 212312,
       "name": "Kesin Bilgi - Harbi Ile Barbi",
       "url": "https://open.spotify.com/track/0dDuOoafXsBVJxZ6zhcSjr"
@@ -6846,7 +6900,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 173406,
       "name": "KOLAY DE\u011e\u0130L",
       "url": "https://open.spotify.com/track/31GaMEiRG7gvPzqqIEI5bW"
@@ -8178,6 +8232,24 @@
       "duration_ms": 150745,
       "name": "Niye Niye",
       "url": "https://open.spotify.com/track/54g6rclpNyOiV0urVoXADJ"
+    },
+    {
+      "album": {
+        "name": "Yang\u0131n Yeri",
+        "url": "https://open.spotify.com/album/68Df6azCyTc0m4RvdVDiL0"
+      },
+      "artists": [
+        {
+          "name": "Elif Buse Do\u011fan",
+          "url": "https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Nokta",
+      "url": "https://open.spotify.com/track/6cwT8tabwoNRH86QcPERKJ"
     },
     {
       "album": {
@@ -9605,6 +9677,28 @@
     },
     {
       "album": {
+        "name": "Shouf Shouf",
+        "url": "https://open.spotify.com/album/64jXZ8zrtINvteb8qpZXtC"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        },
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149371,
+      "name": "Shouf Shouf",
+      "url": "https://open.spotify.com/track/7vu1mYZglSa7Zq9yT1kIrs"
+    },
+    {
+      "album": {
         "name": "Yalan Dolan",
         "url": "https://open.spotify.com/album/20MU09DJjpeHTZRgUg2HCq"
       },
@@ -9768,7 +9862,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 205924,
       "name": "Sonralar Bizim De\u011fil",
       "url": "https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f"

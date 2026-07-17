@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀 Carmon & Jamaika på cover
+> kun det nyeste danske rap 👀 Carmon
 
-588 songs - 1 day 1 hr 11 min
+591 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Eatlanta](https://open.spotify.com/track/76D8JXMrWkyZetOuQFQ5Eh) | [Matongo](https://open.spotify.com/artist/2TtN6WlbGQ2DAN7xJzHlG6) | [Eatlanta](https://open.spotify.com/album/5cSmMFAZCcf5DNMZaTSSYw) | 1:53 | 2025-10-16 | 2025-11-14 |
 | [Elektrisk](https://open.spotify.com/track/1iiupkiVWWfxNURbSFKSNc) | [Milbo](https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3), [ML](https://open.spotify.com/artist/4iDL8WJDAcDu1C80B7Gnmb) | [Elektrisk](https://open.spotify.com/album/0DH6fAMBFzAD6xCZ9MIjjA) | 2:16 | 2025-08-28 | 2025-09-12 |
 | [ELEVATOR \(feat\. Stepz\)](https://open.spotify.com/track/5KZqhvLLmjOXaFOP6jjaZa) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [ELEVATOR](https://open.spotify.com/album/6vqIrUHCsxp1iVLkZFkXkJ) | 2:19 | 2023-11-10 | 2024-01-19 |
+| [En af de dage](https://open.spotify.com/track/4G1dXs8bbYnKgcssrWmQz4) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [En af de dage](https://open.spotify.com/album/23qaoj5ytLp0sn5utVuf7j) | 2:48 | 2026-07-16 |  |
 | [ENDE SÅDAN](https://open.spotify.com/track/5iBnkccw2gyMbMmB1IWN48) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [JEEZ](https://open.spotify.com/album/3EWP8YtT28co1o8A6d14KH) | 2:43 | 2025-10-30 | 2025-11-21 |
 | [Energien](https://open.spotify.com/track/24iwVwLUrHV2Y1Bmfyr5sq) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Energien](https://open.spotify.com/album/4aiBX7RmA3AOlIE1dPlmPV) | 2:45 | 2024-06-27 | 2025-03-14 |
 | [Eneste \(feat\. KESI\)](https://open.spotify.com/track/5ehIhNQBMskl6sPE9Jf4TH) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Eneste \(feat\. KESI\)](https://open.spotify.com/album/3x52rk2qRrPRlgJsbysqNB) | 2:14 | 2024-06-06 | 2025-01-10 |
@@ -270,7 +271,7 @@
 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 | 2026-06-19 |  |
 | [Holddamagle](https://open.spotify.com/track/6mCX1dL0vG71HxcI1OdRBe) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PÅ GEN5YN](https://open.spotify.com/album/1UwgdrQVaJBueo48c2GM8x) | 1:52 | 2024-06-27 | 2024-09-13 |
 | [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-09-21 | 2023-12-14 |
-| [Hop Ind I](https://open.spotify.com/track/7eo5owFb9jeDNyuSe0ivlE) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Hop Ind I](https://open.spotify.com/album/1NbdMZC0KBEFK75XRQWmE5) | 2:09 | 2026-07-02 |  |
+| [Hop Ind I](https://open.spotify.com/track/7eo5owFb9jeDNyuSe0ivlE) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Hop Ind I](https://open.spotify.com/album/1NbdMZC0KBEFK75XRQWmE5) | 2:09 | 2026-07-02 | 2026-07-17 |
 | [Hustlers Ambition](https://open.spotify.com/track/4XdCz4OmpJG8boHyXaeg7v) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Hustlers Ambition](https://open.spotify.com/album/2UHksnhp9qVmHqXM8GKPCS) | 2:01 | 2024-10-24 | 2024-11-08 |
 | [Hva Du På \(feat\. Gilli\)](https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:38 | 2024-05-30 | 2025-02-28 |
 | [hva fuck mener du](https://open.spotify.com/track/06lfv6CwYPnlpXfguvYiCA) | [Speedy](https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB) | [hva fuck mener du](https://open.spotify.com/album/3x6kS96DcexsPthxCIVvo6) | 2:40 | 2026-06-19 | 2026-06-26 |
@@ -404,6 +405,7 @@
 | [Mozart](https://open.spotify.com/track/6PsOpjwjkUIAELLXz30bC9) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Mozart](https://open.spotify.com/album/1j9hmGqgddPasebxfgckk7) | 2:02 | 2026-01-08 | 2026-04-17 |
 | [Murciélago](https://open.spotify.com/track/6bTv8wFuVu5O21g7HTxdqd) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Murciélago](https://open.spotify.com/album/2HZAQ8Ur0Ac7es5G4IfIAS) | 2:02 | 2024-02-08 | 2024-04-05 |
 | [NALE](https://open.spotify.com/track/4UrPdb0pMaoesMndj9mOQe) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [NALE](https://open.spotify.com/album/4chZ9FISEuX3ui3GH5KzCl) | 2:20 | 2025-04-17 | 2025-07-04 |
+| [Napoli](https://open.spotify.com/track/4UyUTjExsdAUJ8ze9AtyYb) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Napoli](https://open.spotify.com/album/1evSQF3LMP5BblYEfLPs72) | 2:42 | 2026-07-16 |  |
 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 | 2025-07-03 | 2026-04-10 |
 | [Nazario](https://open.spotify.com/track/1i8wOqiOku6X4QMugTOWXz) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Nazario](https://open.spotify.com/album/5t05shQ43pGuVjcQOEucET) | 2:19 | 2025-09-18 | 2026-04-10 |
 | [New York City](https://open.spotify.com/track/3HLVXuHXqFi9x7QCoFWbzF) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [New York City](https://open.spotify.com/album/7eDqc9IAUhWSitkF7M6cc9) | 2:22 | 2023-11-10 | 2024-09-13 |
@@ -472,6 +474,7 @@
 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 | 2024-01-18 | 2025-01-10 |
 | [Settings](https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Settings](https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp) | 2:01 | 2023-09-21 | 2024-01-19 |
 | [Showtime](https://open.spotify.com/track/6nUOeJtgyhDwbBUbzThKkP) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun), [OK OK](https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt) | [Showtime](https://open.spotify.com/album/4oCrBpoXAqUo8hHmdB7ikg) | 2:54 | 2025-08-14 | 2025-08-29 |
+| [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd) | 2:33 | 2026-07-16 |  |
 | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Willy](https://open.spotify.com/artist/6Ex4qMJYjLpfDpxDinHC82), [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8) | 2:36 | 2026-06-19 |  |
 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 | 2026-04-23 |  |
 | [Sig Du Vil](https://open.spotify.com/track/2P7mah38G2Lf8DvSw51Bhe) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Sig Du Vil](https://open.spotify.com/album/6Nyi6KAIjoSeZFSOxiWjdM) | 2:08 | 2023-11-10 | 2024-01-19 |

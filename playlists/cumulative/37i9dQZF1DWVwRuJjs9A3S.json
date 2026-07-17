@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Alar\u00f3",
+        "url": "https://open.spotify.com/album/4E3zbCXIPJ3TX3X71NH3tE"
+      },
+      "artists": [
+        {
+          "name": "Mon Rayon",
+          "url": "https://open.spotify.com/artist/72T708Fc8U7CNXT1ScaWmv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218523,
+      "name": "Alar\u00f3",
+      "url": "https://open.spotify.com/track/7wKvF2X3Xu8fR3hvef6Gz7"
+    },
+    {
+      "album": {
         "name": "Again, for the first time",
         "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
       },
@@ -8537,6 +8555,24 @@
     },
     {
       "album": {
+        "name": "Headfirst",
+        "url": "https://open.spotify.com/album/0UeCgZQsDJTmdPMAQRKHkc"
+      },
+      "artists": [
+        {
+          "name": "Nina Winder-Lind",
+          "url": "https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Headfirst",
+      "url": "https://open.spotify.com/track/1pBiGqXUOVRrCxP44nonG2"
+    },
+    {
+      "album": {
         "name": "Speak for Yourself (Deluxe Version)",
         "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
       },
@@ -9793,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "I Know, I Was Wrong",
+        "url": "https://open.spotify.com/album/6qGvTnHMKSLXaoDyM7HYD0"
+      },
+      "artists": [
+        {
+          "name": "Blue Age",
+          "url": "https://open.spotify.com/artist/3butzKx7PzQ5u549zqHaTc"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "I Know, I Was Wrong",
+      "url": "https://open.spotify.com/track/5222GmoioO5SAXaRcsPw1k"
+    },
+    {
+      "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
@@ -10050,6 +10104,28 @@
       "duration_ms": 262375,
       "name": "I Went Dancing With My Sister - Bonus Track",
       "url": "https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba"
+    },
+    {
+      "album": {
+        "name": "The Gem",
+        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        },
+        {
+          "name": "The Maes",
+          "url": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180281,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0La342lZJ1Rl7IYac4yW6e"
     },
     {
       "album": {
@@ -15389,6 +15465,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4mndeman - om medelklassens dilemma",
+        "url": "https://open.spotify.com/album/1lSK4DtV2KBJqZz8R0tsXW"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ret Var",
+          "url": "https://open.spotify.com/artist/1IuIAS0zkKRpITz8IMNa3i"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352893,
+      "name": "N\u00e4mndeman - om medelklassens dilemma",
+      "url": "https://open.spotify.com/track/3wbgRz2v0P0HB5h8V5yEUY"
+    },
+    {
+      "album": {
         "name": "N\u00e4ra (tills d\u00f6den skiljer oss \u00e5t) kanske...",
         "url": "https://open.spotify.com/album/3b0sXy1KXT6yCpTnqsV93R"
       },
@@ -17174,6 +17268,24 @@
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
+    },
+    {
+      "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/3x7DruPONfvi5lVuQ68TG7"
+      },
+      "artists": [
+        {
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/3F1GqUJ5lVJGl3j1CKSEqc"
     },
     {
       "album": {
@@ -19443,6 +19555,24 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I"
+    },
+    {
+      "album": {
         "name": "speedboat",
         "url": "https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V"
       },
@@ -21209,6 +21339,24 @@
     },
     {
       "album": {
+        "name": "The Next Day",
+        "url": "https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249016,
+      "name": "The Next Day",
+      "url": "https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc"
+    },
+    {
+      "album": {
         "name": "The Old Law",
         "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
       },
@@ -22186,6 +22334,24 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
+    },
+    {
+      "album": {
+        "name": "off center",
+        "url": "https://open.spotify.com/album/3lNo4FMllv6xyCwaznfjvg"
+      },
+      "artists": [
+        {
+          "name": "raihan",
+          "url": "https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/6DcJN0iH30RsirkMMd1JLO"
     },
     {
       "album": {

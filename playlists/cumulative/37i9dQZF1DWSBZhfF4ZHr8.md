@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Eva.
+> Les meilleures nouveautés de la variété française avec Joseph Kamel.
 
-526 songs - 1 day 1 hr 47 min
+528 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [ILOVEYOU \- Radio Edit](https://open.spotify.com/track/47U0wny1LcR45QwrtrpOGj) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU \(Radio Edit\)](https://open.spotify.com/album/2Wv9giNmz2A9Ab1GOiOLwl) | 3:14 | 2026-01-16 | 2026-02-20 |
 | [Ils s'aimaient toujours](https://open.spotify.com/track/0EtEjlfmQiUayvKQ4cuLvF) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ils s'aimaient toujours](https://open.spotify.com/album/3QGHad6WExNAujuYcmauUm) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [Immortel](https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Moi c'est Jeck](https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj) | 2:56 | 2024-08-01 | 2024-11-15 |
+| [Insomnie](https://open.spotify.com/track/14fGqHU130ooeNSBmCsJIC) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Insomnie](https://open.spotify.com/album/25rhWIctOA5FgMXZHAbtpc) | 2:31 | 2026-07-16 |  |
 | [Internet](https://open.spotify.com/track/6CTF67PhXCjejoVdw9H0Yg) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Internet](https://open.spotify.com/album/0JWbb1gcqKO0OACnszsDRg) | 3:10 | 2025-04-10 | 2025-06-27 |
 | [J'ai Grandi](https://open.spotify.com/track/5ETuaFo3eJjaGBSSHRXOCK) | [NTH](https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s), [Gloria](https://open.spotify.com/artist/2yWU3Z3NKkz1g49LzGFRU4) | [J'ai Grandi](https://open.spotify.com/album/53q4GoasgXwqzg4X36ckYU) | 2:51 | 2024-08-22 | 2024-11-08 |
 | [J'ai plus peur](https://open.spotify.com/track/1WuZtweA9VoqhFW42vMO9i) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [J'ai plus peur](https://open.spotify.com/album/3RxSWOD6Xf5BSCc7wz2o96) | 2:57 | 2024-09-12 | 2024-12-06 |
@@ -186,7 +187,7 @@
 | [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 | 2025-03-27 | 2025-06-06 |
 | [J'espère que c'est vrai](https://open.spotify.com/track/2EuuOBDrIfrdKYUKvXW2iK) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [J'espère que c'est vrai](https://open.spotify.com/album/1TtiBpOuEDjDo44m20sqkp) | 3:20 | 2025-02-20 | 2025-05-23 |
 | [J'm'en voudrais](https://open.spotify.com/track/4jwSH626zHuPoF0I0vh9qj) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [J'm'en voudrais](https://open.spotify.com/album/7zbJLvOfTV4ldmVzY5DxO2) | 2:43 | 2025-08-28 | 2025-11-14 |
-| [j'me demande](https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb) | [Ambre](https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ) | [j'me demande](https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP) | 3:08 | 2026-06-04 |  |
+| [j'me demande](https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb) | [Ambre](https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ) | [j'me demande](https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP) | 3:08 | 2026-06-04 | 2026-07-17 |
 | [J'te laisserai pas partir \(feat\. Mattyeux\)](https://open.spotify.com/track/2KXNKHyZlZbofPfqODm0R3) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [J'te laisserai pas partir \(feat\. Mattyeux\)](https://open.spotify.com/album/36V7H1YtF6JogxmMlNnBIg) | 2:42 | 2026-05-21 |  |
 | [J'veux qu'on s'aime](https://open.spotify.com/track/3TcQ7REFvKc8LOy0QdmA2s) | [Nola](https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA) | [J'veux qu'on s'aime](https://open.spotify.com/album/02XVsG9Wr53zb3b2mFla8t) | 2:02 | 2026-02-05 | 2026-04-24 |
 | [J'veux que t'aies mal](https://open.spotify.com/track/269aCU3cP4Dxw8TTXjJV41) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Éclair](https://open.spotify.com/album/0gNAAFYDnBfBiPtMq4vtpu) | 3:12 | 2025-11-27 | 2026-03-13 |
@@ -300,6 +301,7 @@
 | [Mal lunée](https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Mal lunée](https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI) | 3:14 | 2025-01-09 | 2025-02-21 |
 | [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 | 2025-03-15 | 2025-05-16 |
 | [Mamma Mia](https://open.spotify.com/track/3haU6irRiO9hZdku6ftszL) | [2 Copains](https://open.spotify.com/artist/6yINzSJry9uroHLqhGf3yB) | [Mamma Mia](https://open.spotify.com/album/7qgVZiCj6qmf3kFaqDzkTW) | 2:21 | 2024-07-25 | 2024-11-08 |
+| [mAnIAc](https://open.spotify.com/track/1uMISOROzvfKs1i2292HOn) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [mAnIAc](https://open.spotify.com/album/5AmHvTK4lO5DLy8mHZN8RM) | 3:24 | 2026-07-16 |  |
 | [Marche ou rêve](https://open.spotify.com/track/3m2VVaBylHoKBngpUflwUM) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Marche ou rêve](https://open.spotify.com/album/7kS5ShCz4QHayBwumXSdUO) | 3:17 | 2025-07-03 | 2025-09-13 |
 | [MARIA](https://open.spotify.com/track/5z6CNZkRIy44n7FrYNs23q) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [MARIA](https://open.spotify.com/album/3JIicLsd5uAnePIbUatgvN) | 2:41 | 2024-10-10 | 2024-11-15 |
 | [Matin à rallonge](https://open.spotify.com/track/6EYFr757PaoaLiJGreEIn3) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Matin à rallonge](https://open.spotify.com/album/5B7CjA1HXxGH65fJ8NpLHT) | 2:36 | 2025-09-18 | 2025-12-12 |
@@ -328,7 +330,7 @@
 | [monde](https://open.spotify.com/track/60CDEPRBvqZOgEj46q3Zqo) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [monde](https://open.spotify.com/album/4Wm1oLjb5CVA3m7rUKWvKq) | 2:33 | 2025-07-17 | 2025-10-03 |
 | [monde](https://open.spotify.com/track/1Rw4uvIWhfTwtXxzVBFyFt) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo \(édition blizzard\)](https://open.spotify.com/album/0QgoX9WIbp5xTwe9Up5v79) | 3:52 | 2024-11-14 | 2025-02-14 |
 | [Monstre](https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Monstre](https://open.spotify.com/album/3LVYLbTaOzMoGSRANhdEGu) | 2:41 | 2025-03-20 | 2025-06-06 |
-| [Monstre](https://open.spotify.com/track/4zLsVaLoUAOtCmoABFrARN) | [Montemarco](https://open.spotify.com/artist/3A86WsWLl8c2VVUhIKbQHq) | [1,2,3](https://open.spotify.com/album/1EkutaiP4rkbVquS5zx42X) | 3:00 | 2026-04-23 |  |
+| [Monstre](https://open.spotify.com/track/4zLsVaLoUAOtCmoABFrARN) | [Montemarco](https://open.spotify.com/artist/3A86WsWLl8c2VVUhIKbQHq) | [1,2,3](https://open.spotify.com/album/1EkutaiP4rkbVquS5zx42X) | 3:00 | 2026-04-23 | 2026-07-17 |
 | [MUGANGA](https://open.spotify.com/track/1UoW030SkcExy1E0zEpW3d) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MUGANGA](https://open.spotify.com/album/0xRRXXAcNkWoQf24Akl5kA) | 3:37 | 2025-09-25 | 2025-11-07 |
 | [Mute](https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [La prison des amoureuses malheureuses](https://open.spotify.com/album/3dKaOKSDCF3C9XSpa7AQbn) | 2:53 | 2024-10-03 | 2025-06-13 |
 | [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 | 2025-05-08 | 2025-07-11 |

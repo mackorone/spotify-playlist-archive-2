@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Daryl Coley, Marvin Winans, Walter Hawkins and more
+> With Daryl Coley, Walter Hawkins, LaShun Pace and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 411 likes - 50 songs - 5 hr 11 min
 

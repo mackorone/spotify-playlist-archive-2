@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Mula",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: KM",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 120352,
       "name": "120 Seconden",
       "url": "https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9"
@@ -929,6 +929,24 @@
     },
     {
       "album": {
+        "name": "BACK",
+        "url": "https://open.spotify.com/album/2nyNHmw3iHCiPdtjVGo5uh"
+      },
+      "artists": [
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182561,
+      "name": "BACK",
+      "url": "https://open.spotify.com/track/6S1CxOQhCNVgzgLTvZmFGs"
+    },
+    {
+      "album": {
         "name": "Back 2 Back",
         "url": "https://open.spotify.com/album/0gzY56BVF881zHgjsA4FGs"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 112447,
       "name": "Back voor je needs",
       "url": "https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi"
@@ -1471,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "BLIJF RUSTIG",
+        "url": "https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169346,
+      "name": "BLIJF RUSTIG",
+      "url": "https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud"
+    },
+    {
+      "album": {
         "name": "Blijf Soldaat",
         "url": "https://open.spotify.com/album/6ClemM1D7V7vIneR7WEONI"
       },
@@ -1582,6 +1618,24 @@
       "duration_ms": 154565,
       "name": "BOM",
       "url": "https://open.spotify.com/track/3uCg6lfeYXbz25eOL5BPyf"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2mTgmeYAKEannU4Hhbs6aI"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167093,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/6elxCSCGjzG2nLiJwUZk6n"
     },
     {
       "album": {
@@ -3120,7 +3174,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 204123,
       "name": "Foreign Car",
       "url": "https://open.spotify.com/track/0YDsy5y2ln0EkNYyu3NYw8"
@@ -4622,7 +4676,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 208695,
       "name": "is Het VANDAAG?!",
       "url": "https://open.spotify.com/track/0XrL0frR5SXrBk9OnBXOBK"
@@ -5026,7 +5080,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 152050,
       "name": "Kevlar",
       "url": "https://open.spotify.com/track/3r5m15ukxtPDzoyZ1yxp0u"
@@ -5565,6 +5619,28 @@
     },
     {
       "album": {
+        "name": "LIFESTYLE",
+        "url": "https://open.spotify.com/album/5jb0CkHHEhbk3fsWiYoV8m"
+      },
+      "artists": [
+        {
+          "name": "Gregossan",
+          "url": "https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC"
+        },
+        {
+          "name": "TAREK",
+          "url": "https://open.spotify.com/artist/27vjWK90FPlwA54zdWh2rL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "LIFESTYLE",
+      "url": "https://open.spotify.com/track/62aNBgDhsUJEH3bHgSOGRW"
+    },
+    {
+      "album": {
         "name": "Lift Freestyle",
         "url": "https://open.spotify.com/album/4P3fWPQ34Afi7i36zpLr95"
       },
@@ -5796,7 +5872,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 189026,
       "name": "Maak Me Niet Heet",
       "url": "https://open.spotify.com/track/0npU90BM992t07Oh3hfaYb"
@@ -6521,6 +6597,28 @@
     },
     {
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/59IwRpU6fGjDrQA7CVEqoY"
+      },
+      "artists": [
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "Leafs",
+          "url": "https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173513,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5h6eCdszmkbsmF6toHPoU0"
+    },
+    {
+      "album": {
         "name": "deims deims deims",
         "url": "https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH"
       },
@@ -6628,7 +6726,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 174179,
       "name": "Netflix",
       "url": "https://open.spotify.com/track/0Xc9gBpLrCbDWM8YdnBaY1"
@@ -7070,7 +7168,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 155200,
       "name": "OKE",
       "url": "https://open.spotify.com/track/0blCMImJHiB3rKxitkLeEP"
@@ -8101,6 +8199,28 @@
     },
     {
       "album": {
+        "name": "Range",
+        "url": "https://open.spotify.com/album/5GNZHAPHmD2YkN9CV7DrNi"
+      },
+      "artists": [
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        },
+        {
+          "name": "Oykie",
+          "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Range",
+      "url": "https://open.spotify.com/track/2zoluwABwWrv3JCA1kzrPC"
+    },
+    {
+      "album": {
         "name": "Rechtsaf",
         "url": "https://open.spotify.com/album/6t643GW4SZhvCmN3z8Paal"
       },
@@ -8857,6 +8977,32 @@
     },
     {
       "album": {
+        "name": "SLIDESHOW",
+        "url": "https://open.spotify.com/album/6tjueqUivevUFpbkoQhE0i"
+      },
+      "artists": [
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN"
+        },
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        },
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "SLIDESHOW",
+      "url": "https://open.spotify.com/track/1My084FqEAZkjIiauYeicO"
+    },
+    {
+      "album": {
         "name": "OMG YES",
         "url": "https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc"
       },
@@ -9120,7 +9266,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 108131,
       "name": "Stenen & Liquide",
       "url": "https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm"
@@ -9356,6 +9502,28 @@
       "duration_ms": 190578,
       "name": "Team",
       "url": "https://open.spotify.com/track/03vU7k9fv2WtLZJhorgfbD"
+    },
+    {
+      "album": {
+        "name": "Technisch",
+        "url": "https://open.spotify.com/album/22ZreRJH204KD8ZCKs024n"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7"
+        },
+        {
+          "name": "JOJO AIR",
+          "url": "https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186164,
+      "name": "Technisch",
+      "url": "https://open.spotify.com/track/1EgJppxmTVC8lkvab5kndk"
     },
     {
       "album": {
@@ -11042,6 +11210,32 @@
       "duration_ms": 184077,
       "name": "Z\u00f3 Dan",
       "url": "https://open.spotify.com/track/38zYd5aIdpkew1vmdO7IMy"
+    },
+    {
+      "album": {
+        "name": "\u00dcBER DIE GRENZE",
+        "url": "https://open.spotify.com/album/1NoZYUovpH5dGqNr16LPeK"
+      },
+      "artists": [
+        {
+          "name": "D.SEL",
+          "url": "https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh"
+        },
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212835,
+      "name": "\u00dcBER DIE GRENZE",
+      "url": "https://open.spotify.com/track/11eEwahIOB5hLz8gyYLPUg"
     },
     {
       "album": {

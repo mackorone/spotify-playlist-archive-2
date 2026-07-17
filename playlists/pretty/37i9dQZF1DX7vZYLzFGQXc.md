@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 연정\(YeonJeong\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,419 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,412 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [New Babe](https://open.spotify.com/track/2XHO4Qu3rfqt8WgPulBwCu) | [yawn](https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc), [min](https://open.spotify.com/artist/66gNzDwsUTdKBVcq1cZg5g) | [New Babe](https://open.spotify.com/album/0ImDEqYg2Mc8T3c6q7DvdP) | 3:06 |
 | 50 | [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 |
 
-Snapshot ID: `AAAAAOPu6iANlfAcWnCV5ome4YiJXTwC`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Jain
+> La scène française branchée sur courant alternatif\. Photo : Camille Yembe
 
-541 songs - 1 day 4 hr 3 min
+543 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [ALED](https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [EXIT](https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy) | 3:21 | 2024-03-21 | 2024-11-08 |
 | [All eyes](https://open.spotify.com/track/2KxJwTGpHRiUdmAOgHuq4R) | [Le Peuple de L'Herbe](https://open.spotify.com/artist/3TQ7yQyNz2JvOXqiO5Tpz2) | [All eyes](https://open.spotify.com/album/0r21wMAiDWP95fROuOsBH5) | 3:01 | 2024-02-29 | 2024-03-22 |
 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 | 2023-11-02 | 2024-04-05 |
-| [Allo docteur](https://open.spotify.com/track/7DitnLZ8YxUFdMQ3t0tTXT) | [Virgile Martini](https://open.spotify.com/artist/5kYxARx7UT4CiZw7NaCfOI) | [faux raccords](https://open.spotify.com/album/4g2Fl4O85OW0aUz0toF3PX) | 2:35 | 2026-07-09 |  |
+| [Allo docteur](https://open.spotify.com/track/7DitnLZ8YxUFdMQ3t0tTXT) | [Virgile Martini](https://open.spotify.com/artist/5kYxARx7UT4CiZw7NaCfOI) | [faux raccords](https://open.spotify.com/album/4g2Fl4O85OW0aUz0toF3PX) | 2:35 | 2026-07-09 | 2026-07-17 |
 | [ALLO?C MOI](https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [ALLO?C MOI](https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7) | 2:14 | 2025-01-23 | 2025-05-16 |
 | [Allons Voir](https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Allons Voir](https://open.spotify.com/album/14J8yvy5eUlDnxN266550W) | 3:49 | 2025-06-05 | 2025-10-03 |
 | [Aloha Baby](https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Aloha Baby](https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh) | 6:05 | 2023-09-28 | 2023-12-01 |
@@ -158,7 +158,7 @@
 | [EREX](https://open.spotify.com/track/1feBH7mhbbUMNdNWkQSBmb) | [EREX](https://open.spotify.com/artist/0XnzHfOGCVgYHiIImA595j) | [EREX](https://open.spotify.com/album/3jcZdyIm8YTnqChzI213uU) | 3:28 | 2024-10-17 | 2024-11-08 |
 | [Ex](https://open.spotify.com/track/4VVqf8rxt0CDVRUzDtEEij) | [NAVA](https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj) | [Ex](https://open.spotify.com/album/6uMK3M8ugtSiyL7FSO5wbi) | 2:15 | 2026-05-21 | 2026-07-03 |
 | [Faded](https://open.spotify.com/track/7cLOHXK3Rst9Uhx2e4kbjm) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [PENNY](https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq) | [Faded](https://open.spotify.com/album/2ZhmKc7LGzKJ1s0n5EDwcJ) | 3:18 | 2025-02-20 | 2025-07-04 |
-| [FAIT CH!ER](https://open.spotify.com/track/5W5PQRS3AkYMEpHxBQ8vHx) | [Lotti](https://open.spotify.com/artist/0OftkkBSBrUJBgXgMqhGNV) | [FAIT CH!ER](https://open.spotify.com/album/7j41jeEuoehmZJJIRzISs7) | 2:46 | 2026-06-18 |  |
+| [FAIT CH!ER](https://open.spotify.com/track/5W5PQRS3AkYMEpHxBQ8vHx) | [Lotti](https://open.spotify.com/artist/0OftkkBSBrUJBgXgMqhGNV) | [FAIT CH!ER](https://open.spotify.com/album/7j41jeEuoehmZJJIRzISs7) | 2:46 | 2026-06-18 | 2026-07-17 |
 | [Fakdap](https://open.spotify.com/track/6wDge0SaNwWR4FlLEfOxnM) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Fakdap](https://open.spotify.com/album/5UF9JJt7dcJ7VXcYuZWdg5) | 3:02 | 2025-10-10 | 2025-12-05 |
 | [Fallait pas nous inviter](https://open.spotify.com/track/53DkhqZ9ErzTp68JNI2KEt) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Fallait pas nous inviter](https://open.spotify.com/album/0A6uj8p3OaEdTQn5Uw68L0) | 3:07 | 2025-10-10 | 2025-11-14 |
 | [Feet](https://open.spotify.com/track/454NLXY4WwWj6vkhcQLkvE) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Feet](https://open.spotify.com/album/67ng9BqYRD1F3Wo9QEYaTu) | 3:05 | 2025-09-04 | 2025-11-14 |
@@ -166,6 +166,7 @@
 | [Fire In Higher Ground](https://open.spotify.com/track/4dlJOy0IXON6qP4XsDwmpT) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Fire In Higher Ground](https://open.spotify.com/album/6S1FL1pvdpss8fVA6cK5a8) | 4:52 | 2024-01-18 | 2024-02-09 |
 | [Fièvre !](https://open.spotify.com/track/3lpPRptGix3W5iFSlsCxw8) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Fièvre !](https://open.spotify.com/album/7rFzSd3Tt7ZDIxLtFO2D8J) | 3:36 | 2026-06-18 |  |
 | [FLEMME](https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [FLEMME](https://open.spotify.com/album/179KOwuoogAJN7nKByOBha) | 2:27 | 2025-11-13 | 2026-02-13 |
+| [fleurs](https://open.spotify.com/track/7osDy3z3R1ET3rDB2vvDHs) | [Skabe](https://open.spotify.com/artist/5o5p5gPLO2zKfTi1KZX9sZ) | [fleurs](https://open.spotify.com/album/3Rslr3ps1Vr3rkenXSmJLs) | 1:54 | 2026-07-16 |  |
 | [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 | 2023-12-08 |
 | [Focused](https://open.spotify.com/track/4k9j3QbPco2VqW3w4Wz1Qq) | [PAMELA](https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja) | [Focused](https://open.spotify.com/album/4sbsFxdZAZuiy8Iu6leRe7) | 3:06 | 2024-10-17 | 2025-03-14 |
 | [For You](https://open.spotify.com/track/26mrGVfb3bbXUP1ktG4oNZ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g) | [Décollage](https://open.spotify.com/album/7gmQgiup3PRcGbw97xelQH) | 2:43 | 2026-03-26 |  |
@@ -310,6 +311,7 @@
 | [Léopard](https://open.spotify.com/track/4sIdhUvB6ElG2OcPoqSmFa) | [Louise XIV](https://open.spotify.com/artist/0JScgHZQDr0hurXOyUrK6V) | [Léopard](https://open.spotify.com/album/6qITI8ylTPWwQezC2goMvh) | 3:02 | 2026-06-04 |  |
 | [MA CLAQUE](https://open.spotify.com/track/3xqk6PwiujpbLeblkD02hb) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [MA CLAQUE](https://open.spotify.com/album/0CI5Sv3BtwmyDrUeL07qgf) | 1:52 | 2026-03-12 | 2026-05-08 |
 | [Ma new bb m'attend](https://open.spotify.com/track/0mlNdXS3V7MHctPCW7ZnM0) | [Lakna](https://open.spotify.com/artist/4KPdER6eNWruPkJ8ps4f6c) | [Ma new bb m'attend](https://open.spotify.com/album/2h42JSDjJIAT28kCKoaA5l) | 2:07 | 2026-06-25 |  |
+| [Ma routine sur Vivastreet](https://open.spotify.com/track/6NGKyrt8m0cnhVY3EGGuCY) | [Stanislas](https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1) | [Ma routine sur Vivastreet](https://open.spotify.com/album/63iXUyOAAGlvf2r59NzxUI) | 2:55 | 2026-07-16 |  |
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-09-28 | 2023-11-03 |
 | [Magenta](https://open.spotify.com/track/5tLmCV2kgSqTLVYetgTgBL) | [BLUE GEMINI](https://open.spotify.com/artist/7t8yQWK5A7DIXDJqyoXE3w) | [MIND THE GAP](https://open.spotify.com/album/7kn0CpZlN0CXTrqEvxgGin) | 3:24 | 2026-07-09 |  |
 | [mais le ciel est sublime](https://open.spotify.com/track/5cfD8I77n0o74lx5I6kdjt) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [mais le ciel est sublime](https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl) | 3:44 | 2025-10-23 | 2026-01-24 |

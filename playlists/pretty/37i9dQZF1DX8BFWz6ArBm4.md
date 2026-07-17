@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Oikonomopoulos
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giannis Ploutarhos
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,405 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,403 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enoho Kormi](https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Enoho Kormi](https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P) | 3:39 |
-| 2 | [Tha Tha](https://open.spotify.com/track/6rB1MPGqlPvziOpkYwFoYT) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Tha Tha](https://open.spotify.com/album/5Izp0q7zGruZeSGZgRA49Y) | 2:31 |
-| 3 | [Pou Na Pao](https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Sena Milao](https://open.spotify.com/album/7Iymk9PTs7U1zuTVBff9BZ) | 3:36 |
+| 2 | [S' Agapo San Amartia](https://open.spotify.com/track/3S9BnC9E3a2DmJ8oq6BTwu) | [Giannis Ploutarhos](https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD) | [S' Agapo San Amartia](https://open.spotify.com/album/2hoqDGJphZg8aeWZVGKFKK) | 2:49 |
+| 3 | [Tha Tha](https://open.spotify.com/track/6rB1MPGqlPvziOpkYwFoYT) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Tha Tha](https://open.spotify.com/album/5Izp0q7zGruZeSGZgRA49Y) | 2:31 |
 | 4 | [Ti Gynaika Eisai Esy](https://open.spotify.com/track/4ZMm0xfWp58dWcBfrQ1FrW) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Ti Gynaika Eisai Esy](https://open.spotify.com/album/6yIieDqzL1ASOvYuNHHQ0R) | 3:15 |
 | 5 | [Sta Kalitera Pou Elkontai \- Agapate Katallilous](https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Sta Kalitera Pou Elkontai \(Agapate Katallilous\)](https://open.spotify.com/album/32QmrCVsuU8DqDaQNqw3Y2) | 3:11 |
-| 6 | [Pare Na Exeis](https://open.spotify.com/track/1MGkBi3OFvputs43Hw9z15) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [Pare Na Exeis](https://open.spotify.com/album/7crwOz5bsAg7RxhzDyJtDd) | 3:40 |
+| 6 | [Pou Na Pao](https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Sena Milao](https://open.spotify.com/album/7Iymk9PTs7U1zuTVBff9BZ) | 3:36 |
 | 7 | [Safari](https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Safari](https://open.spotify.com/album/3HpW5sydy4XsJACERKphUg) | 3:14 |
 | 8 | [TA NISIOTIKA PAIDIA](https://open.spotify.com/track/4XDlAln3qATRL5FCZwnny5) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [KABANES](https://open.spotify.com/album/3F8n2brlXT4gorr1ebbyfA) | 3:15 |
 | 9 | [Thimizeis Kati Apo Ellada](https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Thimizeis Kati Apo Ellada](https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 49 | [Na Giriseis Pou](https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Na Giriseis Pou](https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo) | 2:46 |
 | 50 | [Sou Eleipsa H Oxi?](https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Sou Eleipsa H Oxi?](https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI) | 3:59 |
 
-Snapshot ID: `AAAAAFhs5pX5URz7/Q2pA/76EvQws/44`
+Snapshot ID: `AAAAAGM+SdVT+5Z7YtfKebNM/Pmt9uTZ`

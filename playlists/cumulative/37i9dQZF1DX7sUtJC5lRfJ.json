@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A Revolutionary!",
+        "url": "https://open.spotify.com/album/762s1QrK9agznkBaixtpj7"
+      },
+      "artists": [
+        {
+          "name": "Juliet By Night",
+          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265166,
+      "name": "A Revolutionary!",
+      "url": "https://open.spotify.com/track/1ye2QToJ7UzL74NBJf5MnX"
+    },
+    {
+      "album": {
         "name": "Anh S\u1ebd \u0110\u1ebfn Khi Em C\u1ea7n",
         "url": "https://open.spotify.com/album/7MJHLIDJJz2iWwOgWD5iaa"
       },
@@ -260,6 +278,24 @@
       "duration_ms": 192863,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/7326q9PcJDcKuAFcrSkN0t"
+    },
+    {
+      "album": {
+        "name": "Come My Way (softer version)",
+        "url": "https://open.spotify.com/album/43alGrjxDlHq4hrqkiS1mJ"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206461,
+      "name": "Come My Way (softer version)",
+      "url": "https://open.spotify.com/track/331pu1rdL2Yn7Z3F1RNXBR"
     },
     {
       "album": {

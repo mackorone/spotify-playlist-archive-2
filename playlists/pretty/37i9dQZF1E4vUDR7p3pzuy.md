@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With MIK's Reaction, David Von Beahm, Hrafnsson and more
+> With MIK's Reaction, David Von Beahm, JUST LIZZY and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 8 likes - 50 songs - 3 hr 23 min
 

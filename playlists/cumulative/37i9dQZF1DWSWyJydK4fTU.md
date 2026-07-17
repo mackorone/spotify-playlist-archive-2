@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-384 songs - 19 hr 28 min
+385 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-08-29 | 2025-10-10 |
 | [All The Love That I Ever Needed](https://open.spotify.com/track/3iRzKwxzeAiyCnSjrjVCGx) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Who We Used To Be \(Deluxe\)](https://open.spotify.com/album/2aURKhuptoXbOAzoDth1BK) | 3:17 | 2024-06-20 | 2024-08-08 |
 | [Alles nichts ohne dich \- Aus "Die Schule der magischen Tiere 3"](https://open.spotify.com/track/5OF2EQh2WsECvmJElcNod7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Alles nichts ohne dich \(Aus dem Soundtrack zum Kinofilm "Die Schule der magischen Tiere 3"\)](https://open.spotify.com/album/0VlOmFjDw8kUQJGazxYlNV) | 2:17 | 2024-08-30 | 2025-01-10 |
+| [Alles nur für mich](https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Alles nur für mich](https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP) | 2:21 | 2026-07-16 |  |
 | [Almost Me, Almost You](https://open.spotify.com/track/2ZDmomo3jbfpCqJLj7XYFF) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Almost Me, Almost You](https://open.spotify.com/album/67dwW7CahdAhDnPINsCPB6) | 2:48 | 2026-06-18 | 2026-06-26 |
 | [Always on the run](https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Always on the run](https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K) | 3:29 | 2024-06-20 | 2024-07-11 |
 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 | 2024-06-20 | 2024-07-11 |
@@ -157,7 +158,7 @@
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-22 | 2024-12-19 |
 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-09-03 | 2026-01-31 |
 | [Home Pt\. 2](https://open.spotify.com/track/1H52Xqp7dqMUCchXW0dXfv) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Home Pt\. 2](https://open.spotify.com/album/0Ggh3yfGjOr7QGZaafp7Gq) | 2:51 | 2025-06-04 | 2025-11-18 |
-| [Hot Girl Summer](https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Hot Girl Summer](https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV) | 2:42 | 2026-07-10 |  |
+| [Hot Girl Summer](https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Hot Girl Summer](https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV) | 2:42 | 2026-07-10 | 2026-07-17 |
 | [Hotel Heartache](https://open.spotify.com/track/0IKYuqFlAmFkyJMpz2QlbL) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [Hotel Heartache](https://open.spotify.com/album/0lCgZcQptvTLAyLTHZroHN) | 3:05 | 2024-06-20 | 2024-11-14 |
 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-06-20 | 2025-09-13 |
 | [How to Love](https://open.spotify.com/track/74u4UGskQXFkj50uAdYO1t) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [How to Love](https://open.spotify.com/album/6MmuBNWo9jgW9q67FOhajD) | 2:46 | 2025-07-18 | 2025-11-08 |

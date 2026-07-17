@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,483,088 likes - 200 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,483,367 likes - 200 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 199 | [Sundays](https://open.spotify.com/track/5zb3ATDc6t0H7tA0F2y1l8) | [Peqasus](https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD) | [Sundays](https://open.spotify.com/album/5NFESTuPtNwNSLqDMucpf8) | 2:37 |
 | 200 | [Passive Mood](https://open.spotify.com/track/0pjZFtdG8OqxWZ8kwrn5ki) | [Static 99](https://open.spotify.com/artist/3KWyHBYuMIZF9fuhrhGoju) | [Passive Mood](https://open.spotify.com/album/4kDhnQxICloKb250fkTbnr) | 2:19 |
 
-Snapshot ID: `AAAAAD9xGCUXbCY60iDjivDgHe+EyBkr`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

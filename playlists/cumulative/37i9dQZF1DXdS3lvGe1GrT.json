@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ivy Knight",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Maya Donovan",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 472982,
       "name": "Algae Bloom",
       "url": "https://open.spotify.com/track/2xgo1E9g90fftyw6KFgfsa"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 181537,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC"
@@ -5939,6 +5939,24 @@
     },
     {
       "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ"
+      },
+      "artists": [
+        {
+          "name": "Maya Donovan",
+          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192027,
+      "name": "Cephalopods Do",
+      "url": "https://open.spotify.com/track/4qwZ29tDAmGKmNTA9YVbGw"
+    },
+    {
+      "album": {
         "name": "Challenger Deep",
         "url": "https://open.spotify.com/album/3knmKpCfct2IfzWPPwFQjM"
       },
@@ -7348,7 +7366,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 228053,
       "name": "Crackled Grounds",
       "url": "https://open.spotify.com/track/6M18ClPMkQTS7M7hiwgXz2"
@@ -13294,7 +13312,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 276095,
       "name": "Georgia the Ceremonialist",
       "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
@@ -14452,7 +14470,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 205457,
       "name": "Green Wood",
       "url": "https://open.spotify.com/track/3oENjcvjsNwxfB3OPtQGwk"
@@ -15462,7 +15480,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 185289,
       "name": "Hero",
       "url": "https://open.spotify.com/track/3lB4p614IjTS8rFYJS7BsL"
@@ -18743,6 +18761,24 @@
     },
     {
       "album": {
+        "name": "iwtfy",
+        "url": "https://open.spotify.com/album/1rpLkRaC2Q39NNJmDd8H4K"
+      },
+      "artists": [
+        {
+          "name": "sofii",
+          "url": "https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235788,
+      "name": "iwtfy",
+      "url": "https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH"
+    },
+    {
+      "album": {
         "name": "I\u2019m As High As A Summer Breeze / The Numbers",
         "url": "https://open.spotify.com/album/2Teh2SobRsCVneuQ9PUimC"
       },
@@ -18794,7 +18830,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 215715,
       "name": "I\u2019m Still Learning How To Leave You",
       "url": "https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ"
@@ -18888,6 +18924,28 @@
       "duration_ms": 198375,
       "name": "jane doe",
       "url": "https://open.spotify.com/track/0cXvxyqgSGgRcIYbvUIre1"
+    },
+    {
+      "album": {
+        "name": "janie!",
+        "url": "https://open.spotify.com/album/02cW3O8IYROH1zZiXaDCtT"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        },
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "janie!",
+      "url": "https://open.spotify.com/track/2TKDwjdp5oLah1otwcctNY"
     },
     {
       "album": {
@@ -20512,6 +20570,24 @@
       "duration_ms": 146750,
       "name": "Letters",
       "url": "https://open.spotify.com/track/3KQcNnIIXCN4V8uvDs1dd5"
+    },
+    {
+      "album": {
+        "name": "Levers and Pulleys",
+        "url": "https://open.spotify.com/album/5TnZxoTV1XON9CIAlXuMhz"
+      },
+      "artists": [
+        {
+          "name": "kole\u017canka",
+          "url": "https://open.spotify.com/artist/3u4dOU5Uc471ciIiPBTohL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273840,
+      "name": "Levers and Pulleys",
+      "url": "https://open.spotify.com/track/4Lb8OAcJUZgJLj9rWh9zDs"
     },
     {
       "album": {
@@ -22502,7 +22578,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 258537,
       "name": "Meaning Business",
       "url": "https://open.spotify.com/track/7b8Q7CPNLqnsHj8jwJKQ2x"
@@ -26914,7 +26990,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 211670,
       "name": "Pitch Boats",
       "url": "https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a"
@@ -27152,6 +27228,24 @@
       "duration_ms": 193250,
       "name": "Porchlight",
       "url": "https://open.spotify.com/track/03Qu8apIa8W3UetNYa4jX6"
+    },
+    {
+      "album": {
+        "name": "Portal to the Past",
+        "url": "https://open.spotify.com/album/6cUZeY1E3OX3E7GTZBhmpI"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422306,
+      "name": "Portal to the Past",
+      "url": "https://open.spotify.com/track/739dDUpE5EOSRxWp3v79Rh"
     },
     {
       "album": {
@@ -28870,7 +28964,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 154737,
       "name": "S'mores",
       "url": "https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR"
@@ -33742,6 +33836,24 @@
       "duration_ms": 292873,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/7yBev3sjAPXaUdOf1gZB4K"
+    },
+    {
+      "album": {
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165084,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
     },
     {
       "album": {

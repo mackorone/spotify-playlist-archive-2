@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Marcus Harvey",
+  "description": "The best in South African and international R&B. Cover: Syd",
   "name": "R&Beats",
   "tracks": [
     {
@@ -180,6 +180,28 @@
       "duration_ms": 166324,
       "name": "500 Days of Summer",
       "url": "https://open.spotify.com/track/3fMCLPuV1KFyI7Muwn1Zj1"
+    },
+    {
+      "album": {
+        "name": "GEN Z",
+        "url": "https://open.spotify.com/album/3n4hV3tNr2aCbqxMyIQ9qi"
+      },
+      "artists": [
+        {
+          "name": "Leo Brenin",
+          "url": "https://open.spotify.com/artist/0R9cTlSM85dXQ5PPEXMWrn"
+        },
+        {
+          "name": "HENNYBELIT",
+          "url": "https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216115,
+      "name": "6AM",
+      "url": "https://open.spotify.com/track/6qXfFSxK7k9OEThbTc2BVR"
     },
     {
       "album": {
@@ -630,6 +652,28 @@
       "duration_ms": 194489,
       "name": "Another Episode",
       "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
+    },
+    {
+      "album": {
+        "name": "Any Time (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
     },
     {
       "album": {
@@ -2106,7 +2150,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 213445,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/5e1GlV6qlEKrlnif3SMBa1"
@@ -2343,6 +2387,28 @@
     },
     {
       "album": {
+        "name": "Danko",
+        "url": "https://open.spotify.com/album/2NX9DrSVnHXagK58SlOY9y"
+      },
+      "artists": [
+        {
+          "name": "WNDRSZN",
+          "url": "https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ"
+        },
+        {
+          "name": "Lia Butler",
+          "url": "https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Danko",
+      "url": "https://open.spotify.com/track/6GWY5gmArmervDEx5ICSgV"
+    },
+    {
+      "album": {
         "name": "UMvulo",
         "url": "https://open.spotify.com/album/1kLI0vlggjDZT03AhIIaXY"
       },
@@ -2560,7 +2626,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 195279,
       "name": "DIAMOND GOLD",
       "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
@@ -2622,7 +2688,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
@@ -4590,7 +4656,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 181706,
       "name": "heal something",
       "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
@@ -4674,6 +4740,24 @@
       "duration_ms": 138138,
       "name": "Heat",
       "url": "https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig"
+    },
+    {
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
       "album": {
@@ -5214,7 +5298,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 205066,
       "name": "idea 1",
       "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
@@ -5730,6 +5814,24 @@
       "duration_ms": 192000,
       "name": "Iskhathi",
       "url": "https://open.spotify.com/track/1f2AD0tHrms0NXz5CwtHGu"
+    },
+    {
+      "album": {
+        "name": "Ntombi kaDJ",
+        "url": "https://open.spotify.com/album/5B3cDLkU1PRbFx7CYLg1xh"
+      },
+      "artists": [
+        {
+          "name": "Nirvana Nokwe",
+          "url": "https://open.spotify.com/artist/5wxZc7b6Z7ZowgvLd0KZ10"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261618,
+      "name": "Is\u2019khathi",
+      "url": "https://open.spotify.com/track/4y6Rk32cTn7TLWzXHp3ri1"
     },
     {
       "album": {
@@ -7626,7 +7728,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 254015,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
@@ -12774,6 +12876,24 @@
       "duration_ms": 162313,
       "name": "Wild Ride - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+    },
+    {
+      "album": {
+        "name": "Will I Ever",
+        "url": "https://open.spotify.com/album/3bn7Spivraykfe7BqoZUgj"
+      },
+      "artists": [
+        {
+          "name": "Rehsa",
+          "url": "https://open.spotify.com/artist/4LAzTlAerez2KIQhodG2Po"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217682,
+      "name": "Will I Ever",
+      "url": "https://open.spotify.com/track/2dSETOXRgjDX0yvYbATcTA"
     },
     {
       "album": {

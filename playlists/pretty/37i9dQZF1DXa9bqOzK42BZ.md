@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks.Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,144 likes - 102 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,162 likes - 102 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

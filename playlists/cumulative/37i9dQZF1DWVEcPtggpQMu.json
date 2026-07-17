@@ -413,6 +413,32 @@
     },
     {
       "album": {
+        "name": "7Colours",
+        "url": "https://open.spotify.com/album/20xuL3D0vXZtucPFmdmp48"
+      },
+      "artists": [
+        {
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209244,
+      "name": "7Colours",
+      "url": "https://open.spotify.com/track/3fk9lFLHsJYD9kJv7ifdO1"
+    },
+    {
+      "album": {
         "name": "80's Love",
         "url": "https://open.spotify.com/album/6ikzhi2Y1rW1gsyljgWQ57"
       },
@@ -1902,7 +1928,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 154285,
       "name": "Backpack (feat. KindlyNxsh)",
       "url": "https://open.spotify.com/track/6w62RmetSuI09O6E308zxz"
@@ -1990,7 +2016,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 269504,
       "name": "Bade Lami",
       "url": "https://open.spotify.com/track/7eRi1pVuhTBdUi7BoMytyl"
@@ -14773,6 +14799,32 @@
     },
     {
       "album": {
+        "name": "Runtime",
+        "url": "https://open.spotify.com/album/2Z69ukzeRQgDkKLLLycM7J"
+      },
+      "artists": [
+        {
+          "name": "Mr McAwesomeson",
+          "url": "https://open.spotify.com/artist/7gmdVnZRexj0rOtznfmRNC"
+        },
+        {
+          "name": "LuNje",
+          "url": "https://open.spotify.com/artist/31lmDm2MykDpZrS35UjfSu"
+        },
+        {
+          "name": "Mvxo53",
+          "url": "https://open.spotify.com/artist/33Pu0Ndcc4riQ2iuAzmvnX"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168473,
+      "name": "Nike (Pull Up)",
+      "url": "https://open.spotify.com/track/1Y9guPEgJpqQRTR3gz0yFW"
+    },
+    {
+      "album": {
         "name": "Nithini?",
         "url": "https://open.spotify.com/album/1MHHK9qBqZHu7nvDx7xnl0"
       },
@@ -15020,7 +15072,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 185052,
       "name": "No Niggas (Like Me)",
       "url": "https://open.spotify.com/track/7IoUvx7HG50MoRAcUEDV0G"
@@ -15268,7 +15320,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 190000,
       "name": "Nombolo",
       "url": "https://open.spotify.com/track/6pXNT3NpkgRODpPEoZclnU"
@@ -17050,6 +17102,40 @@
       "duration_ms": 124800,
       "name": "Qosh",
       "url": "https://open.spotify.com/track/1XmwwEJTuSmluPvm7LeCZe"
+    },
+    {
+      "album": {
+        "name": "QUICK BAQA (feat. Jepedoh & Dahoodhope) [FREESTYLE PT2]",
+        "url": "https://open.spotify.com/album/0l6wSPa0AdB8dEnVBRWxzN"
+      },
+      "artists": [
+        {
+          "name": "C-SIDE BOYZ",
+          "url": "https://open.spotify.com/artist/4PPK6oFQ6pWAKcrRZV1GM4"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "K1llbrady",
+          "url": "https://open.spotify.com/artist/3sQxTONLeFDlnXKCbOKuPv"
+        },
+        {
+          "name": "Jepedoh",
+          "url": "https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ"
+        },
+        {
+          "name": "Dahoodhope",
+          "url": "https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "QUICK BAQA (feat. Jepedoh & Dahoodhope) [ FREESTYLE PT2]",
+      "url": "https://open.spotify.com/track/1s1Jz5huO4NZMt3xdMn8WQ"
     },
     {
       "album": {
@@ -21174,6 +21260,36 @@
       "duration_ms": 322746,
       "name": "THAT'S WASSUP (feat. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.)",
       "url": "https://open.spotify.com/track/320Y857NSRG3QtS9ggTG8E"
+    },
+    {
+      "album": {
+        "name": "The 021",
+        "url": "https://open.spotify.com/album/3gPkjerOCUV2YQSAzrYQi6"
+      },
+      "artists": [
+        {
+          "name": "Shaney Jay",
+          "url": "https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh"
+        },
+        {
+          "name": "Chaise Williams",
+          "url": "https://open.spotify.com/artist/668KBQvDxcLtxXqpEtdD3z"
+        },
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "The 021",
+      "url": "https://open.spotify.com/track/4zo19S9xGo5yHwr0R5FC3k"
     },
     {
       "album": {

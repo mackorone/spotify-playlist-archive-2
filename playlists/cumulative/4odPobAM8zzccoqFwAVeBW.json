@@ -598,7 +598,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 110000,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2JOVuvimPZcBXi8CKuHxgc"
@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Barking at the Sun",
+        "url": "https://open.spotify.com/album/5TEYdGlOW2Wf1n2ueHF7VA"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309410,
+      "name": "Barking at the Sun",
+      "url": "https://open.spotify.com/track/3pChjptcz3GPxDUYldp7Dr"
+    },
+    {
+      "album": {
         "name": "Little Death Project",
         "url": "https://open.spotify.com/album/7g5rQVyNFuscrvWXVasCr7"
       },
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 169758,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/26pfzjxjrZ2w85dd4USza3"
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 353311,
       "name": "Bill Norrie",
       "url": "https://open.spotify.com/track/1lCgl51eboNVybb9Bjmu42"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 215733,
       "name": "Bird on a Wire",
       "url": "https://open.spotify.com/track/4aMEdfT6YS1nY7OWFdDEGS"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 220000,
       "name": "Caught Myself",
       "url": "https://open.spotify.com/track/5Kv9qIWLOWohAALI6qrEss"
@@ -2437,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Claw Machine",
+        "url": "https://open.spotify.com/album/66PG6c9wUnw2vHUcUHowxT"
+      },
+      "artists": [
+        {
+          "name": "Robo",
+          "url": "https://open.spotify.com/artist/3U041FxU4RcB1Bo1EsGYLX"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238008,
+      "name": "Claw Machine",
+      "url": "https://open.spotify.com/track/3zXvtBW0FPyiks4x7z7St5"
+    },
+    {
+      "album": {
         "name": "Clipping",
         "url": "https://open.spotify.com/album/2Tb0ajU7ZnOEAGBsWMe5bw"
       },
@@ -2484,7 +2520,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 403326,
       "name": "CLOCKS",
       "url": "https://open.spotify.com/track/6lTjS8vPXfxOMnVi2Q6lxm"
@@ -3132,7 +3168,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 269946,
       "name": "Dark Clouds",
       "url": "https://open.spotify.com/track/2tloVsMfcwHkZnk1TcRWhi"
@@ -3522,7 +3558,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 468648,
       "name": "Dhalgren (Nihilism is Not Enough)",
       "url": "https://open.spotify.com/track/7dmgn1ThtSyxuJSKICQWsV"
@@ -4048,7 +4084,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 537655,
       "name": "Drone Mountain",
       "url": "https://open.spotify.com/track/4c9Xm2qwab9rRJPj8It8nk"
@@ -4088,6 +4124,28 @@
       "duration_ms": 180594,
       "name": "Dying On The Vine",
       "url": "https://open.spotify.com/track/3gRRAHaU8D01tnweUCfhhf"
+    },
+    {
+      "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/1lsXXhSsynY9En7OALgEkn"
+      },
+      "artists": [
+        {
+          "name": "Ken Ueno",
+          "url": "https://open.spotify.com/artist/1qXJ8mLxmIVUJbDOhT9vKW"
+        },
+        {
+          "name": "Wukir Suryadi",
+          "url": "https://open.spotify.com/artist/58SljsWsn1SnpBcuAO12k1"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3543865,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2ShEyBFPKNW4ACwIFzvaUk"
     },
     {
       "album": {
@@ -4426,7 +4484,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 254815,
       "name": "Ephus roundshot & floater",
       "url": "https://open.spotify.com/track/1JC0t7HOWq48UWWFxA2Xgv"
@@ -4614,6 +4672,24 @@
       "duration_ms": 260213,
       "name": "Face Catalyst",
       "url": "https://open.spotify.com/track/1YDZVYx6l9KaxBMWTsz6MT"
+    },
+    {
+      "album": {
+        "name": "Factors Of Eight",
+        "url": "https://open.spotify.com/album/36kfqT6wN4IoDRr8cV4NB7"
+      },
+      "artists": [
+        {
+          "name": "Fupper",
+          "url": "https://open.spotify.com/artist/6zVKUj1dH2xdKH9TpQZtav"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Factors Of Eight",
+      "url": "https://open.spotify.com/track/7fb1EDdaYuWt18vQzrNZkH"
     },
     {
       "album": {
@@ -5120,7 +5196,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 290823,
       "name": "Fool's Errand",
       "url": "https://open.spotify.com/track/6yBaePqDmwNru6aUVhX9Fj"
@@ -5200,7 +5276,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 251600,
       "name": "Foreign Agent",
       "url": "https://open.spotify.com/track/12uL1PVpZ4sexQzBA8vKjk"
@@ -5384,7 +5460,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 415848,
       "name": "Freedom is the Mole who will turn the world upside down",
       "url": "https://open.spotify.com/track/5bx3SuiWsk51p1vGBkJ6lM"
@@ -6140,6 +6216,24 @@
       "duration_ms": 579709,
       "name": "Hair Of The Dog",
       "url": "https://open.spotify.com/track/4hT2lThFBZqgJB2v0c0Hcy"
+    },
+    {
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/6LqLuY7kj8aBZkWEZHV0s4"
+      },
+      "artists": [
+        {
+          "name": "That Old Quiet Lighthouse",
+          "url": "https://open.spotify.com/artist/1DwK7nnUIs4J2FDVoVNj5q"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312199,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/7jg72PMbaPCi5cYIuLjK5t"
     },
     {
       "album": {
@@ -6900,7 +6994,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 290607,
       "name": "I Don't Wanna Dance",
       "url": "https://open.spotify.com/track/7g9eSUwE5TtqW6hfNpnrMq"
@@ -6954,7 +7048,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 191890,
       "name": "I Wanna Be Sherlock Holmes",
       "url": "https://open.spotify.com/track/77OSl1cOrziesntLxoQVIg"
@@ -7370,7 +7464,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 346019,
       "name": "Isolation's Hold",
       "url": "https://open.spotify.com/track/22FN4cWa9Ppa0LoFEhTSIS"
@@ -7718,7 +7812,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 221482,
       "name": "K-Swiss",
       "url": "https://open.spotify.com/track/7u5MGB2RMGF7sTfuu95DeN"
@@ -8574,7 +8668,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 252380,
       "name": "Locked in Glaciers - Live at Cafe Oto",
       "url": "https://open.spotify.com/track/7aqJC8nHgoIiAwxSU6pFhT"
@@ -9826,7 +9920,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 256200,
       "name": "My Oh My!",
       "url": "https://open.spotify.com/track/2bXsnSBvQeQlTxLPEuyv49"
@@ -12125,6 +12219,24 @@
     },
     {
       "album": {
+        "name": "Save Your Breath",
+        "url": "https://open.spotify.com/album/1BNhDhy2yJxJyd2KSOWJ7x"
+      },
+      "artists": [
+        {
+          "name": "Castles in Space",
+          "url": "https://open.spotify.com/artist/6KgP3Vu8ArSbbt33znD3ij"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197893,
+      "name": "Save Your Breath",
+      "url": "https://open.spotify.com/track/1Ebd6HU4cfAybad0PnBIXL"
+    },
+    {
+      "album": {
         "name": "Sawt El Doumouh \u0635\u0648\u062a \u0627\u0644\u062f\u0645\u0648\u0639",
         "url": "https://open.spotify.com/album/0NmBsHbDAao0tFx30wK4Jg"
       },
@@ -12244,7 +12356,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 198240,
       "name": "Seeing Double",
       "url": "https://open.spotify.com/track/4x7s9DvI8hJCqwYGHaAywz"
@@ -12640,7 +12752,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 339146,
       "name": "Silver Lips (Champagne Eyes)",
       "url": "https://open.spotify.com/track/3yrEZF5UvbdnpcWdXwPAbm"
@@ -13601,6 +13713,24 @@
     },
     {
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/3KOyoe3uzBmoUYePQlug76"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161358,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/0FmdOb1pPYH6yQKnJVKSpY"
+    },
+    {
+      "album": {
         "name": "Pantomime Of Power",
         "url": "https://open.spotify.com/album/3r8sLU1IwSLHG2chagfKZT"
       },
@@ -13937,6 +14067,24 @@
     },
     {
       "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6ZUmiLywnQFNRcnb0sqPvI"
+      },
+      "artists": [
+        {
+          "name": "The Klittens",
+          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309946,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5"
+    },
+    {
+      "album": {
         "name": "Tears for Leda",
         "url": "https://open.spotify.com/album/0lEZvf7mWOoW0BLAAxWKEu"
       },
@@ -14222,7 +14370,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 316506,
       "name": "The Breath Of Now",
       "url": "https://open.spotify.com/track/6thcn5Bl1Y0LZi6W0CXo5o"
@@ -14738,7 +14886,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 257000,
       "name": "The Long Way Round",
       "url": "https://open.spotify.com/track/3wsIYveXLIwasI6n6E4Rps"
@@ -15034,7 +15182,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 200262,
       "name": "The Sounders",
       "url": "https://open.spotify.com/track/1icrbIj1iz1tGCMgPcvRpO"
@@ -15500,7 +15648,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 357467,
       "name": "Too Human - The Bug Remix",
       "url": "https://open.spotify.com/track/7IHeuKanVix9KUjxFtw0vi"
@@ -15742,7 +15890,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 200306,
       "name": "Tum Hi Ho",
       "url": "https://open.spotify.com/track/6dCtcnJyIWdMn8jeBzt4ox"
@@ -15890,7 +16038,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 173890,
       "name": "Under A Cat",
       "url": "https://open.spotify.com/track/0vmFNiiV4vAqgy8UfxTwQv"
@@ -16692,7 +16840,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 330493,
       "name": "Whistling On A Tuesday",
       "url": "https://open.spotify.com/track/5pgWetZmNHFtyi40i9rRQn"

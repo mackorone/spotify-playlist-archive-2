@@ -9503,6 +9503,24 @@
     },
     {
       "album": {
+        "name": "Hi, how are you?",
+        "url": "https://open.spotify.com/album/6J49rSwodMY44OCQu7qniN"
+      },
+      "artists": [
+        {
+          "name": "Itto",
+          "url": "https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123320,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/5bestZt46OdvNlVVCnSwA8"
+    },
+    {
+      "album": {
         "name": "Chip 'n' Dale",
         "url": "https://open.spotify.com/album/1JZbTUTU9isyKqsyMLBA2Q"
       },
@@ -42991,6 +43009,36 @@
     },
     {
       "album": {
+        "name": "Slide Up (WYFL Freestyle)",
+        "url": "https://open.spotify.com/album/7bpMfBeVgzjvXJEX8mshr2"
+      },
+      "artists": [
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        },
+        {
+          "name": "C6ix",
+          "url": "https://open.spotify.com/artist/4g0NGiHJAVMSqJKTCtzZzE"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Slide Up (WYFL Freestyle)",
+      "url": "https://open.spotify.com/track/6w0929uqIkazrRPnvqf5Vg"
+    },
+    {
+      "album": {
         "name": "Slither.io",
         "url": "https://open.spotify.com/album/2MzQmBx7P0FQKztu5HIkEE"
       },
@@ -54340,6 +54388,24 @@
       "duration_ms": 156362,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3HePCoxA2XO1Q1Mq7f0Xm0"
+    },
+    {
+      "album": {
+        "name": "MEGADAIKIMATIAS",
+        "url": "https://open.spotify.com/album/2fVDoEEfLFbermgvk7ZCMp"
+      },
+      "artists": [
+        {
+          "name": "dodo",
+          "url": "https://open.spotify.com/artist/1YwZlTKyH1RiGnCDb8O7TT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207222,
+      "name": "Ztie",
+      "url": "https://open.spotify.com/track/1QCeii613h8YHJ2cnmApec"
     },
     {
       "album": {

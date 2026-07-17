@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,888 songs - 4 day 9 hr 35 min
+1,889 songs - 4 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Everlasting](https://open.spotify.com/track/5h4UZYPdF9QDl5qDqDs2E1) | [Hurricane 5AM](https://open.spotify.com/artist/00XYXkpt3uf0cMhNoffCRO) | [Badlands](https://open.spotify.com/album/6Arc9qH9m1rBnpfPtuneAn) | 3:03 | 2026-07-14 |  |
 | [Every Noise at Once](https://open.spotify.com/track/6Q0czMcpUP3BWKV5CJDLaE) | [Good Rifles](https://open.spotify.com/artist/44Aq2HIdcKz37kU4ZwKbXG) | [Every Noise at Once](https://open.spotify.com/album/5dtiaOmJcas10BtPy1NhjW) | 3:00 | 2026-03-12 | 2026-04-13 |
 | [Everybody Thinks That I'm Alive](https://open.spotify.com/track/7lbQJyzKZhdRWMYNn0ENrx) | [Archi Deep](https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl) | [Everybody Thinks That I'm Alive](https://open.spotify.com/album/1y3hIhI380EeR1fguKZpey) | 3:34 | 2026-01-24 | 2026-02-25 |
+| [Everything I Ever Wanted](https://open.spotify.com/track/12GZH8VjSHd2KIr62YI1qA) | [Kodin Hill 'N The Pressed Pills](https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy) | [Pressing Matters!](https://open.spotify.com/album/2JtHj97SK3YiIVHj2HD7uM) | 1:52 | 2026-07-16 |  |
 | [Everything Is Forever Until It Ends](https://open.spotify.com/track/50pDOdKch7VKkPlxfV2wNf) | [Choke Me](https://open.spotify.com/artist/5Ji5zIC9jDr563Yk1S2vrv) | [A Violent Phenomenon](https://open.spotify.com/album/00oDEbz2icsIehvpXeYHF9) | 2:50 | 2026-05-01 | 2026-06-02 |
 | [EViL<>DiscO](https://open.spotify.com/track/3w1XPuH9KdQ0hqk5osPHfq) | [Mission Stark](https://open.spotify.com/artist/252sia2rdafviOs3V9aRjT) | [EViL<>DiscO](https://open.spotify.com/album/18SGpV863owaQFdmpcVxBO) | 2:27 | 2026-05-31 | 2026-07-04 |
 | [Ex Girlfriend](https://open.spotify.com/track/0AQI31tqemLkId6uicuVYh) | [Dead Villains](https://open.spotify.com/artist/315Br0iDyHYZLUkTzVffcF) | [Ex Girlfriend](https://open.spotify.com/album/3fBtsmbds3SVUBxnNhs9Tm) | 3:15 | 2026-03-20 | 2026-04-17 |
@@ -645,7 +646,7 @@
 | [Glossy Cover](https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw) | [Vasch](https://open.spotify.com/artist/5cOG2PUwppnjhU7rlWLeaY) | [Glossy Cover](https://open.spotify.com/album/0fC5YSOcEvWVE1SIMUuLgg) | 3:02 | 2025-12-25 | 2026-01-15 |
 | [Gloucester](https://open.spotify.com/track/1L2P2iZ5ArV8n7aNNL51jU) | [Little Low](https://open.spotify.com/artist/02N3dV1Ps0DjwAWibzdrt5), [The Punk Cellist](https://open.spotify.com/artist/6XEij6SoYcsbC4IHC37iq8) | [Sunshine Guilt](https://open.spotify.com/album/4P8PeTh4Aob6NFACa6ZSAq) | 3:07 | 2026-06-20 |  |
 | [Gnorts, Mr\. Alien](https://open.spotify.com/track/1ZFXuSp0yPFYdQfYdIyARS) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:54 | 2025-08-03 | 2026-05-30 |
-| [Go Fish](https://open.spotify.com/track/3wusci1UD9vUMBi4HPGlLJ) | [Gooseberry](https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV) | [Go Fish](https://open.spotify.com/album/5moPphgJ9xbmKs3AbVPJ5s) | 3:49 | 2026-06-15 |  |
+| [Go Fish](https://open.spotify.com/track/3wusci1UD9vUMBi4HPGlLJ) | [Gooseberry](https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV) | [Go Fish](https://open.spotify.com/album/5moPphgJ9xbmKs3AbVPJ5s) | 3:49 | 2026-06-15 | 2026-07-17 |
 | [Goat Fucker](https://open.spotify.com/track/2TOTFlTDVZFxDqJY0sef7O) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 4:04 | 2025-11-19 | 2025-12-10 |
 | [goblins](https://open.spotify.com/track/5LX38WOdERwGOvdUqeyJDU) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [goblins](https://open.spotify.com/album/2y5FWPfNexTfC3vRjFLwC9) | 4:20 | 2025-09-03 |  |
 | [goblins \(nosebleed edit\)](https://open.spotify.com/track/2uQFUzUxYVXveO2FF9cpRX) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [goblins](https://open.spotify.com/album/2y5FWPfNexTfC3vRjFLwC9) | 2:00 | 2025-09-03 |  |
@@ -1670,7 +1671,7 @@
 | [This Pain](https://open.spotify.com/track/1jHCYraEt2HLmrPTFiIdCl) | [Marie.B](https://open.spotify.com/artist/5nFwxzI5XI3qFry9TBOdn6) | [This Pain](https://open.spotify.com/album/0A4IIgGhPaqd0zIvGvq0gF) | 2:52 | 2026-04-20 | 2026-05-30 |
 | [Three Cheers for War](https://open.spotify.com/track/1IzgYJDOJLUr3WpDosOWIM) | [Revelations Align Hope](https://open.spotify.com/artist/2HQo39t4GpRmOUtioBrAh1) | [Three Cheers for War](https://open.spotify.com/album/2sSIKVnorHtyS1OcBFxJmx) | 2:53 | 2026-04-08 | 2026-05-10 |
 | [Through The Fallen Ashes](https://open.spotify.com/track/6Qnc9YhlHkd9NhIFIcQ1js) | [Approaching Autumn](https://open.spotify.com/artist/54qq77ZcaUyPqyE0nyFdD3) | [Homecoming](https://open.spotify.com/album/1nG4lXC5HsfdN8Jph8p5lg) | 3:17 | 2026-04-24 | 2026-05-26 |
-| [Ticket to Paradise](https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA) | [Supa Dupa Supa Punk](https://open.spotify.com/artist/5OfotB00RVZqUAHPBpJaEZ) | [SDSP](https://open.spotify.com/album/7zf869CJmttxZ2Orleeep4) | 3:54 | 2026-06-15 |  |
+| [Ticket to Paradise](https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA) | [Supa Dupa Supa Punk](https://open.spotify.com/artist/5OfotB00RVZqUAHPBpJaEZ) | [SDSP](https://open.spotify.com/album/7zf869CJmttxZ2Orleeep4) | 3:54 | 2026-06-15 | 2026-07-17 |
 | [TIED UP](https://open.spotify.com/track/3tggEoSWUYosNCUFeLkGNX) | [Yugs](https://open.spotify.com/artist/4GjfiH7lIFZp0X5SF3LbEP), [sunstoney](https://open.spotify.com/artist/3oLuCerqscBRek7Nw9mpqL) | [TIED UP](https://open.spotify.com/album/3gdD2lLCx8X0K1p3O6SYuZ) | 2:59 | 2026-04-27 | 2026-05-29 |
 | [Time](https://open.spotify.com/track/2uUj58mbpiYpOIugioSG2c) | [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Time](https://open.spotify.com/album/4wQ7eu9AMXfpyUnu0DU91J) | 2:25 | 2026-02-02 | 2026-02-27 |
 | [Time](https://open.spotify.com/track/2rHVVmB9ZmvHeLXIzApXsT) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:03 | 2025-12-28 | 2026-01-22 |

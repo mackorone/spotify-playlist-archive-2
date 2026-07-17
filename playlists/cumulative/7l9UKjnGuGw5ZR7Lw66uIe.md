@@ -4,12 +4,13 @@
 
 > neler yaşamışım ben ya...
 
-44 songs - 2 hr 5 min
+46 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alıştım Zehrine](https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Alıştım Zehrine](https://open.spotify.com/album/6xL4FouxMMHxeQjbMJZNn0) | 2:39 | 2023-10-12 |  |
 | [alıştım zehrine](https://open.spotify.com/track/3jkf9V7EeZCXkUiXaklsPO) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [alıştım zehrine](https://open.spotify.com/album/4xtGQOKRGRTBtKCxA1xJuk) | 2:39 | 2022-07-29 |  |
+| [Amadeyim Emrine](https://open.spotify.com/track/2QfoZEbanUUXZZWQJQmSkn) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Kavi](https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst) | 3:15 | 2026-07-16 |  |
 | [Benim Hatam](https://open.spotify.com/track/46Ebc31kxd3o3FVM2PovWy) | [Gizem](https://open.spotify.com/artist/3igRNd6ybREmpQOjHnWZyU) | [Benim Hatam](https://open.spotify.com/album/2KKKUPW7ouGBxrEjQSuDjQ) | 2:08 | 2024-03-01 |  |
 | [Bilen Varsa](https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Bilen Varsa](https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA) | 2:20 | 2026-03-12 |  |
 | [Derin Mevzular](https://open.spotify.com/track/65jBnp5troNslpir74QATL) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Derin Mevzular](https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX) | 2:51 | 2023-06-24 |  |
@@ -24,6 +25,7 @@
 | [Kim Özleyecek](https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kim Özleyecek](https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ) | 2:48 | 2026-05-15 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-23 |  |
 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 | 2025-11-06 |  |
+| [Nankördük](https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Kavi](https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst) | 3:44 | 2026-07-16 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-01-26 | 2024-08-10 |
 | [Olay Mahalli](https://open.spotify.com/track/3rVQ8J2B7CjVxyRZuQKYJU) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 3:09 | 2026-06-05 |  |
 | [Paranoya](https://open.spotify.com/track/6J3XfN1PEtqjR6Snop9hY3) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Olay Mahalli](https://open.spotify.com/album/7dCbyl9MY5FnmDx5fnmdfV) | 3:08 | 2026-06-05 |  |

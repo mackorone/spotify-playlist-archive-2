@@ -1,15 +1,31 @@
 {
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Illusionize, DJ Glen, Nana Torres",
-  "num_followers": 916559,
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: INNDRIVE",
+  "num_followers": 916497,
   "original_name": "mint brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAazSyPLmw4rzz66jBMkd7y2+oTS",
+  "snapshot_id": "AAAAAO37lsxDPJKHq4CcxBUF5ifNXu/5",
   "tracks": [
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4kJF3BV5d18wi2BsEWdxv8"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2zWuofQhXXENmYn7T10Cr4"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Saturn Storm",
         "url": "https://open.spotify.com/album/1U19xKKGgUTdIx4ITVB7cG"
@@ -33,7 +49,7 @@
       "url": "https://open.spotify.com/track/3hTphn9Yj76uUJe3mZDbq0"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/2r6q6PurKAaN31ws05LZKC"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/2X3MVthrKaaP8RbrEen8UJ"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Time (Party Alarm)",
         "url": "https://open.spotify.com/album/4ITRu0RQy4jy0BZ3boPguU"
@@ -69,23 +85,7 @@
       "url": "https://open.spotify.com/track/48tNZZ9KN2VCW3kW7ncsRD"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/4kJF3BV5d18wi2BsEWdxv8"
-      },
-      "artists": [
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/2zWuofQhXXENmYn7T10Cr4"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/0QIhWrS61ESZsQ2HnNTDFK"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/3x485UchDgT9jdncu4TMFw"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "Anaconda",
+        "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 216861,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/52aIs9XfDwcst8addTu7qY"
@@ -129,7 +145,23 @@
       "url": "https://open.spotify.com/track/5Tq2WD8fDVe35rzzDqkE6t"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4mQiX0seWI4JlFTYIWPuJB"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0PzuMwaIVK0qJTEY7Me3Wx"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "There Goes My Shirt",
         "url": "https://open.spotify.com/album/0qtMGp9dk0zrD0jR2CSG0z"
@@ -145,7 +177,39 @@
       "url": "https://open.spotify.com/track/7DI1c3jew6kEmj9yJQwixI"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/7jA0S0W7JIEWmo8BbtYa0J"
+      },
+      "artists": [
+        {
+          "name": "GOBAITH",
+          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/63qvrFN0f14mwyzRVmvaL2"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/5snpsCc6Sq0mdkcaNr1SYO"
+      },
+      "artists": [
+        {
+          "name": "Kyllow",
+          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
+        }
+      ],
+      "duration_ms": 261190,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/7cajEM2thmgQti2YN5tBDZ"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI"
@@ -161,7 +225,31 @@
       "url": "https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "Bad Choices",
+        "url": "https://open.spotify.com/album/3ADZV1vMCEWmUS9IaNqQ1W"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Bad Choices",
+      "url": "https://open.spotify.com/track/0YpZz0Ip2TGdFv24Pqmlvk"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Nexus 002",
         "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
@@ -177,7 +265,7 @@
       "url": "https://open.spotify.com/track/5pLFOpNdud49iK0GHLgFbE"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Keep On Dancing",
         "url": "https://open.spotify.com/album/4xLE45T0CXiq9Ht7Fd9nG5"
@@ -197,7 +285,31 @@
       "url": "https://open.spotify.com/track/41I6VRCOvauu53kjGvNoAy"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "Infinity (ANNA Remix)",
+        "url": "https://open.spotify.com/album/3Ly57GJ0ZuI7hTAsKEVkyP"
+      },
+      "artists": [
+        {
+          "name": "Captain Hook",
+          "url": "https://open.spotify.com/artist/5xnZNDl118VvPTvthujxpx"
+        },
+        {
+          "name": "Ritmo",
+          "url": "https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 401777,
+      "name": "Infinity - ANNA remix",
+      "url": "https://open.spotify.com/track/5sdjTwc8YOrgGCV7sl7jq5"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Where U Go",
         "url": "https://open.spotify.com/album/0LREfFtoY3yU2o9GQG4zNa"
@@ -217,7 +329,7 @@
       "url": "https://open.spotify.com/track/7yzFmC4PBfAu50HgJbRlLg"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/6q1F2vHv0r7z38IafdnUzu"
@@ -233,7 +345,7 @@
       "url": "https://open.spotify.com/track/7Mg58xNYB3yOpyouHvlllW"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/6lVGBWeobnsa9sYtb6In1q"
@@ -249,7 +361,7 @@
       "url": "https://open.spotify.com/track/3juNnPjvWCVw0UC8w9txNx"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Messi",
         "url": "https://open.spotify.com/album/4JkG9h2ZAmA4VWhOiwci5X"
@@ -277,7 +389,7 @@
       "url": "https://open.spotify.com/track/5C9uCCZzmsTZHuakgYPS6G"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Passion (R U Satisfied)",
         "url": "https://open.spotify.com/album/2cBsiboy6NvsFuQkhh8tta"
@@ -297,7 +409,7 @@
       "url": "https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Vida Passageira",
         "url": "https://open.spotify.com/album/0JvpismjshezhHk6qltzqw"
@@ -321,23 +433,23 @@
       "url": "https://open.spotify.com/track/2r8EseX5JeIxVAGvLyRD3d"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/7jA0S0W7JIEWmo8BbtYa0J"
+        "name": "Baby Boy",
+        "url": "https://open.spotify.com/album/1bYCy4wdRo9gq2aZbL9rFo"
       },
       "artists": [
         {
-          "name": "GOBAITH",
-          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+          "name": "Malik Mustache",
+          "url": "https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU"
         }
       ],
-      "duration_ms": 125760,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/63qvrFN0f14mwyzRVmvaL2"
+      "duration_ms": 210703,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/3bMmU5C3OOeG2MiEEnzSaD"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Rebel Boogie Nights",
         "url": "https://open.spotify.com/album/6aSpT40FF1z6k1ODlIjpp6"
@@ -353,47 +465,27 @@
       "url": "https://open.spotify.com/track/6H7Vhpkq4yNqFPWkmpfjn3"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
-        "name": "On The Floor",
-        "url": "https://open.spotify.com/album/5snpsCc6Sq0mdkcaNr1SYO"
+        "name": "Express",
+        "url": "https://open.spotify.com/album/6ncCdEYUdWGnvDZVzKGc2Q"
       },
       "artists": [
         {
-          "name": "Kyllow",
-          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
-        }
-      ],
-      "duration_ms": 261190,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/7cajEM2thmgQti2YN5tBDZ"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Bad Choices",
-        "url": "https://open.spotify.com/album/3ADZV1vMCEWmUS9IaNqQ1W"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Juicce",
+          "url": "https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi"
         },
         {
-          "name": "FEZZO",
-          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Bad Choices",
-      "url": "https://open.spotify.com/track/0YpZz0Ip2TGdFv24Pqmlvk"
+      "duration_ms": 156363,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/7vFHfIq0siDHZoCcQwgbj4"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Baile Lotad\u00e3o",
         "url": "https://open.spotify.com/album/4nmXTGDefT5zsdDv1GqwaC"
@@ -409,7 +501,23 @@
       "url": "https://open.spotify.com/track/0EBJmDpmMlHwioc5OEyNd8"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6MhQHs7hrUMbB2wYIphJy9"
+      },
+      "artists": [
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "G0",
+      "url": "https://open.spotify.com/track/1XJ8aKhIHPwJdsV3PB1wMh"
+    },
+    {
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Solution",
         "url": "https://open.spotify.com/album/2i0FUUGIVB57bQHrLG0Tut"
@@ -425,23 +533,7 @@
       "url": "https://open.spotify.com/track/2YgRCkLRsdW2HbWw8qjB9H"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "BOOM! (I Got Your Boyfriend)",
-        "url": "https://open.spotify.com/album/2FIlewDBxFsBVK2Judyzll"
-      },
-      "artists": [
-        {
-          "name": "GIU",
-          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "BOOM! (I Got Your Boyfriend)",
-      "url": "https://open.spotify.com/track/3kr06joltj0ObqTm3sr4Nw"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Run It Back",
         "url": "https://open.spotify.com/album/4j4Zh9283Vp7BWNbWhaMHe"
@@ -457,7 +549,7 @@
       "url": "https://open.spotify.com/track/3LQyg19W4JLwPZVtAT1E0g"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Groove In",
         "url": "https://open.spotify.com/album/6p0dxT8vJNybsgPWDwUYXO"
@@ -473,7 +565,7 @@
       "url": "https://open.spotify.com/track/6HNDqY2aY9L7UuRGzA9gw5"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Freak'n'Nasty",
         "url": "https://open.spotify.com/album/3DJNOxe2QfQfdYNSj8X0oH"
@@ -489,23 +581,23 @@
       "url": "https://open.spotify.com/track/5tpRK9Chm98BS44CLfHMJx"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
-        "name": "Anaconda",
-        "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
+        "name": "I Miss You (Malafamah)",
+        "url": "https://open.spotify.com/album/0vZvexnVmgcwtrePekqXpa"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
         }
       ],
-      "duration_ms": 216861,
-      "name": "Anaconda",
-      "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
+      "duration_ms": 177687,
+      "name": "I Miss You (Malafamah)",
+      "url": "https://open.spotify.com/track/4MTMpdpnJITYNSB8rMu8Yc"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/1Nb6lPIEiECl7Lxe5w8ll9"
@@ -525,7 +617,7 @@
       "url": "https://open.spotify.com/track/3O5zzdH0etphaiTJMBAVCJ"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/4zJULJTLglrEPu1tIrxm7o"
@@ -545,39 +637,7 @@
       "url": "https://open.spotify.com/track/7KIVzPQHkwaLkCafnDF4pz"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/4FeBJWZ4PfVcpDCcLWgYGL"
-      },
-      "artists": [
-        {
-          "name": "FatSync",
-          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/1UXN6YD98neROqVMLf2cRS"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/4mQiX0seWI4JlFTYIWPuJB"
-      },
-      "artists": [
-        {
-          "name": "Almanac",
-          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0PzuMwaIVK0qJTEY7Me3Wx"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Hey (Gangsta Walk - Night Ride)",
         "url": "https://open.spotify.com/album/6JiOmCBTApxFZ2UqKLKyna"
@@ -593,7 +653,7 @@
       "url": "https://open.spotify.com/track/47zwUruuRYZykM1QQJjayf"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/4H1B4mRc03rk9rt8R6swPA"
@@ -613,31 +673,7 @@
       "url": "https://open.spotify.com/track/53OLMfDeaFJgosZsxNSLT9"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Infinity (ANNA Remix)",
-        "url": "https://open.spotify.com/album/3Ly57GJ0ZuI7hTAsKEVkyP"
-      },
-      "artists": [
-        {
-          "name": "Captain Hook",
-          "url": "https://open.spotify.com/artist/5xnZNDl118VvPTvthujxpx"
-        },
-        {
-          "name": "Ritmo",
-          "url": "https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 401777,
-      "name": "Infinity - ANNA remix",
-      "url": "https://open.spotify.com/track/5sdjTwc8YOrgGCV7sl7jq5"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "AWAKE",
         "url": "https://open.spotify.com/album/4UEdAADO57okZjafO05wtK"
@@ -669,7 +705,7 @@
       "url": "https://open.spotify.com/track/5XH7i3B4Q6ZPHhdv07SEdf"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/50TJbf8ARpqpcp8lHMapuc"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Nunca",
         "url": "https://open.spotify.com/album/4BBav1oS3gaC7aCvhCUXvW"
@@ -705,7 +741,7 @@
       "url": "https://open.spotify.com/track/2QT4b2LhsnKTQwlBsI12wI"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Hear It",
         "url": "https://open.spotify.com/album/07RZ8CLwCSRPUpa4GbcaBX"
@@ -725,7 +761,7 @@
       "url": "https://open.spotify.com/track/4wEcWmgrx7ANAS1TVmaXe5"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Mziki, Vol. 2",
         "url": "https://open.spotify.com/album/3Y7uhCxhDdpo5JQ7j9YPZT"
@@ -745,7 +781,7 @@
       "url": "https://open.spotify.com/track/6r6MPuQfr3riRVWcJnfKNe"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "LICK IT",
         "url": "https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA"
@@ -765,35 +801,7 @@
       "url": "https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Vai Tomando",
-        "url": "https://open.spotify.com/album/06vZ4bNOeoTxFl1y44Quqs"
-      },
-      "artists": [
-        {
-          "name": "Dj Brenno Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
-        },
-        {
-          "name": "Gustavo Mota",
-          "url": "https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1"
-        },
-        {
-          "name": "Evoxx",
-          "url": "https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6"
-        },
-        {
-          "name": "SAM SAM",
-          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Vai Tomando",
-      "url": "https://open.spotify.com/track/4MHoo309LAtMRfbWRsagOy"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Ex Machina",
         "url": "https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1"
@@ -809,7 +817,7 @@
       "url": "https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/4QJcd6Wi1KCTSGwuw33WTt"
@@ -825,7 +833,7 @@
       "url": "https://open.spotify.com/track/6qWI0OPscA0MW4G6kjWGUg"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "PIECE OF ME",
         "url": "https://open.spotify.com/album/7eeuSPN1i239ntcPygFj5A"
@@ -849,7 +857,7 @@
       "url": "https://open.spotify.com/track/5qfCSmBt5ZPjZiRqvgRrnr"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Ypsilon",
         "url": "https://open.spotify.com/album/5O8xD8uIUZ1YkRhSqdynX2"
@@ -873,7 +881,7 @@
       "url": "https://open.spotify.com/track/0uwUEWkwJTIgWLKD1VHZMr"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/3K7bUlbOGrHEaCnHBnAyLh"
@@ -889,7 +897,7 @@
       "url": "https://open.spotify.com/track/05TXeKZzynUYm5fSlEAo3F"
     },
     {
-      "added_at": "2026-07-03 03:03:16",
+      "added_at": "2026-07-17 03:03:23",
       "album": {
         "name": "Amor en Miami",
         "url": "https://open.spotify.com/album/4ISpV8ZnYGPjG9fnV97ucD"
@@ -911,42 +919,6 @@
       "duration_ms": 181417,
       "name": "Amor en Miami",
       "url": "https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
-    },
-    {
-      "added_at": "2026-07-03 03:03:16",
-      "album": {
-        "name": "Picture: Volkoder Part 1",
-        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
-      },
-      "artists": [
-        {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
     }
   ],
   "unique_name": "mint brasil",

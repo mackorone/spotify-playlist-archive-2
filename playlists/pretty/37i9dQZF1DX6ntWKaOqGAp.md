@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,298 likes - 99 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,311 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,14 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 88 | [VEGAVEGA](https://open.spotify.com/track/3HLf7UP9WqDVUOMpo7ox6J) | [猫背のネイビーセゾン](https://open.spotify.com/artist/4nb7U1TIRL1MNen0uj3QYN) | [VEGAVEGA](https://open.spotify.com/album/6u4tpzMbqZoTdV70O9qY59) | 4:23 |
 | 89 | [The Farewell](https://open.spotify.com/track/4JlafHe56qcKDO5VSVYbfl) | [mudy on the 昨晩](https://open.spotify.com/artist/7m3Wr9xcBXSiUysFwOMLnx) | [The Farewell](https://open.spotify.com/album/2lfCx42JJbB0HsiKdYLnoG) | 3:33 |
 | 90 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 |
-| 91 | [Suisen](https://open.spotify.com/track/2w34CrdjxlPCJCjGjQWtqo) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Suisen](https://open.spotify.com/album/2eDAQhm73NveAr4YcucC3f) | 4:14 |
-| 92 | [Kodoku ni Toku](https://open.spotify.com/track/3FTRoyrGwcuy4HRmFPS8lw) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Kodoku ni Toku](https://open.spotify.com/album/5R9HmGynmbrVKJJFDMLNtK) | 3:10 |
-| 93 | [世界](https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界](https://open.spotify.com/album/09EAPlkRPeRdxJSBEE4PPl) | 4:24 |
-| 94 | [名もない花](https://open.spotify.com/track/5MJ5jKJzPNY6IGy6n3gOxn) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [名もない花](https://open.spotify.com/album/6Py3TyeCO6hmdwHMHjnCFP) | 3:02 |
-| 95 | [Lucky Bad Luck](https://open.spotify.com/track/4uBZX43kC8qEwp5J7kqfzr) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Lucky Bad Luck](https://open.spotify.com/album/2Gc0QxNrlkZJhoeOVJPVnQ) | 3:36 |
-| 96 | [Dead](https://open.spotify.com/track/0vqdNIgtt2vu161nuIACRZ) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Dead](https://open.spotify.com/album/5doimeyEoPQYAtmDdL9hRU) | 3:23 |
-| 97 | [MUBÖ](https://open.spotify.com/track/6ENKK7AHETyUo61PmDe2UK) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [MUBÖ](https://open.spotify.com/album/2Vl7Inp9H00O5Ji2aDQEjb) | 3:40 |
-| 98 | [RocK'n'Buster Superstar](https://open.spotify.com/track/1oTt90z74TeWOSHT4tIvcC) | [黒猫CHELSEA](https://open.spotify.com/artist/3kZaxfzlp0dOHG0WVsTN2u) | [RocK'n'Buster Superstar](https://open.spotify.com/album/162ZtYPHzMOOot8cYcrCbr) | 3:53 |
-| 99 | [フツー](https://open.spotify.com/track/7vqR6NIxRJGAQgITOx7GuY) | [Kaisoku Tokyo](https://open.spotify.com/artist/4YFuNknEtewQjrymI6xPY1) | [フツー](https://open.spotify.com/album/2TpnRJELSbgLLs8ETLqf77) | 1:30 |
+| 91 | [ラムネ](https://open.spotify.com/track/5jqGMWOakY43u3SgcNCrFW) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [ラムネ](https://open.spotify.com/album/7E0UpHgD3CHwgXghaHMAnV) | 3:40 |
+| 92 | [Suisen](https://open.spotify.com/track/2w34CrdjxlPCJCjGjQWtqo) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Suisen](https://open.spotify.com/album/2eDAQhm73NveAr4YcucC3f) | 4:14 |
+| 93 | [Kodoku ni Toku](https://open.spotify.com/track/3FTRoyrGwcuy4HRmFPS8lw) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Kodoku ni Toku](https://open.spotify.com/album/5R9HmGynmbrVKJJFDMLNtK) | 3:10 |
+| 94 | [世界](https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界](https://open.spotify.com/album/09EAPlkRPeRdxJSBEE4PPl) | 4:24 |
+| 95 | [名もない花](https://open.spotify.com/track/5MJ5jKJzPNY6IGy6n3gOxn) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [名もない花](https://open.spotify.com/album/6Py3TyeCO6hmdwHMHjnCFP) | 3:02 |
+| 96 | [Lucky Bad Luck](https://open.spotify.com/track/4uBZX43kC8qEwp5J7kqfzr) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Lucky Bad Luck](https://open.spotify.com/album/2Gc0QxNrlkZJhoeOVJPVnQ) | 3:36 |
+| 97 | [Dead](https://open.spotify.com/track/0vqdNIgtt2vu161nuIACRZ) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Dead](https://open.spotify.com/album/5doimeyEoPQYAtmDdL9hRU) | 3:23 |
+| 98 | [MUBÖ](https://open.spotify.com/track/6ENKK7AHETyUo61PmDe2UK) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [MUBÖ](https://open.spotify.com/album/2Vl7Inp9H00O5Ji2aDQEjb) | 3:40 |
+| 99 | [RocK'n'Buster Superstar](https://open.spotify.com/track/1oTt90z74TeWOSHT4tIvcC) | [黒猫CHELSEA](https://open.spotify.com/artist/3kZaxfzlp0dOHG0WVsTN2u) | [RocK'n'Buster Superstar](https://open.spotify.com/album/162ZtYPHzMOOot8cYcrCbr) | 3:53 |
+| 100 | [フツー](https://open.spotify.com/track/7vqR6NIxRJGAQgITOx7GuY) | [Kaisoku Tokyo](https://open.spotify.com/artist/4YFuNknEtewQjrymI6xPY1) | [フツー](https://open.spotify.com/album/2TpnRJELSbgLLs8ETLqf77) | 1:30 |
 
 Snapshot ID: `AAAAAHmaxF9MgtVJL7pwGD76ViY6448P`

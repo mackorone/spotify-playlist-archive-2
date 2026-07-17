@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 145785,
+  "num_followers": 145792,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAAC35FZIxRSslo1nOHEfG2vt",
+  "snapshot_id": "albNgAAAAACI/l1evSZOhowrU1T6e/9v",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "Chilango incomprendido",
-      "url": "https://open.spotify.com/track/2C6gAla83GKcSMjJRYuMqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoyos en la bolsa",
         "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 284640,
       "name": "Todo sea por el rocanrol",
       "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "Chilango incomprendido",
+      "url": "https://open.spotify.com/track/2C6gAla83GKcSMjJRYuMqs"
     },
     {
       "added_at": null,
@@ -491,26 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rayito Colombiano y los Grandes Compositores",
-        "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        },
-        {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        },
-        {
-          "name": "Gerardo Guardia",
-          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Triste Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
+      "duration_ms": 194200,
+      "name": "Que viva el rocanrol - En vivo",
+      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
     },
     {
       "added_at": null,
@@ -531,18 +523,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+        "name": "Rayito Colombiano y los Grandes Compositores",
+        "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
       },
       "artists": [
         {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        },
+        {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Gerardo Guardia",
+          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Que viva el rocanrol - En vivo",
-      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+      "duration_ms": 206426,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hecho en M\u00e9xico",
-        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 129266,
-      "name": "Hasta que el cuerpo aguante",
-      "url": "https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 273400,
       "name": "S\u00f3pleme usted primero",
       "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 129266,
+      "name": "Hasta que el cuerpo aguante",
+      "url": "https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF"
     },
     {
       "added_at": null,

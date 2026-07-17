@@ -3232,24 +3232,6 @@
     {
       "album": {
         "name": "TEN: The Story Goes On",
-        "url": "https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "date_added": "2025-10-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166000,
-      "name": "MEEEEEE (NAYEON)",
-      "url": "https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5"
-    },
-    {
-      "album": {
-        "name": "TEN: The Story Goes On",
         "url": "https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg"
       },
       "artists": [
@@ -3264,6 +3246,28 @@
       "duration_ms": 166000,
       "name": "MEEEEEE (NAYEON)",
       "url": "https://open.spotify.com/track/7iCgU4gnWWpWu26kcSwtSC"
+    },
+    {
+      "album": {
+        "name": "TEN: The Story Goes On",
+        "url": "https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2025-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "MEEEEEE (NAYEON)",
+      "url": "https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5"
     },
     {
       "album": {

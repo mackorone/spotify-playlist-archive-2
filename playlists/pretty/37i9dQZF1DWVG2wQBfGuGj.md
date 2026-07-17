@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Chillout house grooves and dreamy covers, all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,434 likes - 125 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,737 likes - 125 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 124 | [Golden Still](https://open.spotify.com/track/1hmT5rVHFWYyLi4t1bxe03) | [French Coast](https://open.spotify.com/artist/4ubVLQ3XhCDVYkXhDxK69j) | [Golden Still](https://open.spotify.com/album/0jUyI2Yj6A3YYCPAldihyX) | 2:12 |
 | 125 | [BIRDS OF A FEATHER \- Chill Mix](https://open.spotify.com/track/3wvprdRsNug99tVS3CTTko) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR) | [BIRDS OF A FEATHER \(Chill Mix\)](https://open.spotify.com/album/45to2lBtgb8S1z1qt4nMgR) | 3:09 |
 
-Snapshot ID: `AAAAAHbaCYS7V4HSNnG7j6R+MslyJu5/`
+Snapshot ID: `AAAAAGFxGsMOCgAA3yvm6RHLfMEhslou`

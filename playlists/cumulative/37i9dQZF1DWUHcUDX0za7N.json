@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Fimi",
+  "description": "Hip hop and rap music from Nigeria. Cover: Cheque & Blaqbonez",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 163768,
       "name": "420",
       "url": "https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 115278,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2fb0bz1Px5hMjbOQgssHHm"
@@ -1701,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "BB Lifestyle",
+        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "BB Lifestyle",
+      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
+    },
+    {
+      "album": {
         "name": "BBO (Bad Bxtches Only)",
         "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
       },
@@ -2484,7 +2506,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 173559,
       "name": "BORN TO BE GREAT",
       "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
@@ -5014,7 +5036,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 142000,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/5fW4iJMqmtsKtLn8YIlGEt"
@@ -6090,6 +6112,32 @@
       "duration_ms": 134960,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/7BWjBUUdElPrt810wy2pKb"
+    },
+    {
+      "album": {
+        "name": "GLACIER GIRL / FAAJI",
+        "url": "https://open.spotify.com/album/7aV7yb4bhdcAzeBDo0bC5w"
+      },
+      "artists": [
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
+        },
+        {
+          "name": "Kobilou",
+          "url": "https://open.spotify.com/artist/2DL38TZNK8x8hxvnxNkQB5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "GLACIER GIRL",
+      "url": "https://open.spotify.com/track/7DjCte93Dk2YIVMixhUqHO"
     },
     {
       "album": {
@@ -10446,7 +10494,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 239673,
       "name": "Nkemakonam",
       "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
@@ -11987,6 +12035,24 @@
     },
     {
       "album": {
+        "name": "Pass By",
+        "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
+      },
+      "artists": [
+        {
+          "name": "Yan Yan",
+          "url": "https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189675,
+      "name": "Pass By",
+      "url": "https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC"
+    },
+    {
+      "album": {
         "name": "Patience Ozokwor",
         "url": "https://open.spotify.com/album/3Iur68f8UK7ZNeBZ2iGNwA"
       },
@@ -12124,6 +12190,32 @@
       "duration_ms": 208572,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA"
+    },
+    {
+      "album": {
+        "name": "PERFECTION (feat. C.S. Armstrong)",
+        "url": "https://open.spotify.com/album/6aXV5Mr0bKAIUtqGUgdKvy"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "PERFECTION (feat. C.S. Armstrong)",
+      "url": "https://open.spotify.com/track/3Sv5trzGlBMLYFJGpuOBxG"
     },
     {
       "album": {
@@ -14296,7 +14388,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 150873,
       "name": "Stormy",
       "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
@@ -15147,6 +15239,36 @@
     },
     {
       "album": {
+        "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
+        "url": "https://open.spotify.com/album/1vUCTdPUb0hFi3CsE0aPqn"
+      },
+      "artists": [
+        {
+          "name": "Chocolate City",
+          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+        },
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169301,
+      "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
+      "url": "https://open.spotify.com/track/2OBS1RvTy6qlzwEKDzdZcW"
+    },
+    {
+      "album": {
         "name": "Tony Montana",
         "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
       },
@@ -15232,6 +15354,24 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
     },
     {
       "album": {
@@ -15426,7 +15566,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 144000,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
@@ -16962,6 +17102,28 @@
       "duration_ms": 127058,
       "name": "Zaza (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
+    },
+    {
+      "album": {
+        "name": "Yazi (Deluxe)",
+        "url": "https://open.spotify.com/album/1Ew4B2ujM6ziiTf19YS3c4"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146511,
+      "name": "ZODIAC II",
+      "url": "https://open.spotify.com/track/2QXcpf5MPF31txzTjh3TyQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N"

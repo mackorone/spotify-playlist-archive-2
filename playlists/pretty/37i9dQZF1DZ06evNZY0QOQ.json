@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24413,
+  "num_followers": 24417,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAABqh5sWCtz37CSh71Hx5Muk",
+  "snapshot_id": "albNgAAAAAAAGk5kxpXdnlG/KRdVGLOj",
   "tracks": [
     {
       "added_at": null,
@@ -947,22 +947,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ronisia (Version Deluxe)",
-        "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
+        "name": "THE ANGEL YOU DON'T KNOW",
+        "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Maesu",
+          "url": "https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl"
         },
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 153400,
-      "name": "Probl\u00e8me",
-      "url": "https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28"
+      "duration_ms": 222604,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo"
     }
   ],
   "unique_name": "This Is CKay",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Candice",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : DJ Kawest x Ronisia",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 167807,
       "name": "Bendo",
       "url": "https://open.spotify.com/track/6nC3VULKRHp2NsnUnJyaRs"
@@ -3887,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9g\u00e2ts",
+        "url": "https://open.spotify.com/album/3jEbg0LsEQTlFAyziDoDvD"
+      },
+      "artists": [
+        {
+          "name": "Lilou",
+          "url": "https://open.spotify.com/artist/0KfUsUyGSFyNGm6A71DcLR"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195886,
+      "name": "D\u00e9g\u00e2ts",
+      "url": "https://open.spotify.com/track/1zIyD2YvfkKCPgR293M9Lu"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0",
         "url": "https://open.spotify.com/album/0J9AOtJdDswtRkk7RWMhfV"
       },
@@ -4218,6 +4236,24 @@
       "duration_ms": 179651,
       "name": "Encore l\u00e0",
       "url": "https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy"
+    },
+    {
+      "album": {
+        "name": "Identity (Acte 1)",
+        "url": "https://open.spotify.com/album/5UqF6ma1iRyqmNfXgCEU5x"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "Encore un peu",
+      "url": "https://open.spotify.com/track/45aLIXeOgnpug7hhsA1MWS"
     },
     {
       "album": {
@@ -4703,6 +4739,28 @@
     },
     {
       "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/3aJ7EwZSzppNcnuhzEkHku"
+      },
+      "artists": [
+        {
+          "name": "Lykuin",
+          "url": "https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM"
+        },
+        {
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/7KJy9iqbUNj0xqHcsZSnbN"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/63LswPK31jvNEjlhtKFzaK"
+    },
+    {
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/30NbO4a04CGi1zryzKe1mB"
       },
@@ -5028,7 +5086,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139760,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/4Elfhk6PhvnapBAwe0yMiI"
@@ -6116,6 +6174,28 @@
       "duration_ms": 165078,
       "name": "Japonais",
       "url": "https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh"
+    },
+    {
+      "album": {
+        "name": "Jardin Secret",
+        "url": "https://open.spotify.com/album/5UNHeC3o6g33u6gLBAqV5J"
+      },
+      "artists": [
+        {
+          "name": "Allan Zut",
+          "url": "https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr"
+        },
+        {
+          "name": "Mv",
+          "url": "https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147469,
+      "name": "Jardin Secret",
+      "url": "https://open.spotify.com/track/63PQgMOafR6hOapRhxe9n1"
     },
     {
       "album": {
@@ -10340,7 +10420,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 160408,
       "name": "Plus Rien",
       "url": "https://open.spotify.com/track/2gXpqKabH56iKkpOthaeZ3"
@@ -11916,7 +11996,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 177586,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3nkVSeaL5M6II2uHQHRuYM"
@@ -11974,7 +12054,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 201902,
       "name": "Shot",
       "url": "https://open.spotify.com/track/4Gybxap5JBdHDa8Kjsd3NM"
@@ -12180,6 +12260,28 @@
       "duration_ms": 135693,
       "name": "Soir",
       "url": "https://open.spotify.com/track/4ZE549LjUxCk0d9OTasc99"
+    },
+    {
+      "album": {
+        "name": "Soko",
+        "url": "https://open.spotify.com/album/2dBA1YHMK490XCnZ0NbP4Z"
+      },
+      "artists": [
+        {
+          "name": "Asnath",
+          "url": "https://open.spotify.com/artist/4l79dXUdYJt2UJZlIeaxwx"
+        },
+        {
+          "name": "Negrito",
+          "url": "https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123310,
+      "name": "Soko",
+      "url": "https://open.spotify.com/track/6aEMbGeHmyih8FnAgoXQl1"
     },
     {
       "album": {
@@ -13750,7 +13852,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 157619,
       "name": "Une danse",
       "url": "https://open.spotify.com/track/6TJiwUhtDMZxEYczAd8KTk"
@@ -13834,6 +13936,28 @@
       "duration_ms": 135945,
       "name": "Venin",
       "url": "https://open.spotify.com/track/4Yb5TEvug1rbfL4qRlhJdT"
+    },
+    {
+      "album": {
+        "name": "VIBES",
+        "url": "https://open.spotify.com/album/7BR2UhlMz52qSB9YR3hvdh"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150752,
+      "name": "VIBES",
+      "url": "https://open.spotify.com/track/7pchvc1iKVljVhZLUu7mUs"
     },
     {
       "album": {

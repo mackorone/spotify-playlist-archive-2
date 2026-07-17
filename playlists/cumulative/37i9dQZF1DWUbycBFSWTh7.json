@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/3xjVeTeioZ34wkwF3W7CF5"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222379,
+      "name": "5 to 9",
+      "url": "https://open.spotify.com/track/4LAUREosWt6pf0XAKwn6Fc"
+    },
+    {
+      "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
       },
@@ -1901,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Condor",
+        "url": "https://open.spotify.com/album/6ia9QEtiiVRKE1Jzl9t5wW"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360967,
+      "name": "Condor",
+      "url": "https://open.spotify.com/track/6gNTVY3wKITCGEOxvJ12Lo"
+    },
+    {
+      "album": {
         "name": "Cooking Up",
         "url": "https://open.spotify.com/album/1Dj7hOK9AoNTXBjYaITnor"
       },
@@ -2312,6 +2352,28 @@
       "duration_ms": 206283,
       "name": "Directo Al Bolo",
       "url": "https://open.spotify.com/track/5bZsb1gIC3CW7FuDH4ZK3i"
+    },
+    {
+      "album": {
+        "name": "Dis a way of Life (Original Mix)",
+        "url": "https://open.spotify.com/album/7bnn3XK2E6g48QLpMmayJj"
+      },
+      "artists": [
+        {
+          "name": "Doug Gomez",
+          "url": "https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc"
+        },
+        {
+          "name": "Trinidadian Deep",
+          "url": "https://open.spotify.com/artist/06gPN0VFClHWEefNwLEWmb"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458360,
+      "name": "Dis a way of life - Original Mix",
+      "url": "https://open.spotify.com/track/6CG89UIem3Jix7YDUKwNk6"
     },
     {
       "album": {
@@ -3200,6 +3262,28 @@
       "duration_ms": 434000,
       "name": "Falling Birds",
       "url": "https://open.spotify.com/track/2s8Ofim4y2HAm3BPVBQkb9"
+    },
+    {
+      "album": {
+        "name": "Sound Vault, Pt. 4",
+        "url": "https://open.spotify.com/album/3vCsEwSmU9pmRNR1PjEHHH"
+      },
+      "artists": [
+        {
+          "name": "Miguel Migs",
+          "url": "https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi"
+        },
+        {
+          "name": "Lisa Shaw",
+          "url": "https://open.spotify.com/artist/36AfPbkMSwrFoWMQ9sUARb"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342711,
+      "name": "Falling Into Time (Migs Vocal Revision)",
+      "url": "https://open.spotify.com/track/3EFlkm1QdnDfCBRf96BAmK"
     },
     {
       "album": {
@@ -4210,7 +4294,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 446816,
       "name": "Grey Matter",
       "url": "https://open.spotify.com/track/6DLA2FnXwEa1NmY9IqxJIO"
@@ -4470,6 +4554,24 @@
       "duration_ms": 374400,
       "name": "Here And Now - INVU's Lexicon Remix",
       "url": "https://open.spotify.com/track/1gSANgZerYiT7UiY2T0avU"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/1KLfINLwgz8Xel2boYSYjP"
+      },
+      "artists": [
+        {
+          "name": "Nathan G",
+          "url": "https://open.spotify.com/artist/1v5HUOeSAhn5QdDI7jRee3"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378814,
+      "name": "Heritage",
+      "url": "https://open.spotify.com/track/0kxv64nx1BFf7GGbvL1A4L"
     },
     {
       "album": {
@@ -6628,6 +6730,24 @@
       "duration_ms": 358064,
       "name": "Love Will - Sifa Remix",
       "url": "https://open.spotify.com/track/6Ia5Fztl8orS3AHfILzHqt"
+    },
+    {
+      "album": {
+        "name": "Love You Day One",
+        "url": "https://open.spotify.com/album/2SaXBSwJrEQbDRRgawIxiB"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374634,
+      "name": "Love You Day One",
+      "url": "https://open.spotify.com/track/2PXMK8yPrTgxxdkZvNHfyi"
     },
     {
       "album": {

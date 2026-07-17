@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,514 songs - 21 day 16 hr 8 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,515 songs - 21 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -6658,7 +6658,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6648 | [어떤가요](https://open.spotify.com/track/73FLxUpcdEuo27Wlk6EAlY) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Across The Romantic Bridge](https://open.spotify.com/album/4j1WcjdIz4tVr8j58HAaL6) | 4:34 |
 | 6649 | [사랑이 다른 사랑으로 잊혀지네](https://open.spotify.com/track/3O6ws4QSNk0qbcd6QxDkc9) | [Harim](https://open.spotify.com/artist/2Xa4Fq1ReoSwVjCzbd5dwm) | [Whistle In A Maze](https://open.spotify.com/album/4sWIVt11eBgLagQw1TmfoN) | 4:49 |
 | 6650 | [The Letter](https://open.spotify.com/track/2LqbntfQK799eoKr7HK8eZ) | [Kim Kwangjin](https://open.spotify.com/artist/6nr0uNhAbsY5XZFbcvrNwW) | [It's Me](https://open.spotify.com/album/4P1shqSHFEyXTEHQOkTzN7) | 4:42 |
-| 6651 | [잊지말아요 \(팥의 전사 호빵왕자\)](https://open.spotify.com/track/2k3Kbgch8UnbU2hQkd2fLX) | [HWAN HUI](https://open.spotify.com/artist/65Pu8cFuzyoSe62xIEw6BP) | [Mask Singer 96th \(Live Version\)](https://open.spotify.com/album/0lw1u12Q6cAUSjcEMww5VO) | 4:49 |
+| 6651 | [잊지말아요 \(팥의 전사 호빵왕자\)](https://open.spotify.com/track/2k3Kbgch8UnbU2hQkd2fLX) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Mask Singer 96th \(Live Version\)](https://open.spotify.com/album/0lw1u12Q6cAUSjcEMww5VO) | 4:49 |
 | 6652 | [꽃 피는 봄이오면](https://open.spotify.com/track/0RpI9034T3Z2zu7hToTdqT) | [발라드가수들](https://open.spotify.com/artist/2B6LUHwavLRRQscG3Oi74n) | [여자가수 히트 발라드 모음 1집](https://open.spotify.com/album/2NHe3n99KMAEUnXlHIqR7u) | 4:40 |
 | 6653 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 |
 | 6654 | [Foolish love](https://open.spotify.com/track/6j6DIMn0dNIAgENJXyzqep) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Life Sentence](https://open.spotify.com/album/4OHf2kGbaAy2a2aduTNN1z) | 4:21 |
@@ -8522,5 +8522,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8512 | [Out of Orbit](https://open.spotify.com/track/3tFDLd2VmLtyFKTsLyac4O) | [Garoad](https://open.spotify.com/artist/1oMOdABcJgXgiplesecR1U) | [VA\-11 Hall\-A: Prologue \(Orignal Soundtrack: Sounds from the Future\)](https://open.spotify.com/album/3m4tfKRhqB9e4Lz5nBDxPh) | 3:16 |
 | 8513 | [雨のち青天](https://open.spotify.com/track/10zauRjTKtpR363FAKz2ea) | [ShibayanRecords](https://open.spotify.com/artist/0h8tSYXnFjmrLdUSGOKNSX) | [TOHO BOSSA NOVA 3](https://open.spotify.com/album/6fwWmCRqBuFXl03lga3yyK) | 3:45 |
 | 8514 | [Desecrated Cathedral](https://open.spotify.com/track/3IXcM1MovXneZmFIPBTjWh) | [グローリー・コーラス・トウキョウ](https://open.spotify.com/artist/2fm3Vj9l9hVd2FQEURGvVV), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Metaphor: ReFantazio Special Soundtrack](https://open.spotify.com/album/4t0OSUQj2rwY3vQnWRYXVm) | 2:12 |
+| 8515 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
 
-Snapshot ID: `AAAMVydH2VWldHBJz7XgOBISuUFPi7wi`
+Snapshot ID: `AAAMWJfJit7M9dv9HbGaquozdJ07QD4W`

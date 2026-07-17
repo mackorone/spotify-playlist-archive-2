@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,892 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,927 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 74 | [We March](https://open.spotify.com/track/2qmcGDZVRyl4tKAHyTe9U8) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We March](https://open.spotify.com/album/4CFGQI4DQQPlzgAAJbc8QT) | 5:39 |
 | 75 | [DON'T MISS](https://open.spotify.com/track/7e0amNgdCkgyqXaufuzgj6) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DON'T MISS](https://open.spotify.com/album/6kK8KKCDPzNnfAngex8aYc) | 3:53 |
 | 76 | [Lead Me To The Slaughter](https://open.spotify.com/track/2QgNvwnSb9B8r2cy5SwpzU) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Lead Me To The Slaughter](https://open.spotify.com/album/3WFNJkqNB8MstN5M3Xmauj) | 3:17 |
-| 77 | [Valhalla](https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh) | [ASAVA](https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta) | [Valhalla](https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe) | 4:33 |
+| 77 | [Valhalla](https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh) | [ASAVA](https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta) | [Valhalla](https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe) | 4:32 |
 | 78 | [For the Realm](https://open.spotify.com/track/3ctDwZzWjGSyszUwCF9076) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Apocrypha](https://open.spotify.com/album/2L3gOnxuF6g5CWT6kyAN3s) | 4:59 |
 | 79 | [Built On Your Blood](https://open.spotify.com/track/3bOaPu8ITk0sY0zug2YsbB) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Built On Your Blood](https://open.spotify.com/album/58hqgFgBfQ42iJzw6LUoHV) | 2:26 |
 | 80 | [Into The Fire](https://open.spotify.com/track/1nyV4KGwVs9EG819dj8LxO) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Into The Fire](https://open.spotify.com/album/2KCSS3kPuOMRJGaxLjearF) | 3:56 |

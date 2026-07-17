@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Se nos acabó el mundial pero sigue la música mexicana siendo la mera mera, ¿Sí o no, Luis R Conriquez?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206,566 likes - 62 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206,578 likes - 62 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 28 | [ULA U](https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [QueHicisteBella](https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv) | [ULA U](https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV) | 3:02 |
 | 29 | [NO C DA](https://open.spotify.com/track/4TAKgzC4HLuiNnDkRJjqNo) | [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY) | [NO C DA](https://open.spotify.com/album/7GpcUY50CIwVtjHmdvMsZr) | 2:17 |
 | 30 | [MI QLONA](https://open.spotify.com/track/7AGi91KyuQAKgH9A8n8cT8) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [MI QLONA](https://open.spotify.com/album/0s3Al6ZgYTHwNsHZSuZeEc) | 2:59 |
-| 31 | [Como Pasa el Tiempo](https://open.spotify.com/track/6YW2GrJurVbUuGxGHwozWx) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Como Pasa el Tiempo](https://open.spotify.com/album/4nNfoilMIXIfg9KqlaBYvl) | 3:53 |
+| 31 | [Por Mi Callejón](https://open.spotify.com/track/6YW2GrJurVbUuGxGHwozWx) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Por Mi Callejón](https://open.spotify.com/album/4nNfoilMIXIfg9KqlaBYvl) | 3:53 |
 | 32 | [Ketamina](https://open.spotify.com/track/1bALMtM1nAOSHKdAi3kzK6) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [HRDR](https://open.spotify.com/artist/3KjLTxRItdqNZsNlCUe29u) | [Ketamina](https://open.spotify.com/album/332jKqFGgNlKMJCdXzdBYv) | 2:32 |
 | 33 | [MJ](https://open.spotify.com/track/71N2IlXaxkOAqyci6tjwES) | [El Randal](https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU) | [MJ](https://open.spotify.com/album/64hWsG3zGBhdTzpLdrym0V) | 2:57 |
 | 34 | [Piguet](https://open.spotify.com/track/7FI2N3N3g3JLawE9SMji83) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Piguet](https://open.spotify.com/album/0YCzTmEiHnc8LNEsieMAtZ) | 2:56 |

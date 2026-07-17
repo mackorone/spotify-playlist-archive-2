@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Poster Boy.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Mar\u00eda Arnal.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 180840,
       "name": "AIRE",
       "url": "https://open.spotify.com/track/2d4PhoTChOsnrulab9Q9Dw"
@@ -1428,6 +1428,28 @@
       "duration_ms": 260447,
       "name": "Au soleil",
       "url": "https://open.spotify.com/track/5NKxOzYAWk6tM0JE25h25G"
+    },
+    {
+      "album": {
+        "name": "aunque est\u00e9 todo roto",
+        "url": "https://open.spotify.com/album/23JQnHoh6ybVgbICYzce4L"
+      },
+      "artists": [
+        {
+          "name": "Nerea Gargu",
+          "url": "https://open.spotify.com/artist/1ycZvNKhd0MGJ9WLV6mbGm"
+        },
+        {
+          "name": "GOGUI",
+          "url": "https://open.spotify.com/artist/1wdFQfOZU673MgWWklOnsA"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188450,
+      "name": "aunque est\u00e9 todo roto",
+      "url": "https://open.spotify.com/track/57F1zcHkYuum6rxI9RSDnF"
     },
     {
       "album": {
@@ -3331,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Da Me",
+        "url": "https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116963,
+      "name": "Da Me",
+      "url": "https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y"
+    },
+    {
+      "album": {
         "name": "dame + luz",
         "url": "https://open.spotify.com/album/72wduEoKa06jAtMFmWOVz1"
       },
@@ -3764,6 +3804,24 @@
       "duration_ms": 185379,
       "name": "DESASTRE",
       "url": "https://open.spotify.com/track/5NMlBtIr4iJ5mPrh4b9lfN"
+    },
+    {
+      "album": {
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "album": {
@@ -5567,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "ESQUINITAS",
+        "url": "https://open.spotify.com/album/5rrYBDMFlGVCDpAScw72ea"
+      },
+      "artists": [
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134346,
+      "name": "ESQUINITAS",
+      "url": "https://open.spotify.com/track/1bL1A8RfawZaWDs7NY9au5"
+    },
+    {
+      "album": {
         "name": "Estadios",
         "url": "https://open.spotify.com/album/2QESo7lu6qFUHgf5gnMRda"
       },
@@ -6462,7 +6538,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139890,
       "name": "GUSTOSSO",
       "url": "https://open.spotify.com/track/77na8BGFyju9OAUJSJN7j1"
@@ -8740,7 +8816,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 143414,
       "name": "LOS SUBE Y BAJA",
       "url": "https://open.spotify.com/track/2sVcGvbZuE9uXHjN1uTcPp"
@@ -8924,7 +9000,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 183486,
       "name": "Maldito Cupido",
       "url": "https://open.spotify.com/track/1gebUOovFENh3fMGWzVR7m"
@@ -9478,7 +9554,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 203893,
       "name": "Mejor ma\u00f1ana",
       "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
@@ -10551,6 +10627,24 @@
     },
     {
       "album": {
+        "name": "NO ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/16q6SR66jmXRvSURQO8WU7"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163054,
+      "name": "NO ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5xvkvXiMv2dSALNCho2AoH"
+    },
+    {
+      "album": {
         "name": "NO ES DORMIR",
         "url": "https://open.spotify.com/album/6x7juu25BeXzXFovRz8zgm"
       },
@@ -10624,6 +10718,28 @@
       "duration_ms": 205694,
       "name": "No est\u00e1s",
       "url": "https://open.spotify.com/track/3TrrxU0SjBUju6w0afOiBS"
+    },
+    {
+      "album": {
+        "name": "No funciona",
+        "url": "https://open.spotify.com/album/17hEOEsax1y0DzhFF3qbmz"
+      },
+      "artists": [
+        {
+          "name": "nosoymeri",
+          "url": "https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "No funciona",
+      "url": "https://open.spotify.com/track/4gejPDoYY5HCOBrIaCezqT"
     },
     {
       "album": {
@@ -11799,6 +11915,24 @@
     },
     {
       "album": {
+        "name": "PALOMITA OJOS AZULES",
+        "url": "https://open.spotify.com/album/6oLxOpbr1iFUxmigJjvYRF"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155300,
+      "name": "PALOMITA OJOS AZULES",
+      "url": "https://open.spotify.com/track/7jafrJPE0Z37cMHPfRwjo0"
+    },
+    {
+      "album": {
         "name": "papel mach\u00e9",
         "url": "https://open.spotify.com/album/4OYk5FHxeQ4XxH2mqXIDcP"
       },
@@ -12870,7 +13004,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 210526,
       "name": "Qu\u00e9 monos los dos",
       "url": "https://open.spotify.com/track/3cKNfUvV3rqmuZuPPwaUyk"
@@ -14664,7 +14798,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 200150,
       "name": "Te Espero de Vuelta",
       "url": "https://open.spotify.com/track/1lXKLGQ81b7r5EFmG0AOvt"
@@ -15380,7 +15514,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 150000,
       "name": "TRAGEDIA",
       "url": "https://open.spotify.com/track/1FnRaQDk3s7RkWBXKmnuLv"
@@ -16970,6 +17104,28 @@
       "duration_ms": 185316,
       "name": "\u00bfTodo esto para qu\u00e9?",
       "url": "https://open.spotify.com/track/5hpLys2nnIiYN8Xe6cUoqg"
+    },
+    {
+      "album": {
+        "name": "\u00bfT\u00fa Piensas?",
+        "url": "https://open.spotify.com/album/4rzAd3LSy7A3qg7vgMSQ4S"
+      },
+      "artists": [
+        {
+          "name": "LUCYCALYS",
+          "url": "https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI"
+        },
+        {
+          "name": "Cris Lora",
+          "url": "https://open.spotify.com/artist/6qksD3IxPOFl23vSKcwmvi"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u00bfT\u00fa Piensas?",
+      "url": "https://open.spotify.com/track/5rEF1UU3RuNYBfLMz7T9cH"
     },
     {
       "album": {

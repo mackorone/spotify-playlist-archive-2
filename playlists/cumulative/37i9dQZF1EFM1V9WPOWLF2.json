@@ -380,7 +380,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 258186,
       "name": "Brilloteo",
       "url": "https://open.spotify.com/track/4EDIAPw93YVubtjKR3OTNk"
@@ -571,6 +571,28 @@
     },
     {
       "album": {
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200504,
+      "name": "c\u00e1ntaro",
+      "url": "https://open.spotify.com/track/2wKGVXNoGfBoZM9LfVldSY"
+    },
+    {
+      "album": {
         "name": "Diaz Antes",
         "url": "https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW"
       },
@@ -590,7 +612,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 185373,
       "name": "Dale Duro",
       "url": "https://open.spotify.com/track/2i2LSBD8eAINyo9G9nZEfa"
@@ -757,6 +779,28 @@
     },
     {
       "album": {
+        "name": "El Tracatra",
+        "url": "https://open.spotify.com/album/5vKJMBf6AE1bnYE3Q1BWhw"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180714,
+      "name": "Gira Gira",
+      "url": "https://open.spotify.com/track/2qcKhavOikePIU3A1hirGe"
+    },
+    {
+      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -780,6 +824,24 @@
       "duration_ms": 166900,
       "name": "Gramos ft. Kris Floyd, Hozwal",
       "url": "https://open.spotify.com/track/40XfhnuIEzqvuluAEAL9xa"
+    },
+    {
+      "album": {
+        "name": "BAILA CONMIGO",
+        "url": "https://open.spotify.com/album/3igeUJIn0CWSRt9ftMPlOk"
+      },
+      "artists": [
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138013,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/4UWPyTeXlo1RZmlEn1QZuE"
     },
     {
       "album": {
@@ -972,7 +1034,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 198186,
       "name": "Krabby Step (with Tyga & Lil Mosey)",
       "url": "https://open.spotify.com/track/54VtNjzhAyLvPxuJlw0Z3q"
@@ -1020,6 +1082,28 @@
       "duration_ms": 122204,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/3b6c7OG17RpjolAdT1a3x9"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "la luz(F\u00edn)",
+      "url": "https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6"
     },
     {
       "album": {
@@ -1300,6 +1384,24 @@
       "duration_ms": 184651,
       "name": "Noches de Soledad",
       "url": "https://open.spotify.com/track/6wYzqcXiX3orkFVkKZtZkF"
+    },
+    {
+      "album": {
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276065,
+      "name": "ODIO A TU NOVIA",
+      "url": "https://open.spotify.com/track/2Tzac8w3E1acFOvssdApmc"
     },
     {
       "album": {
@@ -1739,6 +1841,32 @@
     },
     {
       "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Si Me La Haces",
+      "url": "https://open.spotify.com/track/749x0gbNE76B1aEZjQ9cPW"
+    },
+    {
+      "album": {
         "name": "RITMO GLOBAL",
         "url": "https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO"
       },
@@ -1750,7 +1878,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 122120,
       "name": "Si Me Quieres",
       "url": "https://open.spotify.com/track/2McIdzQW0Rd79yjhbvHwl9"
@@ -2156,6 +2284,24 @@
       "duration_ms": 164882,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/7e7jwhhF97ivaOrqXa7dju"
+    },
+    {
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101026,
+      "name": "Voy Por El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/2x9CeKPYxdb0pXxWmjuvHA"
     },
     {
       "album": {

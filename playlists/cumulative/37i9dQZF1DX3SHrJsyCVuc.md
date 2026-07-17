@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: horse
+> A new world of alternative noise\. Cover: cherry chola
 
-224 songs - 12 hr 25 min
+229 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [47](https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke) | [ashnymph](https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o) | [Childhood](https://open.spotify.com/album/72YRWuIhjRNUOtXD7eAzGj) | 3:51 | 2026-05-08 | 2026-05-30 |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-05 | 2026-05-15 |
 | [Advent](https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY) | [G.U.N](https://open.spotify.com/artist/1isYB1JfzwRLNg0SkXHH1U), [Megan Joy](https://open.spotify.com/artist/1kwj0sY4n6bPlKcHTm39Cj) | [To Heaven, From Hollywood](https://open.spotify.com/album/4D2S3rrJFLT47lJjUHEzdc) | 3:05 | 2025-10-23 | 2026-03-13 |
-| [AIN'T DYING FOR THE COUNTRY](https://open.spotify.com/track/7xaL8AqkHrwxVljVZXML6a) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [AIN'T DYING FOR THE COUNTRY](https://open.spotify.com/album/25Sf4dG49tYXgp1sicDoL4) | 1:50 | 2026-05-21 |  |
+| [AIN'T DYING FOR THE COUNTRY](https://open.spotify.com/track/7xaL8AqkHrwxVljVZXML6a) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [AIN'T DYING FOR THE COUNTRY](https://open.spotify.com/album/25Sf4dG49tYXgp1sicDoL4) | 1:50 | 2026-05-21 | 2026-07-17 |
+| [Ambulance!](https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Ambulance!](https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt) | 3:39 | 2026-07-16 |  |
 | [Anodyne](https://open.spotify.com/track/5JdLdXEzqQaHupskdS7a6Z) | [Dead Finks](https://open.spotify.com/artist/00tkcgJcr35Rwj3XBmQAgQ) | [New Plastik Abyss](https://open.spotify.com/album/1P0ItuKDoa4kT9hpOZFwjF) | 3:55 | 2026-04-09 | 2026-07-03 |
 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 | 2025-12-12 |
 | [Art School Dropout \(Jaz Origin Story\)](https://open.spotify.com/track/4La2Cbui1hXrPp5wjIspk9) | [RATSALAD.](https://open.spotify.com/artist/3zTboMc9nTwFmqSWI2bkPz) | [Pest From The West](https://open.spotify.com/album/0r5dfBD8oJyPaemJw5sTse) | 2:03 | 2026-05-21 |  |
@@ -40,6 +41,7 @@
 | [Claires Whip](https://open.spotify.com/track/2KiXoQzagdrDIjAlgfqM2t) | [Dragnet](https://open.spotify.com/artist/4N5f5r6VSt8LaWeAKlK91o) | [Dragnet Reigns!](https://open.spotify.com/album/62I8kD8qVSthButF7DN4pR) | 1:52 | 2025-10-23 | 2026-02-13 |
 | [Cola](https://open.spotify.com/track/4BvMEPDYv85Z9ofDZjL2GF) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [\\ \(^\_^\) /](https://open.spotify.com/album/6zKGIFG5YMxgaVixABT5A5) | 3:19 | 2026-06-18 |  |
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-06 | 2026-01-15 |
+| [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 | 2026-07-16 |  |
 | [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 | 2025-11-13 | 2026-02-06 |
 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 | 2026-04-02 | 2026-06-05 |
 | [Curse](https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Body Broker](https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u) | 2:23 | 2025-11-27 | 2026-04-24 |
@@ -85,6 +87,7 @@
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 | 2026-01-30 |
 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 | 2026-06-25 |  |
 | [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 | 2026-02-27 |
+| [Grass](https://open.spotify.com/track/0tFcODWgqlJhnOaRSbZ8S3) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love \(Deluxe Edition\)](https://open.spotify.com/album/75bQmXdU9gLCW3CG79wKBF) | 3:22 | 2026-07-16 |  |
 | [Green Screen](https://open.spotify.com/track/1P8hB555l5NAmbfIq2xvtz) | [Hektor](https://open.spotify.com/artist/6TkIRova0MUAByYUBmbVnd), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [The Divine](https://open.spotify.com/album/15tkGgCqPiqktQImQw8Uy0) | 3:57 | 2026-04-09 | 2026-07-10 |
 | [grin & bear it](https://open.spotify.com/track/1zAtgmYmIzqVW9tEsUymkB) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [grin & bear it](https://open.spotify.com/album/1jQ5ZRxtDbZxkf9EqZSr1K) | 3:17 | 2026-05-21 |  |
 | [Head In A Toaster](https://open.spotify.com/track/3imsIC8F4wV3AX7oIoIkCE) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Head In A Toaster](https://open.spotify.com/album/3fvhuLxy0ynDpYUlL5MxYM) | 1:55 | 2025-10-23 | 2026-02-13 |
@@ -145,9 +148,9 @@
 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-23 | 2026-02-21 |
 | [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-10-23 | 2025-12-19 |
 | [ONLY FREE WHEN SLEEPING](https://open.spotify.com/track/2pM5288FJrc08RobtMlEOy) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [ONLY FREE WHEN SLEEPING](https://open.spotify.com/album/6n5FhsyPFibZFYOMI5VW8x) | 2:59 | 2026-04-16 | 2026-06-12 |
-| [Out in the Cold](https://open.spotify.com/track/2C6F59QTIWhaSseXYh98HT) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Out in the Cold](https://open.spotify.com/album/0yw2HPjvofIC090IOFx28b) | 4:36 | 2026-04-09 |  |
+| [Out in the Cold](https://open.spotify.com/track/2C6F59QTIWhaSseXYh98HT) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Out in the Cold](https://open.spotify.com/album/0yw2HPjvofIC090IOFx28b) | 4:36 | 2026-04-09 | 2026-07-17 |
 | [Parasite](https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Parasite](https://open.spotify.com/album/50MUt4o2af60ChoEniSgfB) | 2:27 | 2025-10-23 | 2026-03-27 |
-| [Pieces](https://open.spotify.com/track/3sNJK6XOSqwnKZKXKXXBtK) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Pieces](https://open.spotify.com/album/65Eocfc9lOiXl4WmPPFUrp) | 4:12 | 2026-03-12 |  |
+| [Pieces](https://open.spotify.com/track/3sNJK6XOSqwnKZKXKXXBtK) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Pieces](https://open.spotify.com/album/65Eocfc9lOiXl4WmPPFUrp) | 4:12 | 2026-03-12 | 2026-07-17 |
 | [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 | 2025-11-20 | 2026-03-27 |
 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 | 2026-01-22 | 2026-03-27 |
 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-10-23 | 2026-04-24 |
@@ -182,9 +185,10 @@
 | [Sick Sad World](https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Sick Sad World](https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9) | 2:53 | 2025-10-23 | 2026-03-27 |
 | [Sidestepping](https://open.spotify.com/track/1oImQjepMT3mT3QrmbEswR) | [EXEK](https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V) | [Sidestepping](https://open.spotify.com/album/6008QvWhbj9WnLdGyBlHSu) | 4:13 | 2025-12-11 | 2026-04-03 |
 | [skyrim iii](https://open.spotify.com/track/6iJfIWtjrvGM4dZiM5jYo1) | [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [skyrim iii](https://open.spotify.com/album/3AYi45KYRwAK4eBdp3WeoX) | 3:59 | 2026-07-02 |  |
-| [SLUGLIFE](https://open.spotify.com/track/1NHC32sx6ZrSgoEid0U496) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [SLUGLIFE](https://open.spotify.com/album/3u7Yzw75rdt8wfPGISf8N9) | 4:43 | 2026-01-15 |  |
+| [SLUGLIFE](https://open.spotify.com/track/1NHC32sx6ZrSgoEid0U496) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [SLUGLIFE](https://open.spotify.com/album/3u7Yzw75rdt8wfPGISf8N9) | 4:43 | 2026-01-15 | 2026-07-17 |
 | [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [All That We Know](https://open.spotify.com/album/2IEKZcBQyuVhHxiDfvUvfb) | 3:11 | 2025-11-13 | 2026-04-10 |
 | [Smoking](https://open.spotify.com/track/7gjFBjHdCeaWcguXSvYSsW) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4), [Drunk Mums](https://open.spotify.com/artist/1vd7OHxzKOJeFKjN1M7VTb) | [Megaflower \(Deluxe\)](https://open.spotify.com/album/4jom42cmqbh61M5KPtH1KO) | 2:31 | 2025-12-11 | 2026-06-12 |
+| [Something Else to Give](https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Something Else to Give](https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0) | 4:45 | 2026-07-16 |  |
 | [Something's Different](https://open.spotify.com/track/3yXLnMwKAxaXYzvJJ84VJs) | [Marbled Eye](https://open.spotify.com/artist/3V6GV39cSmmExOhjdcM60D) | [Something's Different](https://open.spotify.com/album/2KdVk09BhHK1OPJYCv1stq) | 2:39 | 2026-06-18 |  |
 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 | 2025-10-23 | 2026-05-15 |
 | [Sooner](https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Life Advice](https://open.spotify.com/album/4rLGhG2wJkZQ1bAP4QhrCl) | 4:37 | 2025-10-23 | 2026-03-20 |
@@ -215,6 +219,7 @@
 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 | 2025-10-23 | 2026-05-22 |
 | [Today Might Be The Hit](https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Today Might Be The Hit](https://open.spotify.com/album/7pjYZia3RiUqYGtZ2FRaXT) | 2:11 | 2025-10-23 | 2026-01-23 |
 | [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 | 2026-02-12 | 2026-05-30 |
+| [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 | 2026-07-16 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-10-23 | 2025-11-14 |
 | [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 | 2026-03-05 |  |
 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-11-27 | 2026-04-10 |
@@ -227,10 +232,10 @@
 | [We Operate on Each Other](https://open.spotify.com/track/02qoqz5V9TtNxOP2pZwQR0) | [Years Of Denial](https://open.spotify.com/artist/1ANXhE0bNSbSutcZx3BNSM) | [We Operate on Each Other](https://open.spotify.com/album/7re7nOTCyhYNPK81STC1ed) | 4:33 | 2026-07-09 |  |
 | [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 | 2026-06-25 |  |
 | [WHITE NOISE](https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [WHITE NOISE](https://open.spotify.com/album/4Ujzbe9tXwfIZabmtPFAEC) | 4:24 | 2026-02-26 |  |
-| [Why Are These Men Still Alive](https://open.spotify.com/track/4oUei1ZLojAfP7iLANoR4e) | [Institute](https://open.spotify.com/artist/4pLRqnM78ur7geXMT6q2NR) | [Institute](https://open.spotify.com/album/5JBV4NEGXpbw7b5I2RArlk) | 3:54 | 2026-03-12 |  |
+| [Why Are These Men Still Alive](https://open.spotify.com/track/4oUei1ZLojAfP7iLANoR4e) | [Institute](https://open.spotify.com/artist/4pLRqnM78ur7geXMT6q2NR) | [Institute](https://open.spotify.com/album/5JBV4NEGXpbw7b5I2RArlk) | 3:54 | 2026-03-12 | 2026-07-17 |
 | [Wreckage](https://open.spotify.com/track/4aCbdFRL1BWBRNYHNmVtWD) | [Day Dreamers](https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ) | [Wreckage](https://open.spotify.com/album/0XZ2MRKbWR5snhasQV8k2t) | 2:33 | 2026-06-18 |  |
 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 | 2026-06-25 |  |
 | [デトロイト｜Detoroito](https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT) | 4:19 | 2026-06-11 |  |
-| [円相 ｜Enso](https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno) | 3:11 | 2026-05-15 |  |
+| [円相 ｜Enso](https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno) | 3:11 | 2026-05-15 | 2026-07-17 |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

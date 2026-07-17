@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60351,
+  "num_followers": 60353,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABKtvI10o5lbwae0rkLSQNfKsKH9G4G",
+  "snapshot_id": "AABK0QFUnGUlGgQwshgxEKeR5aLx3Guw",
   "tracks": [
     {
       "added_at": "2026-07-14 16:06:34",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
+        "name": "When Morning Comes Around",
+        "url": "https://open.spotify.com/album/2K5paFn84fVhXVd3tJ7mBc"
+      },
+      "artists": [
+        {
+          "name": "soft siren",
+          "url": "https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2"
+        }
+      ],
+      "duration_ms": 224512,
+      "name": "When Morning Comes Around",
+      "url": "https://open.spotify.com/track/1hf8PAxSHVT9Jq1kVgIXIB"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
         "name": "The Stars Are Talking",
         "url": "https://open.spotify.com/album/3Iiy7lavGPQUdHFFxc6Z1O"
       },
@@ -127,34 +143,54 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "Never Odd or Even",
-        "url": "https://open.spotify.com/album/5WK1rxzuCQJWCOhzKNss3l"
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/68Fv5FVNi879xNr1dhTaNk"
       },
       "artists": [
         {
-          "name": "Starcleaner Reunion",
-          "url": "https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM"
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        },
+        {
+          "name": "blissfully",
+          "url": "https://open.spotify.com/artist/1xj1FLo5l4WTh4i2D0KXta"
         }
       ],
-      "duration_ms": 279408,
-      "name": "Never Odd or Even",
-      "url": "https://open.spotify.com/track/7foQVhKpHjuzZhT3CW42xw"
+      "duration_ms": 213333,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/3JvDmEjC2eJhxokXvHUloR"
     },
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "When Morning Comes Around",
-        "url": "https://open.spotify.com/album/2K5paFn84fVhXVd3tJ7mBc"
+        "name": "Lately, Love Is Dead",
+        "url": "https://open.spotify.com/album/6PdQ0tM5tAaF9QLDwTXoer"
       },
       "artists": [
         {
-          "name": "soft siren",
-          "url": "https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2"
+          "name": "Baby Smith",
+          "url": "https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932"
         }
       ],
-      "duration_ms": 224512,
-      "name": "When Morning Comes Around",
-      "url": "https://open.spotify.com/track/1hf8PAxSHVT9Jq1kVgIXIB"
+      "duration_ms": 192883,
+      "name": "Take It Or Leave It",
+      "url": "https://open.spotify.com/track/1V64rj7vNBPvv44AgAewML"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "\u6642\u306e\u6d41\u308c\u306b\u8eab\u3092\u307e\u304b\u305b (Give Yourself to the Flow of Time)",
+        "url": "https://open.spotify.com/album/1IbZybJtAFj3loOIuaOXXy"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "duration_ms": 200875,
+      "name": "\u6642\u306e\u6d41\u308c\u306b\u8eab\u3092\u307e\u304b\u305b (Give Yourself to the Flow of Time)",
+      "url": "https://open.spotify.com/track/0essH0eEbTaJuVKsJsRVn7"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -191,90 +227,34 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/6COFvGSo78gXvCfcDAfZOD"
+        "name": "Never Odd or Even",
+        "url": "https://open.spotify.com/album/5WK1rxzuCQJWCOhzKNss3l"
       },
       "artists": [
         {
-          "name": "sachi's mirror",
-          "url": "https://open.spotify.com/artist/1IMkuXsIX04J0pESgnFX66"
+          "name": "Starcleaner Reunion",
+          "url": "https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM"
         }
       ],
-      "duration_ms": 243435,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5tqG0EIOb2ltR0AroIRMF1"
+      "duration_ms": 279408,
+      "name": "Never Odd or Even",
+      "url": "https://open.spotify.com/track/7foQVhKpHjuzZhT3CW42xw"
     },
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/68Fv5FVNi879xNr1dhTaNk"
+        "name": "Songs For, By, and Mostly About Birds",
+        "url": "https://open.spotify.com/album/1N1wMRvV4OLg5H8VVHEWeT"
       },
       "artists": [
         {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        },
-        {
-          "name": "blissfully",
-          "url": "https://open.spotify.com/artist/1xj1FLo5l4WTh4i2D0KXta"
+          "name": "tokyo france",
+          "url": "https://open.spotify.com/artist/76XxAQ6ojytWxEJcl2R29v"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/3JvDmEjC2eJhxokXvHUloR"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "better or worse",
-        "url": "https://open.spotify.com/album/28G6499URGLvuK2LXkXNpd"
-      },
-      "artists": [
-        {
-          "name": "Chris Chu",
-          "url": "https://open.spotify.com/artist/4kn7yhFpa2vRugcctK05mM"
-        },
-        {
-          "name": "POP ETC",
-          "url": "https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "better or worse",
-      "url": "https://open.spotify.com/track/70PKNC8NLIgN6hrcvnKrA9"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Starting Line",
-        "url": "https://open.spotify.com/album/0LrZLhtEzkW1VbJXfwkUh7"
-      },
-      "artists": [
-        {
-          "name": "Marmalade Eyes",
-          "url": "https://open.spotify.com/artist/76of2paa0UI34AfLaqgEdm"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Starting Line",
-      "url": "https://open.spotify.com/track/0C0pacEVRfz1hHJqYgjLev"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "\u6642\u306e\u6d41\u308c\u306b\u8eab\u3092\u307e\u304b\u305b (Give Yourself to the Flow of Time)",
-        "url": "https://open.spotify.com/album/1IbZybJtAFj3loOIuaOXXy"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 200875,
-      "name": "\u6642\u306e\u6d41\u308c\u306b\u8eab\u3092\u307e\u304b\u305b (Give Yourself to the Flow of Time)",
-      "url": "https://open.spotify.com/track/0essH0eEbTaJuVKsJsRVn7"
+      "duration_ms": 168791,
+      "name": "Estuary",
+      "url": "https://open.spotify.com/track/63e8cuUDcdFp2LaqmLipTY"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -343,22 +323,6 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "The Express",
-        "url": "https://open.spotify.com/album/0Xd04yuFXl0vUijzBLVlzk"
-      },
-      "artists": [
-        {
-          "name": "SPAER",
-          "url": "https://open.spotify.com/artist/6ZwiwZfMOEgUlSgjt558Qx"
-        }
-      ],
-      "duration_ms": 303438,
-      "name": "The Express",
-      "url": "https://open.spotify.com/track/0AWWFagnhsuzzgIwREDKLJ"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/43y2kPGvtiFxe8n8d0VEgr"
       },
@@ -371,22 +335,6 @@
       "duration_ms": 265705,
       "name": "Fated",
       "url": "https://open.spotify.com/track/3M2F1WUrcltOe0j9IoAmJw"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Lately, Love Is Dead",
-        "url": "https://open.spotify.com/album/6PdQ0tM5tAaF9QLDwTXoer"
-      },
-      "artists": [
-        {
-          "name": "Baby Smith",
-          "url": "https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932"
-        }
-      ],
-      "duration_ms": 192883,
-      "name": "Take It Or Leave It",
-      "url": "https://open.spotify.com/track/1V64rj7vNBPvv44AgAewML"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -435,22 +383,6 @@
       "duration_ms": 146750,
       "name": "Snow in July",
       "url": "https://open.spotify.com/track/3W6I2iYHi99xCIbRMOybSK"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Songs For, By, and Mostly About Birds",
-        "url": "https://open.spotify.com/album/1N1wMRvV4OLg5H8VVHEWeT"
-      },
-      "artists": [
-        {
-          "name": "tokyo france",
-          "url": "https://open.spotify.com/artist/76XxAQ6ojytWxEJcl2R29v"
-        }
-      ],
-      "duration_ms": 168791,
-      "name": "Estuary",
-      "url": "https://open.spotify.com/track/63e8cuUDcdFp2LaqmLipTY"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -531,6 +463,22 @@
       "duration_ms": 187733,
       "name": "Older Than Tomorrow",
       "url": "https://open.spotify.com/track/2yWXomTlqN8xGF0v4ZvSTa"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "A Boy Can Dream",
+        "url": "https://open.spotify.com/album/6EdU8fEwzs5J2DVdJnMTAk"
+      },
+      "artists": [
+        {
+          "name": "Otlo",
+          "url": "https://open.spotify.com/artist/7vsoughuCopQQSGdue2nr0"
+        }
+      ],
+      "duration_ms": 156349,
+      "name": "Locked Inside",
+      "url": "https://open.spotify.com/track/57pfuOo0qJb6p7nK0VoJBN"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -1423,6 +1371,22 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
+        "name": "Harrison Digital Ford Dust",
+        "url": "https://open.spotify.com/album/3Njmr15inonqEDWoduvT6s"
+      },
+      "artists": [
+        {
+          "name": "Xav Clarke",
+          "url": "https://open.spotify.com/artist/0BK5H2GSy5GScOwHyAXsTi"
+        }
+      ],
+      "duration_ms": 172323,
+      "name": "Ocho",
+      "url": "https://open.spotify.com/track/22UR7k34p0PsnhTIlMEGv4"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
         "name": "too many days i've spent waiting",
         "url": "https://open.spotify.com/album/41RwHIbfWogg6NWsdotsvV"
       },
@@ -1467,22 +1431,6 @@
       "duration_ms": 146601,
       "name": "The Last Supper, 1986",
       "url": "https://open.spotify.com/track/2zCql624Slw34fXRUUdfHH"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Harsh Times",
-        "url": "https://open.spotify.com/album/30khqvYu7sp2MgOZYohD5W"
-      },
-      "artists": [
-        {
-          "name": "Credit Card",
-          "url": "https://open.spotify.com/artist/5u88effu8DTzDF27aJD4aI"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Harsh Times",
-      "url": "https://open.spotify.com/track/223aM0Hd6pcwaD5lb6vHHp"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -1723,6 +1671,22 @@
       "duration_ms": 124375,
       "name": "Social Pressure",
       "url": "https://open.spotify.com/track/0TBBi9AdCuzpA1MuTrOk1f"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "Harsh Times",
+        "url": "https://open.spotify.com/album/30khqvYu7sp2MgOZYohD5W"
+      },
+      "artists": [
+        {
+          "name": "Credit Card",
+          "url": "https://open.spotify.com/artist/5u88effu8DTzDF27aJD4aI"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Harsh Times",
+      "url": "https://open.spotify.com/track/223aM0Hd6pcwaD5lb6vHHp"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -2559,6 +2523,22 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
+        "name": "The Express",
+        "url": "https://open.spotify.com/album/0Xd04yuFXl0vUijzBLVlzk"
+      },
+      "artists": [
+        {
+          "name": "SPAER",
+          "url": "https://open.spotify.com/artist/6ZwiwZfMOEgUlSgjt558Qx"
+        }
+      ],
+      "duration_ms": 303438,
+      "name": "The Express",
+      "url": "https://open.spotify.com/track/0AWWFagnhsuzzgIwREDKLJ"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
         "name": "Manmade Manmaid (Eilish Constance Re:mix)",
         "url": "https://open.spotify.com/album/50wXn4WcZLsvLv7W3LUiHM"
       },
@@ -2595,22 +2575,6 @@
       "duration_ms": 197000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/5QW1oElkkY3ZjoXYC0sW7m"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "A Boy Can Dream",
-        "url": "https://open.spotify.com/album/6EdU8fEwzs5J2DVdJnMTAk"
-      },
-      "artists": [
-        {
-          "name": "Otlo",
-          "url": "https://open.spotify.com/artist/7vsoughuCopQQSGdue2nr0"
-        }
-      ],
-      "duration_ms": 156349,
-      "name": "Locked Inside",
-      "url": "https://open.spotify.com/track/57pfuOo0qJb6p7nK0VoJBN"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -2783,22 +2747,6 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/4ZNfUPCsNzWj6PBChbCiDo"
-      },
-      "artists": [
-        {
-          "name": "Meghan and Marcy",
-          "url": "https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq"
-        }
-      ],
-      "duration_ms": 126338,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/4IpOouUI9vbbbh03LjiAZe"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
         "name": "Six",
         "url": "https://open.spotify.com/album/6hdOk9D1Rg4Hxzfl9LjnBF"
       },
@@ -2811,6 +2759,22 @@
       "duration_ms": 112963,
       "name": "Six",
       "url": "https://open.spotify.com/track/2LPWeRxjl9yPm1Xp2vraKQ"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/4ZNfUPCsNzWj6PBChbCiDo"
+      },
+      "artists": [
+        {
+          "name": "Meghan and Marcy",
+          "url": "https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq"
+        }
+      ],
+      "duration_ms": 126338,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/4IpOouUI9vbbbh03LjiAZe"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -3075,6 +3039,22 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/6COFvGSo78gXvCfcDAfZOD"
+      },
+      "artists": [
+        {
+          "name": "sachi's mirror",
+          "url": "https://open.spotify.com/artist/1IMkuXsIX04J0pESgnFX66"
+        }
+      ],
+      "duration_ms": 243435,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5tqG0EIOb2ltR0AroIRMF1"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
         "name": "Beautiful Midnight",
         "url": "https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka"
       },
@@ -3171,6 +3151,22 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
+        "name": "Starting Line",
+        "url": "https://open.spotify.com/album/0LrZLhtEzkW1VbJXfwkUh7"
+      },
+      "artists": [
+        {
+          "name": "Marmalade Eyes",
+          "url": "https://open.spotify.com/artist/76of2paa0UI34AfLaqgEdm"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Starting Line",
+      "url": "https://open.spotify.com/track/0C0pacEVRfz1hHJqYgjLev"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
         "name": "I Think That's Fair",
         "url": "https://open.spotify.com/album/2VumDHPHMQNL1RTng2OA7M"
       },
@@ -3183,38 +3179,6 @@
       "duration_ms": 159149,
       "name": "I Think That's Fair",
       "url": "https://open.spotify.com/track/0WWUjDxM6muRxzNZ134p3G"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Harrison Digital Ford Dust",
-        "url": "https://open.spotify.com/album/3Njmr15inonqEDWoduvT6s"
-      },
-      "artists": [
-        {
-          "name": "Xav Clarke",
-          "url": "https://open.spotify.com/artist/0BK5H2GSy5GScOwHyAXsTi"
-        }
-      ],
-      "duration_ms": 172323,
-      "name": "Ocho",
-      "url": "https://open.spotify.com/track/22UR7k34p0PsnhTIlMEGv4"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Pain Will Polish Me",
-        "url": "https://open.spotify.com/album/2gQRYx8YxrWvmS93clqLrI"
-      },
-      "artists": [
-        {
-          "name": "New German Cinema",
-          "url": "https://open.spotify.com/artist/5gssGahmFreA31AlhyKqLK"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "I Become Heavy",
-      "url": "https://open.spotify.com/track/5Vqc9YQxf6kizfA6wvi2N5"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -3235,6 +3199,22 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
+        "name": "Pain Will Polish Me",
+        "url": "https://open.spotify.com/album/2gQRYx8YxrWvmS93clqLrI"
+      },
+      "artists": [
+        {
+          "name": "New German Cinema",
+          "url": "https://open.spotify.com/artist/5gssGahmFreA31AlhyKqLK"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "I Become Heavy",
+      "url": "https://open.spotify.com/track/5Vqc9YQxf6kizfA6wvi2N5"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/1wwMXzBthvOHjiJcgle2t9"
       },
@@ -3247,22 +3227,6 @@
       "duration_ms": 158064,
       "name": "Mani",
       "url": "https://open.spotify.com/track/2BxE8WsrAu8KVnKw9W4wNu"
-    },
-    {
-      "added_at": "2026-07-14 16:06:34",
-      "album": {
-        "name": "Varied Sections",
-        "url": "https://open.spotify.com/album/280fT7awDhj6lzBhN16QG9"
-      },
-      "artists": [
-        {
-          "name": "Me at night",
-          "url": "https://open.spotify.com/artist/2ewoPxCtGBTk5zKD1zxWTm"
-        }
-      ],
-      "duration_ms": 123200,
-      "name": "Varied Sections",
-      "url": "https://open.spotify.com/track/5RRYTpUvbXYg7DgmVeY6Ky"
     },
     {
       "added_at": "2026-07-14 16:06:34",
@@ -3287,6 +3251,22 @@
     {
       "added_at": "2026-07-14 16:06:34",
       "album": {
+        "name": "Varied Sections",
+        "url": "https://open.spotify.com/album/280fT7awDhj6lzBhN16QG9"
+      },
+      "artists": [
+        {
+          "name": "Me at night",
+          "url": "https://open.spotify.com/artist/2ewoPxCtGBTk5zKD1zxWTm"
+        }
+      ],
+      "duration_ms": 123200,
+      "name": "Varied Sections",
+      "url": "https://open.spotify.com/track/5RRYTpUvbXYg7DgmVeY6Ky"
+    },
+    {
+      "added_at": "2026-07-14 16:06:34",
+      "album": {
         "name": "The Audio Of Being",
         "url": "https://open.spotify.com/album/0UYOqMcFOC8Pm4PPqgkUK6"
       },
@@ -3301,20 +3281,24 @@
       "url": "https://open.spotify.com/track/6zVTsg8rmx6B5aWT9CBUsI"
     },
     {
-      "added_at": "2026-07-08 10:32:30",
+      "added_at": "2026-07-14 16:06:34",
       "album": {
-        "name": "Tough Crush",
-        "url": "https://open.spotify.com/album/35FEL8bIQ64GSZdMsw3iDQ"
+        "name": "better or worse",
+        "url": "https://open.spotify.com/album/28G6499URGLvuK2LXkXNpd"
       },
       "artists": [
         {
-          "name": "Holy Motors",
-          "url": "https://open.spotify.com/artist/5iYU8FJ5aU8X4A77hA76st"
+          "name": "Chris Chu",
+          "url": "https://open.spotify.com/artist/4kn7yhFpa2vRugcctK05mM"
+        },
+        {
+          "name": "POP ETC",
+          "url": "https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL"
         }
       ],
-      "duration_ms": 204760,
-      "name": "Tough Crush",
-      "url": "https://open.spotify.com/track/2B4wru8bKGbHRSaODOPLUP"
+      "duration_ms": 177173,
+      "name": "better or worse",
+      "url": "https://open.spotify.com/track/70PKNC8NLIgN6hrcvnKrA9"
     },
     {
       "added_at": "2026-07-08 10:32:30",
@@ -3331,6 +3315,22 @@
       "duration_ms": 251101,
       "name": "MY NAME IS NIGHT",
       "url": "https://open.spotify.com/track/3hFEK5zfSSezpZcP2pBYAL"
+    },
+    {
+      "added_at": "2026-07-08 10:32:30",
+      "album": {
+        "name": "Tough Crush",
+        "url": "https://open.spotify.com/album/35FEL8bIQ64GSZdMsw3iDQ"
+      },
+      "artists": [
+        {
+          "name": "Holy Motors",
+          "url": "https://open.spotify.com/artist/5iYU8FJ5aU8X4A77hA76st"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Tough Crush",
+      "url": "https://open.spotify.com/track/2B4wru8bKGbHRSaODOPLUP"
     },
     {
       "added_at": "2026-07-08 10:32:30",
@@ -3799,7 +3799,7 @@
     {
       "added_at": "2026-07-08 10:32:30",
       "album": {
-        "name": "Mirrorball",
+        "name": "Red Hot Dust",
         "url": "https://open.spotify.com/album/6a6k60dfBq6iByOLlsxlTa"
       },
       "artists": [
@@ -6583,26 +6583,6 @@
       "duration_ms": 209613,
       "name": "Jeep",
       "url": "https://open.spotify.com/track/2NePND1BuFcrVdrDFR2HsS"
-    },
-    {
-      "added_at": "2026-06-28 15:37:20",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Post Break Up Beauty",
-      "url": "https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT"
     },
     {
       "added_at": "2026-06-28 15:37:20",

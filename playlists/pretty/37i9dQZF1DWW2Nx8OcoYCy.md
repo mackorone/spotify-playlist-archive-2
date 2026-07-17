@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,654 likes - 95 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,652 likes - 95 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 32 | [Let's Fall In Love \(Again\)](https://open.spotify.com/track/4MFaY2c03D6Pmw38CVtSKo) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Let's Fall In Love \(Again\)](https://open.spotify.com/album/6mvEGQbyfU2pYJ8m5UDGiR) | 3:13 |
 | 33 | [Vc Assim](https://open.spotify.com/track/6xGsea3au5U2NARv1eOtfP) | [Tom Ribeira](https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Vc Assim](https://open.spotify.com/album/2cxQTmzS9GAgWQANNVeSMj) | 3:10 |
 | 34 | [For Aziz](https://open.spotify.com/track/1Q6KZIRVZ0GbK91hFWT7pL) | [Balimaya Project](https://open.spotify.com/artist/1DJ4CACAoLHiwt6WiY8idO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [When The Dust Settles](https://open.spotify.com/album/6cUiIkYaCPUhdcjs6PbQet) | 4:48 |
-| 35 | [Finders](https://open.spotify.com/track/26S1rmY8cE3P6ZaWCNuMzg) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Finders](https://open.spotify.com/album/4iVYjatLRsW8gxtlsOlAjg) | 3:49 |
+| 35 | [Finders](https://open.spotify.com/track/26S1rmY8cE3P6ZaWCNuMzg) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Wildchild](https://open.spotify.com/artist/0tHPntFCJ48YjmDZ8utweA) | [Finders](https://open.spotify.com/album/4iVYjatLRsW8gxtlsOlAjg) | 3:49 |
 | 36 | [Opposite People](https://open.spotify.com/track/5KUWRnV44NZYjnkWNUzldH) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Newen Plays Fela](https://open.spotify.com/album/38wiZ5NMBVnXPLwk8dUiVL) | 13:38 |
 | 37 | [Sunshine Day](https://open.spotify.com/track/43ZMAzWkz24Lyd1bSDzV3p) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Soul \- 20 Scorching Soul Classics](https://open.spotify.com/album/3u1wvmFeU9DGkOkSJjbMCl) | 4:55 |
 | 38 | [Higher vibes](https://open.spotify.com/track/0VpYuut1igy8OIX38eIabD) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [The road is never easy](https://open.spotify.com/album/652BywHjB2vyUMhYJEHpL7) | 2:51 |

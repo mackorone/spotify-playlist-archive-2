@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Oikonomopoulos
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giannis Ploutarhos
 
-304 songs - 17 hr 2 min
+305 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Paramilas](https://open.spotify.com/track/1lsGFSLF0dwnxUxCprXenV) | [Giorgos Tsalikis](https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD) | [Paramilas](https://open.spotify.com/album/3ajm7TEjneVnRDzhcCdWnx) | 3:37 | 2024-10-03 | 2024-10-18 |
 | [Paraponaki Mou](https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Paraponaki Mou](https://open.spotify.com/album/0nn4UNyLy5xgRka3bSIkMa) | 3:10 | 2024-06-27 | 2024-11-15 |
 | [Parata Me](https://open.spotify.com/track/0DEVg9fete5IrurfSMp99S) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Parata Me](https://open.spotify.com/album/4ChCsQ1DvJRTbZFYeOQKBs) | 4:28 | 2025-07-17 | 2025-09-05 |
-| [Pare Na Exeis](https://open.spotify.com/track/1MGkBi3OFvputs43Hw9z15) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [Pare Na Exeis](https://open.spotify.com/album/7crwOz5bsAg7RxhzDyJtDd) | 3:40 | 2026-07-02 |  |
+| [Pare Na Exeis](https://open.spotify.com/track/1MGkBi3OFvputs43Hw9z15) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [Pare Na Exeis](https://open.spotify.com/album/7crwOz5bsAg7RxhzDyJtDd) | 3:40 | 2026-07-02 | 2026-07-17 |
 | [Pare Repo](https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Pare Repo](https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o) | 3:18 | 2025-12-11 |  |
 | [PARÉA \- co\-starring Lena Zevgara](https://open.spotify.com/track/1Ualn0R2DXgdx3OxlaGKLC) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [PARÉA \(co\-starring Lena Zevgara\)](https://open.spotify.com/album/01qQx5SUUIaPII6dedD550) | 2:33 | 2026-03-26 | 2026-04-24 |
 | [Pausipona](https://open.spotify.com/track/6yo6cqulqLF4BKo3Hewpd6) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Pausipona](https://open.spotify.com/album/7LqTAz1zU4I7RQdWWWvvKz) | 3:21 | 2025-09-11 | 2025-11-07 |
@@ -222,6 +222,7 @@
 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 | 2024-10-10 | 2026-02-27 |
 | [Pyrkagia](https://open.spotify.com/track/5RyMvI0aHmmJTkTt54z1Zk) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pyrkagia](https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn) | 2:32 | 2024-07-04 | 2024-11-29 |
 | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT) | 3:10 | 2024-06-27 | 2025-05-16 |
+| [S' Agapo San Amartia](https://open.spotify.com/track/3S9BnC9E3a2DmJ8oq6BTwu) | [Giannis Ploutarhos](https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD) | [S' Agapo San Amartia](https://open.spotify.com/album/2hoqDGJphZg8aeWZVGKFKK) | 2:49 | 2026-07-16 |  |
 | [Safari](https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Safari](https://open.spotify.com/album/3HpW5sydy4XsJACERKphUg) | 3:14 | 2026-05-28 |  |
 | [Sagapao Opos Eise](https://open.spotify.com/track/5PVTJfOgqn57DgoJqYBm3Q) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Sagapao Opos Eise](https://open.spotify.com/album/6mSACQGDMTmPZ4snco4OeA) | 3:49 | 2025-05-01 | 2025-12-01 |
 | [San Imastan Paidia](https://open.spotify.com/track/3fIYhLBLRyy4UixEVkscHA) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [San Imastan Paidia](https://open.spotify.com/album/4E5fDNZccAtU46YK5dEI3P) | 3:26 | 2025-01-23 | 2025-02-14 |

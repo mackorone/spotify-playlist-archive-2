@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/347594">連動記事</a>をSPICEでチェック!
 
-15,435 songs - 40 day 23 hr 36 min
+15,436 songs - 40 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12616,6 +12616,7 @@
 | [ラブ・ミー・モア](https://open.spotify.com/track/6xiP9Mgz8RQZW0U7Jjzi2l) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ラブ・ミー・モア](https://open.spotify.com/album/4OaFKc0z7zKY6hX6LfXSrG) | 4:35 | 2025-03-26 | 2025-04-02 |
 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |
 | [ラムジュート](https://open.spotify.com/track/5SBRBYXvnFs3ivN0JvMETg) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [ラムジュート](https://open.spotify.com/album/60N8OV0wHX7qOTtNTHY1uC) | 3:29 | 2024-12-03 | 2024-12-11 |
+| [ラムネ](https://open.spotify.com/track/5jqGMWOakY43u3SgcNCrFW) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [ラムネ](https://open.spotify.com/album/7E0UpHgD3CHwgXghaHMAnV) | 3:40 | 2026-07-14 |  |
 | [ラムネ](https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [ラムネ](https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0) | 3:42 | 2024-09-17 | 2024-09-25 |
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-01-30 | 2024-02-07 |
 | [ランダバ](https://open.spotify.com/track/08UMRM4l6pdqiYSEQjwqDg) | [claquepot](https://open.spotify.com/artist/1084DFZH8ILq4T5CMqBwe9) | [ランダバ](https://open.spotify.com/album/2ffQp1mSeEIsrg1DIeRV1a) | 3:52 | 2025-07-30 | 2025-08-06 |

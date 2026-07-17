@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\. Cover: Buruklyn Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,162 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,192 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

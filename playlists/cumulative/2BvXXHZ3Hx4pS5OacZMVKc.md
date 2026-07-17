@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-469 songs - 1 day 0 hr 2 min
+470 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Fighting Fire](https://open.spotify.com/track/3Rc7nlZh9tRkvUExvAOFtO) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Fighting Fire](https://open.spotify.com/album/6Gfa4UrB7ufXMCEjcESdWP) | 2:47 | 2022-02-03 | 2023-08-11 |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-11 |
 | [Find You There](https://open.spotify.com/track/2WxmjSYBgaswXqyWI0HPfE) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Find You There](https://open.spotify.com/album/2xpDatXqJ7n62gtGutnhOP) | 4:02 | 2022-02-03 | 2023-08-11 |
+| [FLIRT \(if i don’t mean it\)](https://open.spotify.com/track/2IeVXRC5vUV2gogxCSuMsX) | [Alie](https://open.spotify.com/artist/3bCkEIi2vdARsr7beTVvoe), [HIKING](https://open.spotify.com/artist/4c1XAfqTFxX8qqCffP1NBX) | [FLIRT \(if i don’t mean it\)](https://open.spotify.com/album/3zPqVD1bS9dY39zJHGw6cY) | 1:59 | 2026-07-16 |  |
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-08-10 | 2024-11-20 |
 | [Fly High](https://open.spotify.com/track/6ojtXsiSUApLM0FSzurWdt) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Fly High](https://open.spotify.com/album/1pEThpCM1fVR1F6EtuBvP1) | 2:26 | 2026-01-09 |  |
 | [Follow Back](https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Follow Back](https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0) | 2:04 | 2024-08-02 |  |

@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Paper Kites, Ray LaMontagne and more
+> With John Mayer, Wild Rivers, Leon Bridges and more
 
 1,600 songs - 4 day 3 hr 23 min
 

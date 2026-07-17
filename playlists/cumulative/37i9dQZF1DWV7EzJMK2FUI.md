@@ -2,7 +2,7 @@
 
 ### [Jazz in the Background](https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI)
 
-> Soft instrumental Jazz for all your activities.
+> Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
 1,766 songs - 4 day 9 hr 2 min
 

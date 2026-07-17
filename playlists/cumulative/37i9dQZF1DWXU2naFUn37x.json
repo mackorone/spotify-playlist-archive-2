@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Kid Yugi in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Il Ghost e Paky in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 115200,
       "name": "ASTP",
       "url": "https://open.spotify.com/track/3P3KlwQUfD12ggAmnbfeXt"
@@ -2428,6 +2428,28 @@
       "duration_ms": 150731,
       "name": "Avanti",
       "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
+    },
+    {
+      "album": {
+        "name": "AVE MARIA (feat. DANTE)",
+        "url": "https://open.spotify.com/album/24caiGyQsA1GU0nbYxBfq9"
+      },
+      "artists": [
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        },
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190327,
+      "name": "AVE MARIA (feat. DANTE)",
+      "url": "https://open.spotify.com/track/4Ewk1YS3kINhp0BRoLBvym"
     },
     {
       "album": {
@@ -10783,6 +10805,28 @@
     },
     {
       "album": {
+        "name": "FIGLIO DEL DESERTO",
+        "url": "https://open.spotify.com/album/69fbQM057F8RYrXlFjzGei"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112387,
+      "name": "Il traditore",
+      "url": "https://open.spotify.com/track/0moE4sXGN25fSYjyK4vvFH"
+    },
+    {
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -16651,6 +16695,28 @@
     },
     {
       "album": {
+        "name": "THE GOLDFATHER",
+        "url": "https://open.spotify.com/album/1kjxKHn2DY0X7NACBGHsJo"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "PAO PAO (feat. Lubi)",
+      "url": "https://open.spotify.com/track/36GrJGQRZpCi1Imsnz2NkN"
+    },
+    {
+      "album": {
         "name": "ERROR 442",
         "url": "https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU"
       },
@@ -17792,7 +17858,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 195090,
       "name": "Potere (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73"
@@ -18870,7 +18936,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 160000,
       "name": "RELAX",
       "url": "https://open.spotify.com/track/0Djxy0p7pplQ9eD6QoyVbw"

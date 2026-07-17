@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168,048 likes - 200 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,168,006 likes - 200 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 199 | [no limit](https://open.spotify.com/track/1LiVVZF9vQcxRMrPubGfut) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [no limit](https://open.spotify.com/album/2hi2uhEntPRPsBI2XeIPEb) | 1:51 |
 | 200 | [Wandering Youth](https://open.spotify.com/track/0DZgVl0tbe7CE4gOkBylBl) | [Takatsugu Wakabayashi](https://open.spotify.com/artist/716mtoleH0e8XKIzcEmVQ4) | [Wandering Youth](https://open.spotify.com/album/4iErkJn4xMgyUIogvZ1snA) | 2:26 |
 
-Snapshot ID: `AAAAAC4VUsxs2kWhhezwqaMWhk5abEVS`
+Snapshot ID: `AAAAAHvIbmddu0Jl+O9rERIo4imZ4w7z`

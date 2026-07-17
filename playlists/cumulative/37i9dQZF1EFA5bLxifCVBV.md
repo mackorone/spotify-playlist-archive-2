@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-301 songs - 15 hr 39 min
+302 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Shall We Say Farewell?](https://open.spotify.com/track/5VihG3dpWA2pwnm1RuTtiO) | [Dran Seitz](https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:54 | 2024-07-24 |  |
 | [Silent Spring](https://open.spotify.com/track/0QbwCYoLekb2Ghg2uL0no9) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [24K Pure Gold: Lena Horne](https://open.spotify.com/album/4J9ADhuUlC09iw50uiS0Q7) | 2:45 | 2024-07-24 | 2025-06-28 |
 | [Something Sort of Grandish](https://open.spotify.com/track/537rXttYripbcR94JtJVIn) | [Tommy Steele](https://open.spotify.com/artist/2eUMWLKLpPyMWuTgoMgEG6), [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Finian's Rainbow O.S.T.](https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz) | 3:18 | 2025-06-27 |  |
+| [Speaking Of Love](https://open.spotify.com/track/4B7AhGwyHhQUsPvHxsu7zE) | [Felicia Sanders](https://open.spotify.com/artist/6ZjmF1Gx5FLslaon1yLnDH) | [Felicia Sanders \- Golden Collection](https://open.spotify.com/album/45G0Pvrcsp9fjB5p7n1Glu) | 2:26 | 2026-07-16 |  |
 | [Speaking Of Love \- Live](https://open.spotify.com/track/6BvEWPuuFwj9u0UFqovdU4) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Live At The Cheltenham Jazz Festival](https://open.spotify.com/album/2D9jK08EyzluA2dcEiBbJ8) | 2:55 | 2024-07-24 | 2025-06-28 |
 | [Speaking of the Weather](https://open.spotify.com/track/0imL7I7SodvEK2xu05zk1k) | [Dick Powell](https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK) | [There's Two Sides to Every Story](https://open.spotify.com/album/2h0guLYfqx2MfiusyEW3Hw) | 2:57 | 2024-07-24 |  |
 | [Spiral \- Mono](https://open.spotify.com/track/6je0YNzNoeqXpKpTaL98Hu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:00 | 2024-07-24 |  |

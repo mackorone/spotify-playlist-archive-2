@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 156750,
       "name": "BETO DANCE",
       "url": "https://open.spotify.com/track/3U2UZLISDB6TjZyOQbASIg"
@@ -11352,7 +11352,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 157693,
       "name": "Damelo",
       "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
@@ -18020,7 +18020,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 186293,
       "name": "Gagicuta body show",
       "url": "https://open.spotify.com/track/0vJMLsjPvDTiryvIS7dIss"
@@ -22442,7 +22442,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "IN MINTEA TA",
       "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
@@ -23458,7 +23458,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -28032,7 +28032,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 210000,
       "name": "Mare Fumusete",
       "url": "https://open.spotify.com/track/1rKUFjNPwNHwtOspk0U8SH"
@@ -29428,7 +29428,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 233281,
       "name": "MODEL",
       "url": "https://open.spotify.com/track/0g0CvffYlfUznjEGe86Fpd"
@@ -34347,6 +34347,28 @@
     },
     {
       "album": {
+        "name": "EL PROFESOR",
+        "url": "https://open.spotify.com/album/3a3gthodQ3pazBijttglea"
+      },
+      "artists": [
+        {
+          "name": "Vali Miron",
+          "url": "https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU"
+        },
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "PASTA",
+      "url": "https://open.spotify.com/track/2erxANooYGNMlTw1zqRbsi"
+    },
+    {
+      "album": {
         "name": "FLAWLE$$ - EP",
         "url": "https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY"
       },
@@ -34796,7 +34818,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 127187,
       "name": "PETER PARKER",
       "url": "https://open.spotify.com/track/6wkXctZWq1e1L9p9nXYq1P"
@@ -48694,7 +48716,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 173679,
       "name": "Vara-i vara",
       "url": "https://open.spotify.com/track/77IZ7M02qCR7D6PDITwHi5"

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,304 songs - 3 day 3 hr 45 min
+1,305 songs - 3 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [In Your Dreams](https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [In Your Dreams](https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77) | 2:17 | 2026-04-02 | 2026-05-03 |
 | [Inconvenient](https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Inconvenient](https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM) | 4:03 | 2026-03-29 | 2026-05-03 |
 | [Indecisa Paixão](https://open.spotify.com/track/4JUfXNviaf7gAdOOEuRJha) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Indecisa Paixão](https://open.spotify.com/album/4q3DW5vcJpbum9LdU0tFST) | 3:18 | 2026-02-12 | 2026-03-15 |
+| [Inno al PC](https://open.spotify.com/track/2p4h5PZvl9pPSpIKyJGotv) | [Leone Marco Bartolo](https://open.spotify.com/artist/4siIwYrFflrWFFxKuYI11J) | [Inno al PC](https://open.spotify.com/album/1f87d1xbqwItZEjgUSaMkg) | 2:51 | 2026-07-16 |  |
 | [Innocent](https://open.spotify.com/track/6AmJ4InbpIViUHKQZcOlLg) | [Barrett Travis](https://open.spotify.com/artist/0YcRbPdiHQpKPywZ6PlIXL) | [Innocent](https://open.spotify.com/album/02bG1fDonGrUYyVlROGmUN) | 4:27 | 2026-06-27 |  |
 | [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 | 2026-02-21 | 2026-03-25 |
 | [inside](https://open.spotify.com/track/3lNti0aGSklKtAKjvBoPtf) | [CELESTE](https://open.spotify.com/artist/0n3Ta8t4LZ4JVMIwYDPs2n) | [inside](https://open.spotify.com/album/1kUCOrM4nDBUec21uEzRgG) | 2:58 | 2026-05-26 | 2026-07-03 |

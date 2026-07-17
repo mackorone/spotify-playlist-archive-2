@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 145263,
       "name": "Always Was",
       "url": "https://open.spotify.com/track/7oeF9QZEmNiAtslGRYUNHd"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 145066,
       "name": "BODYCOUNT",
       "url": "https://open.spotify.com/track/5LdF9GE0jxyCiFkGudFZ2q"
@@ -7785,6 +7785,24 @@
     },
     {
       "album": {
+        "name": "DROWNIN",
+        "url": "https://open.spotify.com/album/1yytxKUAMrRwqFKS25Y29C"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112982,
+      "name": "DROWNIN",
+      "url": "https://open.spotify.com/track/2Iud4uB4YMTpFzv32ysbHY"
+    },
+    {
+      "album": {
         "name": "Drug Me",
         "url": "https://open.spotify.com/album/5hU4t7VGCzUP0i7BND17sB"
       },
@@ -11125,6 +11143,24 @@
     },
     {
       "album": {
+        "name": "GOD Is Real",
+        "url": "https://open.spotify.com/album/3NxPjqhFqxpYCIaLkCo84w"
+      },
+      "artists": [
+        {
+          "name": "BARAKA THE KID",
+          "url": "https://open.spotify.com/artist/632zuYvAmSbcN7oXlck1DF"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142777,
+      "name": "GOD Is Real",
+      "url": "https://open.spotify.com/track/62YU7qpCGiFv8bmWNzaZYZ"
+    },
+    {
+      "album": {
         "name": "God Save the King",
         "url": "https://open.spotify.com/album/3YvPtZKraCf9nUMUwg6JLB"
       },
@@ -13771,6 +13807,24 @@
     },
     {
       "album": {
+        "name": "ILLSAMGONGGONG",
+        "url": "https://open.spotify.com/album/0zKDd0987mzYkz7k8Dnn9K"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175398,
+      "name": "ILLSAMGONGGONG",
+      "url": "https://open.spotify.com/track/43VKLZo8HnsOGld5eHG3ih"
+    },
+    {
+      "album": {
         "name": "HAIRY",
         "url": "https://open.spotify.com/album/1OpqcIEmyASxe2vHuWz1pH"
       },
@@ -14020,6 +14074,28 @@
       "duration_ms": 118441,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/32cNBS8QBWR6asKid03TvH"
+    },
+    {
+      "album": {
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/6rDQsz9op4zqX61gsKHIlQ"
+      },
+      "artists": [
+        {
+          "name": "DIBZ",
+          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
+        },
+        {
+          "name": "Rops1",
+          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Intense",
+      "url": "https://open.spotify.com/track/7pPZT3SHyk0o7rObDPDQ5N"
     },
     {
       "album": {
@@ -15284,6 +15360,24 @@
       "duration_ms": 255104,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1eMevZk9dPrdy4hWdFeRXR"
+    },
+    {
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/3TOp1uIbREUOqYUwuXq269"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161296,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/6uJNfV05iUiCpyWidj7HrG"
     },
     {
       "album": {
@@ -17788,7 +17882,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 227528,
       "name": "MOB TIES",
       "url": "https://open.spotify.com/track/6wA0UaXLi5neXMhV36G8SP"
@@ -24546,7 +24640,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 157096,
       "name": "SEE ME LEAVING",
       "url": "https://open.spotify.com/track/2IUZpZ54dN7UmwlZAzAFU5"
@@ -29524,7 +29618,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 152694,
       "name": "UH HUH!",
       "url": "https://open.spotify.com/track/7BEfgRKgGxXZWo3Fx7idIX"

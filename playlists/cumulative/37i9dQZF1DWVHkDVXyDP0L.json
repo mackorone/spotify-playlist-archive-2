@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: REDD.",
+  "description": "New and local indie noise. Cover: Stand Atlantic",
   "name": "Local Noise",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 193651,
       "name": "And What Else?",
       "url": "https://open.spotify.com/track/3QhtHCqnpNHKxNPAKjHs8b"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 194870,
       "name": "Big Train",
       "url": "https://open.spotify.com/track/6BptaiYs0MQkV3LCc0GU7G"
@@ -2012,6 +2012,24 @@
       "duration_ms": 216203,
       "name": "BODIES TOUCHING",
       "url": "https://open.spotify.com/track/0tOmUSxatklMMrVDHw2hHQ"
+    },
+    {
+      "album": {
+        "name": "Mount Zero",
+        "url": "https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153901,
+      "name": "Bonny",
+      "url": "https://open.spotify.com/track/7I2KJqvAvV909vi7w2LFOM"
     },
     {
       "album": {
@@ -3603,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/1XnUmmzTCAHFjgwmFGtXB7"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/26HBq6EeiEPfTkfHm24j1l"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194552,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/2083CrLuKn9CWQU3R75In8"
+    },
+    {
+      "album": {
         "name": "Creature of the Night",
         "url": "https://open.spotify.com/album/6g2zpfB0Yafp2FOP6gTehL"
       },
@@ -3996,7 +4032,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139750,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3KqLZAsU82M4RxZYTi7nFv"
@@ -4050,7 +4086,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 202226,
       "name": "Dexies and Adderall",
       "url": "https://open.spotify.com/track/4rK6yPAjlZP9CsyIUeBNRf"
@@ -4122,7 +4158,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 143988,
       "name": "Dirtbag",
       "url": "https://open.spotify.com/track/11V2TROCu7bSMtgHPZYGw6"
@@ -4522,7 +4558,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 225188,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/7qCM1EcfkgJLETEDo4W1gA"
@@ -4710,7 +4746,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 175650,
       "name": "Easy Honey",
       "url": "https://open.spotify.com/track/50aRcqU7YEkYrjdz7i8mR1"
@@ -5837,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/54d8rEfIJEY4tgCCh6Kw8C"
+      },
+      "artists": [
+        {
+          "name": "HEADSEND",
+          "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193831,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/12iTbkJheFx7C0QPGuLldZ"
+    },
+    {
+      "album": {
         "name": "Free As Hell",
         "url": "https://open.spotify.com/album/660q3cUSBXyj3Ib3jxfRqx"
       },
@@ -6558,6 +6612,28 @@
       "duration_ms": 154111,
       "name": "Guns in the Air",
       "url": "https://open.spotify.com/track/03k0shYB0aWPcCD5JFsDH1"
+    },
+    {
+      "album": {
+        "name": "Half Asleep Behind the Wheel",
+        "url": "https://open.spotify.com/album/28AsiDbhfcCgPTY26WmHqn"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        },
+        {
+          "name": "Little Guilt",
+          "url": "https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212081,
+      "name": "Half Asleep Behind the Wheel",
+      "url": "https://open.spotify.com/track/0LMnkc15gLwY34F41sy6df"
     },
     {
       "album": {
@@ -7978,6 +8054,24 @@
       "duration_ms": 230975,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo"
+    },
+    {
+      "album": {
+        "name": "In Spite Of Never Ending",
+        "url": "https://open.spotify.com/album/56YNxOj6YBgyjiVx83UkPN"
+      },
+      "artists": [
+        {
+          "name": "Gloam",
+          "url": "https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "In Spite Of",
+      "url": "https://open.spotify.com/track/5e1bcco2t7LBJ4qYyFTSwE"
     },
     {
       "album": {
@@ -9491,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188336,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG"
+    },
+    {
+      "album": {
         "name": "Lucky Dimes",
         "url": "https://open.spotify.com/album/5WeCbcQ2IxU5IFVx5zlf9f"
       },
@@ -10395,6 +10507,24 @@
     },
     {
       "album": {
+        "name": "Mr Speers",
+        "url": "https://open.spotify.com/album/0d1ZECj939rayDEx2bnj0J"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177743,
+      "name": "Mr Speers",
+      "url": "https://open.spotify.com/track/7ofOtpABcrftHcY4eVvDXf"
+    },
+    {
+      "album": {
         "name": "Mulberry",
         "url": "https://open.spotify.com/album/1s4YXwcN2lgfpRrga3ei4x"
       },
@@ -11116,6 +11246,24 @@
       "duration_ms": 220194,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/0xhjLlekKpHwiVuhoLPEzb"
+    },
+    {
+      "album": {
+        "name": "Okarena",
+        "url": "https://open.spotify.com/album/1RQisl8XADZWUdDJ7PBb8M"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250453,
+      "name": "Okarena",
+      "url": "https://open.spotify.com/track/798dd3c3Ag1Cqxknm2lWZK"
     },
     {
       "album": {
@@ -12888,7 +13036,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 177344,
       "name": "Reruns",
       "url": "https://open.spotify.com/track/4tLdAW48S90yWbFpij2ZWq"
@@ -14488,7 +14636,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 167824,
       "name": "So Long",
       "url": "https://open.spotify.com/track/7A207EWPEWztsNTFsAkuQb"
@@ -14704,7 +14852,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 189680,
       "name": "SORRY! CRASH!",
       "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
@@ -15282,6 +15430,24 @@
       "duration_ms": 182956,
       "name": "Streets",
       "url": "https://open.spotify.com/track/7ldmAMbqzeyvZ28YPV3X63"
+    },
+    {
+      "album": {
+        "name": "Strictly Pleasure",
+        "url": "https://open.spotify.com/album/5yixEDBq2dIeCOS3EufcWd"
+      },
+      "artists": [
+        {
+          "name": "Th' Goodside",
+          "url": "https://open.spotify.com/artist/745crg5jAnO9jtsRnQf94W"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236043,
+      "name": "Strictly Pleasure",
+      "url": "https://open.spotify.com/track/5enlXX24BqAqgo6oz7nlVp"
     },
     {
       "album": {
@@ -17019,6 +17185,24 @@
     },
     {
       "album": {
+        "name": "Naked At Your Door",
+        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
+      },
+      "artists": [
+        {
+          "name": "Day We Ran",
+          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
+    },
+    {
+      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00"
       },
@@ -17210,7 +17394,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 264503,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/70wvbulgaxQEwS5UPEcY3B"
@@ -17856,6 +18040,24 @@
       "duration_ms": 285824,
       "name": "Welcome Back (To The//Glow)",
       "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
+    },
+    {
+      "album": {
+        "name": "Welcome to My Brain",
+        "url": "https://open.spotify.com/album/3qCVhnaFmVkuHr7Wrcdo6S"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258278,
+      "name": "Welcome to My Brain",
+      "url": "https://open.spotify.com/track/3ED4oFhoGJunbyTkUaFQhc"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123524,
+  "num_followers": 123514,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVkyWeS2B4MLsKHRjbLg/CqWy89lXu",
+  "snapshot_id": "AAAVlC+BV4GUc5atI9v34OK5u/vYajof",
   "tracks": [
+    {
+      "added_at": "2026-07-16 14:59:14",
+      "album": {
+        "name": "someone u don't know",
+        "url": "https://open.spotify.com/album/1cGsLsF67oVzqCuw4N6AgK"
+      },
+      "artists": [
+        {
+          "name": "blunn",
+          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
+        },
+        {
+          "name": "KESTRINA",
+          "url": "https://open.spotify.com/artist/1tUsA8ObXSI9DHg6eGAQ33"
+        }
+      ],
+      "duration_ms": 171888,
+      "name": "someone u don't know",
+      "url": "https://open.spotify.com/track/5wORfsei8CRMCGCkS7eZZd"
+    },
     {
       "added_at": "2026-07-15 15:16:15",
       "album": {

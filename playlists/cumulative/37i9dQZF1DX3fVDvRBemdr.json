@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Monique Smit",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Frank van Etten",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 192271,
       "name": "Badkamerkraan",
       "url": "https://open.spotify.com/track/4Rgu5vBdoJEL76NsGiE9tH"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 170917,
       "name": "Boevenpad",
       "url": "https://open.spotify.com/track/2rGArT59YV48WR0CUcVseI"
@@ -3642,7 +3642,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 179117,
       "name": "Een Zomernacht Met Jou",
       "url": "https://open.spotify.com/track/0qGckEHOnka4myhw1vb7Q1"
@@ -3906,7 +3906,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 186093,
       "name": "Favoriete Kroeg",
       "url": "https://open.spotify.com/track/2cp4nyb9LF5hBgUWJIv9DU"
@@ -4097,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "Fout (3x)",
+        "url": "https://open.spotify.com/album/5MCRXELzORTrU3UerRzCCM"
+      },
+      "artists": [
+        {
+          "name": "Spang!",
+          "url": "https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163670,
+      "name": "Fout (3x)",
+      "url": "https://open.spotify.com/track/7bIygwTaS36Ph7XajHnktp"
+    },
+    {
+      "album": {
         "name": "Frans Thuis",
         "url": "https://open.spotify.com/album/5OR7PPsLA2E4exXadxkVNV"
       },
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 137198,
       "name": "Gappie Sappie",
       "url": "https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM"
@@ -5063,6 +5081,24 @@
     },
     {
       "album": {
+        "name": "Het Perfecte Recept",
+        "url": "https://open.spotify.com/album/1pRncoVMwNvzjbacEDgmvQ"
+      },
+      "artists": [
+        {
+          "name": "Bram Bongers",
+          "url": "https://open.spotify.com/artist/1vsZqaXmk54eViu1kA8FHi"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180925,
+      "name": "Het Perfecte Recept",
+      "url": "https://open.spotify.com/track/4WGEFKjIQtPiHu1voy0PB1"
+    },
+    {
+      "album": {
         "name": "Het Regent Pijpenstelen",
         "url": "https://open.spotify.com/album/4CzGuGHyT7rjwlnkHB9Szp"
       },
@@ -5633,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "Ik Dans Altijd Door Het Leven",
+        "url": "https://open.spotify.com/album/4qFKJNNtRtGBya3jM5sP3t"
+      },
+      "artists": [
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173428,
+      "name": "Ik Dans Altijd Door Het Leven",
+      "url": "https://open.spotify.com/track/194p8pZp4o3Bt6mwRIT4x1"
+    },
+    {
+      "album": {
         "name": "Ik Doe Wat Ik Wil",
         "url": "https://open.spotify.com/album/5mYxWHw4qS6KAfGCXZNcD4"
       },
@@ -6052,6 +6106,24 @@
       "duration_ms": 158991,
       "name": "Ik Pluk Een Ster",
       "url": "https://open.spotify.com/track/6IL9WqozMq9AZnj0v8jEAY"
+    },
+    {
+      "album": {
+        "name": "Ik Red Me Wel!",
+        "url": "https://open.spotify.com/album/3atu19R7DPog7y5meKTjnr"
+      },
+      "artists": [
+        {
+          "name": "Charelle",
+          "url": "https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ik Red Me Wel!",
+      "url": "https://open.spotify.com/track/0pC5LjrwyFE54NWd6tSnx2"
     },
     {
       "album": {
@@ -6580,7 +6652,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 166413,
       "name": "In Mijn Armen",
       "url": "https://open.spotify.com/track/4mdhcZaB9La4w56BETFDvr"
@@ -7316,6 +7388,24 @@
       "duration_ms": 187002,
       "name": "Kater Van De Liefde",
       "url": "https://open.spotify.com/track/63nNz8FdlSc5TmxZ8soTej"
+    },
+    {
+      "album": {
+        "name": "Kermis",
+        "url": "https://open.spotify.com/album/2IawotGNvQvnrtyScbaDMY"
+      },
+      "artists": [
+        {
+          "name": "Tom Haver",
+          "url": "https://open.spotify.com/artist/3bpto27j3QXb2vRPFEVDTK"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139144,
+      "name": "Kermis",
+      "url": "https://open.spotify.com/track/3GjAlsTyT7yUfVGM2DQxfV"
     },
     {
       "album": {
@@ -8937,6 +9027,24 @@
     },
     {
       "album": {
+        "name": "Middernacht",
+        "url": "https://open.spotify.com/album/4zkDLs2x1bs1TQ7tgk8bcA"
+      },
+      "artists": [
+        {
+          "name": "Erwin de Wit",
+          "url": "https://open.spotify.com/artist/1SM4f0kFcM98nY65BCdftt"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Middernacht",
+      "url": "https://open.spotify.com/track/4Oq3oPHTNzf0f1wFBaXE03"
+    },
+    {
+      "album": {
         "name": "Mijn Leven Leeft",
         "url": "https://open.spotify.com/album/46WI4GjauEB3pvw7QvdvHu"
       },
@@ -9306,7 +9414,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 138729,
       "name": "Niet bang voor de duivel",
       "url": "https://open.spotify.com/track/3DiQD54AFhTAs4rR4hBdB8"
@@ -10402,6 +10510,24 @@
       "duration_ms": 166950,
       "name": "Samen",
       "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
+    },
+    {
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/3KEpAkhgGb4DOqQF2lYvHD"
+      },
+      "artists": [
+        {
+          "name": "Remco Koks",
+          "url": "https://open.spotify.com/artist/78TCjgiCJZz8tCUfUVbM9I"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179655,
+      "name": "Samen",
+      "url": "https://open.spotify.com/track/2yb1hHKvHhzhU6tKg0Ut3D"
     },
     {
       "album": {
@@ -12008,7 +12134,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 160236,
       "name": "Vlam In De Pan",
       "url": "https://open.spotify.com/track/0X63JmpyxWMguhDLAjdN3V"
@@ -12618,6 +12744,24 @@
       "duration_ms": 212571,
       "name": "Wat Is Er Mooier",
       "url": "https://open.spotify.com/track/5y4jUFuzSbaFVdOGV928m1"
+    },
+    {
+      "album": {
+        "name": "Wat Kan Het Leven Toch Mooi Zijn",
+        "url": "https://open.spotify.com/album/5o6CTkrfd1HTitt9UU6ZbB"
+      },
+      "artists": [
+        {
+          "name": "Jan Biggel",
+          "url": "https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157932,
+      "name": "Wat Kan Het Leven Toch Mooi Zijn",
+      "url": "https://open.spotify.com/track/0NmfaApj5ZKnVtlAiuZzZy"
     },
     {
       "album": {

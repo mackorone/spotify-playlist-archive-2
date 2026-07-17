@@ -4,7 +4,7 @@
 
 > Dylisa kiest haar vibey tunes voor zomer ID 🤏 clock\-it\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-381 songs - 17 hr 37 min
+383 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Callin](https://open.spotify.com/track/1haY1REasyqwbGVkKeq84D) | [Syllaa](https://open.spotify.com/artist/2BJAiTDstqkddEvx7Rrd52) | [Callin](https://open.spotify.com/album/4mDVOr75Yqojd7UNTbasa9) | 2:24 | 2025-12-11 | 2026-02-13 |
 | [CAN U HANDLE](https://open.spotify.com/track/4a8C86D8b6Oh0ciWGIz7D2) | [Janice Fierce](https://open.spotify.com/artist/1XawxWRplTvDLEK8TzgWbJ), [Badboygoodvibes](https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3) | [CAN U HANDLE](https://open.spotify.com/album/6WfOOEczRA5eNScBTfl1b6) | 3:26 | 2025-07-17 | 2025-08-29 |
 | [Canvas](https://open.spotify.com/track/32pZXiV8O9r7WNFhjDj9Tm) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Canvas](https://open.spotify.com/album/0DRfxdlqVB54AZX35SK3pC) | 2:31 | 2025-11-07 | 2026-03-27 |
+| [Caribbean Girl](https://open.spotify.com/track/4VskUdh8Hn1STK1OpqEUKo) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Caribbean Girl](https://open.spotify.com/album/4L4n4M1pfCbAjp1p2KLGS2) | 2:38 | 2026-07-16 |  |
 | [Catch 22](https://open.spotify.com/track/2xktfuZ36ptqoDPzjQIeIH) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Serenity](https://open.spotify.com/album/6vOzQcSiCBjeL79b4XhhVH) | 4:10 | 2026-07-07 |  |
 | [Chain](https://open.spotify.com/track/3e7cxssFrV847TSd57Zca3) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Chain](https://open.spotify.com/album/5gsJwLoXPhgngGBTYiskJM) | 2:48 | 2026-05-15 |  |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-20 | 2026-01-30 |
@@ -135,6 +136,7 @@
 | [HEART](https://open.spotify.com/track/5MExgHwOCLbBARAv74OCOA) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [HEART](https://open.spotify.com/album/2XQKrvcYx5Oby2oTLv0xkn) | 2:26 | 2026-05-28 |  |
 | [Heel De Nacht \(met Ruskey\)](https://open.spotify.com/track/64kF8mAA5YQfdj7wsr6YDJ) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY), [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Heel De Nacht \(met Ruskey\)](https://open.spotify.com/album/185nS9VuQ834LOtmb8Nees) | 2:26 | 2025-07-17 | 2025-11-21 |
 | [Hemel Op Aarde](https://open.spotify.com/track/4q7lyUwBAMDvoFH1Godk4M) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Hemel Op Aarde](https://open.spotify.com/album/36ceG2RfvMNRfcmCDiMy4Q) | 3:08 | 2025-07-17 | 2025-08-29 |
+| [HERMES SLIDE](https://open.spotify.com/track/3sSvWm5dXOOf4ZdbMGAPQ6) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [HERMES SLIDE](https://open.spotify.com/album/73Q50MGqz21R9EisNWw31Z) | 2:25 | 2026-07-16 |  |
 | [Het Spijt Me Dat Ik Niet Perfect Ben](https://open.spotify.com/track/4kJ5Wj9tRQShRGFLVWKtBm) | [Denisha](https://open.spotify.com/artist/3gFjb8adT9OpQEfTE3Oweg) | [Het Spijt Me Dat Ik Niet Perfect Ben](https://open.spotify.com/album/362WfOqXUYW8wBNN85LbIc) | 3:36 | 2025-07-17 | 2025-10-17 |
 | [HOE](https://open.spotify.com/track/0fB4BuWrtqYf93J9aCMQQR) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [HOE](https://open.spotify.com/album/7DUERXZOl7uQJ38WB1gZqn) | 3:22 | 2026-02-19 | 2026-05-05 |
 | [Hoelang](https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Hoelang](https://open.spotify.com/album/0XMlh8RJF5RqNaX6D1bbLg) | 2:53 | 2025-07-17 | 2025-09-05 |

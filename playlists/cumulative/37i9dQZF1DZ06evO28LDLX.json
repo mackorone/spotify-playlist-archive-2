@@ -574,9 +574,35 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "date_added": "2026-07-14",
+      "date_added": "2026-07-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Mary Poppins Suite (Arr. Hough for Piano): I. Chim chim cher-ee",
+      "url": "https://open.spotify.com/track/69hPo53oMQZ1UbaiKwO2bY"
+    },
+    {
+      "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "Robert B. Sherman",
+          "url": "https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ"
+        },
+        {
+          "name": "Richard M. Sherman",
+          "url": "https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2026-07-17",
       "duration_ms": 194000,
       "name": "Mary Poppins Suite (Arr. Hough for Piano): II. Feed the Birds",
       "url": "https://open.spotify.com/track/6S47mS9cHp3gvOmRjZwGW1"

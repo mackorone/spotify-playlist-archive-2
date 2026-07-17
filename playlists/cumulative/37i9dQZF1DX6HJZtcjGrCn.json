@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244866,
+      "name": "Daughter from Hell",
+      "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
+    },
+    {
+      "album": {
         "name": "De Marginal",
         "url": "https://open.spotify.com/album/55izj5A0vkIhr465e5OlQA"
       },
@@ -5657,6 +5675,28 @@
     },
     {
       "album": {
+        "name": "Na Raiz",
+        "url": "https://open.spotify.com/album/62dIm33eQ8rUjQ2CnnhYNB"
+      },
+      "artists": [
+        {
+          "name": "Xico Gaiato",
+          "url": "https://open.spotify.com/artist/6aAB6u4yMhkK5YvtDJW1dK"
+        },
+        {
+          "name": "Bia Maria",
+          "url": "https://open.spotify.com/artist/5XA2sW4LpcNfWGhk4OPXfk"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246044,
+      "name": "Na Raiz",
+      "url": "https://open.spotify.com/track/7gADEp4pFvBHu81zd2POCQ"
+    },
+    {
+      "album": {
         "name": "Nack Nostalgia",
         "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
@@ -6264,7 +6304,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 222902,
       "name": "Odore dell'Asfalto",
       "url": "https://open.spotify.com/track/1pQitt4nZhUwvH6Dw2CjwA"
@@ -7950,7 +7990,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
@@ -8908,7 +8948,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 285294,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/5Jl9wgWYzZXZHxmiIJwPFr"
@@ -9674,6 +9714,24 @@
       "duration_ms": 222721,
       "name": "We're Onto Something (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
     },
     {
       "album": {

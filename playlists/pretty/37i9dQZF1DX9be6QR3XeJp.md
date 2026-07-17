@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Ruti
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,440 likes - 288 songs - 15 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,437 likes - 288 songs - 15 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: HAAi",
+  "description": "A new world of alternative electronic music. Cover: Pretty Girl",
   "name": "Portal",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 314000,
       "name": "86 Chambers",
       "url": "https://open.spotify.com/track/4DhIvRiqbC8biSAt2nfw0G"
@@ -928,6 +928,28 @@
       "duration_ms": 215000,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq"
+    },
+    {
+      "album": {
+        "name": "All In For You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174566,
+      "name": "All In For You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
     },
     {
       "album": {
@@ -2616,7 +2638,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
@@ -2692,6 +2714,28 @@
       "duration_ms": 307500,
       "name": "Blades",
       "url": "https://open.spotify.com/track/6uTgpkk3rOac1dCaPuKZKI"
+    },
+    {
+      "album": {
+        "name": "Blaze That Ass",
+        "url": "https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Blaze That Ass",
+      "url": "https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z"
     },
     {
       "album": {
@@ -2956,6 +3000,24 @@
       "duration_ms": 181967,
       "name": "Body Beat",
       "url": "https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu"
+    },
+    {
+      "album": {
+        "name": "Body Step",
+        "url": "https://open.spotify.com/album/5URnN4y5b5KeKrmg5c3JGA"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307786,
+      "name": "Body Step",
+      "url": "https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb"
     },
     {
       "album": {
@@ -3224,7 +3286,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 311000,
       "name": "Break Cycle",
       "url": "https://open.spotify.com/track/01gSUZsQsAOvz5MazeYesw"
@@ -4406,6 +4468,28 @@
       "duration_ms": 243692,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
+    },
+    {
+      "album": {
+        "name": "Cold at the Top (Shanti Celeste Remix)",
+        "url": "https://open.spotify.com/album/26Pql0k7TczNyZBCPOLyAf"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353444,
+      "name": "Cold at the Top - Shanti Celeste Remix",
+      "url": "https://open.spotify.com/track/68Y4z8FEhHDStugmExZpuB"
     },
     {
       "album": {
@@ -5702,6 +5786,28 @@
       "duration_ms": 345477,
       "name": "Don't Feel A Thing",
       "url": "https://open.spotify.com/track/4GmfXiutjG47Dtl72KkoZH"
+    },
+    {
+      "album": {
+        "name": "Everything Comes True",
+        "url": "https://open.spotify.com/album/2msZJ58CbKQwmhiZ0nGOom"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        },
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395490,
+      "name": "Don't Fuck Around",
+      "url": "https://open.spotify.com/track/4VNJy8KTVWNbhyY9ILhwar"
     },
     {
       "album": {
@@ -7406,7 +7512,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 499100,
       "name": "First Intention (Right Here, Right Now)",
       "url": "https://open.spotify.com/track/2cnRRxgxmTYIUwK06kNTJk"
@@ -8250,6 +8356,28 @@
       "duration_ms": 234500,
       "name": "Get Flutey",
       "url": "https://open.spotify.com/track/1Ryer7rjuIJ8UztDyMVWLG"
+    },
+    {
+      "album": {
+        "name": "Get Me Down (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194038,
+      "name": "Get Me Down (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
     },
     {
       "album": {
@@ -9898,7 +10026,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 190302,
       "name": "I Want You To Know",
       "url": "https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW"
@@ -10840,6 +10968,24 @@
       "duration_ms": 236764,
       "name": "Key103 [a56 edit]",
       "url": "https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/2u4dlmnEW2hdq7E2yv4V4p"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278895,
+      "name": "Kibbeh Nayyeh",
+      "url": "https://open.spotify.com/track/1y6x1Hc0C5sVPCfngfmfOp"
     },
     {
       "album": {
@@ -12206,7 +12352,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 238571,
       "name": "Mad",
       "url": "https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD"
@@ -12282,7 +12428,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 181498,
       "name": "Maia Maia",
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
@@ -12694,6 +12840,24 @@
       "duration_ms": 284398,
       "name": "Millennium Fields",
       "url": "https://open.spotify.com/track/7DupUlO4EdZSOuu2D8LwHs"
+    },
+    {
+      "album": {
+        "name": "Mind Blow",
+        "url": "https://open.spotify.com/album/1qbysUgSQFiOffnHALIO91"
+      },
+      "artists": [
+        {
+          "name": "CLIFFORD",
+          "url": "https://open.spotify.com/artist/6o83wCOMMLEQyR8F3GWppf"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320597,
+      "name": "Mind Blow",
+      "url": "https://open.spotify.com/track/26vQCdnaD8OujkbrUInBSF"
     },
     {
       "album": {
@@ -13542,7 +13706,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 201508,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2"
@@ -14686,7 +14850,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 416165,
       "name": "Patang",
       "url": "https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY"
@@ -16170,7 +16334,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 335665,
       "name": "Rubbing",
       "url": "https://open.spotify.com/track/4miQKb9E3kVOFwHXcqfDxv"
@@ -16946,6 +17110,24 @@
       "duration_ms": 231349,
       "name": "Show You",
       "url": "https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf"
+    },
+    {
+      "album": {
+        "name": "Clammy",
+        "url": "https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8"
+      },
+      "artists": [
+        {
+          "name": "Povoa",
+          "url": "https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Shut Me Down",
+      "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
     },
     {
       "album": {
@@ -17750,7 +17932,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 437809,
       "name": "Spiralen",
       "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
@@ -19436,7 +19618,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 413315,
       "name": "The Shit Baby",
       "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
@@ -19792,6 +19974,24 @@
       "duration_ms": 495858,
       "name": "Three Drums",
       "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+    },
+    {
+      "album": {
+        "name": "Thunder EP",
+        "url": "https://open.spotify.com/album/6CjCXLcpkqbzSgmUARdgF1"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301513,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/7FIqV18aiAsJpoeiE8pF7F"
     },
     {
       "album": {
@@ -20636,7 +20836,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 506552,
       "name": "W",
       "url": "https://open.spotify.com/track/5qa6lvwEGEzb4dyFswODX9"
@@ -20654,7 +20854,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 323440,
       "name": "Waaalk",
       "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
@@ -21292,7 +21492,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 294339,
       "name": "Who Are They?",
       "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
@@ -21542,7 +21742,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 269000,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/735lM18iNkmBwXHmUpktPx"
@@ -21753,6 +21953,28 @@
     },
     {
       "album": {
+        "name": "First Album (2009 Reissue)",
+        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376960,
+      "name": "You and Us",
+      "url": "https://open.spotify.com/track/0b2XsgdCJ8Q4DFlz4GEOZk"
+    },
+    {
+      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/0j8NWZVyLmUtvybK07T1hi"
       },
@@ -21938,7 +22160,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"

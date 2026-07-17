@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 ### [Jazz in the Background](https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI)
 
-> Soft instrumental Jazz for all your activities.
+> Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,295,729 likes - 194 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,295,919 likes - 194 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 193 | [At your place](https://open.spotify.com/track/77JtSFO9b4BXKXIBGRng1U) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [At your place](https://open.spotify.com/album/2wLyO0bm1UmYBmvF5C0JcU) | 3:18 |
 | 194 | [Wanderer](https://open.spotify.com/track/3OmfaRWLdT1itOR1B9o5hH) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Wanderer](https://open.spotify.com/album/0oKlBmIeoGk6AcrieTkQ7s) | 3:19 |
 
-Snapshot ID: `AAAAAFlYd0Uyii7XHks63FfKkXDiEZEU`
+Snapshot ID: `AAAAAPLkY80wtTvRnb96lOoFrPxyCOKg`

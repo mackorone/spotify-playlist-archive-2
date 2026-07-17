@@ -1,13 +1,29 @@
 {
   "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u5e02\u5ddd\u7a7a",
-  "num_followers": 65340,
+  "num_followers": 65345,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAId+lfn5ZmTaAx0yBaWqX/wpYaZw",
+  "snapshot_id": "AAAAAL2Od683VXLyhYTBcJOH42wdt3AN",
   "tracks": [
+    {
+      "added_at": "2026-07-16 11:54:20",
+      "album": {
+        "name": "The Only Thing I Can Do Is Think Of You",
+        "url": "https://open.spotify.com/album/7vjTpaQNXZcvkH4CnLg99t"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "duration_ms": 424386,
+      "name": "Stumbled Across A Friend",
+      "url": "https://open.spotify.com/track/58nLwfSDzOew79tDzysNuw"
+    },
     {
       "added_at": "2026-07-14 15:00:22",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g"
     },
     {
+      "added_at": "2026-07-16 15:00:46",
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
       "added_at": "2026-07-14 15:00:22",
       "album": {
         "name": "Summer Haze",
@@ -45,20 +77,52 @@
       "url": "https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK"
     },
     {
-      "added_at": "2026-07-09 15:00:25",
+      "added_at": "2026-07-16 15:00:46",
       "album": {
-        "name": "Not For A Lack Of Trying",
-        "url": "https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3"
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC"
       },
       "artists": [
         {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 154813,
-      "name": "Not For A Lack Of Trying",
-      "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
+      "duration_ms": 166809,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6"
+    },
+    {
+      "added_at": "2026-07-16 15:00:46",
+      "album": {
+        "name": "Looking Back, Looking Forward",
+        "url": "https://open.spotify.com/album/6w0M77ojQG15lyvKfwNsBq"
+      },
+      "artists": [
+        {
+          "name": "\u79e9\u7236\u82f1\u91cc",
+          "url": "https://open.spotify.com/artist/3zVWuFMxi3W6BBeKUZX8GO"
+        },
+        {
+          "name": "Remy Le Boeuf",
+          "url": "https://open.spotify.com/artist/6fKaPbQlGgDcbtF90RD8iH"
+        },
+        {
+          "name": "Charlie Lincoln",
+          "url": "https://open.spotify.com/artist/1yr32zeF3gnfCdUZwDn5xr"
+        },
+        {
+          "name": "Keita Ogawa",
+          "url": "https://open.spotify.com/artist/65DEy8AaHS57VLDqkpOm84"
+        },
+        {
+          "name": "Kan",
+          "url": "https://open.spotify.com/artist/3wjmuKXErsPpqNOtjT3j2x"
+        }
+      ],
+      "duration_ms": 369506,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/5RCinVhZYDE08L3TF4OW1R"
     },
     {
       "added_at": "2026-06-24 06:15:24",
@@ -113,6 +177,30 @@
       "url": "https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H"
     },
     {
+      "added_at": "2026-07-16 15:00:46",
+      "album": {
+        "name": "PERFECTION (feat. C.S. Armstrong)",
+        "url": "https://open.spotify.com/album/6aXV5Mr0bKAIUtqGUgdKvy"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "PERFECTION (feat. C.S. Armstrong)",
+      "url": "https://open.spotify.com/track/3Sv5trzGlBMLYFJGpuOBxG"
+    },
+    {
       "added_at": "2026-06-19 00:22:28",
       "album": {
         "name": "Rainbow",
@@ -147,6 +235,38 @@
       "duration_ms": 290962,
       "name": "\u5317\u6d77\u76c6\u5504",
       "url": "https://open.spotify.com/track/18us37rGhbqOAMyVMzwFFh"
+    },
+    {
+      "added_at": "2026-07-14 15:00:22",
+      "album": {
+        "name": "Afro-Disco Makossa",
+        "url": "https://open.spotify.com/album/0FwADFYvE0aqCpn3UwCZbK"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "duration_ms": 275482,
+      "name": "Afro-Disco Makossa",
+      "url": "https://open.spotify.com/track/0Z84DGwD7GhT2sbwui9KEU"
+    },
+    {
+      "added_at": "2026-07-14 15:00:22",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/24uo5KRoLMnZUSlCSlDGdw"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6"
     },
     {
       "added_at": "2026-07-09 15:00:25",
@@ -195,6 +315,22 @@
       "duration_ms": 390500,
       "name": "\u6df1\u6d77",
       "url": "https://open.spotify.com/track/7CGH4VjZ8YsAaXYTd0pGtZ"
+    },
+    {
+      "added_at": "2026-07-09 15:00:25",
+      "album": {
+        "name": "Not For A Lack Of Trying",
+        "url": "https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 154813,
+      "name": "Not For A Lack Of Trying",
+      "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
     },
     {
       "added_at": "2026-06-19 00:22:28",

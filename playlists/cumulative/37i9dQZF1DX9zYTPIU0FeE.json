@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the sounds of South African Jazz. Cover: Bokang Ramatlapeng",
+  "description": "Journey through the sounds of South African Jazz. Cover: SPARTZ",
   "name": "Jazz NEXT",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 236202,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
@@ -1133,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "Days Begins To Sing",
+        "url": "https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        },
+        {
+          "name": "Omagugu",
+          "url": "https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Days Begins To Sing",
+      "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
+    },
+    {
+      "album": {
         "name": "FineArt",
         "url": "https://open.spotify.com/album/5BllXS9FAeymgw1Hvkx0wo"
       },
@@ -1354,7 +1376,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 413906,
       "name": "Ebhedini",
       "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
@@ -2252,7 +2274,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 371396,
       "name": "Homecoming (Part 1) - Revisited",
       "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
@@ -4333,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Ngoma",
+        "url": "https://open.spotify.com/album/6z90PwFcPKHcUDUEyqKFEL"
+      },
+      "artists": [
+        {
+          "name": "SPARTZ",
+          "url": "https://open.spotify.com/artist/2SLukHg2sfRgdzJunl2Dt3"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337500,
+      "name": "Ngoma",
+      "url": "https://open.spotify.com/track/21HJycogNkwu5A3oaNY1e2"
+    },
+    {
+      "album": {
         "name": "Queen Nandi: The African Symphony",
         "url": "https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii"
       },
@@ -4622,6 +4662,32 @@
       "duration_ms": 407416,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/4U92fd0aF8XHZXC9p0UxtZ"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx"
+      },
+      "artists": [
+        {
+          "name": "Modise Sekgothe",
+          "url": "https://open.spotify.com/artist/19xYGHhFoNER9GR8sgUpo4"
+        },
+        {
+          "name": "Siya Makuzeni",
+          "url": "https://open.spotify.com/artist/6v9uhvfn5BnIsBCKf4Mq8k"
+        },
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/49JnjDWq7kySXbzplQsnhN"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310961,
+      "name": "One",
+      "url": "https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm"
     },
     {
       "album": {
@@ -5646,7 +5712,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 416493,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
@@ -5792,6 +5858,28 @@
       "duration_ms": 287973,
       "name": "Thandoluhle",
       "url": "https://open.spotify.com/track/2GxPHqLh2Ge58LtquJrQQT"
+    },
+    {
+      "album": {
+        "name": "Thato Ya Hao",
+        "url": "https://open.spotify.com/album/04RM5lbAmZ1xLP7XpHsGNA"
+      },
+      "artists": [
+        {
+          "name": "John Lundun",
+          "url": "https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk"
+        },
+        {
+          "name": "MODIKA.",
+          "url": "https://open.spotify.com/artist/0yIhOcXDITuo8fbnLTvR7m"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Thato Ya Hao",
+      "url": "https://open.spotify.com/track/5wwlcvBWy5VRA0ZKgQk6HP"
     },
     {
       "album": {

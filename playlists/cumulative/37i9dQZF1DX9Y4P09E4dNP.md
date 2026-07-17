@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: Joey B
 
-348 songs - 21 hr 0 min
+350 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Been A Fool For You](https://open.spotify.com/track/0zNAOKNUzpposhZ5fa2n4d) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/3Xz3fQysuw2jI6OBGgZz0a) | 4:28 | 2023-12-01 | 2024-03-05 |
 | [Bend Your Knees \(Igbo\)](https://open.spotify.com/track/2IPlPMYHB9EKXbbnXEvZBx) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Bend Your Knees \(Igbo\)](https://open.spotify.com/album/5lesINCDo6wYpEbxyS7AiJ) | 3:47 | 2024-08-25 | 2024-09-20 |
 | [Berima Nsu](https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Berima Nsu](https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76) | 2:44 | 2024-06-14 | 2024-07-19 |
+| [Biggest Nathaniel](https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1) | [N.E records](https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Biggest Nathaniel](https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf) | 2:51 | 2026-07-16 |  |
 | [Bless Me](https://open.spotify.com/track/2gdDfmkJ4UiEK3cJndPaod) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Bless Me](https://open.spotify.com/album/0lXhV0ckcu9Uu0LFW7uinP) | 4:51 | 2024-03-04 | 2025-05-30 |
 | [Blueticks](https://open.spotify.com/track/2DjvVMu9pVKAzmCt7AG5MY) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Blueticks](https://open.spotify.com/album/40HMYigmG31B8hCXDeGaC5) | 3:23 | 2025-11-28 | 2026-02-20 |
 | [BOA ME](https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HOPE PACK](https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B) | 2:48 | 2024-07-19 | 2024-08-31 |
@@ -246,6 +247,7 @@
 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2024-03-04 |  |
 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 | 2020-02-20 | 2024-03-05 |
 | [Otoolege](https://open.spotify.com/track/2h5oKtnbSNv039d7HigxU9) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/1UeiYDV3zLbRnDLdnpK8NS) | 6:40 | 2020-02-20 | 2022-07-29 |
+| [OTOTROBONSU](https://open.spotify.com/track/77Fr6MsU40jiBZ3l5hLxDB) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:31 | 2026-07-16 |  |
 | [Our Wife](https://open.spotify.com/track/51kRliH4DuTVRV20tDRr7x) | [Dancegod Lloyd](https://open.spotify.com/artist/3nWugp75P8M6hkqd0pWeI7), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Our Wife](https://open.spotify.com/album/3vBZZf0fWM78EV8ciJhz8y) | 3:48 | 2025-11-14 | 2025-12-05 |
 | [Outside \(Abonten\) \[Extended\]](https://open.spotify.com/track/15xPCOhHu3sSpj7xdqvErV) | [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Outside \(Abonten\)](https://open.spotify.com/album/2GFPzaH4f3glj2zeZGTcvD) | 4:01 | 2022-04-21 | 2022-05-20 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2020-02-20 | 2026-06-12 |

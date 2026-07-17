@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Criss Calisto",
+  "description": "Uma playlist de pura alma pop! Foto: Margarida Vasconcelos",
   "name": "Pop PT",
   "tracks": [
     {
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 226000,
       "name": "Dancemos Um Slow",
       "url": "https://open.spotify.com/track/0FfRzV2SWi46X02Hi8dO4P"
@@ -2628,6 +2628,28 @@
       "duration_ms": 178333,
       "name": "deixa falar de n\u00f3s",
       "url": "https://open.spotify.com/track/3uIei40nAPqY6qNCA8Q9oW"
+    },
+    {
+      "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/23DgcPiShxuHQdG185SVb3"
+      },
+      "artists": [
+        {
+          "name": "Nayra Mirella",
+          "url": "https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1"
+        },
+        {
+          "name": "Karen Serena",
+          "url": "https://open.spotify.com/artist/2SjERTHmEHVCmjpFue0VBB"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/0qMrUlIyYpTVuFcjcklKer"
     },
     {
       "album": {
@@ -6000,7 +6022,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 180223,
       "name": "mulher de corpo inteiro",
       "url": "https://open.spotify.com/track/00hE41WTlYqTCn4Q3PHpD1"
@@ -8716,6 +8738,24 @@
       "duration_ms": 210927,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1xoubW0lb0QniLQB1Y8zf5"
+    },
+    {
+      "album": {
+        "name": "Saudade Bateu",
+        "url": "https://open.spotify.com/album/12PERcKcO8IaMRR7IoEYZW"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Saudade Bateu",
+      "url": "https://open.spotify.com/track/2Kyt03AjDjFsfRJkAO1c80"
     },
     {
       "album": {

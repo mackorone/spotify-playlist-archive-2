@@ -1,13 +1,73 @@
 {
-  "description": "\u0643\u0627\u0641\u064a\u0627\u0631 \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u062d\u0644\u0651\u064a",
+  "description": "\u0632\u0628\u062f\u0629 \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0635\u0627\u0641\u064a\u0629. \u0661\u0660\u0660\u066a \u0635\u0646\u0627\u0639\u0629 \u0645\u062d\u0644\u064a\u0651\u0629",
   "num_followers": 40854,
   "original_name": "\u0647\u064a\u0628 \u0647\u0648\u0628\u0646\u0627",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFa+107VM/Pxe7mHkzGyvscXA91b",
+  "snapshot_id": "AAAAAKgSbBg785zdgc0eX/ubxhMWYOkO",
   "tracks": [
+    {
+      "added_at": "2026-07-16 12:58:50",
+      "album": {
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/7aY1uHmcbbKdNZe3vLmUf5"
+      },
+      "artists": [
+        {
+          "name": "Connan",
+          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
+        },
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/7Il7dirZYENWLPUMvYxLTC"
+    },
+    {
+      "added_at": "2026-07-16 12:58:50",
+      "album": {
+        "name": "CULTURE",
+        "url": "https://open.spotify.com/album/2BL4uJw64vXfWTfAUNNR20"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        },
+        {
+          "name": "Mvndila",
+          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
+        }
+      ],
+      "duration_ms": 134808,
+      "name": "CULTURE",
+      "url": "https://open.spotify.com/track/5mdg0oP9YXVLd3D6s5Y3uJ"
+    },
+    {
+      "added_at": "2026-07-16 12:58:50",
+      "album": {
+        "name": "\u0627\u0634\u0646\u0627\u0643",
+        "url": "https://open.spotify.com/album/28eIWKEmIgz7Kcg4rZM6xu"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior T",
+          "url": "https://open.spotify.com/artist/1MYUszmFEtNVSEZ2UC92Sd"
+        },
+        {
+          "name": "INSEVEN",
+          "url": "https://open.spotify.com/artist/5la1BXSjVSVTyF1E8Vj3EZ"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "\u0627\u0634\u0646\u0627\u0643",
+      "url": "https://open.spotify.com/track/0ZehBprB7kEqrboKujaVVg"
+    },
     {
       "added_at": "2026-02-27 20:15:18",
       "album": {

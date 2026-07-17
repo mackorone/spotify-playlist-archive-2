@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : BINO*",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ana\u00efs Cardot",
   "name": "le miel",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 170059,
       "name": "c'estfini? - version acoustique",
       "url": "https://open.spotify.com/track/0dGvGeZlb7bd4D7tQCQ0U0"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 173658,
       "name": "Destin, pt. II",
       "url": "https://open.spotify.com/track/4cEVazPgBYvuB4SI8V7FLX"
@@ -8181,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "spleen. social club",
+        "url": "https://open.spotify.com/album/2mFSVxcA7iG5GVdrhmN5PB"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "penelope, pt.2",
+      "url": "https://open.spotify.com/track/4ihUydbCx8R5KnjyPsQW68"
+    },
+    {
+      "album": {
         "name": "Pense \u00e0 moi",
         "url": "https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE"
       },
@@ -10030,6 +10048,24 @@
       "duration_ms": 192000,
       "name": "Situationship (STTS)",
       "url": "https://open.spotify.com/track/6CbNlvB09OfLbb4Ln1WcTb"
+    },
+    {
+      "album": {
+        "name": "SmB006 (le Dilemme)",
+        "url": "https://open.spotify.com/album/6n81YWRJIHC1NEJMctXPqX"
+      },
+      "artists": [
+        {
+          "name": "Eddy Ape",
+          "url": "https://open.spotify.com/artist/7xQU55Z6PSJAgvL2LmwU6e"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "SmB006 (le Dilemme)",
+      "url": "https://open.spotify.com/track/7q56mdXjLTLaxaGMsyPwp7"
     },
     {
       "album": {

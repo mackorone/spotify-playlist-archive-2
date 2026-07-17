@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Arde Bogot\u00e1.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Bloodstein.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 214446,
       "name": "Cu\u00e1ndo, cu\u00e1ndo",
       "url": "https://open.spotify.com/track/5KGCTaiiq0uLjrOjTlM41a"
@@ -2964,6 +2964,24 @@
       "duration_ms": 169466,
       "name": "DEPRIMIDA PERO ALTERNATIVA",
       "url": "https://open.spotify.com/track/52zFhF23fcJ9nOsPTufKtg"
+    },
+    {
+      "album": {
+        "name": "DESDE QUE YA NO EST\u00c1S",
+        "url": "https://open.spotify.com/album/2si1JsqL9dqY0ZDJLJscsW"
+      },
+      "artists": [
+        {
+          "name": "Bloodstein",
+          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "DESDE QUE YA NO EST\u00c1S",
+      "url": "https://open.spotify.com/track/48lc61H6BvktrqOjeT9CrK"
     },
     {
       "album": {
@@ -3426,6 +3444,32 @@
       "duration_ms": 181508,
       "name": "D\u00edas de Mierda",
       "url": "https://open.spotify.com/track/2Stwhp9r7OnAQeNOx5Hfej"
+    },
+    {
+      "album": {
+        "name": "D\u00d3NDE EST\u00c1N MIS AMIGOS",
+        "url": "https://open.spotify.com/album/4gUcQhcmfkICurQmD633ib"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        },
+        {
+          "name": "mrq",
+          "url": "https://open.spotify.com/artist/4l7G9iUE2qw7QzZdr33ICw"
+        },
+        {
+          "name": "AMARILLO VERANO",
+          "url": "https://open.spotify.com/artist/5tN67sOL2yhsIfCSD8VnL2"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208621,
+      "name": "D\u00d3NDE EST\u00c1N MIS AMIGOS",
+      "url": "https://open.spotify.com/track/59FbYehRrdbYO5eiRACK1r"
     },
     {
       "album": {
@@ -5288,7 +5332,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 199426,
       "name": "Hacerte desaparecer",
       "url": "https://open.spotify.com/track/6vLkWdu2Id8JVOz4rQTgun"
@@ -5865,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "La Antorcha Humana",
+        "url": "https://open.spotify.com/album/2Rldi77m1IlNjsVHH5TNRk"
+      },
+      "artists": [
+        {
+          "name": "Selvajes",
+          "url": "https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184196,
+      "name": "La Antorcha Humana",
+      "url": "https://open.spotify.com/track/5vpkeYkB97A29v47O1n171"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
       },
@@ -6302,7 +6364,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 172826,
       "name": "La Ley del Pobre",
       "url": "https://open.spotify.com/track/7x14AaXr4xkTGqoIpGWadT"
@@ -6902,7 +6964,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 188381,
       "name": "Lo que queda por sentir",
       "url": "https://open.spotify.com/track/2u3WxJjLNRbXb3WoMVPGPZ"
@@ -8857,6 +8919,24 @@
     },
     {
       "album": {
+        "name": "No te atreves",
+        "url": "https://open.spotify.com/album/5FJMzwDqkkMSc7bOVE9H9p"
+      },
+      "artists": [
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60510,
+      "name": "No te atreves",
+      "url": "https://open.spotify.com/track/26DQhrcaSnBzg256xbxnQf"
+    },
+    {
+      "album": {
         "name": "No te has enterado",
         "url": "https://open.spotify.com/album/3BJipr3byeHNGPV6TWdrK9"
       },
@@ -10334,7 +10414,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 200750,
       "name": "QUIETO TODO EL MUNDO",
       "url": "https://open.spotify.com/track/7lnwpPqvRSZIalhPhS9ggZ"
@@ -11244,6 +11324,24 @@
       "duration_ms": 154705,
       "name": "Si veo a tu mam\u00e1",
       "url": "https://open.spotify.com/track/1aEQGGN0X7ULvZ5K1LJ7l7"
+    },
+    {
+      "album": {
+        "name": "Siempre es de noche",
+        "url": "https://open.spotify.com/album/28JG2anwUgMbUFbno20Atl"
+      },
+      "artists": [
+        {
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256487,
+      "name": "Siempre es de noche",
+      "url": "https://open.spotify.com/track/3qnI3JBAg6pFdd1g2z1iOx"
     },
     {
       "album": {
@@ -12808,7 +12906,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 178748,
       "name": "Un Esfuerzo Honesto",
       "url": "https://open.spotify.com/track/3IYj3BRCbjj9EuPqdlZxkf"
@@ -13426,6 +13524,24 @@
       "duration_ms": 214991,
       "name": "William Wallace en Lancaster",
       "url": "https://open.spotify.com/track/53rKlY6KQYn9WixDYbc4Nq"
+    },
+    {
+      "album": {
+        "name": "Wilson",
+        "url": "https://open.spotify.com/album/3z61Pmo7OUhD9hC3H7N8S4"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167307,
+      "name": "Wilson",
+      "url": "https://open.spotify.com/track/6LAIoWaE8pmZ4fWTnOooxX"
     },
     {
       "album": {

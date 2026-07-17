@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Kavi",
+        "url": "https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst"
+      },
+      "artists": [
+        {
+          "name": "Berkay",
+          "url": "https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195845,
+      "name": "Amadeyim Emrine",
+      "url": "https://open.spotify.com/track/2QfoZEbanUUXZZWQJQmSkn"
+    },
+    {
+      "album": {
         "name": "Benim Hatam",
         "url": "https://open.spotify.com/album/2KKKUPW7ouGBxrEjQSuDjQ"
       },
@@ -298,6 +316,24 @@
       "duration_ms": 187678,
       "name": "Mutlu Bir Son",
       "url": "https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq"
+    },
+    {
+      "album": {
+        "name": "Kavi",
+        "url": "https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst"
+      },
+      "artists": [
+        {
+          "name": "Berkay",
+          "url": "https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224824,
+      "name": "Nank\u00f6rd\u00fck",
+      "url": "https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD"
     },
     {
       "album": {

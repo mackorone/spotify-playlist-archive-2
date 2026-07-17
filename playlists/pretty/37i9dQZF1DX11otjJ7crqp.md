@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,001 likes - 173 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,042 likes - 173 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 172 | [FATE](https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [FATE](https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p) | 3:08 |
 | 173 | [Hits Like This \(feat\. Sam Fischer\)](https://open.spotify.com/track/5f21lXEbRDLpty0X4hDSDJ) | [Issac Frank](https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hits Like This \(feat\. Sam Fischer\)](https://open.spotify.com/album/1HaQQSWT3dV14GUs9PNmXV) | 2:37 |
 
-Snapshot ID: `AAAAALIO+8KlXxtBdmWgj8Sk9T++KzI/`
+Snapshot ID: `AAAAAGMA3JWSOOh1+PktygsWnu6Kml+9`

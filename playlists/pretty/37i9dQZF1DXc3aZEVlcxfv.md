@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,673 likes - 80 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,682 likes - 80 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 79 | [Nara Ekele \- Remix](https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Nara Ekele \(Remix\)](https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9) | 6:32 |
 | 80 | [I'M BLESSED](https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f) | [Kevin Adams & Voices of Praise](https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV) | [I'M BLESSED](https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u) | 2:56 |
 
-Snapshot ID: `AAAAAIh1D7zrw6vTrxbWEPkOaaCM8q7U`
+Snapshot ID: `AAAAAHl6WUNAhBh+/noEW1xx9wU82qHX`

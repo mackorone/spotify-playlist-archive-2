@@ -3147,6 +3147,28 @@
     },
     {
       "album": {
+        "name": "FLIRT (if i don\u2019t mean it)",
+        "url": "https://open.spotify.com/album/3zPqVD1bS9dY39zJHGw6cY"
+      },
+      "artists": [
+        {
+          "name": "Alie",
+          "url": "https://open.spotify.com/artist/3bCkEIi2vdARsr7beTVvoe"
+        },
+        {
+          "name": "HIKING",
+          "url": "https://open.spotify.com/artist/4c1XAfqTFxX8qqCffP1NBX"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119600,
+      "name": "FLIRT (if i don\u2019t mean it)",
+      "url": "https://open.spotify.com/track/2IeVXRC5vUV2gogxCSuMsX"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn"
       },

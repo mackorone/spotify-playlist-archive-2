@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover:   Gyakie",
+  "description": "The hottest and recent Ghana party starters. Cover:   M.anifest",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 154909,
       "name": "A Thing I Like",
       "url": "https://open.spotify.com/track/6ZDbOXXPFVyCMjd5cfnUOU"
@@ -1714,7 +1714,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 158000,
       "name": "Backa",
       "url": "https://open.spotify.com/track/2IA463EQ4O1pHAGQx1d1U2"
@@ -2085,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "Biggest Nathaniel",
+        "url": "https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf"
+      },
+      "artists": [
+        {
+          "name": "N.E records",
+          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171483,
+      "name": "Biggest Nathaniel",
+      "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
+    },
+    {
+      "album": {
         "name": "Biibi Gyegye Wo",
         "url": "https://open.spotify.com/album/2WJLfW4BwFOKqOD5AUwh1E"
       },
@@ -2391,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153782,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"
+    },
+    {
+      "album": {
         "name": "Love In The Club (Deluxe)",
         "url": "https://open.spotify.com/album/7wmRhqrAJd1PvPSoTqPdsR"
       },
@@ -2578,7 +2618,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 150000,
       "name": "Call Me (feat. Tu Musica)",
       "url": "https://open.spotify.com/track/0AaelNpgby0eOH8Z6QvBbd"
@@ -3561,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t You Forget",
+        "url": "https://open.spotify.com/album/01Elb7M7eEhIQprV6JdJe5"
+      },
+      "artists": [
+        {
+          "name": "Kkeda",
+          "url": "https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161236,
+      "name": "Don\u2019t You Forget",
+      "url": "https://open.spotify.com/track/0IZ5b7T4D3GcoMMAZZO9EQ"
+    },
+    {
+      "album": {
         "name": "Down Flat",
         "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
       },
@@ -3926,7 +3984,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 190515,
       "name": "Exopa",
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
@@ -4036,6 +4094,28 @@
       "duration_ms": 237374,
       "name": "Fakye",
       "url": "https://open.spotify.com/track/4mQfRdTt9CLowA0UgLaLfj"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/0frPraxEiU1pQkmPY1hyZa"
+      },
+      "artists": [
+        {
+          "name": "Jubed",
+          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145364,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3i6IBV2KcWadZOmPNkOEas"
     },
     {
       "album": {
@@ -4857,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Gangster Love",
+        "url": "https://open.spotify.com/album/3hfUBH0x7VsttpaptRBpOj"
+      },
+      "artists": [
+        {
+          "name": "Baba Tundey",
+          "url": "https://open.spotify.com/artist/16hyxoxcvlNxKIkpQaaCnC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Gangster Love",
+      "url": "https://open.spotify.com/track/0ISx9ijLuADv4FGbUWHGjK"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/6zJfi1Ey442LFULpxma6vS"
       },
@@ -4908,7 +5006,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 129399,
       "name": "Genesis 2 Revelation (Shatta Music)",
       "url": "https://open.spotify.com/track/2LN77vL94QO4VixjDpqY89"
@@ -5340,6 +5438,24 @@
       "duration_ms": 173033,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "album": {
+        "name": "HANDKERCHIEF",
+        "url": "https://open.spotify.com/album/4oH9zU5EgbEPTHnD6yHFsR"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142135,
+      "name": "HANDKERCHIEF",
+      "url": "https://open.spotify.com/track/5Qvd27vGJ2quOlD3HG5qDU"
     },
     {
       "album": {
@@ -7073,6 +7189,28 @@
     },
     {
       "album": {
+        "name": "Major League",
+        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "Major League",
+      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
+    },
+    {
+      "album": {
         "name": "Sounds from the Slums",
         "url": "https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu"
       },
@@ -7314,7 +7452,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 125050,
       "name": "Masallaci",
       "url": "https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ"
@@ -7602,7 +7740,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 154285,
       "name": "Money",
       "url": "https://open.spotify.com/track/7ns280vPPmi6IOUwAkkTUs"
@@ -7998,6 +8136,24 @@
       "duration_ms": 196151,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/5Dr9jDP04xqkgHLXBxBuea"
+    },
+    {
+      "album": {
+        "name": "New Level",
+        "url": "https://open.spotify.com/album/0Cu9Vk79wCg3hZAgA2zoGW"
+      },
+      "artists": [
+        {
+          "name": "BHADMAYORS",
+          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195296,
+      "name": "New Level",
+      "url": "https://open.spotify.com/track/6UBuBbkJw9ut5E9Vb410m2"
     },
     {
       "album": {
@@ -9702,7 +9858,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 186429,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
@@ -10218,7 +10374,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 130093,
       "name": "RARRI",
       "url": "https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o"
@@ -10327,6 +10483,28 @@
     },
     {
       "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/3B2BBnGNEUoYYKRVhMlnUZ"
+      },
+      "artists": [
+        {
+          "name": "Chayuta",
+          "url": "https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r"
+        },
+        {
+          "name": "Rocktea",
+          "url": "https://open.spotify.com/artist/3TXYuBpgJljzDvczg9nywf"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249218,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/1JZ71gYPTb22R0h1H85NNG"
+    },
+    {
+      "album": {
         "name": "Euphoria - Vol. 3 : Noir Tales",
         "url": "https://open.spotify.com/album/1oPj4fcTkKIb0ypftYNXIw"
       },
@@ -10404,6 +10582,24 @@
       "duration_ms": 203093,
       "name": "Ring My Line (feat. Headie One)",
       "url": "https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4"
+    },
+    {
+      "album": {
+        "name": "Rise Up (Dandelion)",
+        "url": "https://open.spotify.com/album/2g5yUlLk3XAGC00SA6cVqN"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137475,
+      "name": "Rise Up (Dandelion)",
+      "url": "https://open.spotify.com/track/3Q4dmZRKmTFsErYSey6bfM"
     },
     {
       "album": {
@@ -11586,10 +11782,32 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 150000,
       "name": "Steeze & Composure",
       "url": "https://open.spotify.com/track/3boGlE0Apz8ej6EUojHMrj"
+    },
+    {
+      "album": {
+        "name": "Stopit",
+        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "Stopit",
+      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
     },
     {
       "album": {
@@ -11872,7 +12090,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 219310,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3CZgDqy9Tmt0LOyfKX6Qqt"
@@ -11952,6 +12170,24 @@
       "duration_ms": 190270,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
+    },
+    {
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "album": {
@@ -12474,7 +12710,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 183157,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P"
@@ -13746,7 +13982,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 150535,
       "name": "Yire (Fanfooler)",
       "url": "https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185"

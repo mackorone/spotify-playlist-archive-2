@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Bigger Splash",
+        "url": "https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Bigger Splash",
+      "url": "https://open.spotify.com/track/1Iglg0BzSGKUh1bdoloFpb"
+    },
+    {
+      "album": {
         "name": "Bombas en Madrid",
         "url": "https://open.spotify.com/album/3CvHESo4ZP1BCP9sLHEZZ0"
       },
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 276005,
       "name": "Cowboys de la A3",
       "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
@@ -4283,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "El Deseo",
+        "url": "https://open.spotify.com/album/1gcQXBzvsdZYqQo7TCFWc7"
+      },
+      "artists": [
+        {
+          "name": "WISTIMBER",
+          "url": "https://open.spotify.com/artist/2PCvP0taREKGddHdNdQuuY"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165401,
+      "name": "El Deseo",
+      "url": "https://open.spotify.com/track/1KYYbQn0y3DYLcCx0BiVgu"
+    },
+    {
+      "album": {
         "name": "EL DIABLO DE TU CORAZ\u00d3N",
         "url": "https://open.spotify.com/album/3PPSnMnIV5CQrmNv1ijw2n"
       },
@@ -5506,6 +5542,24 @@
       "duration_ms": 214553,
       "name": "Eso Que T\u00fa Me Das",
       "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
+    },
+    {
+      "album": {
+        "name": "Espacio-Tiempo",
+        "url": "https://open.spotify.com/album/1jdzfUzcRpzaI6O1TKsYLj"
+      },
+      "artists": [
+        {
+          "name": "Diagn\u00f3stico Binario",
+          "url": "https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201967,
+      "name": "Espacio-Tiempo",
+      "url": "https://open.spotify.com/track/2t0O29E4gWtdrWHlSj2p8n"
     },
     {
       "album": {
@@ -10439,6 +10493,24 @@
     },
     {
       "album": {
+        "name": "No Estar\u00e1n",
+        "url": "https://open.spotify.com/album/2CG2Kg9BBs1I71WtQfruZi"
+      },
+      "artists": [
+        {
+          "name": "Soyla",
+          "url": "https://open.spotify.com/artist/3KmfchbrYvooKRACRCWTyg"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222571,
+      "name": "No Estar\u00e1n",
+      "url": "https://open.spotify.com/track/7Gn7iExcldCRMJjE0YTeNu"
+    },
+    {
+      "album": {
         "name": "No est\u00e1s solo, tienes tu voz",
         "url": "https://open.spotify.com/album/3P6YCc0vBzfvD9a67ILS2z"
       },
@@ -11060,7 +11132,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 269072,
       "name": "Otra Vez Tus Ojos",
       "url": "https://open.spotify.com/track/3xFZZQkxtfzdOqgr2KTg9P"
@@ -12698,7 +12770,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 162638,
       "name": "Sad Men Moustache",
       "url": "https://open.spotify.com/track/161V6VIxfXO4WBs0nGnLhg"
@@ -12788,7 +12860,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 175874,
       "name": "Ser Artista",
       "url": "https://open.spotify.com/track/3oOMhibiLHUKGU8XoSm7Jl"
@@ -14306,7 +14378,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 194988,
       "name": "Tu Eres La Respuesta",
       "url": "https://open.spotify.com/track/52iBEylgUX8wbfbrLyvdUw"
@@ -14800,6 +14872,24 @@
       "duration_ms": 217900,
       "name": "Ur\u00f3boros",
       "url": "https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX"
+    },
+    {
+      "album": {
+        "name": "Vacile",
+        "url": "https://open.spotify.com/album/2axcSCIKphy7oZkrMRrG46"
+      },
+      "artists": [
+        {
+          "name": "Landa",
+          "url": "https://open.spotify.com/artist/1LjCaKfQwZug2T5TzuT2G2"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184112,
+      "name": "Vacile",
+      "url": "https://open.spotify.com/track/2Q7jMOLrepwIzmgWLqr888"
     },
     {
       "album": {

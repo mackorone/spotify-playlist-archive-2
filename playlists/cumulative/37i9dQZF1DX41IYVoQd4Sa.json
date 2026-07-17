@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Shaded Spots",
+        "url": "https://open.spotify.com/album/3poayVTJCIjZmvU43rUQ3G"
+      },
+      "artists": [
+        {
+          "name": "Shir Frum",
+          "url": "https://open.spotify.com/artist/31Cz2bC0pRyLQ7Xpsu16L9"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219780,
+      "name": "Shaded Spots",
+      "url": "https://open.spotify.com/track/3imltQVxvpZoDc0HmqV2CL"
+    },
+    {
+      "album": {
         "name": "Shot Shot Cherry",
         "url": "https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe"
       },
@@ -2971,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
+      },
+      "artists": [
+        {
+          "name": "Dana Berger",
+          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05de\u05d0",
         "url": "https://open.spotify.com/album/0bkaVLg12gPEyQvqYO6Y8M"
       },
@@ -3094,7 +3130,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 230527,
       "name": "\u05d0\u05e0\u05d9 \u05d7\u05d5\u05d6\u05e8 \u05dc\u05d0\u05de\u05d0",
       "url": "https://open.spotify.com/track/63P408wSydiTtfDXYYfifg"
@@ -5172,7 +5208,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 186745,
       "name": "\u05d9\u05d5\u05dd \u05d1\u05d4\u05d9\u05e8",
       "url": "https://open.spotify.com/track/0F9Vl6754aRNWaWTgEx2ej"
@@ -5566,6 +5602,24 @@
       "duration_ms": 203890,
       "name": "\u05db\u05d9\u05e9\u05d5\u05e3",
       "url": "https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
+      },
+      "artists": [
+        {
+          "name": "Monica Sex",
+          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
     },
     {
       "album": {
@@ -6560,7 +6614,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 201960,
       "name": "\u05de\u05d9\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/0H2WRlQmPhIww7r4JNmUJx"

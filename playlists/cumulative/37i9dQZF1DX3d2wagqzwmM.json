@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Rave The World EP",
+        "url": "https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233192,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
+    },
+    {
+      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/3o7BNIsHMzdnjuUMCkOJMj"
       },
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 166500,
       "name": "Bad Behaviour",
       "url": "https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX"
@@ -1869,6 +1887,32 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/2tno51mcmBQPpFxAbldEeM"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "Stereohats",
+          "url": "https://open.spotify.com/artist/5mXk5yufaVz1wTuEAiaBN6"
+        },
+        {
+          "name": "Linnea Schossow",
+          "url": "https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125241,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/16kXvWISs9PlN8k8fR1Bjn"
+    },
+    {
+      "album": {
         "name": "Bring Back The Techno",
         "url": "https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME"
       },
@@ -2068,6 +2112,24 @@
       "duration_ms": 207187,
       "name": "Call On Me (feat. Georgia Ku) - Justus Remix",
       "url": "https://open.spotify.com/track/5OFvLsXk7c0aBParNuigiL"
+    },
+    {
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/0B2e0dutN4UPtEYIolfza9"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142384,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/0q7VZvqvkt0atX2QJTxwNv"
     },
     {
       "album": {
@@ -5396,7 +5458,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 187384,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl"
@@ -6212,7 +6274,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 173419,
       "name": "Hypnotise",
       "url": "https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to"
@@ -6788,7 +6850,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 151945,
       "name": "It Ain't Safe (FENRIP)",
       "url": "https://open.spotify.com/track/2uvchqTMwW7gAgjuGVI2pj"
@@ -7276,6 +7338,28 @@
       "duration_ms": 114400,
       "name": "La La La",
       "url": "https://open.spotify.com/track/44teMuEcQx41IYoWdRMolu"
+    },
+    {
+      "album": {
+        "name": "La R\u00e9volution",
+        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132492,
+      "name": "La R\u00e9volution",
+      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
     },
     {
       "album": {
@@ -11426,7 +11510,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 142064,
       "name": "Retro God",
       "url": "https://open.spotify.com/track/5cSdhJmwN2yCtkOWf3z8xY"
@@ -14638,6 +14722,32 @@
       "duration_ms": 172500,
       "name": "Turn The Lights Off (Paul Elstak Remix)",
       "url": "https://open.spotify.com/track/5rc4Y6Io2RKjqDdsZR7G3R"
+    },
+    {
+      "album": {
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
     },
     {
       "album": {

@@ -46612,6 +46612,24 @@
     {
       "album": {
         "name": "\u30e9\u30e0\u30cd",
+        "url": "https://open.spotify.com/album/7E0UpHgD3CHwgXghaHMAnV"
+      },
+      "artists": [
+        {
+          "name": "Be my Girl",
+          "url": "https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220667,
+      "name": "\u30e9\u30e0\u30cd",
+      "url": "https://open.spotify.com/track/5jqGMWOakY43u3SgcNCrFW"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30e0\u30cd",
         "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
       },
       "artists": [

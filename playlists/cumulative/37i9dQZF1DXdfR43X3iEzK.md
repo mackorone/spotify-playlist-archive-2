@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️ cover: Charli xcx
+> my alt/pop could mean anything ⚔️ cover: Bella Kay
 
-707 songs - 1 day 14 hr 9 min
+711 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [a green light](https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [a green light](https://open.spotify.com/album/0aFdRy0kEmY8rOKrU5pzbI) | 2:38 | 2025-05-01 | 2025-05-31 |
 | [Accidental Black Hole](https://open.spotify.com/track/6V5jhjPr2eQMmvwJuXoXuh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Blipper](https://open.spotify.com/album/6kp9Yh8WEYWaH039iJL7NL) | 3:12 | 2025-09-11 | 2025-11-14 |
 | [Act of Innocence](https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Act of Innocence](https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG) | 3:03 | 2024-06-07 | 2024-07-31 |
+| [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 | 2026-07-16 |  |
 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-07 |  |
 | [all i ever had](https://open.spotify.com/track/3QQ2um3SEAZUXaz8sL7YVV) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [all i ever had](https://open.spotify.com/album/6GGaPCCUmyK2jzR5zI3IeA) | 2:24 | 2025-06-06 | 2025-07-25 |
 | [All I Ever Really Wanted](https://open.spotify.com/track/57s0lwZ3aDerYYvXZZfxfg) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/2yXEkzs3cPIQSwGPbb83eq) | 3:08 | 2025-04-10 | 2025-06-27 |
@@ -85,7 +86,7 @@
 | [blade bird](https://open.spotify.com/track/4Imp01XkBi3nquOhX5UGQN) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 3:18 | 2025-07-17 | 2025-10-10 |
 | [Blame it on You](https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Blame it on You](https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq) | 3:05 | 2026-02-20 | 2026-07-10 |
 | [Blindfold \(feat\. Liz Lawrence\)](https://open.spotify.com/track/3qlNhvJd7arndpEp2CFsaJ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:42 | 2024-06-07 | 2024-07-13 |
-| [BLOODY MARY](https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [BLURRY](https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU) | 3:02 | 2026-04-23 |  |
+| [BLOODY MARY](https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [BLURRY](https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU) | 3:02 | 2026-04-23 | 2026-07-17 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2025-01-02 |
 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 | 2026-03-13 | 2026-05-08 |
 | [Blue Eyes](https://open.spotify.com/track/3a5roaSfggDql7oHpBMKb9) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Blue Eyes](https://open.spotify.com/album/4eQEJgxCdf7B0OF2JTccgQ) | 2:18 | 2025-10-02 | 2025-10-10 |
@@ -290,7 +291,7 @@
 | [HEART OF DARKNESS](https://open.spotify.com/track/7kByXTZk65bHj9kP2k9yHs) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRT ON MY HANDS](https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed) | 2:31 | 2026-04-23 |  |
 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 | 2024-06-07 | 2024-07-27 |
 | [heartbreak hotel](https://open.spotify.com/track/1VvYJUC8XGh1U1vJo8y63H) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [heartbreak hotel](https://open.spotify.com/album/1kIBEr0xRymkmsXeRc2kPS) | 2:56 | 2025-03-21 | 2025-04-18 |
-| [Heavenly](https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Heavenly](https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk) | 2:42 | 2026-03-20 |  |
+| [Heavenly](https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Heavenly](https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk) | 2:42 | 2026-03-20 | 2026-07-17 |
 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-14 | 2025-04-25 |
 | [Heavy Metal](https://open.spotify.com/track/0QdrzSZig9wjp7uvPcbgve) | [Starchild & The New Romantic](https://open.spotify.com/artist/3JZZpDHgo1WxBrxuleA3Ab) | [Heavy Metal](https://open.spotify.com/album/1xp5rZLFDAqEvEwCpSj2HK) | 2:04 | 2025-05-22 | 2025-07-11 |
 | [Hello Lonely](https://open.spotify.com/track/0eFTxYwpRTxyefxYlBJq6L) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/0GpklLqjWNrhropGa4XRRD) | 3:31 | 2024-06-07 | 2024-07-25 |
@@ -298,7 +299,7 @@
 | [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [hey there \[i have a compulsive complex\]](https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA) | 2:53 | 2026-06-18 |  |
 | [HIGHER POWER](https://open.spotify.com/track/5ez3JJpecUQ1a6buXZkv5h) | [Scar](https://open.spotify.com/artist/3DyUi3wp8COAWvHHd1Qq7H) | [SCAR](https://open.spotify.com/album/62m3wnRYVBHHhAyPDufnnu) | 2:25 | 2025-05-15 | 2025-05-31 |
 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-30 | 2025-09-12 |
-| [Homesick](https://open.spotify.com/track/3XRqYhWxKdArkEunQwzBfK) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Homesick](https://open.spotify.com/album/6KnywI6lBE2r7a4MsPPXCn) | 2:28 | 2026-04-02 |  |
+| [Homesick](https://open.spotify.com/track/3XRqYhWxKdArkEunQwzBfK) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Homesick](https://open.spotify.com/album/6KnywI6lBE2r7a4MsPPXCn) | 2:28 | 2026-04-02 | 2026-07-17 |
 | [Hope More, Hopeless](https://open.spotify.com/track/5KF3rlMLECKRDzmQret8xh) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Lean In](https://open.spotify.com/album/6BfQzQ2UkZpOOAeIlt9C27) | 4:08 | 2026-03-13 | 2026-05-08 |
 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 | 2025-02-14 | 2025-03-28 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-08-08 | 2025-03-14 |
@@ -311,6 +312,7 @@
 | [I Can't Be Your Guy](https://open.spotify.com/track/2Xe3A7XPbIS6cgk3IwibAA) | [Maehem99](https://open.spotify.com/artist/5BHVQSjFU5NuIP1rRU7tDY) | [I Can't Be Your Guy](https://open.spotify.com/album/1Mojq5PETqmGpbzm635j0w) | 2:13 | 2026-04-09 | 2026-07-10 |
 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 | 2024-08-08 | 2025-03-14 |
 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-09-05 | 2025-02-23 |
+| [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 | 2026-07-16 |  |
 | [i don't wanna fight anymore](https://open.spotify.com/track/6uAhHdiZ0YewWQwi1z6qzD) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [i don't wanna fight anymore](https://open.spotify.com/album/5qqQ5iHIX45DOMmkOXf4Dt) | 4:12 | 2025-03-14 | 2025-04-11 |
 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 | 2024-07-18 | 2024-08-09 |
 | [I Guess My Time Has Come](https://open.spotify.com/track/120zM0aWGbnQrZxG2AGTLt) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [I Guess My Time Has Come](https://open.spotify.com/album/1yYSr5hkNdHW0Y5h3p7lq4) | 3:45 | 2026-04-23 | 2026-05-22 |
@@ -401,6 +403,7 @@
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-10 | 2025-02-14 |
 | [Love Again](https://open.spotify.com/track/1gnsm5hGThEmvlEt9SJyAW) | [Lyon Dolphin](https://open.spotify.com/artist/4cftN2rDHIme2VtRYU7wzb) | [Love Again](https://open.spotify.com/album/5DxlFj09UIGhyJocBZapxm) | 3:36 | 2025-06-06 | 2025-08-01 |
 | [Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Love Is A State](https://open.spotify.com/album/5Zg0eoLb7vBv7EgqfTzxRZ) | 3:52 | 2026-03-27 |  |
+| [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 | 2026-07-16 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-02-14 | 2025-03-28 |
 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 | 2024-06-07 | 2024-07-19 |
 | [Lovelorn](https://open.spotify.com/track/397ZkoEUm0yfkHCTKlHrxT) | [Beattie](https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR) | [Lovelorn](https://open.spotify.com/album/1vq4P3z0gkOrT6EQcTCrmH) | 2:36 | 2025-09-04 | 2025-10-10 |
@@ -601,7 +604,7 @@
 | [Spinning](https://open.spotify.com/track/6HjceZQpyeZgwbvPhikh6I) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Dreams For Somebody Else](https://open.spotify.com/album/4t0LiNXBlTuPifRvLivsDU) | 4:16 | 2026-04-30 | 2026-06-26 |
 | [SPIRALLING](https://open.spotify.com/track/4HNn8txPba0KsEND4YWhhG) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [SPIRALLING](https://open.spotify.com/album/0MVSaoHNpjIZPx8ZBjduAt) | 3:25 | 2025-07-17 | 2025-11-07 |
 | [SPLINTER](https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:53 | 2026-04-16 |  |
-| [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-05-21 |  |
+| [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-05-21 | 2026-07-17 |
 | [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 | 2026-02-20 | 2026-05-08 |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-07 | 2025-03-14 |
 | [Stay](https://open.spotify.com/track/5wQFpg6qoJSKy0J0IxADS0) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Light](https://open.spotify.com/album/4expJ8yHkfBI9WRu33XSRR) | 3:24 | 2025-04-03 | 2025-05-10 |
@@ -677,6 +680,7 @@
 | [Watch You Cry](https://open.spotify.com/track/58V9jnfzBFl02vdET97snL) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Watch You Cry](https://open.spotify.com/album/3051n3lHJtiS1XzjRB2xXP) | 2:29 | 2026-04-09 | 2026-05-08 |
 | [We Move](https://open.spotify.com/track/7ahvkrZ5wIpOTRBKYmL0i0) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Common People](https://open.spotify.com/album/6QuyXjOtOEWJ0RkUanzAlu) | 2:26 | 2024-08-23 | 2024-10-11 |
 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 | 2025-06-19 | 2025-08-22 |
+| [Whale Call](https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Whale Call](https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0) | 4:19 | 2026-07-16 |  |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-11 | 2026-01-16 |
 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 | 2025-03-14 | 2025-04-04 |
 | [What If You're The Love of My Life?](https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [What If You're The Love of My Life?](https://open.spotify.com/album/3gHdoNyalsBcrZ4QSJAmuc) | 2:08 | 2024-06-07 | 2024-08-09 |

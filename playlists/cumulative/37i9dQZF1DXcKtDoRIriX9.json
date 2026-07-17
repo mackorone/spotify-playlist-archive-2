@@ -2477,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "Electro Rythmes I",
+        "url": "https://open.spotify.com/album/78qhNQQ0PIBAfHqRMfAabW"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Electro Rythmes I",
+      "url": "https://open.spotify.com/track/55OsxkpUpphYLPpBEoTQFR"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3fW5Ir9IAsxLihvfEGhAue"
       },

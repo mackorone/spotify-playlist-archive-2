@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 110823,
       "name": "b side",
       "url": "https://open.spotify.com/track/6hUbKFoBqMOGJG5rnQ8qpd"
@@ -2764,6 +2764,24 @@
       "duration_ms": 122958,
       "name": "bonsai",
       "url": "https://open.spotify.com/track/3u1ZSXyd1waiy4akEjNXLl"
+    },
+    {
+      "album": {
+        "name": "Botanic",
+        "url": "https://open.spotify.com/album/19P2a6SCOyQ7aA9aovMExj"
+      },
+      "artists": [
+        {
+          "name": "Papi Pier",
+          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Botanic",
+      "url": "https://open.spotify.com/track/3byChw9Mclt1SJHnxNzB0I"
     },
     {
       "album": {
@@ -4198,7 +4216,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 108000,
       "name": "Chirping Birds",
       "url": "https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3"
@@ -8598,6 +8616,24 @@
       "duration_ms": 168000,
       "name": "Float",
       "url": "https://open.spotify.com/track/0yvdmeWytGMCzDAABS9HQ1"
+    },
+    {
+      "album": {
+        "name": "floatie",
+        "url": "https://open.spotify.com/album/4Cy8ph7lwy5dMpHmu7npxC"
+      },
+      "artists": [
+        {
+          "name": "rasbora",
+          "url": "https://open.spotify.com/artist/4wquevbkDU8HqWvxboIzYF"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "floatie",
+      "url": "https://open.spotify.com/track/2A9xeiUtMLTxY4yO3nmxvK"
     },
     {
       "album": {
@@ -15217,6 +15253,32 @@
     },
     {
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/5f3o9pTMsdp2NpnD8rN3A7"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "dennisivnvc",
+          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
+        },
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/4DTNQDl2D4w67kS6GbgyWd"
+    },
+    {
+      "album": {
         "name": "Lucky Rainbow",
         "url": "https://open.spotify.com/album/5al80m1RTAG1QgmNYZ3JR2"
       },
@@ -16544,6 +16606,24 @@
     {
       "album": {
         "name": "Mirage",
+        "url": "https://open.spotify.com/album/4vkrMkBAkXJvDc0v3nO4O0"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/7mc22R1hxHsKAmQOegIyj0"
+    },
+    {
+      "album": {
+        "name": "Mirage",
         "url": "https://open.spotify.com/album/7t4rx6Q0dN2mYIuD9LcXt0"
       },
       "artists": [
@@ -17680,7 +17760,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 183000,
       "name": "Mystery woods",
       "url": "https://open.spotify.com/track/5DC63qY7AtNFz8crUYGnrA"
@@ -21489,6 +21569,28 @@
     },
     {
       "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/05S42CrET7xkvx7OnvFeON"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
+        },
+        {
+          "name": "Oiyo",
+          "url": "https://open.spotify.com/artist/5HIjruR5eBns42y5P0r2aD"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90731,
+      "name": "Recess",
+      "url": "https://open.spotify.com/track/4hBATIpWazMNUJy5vDPkia"
+    },
+    {
+      "album": {
         "name": "recline",
         "url": "https://open.spotify.com/album/7ovMGG55n1lBsPo77s5gx3"
       },
@@ -25136,7 +25238,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 178285,
       "name": "stress",
       "url": "https://open.spotify.com/track/1qpXDdI5jrIv58z7KIADyB"
@@ -29168,7 +29270,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 129089,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/3H4uTtG1wEOaEgMt5TuTim"
@@ -29222,7 +29324,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 144000,
       "name": "warm hands, cold air",
       "url": "https://open.spotify.com/track/39I5c7yp1BrboSCjYYQ7o7"

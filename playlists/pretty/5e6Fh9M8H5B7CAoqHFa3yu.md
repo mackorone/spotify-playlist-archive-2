@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 344 likes - 2,476 songs - 6 day 1 hr 54 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 344 likes - 2,477 songs - 6 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2351,7 +2351,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2341 | [A Mais de Cem](https://open.spotify.com/track/2XwFNh4EqmDaYH5OlLdFb9) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 3:15 |
 | 2342 | [No Alto do Morro](https://open.spotify.com/track/6KDYoFFNyhV6tvqJlPUiRU) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 3:09 |
 | 2343 | [Tambor](https://open.spotify.com/track/1hiKFyb43retm8bO3MZvLK) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 2:19 |
-| 2344 | [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 |
+| 2344 | [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [Josè Sechi](https://open.spotify.com/artist/13nlBFWZVZjdFKwE8ynV16), [Davide Caddeo](https://open.spotify.com/artist/3xAmH4xE6tJXOvq3U9c5TW) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 |
 | 2345 | [Meditherranea \- Extended Mix](https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 4:03 |
 | 2346 | [Avocado Face](https://open.spotify.com/track/2QmDLGr82ouVDgyF3LAXrE) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Avocado Face](https://open.spotify.com/album/0gfsmZYVu1qwTFxlVLLOKk) | 2:36 |
 | 2347 | [I'll be back](https://open.spotify.com/track/28YNy52CqI0UwMa5n70wwA) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [I'll be back](https://open.spotify.com/album/31d7cMUoGxAt9bIKedgJJV) | 4:22 |
@@ -2484,5 +2484,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2474 | [Where the Structure Bends](https://open.spotify.com/track/3n2jTRrFP2Cgv9bZrNdKiL) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:44 |
 | 2475 | [After the Dust Settles](https://open.spotify.com/track/7IbNQFyIa84ruIy43ZH4t5) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:57 |
 | 2476 | [WOW](https://open.spotify.com/track/3zaomffGgeZhH5PxS3poTh) | [Raseem](https://open.spotify.com/artist/77ut7Rw6Wt62qO8crS2E1w) | [WOW](https://open.spotify.com/album/2woVblikP4LxCUKxMNLsHS) | 3:04 |
+| 2477 | [Borrowed Light](https://open.spotify.com/track/1bho1XejCPCYz4G6RJ3CS4) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:54 |
 
-Snapshot ID: `AAAKfHYEuGcuHps3q884+ck1AFnDcmhK`
+Snapshot ID: `AAAKfWnnH2i5kIKEObG6dkhYDiF4DDek`

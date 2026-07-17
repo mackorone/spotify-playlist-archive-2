@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-74 songs - 3 hr 52 min
+75 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Legalize \(Acoustic\)](https://open.spotify.com/track/1U4PkTVS92UKPalWeiDa7z) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize \(Acoustic\)](https://open.spotify.com/album/79HVnTC5lntDM2MjgDeIug) | 2:26 | 2024-02-16 |  |
 | [Let it be](https://open.spotify.com/track/4scQQdvqjzCtOcxVs8r8Ia) | [Victoria Gichora](https://open.spotify.com/artist/29bVNgK0J0XNLcYqi1xsG0) | [Let it be](https://open.spotify.com/album/6rz8CVtzWCV2rAfQDSHWDq) | 3:01 | 2024-07-18 | 2024-10-19 |
 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 | 2024-02-16 |  |
+| [Lights](https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz) | [Big Tril](https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG), [Keya Nemesis](https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao), [4ourton](https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk) | [Lights](https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63) | 5:00 | 2026-07-16 |  |
 | [Lonely At The Top \- Acoustic](https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top EP](https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN) | 2:40 | 2024-02-16 |  |
 | [Look What You Made Me Do \(with Simi\) \- Acoustic](https://open.spotify.com/track/4P5lDKLKvsrVoxiXfR90KI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Look What You Made Me Do \(Acoustic\)](https://open.spotify.com/album/3fpD30KH5gy3ytYXluMxrT) | 2:55 | 2024-02-16 |  |
 | [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-10-03 |  |

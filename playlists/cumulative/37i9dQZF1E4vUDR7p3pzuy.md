@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With MIK's Reaction, David Von Beahm, Hrafnsson and more
+> With MIK's Reaction, David Von Beahm, JUST LIZZY and more
 
 1,001 songs - 2 day 16 hr 4 min
 

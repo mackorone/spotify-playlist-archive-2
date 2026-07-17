@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16265,
+  "num_followers": 16270,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAACXRuUVxOocCT5cFnpxA3FI",
+  "snapshot_id": "albNgAAAAAD9vIEWmi7qRfdcKtVivw9G",
   "tracks": [
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIANCA (Deluxe)",
+        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "CARPET",
+      "url": "https://open.spotify.com/track/6cG2pBAPbDgxdYPIr9Mfai"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "moo",
         "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIANCA (Deluxe)",
-        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Rio Da Yung Og",
-          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "CARPET",
-      "url": "https://open.spotify.com/track/6cG2pBAPbDgxdYPIr9Mfai"
     },
     {
       "added_at": null,
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 167354,
-      "name": "PRIVATE",
-      "url": "https://open.spotify.com/track/0ISd1Gq5KrdZRlXOdPilyp"
+      "duration_ms": 167804,
+      "name": "DIRTY BITCH",
+      "url": "https://open.spotify.com/track/6TqH7xhC0vKeoLFFQlhcIK"
     }
   ],
   "unique_name": "This Is BIA",

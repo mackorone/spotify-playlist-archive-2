@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Confidence Man\n",
+  "description": "The home for alternative electronic music. Cover: Nia Archives\n",
   "name": "Altar",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 197311,
       "name": "4 us",
       "url": "https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS"
@@ -8817,6 +8817,24 @@
     },
     {
       "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+    },
+    {
+      "album": {
         "name": "Silkworm",
         "url": "https://open.spotify.com/album/5OHnpPZroept4tmsAdwfQP"
       },
@@ -14784,7 +14802,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 232131,
       "name": "Kelsier",
       "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
@@ -14958,6 +14976,28 @@
       "duration_ms": 225333,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/0wVRGzdbEwKGomyficzJV7"
+    },
+    {
+      "album": {
+        "name": "Knight In Shining Prada",
+        "url": "https://open.spotify.com/album/1nGTvi4XveHqEitXJHfOiQ"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "John Joseph Holt",
+          "url": "https://open.spotify.com/artist/3unwE3gwoHwyvsUnSUAGVC"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257035,
+      "name": "Knight In Shining Prada",
+      "url": "https://open.spotify.com/track/3liYWWSuD0zcytDMrUqsEq"
     },
     {
       "album": {
@@ -16076,7 +16116,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 124878,
       "name": "LOVE CALLS",
       "url": "https://open.spotify.com/track/7dWN5JkVhhZSMPfRkGJ0kB"
@@ -19878,7 +19918,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 151777,
       "name": "Papi",
       "url": "https://open.spotify.com/track/5UEklGu4o74KKMtPPZ2zo8"
@@ -20975,6 +21015,28 @@
     },
     {
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/4QpjUojSJeFkoqW4qMioyg"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "howtin",
+          "url": "https://open.spotify.com/artist/17n21mJLkfRIaCnyYzuqWU"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291956,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2TUAiQIUA0wKnQcpJslfoh"
+    },
+    {
+      "album": {
         "name": "Pumpin",
         "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
       },
@@ -21152,7 +21214,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 199384,
       "name": "Put That Banger On Next",
       "url": "https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e"
@@ -25323,6 +25385,24 @@
     },
     {
       "album": {
+        "name": "SAGA004",
+        "url": "https://open.spotify.com/album/5ggTXqpDKZIemTJHM9mEis"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Sunpetal",
+      "url": "https://open.spotify.com/track/4eZ86BB6u2BZXj7ilo1mk4"
+    },
+    {
+      "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
         "url": "https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f"
       },
@@ -25776,6 +25856,24 @@
       "duration_ms": 157570,
       "name": "TANK IT",
       "url": "https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r"
+    },
+    {
+      "album": {
+        "name": "Tatiana",
+        "url": "https://open.spotify.com/album/6ud88mfuIseHuaLe3wzIXL"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205715,
+      "name": "Tatiana",
+      "url": "https://open.spotify.com/track/58AdHNWPznp7kJ6C9RzxYE"
     },
     {
       "album": {
@@ -27042,7 +27140,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 151968,
       "name": "Thru My Mind",
       "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
@@ -28080,6 +28178,24 @@
       "duration_ms": 240492,
       "name": "U DO",
       "url": "https://open.spotify.com/track/6LTPzG9ONMja1bvY2yDYZt"
+    },
+    {
+      "album": {
+        "name": "U GO",
+        "url": "https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "U GO",
+      "url": "https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd"
     },
     {
       "album": {
@@ -29922,7 +30038,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 256079,
       "name": "Wonderluv",
       "url": "https://open.spotify.com/track/6w28PfNPGBrfuaHRrOJ0aE"
@@ -30622,6 +30738,28 @@
       "duration_ms": 156253,
       "name": "ZERO FIVE STARS",
       "url": "https://open.spotify.com/track/2HXLC1alUzezTMoBM0Sxkb"
+    },
+    {
+      "album": {
+        "name": "Zonda",
+        "url": "https://open.spotify.com/album/4QaLdyngCMSx40IjeNyffI"
+      },
+      "artists": [
+        {
+          "name": "Unsho",
+          "url": "https://open.spotify.com/artist/0A2nctTDfeBWmTnvwfWdVP"
+        },
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234120,
+      "name": "Zonda",
+      "url": "https://open.spotify.com/track/02SzQvkqj0gPmai51pkls5"
     },
     {
       "album": {

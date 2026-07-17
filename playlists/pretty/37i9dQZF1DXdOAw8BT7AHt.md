@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Show Me the Body
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,830 likes - 130 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,838 likes - 130 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

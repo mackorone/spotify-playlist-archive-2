@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Tssara, Die Mannequin, Mia Morris and more
+> With Tssara, Die Mannequin, Cherri Bomb and more
 
 593 songs - 1 day 7 hr 40 min
 

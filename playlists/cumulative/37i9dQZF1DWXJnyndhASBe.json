@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Sentino",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "A TY CO",
+        "url": "https://open.spotify.com/album/1yhOLSN3ySHn2wvPLG9Rhw"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "A TY CO",
+      "url": "https://open.spotify.com/track/4imAERwtTsu2G294balxT3"
+    },
+    {
+      "album": {
         "name": "A ty co?",
         "url": "https://open.spotify.com/album/3nUntRCPVHxANbFbapjqYc"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 158181,
       "name": "BABY?",
       "url": "https://open.spotify.com/track/0tYT7BN5IYY8u5pjP1Sv79"
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 135944,
       "name": "Bankroll",
       "url": "https://open.spotify.com/track/0hG1z7f9BeGBbDB25tJ0Ew"
@@ -3159,6 +3177,28 @@
     },
     {
       "album": {
+        "name": "Hania",
+        "url": "https://open.spotify.com/album/05WueF3p4x1A3aeNAD6AQ4"
+      },
+      "artists": [
+        {
+          "name": "Wenext",
+          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+        },
+        {
+          "name": "Pawella",
+          "url": "https://open.spotify.com/artist/6TVzi49bBN1JAwcHDiN5AH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91812,
+      "name": "By\u0107 Tam",
+      "url": "https://open.spotify.com/track/7k8XG9BnCITMDb1fe0VU82"
+    },
+    {
+      "album": {
         "name": "PROXL3M",
         "url": "https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8"
       },
@@ -4154,6 +4194,36 @@
       "duration_ms": 142222,
       "name": "ch\u0142opaki p\u0142acz\u0105",
       "url": "https://open.spotify.com/track/1d0mXv4ZWp54rYduSntIfA"
+    },
+    {
+      "album": {
+        "name": "Ch\u0142opy Don't Cry",
+        "url": "https://open.spotify.com/album/3I8QrVEiVBirvd36mE0NPY"
+      },
+      "artists": [
+        {
+          "name": "Szwed Swd",
+          "url": "https://open.spotify.com/artist/6DFpXEOsxD5MHDnglPQlk9"
+        },
+        {
+          "name": "Polskii",
+          "url": "https://open.spotify.com/artist/3K9F67zinkRZv0KQ24v35c"
+        },
+        {
+          "name": "Ketz 03k",
+          "url": "https://open.spotify.com/artist/3qWoO79m8VMp60GWsYU3Ln"
+        },
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Ch\u0142opy Don't Cry",
+      "url": "https://open.spotify.com/track/5gYnqRcV7Q08D7dKJ210MB"
     },
     {
       "album": {
@@ -7665,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "GDZIE BY\u0141A\u015a?",
+        "url": "https://open.spotify.com/album/7sJmc0BtJbI60RVzBHaFzO"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181669,
+      "name": "GDZIE BY\u0141A\u015a?",
+      "url": "https://open.spotify.com/track/7abcELihvxiCAMjRAZj4IW"
+    },
+    {
+      "album": {
         "name": "GDZIE JEST STARY MISZEL?",
         "url": "https://open.spotify.com/album/7IFZchl539KQwRyE17rLaR"
       },
@@ -9964,6 +10052,36 @@
       "duration_ms": 171795,
       "name": "JZWWZJ",
       "url": "https://open.spotify.com/track/0oWCC1rQRKb9oAWZUKAHMF"
+    },
+    {
+      "album": {
+        "name": "K <3",
+        "url": "https://open.spotify.com/album/5B9XVqCtc3JPW84Z5xQOUR"
+      },
+      "artists": [
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        },
+        {
+          "name": "Jasq",
+          "url": "https://open.spotify.com/artist/32Outb7Q3w7dRQUhUqpvpl"
+        },
+        {
+          "name": "Golfie",
+          "url": "https://open.spotify.com/artist/06UNOJMyXTQsGzg8bBa1EI"
+        },
+        {
+          "name": "Koder",
+          "url": "https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "K <3",
+      "url": "https://open.spotify.com/track/0SZrwDi5x1CNnVGe66NaGj"
     },
     {
       "album": {
@@ -21128,7 +21246,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 205781,
       "name": "Sweet home",
       "url": "https://open.spotify.com/track/008HCnPWFXsFqw3nDB4Lbd"
@@ -21304,7 +21422,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 124254,
       "name": "szpilkki",
       "url": "https://open.spotify.com/track/4Hpjxi2QkNsHADNiz2Zt44"
@@ -22618,7 +22736,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 121142,
       "name": "ULUBIENIEC TWOJEJ MAMY",
       "url": "https://open.spotify.com/track/0rgAOSiRT5vnyQR9Q7UKau"
@@ -23322,6 +23440,24 @@
       "duration_ms": 128000,
       "name": "Warszawski sen",
       "url": "https://open.spotify.com/track/7LNCrb1DHozaapgpOsRwgj"
+    },
+    {
+      "album": {
+        "name": "WARTO K\u0141AMA\u0106",
+        "url": "https://open.spotify.com/album/3hFAYv5PEAQzxEzphGkfjb"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "WARTO K\u0141AMA\u0106",
+      "url": "https://open.spotify.com/track/1RGVsQuc33hkiE7BqLoGjt"
     },
     {
       "album": {
@@ -24389,6 +24525,78 @@
     },
     {
       "album": {
+        "name": "Za p\u00f3\u017ano",
+        "url": "https://open.spotify.com/album/7gwtU9E0I5y6QEONnut6ua"
+      },
+      "artists": [
+        {
+          "name": "QMPLE",
+          "url": "https://open.spotify.com/artist/37RK3pp9FEV8w1t9K2nVEj"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "shhieda",
+          "url": "https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW"
+        },
+        {
+          "name": "Bober",
+          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
+        },
+        {
+          "name": "przy\u0142u",
+          "url": "https://open.spotify.com/artist/2zioaq2d7svakjWZV5FDXm"
+        },
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "OsaKa",
+          "url": "https://open.spotify.com/artist/1alHoDKed9iaWKNqiytBaF"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234725,
+      "name": "Za p\u00f3\u017ano",
+      "url": "https://open.spotify.com/track/1oDUzeOrSFiBq2dzsIA78S"
+    },
+    {
+      "album": {
+        "name": "NIC NIE MIJA / za tten rap",
+        "url": "https://open.spotify.com/album/2XTLtzCOSOqarqCKK40NM9"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "The Returners",
+          "url": "https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "za tten rap",
+      "url": "https://open.spotify.com/track/1HkRE4S93njQx6VeL0Q0YW"
+    },
+    {
+      "album": {
         "name": "Za tych co nie mog\u0105",
         "url": "https://open.spotify.com/album/7e3YauilUY873Qfqph6woB"
       },
@@ -24618,7 +24826,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 142222,
       "name": "Zejd\u017a mi z drogi",
       "url": "https://open.spotify.com/track/2FO5CCs9e8xnUU9FqfR54Q"
@@ -24708,7 +24916,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 281575,
       "name": "zielona noc",
       "url": "https://open.spotify.com/track/3u1eGyD4uFyIzsnkexBJW7"
@@ -25380,7 +25588,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 206829,
       "name": "\u017cyjemy w symulacji",
       "url": "https://open.spotify.com/track/0MVK5nZ1uXw3SoTk6XfOV7"

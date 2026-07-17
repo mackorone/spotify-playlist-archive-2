@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Sarz, Gunna and Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,554 likes - 110 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,721 likes - 110 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

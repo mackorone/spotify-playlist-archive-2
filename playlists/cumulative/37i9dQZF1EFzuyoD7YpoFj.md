@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-737 songs - 1 day 15 hr 44 min
+738 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Heaven / More Than Words / To Be With You](https://open.spotify.com/track/1zHJWnqfuJF9LSuTN51hC5) | [Savannah Wise](https://open.spotify.com/artist/3aIdqm8trvUKeYmBPJHGBr), [Rock Of Ages Cast](https://open.spotify.com/artist/05mdZSyZ4DoWVSnA9Z41CR), [Amy Spanger](https://open.spotify.com/artist/7xwHMSnUgFBhMklHWvByZN), [Constantine Maroulis](https://open.spotify.com/artist/2rgnIpsawYmq3hOOeQjtJn) | [Rock of Ages \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6w2tQt07nPK5ZFdqypLyO3) | 3:57 | 2024-07-24 | 2025-06-28 |
 | [Heaven Hop](https://open.spotify.com/track/5KCoYJWMC7prGWRjzT9Ly8) | [Margery Gray](https://open.spotify.com/artist/6bHl6EbhiWxn9xFrdrwM8i), [Anything Goes Ensemble \(1962\)](https://open.spotify.com/artist/7cTGaIRvLkJRjBTG0LbwwC), [Anything Goes 1962 Off Broadway Cast](https://open.spotify.com/artist/5XIzCBeoEMhlynHY168ovb) | [Anything Goes \(Off\-Broadway Cast Recording \(1962\)\)](https://open.spotify.com/album/5Q95OYMeaGOkULW2mb2LZ9) | 3:16 | 2025-06-27 |  |
 | [Her Heart Was in Her Work \(2023 Remastered\)](https://open.spotify.com/track/6LNTwdGIAUjtKoAXO9qwyI) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 3:39 | 2024-07-24 |  |
+| [Hey, Babe, Hey!](https://open.spotify.com/track/2AtJDtWp8xywuhbGQEooyY) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Forgotten Compositions](https://open.spotify.com/album/6e8n4UEP3B71zl6G6WBvYg) | 2:29 | 2026-07-16 |  |
 | [Hey, Good Lookin'](https://open.spotify.com/track/0M8KBxUVKbJrSn8287nUec) | [Elizabeth Stanley](https://open.spotify.com/artist/6fRKmasg6yYIKIzkNIjml2), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W) | [Something for the Boys \(2018 Studio Cast Recording\)](https://open.spotify.com/album/65LY4Eb3mx3xevfaycMflh) | 2:33 | 2025-09-10 |  |
 | [High Heeled Shoes](https://open.spotify.com/track/6oyfYM2xHx5Yx7ayCH1vKR) | [Cole Porter \(composer\)](https://open.spotify.com/artist/2MlrdhziMAogDail35dBMR) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:20 | 2024-07-24 | 2025-10-31 |
 | [High Heeled Shoes](https://open.spotify.com/track/0MVu6AEIq4AxfiiXHaTLpo) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:20 | 2025-10-30 |  |

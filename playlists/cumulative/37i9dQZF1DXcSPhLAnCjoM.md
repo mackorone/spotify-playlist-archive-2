@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "La lune" de Christophe Maé est le Grand Hit de la semaine.
+> "Juste un peu" de Jungeli et EMMA est le Grand Hit de la semaine.
 
 342 songs - 17 hr 29 min
 

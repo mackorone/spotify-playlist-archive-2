@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:2KZnFwKkzZwaTe74507ZLD\">Whookilledkenny</a> ",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:7uhhz6hbxdJlbHIbmqvAAT\">Lady Binladen</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 95033,
       "name": "ANYWAYS",
       "url": "https://open.spotify.com/track/6IO3kgd0S82B6yKyCGomRA"
@@ -7977,6 +7977,32 @@
     },
     {
       "album": {
+        "name": "Rough Drafts",
+        "url": "https://open.spotify.com/album/2wdR0g4QDoedz7HhOmZjcH"
+      },
+      "artists": [
+        {
+          "name": "Jbeezy.Lfg",
+          "url": "https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4"
+        },
+        {
+          "name": "devLfg",
+          "url": "https://open.spotify.com/artist/2CjquMeNWoDJvziMEyjJtA"
+        },
+        {
+          "name": "Drizzy",
+          "url": "https://open.spotify.com/artist/644w7UdzHcFzzL57E5j0z0"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114188,
+      "name": "Cerberus",
+      "url": "https://open.spotify.com/track/4C87lCiTFRCc9fvUHA3rVn"
+    },
+    {
+      "album": {
         "name": "Certified Dripper",
         "url": "https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM"
       },
@@ -12088,7 +12114,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 185553,
       "name": "EA (feat. Nine Vicious)",
       "url": "https://open.spotify.com/track/4NfrR07xd870SPiPaRPCKK"
@@ -13226,7 +13252,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 195454,
       "name": "Family Bizzy",
       "url": "https://open.spotify.com/track/4x2ytupJC64eTmu7tNVs2x"
@@ -16500,6 +16526,24 @@
       "duration_ms": 108081,
       "name": "Gol Chane'",
       "url": "https://open.spotify.com/track/3J7ACQMFkrloBL0cQAIWWL"
+    },
+    {
+      "album": {
+        "name": "Skiddle Bandana",
+        "url": "https://open.spotify.com/album/1ua9bT9kFnJeGi9j9nbfIL"
+      },
+      "artists": [
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156473,
+      "name": "Gold Chains",
+      "url": "https://open.spotify.com/track/5luzX1r1iduu6SqL3ueG9C"
     },
     {
       "album": {
@@ -20724,7 +20768,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 149446,
       "name": "Jefferson Nights",
       "url": "https://open.spotify.com/track/6LNn1tpg38EarjDo8X2xST"
@@ -44039,6 +44083,24 @@
     },
     {
       "album": {
+        "name": "What We Doin",
+        "url": "https://open.spotify.com/album/3IeEWLbum57P3tIAyaPmGl"
+      },
+      "artists": [
+        {
+          "name": "Pistol Po",
+          "url": "https://open.spotify.com/artist/0d3xQLthO9FgMX9MBKXfQ5"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131191,
+      "name": "What We Doin",
+      "url": "https://open.spotify.com/track/0jGCUZkFyVrbGMJkWC9gid"
+    },
+    {
+      "album": {
         "name": "What We Doing",
         "url": "https://open.spotify.com/album/0tgxqsvGlYZW9N77DU5BBt"
       },
@@ -44224,6 +44286,28 @@
       "duration_ms": 163728,
       "name": "Where My Ring",
       "url": "https://open.spotify.com/track/0eTNohUeDqzsoiwTiOlaZB"
+    },
+    {
+      "album": {
+        "name": "WHERE THEY AT",
+        "url": "https://open.spotify.com/album/26kdXg5fWhoKddGxlPxLeJ"
+      },
+      "artists": [
+        {
+          "name": "Craig James",
+          "url": "https://open.spotify.com/artist/3rdLwuqYeCeE7wSuLFy1ld"
+        },
+        {
+          "name": "Mactay Livinn",
+          "url": "https://open.spotify.com/artist/5OfquW9tReBHKiDGictCRr"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168018,
+      "name": "WHERE THEY AT",
+      "url": "https://open.spotify.com/track/5OZSFF4lcVSL2ZKZCWJjJ2"
     },
     {
       "album": {
@@ -46104,7 +46188,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 129299,
       "name": "Young Money",
       "url": "https://open.spotify.com/track/1fVvcblw9MiIfFT3XlmrO7"

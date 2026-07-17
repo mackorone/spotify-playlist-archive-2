@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLBTOzBzJlQ.md) - [plain]
 
 > enjoy the ILLIT LIVE \[PRESS START♥︎\] LIVE SET including the voices of them on stage! \(아일릿의 무대 멘트와 목소리가 포함된 \[PRESS START♥︎\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,444 likes - 23 songs - 57 min 17 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,594 likes - 23 songs - 57 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

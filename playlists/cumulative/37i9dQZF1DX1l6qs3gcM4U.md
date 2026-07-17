@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Dynamo
+> Fall in love with the sensual sounds of Kizomba! Cover: Back Spygo, 3 Finer
 
-691 songs - 1 day 15 hr 44 min
+692 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Lavender Tulips](https://open.spotify.com/track/4cd3AwGaE7T6Uh4dbhefyU) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Lavender Tulips](https://open.spotify.com/album/74UuzmDeji6pyS3e0ifZ70) | 4:21 | 2022-01-21 | 2022-02-19 |
 | [Lebam](https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Lebam](https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC) | 3:28 | 2026-02-20 |  |
 | [Lei 14](https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu) | [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Lei 14](https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO) | 3:15 | 2025-04-10 |  |
-| [Lembranças](https://open.spotify.com/track/3JOCHfD9bDuuKfSsjJzSEY) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA) | [Lembranças](https://open.spotify.com/album/71NixtCPYBeEV6Q9QTWii7) | 3:17 | 2026-06-04 |  |
+| [Lembranças](https://open.spotify.com/track/3JOCHfD9bDuuKfSsjJzSEY) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA) | [Lembranças](https://open.spotify.com/album/71NixtCPYBeEV6Q9QTWii7) | 3:17 | 2026-06-04 | 2026-07-17 |
 | [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 | 2025-05-08 |  |
 | [Leva\-me](https://open.spotify.com/track/4Wgx8lyWBUUNLDcsDTcvoM) | [Daddy Killa](https://open.spotify.com/artist/21xKuobocMBa0omJ77PVuu) | [Kizomba All Stars : Les meilleurs tubes et nouveautés de Kizomba](https://open.spotify.com/album/7qdWGJCi2yp8DumQKakwS8) | 3:44 | 2022-03-25 | 2022-04-16 |
 | [Levei o meu sonho](https://open.spotify.com/track/0Q05LIozhlYRKBxxdE7L4A) | [Elanor De Sousa](https://open.spotify.com/artist/1mi81EagzDvjFoJkV3r4j6), [DJ Beleza](https://open.spotify.com/artist/4de2FAdwYco7r4OntcEzlY) | [Levei o meu sonho](https://open.spotify.com/album/7Az2yIprXaXoDrsZf7ndZU) | 3:32 | 2026-03-06 | 2026-07-10 |
@@ -464,6 +464,7 @@
 | [Parece Magia](https://open.spotify.com/track/18YNXtBfIAC8OuBENVZULb) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Parece Magia](https://open.spotify.com/album/4soPzDjJTGJCCm8i5gseoB) | 3:14 | 2022-05-13 | 2022-05-31 |
 | [Passada](https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Passada](https://open.spotify.com/album/6iAjsqDaXBNlnU1o2hjpdG) | 3:43 | 2025-12-19 |  |
 | [Peekaboo](https://open.spotify.com/track/4gqeGC50dOeeJ0wTPswYRw) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [Mais Uma Vez](https://open.spotify.com/album/3F7grlwZWFLz30YhOgPUf1) | 3:20 | 2025-07-17 | 2025-08-01 |
+| [Pegou](https://open.spotify.com/track/3X44bKurIArYAgcXMiOk0V) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [3 Finer](https://open.spotify.com/artist/0gGg41vqYrv92MZmSt6pT5), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ), [T\-Djay](https://open.spotify.com/artist/6eb4lpF8hX2lH4UUA6LlIc) | [Pegou](https://open.spotify.com/album/0LOCdxBKEKZvAqx8sU9Scz) | 2:34 | 2026-07-16 |  |
 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 | 2021-12-10 | 2024-07-12 |
 | [Pele Pele](https://open.spotify.com/track/2bSosZIgEuwI0bcYV0LsGc) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Pele Pele](https://open.spotify.com/album/78C0t64PP514Y5nsMbTkRk) | 3:08 | 2022-05-13 | 2022-05-25 |
 | [Pelo Amor de Deus](https://open.spotify.com/track/5eD71okAFMIoaNien4WXzQ) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Pelo Amor de Deus](https://open.spotify.com/album/0oSa4KD4PT4TuYaF9OH0C9) | 3:33 | 2024-10-03 | 2024-10-20 |

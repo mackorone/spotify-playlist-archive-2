@@ -4557,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Felicia Sanders - Golden Collection",
+        "url": "https://open.spotify.com/album/45G0Pvrcsp9fjB5p7n1Glu"
+      },
+      "artists": [
+        {
+          "name": "Felicia Sanders",
+          "url": "https://open.spotify.com/artist/6ZjmF1Gx5FLslaon1yLnDH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Speaking Of Love",
+      "url": "https://open.spotify.com/track/4B7AhGwyHhQUsPvHxsu7zE"
+    },
+    {
+      "album": {
         "name": "Live At The Cheltenham Jazz Festival",
         "url": "https://open.spotify.com/album/2D9jK08EyzluA2dcEiBbJ8"
       },

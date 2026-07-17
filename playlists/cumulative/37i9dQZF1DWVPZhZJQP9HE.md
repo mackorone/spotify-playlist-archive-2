@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-798 songs - 1 day 22 hr 56 min
+799 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Amour](https://open.spotify.com/track/7kXPJDaooCMfvpkneNGisa) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Amour \- Single](https://open.spotify.com/album/4Bn40LxjQ00XGFhFCJhAmR) | 3:27 | 2022-03-09 | 2022-11-17 |
 | [Amour](https://open.spotify.com/track/54sUHoLaeNSeqTWpWk8P9t) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pranav Aditya](https://open.spotify.com/artist/1qyOT6qSiiFN2MUwYyfXes), [Sanjay Prashadh K R](https://open.spotify.com/artist/0nb7PRowrE2W3tF5lZDtol) | [Amour](https://open.spotify.com/album/2B83vX1IlmxDTC5iTSTSGf) | 3:27 | 2022-03-09 | 2022-07-29 |
 | [Amudhae \- Eternal Love](https://open.spotify.com/track/5lob9QUiS21imG5m41ZVu1) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM) | [Amudhae \(Eternal Love\)](https://open.spotify.com/album/61I7qlS2REZqipLhFKFjNU) | 3:09 | 2023-03-22 | 2023-04-01 |
+| [Amukku Gumukku](https://open.spotify.com/track/6XzsxdnYoxp61HqrOlQypo) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN), [Vishnupriya Ravi](https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv), [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [Amukku Gumukku](https://open.spotify.com/album/1mqfD97pY0wzmdnaXBSuJ5) | 3:00 | 2026-07-16 |  |
 | [Ananda Yazhinee](https://open.spotify.com/track/6wMmIm1W5V8dGE2JA8cIxY) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Ananda Yazhinee](https://open.spotify.com/album/7zobUQmvGovVvKPi18K75l) | 3:29 | 2022-12-09 | 2023-03-22 |
 | [Anbe](https://open.spotify.com/track/2h0NDOymvdOahxvkqwcySB) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Jerin C Raj](https://open.spotify.com/artist/02iErDOt6h6WChRfbjoZ56) | [Anbe](https://open.spotify.com/album/3jiHmbr4D2i9vtPyAZl71e) | 4:02 | 2022-05-30 | 2022-06-17 |
 | [Anbe](https://open.spotify.com/track/435Cg6XcTpkVrBiYn4Ya01) | [Shruti Iyer](https://open.spotify.com/artist/0lUXre3CU0jwfeCJD9z2lk), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj) | [Anbe](https://open.spotify.com/album/2XvMLgx8o8m4Z7Tm9F3xHL) | 4:04 | 2024-02-23 | 2024-06-14 |

@@ -2,9 +2,9 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: Saint Clair
+> Where your new favourite bands are discovered\. Cover: The Healing Power of Horses
 
-357 songs - 20 hr 52 min
+361 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Gretchen](https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Gretchen](https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0) | 2:51 | 2026-06-09 |  |
 | [Hands](https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Siren](https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY) | 3:45 | 2025-06-20 | 2026-02-21 |
 | [Harry](https://open.spotify.com/track/2VxJAC74aGYL22QGjHJFJu) | [crysometimes](https://open.spotify.com/artist/152LeNynRSX8ddAcx8OH3V) | [Harry](https://open.spotify.com/album/3LaLvHmot92o6mTdNNwNv2) | 2:46 | 2025-03-17 | 2025-05-16 |
-| [Hate That I Care](https://open.spotify.com/track/04s4eUMRhrzjkX38qPbh2D) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Hate That I Care](https://open.spotify.com/album/4VnlTJ6z3wN9XEzUeFl98Y) | 4:19 | 2026-03-27 |  |
+| [Hate That I Care](https://open.spotify.com/track/04s4eUMRhrzjkX38qPbh2D) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Hate That I Care](https://open.spotify.com/album/4VnlTJ6z3wN9XEzUeFl98Y) | 4:19 | 2026-03-27 | 2026-07-17 |
 | [Hattrick](https://open.spotify.com/track/4Qh12Dgv4ZkNCfnC7oSgEw) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Hattrick](https://open.spotify.com/album/4614NZ99KGlxn9I2A1nHnn) | 5:40 | 2025-09-05 | 2026-01-16 |
 | [HAVE A HEART](https://open.spotify.com/track/4KPxFuzwcIBtkPsdQ54LDv) | [TURNSPIT](https://open.spotify.com/artist/1HbKJU6NYDySoBXuAi5dNB) | [HAVE A HEART](https://open.spotify.com/album/1FfsXdnsxJcCYQ8xEKd1zX) | 3:38 | 2026-01-16 | 2026-06-10 |
 | [Headspace](https://open.spotify.com/track/6Ciqo08MA2NF2lgWiNi8u4) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Headspace](https://open.spotify.com/album/649jLqVMfUAXVgJ3zgqegv) | 4:39 | 2024-06-14 | 2024-10-07 |
@@ -171,7 +171,7 @@
 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 | 2025-03-22 | 2025-05-16 |
 | [I Like What You Bring Out In Me](https://open.spotify.com/track/0zkyVb1LLgDac3MTCfEReQ) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [I Like What You Bring Out In Me](https://open.spotify.com/album/6Fn80et6JctLBXtO8RDJok) | 3:52 | 2024-06-14 | 2024-10-07 |
 | [I Think You Should Know](https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [I Think You Should Know](https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ) | 3:37 | 2024-07-26 | 2025-01-23 |
-| [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 | 2026-05-21 |  |
+| [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 | 2026-05-21 | 2026-07-17 |
 | [I Was Here](https://open.spotify.com/track/0sh49tZQQG9Qsd46dbh2UY) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [I Was Here](https://open.spotify.com/album/27pZBFE96hTJNPctbRQMLm) | 3:38 | 2025-07-17 | 2025-09-06 |
 | [I Was Just A Boy](https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [It's a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 7:24 | 2026-01-30 |  |
 | [I'm Losing It](https://open.spotify.com/track/3OKvp0AJfu0BzRP9fIvKGf) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [I'm Losing It](https://open.spotify.com/album/1iO532J1AahkCofCiD4ImL) | 3:06 | 2025-05-15 | 2025-09-06 |
@@ -183,6 +183,7 @@
 | [In the Paddies](https://open.spotify.com/track/6JfwBCaXrQ6nwwAQn1scug) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [In The Paddies](https://open.spotify.com/album/0NnkpYQwU6sztdUAiPn6mS) | 3:44 | 2025-07-17 | 2025-08-08 |
 | [IN TIME](https://open.spotify.com/track/7J2XTvURCY7Yfv1or5qJz7) | [GANS](https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK) | [IN TIME](https://open.spotify.com/album/04UIutQtuDAwgu2ldb3Exv) | 3:18 | 2025-01-22 | 2025-05-02 |
 | [Innocence of Youth](https://open.spotify.com/track/4Gms5mWx5dWNjgCTzBFyRN) | [The Manatees](https://open.spotify.com/artist/2cWGltn2fZoaAiIhuQyw5h) | [Innocence of Youth](https://open.spotify.com/album/3sqm7E11vrNJonXeE9APrf) | 3:33 | 2024-06-14 | 2024-12-13 |
+| [Isn't He Funny?](https://open.spotify.com/track/4RLCHXFRTWiAYUhdacWmSx) | [Big Red](https://open.spotify.com/artist/6BEEGVEK6XIrmqi64E66vC) | [Isn't He Funny?](https://open.spotify.com/album/4eyqwoo5mTFEGgyvaCTnDp) | 5:43 | 2026-07-16 |  |
 | [It Comes Creeping](https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [It Comes Creeping](https://open.spotify.com/album/2Qiaj7HeHTzMW0HquUYqBm) | 3:58 | 2026-01-16 | 2026-05-16 |
 | [It Surely Has Been Hell](https://open.spotify.com/track/1N4P7tykakt4sFdBF6CUzK) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [It Surely Has Been Hell](https://open.spotify.com/album/6u9ciTuEOdShJxLq3KYW3p) | 2:51 | 2025-07-17 | 2025-09-06 |
 | [It's hip to be dumb](https://open.spotify.com/track/0Jnjcqpx4IHpzsxwGUsXbC) | [multiscreen](https://open.spotify.com/artist/2VqxisWQnAzd1wSq1XDZ9b) | [It's hip to be dumb](https://open.spotify.com/album/43jZcMNKgfvetNUty3idNt) | 2:45 | 2025-10-03 | 2026-01-30 |
@@ -212,7 +213,7 @@
 | [madonna](https://open.spotify.com/track/3jquMCbEytZmfXJpOU9pzx) | [ugly ozo](https://open.spotify.com/artist/1AUCiV4sfdNn5Ch5sTe4UI) | [madonna](https://open.spotify.com/album/0xD50sOwEbUZQuIur3c3Pe) | 3:15 | 2025-08-07 | 2026-01-16 |
 | [Mama, My Heart Is Achin'](https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Mama, My Heart Is Achin'](https://open.spotify.com/album/06uAi42XtPri4UzaL7usrT) | 3:45 | 2026-03-20 |  |
 | [Man Of Ill Repute](https://open.spotify.com/track/5YUJszTDZObtNi9exv7eVm) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Man Of Ill Repute](https://open.spotify.com/album/5wqrQL1wdxlOrB5Sxuu8Tc) | 3:26 | 2024-11-08 | 2025-03-18 |
-| [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 | 2025-11-28 |  |
+| [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 | 2025-11-28 | 2026-07-17 |
 | [Masquerade](https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/55PAmXeH8DbLOizqAqzeC8) | 3:08 | 2025-10-03 | 2025-11-29 |
 | [Massive Twenty One Pilots Tattoo](https://open.spotify.com/track/1CT0BPp8AlxmnT7L9rh12O) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Massive Twenty One Pilots Tattoo](https://open.spotify.com/album/2P5drzZjD0ZJku6XHtqSe5) | 5:01 | 2025-03-12 | 2025-08-08 |
 | [Masterplan](https://open.spotify.com/track/6mwSxfB6frIf2PuZmSNe1V) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Mill On The Hill](https://open.spotify.com/album/4tTefEgaW53zHYtrV9ZUHn) | 4:32 | 2025-03-07 | 2025-05-16 |
@@ -290,6 +291,7 @@
 | [Snapdragon](https://open.spotify.com/track/2MPPfi5cmH58o6MExajW6W) | [Sandhouse](https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq) | [Snapdragon](https://open.spotify.com/album/4GPzPtAUTCl0BvQ5MGM9zr) | 2:48 | 2026-03-27 |  |
 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 | 2024-06-14 | 2024-12-13 |
 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 | 2026-01-16 | 2026-03-28 |
+| [Sorry Mister](https://open.spotify.com/track/4a2myfnWpnQ8ZkeB7pj7cw) | [Disgusting Sisters](https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe) | [Sorry Mister](https://open.spotify.com/album/5Bn5uZmBgIgIfDEiaiThOH) | 2:51 | 2026-07-16 |  |
 | [Spain](https://open.spotify.com/track/7EQ4XAxaCxsLbXpp3yX111) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Spain](https://open.spotify.com/album/2XCuXPRYHb8O53dojZrBPb) | 3:40 | 2025-05-15 | 2025-09-06 |
 | [spiders without eyes](https://open.spotify.com/track/5RVuU4TXlJgzxXlrkGA7Kp) | [green star](https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe) | [bleeding swirls](https://open.spotify.com/album/1TcvP96UdTtLrGjmRzppTT) | 4:14 | 2025-05-01 | 2025-09-06 |
 | [Sports Day](https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Eazy Peazy](https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV) | 2:30 | 2024-11-08 | 2025-03-18 |
@@ -299,7 +301,7 @@
 | [Struck](https://open.spotify.com/track/0AFajg4fi2mIxO0CSBBIp5) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Struck](https://open.spotify.com/album/6t6lxXJQyFJgSXfbWNtvOR) | 3:28 | 2024-06-14 | 2024-07-13 |
 | [Stuck](https://open.spotify.com/track/0Xw6rMmiaOr0CWTJGQJIJr) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Stuck](https://open.spotify.com/album/7zvnJfzs5OaYCm7B7IOWCF) | 4:06 | 2025-03-17 | 2025-08-08 |
 | [Sun & Moon](https://open.spotify.com/track/7dbd8sxYFVPgIf5Mm2buyt) | [NECKBREAKERS](https://open.spotify.com/artist/1kjfLF0nj4tofaBOpjoHO2) | [Sun & Moon](https://open.spotify.com/album/0jtXs5aFlTgCqHr1D7Ng3h) | 3:42 | 2026-04-24 |  |
-| [Sunshine](https://open.spotify.com/track/2xpYx5IBYjLbApxEORAWsp) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Sunshine](https://open.spotify.com/album/1k76QxrouaepTbU0204IQX) | 3:27 | 2026-01-16 |  |
+| [Sunshine](https://open.spotify.com/track/2xpYx5IBYjLbApxEORAWsp) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Sunshine](https://open.spotify.com/album/1k76QxrouaepTbU0204IQX) | 3:27 | 2026-01-16 | 2026-07-17 |
 | [Surface Level Kicks](https://open.spotify.com/track/44O78qLokFH4q8EnqKdiS9) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Surface Level Kicks](https://open.spotify.com/album/5hJOhDXz2swoO5Cswg24pw) | 3:29 | 2024-09-13 | 2025-02-14 |
 | [Surrender](https://open.spotify.com/track/383sR9dPZ2SwPoKrNfRnQm) | [Qlowski](https://open.spotify.com/artist/1IhMuqG9tnQDPmiOkdOaQ4) | [Surrender](https://open.spotify.com/album/1Fyc10uv4bNsdjrl6yZND5) | 3:43 | 2024-10-06 | 2025-03-18 |
 | [Sweet Keith](https://open.spotify.com/track/6n94HuyOilA5wInftkAJHK) | [Adore](https://open.spotify.com/artist/4BwY0FjNdkoWef8kixy54M) | [Sweet Keith](https://open.spotify.com/album/0XUewmiQbKVW2ya0qmjfSh) | 3:16 | 2025-09-05 | 2025-10-04 |
@@ -315,6 +317,7 @@
 | [The Age of Innocence](https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [The Age of Innocence](https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b) | 2:33 | 2026-01-30 | 2026-03-06 |
 | [The Boss](https://open.spotify.com/track/1CcInJMJvGVozu3AaDKTz6) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [The Boss](https://open.spotify.com/album/1OwrqBMQkhVUmHbG9HONpZ) | 2:58 | 2024-10-06 | 2024-11-09 |
 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-04-16 |  |
+| [The Human Can Opener](https://open.spotify.com/track/19NFwLSHRW617Tl2A0cxyj) | [The Kitchen Sink Band](https://open.spotify.com/artist/4pGU6VjVBJAUqWd0aDJmwg) | [The Human Can Opener](https://open.spotify.com/album/4zDOqiCBEnMv03RKUzZqgK) | 4:30 | 2026-07-16 |  |
 | [The Lovers](https://open.spotify.com/track/6LqdSUFNR0H2CwWBVHgUut) | [Croíthe](https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl) | [The Lovers](https://open.spotify.com/album/7mHWcf7Vve9BxsEmOfP8iq) | 3:09 | 2025-08-07 | 2025-09-06 |
 | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx) | 4:07 | 2024-09-13 | 2025-02-14 |
 | [The Man](https://open.spotify.com/track/6yUy4C7Gn0Geg7YEB8qRzj) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [The Man](https://open.spotify.com/album/1PiAdNZtIBipn9FGJ4GjZB) | 3:14 | 2024-08-16 | 2024-09-14 |
@@ -334,6 +337,7 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-22 | 2025-05-16 |
 | [TORMENTOR](https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [TORMENTOR](https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc) | 5:10 | 2024-11-08 | 2025-05-02 |
 | [Total Communication Breakdown](https://open.spotify.com/track/41Qzu4y8sJTYX8ZkIGM2mC) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Total Communication Breakdown](https://open.spotify.com/album/4tcLCnES9yNLzOrT4RmwdF) | 3:56 | 2024-06-14 | 2024-07-13 |
+| [TOURNIQUET](https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Summer Indoors \(or outside wearing black\)](https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27) | 2:36 | 2026-07-16 |  |
 | [Tresor](https://open.spotify.com/track/3CICzF3nchoipa2jds4JRI) | [Oslo Twins](https://open.spotify.com/artist/2rpkPoe2Qc5unwCOmWpN5y) | [Tresor](https://open.spotify.com/album/1Oavx52e5Dme4KjkQtjMjj) | 3:51 | 2025-03-17 | 2025-08-08 |
 | [Trying](https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Trying](https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL) | 3:33 | 2024-08-16 | 2025-01-23 |
 | [TV Car Chase](https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [TV Car Chase](https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn) | 4:44 | 2024-07-12 | 2024-08-17 |

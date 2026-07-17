@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover:  Jorja Smith, Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,216 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,281 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 79 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 |
 | 80 | [I'M OK](https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Rii](https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [I'M OK](https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ) | 2:37 |
 
-Snapshot ID: `AAAAAF2E8rjgx+KtxUljSlIg2cpU1Unu`
+Snapshot ID: `AAAAAPJaEdA3HLe22kZInP3zS1Cqj9bk`

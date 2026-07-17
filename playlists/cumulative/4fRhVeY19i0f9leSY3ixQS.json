@@ -9407,6 +9407,24 @@
     },
     {
       "album": {
+        "name": "Pressing Matters!",
+        "url": "https://open.spotify.com/album/2JtHj97SK3YiIVHj2HD7uM"
+      },
+      "artists": [
+        {
+          "name": "Kodin Hill 'N The Pressed Pills",
+          "url": "https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112592,
+      "name": "Everything I Ever Wanted",
+      "url": "https://open.spotify.com/track/12GZH8VjSHd2KIr62YI1qA"
+    },
+    {
+      "album": {
         "name": "A Violent Phenomenon",
         "url": "https://open.spotify.com/album/00oDEbz2icsIehvpXeYHF9"
       },
@@ -11682,7 +11700,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 229353,
       "name": "Go Fish",
       "url": "https://open.spotify.com/track/3wusci1UD9vUMBi4HPGlLJ"
@@ -30416,7 +30434,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 234000,
       "name": "Ticket to Paradise",
       "url": "https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA"

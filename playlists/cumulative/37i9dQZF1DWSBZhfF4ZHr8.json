@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Eva.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Joseph Kamel.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -3229,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Insomnie",
+        "url": "https://open.spotify.com/album/25rhWIctOA5FgMXZHAbtpc"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151856,
+      "name": "Insomnie",
+      "url": "https://open.spotify.com/track/14fGqHU130ooeNSBmCsJIC"
+    },
+    {
+      "album": {
         "name": "Internet",
         "url": "https://open.spotify.com/album/0JWbb1gcqKO0OACnszsDRg"
       },
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 188276,
       "name": "j'me demande",
       "url": "https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb"
@@ -5605,6 +5623,24 @@
     },
     {
       "album": {
+        "name": "mAnIAc",
+        "url": "https://open.spotify.com/album/5AmHvTK4lO5DLy8mHZN8RM"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204574,
+      "name": "mAnIAc",
+      "url": "https://open.spotify.com/track/1uMISOROzvfKs1i2292HOn"
+    },
+    {
+      "album": {
         "name": "Marche ou r\u00eave",
         "url": "https://open.spotify.com/album/7kS5ShCz4QHayBwumXSdUO"
       },
@@ -6128,7 +6164,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 180466,
       "name": "Monstre",
       "url": "https://open.spotify.com/track/4zLsVaLoUAOtCmoABFrARN"

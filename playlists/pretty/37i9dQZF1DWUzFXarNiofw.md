@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: CoCo Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,377 likes - 268 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,373 likes - 268 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 14 | [Endlessly Waiting](https://open.spotify.com/track/1EnFnuMg7nRXdQYqnkOpNe) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Endlessly Waiting / The Reason](https://open.spotify.com/album/5ffrJDdRb2XjsphU3OxZRH) | 4:40 |
 | 15 | [Nobody Nobody](https://open.spotify.com/track/7gyZG8D3U8kYFqvju6QFU1) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Nobody Nobody](https://open.spotify.com/album/5OeWWL9h4ujWCSoqSKcbX8) | 2:01 |
 | 16 | [Stuck In Sixteen](https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Twenty Something](https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy) | 2:51 |
-| 17 | [If It Aint Broke \(Love Wins\) \(feat\. Phoelix & 9th Wonder\)](https://open.spotify.com/track/2dDULsctTpwmEPyY7HQNhf) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [If It Aint Broke \(Love Wins\) \[feat\. Phoelix & 9th Wonder\]](https://open.spotify.com/album/0jjJ8x1GanN2fLf3SM98wZ) | 2:25 |
+| 17 | [If It Ain't Broke \(Love Wins\) \(feat\. Phoelix & 9th Wonder\)](https://open.spotify.com/track/2dDULsctTpwmEPyY7HQNhf) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [If It Ain't Broke \(Love Wins\) \[feat\. Phoelix & 9th Wonder\]](https://open.spotify.com/album/0jjJ8x1GanN2fLf3SM98wZ) | 2:25 |
 | 18 | [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/album/33tTOCJ1O1PJ8yVtmIDD5H) | 3:32 |
 | 19 | [Sunshine](https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Sunshine / P4P](https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT) | 3:40 |
 | 20 | [OFFLINE](https://open.spotify.com/track/2Fb4kVQG0EIwcy1TUzUUFx) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [OFFLINE](https://open.spotify.com/album/4teAao2YdsYP1jGUrucahm) | 2:14 |

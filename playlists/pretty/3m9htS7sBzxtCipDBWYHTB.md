@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 
 > The numb flavor of depression
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 33 songs - 1 hr 53 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 35 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 | 31 | [Disco! in the Panic Room](https://open.spotify.com/track/3gvusUWj94UpHw0Iv1RWhx) | [Bug Hunter](https://open.spotify.com/artist/3icuKNh1iYRvYPiEkxiAfR) | [The Rough Draft](https://open.spotify.com/album/3BIJimflJCEKdoMFSenabT) | 3:31 |
 | 32 | [why am i like this](https://open.spotify.com/track/3gE5o0qeyamJePqYcPgYcJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [why am i like this](https://open.spotify.com/album/6hhTRMlslZIDOcuobjHjLh) | 2:56 |
 | 33 | [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
+| 34 | [Maybe Sprout Wings](https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:46 |
+| 35 | [Until I Am Whole](https://open.spotify.com/track/0DB6VaEyabpqAemzIxWpPo) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:48 |
 
-Snapshot ID: `AAAALUjyn7AbdeIFKk4c9RFGl37vGyi+`
+Snapshot ID: `AAAALydHKOjjhv4BZ6hCN6I9iou9sWgY`

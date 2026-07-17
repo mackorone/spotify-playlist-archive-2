@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "All In All (Live)",
+        "url": "https://open.spotify.com/album/2SbiVGpIqNosNb4Q5feuhC"
+      },
+      "artists": [
+        {
+          "name": "WISDOM K",
+          "url": "https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 772109,
+      "name": "All In All - Live",
+      "url": "https://open.spotify.com/track/0K7x07kZL0uoHkxK0FW5r8"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
       },
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 259422,
       "name": "Awesome God Mighty God",
       "url": "https://open.spotify.com/track/6A5U7gQ645bnwsimPMMnih"
@@ -2343,6 +2365,28 @@
     },
     {
       "album": {
+        "name": "Chukwu Oma",
+        "url": "https://open.spotify.com/album/4D5EnT3PfPYkjbKpLqsNXW"
+      },
+      "artists": [
+        {
+          "name": "Paul Akadi",
+          "url": "https://open.spotify.com/artist/2cbc9yq0kt2sTJJQLlMD6s"
+        },
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293533,
+      "name": "Chukwu Oma",
+      "url": "https://open.spotify.com/track/7vU6lU4ZNubUeE3yWgTYD6"
+    },
+    {
+      "album": {
         "name": "Citizen",
         "url": "https://open.spotify.com/album/2jPZbmDIJ7TCb3DMh0Fywl"
       },
@@ -3019,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Dancing My Way (Live)",
+        "url": "https://open.spotify.com/album/4LBEXOm5qisKMOQYXAADU2"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194975,
+      "name": "Dancing My Way (Live)",
+      "url": "https://open.spotify.com/track/5HCpXxhMrhCyENtXEfjAi8"
+    },
+    {
+      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
@@ -3298,7 +3360,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 234526,
       "name": "E SE",
       "url": "https://open.spotify.com/track/2nqcUCdnFy6V8a1kAWmYmt"
@@ -4230,7 +4292,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 196000,
       "name": "Father",
       "url": "https://open.spotify.com/track/2WPjFlvF3E8SQrOE2KkY9C"
@@ -5750,7 +5812,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 337560,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
@@ -6202,7 +6264,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 500661,
       "name": "Hallelujah (My song forever)",
       "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
@@ -6574,6 +6636,28 @@
       "duration_ms": 359562,
       "name": "Heya Ya (Live)",
       "url": "https://open.spotify.com/track/2ZBeDN1YpeWeAS2FexVSd2"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0FRUDPFB4G5UaGlMg7jVqG"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490133,
+      "name": "Higher - Live",
+      "url": "https://open.spotify.com/track/6vq79L2b5e0KqdiszhRxvV"
     },
     {
       "album": {
@@ -8024,7 +8108,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 176841,
       "name": "I'M BLESSED",
       "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
@@ -8510,7 +8594,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 454450,
       "name": "In My Reach",
       "url": "https://open.spotify.com/track/0OXTo7I3IlbYDJxwaUj635"
@@ -8620,7 +8704,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 564000,
       "name": "Inu ndi Ine - Live",
       "url": "https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr"
@@ -9254,7 +9338,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 556800,
       "name": "Kingdoms",
       "url": "https://open.spotify.com/track/2hIoeo5Adb8swxOIZYxCvB"
@@ -11839,6 +11923,24 @@
     },
     {
       "album": {
+        "name": "Nothing Without Him",
+        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
+      },
+      "artists": [
+        {
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176565,
+      "name": "Nothing Without Him",
+      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
+    },
+    {
+      "album": {
         "name": "Nya Gyidi",
         "url": "https://open.spotify.com/album/5E115qCQUZjWEIztqVtjDc"
       },
@@ -12050,7 +12152,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 508000,
       "name": "Offering",
       "url": "https://open.spotify.com/track/2XR2A2qiTGfmmiSOFOssRp"
@@ -13112,6 +13214,24 @@
       "duration_ms": 168424,
       "name": "Power In The Blood",
       "url": "https://open.spotify.com/track/3sFAyRkCgGFSGUYyTMIgtH"
+    },
+    {
+      "album": {
+        "name": "Powerful Merciful God",
+        "url": "https://open.spotify.com/album/3EsjUbqOA01ByjyG1k6neL"
+      },
+      "artists": [
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209858,
+      "name": "Powerful Merciful God",
+      "url": "https://open.spotify.com/track/211EBkGDc7rJbSQyygP8Bz"
     },
     {
       "album": {
@@ -14314,7 +14434,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 424053,
       "name": "Sing Hallelujah",
       "url": "https://open.spotify.com/track/6vuhl7uNuPXT2GkWCxORG2"
@@ -14442,7 +14562,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 895059,
       "name": "Sogi Dinma - Live",
       "url": "https://open.spotify.com/track/0GfWb4fY2yBqw68W9plG4e"
@@ -15530,6 +15650,36 @@
       "duration_ms": 224024,
       "name": "The Lord's Prayer (It's Yours) - Acoustic",
       "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
+    },
+    {
+      "album": {
+        "name": "The Maranatha Song",
+        "url": "https://open.spotify.com/album/1mmO3D0c9mLQ6JYaSJTW4J"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
+        {
+          "name": "Julia McMillan-Lamur",
+          "url": "https://open.spotify.com/artist/14ZeV6pqDILQNyr8Q0dCBU"
+        },
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375893,
+      "name": "The Maranatha Song",
+      "url": "https://open.spotify.com/track/4C8wVVjL8n3s5i6R3kDhL1"
     },
     {
       "album": {
@@ -17135,6 +17285,24 @@
     },
     {
       "album": {
+        "name": "When I Have You",
+        "url": "https://open.spotify.com/album/70bzK3vtHYnZTPHhn58cZa"
+      },
+      "artists": [
+        {
+          "name": "Minister Rachel K",
+          "url": "https://open.spotify.com/artist/3e5JDlZMh9AHtEv5zee0bl"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274698,
+      "name": "When I Have You",
+      "url": "https://open.spotify.com/track/6CU8ll61ugtCodNhrBAyoW"
+    },
+    {
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -17445,6 +17613,28 @@
     },
     {
       "album": {
+        "name": "Worship Medley (Live)",
+        "url": "https://open.spotify.com/album/1iPebLb4pEPSLMM03Dx3bp"
+      },
+      "artists": [
+        {
+          "name": "Segun Aniye",
+          "url": "https://open.spotify.com/artist/4xa0DdlvnBHWKWTRPl6LXE"
+        },
+        {
+          "name": "Beejay Sax",
+          "url": "https://open.spotify.com/artist/1obFKBs1DhXm6SUIELP5vu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563543,
+      "name": "Worship Medley - Live",
+      "url": "https://open.spotify.com/track/0jv6Z8rTxlqzMxLzDqGt3O"
+    },
+    {
+      "album": {
         "name": "Worship Medley 17",
         "url": "https://open.spotify.com/album/712yf7e3NHCpZSBOgSkiB5"
       },
@@ -17628,6 +17818,24 @@
       "duration_ms": 160062,
       "name": "WORTHY OF MY PRAISE - LIVE",
       "url": "https://open.spotify.com/track/2RvfkKlp8J23p7Gk5eo8oJ"
+    },
+    {
+      "album": {
+        "name": "Worthy to be Praised",
+        "url": "https://open.spotify.com/album/4iGyKlkJfU3EWA1D2VzVZj"
+      },
+      "artists": [
+        {
+          "name": "Toyin Ogunniyi",
+          "url": "https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Worthy to be Praised",
+      "url": "https://open.spotify.com/track/1ACRUpV6HQul9s1cLUERGf"
     },
     {
       "album": {

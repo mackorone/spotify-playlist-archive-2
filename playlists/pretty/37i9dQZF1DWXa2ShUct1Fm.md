@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,497 likes - 235 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,516 likes - 235 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,7 +239,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 229 | [Jam Jam](https://open.spotify.com/track/5o9VWCaFtNsOcaYsiADCgC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 CARAT](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:25 |
 | 230 | [Missed Connections](https://open.spotify.com/track/4jAh51yhz3LUtbm1p7vOfY) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Tempted OST Part.3](https://open.spotify.com/album/6gnnrJuB1MF1ikNG5nlhrM) | 3:56 |
 | 231 | [YOSM \(feat\. Woozi\)](https://open.spotify.com/track/3euYNE8OgAMAy6caUKOUeL) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju), [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [YOSM \(feat\. Woozi\)](https://open.spotify.com/album/7wp03GdaypNJSocQj3XdjR) | 3:14 |
-| 232 | [Sickness \(feat.PLEDIS GIRLZ\)](https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d) | [Vernon](https://open.spotify.com/artist/031ssH1fIRkJVEk11IUZdu), [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [Sickness](https://open.spotify.com/album/3vX4Wr2G40cQAsNC5WO3K1) | 3:24 |
+| 232 | [Sickness \(feat.PLEDIS GIRLZ\)](https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d) | [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [Sickness](https://open.spotify.com/album/3vX4Wr2G40cQAsNC5WO3K1) | 3:24 |
 | 233 | [Looped Up \(feat\. VERNON\)](https://open.spotify.com/track/5InZzHAvyMPSMEXT4AeDQ3) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:31 |
 | 234 | [Miracle](https://open.spotify.com/track/0TCk149bpoWtPn4QjGfpel) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu 조선로코 \- 녹두전 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5KIPerlwk34hDgSwUOAVm7) | 3:38 |
 | 235 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |

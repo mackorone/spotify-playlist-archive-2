@@ -6401,6 +6401,28 @@
     },
     {
       "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/1eGzCeKZjFMXeUA9xcxsLS"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139436,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/3uozEz2fryNaVqUO3C9GbP"
+    },
+    {
+      "album": {
         "name": "Down to Love",
         "url": "https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH"
       },
@@ -12406,7 +12428,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 312311,
       "name": "In Unison",
       "url": "https://open.spotify.com/track/0fYrUra3kcxvETQiVrxssG"
@@ -13124,7 +13146,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 215652,
       "name": "Keep Your Dreams Alive - Darren Porter Remix",
       "url": "https://open.spotify.com/track/2mKxcfN51nrBjW1eAYPaHa"
@@ -13190,7 +13212,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 145306,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/5D0raSenwu2KadnM5fUzOS"
@@ -13795,6 +13817,24 @@
     },
     {
       "album": {
+        "name": "Life Is Once Life Is Once",
+        "url": "https://open.spotify.com/album/4SKt4QFS8HuBUfQvl4OcQL"
+      },
+      "artists": [
+        {
+          "name": "HU",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162337,
+      "name": "Life Is Once Life Is Once",
+      "url": "https://open.spotify.com/track/1nsA19xCOcOqjzZMZGMWsR"
+    },
+    {
+      "album": {
         "name": "Life's Unfair",
         "url": "https://open.spotify.com/album/5dKXVw6fK5vhmycDsTje7Z"
       },
@@ -13876,6 +13916,24 @@
       "duration_ms": 214090,
       "name": "Lifeline - Fisherman Remix",
       "url": "https://open.spotify.com/track/1GuVsKyXDotOBc7k1ZsQHZ"
+    },
+    {
+      "album": {
+        "name": "Lifting Me Higher",
+        "url": "https://open.spotify.com/album/4JSU4ebFMyXzzjNCgaqSdF"
+      },
+      "artists": [
+        {
+          "name": "how2fly",
+          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192887,
+      "name": "Lifting Me Higher",
+      "url": "https://open.spotify.com/track/3BFzuTPJyikZnd5vauGkfu"
     },
     {
       "album": {

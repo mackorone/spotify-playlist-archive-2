@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Joe James",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kwengface, Young T & Bugsey",
   "name": "Rap UK",
   "tracks": [
     {
@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 159440,
       "name": "Bellingham",
       "url": "https://open.spotify.com/track/5ADKlijj1VChfluBVbK7WG"
@@ -8414,6 +8414,24 @@
       "duration_ms": 149534,
       "name": "Can't Borrow Time",
       "url": "https://open.spotify.com/track/4JL9SzKXVbmC9GILP8ZQz3"
+    },
+    {
+      "album": {
+        "name": "CAN'T RELATE",
+        "url": "https://open.spotify.com/album/32wzbarXsCU5DrklOSxmcG"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120149,
+      "name": "CAN'T RELATE",
+      "url": "https://open.spotify.com/track/1wdHkUwLL5yAx3Dl6dfdUc"
     },
     {
       "album": {
@@ -22794,7 +22812,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 211003,
       "name": "JUICY",
       "url": "https://open.spotify.com/track/5dNJKE7Ck8UGnjAv7C4X2t"
@@ -24160,7 +24178,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 151289,
       "name": "LEFT OUT (feat. M Huncho)",
       "url": "https://open.spotify.com/track/6h9lDWwnNEZgKUZxPjSohA"
@@ -31314,7 +31332,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 120944,
       "name": "Omens",
       "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
@@ -33924,7 +33942,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 138165,
       "name": "Point To Prove",
       "url": "https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs"
@@ -35216,6 +35234,24 @@
       "duration_ms": 191792,
       "name": "Ramsay",
       "url": "https://open.spotify.com/track/5NpbhGYMPEPMylfVKBI0Tt"
+    },
+    {
+      "album": {
+        "name": "Random Yutes",
+        "url": "https://open.spotify.com/album/1ZblTU3ZEZ0FoBovc8omNx"
+      },
+      "artists": [
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Random Yutes",
+      "url": "https://open.spotify.com/track/372zFtfJxHdZgYxHuxtGK0"
     },
     {
       "album": {
@@ -37568,6 +37604,36 @@
       "duration_ms": 238693,
       "name": "Same Emotions (feat. Dave)",
       "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
+    },
+    {
+      "album": {
+        "name": "Same Old Story",
+        "url": "https://open.spotify.com/album/2yCnCG9ZDTDAQMOvTCAG6t"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "CLARK",
+          "url": "https://open.spotify.com/artist/3oe253onRmaxNiz7NkNELQ"
+        },
+        {
+          "name": "DeeRiginal",
+          "url": "https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/4ohYnWl912l2yKZ46EDStE"
     },
     {
       "album": {
@@ -44973,6 +45039,24 @@
     },
     {
       "album": {
+        "name": "Live In The Flesh",
+        "url": "https://open.spotify.com/album/36R0BAZr8HqgNUIdk5o8Xy"
+      },
+      "artists": [
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247655,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/6wffE1E39cj1JUg6vhLKQG"
+    },
+    {
+      "album": {
         "name": "Community Service",
         "url": "https://open.spotify.com/album/0I5RObKA3W5XHTzoEBh5v3"
       },
@@ -48012,6 +48096,24 @@
       "duration_ms": 174666,
       "name": "Yeh Yeh",
       "url": "https://open.spotify.com/track/0RxCXZ9Hqc30NHxYaREx87"
+    },
+    {
+      "album": {
+        "name": "Yep",
+        "url": "https://open.spotify.com/album/4meoHt8uzYWUhWdVf3JmrI"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Yep",
+      "url": "https://open.spotify.com/track/2tuW2GQM4ERuLt5UMeZ1z6"
     },
     {
       "album": {

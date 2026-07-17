@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> HUGEL & SOLTO \(FR\) au sommet de la première playlist de France.
+> Shakira & Burna Boy au sommet de la première playlist de France.
 
 480 songs - 1 day 0 hr 17 min
 

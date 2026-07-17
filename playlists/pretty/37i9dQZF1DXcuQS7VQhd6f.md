@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Mary Mary
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,359 likes - 150 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,430 likes - 150 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

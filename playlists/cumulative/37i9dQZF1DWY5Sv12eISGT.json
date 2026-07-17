@@ -639,6 +639,32 @@
     },
     {
       "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63"
+      },
+      "artists": [
+        {
+          "name": "Big Tril",
+          "url": "https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG"
+        },
+        {
+          "name": "Keya Nemesis",
+          "url": "https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao"
+        },
+        {
+          "name": "4ourton",
+          "url": "https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz"
+    },
+    {
+      "album": {
         "name": "Lonely At The Top EP",
         "url": "https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN"
       },

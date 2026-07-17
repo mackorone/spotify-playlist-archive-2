@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sunborn",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: IARA",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "I Let It Consume Me",
+        "url": "https://open.spotify.com/album/74bFxQ7EzaOhErqdOKwQWu"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6ZhCa6gIcdmRHibDkl9DLF"
+    },
+    {
+      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/7I1V7YD4he3QzI7QiZzAI8"
       },
@@ -1856,6 +1874,28 @@
       "duration_ms": 243702,
       "name": "Bottom Feeder",
       "url": "https://open.spotify.com/track/3AnhZAWyfd0xoJDThaI5ud"
+    },
+    {
+      "album": {
+        "name": "It Is Going To Get Dark",
+        "url": "https://open.spotify.com/album/3PN7t181uXPtRrIOkrcKXN"
+      },
+      "artists": [
+        {
+          "name": "No Cure",
+          "url": "https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU"
+        },
+        {
+          "name": "Bayway NJ",
+          "url": "https://open.spotify.com/artist/2XCRqHvWppzACWDCE95Xer"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169881,
+      "name": "Brain Matter Displacement",
+      "url": "https://open.spotify.com/track/7s5uYrEUnFbV0IZ3h4NyK3"
     },
     {
       "album": {
@@ -2636,6 +2676,24 @@
       "duration_ms": 230000,
       "name": "Circle of Liars",
       "url": "https://open.spotify.com/track/3AGfjSfQMK02ny0lDU8Anq"
+    },
+    {
+      "album": {
+        "name": "Clavicula Nox",
+        "url": "https://open.spotify.com/album/42tb1KQWBsTst0yn9QxgiP"
+      },
+      "artists": [
+        {
+          "name": "Severals",
+          "url": "https://open.spotify.com/artist/38ocNLUNmWi0fCSSmMNqHy"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249882,
+      "name": "Clavicula Nox",
+      "url": "https://open.spotify.com/track/7zKR63sNUBdLCQpFbgL8yw"
     },
     {
       "album": {
@@ -5072,7 +5130,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 204538,
       "name": "Extinct",
       "url": "https://open.spotify.com/track/1IuZtTSjqV0e8yv4HMMGLd"
@@ -5554,7 +5612,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 249281,
       "name": "Flying Monkey",
       "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
@@ -9474,7 +9532,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 208156,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/5l8myqwWpACDxEbw4DbRRH"
@@ -11113,6 +11171,24 @@
     },
     {
       "album": {
+        "name": "POISON",
+        "url": "https://open.spotify.com/album/7gPHkVyJgVgHHzSrp5SUwy"
+      },
+      "artists": [
+        {
+          "name": "Engrave",
+          "url": "https://open.spotify.com/artist/7pI0gU53Ympdd89UkR8lYg"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/3KXZgdCsmgplG0tWeF0ARC"
+    },
+    {
+      "album": {
         "name": "poison",
         "url": "https://open.spotify.com/album/2XMim5dAsDEPseFWvin9q8"
       },
@@ -12657,6 +12733,28 @@
     },
     {
       "album": {
+        "name": "Signs (feat. Matthew K. Heafy)",
+        "url": "https://open.spotify.com/album/4YVUTbjKBUXaVV1h6RJTR8"
+      },
+      "artists": [
+        {
+          "name": "Defects",
+          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
+        },
+        {
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258811,
+      "name": "Signs (feat. Matthew K. Heafy)",
+      "url": "https://open.spotify.com/track/6HtwU4e2LXZKD6xy3ZlsXK"
+    },
+    {
+      "album": {
         "name": "Silence and Anger",
         "url": "https://open.spotify.com/album/3BzB9IGBO5DLqDMfbTJhA7"
       },
@@ -13101,6 +13199,24 @@
     },
     {
       "album": {
+        "name": "Spidersilk",
+        "url": "https://open.spotify.com/album/7pJO4u26yXCa2MUJttErhe"
+      },
+      "artists": [
+        {
+          "name": "IARA",
+          "url": "https://open.spotify.com/artist/2hlAIa5gU2LhL2rRGaf588"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220465,
+      "name": "Spidersilk",
+      "url": "https://open.spotify.com/track/6VG5Y2vUYMUs8sUEbf6tHe"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0Qo83xvu8gFUB0Jwq3eaYd"
       },
@@ -13184,7 +13300,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 169110,
       "name": "Split Frame",
       "url": "https://open.spotify.com/track/0AzyVf32eD9dhX4AETtWGy"
@@ -14342,7 +14458,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 116146,
       "name": "THE GNARLYCORE CLASS",
       "url": "https://open.spotify.com/track/362pcZpk4jShFIoa2zWI6J"
@@ -15326,7 +15442,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 215999,
       "name": "Twisted Flesh Is Feeding My Blade - From VOIN",
       "url": "https://open.spotify.com/track/0NcHBzzNexd0wqztZwdWg7"

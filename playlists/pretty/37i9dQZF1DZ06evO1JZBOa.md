@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,168 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,167 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 20 | [Funk Makossa \(feat\. Manu Dibango\)](https://open.spotify.com/track/1ZYuJnAIKw6tAM2F4XEwoe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro](https://open.spotify.com/album/2S5svej55Av0CGFxcy3573) | 3:19 |
 | 21 | [Biko \(feat\. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema\)](https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Alex Brown](https://open.spotify.com/artist/1BG2BiAu02wXrhuMkEMxDM), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:08 |
 | 22 | [Oriental Sunset](https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:47 |
-| 23 | [Senga](https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 3:04 |
-| 24 | [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 |
+| 23 | [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 |
+| 24 | [Senga](https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 3:04 |
 | 25 | [Ekedi](https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anbessa](https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4) | 2:52 |
 | 26 | [Promesa](https://open.spotify.com/track/6eoMTluhS1EClGg3fK5PKS) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 3:34 |
 | 27 | [Walking to Waza](https://open.spotify.com/track/3VpzSUaFT1vywhVgJNsqxU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 4:02 |
-| 28 | [Marabout](https://open.spotify.com/track/4oQPy612SNhvUOABRL1eoA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Marabout](https://open.spotify.com/album/1iSYAl8J4OCu4ca3LrPjG3) | 6:22 |
-| 29 | [Ceddo End Title](https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR) | 5:09 |
+| 28 | [Ceddo End Title](https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR) | 5:09 |
+| 29 | [Marabout](https://open.spotify.com/track/4oQPy612SNhvUOABRL1eoA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Marabout](https://open.spotify.com/album/1iSYAl8J4OCu4ca3LrPjG3) | 6:22 |
 | 30 | [Bokilo Boogie, Part\. 1](https://open.spotify.com/track/5IWfkahlmotIntNQ6fziTZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Bokilo Boogie, Part\. 1](https://open.spotify.com/album/0UphJKtaA8Oes6lT7aJEwJ) | 4:06 |
 | 31 | [Carnaval](https://open.spotify.com/track/1XWDjQkOEUvgKuWRPxZOMO) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 5:50 |
 | 32 | [Night In Zeralda](https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:36 |

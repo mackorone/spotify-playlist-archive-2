@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:ניר כנען
 
-683 songs - 1 day 11 hr 54 min
+685 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [באת אליי](https://open.spotify.com/track/4lq0sxSauV2oJ04UpZNEZ7) | [Ron Buhnik](https://open.spotify.com/artist/0mFHr7lwZmiRqsuy6JCS2K) | [באת אליי](https://open.spotify.com/album/6MY2WVtoQ1i815VQH75B2d) | 2:38 | 2025-11-27 | 2026-02-27 |
 | [בבון של יפו](https://open.spotify.com/track/3TveM4gKI4GS6PkeDSn7wn) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בבון של יפו](https://open.spotify.com/album/2nmBRZWBkB9W0def7Avcs2) | 3:21 | 2025-04-03 | 2025-05-09 |
 | [בבל](https://open.spotify.com/track/0Fgqrhbz50nUyFXuBsdGlr) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בבל](https://open.spotify.com/album/7oukNQCQmuODdke3lhPSxE) | 2:50 | 2024-06-27 | 2024-08-23 |
-| [בוא](https://open.spotify.com/track/2kLJX7xsWphpV4R6v4Vef4) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [בוא](https://open.spotify.com/album/3nFhr6k7JwYGDs4ffiYwb5) | 2:35 | 2026-07-02 |  |
+| [בוא](https://open.spotify.com/track/2kLJX7xsWphpV4R6v4Vef4) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [בוא](https://open.spotify.com/album/3nFhr6k7JwYGDs4ffiYwb5) | 2:35 | 2026-07-02 | 2026-07-17 |
 | [בוא אליי](https://open.spotify.com/track/3nRx0MCAhc5wyrdGi4Upo9) | [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0), [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [בוא אליי](https://open.spotify.com/album/2Du3j69su2bEVpXZaAVbVA) | 4:11 | 2024-11-21 | 2025-03-07 |
 | [בוא לאור](https://open.spotify.com/track/6MaiuGAsYDhTb7vj81DVHj) | [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0), [עילי בוטנר והלהקה](https://open.spotify.com/artist/6VulY3IJrglSrsHvl85MXj) | [בוא לאור](https://open.spotify.com/album/4Xr5rbHd6WV7ip5QQlix8Q) | 3:11 | 2026-03-19 | 2026-06-19 |
 | [בואי](https://open.spotify.com/track/3yrsd9QINkGcmqe6388BpS) | [פן חזות](https://open.spotify.com/artist/74AQHelhpYwe2w5FhSDpTI) | [בואי](https://open.spotify.com/album/0PzEAQTPxofObDHG7lff6o) | 3:35 | 2026-01-29 | 2026-02-13 |
@@ -391,7 +391,7 @@
 | [כפרה לנד](https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [עידו בי](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [כפרה לנד](https://open.spotify.com/album/2I1xx5j5N0yQhdSDAGsHZx) | 2:24 | 2024-07-04 | 2024-12-13 |
 | [כתוב על הקיר](https://open.spotify.com/track/2vXIoNPmnZUUZHGJWHDK6t) | [Harel Skaat](https://open.spotify.com/artist/3kZ7g7lW0eeBtoNxtw6zZY), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [כתוב על הקיר](https://open.spotify.com/album/6QCOpKvQCDk2coOIn2Yqq6) | 3:00 | 2026-02-19 | 2026-04-17 |
 | [לא אכפת לי](https://open.spotify.com/track/0lv4qpjNTUf1nATDz1fhsu) | [פרידה](https://open.spotify.com/artist/6VQ8b7uCvOji6TvSqozJ2D) | [לא אכפת לי](https://open.spotify.com/album/3ZdABSO68ysogv6foyBdz4) | 2:59 | 2025-05-15 | 2025-10-24 |
-| [לא בא לי להיות](https://open.spotify.com/track/7h5BAUO5bbDRMu4y6dk7Mw) | [אביגיל](https://open.spotify.com/artist/5C9yoYmFBktMXwP9SoLLIP) | [לא בא לי להיות](https://open.spotify.com/album/0lyvMi116xdjn1ecqbTCCf) | 2:20 | 2026-06-25 |  |
+| [לא בא לי להיות](https://open.spotify.com/track/7h5BAUO5bbDRMu4y6dk7Mw) | [אביגיל](https://open.spotify.com/artist/5C9yoYmFBktMXwP9SoLLIP) | [לא בא לי להיות](https://open.spotify.com/album/0lyvMi116xdjn1ecqbTCCf) | 2:20 | 2026-06-25 | 2026-07-17 |
 | [לא באמת כלום](https://open.spotify.com/track/70D3t1kTUZRef1ZZKClOxu) | [Eli Huli](https://open.spotify.com/artist/0pVfuGHwDRXhSWJw7tzygH) | [לא באמת כלום](https://open.spotify.com/album/14t2NznGGkbO8r0ScpgWxk) | 3:02 | 2024-11-14 | 2024-12-06 |
 | [לא בכוונה](https://open.spotify.com/track/7rOk7Pvu6xHXJ0tNCUA1oV) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [לא בכוונה](https://open.spotify.com/album/218vlDWiVGdYQVHmRxGQD1) | 2:35 | 2024-12-05 | 2025-02-14 |
 | [לא המשוגע היחידי](https://open.spotify.com/track/4wclmkmEF1vzyCiSMzrrsM) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [לא המשוגע היחידי](https://open.spotify.com/album/6QdfEpdMZSqnZRprj1DVOR) | 3:54 | 2025-10-30 | 2026-02-13 |
@@ -411,6 +411,7 @@
 | [לא מעניין אותי](https://open.spotify.com/track/3O28cHGMzaF9VYIPEJQRYb) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [לא מעניין אותי](https://open.spotify.com/album/2XfUQjhpCuoqCY7lZryj34) | 2:36 | 2024-07-18 | 2025-01-17 |
 | [לא מקשיבה \(נחשית\)](https://open.spotify.com/track/6KH2N4dDXPhLvLpICODFKy) | [שירה זלוף](https://open.spotify.com/artist/6uPXjLmLtFf4cE35saHiSp) | [לא מקשיבה \(נחשית\)](https://open.spotify.com/album/31SkDWN3tO3zFsHNhav6z5) | 2:30 | 2025-05-29 | 2025-06-13 |
 | [לא נשבר](https://open.spotify.com/track/1r2NwWWxOz3zpWC4dDAY4Z) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [לא נשבר](https://open.spotify.com/album/2G1P2gcyCyCYKvM6Ig0HUE) | 3:15 | 2025-12-11 | 2026-04-17 |
+| [לא פשוט להיות פשוטע](https://open.spotify.com/track/3vYnLpndyoxRvvoV80or49) | [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [הפשוטע \- פסקול הסדרה](https://open.spotify.com/album/6uVLuuGvS7FxgjGnzqX75R) | 2:30 | 2026-07-16 |  |
 | [לא צריכה ארמון](https://open.spotify.com/track/7LUXcugqNbrfIiGtbnsCET) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [לא צריכה ארמון](https://open.spotify.com/album/4aQLxgfh3CILAQI1ppiEpD) | 3:26 | 2024-09-26 | 2025-01-31 |
 | [לא ראיתי את זה בא](https://open.spotify.com/track/1qHcRVxZxq4MyWE8MhSniY) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [לא ראיתי את זה בא](https://open.spotify.com/album/1ghtrFUbk1sQbi7SPyw8EQ) | 3:02 | 2024-06-27 | 2024-09-13 |
 | [לא רוצה לאהוב אותי](https://open.spotify.com/track/6jKbHeCwPMHC2ngfvJKDQP) | [אורי כלטוב](https://open.spotify.com/artist/0Ifr5SPFErAslSPfbPgUNW) | [לא רוצה לאהוב אותי](https://open.spotify.com/album/7BxQD3gwMHDvLCkbtsp7Zu) | 2:40 | 2026-05-21 | 2026-07-03 |
@@ -550,6 +551,7 @@
 | [סופרמן](https://open.spotify.com/track/0KMZESyaad48QMOmg6cYuy) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/4PcXH3yBhSLIYupPPOyRQ8) | 4:48 | 2024-12-19 | 2025-04-11 |
 | [סופרסטאר](https://open.spotify.com/track/6KbB0J1i6BnicY11kPMCUb) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [סופרסטאר](https://open.spotify.com/album/2PIm0frsej1MxfES2M3rhH) | 2:24 | 2024-11-21 | 2025-02-14 |
 | [סורי](https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [סורי](https://open.spotify.com/album/3V8jNlMHrAFvWCoByUfM1b) | 2:41 | 2025-03-06 | 2025-06-06 |
+| [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 | 2026-07-16 |  |
 | [סטרפלס](https://open.spotify.com/track/3YkOZsUxu2Qhnpnk9UUmTX) | [רביב כנר](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [סטרפלס](https://open.spotify.com/album/5AtslWxvw2u7nMDCUQpaq3) | 3:08 | 2025-12-25 | 2026-04-17 |
 | [סיבה להמשיך](https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [סיבה להמשיך](https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR) | 2:59 | 2025-01-30 | 2025-02-28 |
 | [סיגליה](https://open.spotify.com/track/5DHTJaHXTpBLkWXFoqcCU9) | [Arkadi Duchin](https://open.spotify.com/artist/2BXgz17FVSKfMin4uJDtYM) | [סיגליה](https://open.spotify.com/album/2FqhjCGQgxCgYqqhTHTF9i) | 3:04 | 2025-08-07 | 2025-10-31 |

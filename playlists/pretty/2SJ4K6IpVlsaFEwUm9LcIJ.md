@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 18 songs - 1 hr 36 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,357 likes - 22 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 16 | [Gift](https://open.spotify.com/track/7udaKPj4op8kSUIcJpQlYD) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/71hbXLIenMTEfyDfPRfq2r) | 5:01 |
 | 17 | [FRESH FEELING](https://open.spotify.com/track/2DgfmAKx2fdAkqhqMboZKA) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 9:22 |
 | 18 | [SPECIAL WEAKNESS](https://open.spotify.com/track/56PQ9YCEIe1YhSe90NGdRu) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 13:33 |
+| 19 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 |
+| 20 | [OTODO](https://open.spotify.com/track/3GhYlrOiFi3rWB05b3h4CS) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Zoo](https://open.spotify.com/album/4kB9n44dTgxuiZZLtaBo9v) | 4:09 |
+| 21 | [quikk](https://open.spotify.com/track/08LET201xjwcX9RMnclA6a) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [POMPEII // UTILITY](https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR) | 2:02 |
+| 22 | [SOME DAY, THAT PLACE IN TIME](https://open.spotify.com/track/1IXwJdkVaYva6lMkZb0W8i) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 5:05 |
 
-Snapshot ID: `AAAOkjQVE4rOt2XpbuStfulpwCpGbozD`
+Snapshot ID: `AAAOlnXZt5yHtDN6jPnm265Cpw7NEZw9`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: HANRORO) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Kwon Jin Ah) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1499,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Ashen Song",
+        "url": "https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        },
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217268,
+      "name": "Ashen Song",
+      "url": "https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
       },
@@ -2034,7 +2056,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 282000,
       "name": "Beautiful, even now",
       "url": "https://open.spotify.com/track/4RjZyA4jkR5q5WiZ3FNFxt"
@@ -6896,7 +6918,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 184000,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/0xy1eGLBSa6SFxyEzg9gtn"
@@ -7488,7 +7510,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 197000,
       "name": "GAME OVER ?",
       "url": "https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP"
@@ -8926,6 +8948,24 @@
       "duration_ms": 169000,
       "name": "HEY NERD!",
       "url": "https://open.spotify.com/track/3xMIKY0B2Xf2oQq6q5Wnmk"
+    },
+    {
+      "album": {
+        "name": "NOW",
+        "url": "https://open.spotify.com/album/24N7mzkaXy64GPi0tEWANC"
+      },
+      "artists": [
+        {
+          "name": "BULGOGI DISCO",
+          "url": "https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196966,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/1we3DqWorRkHaav6dDDhjr"
     },
     {
       "album": {
@@ -12209,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6QpcWrwzhlRE28OpwbTPda"
+      },
+      "artists": [
+        {
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195963,
+      "name": "Little by little",
+      "url": "https://open.spotify.com/track/7EYxEHKuDSQd6NQvMZHPTa"
+    },
+    {
+      "album": {
         "name": "Bonfire",
         "url": "https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5"
       },
@@ -13952,6 +14010,24 @@
       "duration_ms": 220424,
       "name": "Monsoon Rain",
       "url": "https://open.spotify.com/track/6ITDnStygfL352ATEmtYJW"
+    },
+    {
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/4BnUaJA9EifagEEfmh1Xmz"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/6BukCbBwG62W3HZzD3SAcX"
     },
     {
       "album": {
@@ -17638,7 +17714,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 1102737,
       "name": "S G T A P E - 03",
       "url": "https://open.spotify.com/track/0VELcxzskuExJTuqpiTPdk"

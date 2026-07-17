@@ -17191,6 +17191,24 @@
     },
     {
       "album": {
+        "name": "Death To The Fleshless",
+        "url": "https://open.spotify.com/album/3QwkBQWWndUuBo6GoctMVA"
+      },
+      "artists": [
+        {
+          "name": "Glitch Kill",
+          "url": "https://open.spotify.com/artist/50oWkslmqWWcUrVxKOfL4m"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Death To The Fleshless",
+      "url": "https://open.spotify.com/track/6aD20EMBpgClg8icXxzBiD"
+    },
+    {
+      "album": {
         "name": "Decay of Era",
         "url": "https://open.spotify.com/album/2F6bMFjnlnB5DHZSvmyDP0"
       },

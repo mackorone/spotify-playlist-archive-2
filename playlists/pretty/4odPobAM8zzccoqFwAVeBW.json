@@ -6,8 +6,140 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABNLQ1it4OljXTOCI0JPZDhsgd9nyJN",
+  "snapshot_id": "AABNPTWuS7ATPXEWd35ZGzSp10zlznTo",
   "tracks": [
+    {
+      "added_at": "2026-07-16 09:29:05",
+      "album": {
+        "name": "Barking at the Sun",
+        "url": "https://open.spotify.com/album/5TEYdGlOW2Wf1n2ueHF7VA"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "duration_ms": 309410,
+      "name": "Barking at the Sun",
+      "url": "https://open.spotify.com/track/3pChjptcz3GPxDUYldp7Dr"
+    },
+    {
+      "added_at": "2026-07-16 09:31:03",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/3KOyoe3uzBmoUYePQlug76"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "duration_ms": 161358,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/0FmdOb1pPYH6yQKnJVKSpY"
+    },
+    {
+      "added_at": "2026-07-16 09:32:26",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6ZUmiLywnQFNRcnb0sqPvI"
+      },
+      "artists": [
+        {
+          "name": "The Klittens",
+          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+        }
+      ],
+      "duration_ms": 309946,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5"
+    },
+    {
+      "added_at": "2026-07-16 09:30:23",
+      "album": {
+        "name": "Save Your Breath",
+        "url": "https://open.spotify.com/album/1BNhDhy2yJxJyd2KSOWJ7x"
+      },
+      "artists": [
+        {
+          "name": "Castles in Space",
+          "url": "https://open.spotify.com/artist/6KgP3Vu8ArSbbt33znD3ij"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Save Your Breath",
+      "url": "https://open.spotify.com/track/1Ebd6HU4cfAybad0PnBIXL"
+    },
+    {
+      "added_at": "2026-07-16 09:28:45",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/6LqLuY7kj8aBZkWEZHV0s4"
+      },
+      "artists": [
+        {
+          "name": "That Old Quiet Lighthouse",
+          "url": "https://open.spotify.com/artist/1DwK7nnUIs4J2FDVoVNj5q"
+        }
+      ],
+      "duration_ms": 312199,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/7jg72PMbaPCi5cYIuLjK5t"
+    },
+    {
+      "added_at": "2026-07-16 09:31:17",
+      "album": {
+        "name": "Claw Machine",
+        "url": "https://open.spotify.com/album/66PG6c9wUnw2vHUcUHowxT"
+      },
+      "artists": [
+        {
+          "name": "Robo",
+          "url": "https://open.spotify.com/artist/3U041FxU4RcB1Bo1EsGYLX"
+        }
+      ],
+      "duration_ms": 238008,
+      "name": "Claw Machine",
+      "url": "https://open.spotify.com/track/3zXvtBW0FPyiks4x7z7St5"
+    },
+    {
+      "added_at": "2026-07-16 09:31:35",
+      "album": {
+        "name": "Factors Of Eight",
+        "url": "https://open.spotify.com/album/36kfqT6wN4IoDRr8cV4NB7"
+      },
+      "artists": [
+        {
+          "name": "Fupper",
+          "url": "https://open.spotify.com/artist/6zVKUj1dH2xdKH9TpQZtav"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Factors Of Eight",
+      "url": "https://open.spotify.com/track/7fb1EDdaYuWt18vQzrNZkH"
+    },
+    {
+      "added_at": "2026-07-16 09:28:28",
+      "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/1lsXXhSsynY9En7OALgEkn"
+      },
+      "artists": [
+        {
+          "name": "Ken Ueno",
+          "url": "https://open.spotify.com/artist/1qXJ8mLxmIVUJbDOhT9vKW"
+        },
+        {
+          "name": "Wukir Suryadi",
+          "url": "https://open.spotify.com/artist/58SljsWsn1SnpBcuAO12k1"
+        }
+      ],
+      "duration_ms": 3543865,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2ShEyBFPKNW4ACwIFzvaUk"
+    },
     {
       "added_at": "2026-07-09 11:32:58",
       "album": {
@@ -1247,478 +1379,6 @@
       "duration_ms": 282624,
       "name": "Said & Done",
       "url": "https://open.spotify.com/track/2lfVWdTAo1MpmERDb6MebV"
-    },
-    {
-      "added_at": "2026-06-05 08:10:25",
-      "album": {
-        "name": "The Sounders",
-        "url": "https://open.spotify.com/album/1elaC7Q323Td4hFjz26Tsb"
-      },
-      "artists": [
-        {
-          "name": "Moon Attendant",
-          "url": "https://open.spotify.com/artist/5gq6zB7aVeofWlRgzXgx1M"
-        }
-      ],
-      "duration_ms": 200262,
-      "name": "The Sounders",
-      "url": "https://open.spotify.com/track/1icrbIj1iz1tGCMgPcvRpO"
-    },
-    {
-      "added_at": "2026-06-05 08:10:46",
-      "album": {
-        "name": "Cranial Devastation",
-        "url": "https://open.spotify.com/album/4X72Se6MsI4oThhuqprv2c"
-      },
-      "artists": [
-        {
-          "name": "Dead Void",
-          "url": "https://open.spotify.com/artist/2lvbc1f8fB81yeZurz3UfD"
-        }
-      ],
-      "duration_ms": 346019,
-      "name": "Isolation's Hold",
-      "url": "https://open.spotify.com/track/22FN4cWa9Ppa0LoFEhTSIS"
-    },
-    {
-      "added_at": "2026-06-05 08:11:02",
-      "album": {
-        "name": "Bird on a Wire",
-        "url": "https://open.spotify.com/album/1oshfFEPPCorAUX3mtnNap"
-      },
-      "artists": [
-        {
-          "name": "Perch",
-          "url": "https://open.spotify.com/artist/31IgAY8LuXAmTTzaX98j1l"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Bird on a Wire",
-      "url": "https://open.spotify.com/track/4aMEdfT6YS1nY7OWFdDEGS"
-    },
-    {
-      "added_at": "2026-06-05 10:41:52",
-      "album": {
-        "name": "Ephus roundshot & floater",
-        "url": "https://open.spotify.com/album/3wNoiR1JTGwqiHJpPPawi1"
-      },
-      "artists": [
-        {
-          "name": "$quib",
-          "url": "https://open.spotify.com/artist/2bvw5ZYK1LmNAikReUhJOc"
-        }
-      ],
-      "duration_ms": 254815,
-      "name": "Ephus roundshot & floater",
-      "url": "https://open.spotify.com/track/1JC0t7HOWq48UWWFxA2Xgv"
-    },
-    {
-      "added_at": "2026-06-05 08:11:26",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/0UQ3hUXq1kYKD4hzSH6ZJl"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Builder",
-          "url": "https://open.spotify.com/artist/6sBs6HRNREJ4BYmEtsksZk"
-        }
-      ],
-      "duration_ms": 403326,
-      "name": "CLOCKS",
-      "url": "https://open.spotify.com/track/6lTjS8vPXfxOMnVi2Q6lxm"
-    },
-    {
-      "added_at": "2026-06-05 08:12:01",
-      "album": {
-        "name": "Under A Cat",
-        "url": "https://open.spotify.com/album/2417vUK6MYcPPhJI2zkgJJ"
-      },
-      "artists": [
-        {
-          "name": "Brian Bilston",
-          "url": "https://open.spotify.com/artist/7aYKuyGAtDPXN8j46QYm2W"
-        },
-        {
-          "name": "The Catenary Wires",
-          "url": "https://open.spotify.com/artist/5vcEaZYgrEzSNAXySogywH"
-        }
-      ],
-      "duration_ms": 173890,
-      "name": "Under A Cat",
-      "url": "https://open.spotify.com/track/0vmFNiiV4vAqgy8UfxTwQv"
-    },
-    {
-      "added_at": "2026-06-05 08:12:28",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/3MuQUs1qqexgNXEARBeS4M"
-      },
-      "artists": [
-        {
-          "name": "The TSG",
-          "url": "https://open.spotify.com/artist/2XPARSRB6KHyP6qkpLJk4K"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/2JOVuvimPZcBXi8CKuHxgc"
-    },
-    {
-      "added_at": "2026-05-28 12:14:44",
-      "album": {
-        "name": "Dhalgren (Nihilism is Not Enough)",
-        "url": "https://open.spotify.com/album/0Oe68NEV8IHirGAdIBIM1T"
-      },
-      "artists": [
-        {
-          "name": "Speaker Music",
-          "url": "https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso"
-        }
-      ],
-      "duration_ms": 468648,
-      "name": "Dhalgren (Nihilism is Not Enough)",
-      "url": "https://open.spotify.com/track/7dmgn1ThtSyxuJSKICQWsV"
-    },
-    {
-      "added_at": "2026-05-28 12:18:34",
-      "album": {
-        "name": "Caught Myself",
-        "url": "https://open.spotify.com/album/45tf0M0wKZqtqCNHwrsHbo"
-      },
-      "artists": [
-        {
-          "name": "Stolen Velour",
-          "url": "https://open.spotify.com/artist/3YIXaWaXPfxxpWZKCDnePZ"
-        },
-        {
-          "name": "FLOCO",
-          "url": "https://open.spotify.com/artist/481UCPPSOM8exNyn4iDZHQ"
-        },
-        {
-          "name": "Aria SL",
-          "url": "https://open.spotify.com/artist/3H7dgdc50JIJDEqDIjOfxL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Caught Myself",
-      "url": "https://open.spotify.com/track/5Kv9qIWLOWohAALI6qrEss"
-    },
-    {
-      "added_at": "2026-05-28 12:16:10",
-      "album": {
-        "name": "The Long Way Round",
-        "url": "https://open.spotify.com/album/2yeSXn65PsQ44yYvKq9Tpd"
-      },
-      "artists": [
-        {
-          "name": "Mother Church",
-          "url": "https://open.spotify.com/artist/0ZZQNWjQEkwjYJALd5veZ7"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "The Long Way Round",
-      "url": "https://open.spotify.com/track/3wsIYveXLIwasI6n6E4Rps"
-    },
-    {
-      "added_at": "2026-05-28 12:17:15",
-      "album": {
-        "name": "Bill Norrie",
-        "url": "https://open.spotify.com/album/3HbOINS3elQMUdkQUWfCgt"
-      },
-      "artists": [
-        {
-          "name": "Crumbling Ghost",
-          "url": "https://open.spotify.com/artist/1TCgPT3JAewdKKmU3ArCrl"
-        }
-      ],
-      "duration_ms": 353311,
-      "name": "Bill Norrie",
-      "url": "https://open.spotify.com/track/1lCgl51eboNVybb9Bjmu42"
-    },
-    {
-      "added_at": "2026-05-28 12:17:49",
-      "album": {
-        "name": "Seeing Double",
-        "url": "https://open.spotify.com/album/6vRj5a0PPhpIIA7xtQHEWF"
-      },
-      "artists": [
-        {
-          "name": "The Martial Arts",
-          "url": "https://open.spotify.com/artist/7s1CE8j3aVdaz8dBKzIJ6i"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Seeing Double",
-      "url": "https://open.spotify.com/track/4x7s9DvI8hJCqwYGHaAywz"
-    },
-    {
-      "added_at": "2026-05-28 12:18:05",
-      "album": {
-        "name": "Be Somebody",
-        "url": "https://open.spotify.com/album/6G9B4QAf0gvoCwmdfTJKQw"
-      },
-      "artists": [
-        {
-          "name": "SPLIT DOGS",
-          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
-        }
-      ],
-      "duration_ms": 169758,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/26pfzjxjrZ2w85dd4USza3"
-    },
-    {
-      "added_at": "2026-05-28 12:18:21",
-      "album": {
-        "name": "Freedom is the Mole who will turn the world upside down",
-        "url": "https://open.spotify.com/album/1UdmIWGxbNpuGIiCvLhJeQ"
-      },
-      "artists": [
-        {
-          "name": "The Sprigs",
-          "url": "https://open.spotify.com/artist/6pMqWTXOLF5AAL37ErGKqw"
-        }
-      ],
-      "duration_ms": 415848,
-      "name": "Freedom is the Mole who will turn the world upside down",
-      "url": "https://open.spotify.com/track/5bx3SuiWsk51p1vGBkJ6lM"
-    },
-    {
-      "added_at": "2026-05-28 12:19:20",
-      "album": {
-        "name": "Searching for Snails",
-        "url": "https://open.spotify.com/album/28Q5kKSf7bM0dtibovd3Iv"
-      },
-      "artists": [
-        {
-          "name": "Doris Brendel",
-          "url": "https://open.spotify.com/artist/4pVeFYgp3ZMZDHvbQecxg5"
-        }
-      ],
-      "duration_ms": 191890,
-      "name": "I Wanna Be Sherlock Holmes",
-      "url": "https://open.spotify.com/track/77OSl1cOrziesntLxoQVIg"
-    },
-    {
-      "added_at": "2026-05-22 06:34:04",
-      "album": {
-        "name": "Melting, Sometimes Bleeding",
-        "url": "https://open.spotify.com/album/3W0KFjtlMFzcYSkAY82BCU"
-      },
-      "artists": [
-        {
-          "name": "Night Swimming",
-          "url": "https://open.spotify.com/artist/3e2PXYMu8ijWVUZOhgU018"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Dark Clouds",
-      "url": "https://open.spotify.com/track/2tloVsMfcwHkZnk1TcRWhi"
-    },
-    {
-      "added_at": "2026-05-22 06:46:01",
-      "album": {
-        "name": "The Breath Of Now",
-        "url": "https://open.spotify.com/album/6sgb3X6S2hmsmadB98EJKM"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        },
-        {
-          "name": "Ian Rankin",
-          "url": "https://open.spotify.com/artist/51qzxt81uXdi7K34VI1o6O"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "The Breath Of Now",
-      "url": "https://open.spotify.com/track/6thcn5Bl1Y0LZi6W0CXo5o"
-    },
-    {
-      "added_at": "2026-05-22 06:33:06",
-      "album": {
-        "name": "Modern Moonlight",
-        "url": "https://open.spotify.com/album/7KZ0ZbjoFr9Hvd8Mfbknbe"
-      },
-      "artists": [
-        {
-          "name": "The Early Years",
-          "url": "https://open.spotify.com/artist/6Jl9BZSiRsnKZUqnvvbVdo"
-        },
-        {
-          "name": "Lorena Quintanilla",
-          "url": "https://open.spotify.com/artist/4TgGUnkF9ijHjm25QgXYX6"
-        }
-      ],
-      "duration_ms": 339146,
-      "name": "Silver Lips (Champagne Eyes)",
-      "url": "https://open.spotify.com/track/3yrEZF5UvbdnpcWdXwPAbm"
-    },
-    {
-      "added_at": "2026-05-22 06:42:09",
-      "album": {
-        "name": "Too Human (The Bug Remix)",
-        "url": "https://open.spotify.com/album/3ItVqovCUCU8Il3FhQ9vjJ"
-      },
-      "artists": [
-        {
-          "name": "Kevin Richard Martin",
-          "url": "https://open.spotify.com/artist/4UmR7UaeXgqjJwweJxGyZT"
-        },
-        {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        }
-      ],
-      "duration_ms": 357467,
-      "name": "Too Human - The Bug Remix",
-      "url": "https://open.spotify.com/track/7IHeuKanVix9KUjxFtw0vi"
-    },
-    {
-      "added_at": "2026-05-22 06:34:48",
-      "album": {
-        "name": "Cine-Pop",
-        "url": "https://open.spotify.com/album/6PvT6Mi7x4Ez8gxlfb2sWw"
-      },
-      "artists": [
-        {
-          "name": "Radhika",
-          "url": "https://open.spotify.com/artist/1Kh102gi5R44EqUBC2prHm"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Tum Hi Ho",
-      "url": "https://open.spotify.com/track/6dCtcnJyIWdMn8jeBzt4ox"
-    },
-    {
-      "added_at": "2026-05-22 06:36:03",
-      "album": {
-        "name": "Fool's Errand",
-        "url": "https://open.spotify.com/album/67mPOgiWRZBIvIPklc3VKl"
-      },
-      "artists": [
-        {
-          "name": "Air Max '97",
-          "url": "https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R"
-        }
-      ],
-      "duration_ms": 290823,
-      "name": "Fool's Errand",
-      "url": "https://open.spotify.com/track/6yBaePqDmwNru6aUVhX9Fj"
-    },
-    {
-      "added_at": "2026-05-22 06:43:01",
-      "album": {
-        "name": "Foreign Agent",
-        "url": "https://open.spotify.com/album/0ZBQ3hs8kgWbYkyoz0PDWx"
-      },
-      "artists": [
-        {
-          "name": "Gnoomes",
-          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Foreign Agent",
-      "url": "https://open.spotify.com/track/12uL1PVpZ4sexQzBA8vKjk"
-    },
-    {
-      "added_at": "2026-05-22 06:42:21",
-      "album": {
-        "name": "Whistling On A Tuesday",
-        "url": "https://open.spotify.com/album/5gANS0LvecpLMaQN0XQJhi"
-      },
-      "artists": [
-        {
-          "name": "dgoHn",
-          "url": "https://open.spotify.com/artist/7niTXistKYVF29W4Bo0cUt"
-        }
-      ],
-      "duration_ms": 330493,
-      "name": "Whistling On A Tuesday",
-      "url": "https://open.spotify.com/track/5pgWetZmNHFtyi40i9rRQn"
-    },
-    {
-      "added_at": "2026-05-22 06:42:48",
-      "album": {
-        "name": "My Oh My!",
-        "url": "https://open.spotify.com/album/1p1XBN9wzJ0BI98az3lNyM"
-      },
-      "artists": [
-        {
-          "name": "Shooting Daggers",
-          "url": "https://open.spotify.com/artist/6Fc3dby8KyX9W4puxDLz6J"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "My Oh My!",
-      "url": "https://open.spotify.com/track/2bXsnSBvQeQlTxLPEuyv49"
-    },
-    {
-      "added_at": "2026-05-22 06:39:15",
-      "album": {
-        "name": "I Taught You How to Dance",
-        "url": "https://open.spotify.com/album/2TNBXurJq7tBwGXUWPp9Zi"
-      },
-      "artists": [
-        {
-          "name": "Darren Hayman",
-          "url": "https://open.spotify.com/artist/7z1zIVirda43ep7aMRkXYH"
-        }
-      ],
-      "duration_ms": 290607,
-      "name": "I Don't Wanna Dance",
-      "url": "https://open.spotify.com/track/7g9eSUwE5TtqW6hfNpnrMq"
-    },
-    {
-      "added_at": "2026-05-22 06:35:23",
-      "album": {
-        "name": "Everything Is Good.",
-        "url": "https://open.spotify.com/album/5KFRFypTggMRA8X9FClRUG"
-      },
-      "artists": [
-        {
-          "name": "Drumm Chimp",
-          "url": "https://open.spotify.com/artist/4YJ1HgKznzTQjpuEzvRirP"
-        }
-      ],
-      "duration_ms": 537655,
-      "name": "Drone Mountain",
-      "url": "https://open.spotify.com/track/4c9Xm2qwab9rRJPj8It8nk"
-    },
-    {
-      "added_at": "2026-05-22 06:40:46",
-      "album": {
-        "name": "Laura Cannell Live at Cafe Oto",
-        "url": "https://open.spotify.com/album/1Wf3IVE7XBCHTRI2lQk44W"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 252380,
-      "name": "Locked in Glaciers - Live at Cafe Oto",
-      "url": "https://open.spotify.com/track/7aqJC8nHgoIiAwxSU6pFhT"
-    },
-    {
-      "added_at": "2026-05-22 06:34:23",
-      "album": {
-        "name": "Asphalt Green",
-        "url": "https://open.spotify.com/album/6JfkTfAtabgNy0yAfhPIZ0"
-      },
-      "artists": [
-        {
-          "name": "Angels in America",
-          "url": "https://open.spotify.com/artist/3cnJ18nJFHcGBhmAIYnsn9"
-        }
-      ],
-      "duration_ms": 221482,
-      "name": "K-Swiss",
-      "url": "https://open.spotify.com/track/7u5MGB2RMGF7sTfuu95DeN"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

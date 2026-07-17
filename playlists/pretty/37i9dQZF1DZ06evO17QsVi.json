@@ -1,6 +1,6 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1235977,
+  "num_followers": 1236043,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 300573,
-      "name": "Temptations",
-      "url": "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
+      "duration_ms": 279200,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 279200,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
+      "duration_ms": 300573,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "R U Still Down? [Remember Me]",
-        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Hellrazor",
-      "url": "https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch"
+      "duration_ms": 255626,
+      "name": "Ballad Of A Dead Soulja",
+      "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until The End Of Time",
-        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 255626,
-      "name": "Ballad Of A Dead Soulja",
-      "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
+      "duration_ms": 255000,
+      "name": "Hellrazor",
+      "url": "https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch"
     },
     {
       "added_at": null,

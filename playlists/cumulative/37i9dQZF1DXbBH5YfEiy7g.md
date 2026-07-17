@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-249 songs - 1 day 3 hr 7 min
+251 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Fill Me Up](https://open.spotify.com/track/5vyQZ75cMKTiB3ucxnLhjR) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Fill Me Up](https://open.spotify.com/album/0dCLLNtrZbA5emKucTNesY) | 3:34 | 2025-08-01 | 2025-08-06 |
 | [Fill Us Again](https://open.spotify.com/track/1l68T5hrjjQYGH0DlawKEa) | [Bongiwe Madela](https://open.spotify.com/artist/3MKHvYA3XAr0JWINuYMHYU), [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Fill Us Again](https://open.spotify.com/album/1RVUNUGqBuD6qk3VvmjPGm) | 9:39 | 2025-02-28 | 2025-04-11 |
 | [Forgiven](https://open.spotify.com/track/0Q7oMoYZCQuVKmcFKRiLPx) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Mmangaliso](https://open.spotify.com/artist/056k4iD4FCiU7UKHkrGaTc), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Passover](https://open.spotify.com/album/2rnvnikQHbCmK5dWNc3sOJ) | 4:24 | 2025-04-11 | 2025-05-02 |
+| [Galalela \(Live\)](https://open.spotify.com/track/2GE8CsW01WAlA0RGdYIdAS) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Let There Be Light \(Live\)](https://open.spotify.com/album/4OzEgIBnM0dFFfNGyLoo8W) | 5:11 | 2026-07-17 |  |
 | [Glorious God](https://open.spotify.com/track/3Rsqw0tq93oezGbCeb7qCq) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Sophie Malete](https://open.spotify.com/artist/3oMXp3en0H6rwOO32ifA3T) | [Glorious God](https://open.spotify.com/album/3Iv8nu7OTtzgEnH2eM8Uxj) | 7:54 | 2025-12-12 | 2026-02-20 |
 | [God you keep on blessing me](https://open.spotify.com/track/4CG7S7iOYsp2lwAnpMFTNu) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [God you keep on blessing me](https://open.spotify.com/album/5a1M0zMLekpfSvFHRUFzNA) | 3:06 | 2025-08-01 | 2025-08-06 |
 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-10-04 |  |
@@ -237,6 +238,7 @@
 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 | 2024-10-11 |  |
 | [Wakrazulwa](https://open.spotify.com/track/7F1CiwICZMraSDwsRgs2wu) | [JTG Gospel Choir](https://open.spotify.com/artist/0GyDw1zJL0JJogWrT7Z7Ht), [Kholeka](https://open.spotify.com/artist/37dSM8Vh8aCBAhqGCVIfmy) | [Wakrazulwa](https://open.spotify.com/album/1ibKvJT9iJDd9E047ceYGp) | 3:20 | 2024-10-11 | 2024-11-15 |
 | [Walenga](https://open.spotify.com/track/3x7T92sHKGapooFTDGbXMi) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Lindiwe \(Deluxe\)](https://open.spotify.com/album/1tZE787T2iw039Nu9eSjum) | 5:11 | 2025-10-17 | 2025-12-19 |
+| [Walk In The Light](https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walk In The Light](https://open.spotify.com/album/249AbniRkHnopD6Ued4qRj) | 5:16 | 2026-07-17 |  |
 | [Wangethula \(Live\)](https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Wangethula \(Live\)](https://open.spotify.com/album/0QemxNOpo2FmgChieTkrfJ) | 8:40 | 2025-06-27 | 2025-10-10 |
 | [Wash'Umlilo](https://open.spotify.com/track/1cpEKqRRI4O7U5tQyS1DeC) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 6:15 | 2025-08-01 | 2025-08-06 |
 | [Wayekhona](https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wayekhona](https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV) | 4:00 | 2025-11-07 | 2026-02-14 |

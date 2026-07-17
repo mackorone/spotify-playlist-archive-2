@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Federica Abbate
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,905 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,902 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 91 | [malalengua](https://open.spotify.com/track/75IEhqTMl96ufVw2O61Vya) | [DIANARA](https://open.spotify.com/artist/6PAvPEmRdQXqiFvOewiN1O) | [malalengua](https://open.spotify.com/album/6OXUzdAOGr2O4rUe6B687A) | 2:22 |
 | 92 | [Al suo riposo](https://open.spotify.com/track/47AEJ7ZhJvcJYbcKIgLIPb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Al suo riposo, In luce](https://open.spotify.com/album/36s9HaLZdbHhAj9p5cVUUz) | 4:37 |
 | 93 | [sostanza](https://open.spotify.com/track/3LmJEPAutYFnJspfAfttnb) | [Pirrons](https://open.spotify.com/artist/5GNm6r9ruYWX2EMXjt2B1O) | [sostanza](https://open.spotify.com/album/14QIu7zxcOG147bIR52eti) | 1:47 |
-| 94 | [JURNATA 'E SOLE](https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [JURNATA 'E SOLE](https://open.spotify.com/album/0CkovfE5wxMjWrLU4xcz7E) | 2:46 |
+| 94 | [JURNATA 'E SOLE](https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [KeyDB](https://open.spotify.com/artist/3qdpPvwetvpGccwjtsweZZ) | [JURNATA 'E SOLE](https://open.spotify.com/album/0CkovfE5wxMjWrLU4xcz7E) | 2:46 |
 | 95 | [alla luna](https://open.spotify.com/track/0OuHeXyrPEZNbCJZ9raCIH) | [marsea](https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX) | [alla luna](https://open.spotify.com/album/3XhsUfKCOuSJKqLYrVP5zU) | 4:16 |
 | 96 | [CONFIDENCE](https://open.spotify.com/track/6VQYrLsw7dcOquq3qKahnV) | [RIRI2K](https://open.spotify.com/artist/14QMCAaOdrpr30PrA2tvid) | [CONFIDENCE](https://open.spotify.com/album/7InTqkSiXoDy4rZZouyj6G) | 1:48 |
 | 97 | [Filosofia Dello Stare Bene](https://open.spotify.com/track/42z88dhlj7hs3HxvG3B0jt) | [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [Vocália](https://open.spotify.com/album/3871bVwyeAftS4jiuG0Z5r) | 2:45 |

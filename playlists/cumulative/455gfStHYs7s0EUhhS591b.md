@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-283 songs - 16 hr 34 min
+284 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Sun Above](https://open.spotify.com/track/6liwDOC1aJsxqqvIiJnDNK) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4) | [Sun Above](https://open.spotify.com/album/162nDxmkiLd4v8V64lf4Sf) | 3:37 | 2026-04-03 |  |
 | [Sun Is Shining \- Kato Remix](https://open.spotify.com/track/53Z3R7mfgRgMp92TgnYSAo) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A) | [Sun Is Shining \(Kato Remix\)](https://open.spotify.com/album/0bPSH8gHTb5LpJmJUmCh1W) | 3:06 | 2025-12-17 |  |
 | [Sunday](https://open.spotify.com/track/72hlIMZzH5uKjddm1BHqIl) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG) | [Circle Line](https://open.spotify.com/album/0tVzr7LmiN8OoWuRPcoCgx) | 3:58 | 2025-07-18 | 2025-09-05 |
+| [Sunny Days \- Summer Is Calling & Impani Remix](https://open.spotify.com/track/5HpnnlXWy6uHxYnn4HwinD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Impani](https://open.spotify.com/artist/17aRTH8IYiW9945DeGB25Y) | [Sunny Days \(Summer Is Calling & Impani Remix\)](https://open.spotify.com/album/7jRpbZRdnMURcNtt6fy3Bm) | 3:44 | 2026-07-17 |  |
 | [Sunrise](https://open.spotify.com/track/7CXD0SFVhMXi7z898a6fxs) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Sunrise](https://open.spotify.com/album/2gpx29vJMTMNlYxN9CIcsE) | 3:04 | 2025-06-19 |  |
 | [Sunset Drive](https://open.spotify.com/track/7zybSU9tFO9HNlwmGF7stc) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 3:54 | 2025-07-18 |  |
 | [Sunsets in Ibiza](https://open.spotify.com/track/1yXH2f7PkTLwKxUj49kqDu) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Sunsets in Ibiza](https://open.spotify.com/album/6Wbg28mPRZ2F4mhA03nJ55) | 3:37 | 2026-04-17 |  |

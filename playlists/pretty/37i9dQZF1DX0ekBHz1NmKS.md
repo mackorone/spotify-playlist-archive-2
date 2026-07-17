@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,307 likes - 109 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,305 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better Man](https://open.spotify.com/track/4ykZCiEgz1rPTOlRpvYOyp) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Better Man](https://open.spotify.com/album/0v9rHxhxnFi9sEkWbtghGx) | 2:29 |
+| 1 | [Gelateria](https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Gelateria](https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq) | 3:08 |
 | 2 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 3 | [Dum i huvudet](https://open.spotify.com/track/4nX11i2MNHnznqfx3YxAPd) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Dum i huvudet](https://open.spotify.com/album/4KZpcQo4tYOjGfu8KZFgeL) | 2:54 |
 | 4 | [Det ligger nåt i luften](https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Det ligger nåt i luften](https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE) | 2:30 |
-| 5 | [Gelateria](https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Gelateria](https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq) | 3:08 |
+| 5 | [Better Man](https://open.spotify.com/track/4ykZCiEgz1rPTOlRpvYOyp) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Better Man](https://open.spotify.com/album/0v9rHxhxnFi9sEkWbtghGx) | 2:29 |
 | 6 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 | 7 | [Stockholm](https://open.spotify.com/track/2OY0TuFhYouP4aPaMHtVf7) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Stockholm](https://open.spotify.com/album/6wTfGjzZyk0lGi784bSZe8) | 3:02 |
 | 8 | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W), [Julia Glenmark](https://open.spotify.com/artist/2Jv6a3XMpqHemoAGdpaiuK) | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/album/7pH41TuSykueUvJElnq0go) | 3:19 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 108 | [Över](https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Över](https://open.spotify.com/album/6Rj381d50c8zjs37wts189) | 3:49 |
 | 109 | [Glöm mitt namn](https://open.spotify.com/track/2WwbCvmwMP1GqjLgtel9yg) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Glöm mitt namn](https://open.spotify.com/album/3oh69DPWxWrfingrv02p3B) | 3:38 |
 
-Snapshot ID: `AAAAAH+zpGBuTwHfpvAPwDN7ukcPNaWw`
+Snapshot ID: `AAAAAMbB/Ie+K2No4mtOTTvzEtekiZmn`

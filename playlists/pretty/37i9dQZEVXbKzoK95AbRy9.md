@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,584 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,613 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Moça Pra Casar \- Ao Vivo](https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Moça Pra Casar \(Ao Vivo\)](https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT) | 2:41 |
 | 50 | [Arrependidaço \(Onde Você Anda\)](https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Sentimento](https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E) | 3:00 |
 
-Snapshot ID: `Mer3oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MexJIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

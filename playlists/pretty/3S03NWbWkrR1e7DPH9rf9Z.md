@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 211,889 likes - 203 songs - 9 hr 57 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 211,884 likes - 200 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,8 +208,5 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 | 198 | [Trippin](https://open.spotify.com/track/27ekQRCAsBNinImk4GE7Hl) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Trippin](https://open.spotify.com/album/42yJ828gmop6RvNRbBCab0) | 3:06 |
 | 199 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 |
 | 200 | [In My Dreams](https://open.spotify.com/track/0rOqHnkfi8KF4xZfkpO3vU) | [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [KATYA BLANCA](https://open.spotify.com/artist/5ljkYJwF54lGQ3buGwzZWV) | [In My Dreams](https://open.spotify.com/album/3UFi1LajksAoUG9fPbk0m1) | 3:12 |
-| 201 | [Drug In Me](https://open.spotify.com/track/66529pNx16rmdFHDN3pjbE) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Drug In Me](https://open.spotify.com/album/0ZOF3HvIgmLwAyfYScfxYs) | 3:24 |
-| 202 | [Coming Alive \- Jeffrey Sutorius Remix](https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jone Fields](https://open.spotify.com/artist/1rvAjW0q7tpURqrgvoCtj5), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [JEFFREY SUTORIUS](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [Coming Alive \(Jeffrey Sutorius Remix\)](https://open.spotify.com/album/1vzfRQBPtwFuI7IyRmvPXX) | 3:53 |
-| 203 | [Once Again \- Roy Orion Remix](https://open.spotify.com/track/233QURapSv9Pjdt38LRo9Y) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk) | [Once Again](https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp) | 2:49 |
 
-Snapshot ID: `AAAWV+pUoWe7CbBPyA36j01pL5NRaEfT`
+Snapshot ID: `AAAWWrk0e5d0w7RDSY4Jq8cNa7fISE3u`

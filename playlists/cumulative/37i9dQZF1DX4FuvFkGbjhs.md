@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Kelela
 
-913 songs - 2 day 4 hr 43 min
+914 songs - 2 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,6 +809,7 @@
 | [THE THING](https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [THE THING](https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI) | 5:38 | 2026-01-16 | 2026-05-08 |
 | [The Ugly Ones](https://open.spotify.com/track/1SzccjdRk1HEybmMgEgvwK) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [The Ugly Ones](https://open.spotify.com/album/6Psf2S5Naahv5ebwRb5B42) | 3:22 | 2026-01-30 | 2026-02-06 |
 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 | 2026-05-28 |  |
+| [There Goes Ma Head](https://open.spotify.com/track/0ceKqpXrrC3CtFwFiLJeoY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Emotional Junglist](https://open.spotify.com/album/0Q7HPYmrJWTXUnf3QqRx3W) | 2:36 | 2026-07-16 |  |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-11 | 2025-07-12 |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-14 | 2025-05-02 |
 | [Things Can't Stop](https://open.spotify.com/track/4oqouTCEt9hgfnOVuvyKDg) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A), [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Things Can't Stop](https://open.spotify.com/album/69Rdc3e9gwQttBHFB79NJU) | 3:47 | 2026-05-07 |  |
@@ -825,7 +826,7 @@
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-08-02 |
 | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz) | 3:34 | 2024-12-06 | 2025-03-21 |
 | [To Want Someone Badly](https://open.spotify.com/track/6f6EdKXS6CRFGIk6hW8qjS) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Want Someone Badly](https://open.spotify.com/album/1RCqDfERqTPoW669sQdYWA) | 2:57 | 2026-06-25 |  |
-| [too many days i've spent waiting](https://open.spotify.com/track/6NaWF1PFEmq0dSv4GDq6Aj) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [too many days i've spent waiting](https://open.spotify.com/album/41RwHIbfWogg6NWsdotsvV) | 2:39 | 2026-07-09 |  |
+| [too many days i've spent waiting](https://open.spotify.com/track/6NaWF1PFEmq0dSv4GDq6Aj) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [too many days i've spent waiting](https://open.spotify.com/album/41RwHIbfWogg6NWsdotsvV) | 2:39 | 2026-07-09 | 2026-07-17 |
 | [TOO MUCH!](https://open.spotify.com/track/6IXFA7Sh0gHQtJoNhHl6qU) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [TOO MUCH!](https://open.spotify.com/album/05EKSPXWJPZ5iROIob3All) | 3:09 | 2024-10-03 | 2024-10-18 |
 | [TORMENTOR](https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [TORMENTOR](https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc) | 5:10 | 2024-11-08 | 2024-11-22 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-21 |

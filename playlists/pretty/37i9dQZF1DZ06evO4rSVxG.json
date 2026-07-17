@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAABEAboCtmoxJegr1ODdnOfS",
+  "snapshot_id": "albNgAAAAACo9Pg/ARpdskRSnEOuCsiW",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 321800,
-      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
-      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More than Flowers",
         "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
       },
@@ -551,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetic Justice: Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
       },
       "artists": [
         {
@@ -560,9 +544,25 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+      "duration_ms": 321800,
+      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
+      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 321760,
+      "name": "Weather 42",
+      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 321760,
-      "name": "Weather 42",
-      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
+      "duration_ms": 313093,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
     },
     {
       "added_at": null,

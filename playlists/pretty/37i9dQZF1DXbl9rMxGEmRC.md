@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks only\. Cover: Witch Club Satan
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,491 likes - 125 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,472 likes - 125 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

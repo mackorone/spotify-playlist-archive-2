@@ -2,7 +2,7 @@
 
 ### [RYM Top 100 Songs of All Time](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> Video beginning pre\-production so no more editing playlist order I&\#x27;m a busy man ok
+> Video stuck in devlopment hell \(my mind\)
 
 109 songs - 14 hr 41 min
 

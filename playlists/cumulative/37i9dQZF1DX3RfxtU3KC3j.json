@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Dolu Kadehi Ters Tut",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Model",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
+    {
+      "album": {
+        "name": ".g\u00fcya b\u0131rakm\u0131\u015ft\u0131m y\u00fcz\u00fcn\u00fc",
+        "url": "https://open.spotify.com/album/2F5JTWym7VnjYvr26nfHXd"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": ".g\u00fcya b\u0131rakm\u0131\u015ft\u0131m y\u00fcz\u00fcn\u00fc",
+      "url": "https://open.spotify.com/track/6QxoBSn4N8ZIaIj8DIeFtT"
+    },
     {
       "album": {
         "name": "1560 I\u015f\u0131k Y\u0131l\u0131",
@@ -2171,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Beton",
+        "url": "https://open.spotify.com/album/0Pte6Dsval8ReDmFYPjVQe"
+      },
+      "artists": [
+        {
+          "name": "Ufuk Beydemir",
+          "url": "https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180002,
+      "name": "Beton",
+      "url": "https://open.spotify.com/track/6cDzVi0YkzKQS0izDe7efo"
+    },
+    {
+      "album": {
         "name": "Beyaz Sayfalar",
         "url": "https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP"
       },
@@ -2348,7 +2384,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 257684,
       "name": "Bir Alt Kat\u0131n \u015eeytan\u0131",
       "url": "https://open.spotify.com/track/10xNSzLdAf0AeoWBBuEQg2"
@@ -2810,7 +2846,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 189204,
       "name": "Bombo\u015f Bardak",
       "url": "https://open.spotify.com/track/1izpRfpb9OncSgnwXfR5H8"
@@ -4376,7 +4412,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 171428,
       "name": "D\u00fcnya Dursa",
       "url": "https://open.spotify.com/track/4c5ty1HJmkbsJHCGmo9yoH"
@@ -4614,7 +4650,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 231592,
       "name": "Emin\u00f6n\u00fc",
       "url": "https://open.spotify.com/track/7p1xZbbjlmkxzXB9QYdJZm"
@@ -7010,7 +7046,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 211106,
       "name": "Hi\u00e7bir Zaman",
       "url": "https://open.spotify.com/track/1Gzs8R4ON3f8aL2gJUYbYV"
@@ -7655,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "Kaderimin Oyunusun",
+        "url": "https://open.spotify.com/album/1l03blQ9P8DXSx5uOe9Ggy"
+      },
+      "artists": [
+        {
+          "name": "Pera",
+          "url": "https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175851,
+      "name": "Kaderimin Oyunusun",
+      "url": "https://open.spotify.com/track/1bohYgXJvqMJq6p2kAyBWi"
+    },
+    {
+      "album": {
         "name": "Kaderimiz Ayn\u0131",
         "url": "https://open.spotify.com/album/41pLi7pHVSpEI4ht0zKwFr"
       },
@@ -7984,6 +8038,24 @@
       "duration_ms": 206400,
       "name": "Karanl\u0131k \u015eato",
       "url": "https://open.spotify.com/track/7LD2MwLDNDtcXtJoMwlA2D"
+    },
+    {
+      "album": {
+        "name": "Karanl\u0131\u011f\u0131ma",
+        "url": "https://open.spotify.com/album/0OXQqApMjW4JufBl7PDoQF"
+      },
+      "artists": [
+        {
+          "name": "\u0130sa \u00d6zkocaman",
+          "url": "https://open.spotify.com/artist/0U4jQs28By5TA9EzKTG6vZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226433,
+      "name": "Karanl\u0131\u011f\u0131ma",
+      "url": "https://open.spotify.com/track/2BeTpoO9hFa3UsiuKol3Ae"
     },
     {
       "album": {
@@ -8765,6 +8837,24 @@
     },
     {
       "album": {
+        "name": "Guguk Ku\u015fu Jack",
+        "url": "https://open.spotify.com/album/6O8YcyVdEH75kqJTlY3pL6"
+      },
+      "artists": [
+        {
+          "name": "Murat Y\u0131lmazy\u0131ld\u0131r\u0131m",
+          "url": "https://open.spotify.com/artist/6mBx5K5N1hDmqMCWfdhIWG"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664250,
+      "name": "Kritik",
+      "url": "https://open.spotify.com/track/3WlyNQ6I5JNUSwkW3TfIUF"
+    },
+    {
+      "album": {
         "name": "Kuduracaks\u0131n",
         "url": "https://open.spotify.com/album/7G4pt2yd0ny4vJ2sue4E4d"
       },
@@ -9068,7 +9158,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 358500,
       "name": "K\u0131ska\u00e7",
       "url": "https://open.spotify.com/track/4lzdz1iJRvT7QZbb071M2D"
@@ -11858,7 +11948,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 219500,
       "name": "Sonum Ol",
       "url": "https://open.spotify.com/track/3waipLozRiAKg6Ad0o40xg"
@@ -12585,6 +12675,24 @@
     },
     {
       "album": {
+        "name": "Deliler Gibiydim",
+        "url": "https://open.spotify.com/album/1hl1RK5UMy1cpF7vKvjWnr"
+      },
+      "artists": [
+        {
+          "name": "F\u0131rat Uyulur",
+          "url": "https://open.spotify.com/artist/4GkYuMQivqQ7rsb4T5cawo"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222229,
+      "name": "Uyan",
+      "url": "https://open.spotify.com/track/0f079K6bsQ4t4GVE0ig8cR"
+    },
+    {
+      "album": {
         "name": "Uyanman Laz\u0131m! (Alternatif Performans)",
         "url": "https://open.spotify.com/album/6FURllQrQmbHgO6QonowGD"
       },
@@ -12748,7 +12856,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 561000,
       "name": "Vampir",
       "url": "https://open.spotify.com/track/6DkqiyxNS8KtIARHm0A2M0"
@@ -14615,6 +14723,24 @@
     },
     {
       "album": {
+        "name": "Zehir Akar",
+        "url": "https://open.spotify.com/album/7w7UAz9C6JuDo5vDVdG5r5"
+      },
+      "artists": [
+        {
+          "name": "Flu",
+          "url": "https://open.spotify.com/artist/1pTcYSU6MNJRLU4EcEDCVw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175212,
+      "name": "Zehir Akar",
+      "url": "https://open.spotify.com/track/6LLgDGB9NkPPkLwIsCH0iq"
+    },
+    {
+      "album": {
         "name": "Zehirli Bal",
         "url": "https://open.spotify.com/album/7Bnk1C1No8EIPM7eO78Mzx"
       },
@@ -15060,6 +15186,24 @@
       "duration_ms": 285375,
       "name": "\u00d6l\u00fcm Bizi Bekler",
       "url": "https://open.spotify.com/track/1udHcoBlj3fXp4lKcfkFs8"
+    },
+    {
+      "album": {
+        "name": "\u00d6l\u00fcr\u00fcm Daha \u0130yi",
+        "url": "https://open.spotify.com/album/2ZNObyR8dNJNyKYHH65LkT"
+      },
+      "artists": [
+        {
+          "name": "Model",
+          "url": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248912,
+      "name": "\u00d6l\u00fcr\u00fcm Daha \u0130yi",
+      "url": "https://open.spotify.com/track/7AZFyg2bqG4lcxCWpXYfup"
     },
     {
       "album": {

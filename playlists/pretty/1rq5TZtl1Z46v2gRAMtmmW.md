@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,936 likes - 67 songs - 3 hr 43 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,938 likes - 68 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 65 | [Jera](https://open.spotify.com/track/5P8xG7b988v4t8fom6Go0s) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV) | [Jera](https://open.spotify.com/album/4hjOgPTQYAukouOCspVRiC) | 2:55 |
 | 66 | [Denisse](https://open.spotify.com/track/0w8j13CM49tWDsEwtH6j0b) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Denisse](https://open.spotify.com/album/3sl18HgwShBn3K0arFlOyw) | 3:41 |
 | 67 | [Now You Know](https://open.spotify.com/track/7HkBkfc3xK4rJ7y3MLaVce) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Shallow Hits](https://open.spotify.com/album/2IxFB7LheYDBoJIoFA1dwE) | 3:06 |
+| 68 | [Staring at the Sun](https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Staring at the Sun](https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC) | 3:32 |
 
-Snapshot ID: `AAARvTCfua/PTbTYR0LtQlfB+nl5FzS8`
+Snapshot ID: `AAARvu+Lo0ZVacU0IH7fRNA5H3DOe0mP`

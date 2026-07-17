@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Darque",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Francis Mercier",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 352051,
       "name": "Angeke",
       "url": "https://open.spotify.com/track/1qWoAi5DIfUYqC7nS5aBdS"
@@ -4011,6 +4011,32 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/7f9MnZmMoi48gXKG1aj2ct"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00e9",
+          "url": "https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Sthibo de Beat",
+          "url": "https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291428,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/5uzwVxFxINbWYG0tqBKqXo"
+    },
+    {
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/3MK4rUxWXOug8KCmNP7DSR"
       },
@@ -4520,7 +4546,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 395216,
       "name": "My War",
       "url": "https://open.spotify.com/track/3h06DLZX33wnmxhyEX2RDt"
@@ -4844,6 +4870,28 @@
       "duration_ms": 322394,
       "name": "Ngizothandaza",
       "url": "https://open.spotify.com/track/3IusPh0xpMyppoTGs65pkL"
+    },
+    {
+      "album": {
+        "name": "Lakay (Home)",
+        "url": "https://open.spotify.com/album/439ClApLEIIK9xTm32aS0d"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214576,
+      "name": "Ngizwile",
+      "url": "https://open.spotify.com/track/5Q4AIvjuZZojCAWiLKJ5Sn"
     },
     {
       "album": {
@@ -6079,6 +6127,44 @@
     },
     {
       "album": {
+        "name": "Thando Yini (feat. MSA, Sami Kay & Ze2)",
+        "url": "https://open.spotify.com/album/5jnyvBq1s4Iy0bMaNGo0Nf"
+      },
+      "artists": [
+        {
+          "name": "LKG",
+          "url": "https://open.spotify.com/artist/6jYx8mMQ9LIUPDB7jEDY3N"
+        },
+        {
+          "name": "Lacole Rsa",
+          "url": "https://open.spotify.com/artist/6X8bMEy4DM7vDJpBMRS9II"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "MSA",
+          "url": "https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI"
+        },
+        {
+          "name": "Sami'Kay",
+          "url": "https://open.spotify.com/artist/7zlPsI1JA3iBmLOZIlLRQ7"
+        },
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293389,
+      "name": "Thando Yini (feat. MSA, Sami'Kay & Ze2)",
+      "url": "https://open.spotify.com/track/1dIpI1o79ytxZ79WpgEqOb"
+    },
+    {
+      "album": {
         "name": "The Big Bang",
         "url": "https://open.spotify.com/album/0Ij34l9S2GToZxaAnPiVnp"
       },
@@ -6876,7 +6962,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 227213,
       "name": "Unjust",
       "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"

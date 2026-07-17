@@ -1,12 +1,12 @@
 {
   "description": "New music by Future and J. Cole. ",
-  "num_followers": 15680350,
+  "num_followers": 15678713,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA2fLy7wkzdK8D0yQGC5q9aR2APO",
+  "snapshot_id": "AAAAALF3vUqFeCZi5sSCFXH+N3r2vrcQ",
   "tracks": [
     {
       "added_at": "2026-07-13 19:58:05",
@@ -159,6 +159,26 @@
       "duration_ms": 183600,
       "name": "ON THE LOW feat tyler, the creator",
       "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
+    },
+    {
+      "added_at": "2026-07-16 04:00:14",
+      "album": {
+        "name": "Broken Silence",
+        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        }
+      ],
+      "duration_ms": 260825,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E"
     },
     {
       "added_at": "2026-07-13 19:58:05",

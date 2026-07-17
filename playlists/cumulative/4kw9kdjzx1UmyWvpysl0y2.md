@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,268 songs - 2 day 22 hr 23 min
+1,269 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1010,6 +1010,7 @@
 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-03-15 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2023-08-04 |
 | [Someone To Forget \- BUSTED by Herobust](https://open.spotify.com/track/4upSQkSLPZjoUAAnqhxlry) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Together As One \(Remixes\)](https://open.spotify.com/album/3dM2A27Ki3TlqHMVaaxyb3) | 4:41 | 2024-04-22 | 2024-07-12 |
+| [someone u don't know](https://open.spotify.com/track/5wORfsei8CRMCGCkS7eZZd) | [blunn](https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II), [KESTRINA](https://open.spotify.com/artist/1tUsA8ObXSI9DHg6eGAQ33) | [someone u don't know](https://open.spotify.com/album/1cGsLsF67oVzqCuw4N6AgK) | 2:51 | 2026-07-16 |  |
 | [Something Beautiful](https://open.spotify.com/track/5gHAZ228Eemlq7icaCDHLH) | [Archaellum](https://open.spotify.com/artist/20USeJ3zyr7lnuWJMJqGUD) | [Silk Selections 05](https://open.spotify.com/album/7HG2xG1pVMdNaBekQU5U9v) | 2:55 | 2025-10-14 | 2026-01-15 |
 | [Something To Hold Onto](https://open.spotify.com/track/2dLalFrekRyApNXvMmgjn5) | [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Something To Hold Onto](https://open.spotify.com/album/6qeNU8lMvf4M1A9SEZrPRx) | 3:32 | 2025-02-11 | 2025-05-06 |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 | 2022-09-15 |

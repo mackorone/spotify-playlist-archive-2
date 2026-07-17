@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Primo Amore in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "ANTONIA in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -430,6 +430,28 @@
       "duration_ms": 173600,
       "name": "6%",
       "url": "https://open.spotify.com/track/5MRI3BGhqnb00pRLiVPGS6"
+    },
+    {
+      "album": {
+        "name": "Intanto",
+        "url": "https://open.spotify.com/album/1RjlEsjJ3q2BnRKlf7b9ia"
+      },
+      "artists": [
+        {
+          "name": "saera",
+          "url": "https://open.spotify.com/artist/5jNAmxcFbMjrPETnJ2P9Lh"
+        },
+        {
+          "name": "ram\u00e9",
+          "url": "https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134142,
+      "name": "6/10",
+      "url": "https://open.spotify.com/track/4zy5uU3KDhJJJrfsPK56NN"
     },
     {
       "album": {
@@ -9086,6 +9108,10 @@
         {
           "name": "STE",
           "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "KeyDB",
+          "url": "https://open.spotify.com/artist/3qdpPvwetvpGccwjtsweZZ"
         }
       ],
       "date_added": "2026-04-02",
@@ -10678,6 +10704,32 @@
       "duration_ms": 165833,
       "name": "Luce Naturale",
       "url": "https://open.spotify.com/track/45HH075H6s625VqFb0wwM2"
+    },
+    {
+      "album": {
+        "name": "luci",
+        "url": "https://open.spotify.com/album/4V7ZPkVqthn2ZO0FQtnXD6"
+      },
+      "artists": [
+        {
+          "name": "GRAINMOTELCLUB",
+          "url": "https://open.spotify.com/artist/3Bn6G0v81NFfQnvDNUnKoT"
+        },
+        {
+          "name": "j occhipinti",
+          "url": "https://open.spotify.com/artist/2COBBkQ5UqP8u0vs0cyVbA"
+        },
+        {
+          "name": "LALA",
+          "url": "https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "luci",
+      "url": "https://open.spotify.com/track/4ULowBSVzAhMvhZi3Q8UCJ"
     },
     {
       "album": {
@@ -13562,7 +13614,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 178672,
       "name": "Nuntannamur\u00e0",
       "url": "https://open.spotify.com/track/3DQy4kOBuD0Ypt5wfjaSIo"
@@ -14078,7 +14130,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 146000,
       "name": "ONE NIGHT",
       "url": "https://open.spotify.com/track/6uN13i3dompUrPtHPX4iD7"

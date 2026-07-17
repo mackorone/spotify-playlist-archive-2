@@ -2973,6 +2973,32 @@
     },
     {
       "album": {
+        "name": "Body Lover",
+        "url": "https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "NASHUP",
+          "url": "https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp"
+        },
+        {
+          "name": "Liz Huett",
+          "url": "https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147058,
+      "name": "Body Lover",
+      "url": "https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za"
+    },
+    {
+      "album": {
         "name": "Boulevard of Broken Dreams",
         "url": "https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp"
       },
@@ -26000,6 +26026,24 @@
       "duration_ms": 138688,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/2d6bwIQykrN8PR6q5TRVlO"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/61AwFBcGn4CtdaaLnuSRva"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/49dFZOSQrUNRHRhxNBqnve"
     },
     {
       "album": {

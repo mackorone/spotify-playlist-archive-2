@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Aquí solo suena a agradecimiento, orgullo y pasión\. 💛💙❤️⚽️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,672 likes - 30 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,658 likes - 30 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 29 | [Caracoles de Colores](https://open.spotify.com/track/0iuOHCKySYakO6gvNmDiJ4) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ivan Zuleta](https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B) | [Volver A Vivir](https://open.spotify.com/album/3YcKNLwwpEl9sUpJsNMCEX) | 3:22 |
 | 30 | [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 |
 
-Snapshot ID: `AAAAAKn/MEkuvyQMgN/ufJhbadUNr71y`
+Snapshot ID: `AAAAAEnPkMF5xBYYglXM9Wlessn9/cmG`

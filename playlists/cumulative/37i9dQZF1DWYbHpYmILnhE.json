@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 211862,
       "name": "By Now",
       "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Country Dey Hot",
+        "url": "https://open.spotify.com/album/1A0lvkvRxKpnb7Gu2bvZ9b"
+      },
+      "artists": [
+        {
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Country Dey Hot",
+      "url": "https://open.spotify.com/track/5gOF6qWSwHuF0gfQkiZONM"
+    },
+    {
+      "album": {
         "name": "Cutesy",
         "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
       },
@@ -646,6 +664,28 @@
       "duration_ms": 149580,
       "name": "Disintegrate",
       "url": "https://open.spotify.com/track/0YUs0EG2U7OYjPqRQxFmJ9"
+    },
+    {
+      "album": {
+        "name": "Do Something",
+        "url": "https://open.spotify.com/album/5Iz0t9Fktrq6pQKRqej8Vf"
+      },
+      "artists": [
+        {
+          "name": "Hynezz",
+          "url": "https://open.spotify.com/artist/5FQ6WJy5mXQhcTNkwfTZcl"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Do Something",
+      "url": "https://open.spotify.com/track/6Mmyun6Y3rc7wCMYMqM9Tm"
     },
     {
       "album": {
@@ -3050,7 +3090,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 218136,
       "name": "Titled Man",
       "url": "https://open.spotify.com/track/7bwcPyehJbv09za87ij9ox"

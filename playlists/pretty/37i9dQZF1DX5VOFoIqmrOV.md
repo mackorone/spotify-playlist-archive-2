@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : 35 Chinna katha kadu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,617 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,680 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 99 | [Tharagathi Gadhi](https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [Colour Photo](https://open.spotify.com/album/04ryisWEHXSoU3l5K3J6k9) | 3:33 |
 | 100 | [Choosa Choosa](https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK) | [Padmalatha Sniggy](https://open.spotify.com/artist/7euN4DTRrzhKdldLOQEN7m) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:20 |
 
-Snapshot ID: `AAAAALGsZcs96M6KCLhSniwsi4ftahfz`
+Snapshot ID: `AAAAAHfUI5yCnr+tjAqBpgY5jRnniK0n`

@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, James Arthur, Coldplay and more
+> With Adele, Billie Eilish, Bruno Mars and more
 
 1,267 songs - 3 day 7 hr 58 min
 

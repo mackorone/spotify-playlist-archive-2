@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Daryl Coley, Marvin Winans, Walter Hawkins and more
+> With Daryl Coley, Walter Hawkins, LaShun Pace and more
 
 2,013 songs - 6 day 11 hr 48 min
 

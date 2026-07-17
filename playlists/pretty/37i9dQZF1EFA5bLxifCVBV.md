@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 157 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 158 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 153 | [Satin Gown And Silver Shoe \(Lullaby\) \- Liza Crossing The Ice](https://open.spotify.com/track/6f3dzgAFXE4FNDcMF1YhdN) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl](https://open.spotify.com/album/0zr3DxVdGC4zyLUUQhRj52) | 3:21 |
 | 154 | [Ah, But Is It Love?](https://open.spotify.com/track/3TkWXUYypEvDLc1d9q0uFr) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 |
 | 155 | [Hot Moonlight](https://open.spotify.com/track/3XDEtILipdstPlK9y5mp2W) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 |
-| 156 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
-| 157 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
+| 156 | [Speaking Of Love](https://open.spotify.com/track/4B7AhGwyHhQUsPvHxsu7zE) | [Felicia Sanders](https://open.spotify.com/artist/6ZjmF1Gx5FLslaon1yLnDH) | [Felicia Sanders \- Golden Collection](https://open.spotify.com/album/45G0Pvrcsp9fjB5p7n1Glu) | 2:26 |
+| 157 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
+| 158 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcW9HAAAAABwAVoQ4v1DS/j0DnVpaXE6`
+Snapshot ID: `AcXCvAAAAABFeGkSCIREUkpleuWPFXzA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,772 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,991 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 74 | [Slow Motion \(From "Bharat"\)](https://open.spotify.com/track/7yEuRloGyxyu1KaWBTPP1Z) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Slow Motion \(From "Bharat"\)](https://open.spotify.com/album/4diGvPbCRRQDh3VQMY88Iz) | 4:07 |
 | 75 | [Kissik \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu) | [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Kissik \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/album/7p2YC5HhcZ1wS2rUhikbEg) | 4:08 |
 
-Snapshot ID: `AAAAAMp4VdQqgp8MBOgRsa+f9W2ZFXgx`
+Snapshot ID: `AAAAADFbBgr5TArF1R8hati9llOCcLOP`

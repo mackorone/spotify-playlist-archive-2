@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Kaleb J",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Mikha Tambayong, Rayi Putra",
   "name": "JIVVA",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 178400,
       "name": "20 Weeks",
       "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 417000,
       "name": "Do Right Baby! - Live",
       "url": "https://open.spotify.com/track/1bw73MM8ML2sips7nDExzG"
@@ -1454,6 +1454,52 @@
       "duration_ms": 232173,
       "name": "Esok kan Masih Ada",
       "url": "https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD"
+    },
+    {
+      "album": {
+        "name": "FACE CARD",
+        "url": "https://open.spotify.com/album/5MtHZ2HiS8NoqhqD1x4JMe"
+      },
+      "artists": [
+        {
+          "name": "Salon RnB",
+          "url": "https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM"
+        },
+        {
+          "name": "SAILORMONEY",
+          "url": "https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj"
+        },
+        {
+          "name": "Moneva",
+          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
+        },
+        {
+          "name": "RL KLAV",
+          "url": "https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc"
+        },
+        {
+          "name": "Karina Christy",
+          "url": "https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7"
+        },
+        {
+          "name": "Madukina",
+          "url": "https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ"
+        },
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        },
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283375,
+      "name": "FACE CARD",
+      "url": "https://open.spotify.com/track/3eA5suAsHBAjwtsjcNCNmA"
     },
     {
       "album": {
@@ -2062,7 +2108,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 185942,
       "name": "Hidup Denganmu",
       "url": "https://open.spotify.com/track/3CpIWWHfWWqOuR8wnEPmLh"
@@ -2316,6 +2362,28 @@
       "duration_ms": 214967,
       "name": "Jaga Nafas",
       "url": "https://open.spotify.com/track/0oidZ9wJZ8fRgdnXBhvI9J"
+    },
+    {
+      "album": {
+        "name": "Jalan Tengah",
+        "url": "https://open.spotify.com/album/2YhQm90EHX7YgBD2XlhVot"
+      },
+      "artists": [
+        {
+          "name": "Mikha Tambayong",
+          "url": "https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217865,
+      "name": "Jalan Tengah",
+      "url": "https://open.spotify.com/track/0q0LEdCPlGvIj8gqZIQ1R1"
     },
     {
       "album": {
@@ -2620,7 +2688,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 210640,
       "name": "Kenapa Selalu Aku",
       "url": "https://open.spotify.com/track/69iYcn3kbPHW4ox0q1FBaL"
@@ -3127,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "Cinta & Derita",
+        "url": "https://open.spotify.com/album/4vUUs8KefGN9peEWkHGOwF"
+      },
+      "artists": [
+        {
+          "name": "Raka",
+          "url": "https://open.spotify.com/artist/4RhPQsKW0Aa8vsKFNNuGpt"
+        },
+        {
+          "name": "Andrea Najla",
+          "url": "https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175841,
+      "name": "Masih Aku Yang Sama",
+      "url": "https://open.spotify.com/track/6BknzjfEY84uqrtoXuocZe"
+    },
+    {
+      "album": {
         "name": "Melepaskanmu",
         "url": "https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz"
       },
@@ -3268,7 +3358,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 183652,
       "name": "Negativity : Ngakunya Bercanda, Ternyata ?",
       "url": "https://open.spotify.com/track/07r6bzr86jbSKtzik8crra"
@@ -3344,7 +3434,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 161142,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/6UfL0ciLvnxzllEHT8mKXF"
@@ -4098,7 +4188,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 176666,
       "name": "Savor",
       "url": "https://open.spotify.com/track/4FGGVyBrsWePOSTVL6K95M"
@@ -4652,7 +4742,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 170880,
       "name": "Superstar Energy",
       "url": "https://open.spotify.com/track/2UYmdrge419TwaNMZbewoo"
@@ -5001,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "Million Different Reasons",
+        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
+    },
+    {
+      "album": {
         "name": "Tunggu Aku",
         "url": "https://open.spotify.com/album/3RPlamzxsRSD73Y3QVkBVf"
       },
@@ -5202,6 +5310,28 @@
       "duration_ms": 252000,
       "name": "Wish You Alright",
       "url": "https://open.spotify.com/track/75lkpEnY3p0FzoLWBUz8K4"
+    },
+    {
+      "album": {
+        "name": "wyd tonight?",
+        "url": "https://open.spotify.com/album/0YaKSXavmL2DDi0K08guuz"
+      },
+      "artists": [
+        {
+          "name": "Kenz",
+          "url": "https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk"
+        },
+        {
+          "name": "Alva Gracia",
+          "url": "https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "wyd tonight?",
+      "url": "https://open.spotify.com/track/7b34OKhZyLSX1w97bKhKup"
     },
     {
       "album": {

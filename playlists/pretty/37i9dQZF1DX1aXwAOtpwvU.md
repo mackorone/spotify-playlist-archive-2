@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,049 likes - 115 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,083 likes - 115 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

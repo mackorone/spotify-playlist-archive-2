@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Didi B x TRK.",
+  "description": "Le meilleur du rap africain francophone. Photo : Ameka Zrai",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 122336,
       "name": "CHOC",
       "url": "https://open.spotify.com/track/4qgow2zlZ7kJMuFGHRU88R"
@@ -3179,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "GAWAYA.",
+        "url": "https://open.spotify.com/album/6g0aryHOy5YH93uqMszZqv"
+      },
+      "artists": [
+        {
+          "name": "Plugbinks131",
+          "url": "https://open.spotify.com/artist/0M42LMc47vGlBHq3TD1lxe"
+        },
+        {
+          "name": "GOKS",
+          "url": "https://open.spotify.com/artist/4XF5gUmwmXNMHsLKEvbypD"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152876,
+      "name": "GAWAYA.",
+      "url": "https://open.spotify.com/track/3ghVMn5q0q4Dr4D2EJx5Wz"
+    },
+    {
+      "album": {
         "name": "5th DIMENSION",
         "url": "https://open.spotify.com/album/1emaOwFSpZg1TgP0u2Jzz8"
       },
@@ -4421,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "Malo Woussou",
+        "url": "https://open.spotify.com/album/4HCUDw4NIg5QI8gVmVQBHE"
+      },
+      "artists": [
+        {
+          "name": "Flowman Boy",
+          "url": "https://open.spotify.com/artist/5mHzvTSmg9KnoCK1FSqWTt"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141897,
+      "name": "Malo Woussou",
+      "url": "https://open.spotify.com/track/3T4PmiMDQSpSdkhHvjsfaI"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr"
       },
@@ -4996,7 +5036,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 163200,
       "name": "Nan Bon",
       "url": "https://open.spotify.com/track/2tn3frf6WwtihkeUjMVKSc"
@@ -5884,7 +5924,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 190876,
       "name": "Pray",
       "url": "https://open.spotify.com/track/46UEgYoZ5FEFtqDPLpIEGN"
@@ -7338,6 +7378,36 @@
       "duration_ms": 136169,
       "name": "T\u00e9l\u00e9 contre T\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/7bVy2WCPEvVAIj4YuXJOzh"
+    },
+    {
+      "album": {
+        "name": "T\u00e9l\u00e9phone",
+        "url": "https://open.spotify.com/album/4aVvyJxtPB6L3FAu4pqZma"
+      },
+      "artists": [
+        {
+          "name": "YLS",
+          "url": "https://open.spotify.com/artist/1CbH9Pq9tf9n2tMg6SvGx7"
+        },
+        {
+          "name": "Doupi Papillon",
+          "url": "https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        },
+        {
+          "name": "Mwinda Mannekin",
+          "url": "https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "T\u00e9l\u00e9phone",
+      "url": "https://open.spotify.com/track/4H4WTnvU3UtpokkXpPgQeM"
     },
     {
       "album": {

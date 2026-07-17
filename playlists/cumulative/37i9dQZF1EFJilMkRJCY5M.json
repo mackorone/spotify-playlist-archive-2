@@ -2430,10 +2430,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 214020,
       "name": "Numb",
       "url": "https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle"
+    },
+    {
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2vQFKDHXLIEjeawvQk3v8I"
+      },
+      "artists": [
+        {
+          "name": "Elephants Everywhere",
+          "url": "https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5"
+        },
+        {
+          "name": "FOSTER",
+          "url": "https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214020,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/5b8P0xgs0DkJgLOydzEztx"
     },
     {
       "album": {

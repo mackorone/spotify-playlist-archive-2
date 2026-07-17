@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,735 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,762 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 22 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 |
 | 23 | [Powerless](https://open.spotify.com/track/6AWo9yse9sXigtSzNRRbNL) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Powerless](https://open.spotify.com/album/0OTYnkUBOncGEMwysc1VrU) | 5:00 |
 | 24 | [Eat For Peace](https://open.spotify.com/track/7cKxXhku9d5sm4RMYPA5ie) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Eat For Peace](https://open.spotify.com/album/25x2ig612zO7n7ASjvVGO2) | 3:18 |
-| 25 | [Valhalla](https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh) | [ASAVA](https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta) | [Valhalla](https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe) | 4:33 |
+| 25 | [Valhalla](https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh) | [ASAVA](https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta) | [Valhalla](https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe) | 4:32 |
 | 26 | [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 |
 | 27 | [Gun In The Duffel Bag](https://open.spotify.com/track/3UQRbslQYuNJBEJx18F9DK) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Gun In The Duffel Bag](https://open.spotify.com/album/7Gm8YxceqFlYL4rARkmzTh) | 3:07 |
 | 28 | [Last One Here](https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7) | [Rev3rent](https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD) | [Last One Here](https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l) | 3:20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: MilleniumKid",
+  "description": "Deutschpop, der jetzt passiert. Cover: Wincent Weiss",
   "name": "POPLAND",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "5 Sekunden",
+        "url": "https://open.spotify.com/album/6OC4Eekj145vGYciT82uoa"
+      },
+      "artists": [
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "5 Sekunden",
+      "url": "https://open.spotify.com/track/1ksS0cLFiLP2W6J5P9Waxh"
+    },
+    {
+      "album": {
         "name": "50 stufen grau",
         "url": "https://open.spotify.com/album/4d48G0AFCqq3fVYFDYZn3r"
       },
@@ -395,6 +413,24 @@
     },
     {
       "album": {
+        "name": "ALLES",
+        "url": "https://open.spotify.com/album/6D2MZ9lrhXOXsBJTI3fGiZ"
+      },
+      "artists": [
+        {
+          "name": "CHRIS",
+          "url": "https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161215,
+      "name": "ALLES",
+      "url": "https://open.spotify.com/track/7CRym372yo3mmLxH5kXOiK"
+    },
+    {
+      "album": {
         "name": "Alles geht vorbei",
         "url": "https://open.spotify.com/album/7gxjpXv6sLLIvt7ud26yUw"
       },
@@ -504,6 +540,24 @@
       "duration_ms": 131541,
       "name": "Alles nur f\u00fcr dich",
       "url": "https://open.spotify.com/track/0kk9ClYWK8rDwtfc5ORjNt"
+    },
+    {
+      "album": {
+        "name": "Alles nur f\u00fcr mich",
+        "url": "https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141188,
+      "name": "Alles nur f\u00fcr mich",
+      "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
     },
     {
       "album": {
@@ -1261,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Besser",
+        "url": "https://open.spotify.com/album/60pFoCPesUaXGD7uGAzjl6"
+      },
+      "artists": [
+        {
+          "name": "Elif Sima",
+          "url": "https://open.spotify.com/artist/30qGo0yvjAFQ81C9MysBvz"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Besser",
+      "url": "https://open.spotify.com/track/5m1PiXLsE95hAwm7G1Wrty"
+    },
+    {
+      "album": {
         "name": "besser so",
         "url": "https://open.spotify.com/album/7qV8IL3t34DiDgZ9CALFPP"
       },
@@ -1330,7 +1402,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 138991,
       "name": "Birkenstocks",
       "url": "https://open.spotify.com/track/6H6XzwbSsyWw9uOlhj0CbS"
@@ -1651,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/3FaL7iBEhClpXN50ZbCP3u"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/5NedJfaIhX0hfQ3dS9JRZC"
+    },
+    {
+      "album": {
         "name": "Von Herzen",
         "url": "https://open.spotify.com/album/196nLCRRbiCkhMgxOylMUU"
       },
@@ -1792,7 +1882,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 202000,
       "name": "danngehichmit",
       "url": "https://open.spotify.com/track/4ACwBqcod8RjvbdMZyYn4x"
@@ -2276,7 +2366,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 158661,
       "name": "Die Falschen gek\u00fcsst",
       "url": "https://open.spotify.com/track/0qnFwCW5AxQaEJXfACBTD8"
@@ -2294,7 +2384,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 164410,
       "name": "Die sch\u00f6nsten Jahre",
       "url": "https://open.spotify.com/track/1wbCQS0ZwXZbq2SzLId9UW"
@@ -4084,7 +4174,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 138200,
       "name": "Happy sein",
       "url": "https://open.spotify.com/track/7vJjeC2DyFrLqkaagsVcfC"
@@ -4330,7 +4420,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 154201,
       "name": "herz ist voll",
       "url": "https://open.spotify.com/track/7s8I4fgAtdXSiJ2Ha7hLrv"
@@ -4576,7 +4666,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 190340,
       "name": "ich gebe alles",
       "url": "https://open.spotify.com/track/5t201vMU4MTLtWeCBOBNRZ"
@@ -5933,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "K\u00fcss mein Herz",
+        "url": "https://open.spotify.com/album/0dnNxiL68aZR8ccV9Oy7IY"
+      },
+      "artists": [
+        {
+          "name": "Nico Gomez",
+          "url": "https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150805,
+      "name": "K\u00fcss mein Herz",
+      "url": "https://open.spotify.com/track/79YyvTTQP5hSJRRNzWhbGC"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/4JHhiQQpbBKu8iOjbuoh1p"
       },
@@ -6041,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "leb wieder",
+        "url": "https://open.spotify.com/album/4XRtU4CjeQ9FIMYIImUv55"
+      },
+      "artists": [
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133048,
+      "name": "leb wieder",
+      "url": "https://open.spotify.com/track/2ksDeXQrrtdPRo9xm0iNa3"
+    },
+    {
+      "album": {
         "name": "Lebensm\u00fcde",
         "url": "https://open.spotify.com/album/1547AAy8nakEWMd0rF4gEJ"
       },
@@ -6092,7 +6218,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 173723,
       "name": "Leichte Liebe",
       "url": "https://open.spotify.com/track/02x4vIxmTyh6AARScVclDb"
@@ -6215,6 +6341,24 @@
     },
     {
       "album": {
+        "name": "Letztes Hemd",
+        "url": "https://open.spotify.com/album/1BlBxGuAGegi3t1iBVwj3I"
+      },
+      "artists": [
+        {
+          "name": "wylhem",
+          "url": "https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145135,
+      "name": "Letztes Hemd",
+      "url": "https://open.spotify.com/track/0YpB4NWyNRbVJo3hCWhPcy"
+    },
+    {
+      "album": {
         "name": "lichter aus",
         "url": "https://open.spotify.com/album/3xICsq0ZLaz7DxPnXF5eb7"
       },
@@ -6284,7 +6428,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 128108,
       "name": "LIEBE MACHEN",
       "url": "https://open.spotify.com/track/6UJUjQRU8OlTlQQLvfXPRV"
@@ -6504,7 +6648,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139200,
       "name": "mama",
       "url": "https://open.spotify.com/track/7eLvcOXD9tGss0MTMtmrqg"
@@ -7118,7 +7262,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 182960,
       "name": "naiv",
       "url": "https://open.spotify.com/track/3C51CA0oPVN4wDzug0aiBY"
@@ -7859,6 +8003,42 @@
     },
     {
       "album": {
+        "name": "ozean",
+        "url": "https://open.spotify.com/album/0PHdoebZtoR6aJ0A8DrOxe"
+      },
+      "artists": [
+        {
+          "name": "marita",
+          "url": "https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188586,
+      "name": "ozean",
+      "url": "https://open.spotify.com/track/4ULqqohbWkhuQ5B1nZbKtJ"
+    },
+    {
+      "album": {
+        "name": "Panzer",
+        "url": "https://open.spotify.com/album/0AbZubrn6Ae9Ii5ArPFuxc"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200639,
+      "name": "Panzer",
+      "url": "https://open.spotify.com/track/5UCFY6rqiEb066i9PzsGmm"
+    },
+    {
+      "album": {
         "name": "Pass auf dich auf",
         "url": "https://open.spotify.com/album/1t3KsmowogfDoYr4RH6C0N"
       },
@@ -8512,7 +8692,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 116440,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/091jQLAysaH7en7vCLI6bA"
@@ -8591,6 +8771,28 @@
     },
     {
       "album": {
+        "name": "S.U.L.",
+        "url": "https://open.spotify.com/album/78HRaSj9UYYFVMjENErZjy"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "S.U.L.",
+      "url": "https://open.spotify.com/track/2SlvpDfgl78OHWxTFjUaOk"
+    },
+    {
+      "album": {
         "name": "klein sein",
         "url": "https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG"
       },
@@ -8602,7 +8804,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 156687,
       "name": "sabotage",
       "url": "https://open.spotify.com/track/6trZW0tMFDcxTcUuIngVNv"
@@ -8934,7 +9136,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139616,
       "name": "So gut",
       "url": "https://open.spotify.com/track/6XeWiaVccx7THsF34WJAYG"
@@ -9678,6 +9880,24 @@
       "duration_ms": 133201,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/5wVQkK3wSa7ExEYAdfXAKg"
+    },
+    {
+      "album": {
+        "name": "Uuuhh",
+        "url": "https://open.spotify.com/album/57AFibkUL8f02jhb8NCpdn"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168911,
+      "name": "Uuuhh",
+      "url": "https://open.spotify.com/track/5OVZIlQqxSkQVdmjs2sDlg"
     },
     {
       "album": {
@@ -10633,6 +10853,24 @@
     },
     {
       "album": {
+        "name": "wenn du nicht w\u00e4rst",
+        "url": "https://open.spotify.com/album/02gltMPS5SBM5HYtH2VNqG"
+      },
+      "artists": [
+        {
+          "name": "Lilli",
+          "url": "https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "wenn du nicht w\u00e4rst",
+      "url": "https://open.spotify.com/track/2JSlKSL0XT7RVAqyqTq04Q"
+    },
+    {
+      "album": {
         "name": "Wenn du scheinst",
         "url": "https://open.spotify.com/album/0y4CnmS7b8WPPCFG1Sl62Z"
       },
@@ -10796,6 +11034,24 @@
       "duration_ms": 199865,
       "name": "Wer ich bin",
       "url": "https://open.spotify.com/track/6QWhjVkNruMhjWOAMwJmRA"
+    },
+    {
+      "album": {
+        "name": "WER MICH \u00c4RGERT",
+        "url": "https://open.spotify.com/album/3sjFczihKgMLfA1rxOEzCD"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141436,
+      "name": "WER MICH \u00c4RGERT",
+      "url": "https://open.spotify.com/track/5EmSDj5Pr7hjmXYIWnBa6Q"
     },
     {
       "album": {

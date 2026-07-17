@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 147333,
       "name": "Bara du",
       "url": "https://open.spotify.com/track/5qySMvXGPLAYuBoHrOrc11"
@@ -5736,7 +5736,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 147860,
       "name": "Digg",
       "url": "https://open.spotify.com/track/73QBUSZZDcC5o8CBr6dk4o"
@@ -10414,7 +10414,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 157124,
       "name": "FUCKA UR",
       "url": "https://open.spotify.com/track/49fxUYsoVY6HA7FlmvlFAd"
@@ -10638,6 +10638,32 @@
       "duration_ms": 154400,
       "name": "Full blast",
       "url": "https://open.spotify.com/track/4jHnKENlmEuUM61bqtf7qA"
+    },
+    {
+      "album": {
+        "name": "FULL IGEN",
+        "url": "https://open.spotify.com/album/49VgJbpSQa9hSUqdsclB54"
+      },
+      "artists": [
+        {
+          "name": "Turbo Dunken",
+          "url": "https://open.spotify.com/artist/112RQNXwHlKd0ojcCi9UTB"
+        },
+        {
+          "name": "DJ Hellan",
+          "url": "https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z"
+        },
+        {
+          "name": "EPA NORA",
+          "url": "https://open.spotify.com/artist/7I9pHb8AO6hMQwzsMili2P"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128464,
+      "name": "FULL IGEN",
+      "url": "https://open.spotify.com/track/0jZBVFeC6Q4OV48As1PgkC"
     },
     {
       "album": {
@@ -13821,6 +13847,28 @@
     },
     {
       "album": {
+        "name": "HEMMAFEST",
+        "url": "https://open.spotify.com/album/77A61BK4QX15JEjNKKvhsa"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Seb",
+          "url": "https://open.spotify.com/artist/26DiA1ZjBSTumeielhvJas"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "HEMMAFEST",
+      "url": "https://open.spotify.com/track/44LbIdHUMdBFH0JWKrrdQM"
+    },
+    {
+      "album": {
         "name": "Hemmafest",
         "url": "https://open.spotify.com/album/79X3g6aYPvBs2uUp3nHR4u"
       },
@@ -15124,6 +15172,24 @@
       "duration_ms": 147310,
       "name": "I Min Hage",
       "url": "https://open.spotify.com/track/5SdJaN4nkxDfmT38aUUMcJ"
+    },
+    {
+      "album": {
+        "name": "I MIN VOLVO",
+        "url": "https://open.spotify.com/album/7ysZgTC7MhAAEfpya9y6BE"
+      },
+      "artists": [
+        {
+          "name": "BAKI$",
+          "url": "https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117851,
+      "name": "I MIN VOLVO",
+      "url": "https://open.spotify.com/track/2ol40f4OkgX8ol3INiPMpY"
     },
     {
       "album": {
@@ -16484,7 +16550,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 117824,
       "name": "JAG VILL HA...",
       "url": "https://open.spotify.com/track/2wZv9rHaQLPw9NOQmuUbFm"
@@ -17882,7 +17948,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 171000,
       "name": "Kurtis\u00f8r 2026",
       "url": "https://open.spotify.com/track/5xiYCXTo3PnbkjdRRcuMdq"
@@ -20834,7 +20900,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 151666,
       "name": "Mr. Polizei",
       "url": "https://open.spotify.com/track/6ms4SZ8aRhsuKYtUrzeYtn"
@@ -20974,7 +21040,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 128307,
       "name": "My House",
       "url": "https://open.spotify.com/track/5PRkEy2WzT2fYeWo65u9Yx"
@@ -21424,7 +21490,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 212571,
       "name": "Noreg",
       "url": "https://open.spotify.com/track/2oWeiMKGzgd1ewM8XEGRQC"
@@ -21946,7 +22012,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 168947,
       "name": "N\u00e4r vi gr\u00e4ver guld i USA",
       "url": "https://open.spotify.com/track/11fXyuaUj3ZQ6IIyX0LOIX"
@@ -22140,6 +22206,24 @@
       "duration_ms": 150580,
       "name": "N\u00f6jd?",
       "url": "https://open.spotify.com/track/1pB4tRSrJzdBF7PHa3zUiZ"
+    },
+    {
+      "album": {
+        "name": "O A E",
+        "url": "https://open.spotify.com/album/5BKpFPVgfiyEKieEk4bWFW"
+      },
+      "artists": [
+        {
+          "name": "10.2%",
+          "url": "https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136071,
+      "name": "O A E",
+      "url": "https://open.spotify.com/track/09Q3hbshm6gnzIDV7bktZa"
     },
     {
       "album": {
@@ -22810,7 +22894,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 160601,
       "name": "Partyl\u00e5t",
       "url": "https://open.spotify.com/track/1QXbp74RttGXJDu2I4G56U"
@@ -25152,7 +25236,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 130818,
       "name": "Reprise",
       "url": "https://open.spotify.com/track/7d2tJclfNpsh7M3YULPHFz"
@@ -28102,7 +28186,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 123636,
       "name": "Snyggaste",
       "url": "https://open.spotify.com/track/16NsjDB2F9eP4c0upomZBm"
@@ -35094,7 +35178,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 164918,
       "name": "\u00c4CKLIG",
       "url": "https://open.spotify.com/track/5Lzjz3FnrFh9TX7JdqKZhn"
@@ -35370,7 +35454,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 129230,
       "name": "\u00d6STERMALM",
       "url": "https://open.spotify.com/track/0xtnSMPcEsTihbdHF9UqHT"

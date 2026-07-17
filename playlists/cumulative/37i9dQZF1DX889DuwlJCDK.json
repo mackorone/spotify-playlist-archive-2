@@ -8896,7 +8896,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 202685,
       "name": "natsunozanzou",
       "url": "https://open.spotify.com/track/7gDj9XLsNvmqt2YEW2MVSa"
@@ -10434,7 +10434,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 223800,
       "name": "Raise Your Flag",
       "url": "https://open.spotify.com/track/1aF3Nj5YI4AUTvcr6P17ap"
@@ -23625,6 +23625,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30e0\u30cd",
+        "url": "https://open.spotify.com/album/7E0UpHgD3CHwgXghaHMAnV"
+      },
+      "artists": [
+        {
+          "name": "Be my Girl",
+          "url": "https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220667,
+      "name": "\u30e9\u30e0\u30cd",
+      "url": "https://open.spotify.com/track/5jqGMWOakY43u3SgcNCrFW"
+    },
+    {
+      "album": {
         "name": "\u8a98\u62d0 / \u30e9\u30f3\u30c7\u30f4\u30fc",
         "url": "https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n"
       },
@@ -25744,6 +25762,24 @@
       "duration_ms": 212771,
       "name": "\u541b\u304c\u591c",
       "url": "https://open.spotify.com/track/643xbfqfIM6ltW5jycXFGf"
+    },
+    {
+      "album": {
+        "name": "All Right",
+        "url": "https://open.spotify.com/album/46YRge9mufTuhuFD4IZr1n"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "\u541b\u304c\u7729\u3057\u3044\u304b\u3089\u50d5\u306f\u661f\u304c\u898b\u3048\u306a\u3044",
+      "url": "https://open.spotify.com/track/2AofAbNYmyevuCF6JEnyOZ"
     },
     {
       "album": {
@@ -32132,6 +32168,24 @@
       "duration_ms": 165583,
       "name": "\u83ef\u91d1",
       "url": "https://open.spotify.com/track/4gINvq2qevbFHwyynmqDZL"
+    },
+    {
+      "album": {
+        "name": "\u8461\u8404",
+        "url": "https://open.spotify.com/album/1oizGUJOT1aGCuHRkTHr3A"
+      },
+      "artists": [
+        {
+          "name": "Vivanz Eden",
+          "url": "https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277142,
+      "name": "\u8461\u8404",
+      "url": "https://open.spotify.com/track/2a5MLJ8nRa612KywgqwfXY"
     },
     {
       "album": {

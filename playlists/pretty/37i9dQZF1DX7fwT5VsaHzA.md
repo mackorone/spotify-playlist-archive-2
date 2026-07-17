@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fwT5VsaHzA.md) - [plain]
 
 > México contra Inglaterra? Nah, México ganaría
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,302 likes - 54 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,294 likes - 54 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

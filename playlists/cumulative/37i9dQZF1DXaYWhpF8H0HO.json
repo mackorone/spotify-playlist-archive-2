@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover:  VVYND",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover:  Jordan Susanto",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -3535,6 +3535,74 @@
     },
     {
       "album": {
+        "name": "FACE CARD",
+        "url": "https://open.spotify.com/album/5MtHZ2HiS8NoqhqD1x4JMe"
+      },
+      "artists": [
+        {
+          "name": "Salon RnB",
+          "url": "https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM"
+        },
+        {
+          "name": "SAILORMONEY",
+          "url": "https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj"
+        },
+        {
+          "name": "Moneva",
+          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
+        },
+        {
+          "name": "RL KLAV",
+          "url": "https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc"
+        },
+        {
+          "name": "Karina Christy",
+          "url": "https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7"
+        },
+        {
+          "name": "Madukina",
+          "url": "https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ"
+        },
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        },
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283375,
+      "name": "FACE CARD",
+      "url": "https://open.spotify.com/track/3eA5suAsHBAjwtsjcNCNmA"
+    },
+    {
+      "album": {
+        "name": "facing the unknown",
+        "url": "https://open.spotify.com/album/5nmJA0zYQkJfv2Cc9ANsyP"
+      },
+      "artists": [
+        {
+          "name": "remi the duo",
+          "url": "https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm"
+        },
+        {
+          "name": "Park Ki Hun",
+          "url": "https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201355,
+      "name": "facing the unknown",
+      "url": "https://open.spotify.com/track/2RvGG1EHGxj5Cggdnbedue"
+    },
+    {
+      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/4HaJqLpzs9dIYrZULKImav"
       },
@@ -4585,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "good alone",
+        "url": "https://open.spotify.com/album/0SejVi1GrnIliqjp32Dpmb"
+      },
+      "artists": [
+        {
+          "name": "Agatha Chelsea",
+          "url": "https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "good alone",
+      "url": "https://open.spotify.com/track/3HVYuqKJkSrLuYOFJo1lZl"
+    },
+    {
+      "album": {
         "name": "Not 21 Anymore",
         "url": "https://open.spotify.com/album/0XXq3IzO0k73sqxjggNaeJ"
       },
@@ -4872,6 +4958,24 @@
       "duration_ms": 247600,
       "name": "Hate U Better",
       "url": "https://open.spotify.com/track/0qXQeDOx1nALbZ6Sb98o1R"
+    },
+    {
+      "album": {
+        "name": "Have You Ever?",
+        "url": "https://open.spotify.com/album/3UAXaCH6xU9reI2CYwVcYK"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Celebration",
+          "url": "https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Have You Ever?",
+      "url": "https://open.spotify.com/track/6CWqqGSSyQ2dGBcLmgJj70"
     },
     {
       "album": {
@@ -5936,7 +6040,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 193484,
       "name": "Indeed",
       "url": "https://open.spotify.com/track/0BetfSxlvRagBVLNoQ4SEi"
@@ -7874,7 +7978,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 265333,
       "name": "Monopolar - Tom Furse Remix",
       "url": "https://open.spotify.com/track/5TR2FSjKZeNN3VQsSA6iVy"
@@ -8532,7 +8636,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 223504,
       "name": "On Our Own",
       "url": "https://open.spotify.com/track/7t8u3NnkMUcOTvhtuUEGRh"
@@ -9408,7 +9512,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 150857,
       "name": "Rosie Got Away!",
       "url": "https://open.spotify.com/track/4FSVu6h0wjrWtmGK1uNKfq"
@@ -11548,7 +11652,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 180745,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/1PlIoVo7NhFgZljTA4Vhvm"
@@ -11610,6 +11714,24 @@
       "duration_ms": 210083,
       "name": "Touch (feat. Khole)",
       "url": "https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc"
+    },
+    {
+      "album": {
+        "name": "Million Different Reasons",
+        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-872 songs - 1 day 19 hr 15 min
+873 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Firefly](https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Firefly](https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw) | 4:16 | 2023-08-08 | 2024-02-10 |
 | [Firestarter](https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Lack D](https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB) | [Firestarter](https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN) | 2:51 | 2024-11-22 |  |
 | [First Class](https://open.spotify.com/track/2uh0bkoi1aAfov9AaOMu7R) | [NORTHNIGHT](https://open.spotify.com/artist/0evEuKn6HnhCsJRMjg5LfD) | [First Class](https://open.spotify.com/album/1TPia8OudW1b5kWMT0KV2C) | 2:30 | 2025-11-04 |  |
+| [FLIRT \(if i don’t mean it\)](https://open.spotify.com/track/2IeVXRC5vUV2gogxCSuMsX) | [Alie](https://open.spotify.com/artist/3bCkEIi2vdARsr7beTVvoe), [HIKING](https://open.spotify.com/artist/4c1XAfqTFxX8qqCffP1NBX) | [FLIRT \(if i don’t mean it\)](https://open.spotify.com/album/3zPqVD1bS9dY39zJHGw6cY) | 1:59 | 2026-07-16 |  |
 | [FLIRT LIGHTS](https://open.spotify.com/track/0J1gzNYwa8xSEeCU5F8kS1) | [2frers](https://open.spotify.com/artist/2P1tiZhfy8OaqDo0TWAC3B) | [FLIRT LIGHTS](https://open.spotify.com/album/3qUX7jjHgdvm7lg2ZSKg0o) | 2:00 | 2026-07-10 |  |
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-03-17 | 2023-08-10 |
 | [flowers in my head](https://open.spotify.com/track/4nk2uUQA7cuQhpAzh3WkbZ) | [DIECXLD](https://open.spotify.com/artist/0yex2PnkC4hyIoA1FMz1Df), [Prod\. 94](https://open.spotify.com/artist/76aDH2U2OFw00wOWvhK6pk) | [flowers in my head](https://open.spotify.com/album/6op4ENwyqG53kJ33wzOqgk) | 2:05 | 2025-11-14 |  |

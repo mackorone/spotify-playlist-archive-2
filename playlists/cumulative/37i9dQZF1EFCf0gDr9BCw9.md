@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-248 songs - 18 hr 30 min
+249 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Intimacy Of The Blues](https://open.spotify.com/track/3QNiGiKzSmqDaoOuxVS2AE) | [Louis Bellson](https://open.spotify.com/artist/2BywXVVpHNWDTGpn8fksJT) | [The Best Of Louie Bellson](https://open.spotify.com/album/2yp4jNVWZLgbija0nF5QJv) | 6:00 | 2024-09-21 | 2024-10-09 |
 | [Intimacy Of The Blues](https://open.spotify.com/track/1FfWQD0d7AVwEJpVpIGf7Y) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Plays The Music Of Billy Strayhorn](https://open.spotify.com/album/7pUdvKb6fLmEjmLIMO9bUo) | 4:23 | 2024-08-22 | 2024-09-22 |
 | [Isfahan \(Elf\)](https://open.spotify.com/track/3lxUkLKhivvu86W5Nr6UWz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 6:56 | 2026-06-19 |  |
+| [Island Virgin](https://open.spotify.com/track/7b5yvhgR6iwasiwoRSIut0) | [Franco D'Andrea Trio](https://open.spotify.com/artist/2tX8VRcTWIZCgPXLaPGQz9) | [Creole Rhapsody: The Duke Ellington Suites 1931\-1974, Chapter 1](https://open.spotify.com/album/6a49DPTYuKcVq2gzf2vYf8) | 5:18 | 2026-07-16 |  |
 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 | 2022-09-08 |  |
 | [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 | 2022-09-08 | 2026-02-19 |
 | [Johnny Come Lately](https://open.spotify.com/track/6klmQRMwixVFcjxUndqTp3) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 6:29 | 2026-02-18 |  |

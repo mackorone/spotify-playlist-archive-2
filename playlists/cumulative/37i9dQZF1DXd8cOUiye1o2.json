@@ -2621,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Bhai Tera Star Hai - Title Track",
+        "url": "https://open.spotify.com/album/2dJ9pxbsmeaqaFzovxiYGH"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Bhai Tera Star Hai - Title Track",
+      "url": "https://open.spotify.com/track/0cLtEZPOIjvCLVOF74mxG8"
+    },
+    {
+      "album": {
         "name": "Bhai Vakeel Hai (From \"Jolly LLB 3\")",
         "url": "https://open.spotify.com/album/6o32a5pHXtRRi79FTspXaX"
       },
@@ -7776,7 +7798,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 274206,
       "name": "Ishq Mastana (From \"Main Vaapas Aaunga\")",
       "url": "https://open.spotify.com/track/3F1V6b8cCRxyUltmVyZMV8"
@@ -11795,6 +11817,28 @@
     },
     {
       "album": {
+        "name": "Marham",
+        "url": "https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa"
+      },
+      "artists": [
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Marham",
+      "url": "https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo"
+    },
+    {
+      "album": {
         "name": "Mashooqa",
         "url": "https://open.spotify.com/album/4dViai7p1OV76v69X23ovd"
       },
@@ -11848,7 +11892,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 230070,
       "name": "Mashooqa - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK"
@@ -12072,7 +12116,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 137474,
       "name": "Meena Bazaar",
       "url": "https://open.spotify.com/track/6zbiXI7GAeG23AIG7ocSdC"
@@ -13004,6 +13048,36 @@
       "duration_ms": 220615,
       "name": "Nabz Nabz - Female Version - From \"Bharat Bhhagya Viddhaata\"",
       "url": "https://open.spotify.com/track/4ZZwAOker7T7RihtZDeGQX"
+    },
+    {
+      "album": {
+        "name": "Nach Le Lalariya (From \"Bhai Tera Star Hai\")",
+        "url": "https://open.spotify.com/album/1JbhE3MDrqjJbalBLCv7KC"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166711,
+      "name": "Nach Le Lalariya (From \"Bhai Tera Star Hai\")",
+      "url": "https://open.spotify.com/track/09EgpVdrHuuZ6E72VOiGkW"
     },
     {
       "album": {
@@ -17599,7 +17673,7 @@
         },
         {
           "name": "Nitin Dubey",
-          "url": "https://open.spotify.com/artist/6H8LPwJMO2m38seKL6RYQw"
+          "url": "https://open.spotify.com/artist/1VIJiTMEfgH93kGZCyrpaB"
         },
         {
           "name": "Padmakumar N.",

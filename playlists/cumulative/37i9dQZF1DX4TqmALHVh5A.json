@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Jain",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Camille Yembe",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 155685,
       "name": "Allo docteur",
       "url": "https://open.spotify.com/track/7DitnLZ8YxUFdMQ3t0tTXT"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 166162,
       "name": "FAIT CH!ER",
       "url": "https://open.spotify.com/track/5W5PQRS3AkYMEpHxBQ8vHx"
@@ -2914,6 +2914,24 @@
       "duration_ms": 147608,
       "name": "FLEMME",
       "url": "https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1"
+    },
+    {
+      "album": {
+        "name": "fleurs",
+        "url": "https://open.spotify.com/album/3Rslr3ps1Vr3rkenXSmJLs"
+      },
+      "artists": [
+        {
+          "name": "Skabe",
+          "url": "https://open.spotify.com/artist/5o5p5gPLO2zKfTi1KZX9sZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114466,
+      "name": "fleurs",
+      "url": "https://open.spotify.com/track/7osDy3z3R1ET3rDB2vvDHs"
     },
     {
       "album": {
@@ -5562,6 +5580,24 @@
       "duration_ms": 127362,
       "name": "Ma new bb m'attend",
       "url": "https://open.spotify.com/track/0mlNdXS3V7MHctPCW7ZnM0"
+    },
+    {
+      "album": {
+        "name": "Ma routine sur Vivastreet",
+        "url": "https://open.spotify.com/album/63iXUyOAAGlvf2r59NzxUI"
+      },
+      "artists": [
+        {
+          "name": "Stanislas",
+          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "Ma routine sur Vivastreet",
+      "url": "https://open.spotify.com/track/6NGKyrt8m0cnhVY3EGGuCY"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Shakira x Burna Boy
+> Tous les hits latino du moment sont ici\. Photo : Manuel Turizo & Maluma
 
 490 songs - 1 day 1 hr 9 min
 

@@ -1,13 +1,29 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18760,
+  "num_followers": 18759,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAADhM7Pu+Vv//d/J6xtlTTaq",
+  "snapshot_id": "albNgAAAAAAdJwU2u4XfCJFlprp9VLrq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Endings at the Movies",
+        "url": "https://open.spotify.com/album/1FJYkfVIxJ9zNAL9Fbz9LO"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 175141,
+      "name": "Happy Endings at the Movies",
+      "url": "https://open.spotify.com/track/6MGfWN6hKL4zFFb2Dxaym1"
+    },
     {
       "added_at": null,
       "album": {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 173788,
-      "name": "Homesick for Hope",
-      "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
+      "duration_ms": 219817,
+      "name": "Lay Me to Rest",
+      "url": "https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z"
     },
     {
       "added_at": null,
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 219817,
-      "name": "Lay Me to Rest",
-      "url": "https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z"
+      "duration_ms": 173788,
+      "name": "Homesick for Hope",
+      "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 198892,
       "name": "A Long Way Down",
       "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puppet Stringers",
-        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 169659,
-      "name": "Puppet Stringers",
-      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
     }
   ],
   "unique_name": "This Is zebrahead",

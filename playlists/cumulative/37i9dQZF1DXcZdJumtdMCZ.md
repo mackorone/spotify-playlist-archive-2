@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Ofro and Vaasi
 
-350 songs - 18 hr 21 min
+351 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Katravai Patravai](https://open.spotify.com/track/4g7h9teMEHUDn0ecQqg9M4) | [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [Kaala \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5BYybOtYzeSdkmiMmvGM6j) | 3:45 | 2022-02-08 | 2024-04-19 |
 | [Katravai Patravai](https://open.spotify.com/track/1Zn2q9DxG7v9l8eNXjZygH) | [Yogi B,Arunraja Kamaraj,Roshan Jamrock](https://open.spotify.com/artist/67Bw98ZE37JjhxXorBhZU6) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 3:45 | 2022-02-08 | 2024-12-29 |
 | [Kazhivara](https://open.spotify.com/track/15Xc1PG7QsLE5PPMJaFwTo) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/4qMmmHRrwcNl7VxUrrFD2g) | [Lord Poetry](https://open.spotify.com/album/2IJzieO7cUdJlqTkOTzlFe) | 3:06 | 2025-01-24 | 2025-01-31 |
+| [KidShot](https://open.spotify.com/track/7v0j5B4ty1vbJ2MStc98KZ) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [KidShot](https://open.spotify.com/album/3wZUC66ljp9ohgvuicnUwk) | 3:04 | 2026-07-16 |  |
 | [Kill This One](https://open.spotify.com/track/5NbFbe66RsQv3dhx3IN0cW) | [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE), [Shiv Dhudh](https://open.spotify.com/artist/3amVtokf1U2Ogccwm9ySh3) | [Kill This One](https://open.spotify.com/album/3dnYSrjFds9C75dEq2xS2W) | 3:26 | 2024-12-29 | 2025-03-05 |
 | [Ko Ko Ko Parra Parra](https://open.spotify.com/track/3Le4Qgt5qoFPFe3MIW0la7) | [Martin Jazz](https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu) | [Ko Ko Ko Parra Parra](https://open.spotify.com/album/7nRydU5biCtgcPnTIKACXu) | 2:35 | 2025-11-14 |  |
 | [Kosty](https://open.spotify.com/track/1GT7xRwjq1rnWJSX1AVgk7) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [King Mohan](https://open.spotify.com/artist/3kFxhNte8FZFPTRegrk2Tg), [Anjali Kanthan](https://open.spotify.com/artist/1L9EtsOddN8qSLf8suY3rE) | [Kosty](https://open.spotify.com/album/2FkNKoWdSniSBSOBLJwoHd) | 4:38 | 2025-10-23 | 2026-01-30 |

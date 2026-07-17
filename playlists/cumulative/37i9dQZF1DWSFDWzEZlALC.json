@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Elias",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Apsilon, Berq",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 147950,
       "name": "Bademeister",
       "url": "https://open.spotify.com/track/0Vj1J0HvrZGpk6GvptnKmj"
@@ -5658,7 +5658,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 129471,
       "name": "Crop Top Boy",
       "url": "https://open.spotify.com/track/6dZfgdDKew60Qq7Jjn6Z94"
@@ -6520,7 +6520,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 176109,
       "name": "der beste sommer meines lebens",
       "url": "https://open.spotify.com/track/6HXx5dApSjHU2Y0clXM8eQ"
@@ -7311,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Druck Auf Meiner Lunge",
+        "url": "https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232155,
+      "name": "Druck Auf Meiner Lunge",
+      "url": "https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K"
+    },
+    {
+      "album": {
         "name": "Metanarkose",
         "url": "https://open.spotify.com/album/634CL51SKg8nDKdRu1NMRv"
       },
@@ -7428,6 +7446,24 @@
       "duration_ms": 176222,
       "name": "Du bist genauso..",
       "url": "https://open.spotify.com/track/0YGJORDkU6W3nRu69J8J9d"
+    },
+    {
+      "album": {
+        "name": "Du bist kaputt",
+        "url": "https://open.spotify.com/album/0qMGugwz3uDclSxUMPV2LW"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "Du bist kaputt",
+      "url": "https://open.spotify.com/track/2K2tw6gwpVWdr24MTsk02v"
     },
     {
       "album": {
@@ -9490,6 +9526,28 @@
       "duration_ms": 171049,
       "name": "fallenf\u00fcrimmer",
       "url": "https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv"
+    },
+    {
+      "album": {
+        "name": "FALLING IN",
+        "url": "https://open.spotify.com/album/6fQeqTMN8F6khtAADxbcQJ"
+      },
+      "artists": [
+        {
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+        },
+        {
+          "name": "nocashfromparents",
+          "url": "https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219201,
+      "name": "FALLING IN",
+      "url": "https://open.spotify.com/track/0Q3IRUiBbUSL0E8nEcD97M"
     },
     {
       "album": {
@@ -13749,6 +13807,24 @@
     },
     {
       "album": {
+        "name": "hey hallo (schr\u00e4g)",
+        "url": "https://open.spotify.com/album/2mXUyNvFs5KLhsT1dZJYB3"
+      },
+      "artists": [
+        {
+          "name": "linusjonathan",
+          "url": "https://open.spotify.com/artist/3D3Q9LASaJvXo7VxZaJdsP"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146510,
+      "name": "hey hallo (schr\u00e4g)",
+      "url": "https://open.spotify.com/track/3n6X2EmrG1W13n02q6lHIW"
+    },
+    {
+      "album": {
         "name": "Verlieren/Gefunden",
         "url": "https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi"
       },
@@ -14973,6 +15049,24 @@
     },
     {
       "album": {
+        "name": "IM NACHGANG",
+        "url": "https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "IM NACHGANG",
+      "url": "https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0"
+    },
+    {
+      "album": {
         "name": "im traum rennen",
         "url": "https://open.spotify.com/album/3FcWjRDcTF0h4DNbijZd0f"
       },
@@ -15854,7 +15948,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 167320,
       "name": "Jenseits",
       "url": "https://open.spotify.com/track/7cFRb6KjUk8ZrAGerSXoJm"
@@ -16251,6 +16345,24 @@
     },
     {
       "album": {
+        "name": "Kalifornien",
+        "url": "https://open.spotify.com/album/0ueBdK53CxF2RmLtH3C7Rp"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193728,
+      "name": "Kalifornien",
+      "url": "https://open.spotify.com/track/1QtbKOJX0pqQgk0PlLYg5v"
+    },
+    {
+      "album": {
         "name": "Kalt gemacht",
         "url": "https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64"
       },
@@ -16494,6 +16606,28 @@
       "duration_ms": 130666,
       "name": "kaputt",
       "url": "https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp"
+    },
+    {
+      "album": {
+        "name": "Kaputte Diamanten",
+        "url": "https://open.spotify.com/album/7hpe6nTNGDMGvCwdTwQsNB"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191207,
+      "name": "Kaputte Diamanten",
+      "url": "https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx"
     },
     {
       "album": {
@@ -17382,6 +17516,28 @@
       "duration_ms": 122003,
       "name": "Kleiner Junge viel Herz",
       "url": "https://open.spotify.com/track/6eD8lAbNHFfhuuNapSWagn"
+    },
+    {
+      "album": {
+        "name": "Kleinstadtpropaganda (feat. EALA)",
+        "url": "https://open.spotify.com/album/6O1THNnK9WzwDzXNpAUFeW"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        },
+        {
+          "name": "EALA",
+          "url": "https://open.spotify.com/artist/0cGH3EskO1vx9loNjpBZnl"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150205,
+      "name": "Kleinstadtpropaganda (feat. EALA)",
+      "url": "https://open.spotify.com/track/6ZsnJoFt11a0pmmZSaK7ov"
     },
     {
       "album": {
@@ -21256,7 +21412,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 164653,
       "name": "Morgen fr\u00fch",
       "url": "https://open.spotify.com/track/1ozUACLMVWbfXr6GxPmtD2"
@@ -21752,7 +21908,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 129140,
       "name": "NEUE HOFFNUNG",
       "url": "https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN"
@@ -22670,7 +22826,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 128394,
       "name": "OBSESSED",
       "url": "https://open.spotify.com/track/4yZc4VjXu43T2wsxQ7tjvF"
@@ -22978,7 +23134,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 189200,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0nV4seYGREUdjoCY2PUd7h"
@@ -25145,6 +25301,24 @@
     },
     {
       "album": {
+        "name": "Rundgang",
+        "url": "https://open.spotify.com/album/1W78gU96QFWxZxPvf3ugnY"
+      },
+      "artists": [
+        {
+          "name": "GbR",
+          "url": "https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159890,
+      "name": "Rundgang",
+      "url": "https://open.spotify.com/track/4llW6YfkiJVi97m9NzeIjX"
+    },
+    {
+      "album": {
         "name": "R\u00e4uber",
         "url": "https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW"
       },
@@ -25771,6 +25945,24 @@
     },
     {
       "album": {
+        "name": "Schnapsidee",
+        "url": "https://open.spotify.com/album/0agehA1P9Rv8S0KB01NnA9"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162490,
+      "name": "Schnapsidee",
+      "url": "https://open.spotify.com/track/6ZKusOBCeFn42U8fYAAR5x"
+    },
+    {
+      "album": {
         "name": "Such nach mir",
         "url": "https://open.spotify.com/album/6Sp7DtcVBg4hlPOLwJUy73"
       },
@@ -26264,7 +26456,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 215000,
       "name": "Seide",
       "url": "https://open.spotify.com/track/6pWQeb7U0oxQGcGIB5ITmu"
@@ -26644,7 +26836,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 170322,
       "name": "Shotgun (mit Provinz)",
       "url": "https://open.spotify.com/track/1qTMaaS5FdqiulCExFkvGy"
@@ -26720,6 +26912,24 @@
       "duration_ms": 156041,
       "name": "sie",
       "url": "https://open.spotify.com/track/4sD6JuBcfYyfhdIFRIQq4c"
+    },
+    {
+      "album": {
+        "name": "Sie hatten recht",
+        "url": "https://open.spotify.com/album/4mzVdDstDYqCY3YdEniUyA"
+      },
+      "artists": [
+        {
+          "name": "KARGO",
+          "url": "https://open.spotify.com/artist/0QxzeJ5g8bSdcwTvt3ZEMW"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Sie hatten recht",
+      "url": "https://open.spotify.com/track/3yechhAyWwUIoXB9yMHV9K"
     },
     {
       "album": {
@@ -27578,6 +27788,28 @@
     {
       "album": {
         "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/5yLEbty03cRjd8gFP8G5i5"
+      },
+      "artists": [
+        {
+          "name": "Ami Warning",
+          "url": "https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9"
+        },
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132758,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/5obmQ5Xt3F7QcfboGtOusg"
+    },
+    {
+      "album": {
+        "name": "Sommerregen",
         "url": "https://open.spotify.com/album/71bgNRTrstBAE82RLv2K7x"
       },
       "artists": [
@@ -28102,7 +28334,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 215142,
       "name": "Sp\u00fclmaschine",
       "url": "https://open.spotify.com/track/5YgFPzy8TA91NxWs2bGZUx"
@@ -30848,7 +31080,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 136315,
       "name": "Verlieb dich nicht",
       "url": "https://open.spotify.com/track/5NuuAdyq4zcQDDHUF0IwhG"
@@ -30892,7 +31124,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 156636,
       "name": "verlieben ist einfach",
       "url": "https://open.spotify.com/track/1haXkasNxxWNdV8szCXxsk"
@@ -32218,7 +32450,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 231500,
       "name": "was ich nicht hab",
       "url": "https://open.spotify.com/track/7CWKkch5GurVmBZajPB1Df"
@@ -33720,7 +33952,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 225201,
       "name": "Wieso",
       "url": "https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF"
@@ -34056,6 +34288,24 @@
       "duration_ms": 135666,
       "name": "Wo sind die Sterne hin",
       "url": "https://open.spotify.com/track/5o4bu8v2nQKArl2lynZO3G"
+    },
+    {
+      "album": {
+        "name": "Wohnung",
+        "url": "https://open.spotify.com/album/0xBCyx02z7QrALyZ7dPDCj"
+      },
+      "artists": [
+        {
+          "name": "TEMMIS",
+          "url": "https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154099,
+      "name": "Wohnung",
+      "url": "https://open.spotify.com/track/35mvNtmbZaKJ0CHI9166Ch"
     },
     {
       "album": {

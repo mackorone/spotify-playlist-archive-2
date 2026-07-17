@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover:  TheOvertunes, Nadin Amizah ",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover:  Shabrina Leanor",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 205778,
       "name": "Berusaha di Bawah Hujan",
       "url": "https://open.spotify.com/track/5Oe6NDPYBHcQapkke8fsWn"
@@ -2493,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "Ceritaku Ceritamu",
+        "url": "https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO"
+      },
+      "artists": [
+        {
+          "name": "Katyana",
+          "url": "https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Ceritaku Ceritamu",
+      "url": "https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz"
+    },
+    {
+      "album": {
         "name": "Ceritanya Jatuh Cinta",
         "url": "https://open.spotify.com/album/11Qt4sKWAfJBfQQwtbDox0"
       },
@@ -3022,6 +3044,24 @@
       "duration_ms": 157292,
       "name": "Di Depan Mata",
       "url": "https://open.spotify.com/track/0OVkYfGRgD1hHBCwMgl39y"
+    },
+    {
+      "album": {
+        "name": "Di Seberang",
+        "url": "https://open.spotify.com/album/5JaGAfCsaZgwjCKN5sVFvi"
+      },
+      "artists": [
+        {
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233043,
+      "name": "Di Seberang",
+      "url": "https://open.spotify.com/track/09ETXH3zL7XQfNwekbdoW1"
     },
     {
       "album": {
@@ -4820,7 +4860,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 243620,
       "name": "Jangan Buang Aku - From \"Jangan Buang Ibu\"",
       "url": "https://open.spotify.com/track/6301hTQ5Nfhslz9nuwTY44"
@@ -7298,7 +7338,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 210984,
       "name": "MATA-MATA",
       "url": "https://open.spotify.com/track/4JuyCTIqnasjrNUPM8VbuF"
@@ -9134,7 +9174,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 278100,
       "name": "Pura Pura",
       "url": "https://open.spotify.com/track/1FqoFlbDbeaq6Sy3watDVR"
@@ -9484,7 +9524,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 266386,
       "name": "Ruang Riang",
       "url": "https://open.spotify.com/track/0FjJRVgpe3yBDdl2cPMqUH"
@@ -10082,7 +10122,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 245184,
       "name": "Sederhana",
       "url": "https://open.spotify.com/track/03s6vDyVEunObMIbnd5Naj"
@@ -10417,6 +10457,24 @@
     },
     {
       "album": {
+        "name": "Selesai",
+        "url": "https://open.spotify.com/album/0ipiF5pMC6cbN4jM584hf1"
+      },
+      "artists": [
+        {
+          "name": "Shabrina Leanor",
+          "url": "https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242769,
+      "name": "Selesai",
+      "url": "https://open.spotify.com/track/2M07OYOk4VNaOI7rEwtKND"
+    },
+    {
+      "album": {
         "name": "Selimut Hati",
         "url": "https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16"
       },
@@ -10584,7 +10642,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 210000,
       "name": "Semesta",
       "url": "https://open.spotify.com/track/7BMJc5ZALrkYLjI5XmjVfk"

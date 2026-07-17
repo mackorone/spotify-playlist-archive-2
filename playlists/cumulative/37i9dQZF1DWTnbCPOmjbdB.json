@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Kizo, Julia Wieniawa",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Zalia",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -1528,6 +1528,24 @@
     {
       "album": {
         "name": "Burza",
+        "url": "https://open.spotify.com/album/3pRFjowWvPXaZLZojiSdWO"
+      },
+      "artists": [
+        {
+          "name": "Filip Lato",
+          "url": "https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Burza",
+      "url": "https://open.spotify.com/track/01LuM9pAxENlOFt4RtRbLy"
+    },
+    {
+      "album": {
+        "name": "Burza",
         "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
       },
       "artists": [
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 131338,
       "name": "Cz\u0105stka mnie",
       "url": "https://open.spotify.com/track/5Lwm1FirgtPakHR0JnHOV4"
@@ -3114,6 +3132,28 @@
       "duration_ms": 140571,
       "name": "DEMOLKA",
       "url": "https://open.spotify.com/track/7JPDbY7zlchiQREhWmTCZb"
+    },
+    {
+      "album": {
+        "name": "Deszcz",
+        "url": "https://open.spotify.com/album/5ZF0olPiFAVCFJu0L5IcAn"
+      },
+      "artists": [
+        {
+          "name": "Linia Nocna",
+          "url": "https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe"
+        },
+        {
+          "name": "Pat",
+          "url": "https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162721,
+      "name": "Deszcz",
+      "url": "https://open.spotify.com/track/0klL2cqshpRAOarhRRQxDL"
     },
     {
       "album": {
@@ -4316,7 +4356,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 155454,
       "name": "FACECARD",
       "url": "https://open.spotify.com/track/1UO7IdCNDjkeZXIK2v1Wcp"
@@ -4522,7 +4562,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 210927,
       "name": "Flora",
       "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
@@ -4952,7 +4992,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 144000,
       "name": "Go\u0142\u0119bie",
       "url": "https://open.spotify.com/track/3bRmywq8MvSkeAHB3GrUUC"
@@ -7790,7 +7830,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 211000,
       "name": "Maj",
       "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
@@ -8918,7 +8958,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 140869,
       "name": "My\u015bl o mnie",
       "url": "https://open.spotify.com/track/3u4qErXoZMqU8uU8vNUkzu"
@@ -11476,7 +11516,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 186813,
       "name": "Ostatni dzie\u0144 lata",
       "url": "https://open.spotify.com/track/6FJb2Knd2tn504K1durCVt"
@@ -13568,7 +13608,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 132342,
       "name": "Sabota\u017cysta",
       "url": "https://open.spotify.com/track/4g1zokXETKC9lV6EHEkAtL"
@@ -14286,7 +14326,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 163687,
       "name": "SPOK\u00d3J",
       "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
@@ -14685,6 +14725,24 @@
     },
     {
       "album": {
+        "name": "SZAFIR",
+        "url": "https://open.spotify.com/album/5Yds4ZpgQ1aVKdqn3PoDMW"
+      },
+      "artists": [
+        {
+          "name": "Kasia DVD \u2727",
+          "url": "https://open.spotify.com/artist/2JOXsgxJjwrpoELAOqhQuL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "SZAFIR",
+      "url": "https://open.spotify.com/track/7BatFXCqRYHyKtcvVgZnJT"
+    },
+    {
+      "album": {
         "name": "lato 2024",
         "url": "https://open.spotify.com/album/46UkVFbOjbq6vwX4GKaU6L"
       },
@@ -15024,6 +15082,28 @@
       "duration_ms": 183050,
       "name": "tajfun",
       "url": "https://open.spotify.com/track/6ERPdRl4gHCrU0O3LAa19v"
+    },
+    {
+      "album": {
+        "name": "Tajlandia",
+        "url": "https://open.spotify.com/album/0yOMQOlNW5t1YF256gephy"
+      },
+      "artists": [
+        {
+          "name": "Mery Spolsky",
+          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124054,
+      "name": "Tajlandia",
+      "url": "https://open.spotify.com/track/7KFwjcshrYiUxwaMzUgKbM"
     },
     {
       "album": {
@@ -15749,6 +15829,24 @@
     },
     {
       "album": {
+        "name": "To nie o mnie + Zimne ognie",
+        "url": "https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6"
+      },
+      "artists": [
+        {
+          "name": "Kasia Sienkiewicz",
+          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181047,
+      "name": "To nie o mnie",
+      "url": "https://open.spotify.com/track/5StvojAq9eoTAKZQQLQ2a9"
+    },
+    {
+      "album": {
         "name": "To nie powt\u00f3rzy si\u0119",
         "url": "https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf"
       },
@@ -15778,7 +15876,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 175221,
       "name": "To nie ty",
       "url": "https://open.spotify.com/track/0L3MQur3l9mRf2bDbCsbJe"
@@ -15920,6 +16018,24 @@
       "duration_ms": 139903,
       "name": "Toskania",
       "url": "https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm"
+    },
+    {
+      "album": {
+        "name": "Tracimy tylko czas",
+        "url": "https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Tracimy tylko czas",
+      "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
     },
     {
       "album": {
@@ -19176,7 +19292,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 219135,
       "name": "\u017bycie jest pi\u0119kne",
       "url": "https://open.spotify.com/track/3V14xeDKtDWgOF8MGotykj"

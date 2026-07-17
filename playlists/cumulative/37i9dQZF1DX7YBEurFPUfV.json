@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Mouka",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Sanfara",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 199122,
       "name": "3A9LIYA",
       "url": "https://open.spotify.com/track/0Qleubp4EIjr18kyiPrqFM"
@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Podcast",
+        "url": "https://open.spotify.com/album/114VhmYj8kqeWgSvSB1m75"
+      },
+      "artists": [
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        },
+        {
+          "name": "G.G.A",
+          "url": "https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Black List",
+      "url": "https://open.spotify.com/track/0smqucTLlBbHGBBiyN7s28"
+    },
+    {
+      "album": {
         "name": "Brabus",
         "url": "https://open.spotify.com/album/7FIcDfg2HwUAHvB1I84rk6"
       },
@@ -604,7 +626,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 212782,
       "name": "Brabus",
       "url": "https://open.spotify.com/track/2LhLEOlgnq6ac47hTr5KYO"
@@ -2620,6 +2642,28 @@
       "duration_ms": 173472,
       "name": "OKHTOOBOOT",
       "url": "https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ"
+    },
+    {
+      "album": {
+        "name": "OLA MAMACITA",
+        "url": "https://open.spotify.com/album/5HaMYk2wii197932giANzQ"
+      },
+      "artists": [
+        {
+          "name": "XIIVI",
+          "url": "https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N"
+        },
+        {
+          "name": "$MXTI",
+          "url": "https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "OLA MAMACITA",
+      "url": "https://open.spotify.com/track/177S2XhyAhcxsk3hakffJN"
     },
     {
       "album": {

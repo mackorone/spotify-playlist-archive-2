@@ -5153,6 +5153,36 @@
     },
     {
       "album": {
+        "name": "Sunny Days (Summer Is Calling & Impani Remix)",
+        "url": "https://open.spotify.com/album/7jRpbZRdnMURcNtt6fy3Bm"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Josh Cumbee",
+          "url": "https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E"
+        },
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Impani",
+          "url": "https://open.spotify.com/artist/17aRTH8IYiW9945DeGB25Y"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224471,
+      "name": "Sunny Days - Summer Is Calling & Impani Remix",
+      "url": "https://open.spotify.com/track/5HpnnlXWy6uHxYnn4HwinD"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/2gpx29vJMTMNlYxN9CIcsE"
       },

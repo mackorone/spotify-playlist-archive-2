@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:24fUXERZ38CtyNbJtCnpa8">Finanzas que Valen </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,030 likes - 9 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,031 likes - 9 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

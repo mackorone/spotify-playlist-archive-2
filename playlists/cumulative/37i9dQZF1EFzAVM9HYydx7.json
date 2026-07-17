@@ -1617,6 +1617,40 @@
     },
     {
       "album": {
+        "name": "WHAT IF IT ALL GOES RIGHT?",
+        "url": "https://open.spotify.com/album/6AtVu0s4PVAefFnMVmMB7E"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Fito Blanko",
+          "url": "https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW"
+        },
+        {
+          "name": "Alx Veliz",
+          "url": "https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg"
+        },
+        {
+          "name": "Canada Soccer",
+          "url": "https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez"
+        },
+        {
+          "name": "Boi-1da",
+          "url": "https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153827,
+      "name": "EL DORADO",
+      "url": "https://open.spotify.com/track/6EsVGlcvV9xFcdUKcWdw7W"
+    },
+    {
+      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
@@ -6094,6 +6128,36 @@
       "duration_ms": 154565,
       "name": "TATI (feat. DJ Spinking)",
       "url": "https://open.spotify.com/track/0CFJoopJPNMEC7Itmp64Yb"
+    },
+    {
+      "album": {
+        "name": "THE ALCHEMIST",
+        "url": "https://open.spotify.com/album/64W3NyrOhCut8q90AjpnFK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        },
+        {
+          "name": "Boi-1da",
+          "url": "https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7"
+        },
+        {
+          "name": "Canada Soccer",
+          "url": "https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez"
+        },
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211233,
+      "name": "THE ALCHEMIST",
+      "url": "https://open.spotify.com/track/0lXB4QZT4hvCLZpbfCDvov"
     },
     {
       "album": {

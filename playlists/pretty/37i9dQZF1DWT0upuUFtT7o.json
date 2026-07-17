@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: @",
-  "num_followers": 256850,
+  "num_followers": 256863,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHeYu/2dheZd+Kbxgdisq9+5XQXs",
+  "snapshot_id": "AAAAANjFbCmVv86S09eyiB3O9KnrCOPo",
   "tracks": [
     {
       "added_at": "2026-07-09 16:16:47",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
     },
     {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "Lima",
+        "url": "https://open.spotify.com/album/0kXzXKuBJQ7wGEoeLCwZUg"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
+    },
+    {
       "added_at": "2026-07-09 16:16:47",
       "album": {
         "name": "Pieces",
@@ -39,6 +55,106 @@
       "duration_ms": 167920,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
+    },
+    {
+      "added_at": "2026-07-09 16:30:21",
+      "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg"
+      },
+      "artists": [
+        {
+          "name": "daisy",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "whereyougoing?",
+        "url": "https://open.spotify.com/album/0gQhQb8mtotanUSjRbvQy8"
+      },
+      "artists": [
+        {
+          "name": "Marc.net",
+          "url": "https://open.spotify.com/artist/4z0gLrvnr59tgbaluEOtZH"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "whereyougoing?",
+      "url": "https://open.spotify.com/track/3FDjHkHUaHxshXvF9bBnBQ"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "1+1 = 0 (feat. Jay Som)",
+        "url": "https://open.spotify.com/album/4tSRBO4d092lpDSr7ir5gR"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        },
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "1+1 = 0 (feat. Jay Som)",
+      "url": "https://open.spotify.com/track/27NMMrWjXmfxTtNjdH8PcB"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "Lasagna",
+        "url": "https://open.spotify.com/album/1TxT0qBD6miEAHc6nBDSFj"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Lasagna",
+      "url": "https://open.spotify.com/track/0ckVKicgNyv074p0lG4lRX"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "SUNDAYCLUB",
+        "url": "https://open.spotify.com/album/6aKxN6uLEMSo4YJdnDoinp"
+      },
+      "artists": [
+        {
+          "name": "sundayclub",
+          "url": "https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM"
+        }
+      ],
+      "duration_ms": 330585,
+      "name": "Turquoise",
+      "url": "https://open.spotify.com/track/2Tl5KK7EUUKdqK5RVCOImb"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "Tmt",
+        "url": "https://open.spotify.com/album/22gVt7RSj9GIwi73Ze4GDZ"
+      },
+      "artists": [
+        {
+          "name": "bld rltv",
+          "url": "https://open.spotify.com/artist/391xMwqB4f7t33b1eiNe2M"
+        }
+      ],
+      "duration_ms": 168057,
+      "name": "Tmt",
+      "url": "https://open.spotify.com/track/6E5pNxIgctyLA3R6dm3XnH"
     },
     {
       "added_at": "2026-06-24 22:07:04",
@@ -57,6 +173,38 @@
       "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
     },
     {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "The Dog",
+        "url": "https://open.spotify.com/album/2DJ8bsKENysB7M5hfzHDDQ"
+      },
+      "artists": [
+        {
+          "name": "Alaina May",
+          "url": "https://open.spotify.com/artist/2ajMOVSXSjHyFhSnzBKBTb"
+        }
+      ],
+      "duration_ms": 213526,
+      "name": "The Dog",
+      "url": "https://open.spotify.com/track/5WPw1FoA2S5ivwlNJ5rDo6"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/5xYAjEAwfrf1tyGVlV5N5d"
+      },
+      "artists": [
+        {
+          "name": "tickertape",
+          "url": "https://open.spotify.com/artist/2aXOm3ef1Xel4vNYKCRWdS"
+        }
+      ],
+      "duration_ms": 223009,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/4qhGoA6hC1vncKI52DUuiY"
+    },
+    {
       "added_at": "2026-07-09 16:16:47",
       "album": {
         "name": "good and bad",
@@ -71,6 +219,26 @@
       "duration_ms": 95774,
       "name": "good and bad",
       "url": "https://open.spotify.com/track/6WUEmA64al3W96gO853HQA"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "Cristalina",
+        "url": "https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck"
+      },
+      "artists": [
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        },
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        }
+      ],
+      "duration_ms": 173581,
+      "name": "Cristalina",
+      "url": "https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M"
     },
     {
       "added_at": "2026-06-24 22:07:04",
@@ -121,20 +289,20 @@
       "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
     },
     {
-      "added_at": "2026-07-09 16:30:21",
+      "added_at": "2026-07-16 15:07:23",
       "album": {
-        "name": "melody",
-        "url": "https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg"
+        "name": "Feeling at Home",
+        "url": "https://open.spotify.com/album/2txUFG8LZ3CX1VNEsCTPEv"
       },
       "artists": [
         {
-          "name": "daisy",
-          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+          "name": "The Treedome",
+          "url": "https://open.spotify.com/artist/5gfEMpgDlkeBGgRbMCI1hC"
         }
       ],
-      "duration_ms": 158400,
-      "name": "melody",
-      "url": "https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt"
+      "duration_ms": 235568,
+      "name": "Feeling at Home",
+      "url": "https://open.spotify.com/track/4z28HFdbz493UGl6vldoZR"
     },
     {
       "added_at": "2026-07-09 16:16:47",
@@ -1055,166 +1223,6 @@
       "duration_ms": 180000,
       "name": "Softwing",
       "url": "https://open.spotify.com/track/5JIaoy9tHYQCMR0rHpunsN"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "lure",
-        "url": "https://open.spotify.com/album/4EM9lezjSIAyCMNd6v0oRg"
-      },
-      "artists": [
-        {
-          "name": "Sindy",
-          "url": "https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "nursed",
-      "url": "https://open.spotify.com/track/0eHAj1orKqxcYybWXMB8ue"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "the plushies, they love you bro",
-        "url": "https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS"
-      },
-      "artists": [
-        {
-          "name": "Clara Kimera",
-          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
-        }
-      ],
-      "duration_ms": 105999,
-      "name": "the plushies, they love you bro",
-      "url": "https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "Liar Liar",
-        "url": "https://open.spotify.com/album/0W7U9wdIcFsDVIJmExlPLX"
-      },
-      "artists": [
-        {
-          "name": "dearest",
-          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
-        }
-      ],
-      "duration_ms": 195782,
-      "name": "Liar Liar",
-      "url": "https://open.spotify.com/track/43nlIi8s0GhjIc47lQ7lr5"
-    },
-    {
-      "added_at": "2026-05-06 17:59:13",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/0qZvRbw7bR8fAI1xCwhaPH"
-      },
-      "artists": [
-        {
-          "name": "Evil Adeline",
-          "url": "https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3DTwjK0pAoNX26FEGuZwO8"
-    },
-    {
-      "added_at": "2026-04-29 18:35:08",
-      "album": {
-        "name": "Blue Angel Sparkling Silver 2",
-        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 186446,
-      "name": "You Say I Love You",
-      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "tangerine!",
-        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "tangerine!",
-      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "The Folkhouse",
-        "url": "https://open.spotify.com/album/5a579gBBhmqGsspzYvWWgz"
-      },
-      "artists": [
-        {
-          "name": "Lecx Stacy",
-          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Safe In Your Hands, I Clasp",
-      "url": "https://open.spotify.com/track/1AD4SaybMcep5W0kSRUZuD"
-    },
-    {
-      "added_at": "2026-05-06 17:59:13",
-      "album": {
-        "name": "my heart was good (you never knew)",
-        "url": "https://open.spotify.com/album/5i3RwhZsSWtyM6Ppp9JrLO"
-      },
-      "artists": [
-        {
-          "name": "shinyhunt",
-          "url": "https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63"
-        }
-      ],
-      "duration_ms": 201272,
-      "name": "my heart was good (you never knew)",
-      "url": "https://open.spotify.com/track/182pZBYrPgjBRVHSzSyWsw"
-    },
-    {
-      "added_at": "2026-05-06 17:59:13",
-      "album": {
-        "name": "Lighter in the Morning (2/2)",
-        "url": "https://open.spotify.com/album/66R6xgqXKrIN5xNma8dG6a"
-      },
-      "artists": [
-        {
-          "name": "Veronica Everheart",
-          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
-        }
-      ],
-      "duration_ms": 179788,
-      "name": "22 & Climbing",
-      "url": "https://open.spotify.com/track/7KBLQuzWxiMWnBZvrRmuay"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "Above n Beyond (Weather Man)",
-        "url": "https://open.spotify.com/album/6XQq8NaETTv1V0qbwIP7Yv"
-      },
-      "artists": [
-        {
-          "name": "mykel",
-          "url": "https://open.spotify.com/artist/0dVSaGML9lVavgOvyV1PVD"
-        }
-      ],
-      "duration_ms": 111784,
-      "name": "Above n Beyond (Weather Man)",
-      "url": "https://open.spotify.com/track/1JPLwvtprzZh3J7FFmzBfS"
     }
   ],
   "unique_name": "Fresh Finds Indie",

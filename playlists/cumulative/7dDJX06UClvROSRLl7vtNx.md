@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,390 songs - 2 day 11 hr 51 min
+1,392 songs - 2 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Blue & Orange](https://open.spotify.com/track/3IvJL6XExEr7e4c9goxviC) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh) | [Blue & Orange](https://open.spotify.com/album/0U0EWpLaDte2PuXJ0Sbu6V) | 2:12 | 2025-05-30 | 2025-08-04 |
 | [Blue Eyes](https://open.spotify.com/track/5XzMCiiAKfZAB6kNeoFOnK) | [LØST SIGNAL](https://open.spotify.com/artist/4lhyolukuFODU8oTkbJ1oS), [Muffin](https://open.spotify.com/artist/00xeTtgDJdeHV0eGIBNdm2), [Riviera](https://open.spotify.com/artist/6E6paDVzdNaPEscsl2meDp) | [Blue Eyes](https://open.spotify.com/album/7hU1XwrkvwcD4wh9R7HbHX) | 2:13 | 2026-07-05 |  |
 | [Blue Skies](https://open.spotify.com/track/1x2DPGpm2DChsrtW9EjCWN) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Juli Mala](https://open.spotify.com/artist/0VcXNI2SfCf0RDBNsKDkcU), [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ) | [Blue Skies](https://open.spotify.com/album/1VXyPZDHDsT3gR0wI8KTIc) | 2:26 | 2025-08-24 | 2026-07-08 |
+| [Body Lover](https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NASHUP](https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp), [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Body Lover](https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx) | 2:27 | 2026-07-16 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/2gBcHHTMTuh0BPgDl8WpAK) | [Sunday](https://open.spotify.com/artist/5vFf9aCTZJfrRjuszHhxcd), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2b5muXfNBzuAwMmBqv6PYp) | 2:01 | 2024-05-02 | 2025-05-21 |
 | [Break My Heart](https://open.spotify.com/track/1Ql9SQENTH10ec5LUkh52j) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Break My Heart](https://open.spotify.com/album/1ynuNByxPovkDkdtBiVeMG) | 2:54 | 2025-08-31 | 2025-11-24 |
 | [Break You Too](https://open.spotify.com/track/4em6m28N7Va4dMZDeoESix) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Break You Too](https://open.spotify.com/album/3Y4QrRNAQ9RxYWmw2zec0g) | 2:50 | 2026-03-27 | 2026-05-04 |
@@ -1157,6 +1158,7 @@
 | [Sunny](https://open.spotify.com/track/6S7kQc0wVJ1UqhzOCOCSQQ) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [CALUA](https://open.spotify.com/artist/6mnaOeRMNT2abTk8NncpQi) | [Sunny](https://open.spotify.com/album/3FB7CtqIL0PtSTodmdBaqj) | 2:43 | 2025-07-04 | 2026-01-05 |
 | [Sunny](https://open.spotify.com/track/6iolYWSFGkTNXEi7MOMeRs) | [Yume](https://open.spotify.com/artist/6jhofN6VeIi3EciznDCfCv) | [Sunny](https://open.spotify.com/album/7KHdVDoix9UsFrRT95OQqs) | 2:45 | 2024-04-13 | 2024-05-13 |
 | [Sunny Days](https://open.spotify.com/track/2d6bwIQykrN8PR6q5TRVlO) | [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [Sunny Days](https://open.spotify.com/album/04INhjD81Xkvy2Pe5ivdjG) | 2:18 | 2024-02-29 | 2025-04-07 |
+| [Sunrise](https://open.spotify.com/track/49dFZOSQrUNRHRhxNBqnve) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Sunrise](https://open.spotify.com/album/61AwFBcGn4CtdaaLnuSRva) | 2:13 | 2026-07-16 |  |
 | [Sunrise Never Fades](https://open.spotify.com/track/6vhw0efqorXdcnnxg9gXpz) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Sunrise Never Fades](https://open.spotify.com/album/6BacM7DiMnwlZKkLPCRIwD) | 2:20 | 2025-09-05 | 2025-10-04 |
 | [Sunset](https://open.spotify.com/track/3lq8LmjUXIUILkLkKnA7Hx) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Sunset](https://open.spotify.com/album/4fgIabBKiSNj40HdBfENQn) | 2:26 | 2023-09-22 | 2023-12-31 |
 | [Sunset](https://open.spotify.com/track/4J3y4fCVLr5C4zkuI2v8cT) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx) | [Sunset](https://open.spotify.com/album/22cqnFP9qJCoKkkrAgG1oh) | 2:30 | 2024-09-06 | 2025-02-21 |

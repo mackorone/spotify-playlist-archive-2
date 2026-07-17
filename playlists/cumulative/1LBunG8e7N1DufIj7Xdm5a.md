@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,529 songs - 10 day 2 hr 54 min
+4,530 songs - 10 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [Dead Oceans](https://open.spotify.com/track/24MJFUueNHVGnyTiCzKBx7) | [Ural Mountains](https://open.spotify.com/artist/2UfM6MW4B1ruqon7xmQwf3) | [Dead Oceans](https://open.spotify.com/album/2V5VrVlhZXp6WYOO6dSYSC) | 3:58 | 2025-01-29 |  |
 | [Deadly Addiction \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1YMf8qAuhK3EJqor4xc9bS) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:47 | 2025-09-15 |  |
 | [Deadly Paradise](https://open.spotify.com/track/1vcrlldIQ36dZoZcXOnAf4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:18 | 2025-09-16 |  |
+| [Death To The Fleshless](https://open.spotify.com/track/6aD20EMBpgClg8icXxzBiD) | [Glitch Kill](https://open.spotify.com/artist/50oWkslmqWWcUrVxKOfL4m) | [Death To The Fleshless](https://open.spotify.com/album/3QwkBQWWndUuBo6GoctMVA) | 4:37 | 2026-07-16 |  |
 | [Decay of Era](https://open.spotify.com/track/6rFwkf3W1kJoo0yFbLu6E4) | [PostPunker](https://open.spotify.com/artist/0ZhbCxd91s0SK56JnAH6K8) | [Decay of Era](https://open.spotify.com/album/2F6bMFjnlnB5DHZSvmyDP0) | 3:27 | 2026-02-13 |  |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-30 |  |
 | [Decisions](https://open.spotify.com/track/0gyylCldcBhBbnnRlrXF2Q) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5) | [Decisions](https://open.spotify.com/album/4evCvOxwrSos0EN5OgXVeM) | 2:10 | 2025-05-16 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Qncicka",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Barnim",
   "name": "up next",
   "tracks": [
     {
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 175821,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 160000,
       "name": "Bilet",
       "url": "https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 182383,
       "name": "BLOODY MARY",
       "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
@@ -3300,6 +3300,28 @@
       "duration_ms": 161842,
       "name": "Dancechlor",
       "url": "https://open.spotify.com/track/3Gi9KxBBxjpYnXgxULVqBN"
+    },
+    {
+      "album": {
+        "name": "dancefloor?",
+        "url": "https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "kurtis baker",
+          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201688,
+      "name": "dancefloor?",
+      "url": "https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn"
     },
     {
       "album": {
@@ -6249,6 +6271,28 @@
     },
     {
       "album": {
+        "name": "je\u015bli pozwolisz",
+        "url": "https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE"
+      },
+      "artists": [
+        {
+          "name": "nocotyania",
+          "url": "https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl"
+        },
+        {
+          "name": "20tune",
+          "url": "https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "je\u015bli pozwolisz",
+      "url": "https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu"
+    },
+    {
+      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj"
       },
@@ -6404,7 +6448,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 169272,
       "name": "Kiedy jeste\u015b",
       "url": "https://open.spotify.com/track/3oIah1APUdIWNAnfeneenc"
@@ -6556,7 +6600,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 151547,
       "name": "kochaj mnie",
       "url": "https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc"
@@ -7178,7 +7222,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 135388,
       "name": "lepiej",
       "url": "https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6"
@@ -9080,7 +9124,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 190402,
       "name": "Ne1",
       "url": "https://open.spotify.com/track/2S7tlJXKOCDWwdPMmldA65"
@@ -10575,6 +10619,24 @@
     },
     {
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/4aAj4Yqm2aOclpJN1yWD6D"
+      },
+      "artists": [
+        {
+          "name": "Iga Kumka",
+          "url": "https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Oscars",
+      "url": "https://open.spotify.com/track/0oU8WJdc3UDxSjgcdNcYAd"
+    },
+    {
+      "album": {
         "name": "Ostatni raz",
         "url": "https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF"
       },
@@ -11092,7 +11154,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 224295,
       "name": "Per\u0142y za Kredensem",
       "url": "https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u"
@@ -11728,7 +11790,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 190660,
       "name": "PRICE TAG",
       "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
@@ -11822,7 +11884,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 132550,
       "name": "Przepraszam \u017ce Ci\u0119 kocham",
       "url": "https://open.spotify.com/track/64W5rgSBb7vYzePiPO63Ag"
@@ -13436,10 +13498,32 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 159473,
       "name": "STILL PRETTY WHEN I CRY",
       "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
+    },
+    {
+      "album": {
+        "name": "Inny",
+        "url": "https://open.spotify.com/album/4NnGDciJnY0amspOhznLX3"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        },
+        {
+          "name": "Milena Guba\u0142a",
+          "url": "https://open.spotify.com/artist/5BuJSfTQDHi3oYJIVKujqW"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Stoj\u0119 (na stacji paliw)",
+      "url": "https://open.spotify.com/track/13Piq3mRqhDFClyldq9WiO"
     },
     {
       "album": {
@@ -14752,7 +14836,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 159473,
       "name": "TopOff",
       "url": "https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm"
@@ -14814,6 +14898,24 @@
       "duration_ms": 150743,
       "name": "tracimy sens",
       "url": "https://open.spotify.com/track/6wpF3A7b91RGelXpRvcDNr"
+    },
+    {
+      "album": {
+        "name": "Tracimy tylko czas",
+        "url": "https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Tracimy tylko czas",
+      "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
     },
     {
       "album": {
@@ -15154,6 +15256,32 @@
       "duration_ms": 133686,
       "name": "UFO",
       "url": "https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv"
+    },
+    {
+      "album": {
+        "name": "UMIAR",
+        "url": "https://open.spotify.com/album/633aOhMKpVxIqZfHVtBRI8"
+      },
+      "artists": [
+        {
+          "name": "Szaran",
+          "url": "https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG"
+        },
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "UMIAR",
+      "url": "https://open.spotify.com/track/7LVt9ME7UO97V0ys2jLq0D"
     },
     {
       "album": {
@@ -16076,7 +16204,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 138181,
       "name": "wr\u00f3cisz",
       "url": "https://open.spotify.com/track/3M2O9HDLhkEMyQlj6pqsHd"
@@ -16300,7 +16428,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 137605,
       "name": "wzrok, w kt\u00f3rym pl\u0105cze si\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK"
@@ -16408,7 +16536,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 202295,
       "name": "Z cukrem myl\u0119 l\u00f3d",
       "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
@@ -16650,6 +16778,28 @@
       "duration_ms": 123364,
       "name": "ZABIJE J\u0104",
       "url": "https://open.spotify.com/track/2o49vdLmbUvqWtGGsjRa8o"
+    },
+    {
+      "album": {
+        "name": "ZACHODY",
+        "url": "https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi"
+      },
+      "artists": [
+        {
+          "name": "Barnim",
+          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159456,
+      "name": "ZACHODY (feat. Jonatan)",
+      "url": "https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd"
     },
     {
       "album": {

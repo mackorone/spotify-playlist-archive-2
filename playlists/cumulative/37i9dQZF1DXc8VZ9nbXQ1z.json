@@ -7408,7 +7408,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 330218,
       "name": "Fulani - Extented Mix",
       "url": "https://open.spotify.com/track/1rGj5JILE1bp4lscDnfO6n"
@@ -13209,6 +13209,28 @@
     },
     {
       "album": {
+        "name": "Lost (Manoo Remix)",
+        "url": "https://open.spotify.com/album/7mer0QoiJOT3wGMgBlPdG2"
+      },
+      "artists": [
+        {
+          "name": "Raise (ofc)",
+          "url": "https://open.spotify.com/artist/1ZgjgIUy9EhLcPDtneKJQv"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535573,
+      "name": "Lost - Manoo Remix",
+      "url": "https://open.spotify.com/track/5pjQtAYONUP4Mfj8x5E1CF"
+    },
+    {
+      "album": {
         "name": "Lost Dream (Tensnake Remix)",
         "url": "https://open.spotify.com/album/0M9rl0EmWZjtiXJzt1b8fe"
       },
@@ -18045,6 +18067,28 @@
     },
     {
       "album": {
+        "name": "People of Peace",
+        "url": "https://open.spotify.com/album/4MYKCWcRvwT5MHV9LP8vqH"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Atakan",
+          "url": "https://open.spotify.com/artist/39DHIGCIbTnlO6GdFKTTPv"
+        },
+        {
+          "name": "Tico Morales",
+          "url": "https://open.spotify.com/artist/41MI3lo5RN7JtYPz17kXps"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380121,
+      "name": "People of Peace",
+      "url": "https://open.spotify.com/track/202vSB5IdCUM9KWu6UGJ7Q"
+    },
+    {
+      "album": {
         "name": "Message to Eternity EP",
         "url": "https://open.spotify.com/album/7Cve04RsDc21FGUv2KevzW"
       },
@@ -18904,6 +18948,24 @@
       "duration_ms": 370360,
       "name": "Reborn - Extended",
       "url": "https://open.spotify.com/track/6lA6wHMbffVAlfMyC9pK65"
+    },
+    {
+      "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/0DOh1J8gKN8HnzFuQ64KsY"
+      },
+      "artists": [
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227928,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/0Ddvp044OQzscNPNaStvgU"
     },
     {
       "album": {
@@ -20876,7 +20938,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 141119,
       "name": "Sinnerman",
       "url": "https://open.spotify.com/track/4yn925QAS3ZCtWwtkW1H59"
@@ -23249,6 +23311,28 @@
     },
     {
       "album": {
+        "name": "The Vision",
+        "url": "https://open.spotify.com/album/5ZUlpSD6LRcLNcTha76LBH"
+      },
+      "artists": [
+        {
+          "name": "Simone Glad",
+          "url": "https://open.spotify.com/artist/23qU7I4dEm0phzNweQiVE7"
+        },
+        {
+          "name": "Leo Guardo",
+          "url": "https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214832,
+      "name": "The Vision",
+      "url": "https://open.spotify.com/track/6SyQukpGOxoH21MHI6tnvg"
+    },
+    {
+      "album": {
         "name": "The Wave (Nandu Remix)",
         "url": "https://open.spotify.com/album/7Cyk3lkSIR8pQRT53pe4fj"
       },
@@ -24108,6 +24192,24 @@
       "duration_ms": 218709,
       "name": "Trilemma",
       "url": "https://open.spotify.com/track/7jOPnyBZk370lHFAiTHNwO"
+    },
+    {
+      "album": {
+        "name": "B4U & Tripidi",
+        "url": "https://open.spotify.com/album/0FyEXnYBbUYXZt2FuW4ZhQ"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448024,
+      "name": "Tripidi",
+      "url": "https://open.spotify.com/track/0OulcccYk94SUQMbWqvbfL"
     },
     {
       "album": {
@@ -25012,7 +25114,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 269631,
       "name": "Voltage",
       "url": "https://open.spotify.com/track/03XGAwa1qC9O53BsYWkv2r"
@@ -25894,7 +25996,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 311900,
       "name": "Who Do You - Extended Mix",
       "url": "https://open.spotify.com/track/1JXWT8dx1zS2YNRb4vKO3y"
@@ -26496,7 +26598,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 418704,
       "name": "Yehlisan' Umoya Ma-Afrika - G-Wash10 Panthera Remix",
       "url": "https://open.spotify.com/track/69a8zpa1rIkZj5nds1Dj5d"

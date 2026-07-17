@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Juan Magán, Maikel Delacalle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,444 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,389 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 30 | [Las guapas](https://open.spotify.com/track/2USuWC60sd6pQtTjH7lv4Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 3:30 |
 | 31 | [¿Tú Piensas?](https://open.spotify.com/track/5rEF1UU3RuNYBfLMz7T9cH) | [LUCYCALYS](https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI), [Cris Lora](https://open.spotify.com/artist/6qksD3IxPOFl23vSKcwmvi) | [¿Tú Piensas?](https://open.spotify.com/album/4rzAd3LSy7A3qg7vgMSQ4S) | 2:48 |
 | 32 | [TUS INICIALES](https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5), [SALMA](https://open.spotify.com/artist/39l4aspsVEkHvlLr7R4NLm) | [TUS INICIALES](https://open.spotify.com/album/0bnB7XCWU0D75dQOHDKYZN) | 3:55 |
-| 33 | [Dime dónde estás](https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Dime dónde estás](https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp) | 2:43 |
+| 33 | [dime dónde estás](https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [dime dónde estás](https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp) | 2:43 |
 | 34 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 35 | [Lo Que Pasó, Pasó \- feat\. Marta Santos](https://open.spotify.com/track/5uJYKNFVkPEjWi8sXuBoUq) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Lo Que Pasó, Pasó \(feat\. Marta Santos\)](https://open.spotify.com/album/0Z2joo0ZTmHXIAeqE2X6BW) | 2:42 |
 | 36 | [Tonto por ti](https://open.spotify.com/track/1t1bKKW0yj0k4McaXhuEMs) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Tonto por ti](https://open.spotify.com/album/6r8RAZGoPEQb9KtjHUzy4H) | 2:40 |

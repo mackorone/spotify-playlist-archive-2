@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-579 songs - 1 day 11 hr 7 min
+580 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Heavy](https://open.spotify.com/track/7KEYVYIQs0fGpasrwD49KC) | [The Curve](https://open.spotify.com/artist/7scLDhUJV92qAunNa3jIr2) | [Revelation](https://open.spotify.com/album/3DOaAEbe41J9VqMhIJeOUh) | 4:36 | 2023-05-30 |  |
 | [Heroes \- Cover](https://open.spotify.com/track/0BY9nprwMSqfClfDxowHSo) | [Man Maze](https://open.spotify.com/artist/7kWch5Y73BCAXUGn25rusq) | [Heroes](https://open.spotify.com/album/7yDkljUEbrcegJeRQwGGNJ) | 3:42 | 2024-12-09 |  |
 | [Hey Man](https://open.spotify.com/track/3DytEPUq0s7HzcGJjqOStu) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Hey Man](https://open.spotify.com/album/3zyGmKSkXfCtB6AWzTqQUh) | 2:37 | 2023-02-27 |  |
+| [Hey Woman \- Live](https://open.spotify.com/track/6752pDfyK4wjdx461bV7CD) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Live](https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK) | 3:04 | 2026-07-16 |  |
 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2026-06-15 |  |
 | [Higher Power](https://open.spotify.com/track/05dzsNg8s1UwJ8iAGpss0Q) | [Gareth Lewis](https://open.spotify.com/artist/6X2fnj7ff14OvFLgvXCBXq) | [Higher Power](https://open.spotify.com/album/1oWoYqzlW2dlXY2j1JEzaX) | 3:28 | 2023-10-19 |  |
 | [Higher Than God](https://open.spotify.com/track/0rCa6bGBWuNzT54yrChDyg) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Higher Than God](https://open.spotify.com/album/3B6w7NPpTIoewMtGxQzXBP) | 4:42 | 2024-11-25 |  |

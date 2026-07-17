@@ -135,6 +135,32 @@
     },
     {
       "album": {
+        "name": "ALDI",
+        "url": "https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140818,
+      "name": "ALDI",
+      "url": "https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0"
+    },
+    {
+      "album": {
         "name": "Alkohol & D\u00f6ner",
         "url": "https://open.spotify.com/album/6hLqcpQFk2G29pZ5qkYFwg"
       },
@@ -186,7 +212,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 155513,
       "name": "ANALYSiEREN",
       "url": "https://open.spotify.com/track/34buWaz6Az55gBmXCUajm2"
@@ -1052,7 +1078,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 139296,
       "name": "Chef leck Eier",
       "url": "https://open.spotify.com/track/58WqFigooAAlRBs8fEo0YE"
@@ -1600,6 +1626,28 @@
       "duration_ms": 182068,
       "name": "Endlich normale Leute",
       "url": "https://open.spotify.com/track/4EuCrfqlLbZ4TudoNT0SjH"
+    },
+    {
+      "album": {
+        "name": "Endlich wieder Sommer",
+        "url": "https://open.spotify.com/album/7xwSBWmgXBlsimXPfWdoMC"
+      },
+      "artists": [
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+        },
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161345,
+      "name": "Endlich wieder Sommer",
+      "url": "https://open.spotify.com/track/09qZe3pgb9RyNF8x3Lwt2F"
     },
     {
       "album": {
@@ -3632,7 +3680,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 172637,
       "name": "Mozart (Ciao Niveau)",
       "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
@@ -3658,7 +3706,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 238281,
       "name": "M\u00e4nner",
       "url": "https://open.spotify.com/track/53KXd4KVjh5ReWyo9G6B7Y"
@@ -3680,7 +3728,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 181553,
       "name": "Nachbarn",
       "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
@@ -4253,6 +4301,28 @@
     },
     {
       "album": {
+        "name": "Roofer",
+        "url": "https://open.spotify.com/album/4kkMUfBIoqTF993MOHYqzJ"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Pietro Lombardi",
+          "url": "https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165931,
+      "name": "Roofer",
+      "url": "https://open.spotify.com/track/6ls3uoDPxyDhCZzMGd9yTX"
+    },
+    {
+      "album": {
         "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
         "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
       },
@@ -4702,7 +4772,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 205880,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
@@ -4724,7 +4794,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 153666,
       "name": "STEILGEHEN",
       "url": "https://open.spotify.com/track/4O50LCHyyqzKSSTP1dQ4Ad"

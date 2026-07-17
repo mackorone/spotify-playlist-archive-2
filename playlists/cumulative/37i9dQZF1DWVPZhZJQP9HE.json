@@ -1165,6 +1165,36 @@
     },
     {
       "album": {
+        "name": "Amukku Gumukku",
+        "url": "https://open.spotify.com/album/1mqfD97pY0wzmdnaXBSuJ5"
+      },
+      "artists": [
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        },
+        {
+          "name": "sachu Madrasi",
+          "url": "https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN"
+        },
+        {
+          "name": "Vishnupriya Ravi",
+          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
+        },
+        {
+          "name": "Gana Gowtham",
+          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180589,
+      "name": "Amukku Gumukku",
+      "url": "https://open.spotify.com/track/6XzsxdnYoxp61HqrOlQypo"
+    },
+    {
+      "album": {
         "name": "Ananda Yazhinee",
         "url": "https://open.spotify.com/album/7zobUQmvGovVvKPi18K75l"
       },

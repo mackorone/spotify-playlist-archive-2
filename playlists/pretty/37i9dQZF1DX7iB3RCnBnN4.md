@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with over a Billion streams on Spotify\. Cover: P!nk
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,010 likes - 1,329 songs - 3 day 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,279 likes - 1,329 songs - 3 day 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

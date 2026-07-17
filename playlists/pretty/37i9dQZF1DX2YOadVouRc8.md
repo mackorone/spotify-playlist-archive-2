@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,673 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,697 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Give It Away](https://open.spotify.com/track/7iRTgiAcZ351tKhIrNYwqz) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [For Me, This Time](https://open.spotify.com/album/2JF5YNoayMQ40NLPCtaOi9) | 2:02 |
 | 80 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
 
-Snapshot ID: `AAAAACw9xGctkItlwC3XLhQgn3dBVodl`
+Snapshot ID: `AAAAAKJl/VsrO4yj2Uqgip67zjhwhPim`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,549 likes - 105 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,580 likes - 105 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 104 | [Distant Current](https://open.spotify.com/track/1ZjcdgEK0kCB4BgLNKmLYB) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [Distant Current](https://open.spotify.com/album/1TrpjZOk7NfjA2kdgJ9LoF) | 2:45 |
 | 105 | [Deep Within](https://open.spotify.com/track/2F4YaCepmEZaCi6Ogh06yH) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Deep Within](https://open.spotify.com/album/4SQ5pHgDL1SGOT4DZB4HrZ) | 2:39 |
 
-Snapshot ID: `AAAAANdFXKocB8iZnKw1dBzSLno9dn/d`
+Snapshot ID: `AAAAAK0p+V/ULZcnaBt1ep5vddwX3xAQ`

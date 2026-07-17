@@ -4,12 +4,13 @@
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle, Bảo Anh
 
-58 songs - 3 hr 39 min
+60 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [' CHẲNG CẦN BÌNH YÊN \|](https://open.spotify.com/track/2KadxdRVKWJy3ahMnlClhq) | [Hà An Huy](https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn) | [' CHẲNG CẦN BÌNH YÊN \|](https://open.spotify.com/album/1xQoXghXMKGK3HadxpQuuA) | 3:43 | 2026-05-14 |  |
 | [1% \(feat\. PN\)](https://open.spotify.com/track/5bU2BptxMCGcO5xFQxErBy) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [1% \(feat\. PN\)](https://open.spotify.com/album/101scFLXstcirHZmPVjgXF) | 4:20 | 2026-04-23 | 2026-06-11 |
+| [A Revolutionary!](https://open.spotify.com/track/1ye2QToJ7UzL74NBJf5MnX) | [Juliet By Night](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [A Revolutionary!](https://open.spotify.com/album/762s1QrK9agznkBaixtpj7) | 4:25 | 2026-07-16 |  |
 | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/track/1tXFYeTfktEY8AXhAHW7dh) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT) | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/album/7MJHLIDJJz2iWwOgWD5iaa) | 3:45 | 2026-05-31 |  |
 | [Biệt Khúc](https://open.spotify.com/track/4Sb2tLjJY1OfzME7SmnvN7) | [Tùng](https://open.spotify.com/artist/1TdtsDVivxc6PpkQdNuXdR) | [Biệt Khúc](https://open.spotify.com/album/22NxsRYy0rG5epgNOyssz8) | 5:40 | 2026-06-10 | 2026-06-25 |
 | [Buông](https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [Buông](https://open.spotify.com/album/6ub8yuzsgJbYRdTd0ZgmLp) | 3:25 | 2026-04-23 |  |
@@ -21,6 +22,7 @@
 | [Chấp Nhận](https://open.spotify.com/track/64kXwf3h9uFwF14SRag4oH) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf) | [Chấp Nhận](https://open.spotify.com/album/6Ef6K8lIZASM9lcvHIjltx) | 3:24 | 2026-05-14 | 2026-06-20 |
 | [Chẳng Cần Một Ai Đó \(feat\. Alexis Cao\)](https://open.spotify.com/track/5fu5dgXFoZIDik0tEnUT2Y) | [Nhuộm Collective](https://open.spotify.com/artist/7Hlxa6l1BeLsdV1h2poz5L), [Alexis Cao](https://open.spotify.com/artist/3UE1YNzwGIdXvL8AnJXWRx) | [Chẳng Cần Một Ai Đó \(feat\. Alexis Cao\)](https://open.spotify.com/album/5ZcFrWJ0tuh8V7rpOQmvfe) | 3:33 | 2026-07-13 |  |
 | [Come My Way](https://open.spotify.com/track/7326q9PcJDcKuAFcrSkN0t) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Come My Way](https://open.spotify.com/album/36ocXZA5Xnny4cdKULKoFF) | 3:12 | 2026-05-31 |  |
+| [Come My Way \(softer version\)](https://open.spotify.com/track/331pu1rdL2Yn7Z3F1RNXBR) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Come My Way \(softer version\)](https://open.spotify.com/album/43alGrjxDlHq4hrqkiS1mJ) | 3:26 | 2026-07-16 |  |
 | [crazy, stupid, love](https://open.spotify.com/track/5m1lauDigCdAj2bz3LunfZ) | [UPRIZE](https://open.spotify.com/artist/0fve2D18BgaMHWQSBiqSzN) | [THĂNG](https://open.spotify.com/album/4AGOEldqbL287qhpLt64Rt) | 2:53 | 2026-07-05 |  |
 | [Có Công Mài "Sắc" \(Afrobeats \) \[DJ Kim Chol Remix\]](https://open.spotify.com/track/24NU99R1NGEVlVIOPO0Ahg) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC), [DJ Kim Chol](https://open.spotify.com/artist/4DInqZIinmwQG2znFviwX2) | [Có Công Mài "Sắc" \(Afrobeats \) \[DJ Kim Chol Remix\]](https://open.spotify.com/album/2nHpXkJOlyujpytWcasT5U) | 2:52 | 2026-06-19 | 2026-07-06 |
 | [có lẽ](https://open.spotify.com/track/3Bq55ekTrrHpuzd3Fz2O2a) | [SWAN](https://open.spotify.com/artist/0kRs5H8JQHkHMQwBg7BgPv) | [có lẽ](https://open.spotify.com/album/7DEETa82QbBi3VyFP3W8pV) | 3:28 | 2026-04-23 |  |

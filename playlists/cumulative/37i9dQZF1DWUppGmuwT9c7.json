@@ -573,6 +573,36 @@
     },
     {
       "album": {
+        "name": "Cheerio Summer Mix",
+        "url": "https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl"
+      },
+      "artists": [
+        {
+          "name": "DJ Larita",
+          "url": "https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121512,
+      "name": "Cheerio Summer Mix",
+      "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
+    },
+    {
+      "album": {
         "name": "Ciao, Doei, Adios",
         "url": "https://open.spotify.com/album/7KeBYlkgXDPb3jF0HXDRgK"
       },
@@ -628,7 +658,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 131124,
       "name": "Dans Met Jou",
       "url": "https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2"
@@ -894,7 +924,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 167464,
       "name": "Deze Nacht",
       "url": "https://open.spotify.com/track/1xFfN67OYCNDS3yN70IKVd"
@@ -948,7 +978,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 155156,
       "name": "Diner Voor Twee",
       "url": "https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8"
@@ -1808,7 +1838,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 155346,
       "name": "Is Het Een Droom",
       "url": "https://open.spotify.com/track/6ui1EjGuf8QQPi6AUhI28e"
@@ -1852,6 +1882,36 @@
       "duration_ms": 207082,
       "name": "Je Gaat Maar \u00c9\u00e9n Keer Dood",
       "url": "https://open.spotify.com/track/0zAvWNPP6MAc9HpuMBimFN"
+    },
+    {
+      "album": {
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/2MxrSpr0y98d8Yo1W696SR"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149849,
+      "name": "Jij Bent Alles",
+      "url": "https://open.spotify.com/track/1zZjvCZIq6ed9BDyRcuIc6"
     },
     {
       "album": {
@@ -2587,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Niet Naar Huis",
+        "url": "https://open.spotify.com/album/5dnGno5uQ18Y1StP7oCMWT"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161492,
+      "name": "Niet Naar Huis",
+      "url": "https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC"
+    },
+    {
+      "album": {
         "name": "Nobody Else (2.0)",
         "url": "https://open.spotify.com/album/0St10cKnpnzWxutKJ5FQTW"
       },
@@ -3072,6 +3150,24 @@
       "duration_ms": 187357,
       "name": "Terug In De Tijd",
       "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
+    },
+    {
+      "album": {
+        "name": "Tinto de Verano",
+        "url": "https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "Tinto de Verano",
+      "url": "https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP"
     },
     {
       "album": {

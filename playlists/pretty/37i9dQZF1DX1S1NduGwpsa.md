@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: aron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,394 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,443 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 33 | [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 |
 | 34 | [Le Héron](https://open.spotify.com/track/4gD7oJ0mbeRxQCct5n0CJV) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [Charlotte Isenmann](https://open.spotify.com/artist/3N4z65qo7FnvBnWpLXu9kD) | [Le Héron](https://open.spotify.com/album/0XGsmw5RObROFHzqfPC3G7) | 5:40 |
 | 35 | [Sweetest Season](https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Sweetest Season](https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U) | 2:50 |
-| 36 | [Finders](https://open.spotify.com/track/26S1rmY8cE3P6ZaWCNuMzg) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Finders](https://open.spotify.com/album/4iVYjatLRsW8gxtlsOlAjg) | 3:49 |
+| 36 | [Finders](https://open.spotify.com/track/26S1rmY8cE3P6ZaWCNuMzg) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Wildchild](https://open.spotify.com/artist/0tHPntFCJ48YjmDZ8utweA) | [Finders](https://open.spotify.com/album/4iVYjatLRsW8gxtlsOlAjg) | 3:49 |
 | 37 | [A Kiss A Kill](https://open.spotify.com/track/2FoduzDx5BvoN9MMwA9CYO) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [MOVIE](https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR) | 4:47 |
 | 38 | [Dulce](https://open.spotify.com/track/7jREIuWmgV1bPOvxeRTADF) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Funny How?](https://open.spotify.com/album/7eGFF9yDqqXpqABRdhdtuL) | 5:01 |
 | 39 | [Tu vois c'est ça qu'il faut !](https://open.spotify.com/track/3279uWuJWULXfH5dOrMYV5) | [Michel Portal](https://open.spotify.com/artist/3zz4BITBs6xvnzw2vtQi2D) | [Tu vois c'est ça qu'il faut !](https://open.spotify.com/album/6vkJSsVbd48adlxDpkA87S) | 5:45 |

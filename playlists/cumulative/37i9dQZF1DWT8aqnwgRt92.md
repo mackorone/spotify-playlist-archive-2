@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,743 songs - 7 day 1 hr 8 min
+2,746 songs - 7 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1475,6 +1475,7 @@
 | [We'll be one！](https://open.spotify.com/track/7HiMzp7rGn8Xk65uFu0m14) | [ウルトラマンゼット\(CV：畠中祐\)](https://open.spotify.com/artist/6Ds0K5oeaba9yHeb2njbDR), [VOYAGER](https://open.spotify.com/artist/2XoTco4srcftDxkskvcb0L) | [We'll be one！](https://open.spotify.com/album/23OYjqPTykTLRDtyCc8jrS) | 3:43 | 2026-01-27 | 2026-02-12 |
 | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4) | [Ishikawa Yui](https://open.spotify.com/artist/0YknJYTpMVMYveiGuchPlQ) | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/album/6FKSN2j91q6gLEAtnMbEvb) | 5:44 | 2023-08-08 | 2023-09-20 |
 | [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/track/1470Upad2tvXPSsP1mEpFL) | [石川由依](https://open.spotify.com/artist/3Fbj6asAxpJaUNc725YhHt) | [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/album/3RGxbihsJaa9V2dJywra8g) | 5:44 | 2023-08-08 | 2023-08-10 |
+| [Weiter! Weiter!](https://open.spotify.com/track/46mH806DyDtAMkLBB0xlvV) | [ターニャ・デグレチャフ\(CV:悠木碧\)](https://open.spotify.com/artist/6swJSqM6NMF0u3kslRDRwu) | [Weiter! Weiter!](https://open.spotify.com/album/3qEoyalfiPJXAHgvPUlmG4) | 3:52 | 2026-07-16 |  |
 | [WELCOME TO PANDEMONIUM](https://open.spotify.com/track/01Q3nEVbr4cwH2O8BVJlH2) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [WELCOME TO PANDEMONIUM](https://open.spotify.com/album/0LJgQuPcLD2um4w0EChr8J) | 4:14 | 2024-12-10 | 2024-12-25 |
 | [Welcome to RAINBOW WONDERLAND!](https://open.spotify.com/track/0G9J0B4paCSANpUFpXKlIN) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:53 | 2022-09-27 | 2022-10-28 |
 | [Welcome to あざとさワールド](https://open.spotify.com/track/3bNhb2b79FYd9G2jHH4a4D) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Welcome to あざとさワールド](https://open.spotify.com/album/1zYMxrKnfQYSfxPVITCLlu) | 3:39 | 2026-07-14 |  |
@@ -2227,7 +2228,7 @@
 | [光射す扉](https://open.spotify.com/track/1elUmb7119R67fyeOtlzVG) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [光射す扉](https://open.spotify.com/album/6wfuaQ00yob6OsYSle2QIY) | 3:52 | 2025-07-10 | 2025-09-24 |
 | [克己心](https://open.spotify.com/track/6yFMWYm58u166jylc5T1vZ) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [克己心](https://open.spotify.com/album/0Wlqk9zfvANGyN3ipKKe9F) | 3:06 | 2023-09-26 | 2023-09-28 |
 | [八芒星ダンス](https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 3:49 | 2025-04-22 | 2025-06-04 |
-| [六ノ輪](https://open.spotify.com/track/0RDHzL3m6eK2wSuCou4sAW) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [六ノ輪](https://open.spotify.com/album/7wX1l5Bu8H2sCbkBqy7XPe) | 3:27 | 2026-06-23 |  |
+| [六ノ輪](https://open.spotify.com/track/0RDHzL3m6eK2wSuCou4sAW) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [六ノ輪](https://open.spotify.com/album/7wX1l5Bu8H2sCbkBqy7XPe) | 3:27 | 2026-06-23 | 2026-07-17 |
 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 | 2024-10-18 |
 | [共感されなくてもいいじゃない](https://open.spotify.com/track/1WiNgf25GMxurtnGFYRe6F) | [高橋李依](https://open.spotify.com/artist/12iQR4yHrznblXyarjpvoh) | [共感されなくてもいいじゃない](https://open.spotify.com/album/25Ff7KFRmdA2WmvfErCfpx) | 3:53 | 2022-10-06 | 2022-10-08 |
 | [共鳴レボリューション](https://open.spotify.com/track/0F9uoNWUaiRZgQmaryWzZu) | [ASH](https://open.spotify.com/artist/7ipJyP4vRUwlGvYNkjpsja), [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [共鳴レボリューション](https://open.spotify.com/album/4riuLXJUtzwg6VuoAuECs5) | 3:01 | 2025-10-14 | 2025-11-12 |
@@ -2528,6 +2529,7 @@
 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-07 | 2024-01-10 |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-19 |
 | [猫じゃらし](https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [猫じゃらし](https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr) | 2:47 | 2026-07-06 |  |
+| [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 | 2026-07-16 |  |
 | [理想郷](https://open.spotify.com/track/28WX1HL1rW2KI4x4bdWK5x) | [ICEx](https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP) | [理想郷](https://open.spotify.com/album/0QbD0H0v7mpOFUmCFyYr7l) | 3:14 | 2025-01-21 | 2025-01-29 |
 | [甘き羽音に乱れて…](https://open.spotify.com/track/7tDy0TVYjR38qtmPaZz8Xe) | [リスト\(CV.石毛翔弥\)](https://open.spotify.com/artist/3X5ll0vEFruGrMfTNLMHs4) | [甘き羽音に乱れて…](https://open.spotify.com/album/6uIvAgI0V4P0zHd6XEBlwO) | 4:03 | 2025-04-29 | 2025-05-07 |
 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 | 2025-10-14 | 2026-01-15 |
@@ -2581,7 +2583,7 @@
 | [純情であれ。](https://open.spotify.com/track/3f3kwhCglNRyGBBQMcvn2P) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [純情であれ。](https://open.spotify.com/album/1FWA9ZCA2jLQGw5mUtoyMf) | 3:44 | 2025-07-04 | 2025-07-16 |
 | [紙ひこうき](https://open.spotify.com/track/0BHWsaVofTldxGF9PvxCCe) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0), [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [アニメ『カイリューとゆうびんやさん』主題歌「紙ひこうき」](https://open.spotify.com/album/1RnA1YQvgwIlo2tG1xrzmf) | 2:14 | 2025-02-27 | 2025-04-09 |
 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2023-04-15 | 2023-07-12 |
-| [素敵なかんちがい](https://open.spotify.com/track/76MaKJXCYoZUFVYFAtk2Ap) | [くらわん](https://open.spotify.com/artist/0T4sbo93IGnSCQvcCvTcWq) | [素敵なかんちがい](https://open.spotify.com/album/5z4u882wmlnF9C1uP82vKO) | 4:27 | 2026-07-08 |  |
+| [素敵なかんちがい](https://open.spotify.com/track/76MaKJXCYoZUFVYFAtk2Ap) | [くらわん](https://open.spotify.com/artist/0T4sbo93IGnSCQvcCvTcWq) | [素敵なかんちがい](https://open.spotify.com/album/5z4u882wmlnF9C1uP82vKO) | 4:27 | 2026-07-08 | 2026-07-17 |
 | [紫苑の花束を](https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [紫苑の花束を](https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6) | 4:05 | 2024-06-03 | 2024-07-19 |
 | [終わらない夜の守り方](https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [終わらない夜の守り方](https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs) | 4:04 | 2026-07-02 |  |
 | [終宵](https://open.spotify.com/track/77ve5M5MUltW9VvydkxvT7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [終宵](https://open.spotify.com/album/13She1nPhAa5K5CdvOPOsa) | 3:49 | 2026-07-02 |  |
@@ -2737,6 +2739,7 @@
 | [飴色水彩](https://open.spotify.com/track/7GMLgxuqSSNLtiGRob7jL9) | [MiMi](https://open.spotify.com/artist/1b8RP6qAbUPG4QXb2nYtpa) | [飴色水彩](https://open.spotify.com/album/1bZ9Jup7PBVVLxs82j1hWl) | 3:14 | 2024-10-03 | 2024-12-11 |
 | [駆け引きはポーカーフェイス](https://open.spotify.com/track/2rndtIOj7hxQ5Mhv2s5CqP) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [駆け引きはポーカーフェイス](https://open.spotify.com/album/1yy1XesRCfw0BGJRM4Gky6) | 3:55 | 2022-07-07 | 2022-07-29 |
 | [驚きの子](https://open.spotify.com/track/2mkzxXblhM7s5EFvVnNP1H) | [入野自由](https://open.spotify.com/artist/5CPe7cGY1bB20e6Tbv4XVQ) | [驚きの子](https://open.spotify.com/album/1ltqwC4lIkXyXcDondizAV) | 4:55 | 2026-04-07 | 2026-04-22 |
+| [鬼事](https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [鬼事](https://open.spotify.com/album/7IxbIYQOOQKgoQZzpFTArJ) | 3:00 | 2026-07-16 |  |
 | [鬼灯](https://open.spotify.com/track/2WnkzRYMUffBmKwmzJtikD) | [CROWN HEAD](https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK) | [鬼灯](https://open.spotify.com/album/5grFup37mrOSeuFVidZdSm) | 3:06 | 2025-07-04 | 2025-07-30 |
 | [鬼灯](https://open.spotify.com/track/3uOW9tuzRMA3iNmElOqt2j) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [鬼灯](https://open.spotify.com/album/2nPOKD50fgBljXh5ar7jzb) | 3:09 | 2024-01-18 | 2024-04-11 |
 | [魂のために](https://open.spotify.com/track/1fyhzhSIRygpZnoi2NCN43) | [ベートーヴェン\(CV.内田雄馬\)](https://open.spotify.com/artist/2oiV3XUfLkBW3EFAlADJGC) | [魂のために](https://open.spotify.com/album/7BY98tM26aVOSKnh2xWnZh) | 4:01 | 2025-04-05 | 2025-04-16 |

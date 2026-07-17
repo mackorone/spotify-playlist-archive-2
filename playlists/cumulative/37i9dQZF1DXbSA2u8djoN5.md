@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: NANE
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Cojo, Delia
 
-300 songs - 14 hr 40 min
+301 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-01 | 2024-11-01 |
 | [Contra timp](https://open.spotify.com/track/0wHZ9isU3z52IdADk0oE1u) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Cristi Minculescu](https://open.spotify.com/artist/5JJ9wazR5aGc0MHAjiCTF0), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Contra timp](https://open.spotify.com/album/4rOIsUkbQ8c6AnAZyuCwpb) | 3:16 | 2025-09-11 | 2025-12-05 |
 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-11-28 | 2026-06-12 |
-| [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 | 2025-04-24 |  |
+| [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 | 2025-04-24 | 2026-07-17 |
 | [Craft](https://open.spotify.com/track/0M3cDeSQ4IsjC8fJHpsUop) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Butch](https://open.spotify.com/artist/2mrbr3l5ErDgGpQfukAtZr) | [Craft](https://open.spotify.com/album/3B8Fm9cvoc2ds8wj5Z2ITp) | 2:52 | 2025-06-19 | 2025-07-19 |
 | [CUM ADUNI](https://open.spotify.com/track/0D6UMM7ZGaCahAT36P0BEM) | [Cazacov](https://open.spotify.com/artist/4NZ6mc6jykZVesq2izEoE1), [Dodut](https://open.spotify.com/artist/1rUHZkQph9E782V1DjlS0U) | [CUM ADUNI](https://open.spotify.com/album/5NUnaek88CpJie3xlgH5lV) | 2:30 | 2025-05-01 | 2025-05-16 |
 | [Cum mă cheamă?](https://open.spotify.com/track/1yGhOBi6bFHqu56NuTj8eo) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Cum mă cheamă?](https://open.spotify.com/album/1qDeoXEXvyZyTxT15MGolf) | 3:20 | 2025-02-27 | 2025-03-15 |
@@ -138,7 +138,7 @@
 | [Haz de necaz](https://open.spotify.com/track/134JNZxHvJgR6cngu5s0Z5) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Ombladon](https://open.spotify.com/artist/6ojVBJkxhgSj5zgXsM3hnF), [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Haz de necaz](https://open.spotify.com/album/1fsbOLT7Ae6G8rpnwOH6Fi) | 3:23 | 2025-01-16 | 2025-06-06 |
 | [Hustler](https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr) | 2:41 | 2025-10-16 |  |
 | [I'm Geekin](https://open.spotify.com/track/3pOuEf4IwX5o2vK3ZtBI7p) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [waveman](https://open.spotify.com/artist/5niAdguvCF1zoNIWpifvXW) | [I'm Geekin](https://open.spotify.com/album/0kERiZuBvr60zc7NkbfU7W) | 1:41 | 2024-06-27 | 2024-07-27 |
-| [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 | 2025-02-13 |  |
+| [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 | 2025-02-13 | 2026-07-17 |
 | [Inca o sansa](https://open.spotify.com/track/2qJ4IpSiX2EOMKwAuMvngO) | [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Inca o sansa](https://open.spotify.com/album/4JDrUnZioLeNfpUYnnozwZ) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Incurabil](https://open.spotify.com/track/2Z3sy4ZcM96jlHBbFyYyda) | [Flou Rege](https://open.spotify.com/artist/3jSfv7OmnBYAboAXvDvA7E) | [Incurabil](https://open.spotify.com/album/4cT3dPUWQS3y50bhKKsCiQ) | 2:49 | 2024-06-27 | 2024-07-05 |
 | [Indiferent](https://open.spotify.com/track/0eYFbFU7DnPc3KZBlGwKRB) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Indiferent](https://open.spotify.com/album/3XKeSGuM4gaeGy0quo9kR7) | 2:40 | 2025-08-28 | 2025-10-17 |
@@ -184,6 +184,7 @@
 | [Neinlocuibila](https://open.spotify.com/track/5JouYzY9AdUQUHya0CGY0H) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [Neinlocuibila](https://open.spotify.com/album/1ZtB8vR0jQ7PRSvTMfaV3o) | 2:36 | 2025-07-24 | 2025-10-17 |
 | [Nimic Nou](https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Nimic Nou](https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R) | 2:35 | 2024-11-21 | 2025-02-14 |
 | [Ninja \- From "Transilvanian Ninja"](https://open.spotify.com/track/4P0aDGyPXqMKwgWojPypFu) | [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Ninja \(From "Transilvanian Ninja"\)](https://open.spotify.com/album/5PHg8MUoEgBaweoW6mLWI4) | 3:14 | 2024-10-31 | 2024-11-27 |
+| [Nu e despre tine](https://open.spotify.com/track/1RlOSRGrY5nHyZgMM5YHGm) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [Erupt \(Deluxe\)](https://open.spotify.com/album/7b83vDBC6FbgCaQDcVlFEr) | 3:51 | 2026-07-16 |  |
 | [Nu mai dorm câinii de pază](https://open.spotify.com/track/2GbMyHmTG9AcNxIJF1Wwz3) | [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Nu mai dorm câinii de pază](https://open.spotify.com/album/60oft1O5AYVZPpirFU5vID) | 3:23 | 2025-07-04 | 2025-09-12 |
 | [Numele ei](https://open.spotify.com/track/6Cgp2oYtVrRaU90RA16KZG) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Numele ei](https://open.spotify.com/album/6r3gIbK7Wl1QklGF1L3qku) | 2:30 | 2025-07-04 | 2025-08-22 |
 | [O DOAMNE](https://open.spotify.com/track/2Y4K1TIsy2lFlVWksDVpfZ) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [TULBURE](https://open.spotify.com/album/6kKwg0KIa7HDv9MXl3eBSt) | 2:21 | 2026-04-30 | 2026-05-15 |

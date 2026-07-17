@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-471 songs - 1 day 20 hr 19 min
+472 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [El Comienzo De Todo Lo Demas](https://open.spotify.com/track/2SmY4OPjJ6W7LGaULGAjz0) | [Ernesto Ferreyra](https://open.spotify.com/artist/7fMr2Jp0r6RxfJhp46kW9C) | [El Paraiso De Las Tortugas](https://open.spotify.com/album/7yySS9IBXvrgnHEPKfs5KB) | 6:33 | 2025-04-14 | 2026-01-28 |
 | [El Escondite](https://open.spotify.com/track/3GRk3gmqrfU0erMD6VHUwE) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Blanquita \(Original Soundtrack\)](https://open.spotify.com/album/2SbndURUZ0k22dK3jzoyYJ) | 6:31 | 2023-08-25 | 2024-02-15 |
 | [Electric Murder](https://open.spotify.com/track/6ym2woXO3MX9JUUqv7jAdU) | [Marcy Luarks](https://open.spotify.com/artist/0HJ7I0cnoS6zMHq7Dzp0ns) | [Electric Murder](https://open.spotify.com/album/1JZoVFWs4W1Uv2jMGv5SWQ) | 3:44 | 2026-01-27 | 2026-07-16 |
+| [Electro Rythmes I](https://open.spotify.com/track/55OsxkpUpphYLPpBEoTQFR) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Electro Rythmes I](https://open.spotify.com/album/78qhNQQ0PIBAfHqRMfAabW) | 2:34 | 2026-07-16 |  |
 | [Eos \- Mixed](https://open.spotify.com/track/5SrlmQ3ZBLJKcr0OVlRt5q) | [Voices from The Lake](https://open.spotify.com/artist/5SbbRrhr7qhyu1jv75AzOh) | [II](https://open.spotify.com/album/3fW5Ir9IAsxLihvfEGhAue) | 4:21 | 2026-01-27 | 2026-07-16 |
 | [Everlasting \- Dorisburg Remix](https://open.spotify.com/track/4OKxbmq1GUqeogbPvG52Qo) | [Joel Alter](https://open.spotify.com/artist/0Mcdho0PB8UHaoC1f2lg5b), [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Heart \(Remixes\)](https://open.spotify.com/album/5zRYEBvt88XErrpsjC6XX8) | 8:36 | 2026-07-15 |  |
 | [Everything Went Well](https://open.spotify.com/track/2LI4wNEFa5kgOJCEtDrBpE) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Remember](https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr) | 4:59 | 2023-08-25 | 2024-02-15 |

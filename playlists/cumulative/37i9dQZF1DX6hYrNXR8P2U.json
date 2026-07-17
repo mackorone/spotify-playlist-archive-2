@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Feli Colina en portada. ",
+  "description": "Mar Marzo en portada. ",
   "name": "alt.ar",
   "tracks": [
     {
@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/739x9cbZnQlJWsXPWypFnp"
+      },
+      "artists": [
+        {
+          "name": "MAG",
+          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145329,
+      "name": "cero es tres",
+      "url": "https://open.spotify.com/track/3A6DG6j1o3yM1a9VBBWiX1"
+    },
+    {
+      "album": {
         "name": "CHICOS DEL NORTE",
         "url": "https://open.spotify.com/album/5A11xkG6IA0aOnGZHw7K3F"
       },
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 228873,
       "name": "Club de Nostalgia",
       "url": "https://open.spotify.com/track/5TgK1vc1ZDY1D5LW4bLhiO"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 183528,
       "name": "diferente",
       "url": "https://open.spotify.com/track/4MKLEMi0SRHLKxJE7SlMyc"
@@ -3418,6 +3436,24 @@
       "duration_ms": 163258,
       "name": "Dossier",
       "url": "https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF"
+    },
+    {
+      "album": {
+        "name": "DOUBLE C\u00a2'$",
+        "url": "https://open.spotify.com/album/2WKa1jOjc9TMgtknP3aSpE"
+      },
+      "artists": [
+        {
+          "name": "roro",
+          "url": "https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112520,
+      "name": "DOUBLE C\u00a2'$",
+      "url": "https://open.spotify.com/track/1qwCzUJ5XB30oA6ehn7o8z"
     },
     {
       "album": {
@@ -6776,7 +6812,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 120000,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/0tjhtJ2W8x4YeOkPEvrU0N"
@@ -7236,7 +7272,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 150927,
       "name": "miradas",
       "url": "https://open.spotify.com/track/6ZtWvkZlK3upvmuGVddKiL"
@@ -9313,6 +9349,32 @@
     },
     {
       "album": {
+        "name": "Pinky",
+        "url": "https://open.spotify.com/album/6b8kR1f9PR7r9gGfdgIFT4"
+      },
+      "artists": [
+        {
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        },
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171846,
+      "name": "Pinky",
+      "url": "https://open.spotify.com/track/3rLeIIU6jILu8NmL0fmaRK"
+    },
+    {
+      "album": {
         "name": "Piola",
         "url": "https://open.spotify.com/album/4WnVzvPrkXDRqPrJIjJ9pz"
       },
@@ -11200,7 +11262,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-17",
       "duration_ms": 203000,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7cCH0NftLAPzwLwKHMSyks"
@@ -11240,6 +11302,36 @@
       "duration_ms": 222579,
       "name": "Take On Me (live)",
       "url": "https://open.spotify.com/track/72yYLxu4IDafAuWC0eF7yC"
+    },
+    {
+      "album": {
+        "name": "TAL VEZ NO HAGA MAL",
+        "url": "https://open.spotify.com/album/3TPGGiHWYcB1VBa1BbEmGX"
+      },
+      "artists": [
+        {
+          "name": "Turde",
+          "url": "https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU"
+        },
+        {
+          "name": "Ema",
+          "url": "https://open.spotify.com/artist/2VMrsKQA1BucJPWoyHf7UO"
+        },
+        {
+          "name": "Nat\u00e1n",
+          "url": "https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224402,
+      "name": "TAL VEZ NO HAGA MAL",
+      "url": "https://open.spotify.com/track/3SYpMeMfWyRB5SDLiVTRT8"
     },
     {
       "album": {
@@ -12430,6 +12522,28 @@
       "duration_ms": 176086,
       "name": "Una Copa",
       "url": "https://open.spotify.com/track/7pXGoroCMyPQVLQmVHCn1z"
+    },
+    {
+      "album": {
+        "name": "Una Ma\u00f1ana M\u00e1s",
+        "url": "https://open.spotify.com/album/2RipfeES7U9HDusL4hQS9D"
+      },
+      "artists": [
+        {
+          "name": "Mar Marzo",
+          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169670,
+      "name": "Una Ma\u00f1ana M\u00e1s",
+      "url": "https://open.spotify.com/track/4bE74uhUpgxxMQxnqEOO0j"
     },
     {
       "album": {

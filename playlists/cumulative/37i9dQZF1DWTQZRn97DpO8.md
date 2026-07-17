@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : BINO\*
+> 🍯🍯🍯<br/>Photo : Anaïs Cardot
 
-622 songs - 1 day 6 hr 41 min
+624 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Bécane](https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane](https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7) | 3:06 | 2023-09-28 | 2024-06-28 |
 | [C'est nous](https://open.spotify.com/track/7zrntDj5tanqHDx6esLwYN) | [Will River](https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9) | [C'est nous](https://open.spotify.com/album/0WSlch6aG5w0ha2TLk7aZP) | 3:39 | 2026-02-26 | 2026-05-01 |
 | [C'est Quoi L'Amour \(Bonus Track\)](https://open.spotify.com/track/4QtdyYeurYaa6cI2EgRAUh) | [PabloSantana](https://open.spotify.com/artist/0Dm69cwhC8KXo5950bqTth) | [C'est Quoi L'Amour](https://open.spotify.com/album/3Mw8mbS3mtLfmjBg0lGRPj) | 1:05 | 2023-12-28 | 2024-04-19 |
-| [c'estfini? \- version acoustique](https://open.spotify.com/track/0dGvGeZlb7bd4D7tQCQ0U0) | [Haz.r](https://open.spotify.com/artist/27v9yUSHN9y7rMbX92unra) | [c'estfini? \(version acoustique\)](https://open.spotify.com/album/2s4UAo3BDg53TA60lQpnIv) | 2:50 | 2026-04-02 |  |
+| [c'estfini? \- version acoustique](https://open.spotify.com/track/0dGvGeZlb7bd4D7tQCQ0U0) | [Haz.r](https://open.spotify.com/artist/27v9yUSHN9y7rMbX92unra) | [c'estfini? \(version acoustique\)](https://open.spotify.com/album/2s4UAo3BDg53TA60lQpnIv) | 2:50 | 2026-04-02 | 2026-07-17 |
 | [Can't Get Enough](https://open.spotify.com/track/6gVdjBI6b1HhS5attOduzo) | [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb) | [Can't Get Enough](https://open.spotify.com/album/6TOMex8N8up0tfWqanuoKF) | 3:00 | 2025-05-08 | 2025-05-30 |
 | [Ce que tu m'as fait](https://open.spotify.com/track/6Sc1mL3Bie74NTiu6JTyb3) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Ce que tu m'as fait](https://open.spotify.com/album/5V8dJ9scc4SX0nJ9o32kBW) | 3:03 | 2023-09-28 | 2024-04-12 |
 | [Ce que tu me fais](https://open.spotify.com/track/0ZiJe4BToIugXNAWqDyYBP) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Ce que tu me fais](https://open.spotify.com/album/2yL3QxmcGIdKXqZEGcj2tl) | 2:18 | 2025-11-13 | 2026-01-16 |
@@ -139,7 +139,7 @@
 | [des bisous](https://open.spotify.com/track/0J1rfWxfvcmoFQnN1Z0iFf) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [des bisous](https://open.spotify.com/album/2BNHfSQ6WMakKIf7mCYpuq) | 2:52 | 2023-10-26 | 2024-04-05 |
 | [Des heures \- Radio Edit](https://open.spotify.com/track/6K3goFMy3vC30cpd3RcEMX) | [Ana](https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH) | [Des heures \(Radio Edit\)](https://open.spotify.com/album/4gD7Df71w2rZ2jpNQmgVcM) | 3:19 | 2025-06-12 | 2025-08-08 |
 | [Destin](https://open.spotify.com/track/1jcnGCQ24yHD2hbv2tFZRT) | [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb) | [Destin](https://open.spotify.com/album/3l2Y2JKWeSZXXl7SyufVJr) | 3:04 | 2025-05-22 | 2025-06-13 |
-| [Destin, pt\. II](https://open.spotify.com/track/4cEVazPgBYvuB4SI8V7FLX) | [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb) | [Destin, pt\. II](https://open.spotify.com/album/4NtYMlCCGFfPsukQLjHBz7) | 2:53 | 2026-06-18 |  |
+| [Destin, pt\. II](https://open.spotify.com/track/4cEVazPgBYvuB4SI8V7FLX) | [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb) | [Destin, pt\. II](https://open.spotify.com/album/4NtYMlCCGFfPsukQLjHBz7) | 2:53 | 2026-06-18 | 2026-07-17 |
 | [dettes & doutes](https://open.spotify.com/track/1bm4RjFSsHIQ4z8WxFrIFF) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [dettes & doutes](https://open.spotify.com/album/4EzjfpAy0krq50I8HZOH9g) | 2:54 | 2024-04-25 | 2024-08-02 |
 | [DIAMANTS](https://open.spotify.com/track/0LakUthkyk4vEB4IIxBX8n) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [CHRYSALIDE \(Phase II\)](https://open.spotify.com/album/3vroDa8eEutlVsQz2aYgz5) | 2:28 | 2025-03-20 | 2025-05-09 |
 | [Dimanche Soir](https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Dimanche Soir](https://open.spotify.com/album/4lSVxSUbj5WchWl67HBwqX) | 3:09 | 2023-10-26 | 2024-02-23 |
@@ -444,6 +444,7 @@
 | [Peacetrack](https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a), [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan) | [Peacetrack](https://open.spotify.com/album/0TMRiVloNPywwX3CznkzQe) | 3:12 | 2026-02-05 | 2026-05-29 |
 | [Peine perdue](https://open.spotify.com/track/5BhMrUx8Vkm7C6eq7MRW5N) | [Bluuchyd](https://open.spotify.com/artist/6XNamyfKXLfPAxvkYhAAv1), [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Peine perdue](https://open.spotify.com/album/5dkcZ1YCd6sdiluFPM8nMJ) | 1:52 | 2025-10-16 | 2025-11-28 |
 | [penelope](https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [penelope](https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R) | 3:14 | 2024-11-14 | 2025-11-07 |
+| [penelope, pt.2](https://open.spotify.com/track/4ihUydbCx8R5KnjyPsQW68) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [spleen\. social club](https://open.spotify.com/album/2mFSVxcA7iG5GVdrhmN5PB) | 2:09 | 2026-07-16 |  |
 | [Pense à moi](https://open.spotify.com/track/3RDtAL1G5w8wP48BUfyP1h) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Pense à moi](https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE) | 3:24 | 2024-02-15 | 2024-05-10 |
 | [PERDU DANS LE VENT \(feat\. Ruthee\)](https://open.spotify.com/track/6FBhHgEGtj4dgT9R5tPQVX) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UN JOUR SANS FIN](https://open.spotify.com/album/5Cfxw7DK3OH1fq41ymIdjP) | 3:04 | 2025-01-09 | 2025-06-06 |
 | [Petit ange déchu](https://open.spotify.com/track/4KUzkxFnUmptE3TkZLttyU) | [D Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Tango Seule](https://open.spotify.com/album/2pfDQfXxVphqtryuJoGaVD) | 3:04 | 2026-01-01 | 2026-02-13 |
@@ -542,6 +543,7 @@
 | [simplement t'aimer](https://open.spotify.com/track/5bNiFgrPbyRvpJLLXgUZJT) | [Yaïr](https://open.spotify.com/artist/3ZbB3Lt9FyO45FXgYklwOA) | [simplement t'aimer](https://open.spotify.com/album/0zqoxnsWiegundutSlDb2t) | 3:26 | 2024-03-07 | 2024-05-03 |
 | [Sincère](https://open.spotify.com/track/00ZveyXTNQGFmtFepBbQoL) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sincère](https://open.spotify.com/album/6c4VJAEsXzjK6MsaXw7Srg) | 2:22 | 2025-10-23 | 2026-02-27 |
 | [Situationship \(STTS\)](https://open.spotify.com/track/6CbNlvB09OfLbb4Ln1WcTb) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV), [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Situationship \(STTS\)](https://open.spotify.com/album/4cYEfc0SbTMiHg51DKtt8f) | 3:12 | 2025-05-29 | 2025-07-04 |
+| [SmB006 \(le Dilemme\)](https://open.spotify.com/track/7q56mdXjLTLaxaGMsyPwp7) | [Eddy Ape](https://open.spotify.com/artist/7xQU55Z6PSJAgvL2LmwU6e) | [SmB006 \(le Dilemme\)](https://open.spotify.com/album/6n81YWRJIHC1NEJMctXPqX) | 3:16 | 2026-07-16 |  |
 | [soir d'hiver](https://open.spotify.com/track/3WKm0IoZr5mm4ISVgbG0Yz) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [soir d'hiver](https://open.spotify.com/album/7rpyGMaRq1dLYpWPtGc0pB) | 3:06 | 2026-01-22 | 2026-04-03 |
 | [Sois Pas Pressé](https://open.spotify.com/track/6MC1N4HYZJMKLj0H5deTgR) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 2:45 | 2023-11-16 | 2024-03-15 |
 | [Soleil](https://open.spotify.com/track/48A49w7J6TefeUX69H737j) | [Macy Lu](https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB) | [Soleil](https://open.spotify.com/album/63qlum7p2IvPSvfrzXNNMH) | 4:14 | 2023-09-28 | 2023-10-27 |

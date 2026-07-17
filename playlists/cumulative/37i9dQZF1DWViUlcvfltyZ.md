@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🚗 dal finestrino alla vostra sinistra sorridono NOVE e Brucherò nei pascoli
+> Rock, indie e punk dall'Italia 🚗 VAEVA sui vostri schermi
 
-2,013 songs - 4 day 16 hr 21 min
+2,020 songs - 4 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Chiusi fuori](https://open.spotify.com/track/2CRFeFs2yf5Tn7aGr0ciTK) | [I Melt](https://open.spotify.com/artist/68YsEdffZtrs58PasAPAdi) | [Chiusi fuori](https://open.spotify.com/album/1qBefCWwWx03AvJcO2cgPb) | 3:38 | 2025-09-11 | 2025-10-17 |
 | [Chiù](https://open.spotify.com/track/3kpIDFeMw515yS8B9nnife) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Chiù](https://open.spotify.com/album/1i4NUz5S1x2fZnopVRnSzV) | 3:31 | 2025-04-17 | 2025-05-30 |
 | [Church Superdelay](https://open.spotify.com/track/6Zj3IHsLkBvsO0QrTybErF) | [Death Mantra for Lazarus](https://open.spotify.com/artist/4psOy0yl6xHgFs06QfRNja) | [Church Superdelay](https://open.spotify.com/album/6c0eppNsqdEk7pKEuoatuQ) | 3:54 | 2023-04-13 | 2023-04-28 |
+| [Cianite](https://open.spotify.com/track/2TIH7mdB2p9U4rorlD5p7l) | [Malafauna](https://open.spotify.com/artist/73PNa5jWs5AbEFaMQK13DQ) | [Cianite](https://open.spotify.com/album/3hWqEAlEXCtjyQi5kC9OrC) | 5:02 | 2026-07-16 |  |
 | [Ciao Ciao](https://open.spotify.com/track/595YvyR69ehUV0ybUR41kn) | [Punkreas](https://open.spotify.com/artist/5dHiMa4plm9Svg4TWFAYW9) | [Ciao Ciao](https://open.spotify.com/album/0Ehdd23rKPTecM5tTJrssT) | 2:20 | 2024-04-18 | 2024-05-10 |
 | [Cicale](https://open.spotify.com/track/2YaQSA2uGjEeVUQtsjX9Ew) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Cicale](https://open.spotify.com/album/67fheAlF6keL8ZDYb5S2W6) | 3:26 | 2024-06-27 | 2024-11-08 |
 | [Cicatrici](https://open.spotify.com/track/5NI77Wqg3GKECjoUtgwFTD) | [Colonne](https://open.spotify.com/artist/1lyMJ6BKcP0BlzXX3fWVHT) | [Tutto a Posto](https://open.spotify.com/album/254VUHtJiTgUXs9ZAURgFS) | 3:04 | 2024-02-29 | 2024-04-19 |
@@ -441,6 +442,7 @@
 | [Dead Tired](https://open.spotify.com/track/2dz2XCdd1DVIJAV2KRgDB7) | [THE LYES](https://open.spotify.com/artist/4lO1XNUHz2s5rSi331Ow5U) | [Highly Corrosive](https://open.spotify.com/album/2QpAC9YsUGqIiKLxDU7frO) | 3:35 | 2025-03-27 | 2025-06-13 |
 | [December First](https://open.spotify.com/track/3qVsE1LimmEWecna7Q91A3) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [December First](https://open.spotify.com/album/1Is0ZnET3HAroC7ee6z3j8) | 3:17 | 2024-01-04 | 2024-01-26 |
 | [Defective Supersight](https://open.spotify.com/track/75edXIj9lMn82jTlzOwUf3) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Defective Supersight](https://open.spotify.com/album/1cbY5ev5FxZPHP3grGgMau) | 3:36 | 2022-10-06 | 2022-12-02 |
+| [DEJAVU](https://open.spotify.com/track/053gl71zIZtFkG4liMKSOH) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [DEJAVU](https://open.spotify.com/album/4OPD15l7VWt44Zd4VeTr45) | 2:20 | 2026-07-16 |  |
 | [del mio meglio](https://open.spotify.com/track/1d9kl56oVB63Vg6sjg4nnI) | [konoha 木ノ葉](https://open.spotify.com/artist/2OXUpM91Q0lSSYBCCSmVqH) | [komorebi](https://open.spotify.com/album/0y6wNr3C5Stu2bGmdufJnJ) | 2:27 | 2024-09-12 | 2024-10-25 |
 | [del tempo perso](https://open.spotify.com/track/2vzXreP8j2jfFJIzCBIJ5H) | [Jesse the Faccio](https://open.spotify.com/artist/0SbYhjfJTmuDE1ltoEUv67) | [dei giorni liberi, del tempo perso](https://open.spotify.com/album/4Hzl9E1G9HecX4GLxeoChA) | 2:33 | 2024-11-07 | 2025-03-12 |
 | [Delaware](https://open.spotify.com/track/4NTvQXxKbhIBKw0resK0Vm) | [acanto](https://open.spotify.com/artist/1bKGQPU1J5fRhsT1JnD9T2) | [Delaware](https://open.spotify.com/album/34T3saOL7hWa3p5SCbpT9c) | 3:16 | 2026-01-08 | 2026-03-27 |
@@ -499,6 +501,7 @@
 | [Don't Say No](https://open.spotify.com/track/70ru3uOSDhvnx0oaU2m1Xu) | [Elisabetta Spada](https://open.spotify.com/artist/1yONqliMpUySWWIvbLazCA) | [Home Again](https://open.spotify.com/album/7d5avFTJhVVT9lqirsazdS) | 3:34 | 2023-11-23 | 2023-12-20 |
 | [DON’T WANNA BE LIKE YOU](https://open.spotify.com/track/2alaFx9Ey2pzpVTyjA3JpZ) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [DON’T WANNA BE LIKE YOU](https://open.spotify.com/album/13jAC1ika8dICWcgtqOGwR) | 2:47 | 2024-04-25 | 2024-05-17 |
 | [DOPPIO](https://open.spotify.com/track/7dZkMoVRmOetuWyJ53P36X) | [Indianizer](https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp) | [DOPPIO](https://open.spotify.com/album/2BbSUp2c56uDVGxj385AXP) | 3:08 | 2025-04-03 | 2025-05-30 |
+| [Dove Andrei](https://open.spotify.com/track/1iWCEsBIQ3p1BzlRfLek5c) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Cambio Forma](https://open.spotify.com/album/5EerHfd83tsG1bzY91rGc0) | 2:40 | 2026-07-16 |  |
 | [Dove Sei](https://open.spotify.com/track/5xLjWNZ9mpqC2Q1pLxfDLo) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Dove Sei](https://open.spotify.com/album/0uar5GDAAGSqwv2xpJpuVq) | 2:57 | 2026-02-05 | 2026-03-20 |
 | [Dove sei?](https://open.spotify.com/track/2xrkFsPXjRicYa0NIBvqhW) | [TENUE](https://open.spotify.com/artist/7y8xVGZZK39g9eaPsjLJhk) | [Eccezione](https://open.spotify.com/album/4kf74n3kxNc4nwlkf3W2t6) | 3:20 | 2022-05-09 | 2022-07-01 |
 | [Dovresti ascoltare i Diaframma](https://open.spotify.com/track/7DKLs465Lf8JdvhNLbSbpL) | [RISORSE UMANE](https://open.spotify.com/artist/1JhJalt0DWUC0wmhjAjEP9) | [Dovresti ascoltare i Diaframma](https://open.spotify.com/album/7zL2SO0OuqOfSVK4RT0wvz) | 3:29 | 2025-02-06 | 2025-03-28 |
@@ -658,6 +661,8 @@
 | [FRESCO](https://open.spotify.com/track/5kL1lwfNNWzBehy9ZO1gl0) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [FRESCO](https://open.spotify.com/album/00x0Pc8ZmAKkrTMPQZ1n8E) | 3:04 | 2024-03-21 | 2024-05-10 |
 | [friends](https://open.spotify.com/track/3ZPdyHD6GfM34VU3lFBNyp) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [friends](https://open.spotify.com/album/6Qg8perSkIhcAJDxdWJGHC) | 3:19 | 2025-01-23 | 2025-03-28 |
 | [Friends With Benefits](https://open.spotify.com/track/0aDNgYqfl5V2u1xQOtfoQT) | [\(+39\) 375\-649\-94\-64 My Telephone Number](https://open.spotify.com/artist/00xSgiKwSnRaE9zYqlRCoH) | [ALBUM \#01](https://open.spotify.com/album/7AVUAIcXnIt3YrM8mE4ndd) | 2:38 | 2024-11-07 | 2025-01-24 |
+| [Frigo](https://open.spotify.com/track/0iG3F1sIeNbUdYBK2iQX48) | [Circus Punk](https://open.spotify.com/artist/2pvvQ4uYQ6xu6pJiIRN2QM) | [Frigo](https://open.spotify.com/album/1aVA4X1U2baIysoiC4dRCJ) | 1:34 | 2026-07-16 |  |
+| [Frigo 2000](https://open.spotify.com/track/0w5JbkqS4PC6F3A6D9fLBv) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT), [dada sutra](https://open.spotify.com/artist/63C9ac3xoEnqK3heo0GVQN) | [Frigo 2000](https://open.spotify.com/album/5c0W5NGrvmxwARUQvenfkf) | 3:33 | 2026-07-16 |  |
 | [From demo to disco](https://open.spotify.com/track/2MPP2vqeoAkCAWvSuCHhWO) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [From demo to disco](https://open.spotify.com/album/4hm9i68Y5oV09efxtNqTQD) | 4:34 | 2026-06-25 |  |
 | [Frutta Fresca](https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Frutta Fresca](https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc) | 3:26 | 2023-05-11 | 2023-07-04 |
 | [Fumo Pt.1](https://open.spotify.com/track/6qYsPbP4NAIyo3HPzNvVlB) | [Casino Royale](https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK) | [Fumo Pt.1](https://open.spotify.com/album/0FKMBomD9ZuTFJF2neGDra) | 2:52 | 2025-05-08 | 2025-06-20 |
@@ -718,6 +723,7 @@
 | [Goodbye Day](https://open.spotify.com/track/13quVqm79P4GypDiKrXVFP) | [A Toys Orchestra](https://open.spotify.com/artist/05Z2LDnNWKPgdeYe8kngbf) | [Goodbye Day](https://open.spotify.com/album/27xtAJqG7700XKiDK0c5FO) | 3:43 | 2024-03-07 | 2024-04-05 |
 | [Gor\-ai](https://open.spotify.com/track/7fWy2WdOanqACQKJp0iyp7) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93) | [Gor\-ai](https://open.spotify.com/album/7z7PWPCPcHieZTTpT3hQLk) | 5:45 | 2024-04-18 | 2024-05-17 |
 | [graffiti](https://open.spotify.com/track/7Bzdahi5I5usMMLSVvB9Qp) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [sotto i sanpietrini il mare](https://open.spotify.com/album/0kLqOzjKBNYxsTK04GDQfI) | 3:07 | 2024-04-04 | 2024-04-19 |
+| [Granato](https://open.spotify.com/track/10OWF3fWBgzf9ZeYCxpdU7) | [Vuoto Di Memoria](https://open.spotify.com/artist/2mOhcIOtq5BTck2LSRPdyo) | [Granato](https://open.spotify.com/album/7gf1tI2xP6KT8ZuCQgNya5) | 2:24 | 2026-07-16 |  |
 | [grandestate](https://open.spotify.com/track/4qEEDneFq486WCkhei2Zgb) | [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [grandestate](https://open.spotify.com/album/4thKxZa2cktp6WApfukpvp) | 2:17 | 2025-08-21 | 2025-10-17 |
 | [Grandine](https://open.spotify.com/track/20NKApoi7gQysJrOQRZuVx) | [Lillà](https://open.spotify.com/artist/6NU3vPwjlPTMi5g8SkV9WU) | [Grandine](https://open.spotify.com/album/6vJXtx7TAmaWJBPXrWDhYb) | 3:23 | 2025-09-04 | 2025-10-17 |
 | [Graphiti :\)](https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP) | [Monday Comes Twice](https://open.spotify.com/artist/1v7zsqw6ZnRbq8nVDUuDru) | [Graphiti :\)](https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR) | 3:16 | 2022-05-09 | 2022-05-13 |
@@ -1751,6 +1757,7 @@
 | [Terra bruciata](https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Terra bruciata](https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI) | 3:13 | 2023-03-09 | 2023-05-19 |
 | [Terra violenta](https://open.spotify.com/track/234PBjEdgCALR3xigJOKnj) | [Riviera](https://open.spotify.com/artist/1Nbb0ut912InpuiKmLNShD), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [Terra violenta](https://open.spotify.com/album/7c9lJNsB2HZqfyBwi1mpdo) | 2:30 | 2024-03-14 | 2024-05-10 |
 | [Tersicore](https://open.spotify.com/track/6Rb0OjusapAMifa4BThXnl) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [Tersicore](https://open.spotify.com/album/5a8jCIJaZd0wSr63b4eIr9) | 3:55 | 2026-03-26 |  |
+| [Tessere](https://open.spotify.com/track/51gjw1p3P5MAYzUgZMz4uw) | [Slowroam](https://open.spotify.com/artist/2c1GFgbqbNMYP8PmaoacgN) | [Tessere](https://open.spotify.com/album/55qS3z2KCRVWCN5OnT7e9m) | 3:05 | 2026-07-16 |  |
 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 | 2025-05-15 | 2025-07-25 |
 | [The Botanist](https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [The Botanist](https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk) | 4:30 | 2023-11-09 | 2023-12-15 |
 | [The Cage](https://open.spotify.com/track/09INTlPvAZek1ujj5ZJfd1) | [Kick](https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC) | [The Cage](https://open.spotify.com/album/4krs7r5xBJdeI92vedf3rG) | 3:31 | 2024-07-04 | 2024-09-20 |

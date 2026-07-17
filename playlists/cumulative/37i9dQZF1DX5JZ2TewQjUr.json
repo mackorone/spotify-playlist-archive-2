@@ -3947,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "DEAD END",
+        "url": "https://open.spotify.com/album/6MdTvRbWC3SJ9oSjnWYIRq"
+      },
+      "artists": [
+        {
+          "name": "TYNT",
+          "url": "https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225742,
+      "name": "DEAD END",
+      "url": "https://open.spotify.com/track/3XLGw3md7QifexmPNxbuae"
+    },
+    {
+      "album": {
         "name": "DEAL WITH IT",
         "url": "https://open.spotify.com/album/4mkixXEWQ1fgJZiYebclGu"
       },
@@ -10120,6 +10138,24 @@
       "duration_ms": 226323,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/1WLVAwtMG2ybHuumcEivyB"
+    },
+    {
+      "album": {
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/67Ajtw9rA83ErOpYlcN0Jj"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182629,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/32GgQmuBSuHrYc0XNvfv0v"
     },
     {
       "album": {
@@ -24952,6 +24988,24 @@
       "duration_ms": 140357,
       "name": "\u5b88",
       "url": "https://open.spotify.com/track/4EOg9ajGad1pg7KKnaQgvA"
+    },
+    {
+      "album": {
+        "name": "\u5b8c\u5168\u771f\u7a7a",
+        "url": "https://open.spotify.com/album/6cRyN1Q0uxI0LG8Fc902Ed"
+      },
+      "artists": [
+        {
+          "name": "Kacey \u9673\u51f1\u742a",
+          "url": "https://open.spotify.com/artist/3yd1vE8VmUGIYavgWsLb3u"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "\u5b8c\u5168\u771f\u7a7a",
+      "url": "https://open.spotify.com/track/68QFt8SNQziUZwussFlLSr"
     },
     {
       "album": {

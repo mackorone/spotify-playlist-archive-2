@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > The Plot In You are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,651,626 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,651,811 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 47 | [Cut](https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [VINDICATE](https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p) | 3:59 |
 | 48 | [Crying Fire](https://open.spotify.com/track/2u6rLo8cuQ91qse20KNPT8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Crying Fire](https://open.spotify.com/album/4U6mCQ4jD6gdJaUCllxwg0) | 4:08 |
 | 49 | [Last One Here](https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7) | [Rev3rent](https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD) | [Last One Here](https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l) | 3:20 |
-| 50 | [Valhalla](https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh) | [ASAVA](https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta) | [Valhalla](https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe) | 4:33 |
+| 50 | [Valhalla](https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh) | [ASAVA](https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta) | [Valhalla](https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe) | 4:32 |
 | 51 | [Blood Pact](https://open.spotify.com/track/5aS14v4x5nkDvks91OhuoI) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Blood Pact](https://open.spotify.com/album/41HtOA4cWgCaIj4BWgb3zU) | 2:52 |
 | 52 | [Construct](https://open.spotify.com/track/2MGhVrA4Th1xHGkdfdUZTk) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Construct](https://open.spotify.com/album/6y15JONDCTH1V7mBrLWVao) | 3:57 |
 | 53 | [Die In Your Arms](https://open.spotify.com/track/7lgbZBmlIyDcB0IIJlePly) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Die In Your Arms](https://open.spotify.com/album/4dzB5ZGbdrxHT8Cis1QyjF) | 2:56 |

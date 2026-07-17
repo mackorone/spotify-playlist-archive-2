@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,314 likes - 174 songs - 9 hr 46 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,315 likes - 175 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,5 +182,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 172 | [Put It All On The Line](https://open.spotify.com/track/3QQDAr8b6nfG0cj7yCwzKt) | [Devon East](https://open.spotify.com/artist/7HaAdWakWsKKI1YJgi3Ed2), [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Losing The Signal](https://open.spotify.com/album/0W3MKHhbKWUVb1D28ScW7D) | 3:59 |
 | 173 | [Lugar Nenhum](https://open.spotify.com/track/6t18UJjBI9Ee7QELywUMjH) | [LONES](https://open.spotify.com/artist/4yh7vFViUknQaxgIe23tw0), [Lia Monteiro](https://open.spotify.com/artist/3Z66F0k3qGbKKCclCpQQ1o) | [Lugar Nenhum](https://open.spotify.com/album/0RTIBHXrkj1yDutHJZXwDk) | 3:41 |
 | 174 | [Starò bene](https://open.spotify.com/track/0knNp7uACCOqJSCeHulwyc) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Starò bene](https://open.spotify.com/album/2ealXQVsJPSmMznVRG8W4p) | 3:18 |
+| 175 | [Inno al PC](https://open.spotify.com/track/2p4h5PZvl9pPSpIKyJGotv) | [Leone Marco Bartolo](https://open.spotify.com/artist/4siIwYrFflrWFFxKuYI11J) | [Inno al PC](https://open.spotify.com/album/1f87d1xbqwItZEjgUSaMkg) | 2:51 |
 
-Snapshot ID: `AAAWDWR5epTQLQg0++A94a+zpv+A1TIn`
+Snapshot ID: `AAAWDnbRrL0JAXk5pTJpRwOJnglpM+bl`

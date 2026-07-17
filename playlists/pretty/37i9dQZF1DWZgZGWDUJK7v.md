@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: 화산귀환 \(Return of the Blossoming Blade\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,882 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,876 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 41 | [Just stay with me \(Feat\. Swan\)](https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [Just stay with me \(Feat\. Swan\) \(Webtoon 'Marriage Or Death' X San E\)](https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd) | 3:15 |
 | 42 | [Never Loved This Way Before](https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Never Loved This Way Before \(From “Odd Girl Out” \[Original Soundtrack\]\)](https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG) | 4:19 |
 | 43 | [Thirtieth Midnight \(Romance 101 X YOUNHA\)](https://open.spotify.com/track/63moAzI1vHyDIhYmpF3FIy) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Thirtieth Midnight \(Romance 101 X YOUNHA\)](https://open.spotify.com/album/1GtpQlCKGVslJZAqNQKvNf) | 3:58 |
-| 44 | [Sickness \(feat.PLEDIS GIRLZ\)](https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d) | [Vernon](https://open.spotify.com/artist/031ssH1fIRkJVEk11IUZdu), [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [Sickness](https://open.spotify.com/album/3vX4Wr2G40cQAsNC5WO3K1) | 3:24 |
+| 44 | [Sickness \(feat.PLEDIS GIRLZ\)](https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d) | [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [Sickness](https://open.spotify.com/album/3vX4Wr2G40cQAsNC5WO3K1) | 3:24 |
 | 45 | [Shiny Path](https://open.spotify.com/track/0ssZSEVZ2Duzvg09jcPUEG) | [B!TES](https://open.spotify.com/artist/6X2sjIHDIepLGnlnzGGpNb) | [Shiny Path \(CookieRun: Kingdom Original Soundtrack\)](https://open.spotify.com/album/1tghwVfQShJnOMzN3PrzQM) | 3:05 |
 | 46 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 |
 | 47 | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\)](https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\)](https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0) | 3:19 |
