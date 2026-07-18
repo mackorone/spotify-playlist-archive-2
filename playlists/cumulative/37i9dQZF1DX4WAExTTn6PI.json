@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(So What If I'm Not) Conventionally Attractive",
+        "url": "https://open.spotify.com/album/3QZhh4bhcyXqWLXvJX4YeW"
+      },
+      "artists": [
+        {
+          "name": "Brittany Ann Tranbaugh",
+          "url": "https://open.spotify.com/artist/6xeAE2cdbCEJw0Ciay3lTI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "(So What If I'm Not) Conventionally Attractive",
+      "url": "https://open.spotify.com/track/47Z8ZPJVblyMHwsl963PEy"
+    },
+    {
+      "album": {
         "name": "1 Mile From Heaven",
         "url": "https://open.spotify.com/album/2mOWMR3alIP6kyzxcThPRv"
       },
@@ -38,6 +56,24 @@
       "duration_ms": 224186,
       "name": "75-71",
       "url": "https://open.spotify.com/track/1Kpl4t6FsojBlqRctw58DD"
+    },
+    {
+      "album": {
+        "name": "A Word's A Weapon",
+        "url": "https://open.spotify.com/album/011hdHAaTvXcQQR6H6yr9c"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245020,
+      "name": "A Word's A Weapon",
+      "url": "https://open.spotify.com/track/2X9cSjzPTi9XynvaTThaai"
     },
     {
       "album": {
@@ -348,7 +384,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 148565,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/6NrSL2lmoRE9srVemmBFcQ"
@@ -982,7 +1018,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 171782,
       "name": "Captain And Compass",
       "url": "https://open.spotify.com/track/468v2It3dyEgyQLHatb4O5"
@@ -1436,7 +1472,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 146933,
       "name": "Dreamer Dreamer",
       "url": "https://open.spotify.com/track/0VciKkrBcrbkuvckK315DI"
@@ -2381,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "A Mile South of Heaven",
+        "url": "https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199884,
+      "name": "Goodbye to All That",
+      "url": "https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5Gv1mY3pYSO0mEu7J3aR9F"
       },
@@ -2705,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/1vg83N1MSROX09ks7bp49j"
+      },
+      "artists": [
+        {
+          "name": "True Mountain Laurel",
+          "url": "https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163395,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/09hAPcE9u2DfcmAbwjlyUm"
+    },
+    {
+      "album": {
         "name": "Good Buddy",
         "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
       },
@@ -2976,7 +3048,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 188325,
       "name": "I Want the Milk",
       "url": "https://open.spotify.com/track/6aPxQeKXniplK7r7a565i2"
@@ -5296,7 +5368,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 240944,
       "name": "Sadness is a Sine Wave",
       "url": "https://open.spotify.com/track/3aWRqdLA3WwLMse9lGRVZ3"
@@ -5444,6 +5516,24 @@
       "duration_ms": 182400,
       "name": "Shaking Ground",
       "url": "https://open.spotify.com/track/5ioMTIu2WZElnijMufDNmk"
+    },
+    {
+      "album": {
+        "name": "Sheets to the Wind",
+        "url": "https://open.spotify.com/album/50YSXQakdeMAuajy7crNnN"
+      },
+      "artists": [
+        {
+          "name": "Feeferella",
+          "url": "https://open.spotify.com/artist/3GGs9vrF5rb0LABaqUxJeF"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Sheets to the Wind",
+      "url": "https://open.spotify.com/track/0GfqEfxhVOvAZ0UwUpCjts"
     },
     {
       "album": {
@@ -6324,7 +6414,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 240981,
       "name": "The Show",
       "url": "https://open.spotify.com/track/0jnw9Xz16uRCKFubrbEVQS"
@@ -6874,6 +6964,24 @@
       "duration_ms": 167291,
       "name": "Waltz Across Texas",
       "url": "https://open.spotify.com/track/5drS8Hv8Q8fufYOn9km0UT"
+    },
+    {
+      "album": {
+        "name": "Waterloo Rd.",
+        "url": "https://open.spotify.com/album/5k49FAbz9YzRq5f8ArzV9r"
+      },
+      "artists": [
+        {
+          "name": "Outpost Drive",
+          "url": "https://open.spotify.com/artist/5SD8blz2Ibqibs4tPNDNas"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245503,
+      "name": "Waterloo Rd.",
+      "url": "https://open.spotify.com/track/398XLkTPvZawtiu9uCw70m"
     },
     {
       "album": {

@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0qRG44VeY94sZsFg29SeEy"
+      },
+      "artists": [
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "A New Life",
+      "url": "https://open.spotify.com/track/4myZPKVB0IB56ALzlBUEvt"
+    },
+    {
+      "album": {
         "name": "Different Shyne",
         "url": "https://open.spotify.com/album/5G2zHO1L4ih57VUnbojw15"
       },
@@ -2692,6 +2710,36 @@
       "duration_ms": 196048,
       "name": "AGEASHI (feat. Flight-A, Crazy-K, BARCO, Swag-A & ACHA)",
       "url": "https://open.spotify.com/track/6cjX3CHPAnMSSCEwhBMoWZ"
+    },
+    {
+      "album": {
+        "name": "AGERO",
+        "url": "https://open.spotify.com/album/0wiLQ4IHEE59sssnszNiLY"
+      },
+      "artists": [
+        {
+          "name": "HARAKUDARI",
+          "url": "https://open.spotify.com/artist/7zjRwVU8MeiBPmEPP2I4oR"
+        },
+        {
+          "name": "MIKUMARI",
+          "url": "https://open.spotify.com/artist/4UeVKILcLr6orQQs1K42fK"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "RUI HAYAKAWA",
+          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196330,
+      "name": "AGERO",
+      "url": "https://open.spotify.com/track/3fMd1Z0xg0uXwdFgALJGFD"
     },
     {
       "album": {
@@ -39742,7 +39790,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 128684,
       "name": "roLL caLL",
       "url": "https://open.spotify.com/track/1QCKlpCO7ghmgSaXlVR6cH"

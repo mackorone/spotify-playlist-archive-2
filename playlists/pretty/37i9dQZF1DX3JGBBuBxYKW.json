@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 112956,
+  "num_followers": 112958,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,18 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Dos Infieles",
-        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
       },
       "artists": [
         {
-          "name": "Lumila",
-          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Dos Infieles",
-      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
+      "duration_ms": 151463,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -987,18 +983,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
+        "name": "Dos Infieles",
+        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
       "artists": [
         {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+          "name": "Lumila",
+          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 151463,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
+      "duration_ms": 224573,
+      "name": "Dos Infieles",
+      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
     },
     {
       "added_at": "2025-07-18 03:00:26",

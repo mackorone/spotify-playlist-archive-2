@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,404 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,406 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 47 | [Aqbil Arwh Wayak](https://open.spotify.com/track/5Rk2fqUd9Be51v2RGCH4fP) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Aqbil Arwh Wayak](https://open.spotify.com/album/21cNclONW67PlEiEtMT81I) | 3:43 |
 | 48 | [Radio \(Douzi \- Arabic Version\) \[From "Tubelight"\]](https://open.spotify.com/track/6H9Qo8MsTUPm6FpbIa081X) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Radio \(Douzi \- Arabic Version\) \[From "Tubelight"\]](https://open.spotify.com/album/6xcfoDf2wcvUuEeUP8UZAJ) | 4:50 |
 | 49 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
-| 50 | [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 |
+| 50 | [Ya Ali](https://open.spotify.com/track/1LJRNbwOZ9TopITPaWDbsr) | [Zubeen Garg](https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u) | [Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh) | 4:55 |
 
 Snapshot ID: `AAAAAOI2JuVFkjZ0CQvskQY+vVYHYto9`

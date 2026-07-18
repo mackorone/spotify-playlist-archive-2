@@ -2,9 +2,9 @@
 
 ### [Bhangra Bangers](https://open.spotify.com/playlist/37i9dQZF1DX3VNFqEPdDGw)
 
-> Bhangra is our pride, Bhangra is our culture\. Cover: Navaan Sandhu & Param
+> Bhangra is our pride, Bhangra is our culture\. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan
 
-425 songs - 21 hr 48 min
+426 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Let 'em Play](https://open.spotify.com/track/6S6HSSk9HzWe3pqvUJn6Vq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Let 'em Play](https://open.spotify.com/album/3eo5DzbsNmG1KYZgwEUeLX) | 3:15 | 2022-07-05 | 2024-04-19 |
 | [Lifetime](https://open.spotify.com/track/5jj6x2xkhOK8jnL5pHwxAS) | [Harsh Ghotra](https://open.spotify.com/artist/0VJyYibVbklwXW7vUweaCU), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf) | [Lifetime](https://open.spotify.com/album/43STU9L66OVhxFeOdh6zmH) | 2:39 | 2026-02-06 | 2026-03-15 |
 | [Like This](https://open.spotify.com/track/5FnUJGAnUJti1D4X8G56Ow) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Like This](https://open.spotify.com/album/6yj73qy3PqcCdM35lseGJJ) | 3:41 | 2025-10-10 | 2025-11-26 |
-| [Locket \(From"Carry On Jatta 4"\)](https://open.spotify.com/track/1VBbeDkPStponyHqQkyc5j) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Locket \(From"Carry On Jatta 4"\)](https://open.spotify.com/album/3ReL5d1EeSNyNS2jWvVVlS) | 3:52 | 2026-07-10 |  |
+| [Locket \(From"Carry On Jatta 4"\)](https://open.spotify.com/track/1VBbeDkPStponyHqQkyc5j) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Locket \(From"Carry On Jatta 4"\)](https://open.spotify.com/album/3ReL5d1EeSNyNS2jWvVVlS) | 3:52 | 2026-07-10 | 2026-07-18 |
 | [Loktath](https://open.spotify.com/track/6y21aiaOaPjdTIaKT6ohvc) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Babbu Brar](https://open.spotify.com/artist/5iVo4PE7XoDT1eDEh65gKj), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Loktath](https://open.spotify.com/album/6RaTOfyzqSqiMh5YubYGps) | 3:00 | 2025-08-02 | 2025-08-15 |
 | [Mada V Nai](https://open.spotify.com/track/4UE4ytRMvq2GOPbcWJLh6u) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Mada V Nai](https://open.spotify.com/album/4PNK0EtoPgbaGKEkKV9n6z) | 3:47 | 2025-07-08 |  |
 | [Main Viyah Nahi Karona Tere Naal \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [The Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [Main Viyah Nahi Karona Tere Naal \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood) | 2:35 | 2025-01-08 |  |
@@ -351,6 +351,7 @@
 | [Sarpanchi](https://open.spotify.com/track/5wHNjnfMjLji3AjbHRA8hj) | [Kulwinder Kaily](https://open.spotify.com/artist/3TQK8VxIYSzNXTYDCRyDbR), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Sarpanchi](https://open.spotify.com/album/5TnWS9WFGm1koOsphWNrEG) | 4:01 | 2024-11-04 | 2025-01-09 |
 | [Say My Name](https://open.spotify.com/track/4xB0xnrO5Dp47ryqEzLMmK) | [Satkar Sandhu](https://open.spotify.com/artist/2QQbtNBYIsyC3eglhA7N6m), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Gora](https://open.spotify.com/artist/3G4xwBjK28S31zrQzLIMBr) | [Say My Name](https://open.spotify.com/album/4L39sagKqKvPFo1RTflp7D) | 2:34 | 2025-06-20 | 2025-07-21 |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 | 2024-10-17 |
+| [She Knows](https://open.spotify.com/track/03EvuiLRoM41f9fq31hLWH) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [She Knows](https://open.spotify.com/album/1QFcIIel2GYUCvoVUhzQWF) | 2:47 | 2026-07-17 |  |
 | [Sheesha](https://open.spotify.com/track/2roVLd05JaRNaiHdAu2oEJ) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Sheesha](https://open.spotify.com/album/67G6eUavqRqePCnTUZ3x2R) | 3:43 | 2025-10-08 | 2026-01-05 |
 | [Sheesha](https://open.spotify.com/track/1Hlq6E1yOXW2PeWLjed8I3) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Desi Rockstar 3](https://open.spotify.com/album/4ECLwdMJqkSbrqFNY4Cu1U) | 3:43 | 2025-11-04 | 2025-11-25 |
 | [Sher Te Shikaar \- From "Shaunki Sardar"](https://open.spotify.com/track/7Lcb4VpehaLOqOdA9aQ63s) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Sher Te Shikaar \(From "Shaunki Sardar"\)](https://open.spotify.com/album/1tNR9s7DIJVcFcFfhId2uv) | 3:05 | 2025-04-11 | 2025-05-01 |

@@ -23541,6 +23541,24 @@
     },
     {
       "album": {
+        "name": "KILO",
+        "url": "https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji"
+      },
+      "artists": [
+        {
+          "name": "twentyone21",
+          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109983,
+      "name": "KILO",
+      "url": "https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC"
+    },
+    {
+      "album": {
         "name": "King Lear (feat. Sosa Priority)",
         "url": "https://open.spotify.com/album/55W4E57GDqaj230a2TFqXP"
       },
@@ -32070,6 +32088,24 @@
       "duration_ms": 164000,
       "name": "Nike e Gucci II (feat. Promessa)",
       "url": "https://open.spotify.com/track/0TBfNWCVIhcW33CeahKjYF"
+    },
+    {
+      "album": {
+        "name": "NIKE SPORCHE",
+        "url": "https://open.spotify.com/album/0LMOcsBMe5BtF4n0xJI0Uw"
+      },
+      "artists": [
+        {
+          "name": "3XVM",
+          "url": "https://open.spotify.com/artist/2Tom8bB9e1wKSx3CUNDJWe"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184879,
+      "name": "NIKE SPORCHE",
+      "url": "https://open.spotify.com/track/1Xuf4POjUz46D0BtZIaTUn"
     },
     {
       "album": {

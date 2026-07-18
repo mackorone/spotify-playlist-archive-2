@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Oblivion's Mighty Trash, Mañas Ru\-Fino
 
-246 songs - 13 hr 4 min
+247 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [La Llave del Universo](https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:49 | 2023-05-26 | 2024-04-19 |
 | [La Llave del Universo](https://open.spotify.com/track/5eaYZliqtzLBGx1EoWR6Xg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Llave del Universo](https://open.spotify.com/album/6QpW9A1c59mW2P4rzFzn18) | 3:49 | 2024-02-23 | 2026-03-07 |
 | [La luz](https://open.spotify.com/track/2jslkxswlLCTqZDlvl5M1x) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La luz](https://open.spotify.com/album/285QEUrTLS9j5EtaMCkCu7) | 3:17 | 2026-02-27 |  |
+| [La Moral](https://open.spotify.com/track/5pxH6FvlM1VhJLQodQe0da) | [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La Moral](https://open.spotify.com/album/3UF7XpIRYoSu5kQtIy1Ia1) | 3:18 | 2026-07-17 |  |
 | [La Noche y Tu](https://open.spotify.com/track/4lexmRvLxQme1ozqesPD0A) | [chelo hop](https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [La Noche y Tu](https://open.spotify.com/album/4z6sD9fI9e7bkzc8tyyIN4) | 3:44 | 2026-03-06 |  |
 | [La Primera](https://open.spotify.com/track/4F12uZbVbzzvyI1shTud4m) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [La Primera](https://open.spotify.com/album/39ICZEfQgeMWBVWMisix9A) | 2:23 | 2026-03-18 | 2026-03-27 |
 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 | 2024-04-26 |  |

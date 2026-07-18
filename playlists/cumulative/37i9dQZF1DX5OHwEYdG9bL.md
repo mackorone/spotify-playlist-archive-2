@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-260 songs - 14 hr 14 min
+262 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,8 @@
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/7EfsDwMIp2K2zcesWFdIQ7) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/7AyY2UsDMJjLoAPLlSQtsa) | 3:05 | 2025-07-15 |  |
 | [MONA LISA](https://open.spotify.com/track/6FfKVcRELC01p2V64HXsRH) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/0XOxRUT0IKQjJCdP0nqaKw) | 2:42 | 2025-07-15 | 2025-08-20 |
 | [MUSEUM](https://open.spotify.com/track/3I8Dqw8JZI89crzCtWalJD) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/1717Ib5wr97Iz47nHBJTnM) | 3:17 | 2026-03-30 |  |
+| [NORMAL](https://open.spotify.com/track/5d1adDwusi5l5OsjRuIL2Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL](https://open.spotify.com/album/2eVLSqmG1Yc1XFOIljHCvl) | 3:21 | 2026-07-17 |  |
+| [NORMAL](https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL](https://open.spotify.com/album/5z3P0hbd1B5KDdAmRqeW5W) | 3:21 | 2026-07-17 |  |
 | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C) | 3:11 | 2026-06-01 |  |
 | [NOT CUTE ANYMORE](https://open.spotify.com/track/04BTH7A529j7G0TCuthFkI) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/5l45MwxKiVZXeMzzz8tChC) | 2:26 | 2025-12-03 |  |
 | [number one girl](https://open.spotify.com/track/5sgKW9J1rsDlqV8nXpSXjd) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/2GU9eECPOLAYV9EERR8sE1) | 3:35 | 2025-07-15 | 2025-08-20 |

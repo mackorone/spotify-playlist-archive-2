@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 月と徒花
 
-1,871 songs - 4 day 17 hr 10 min
+1,872 songs - 4 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -948,6 +948,7 @@
 | [はじまりの声](https://open.spotify.com/track/0xfVz3AGPh5YaMLa93pfx0) | [明くる夜の羊](https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi) | [pointillism](https://open.spotify.com/album/3PNdvVgRmwGaYlqJ71oCgN) | 3:31 | 2024-04-30 | 2024-06-01 |
 | [はっとすりゃ喜劇](https://open.spotify.com/track/2URTkqh5kjwWwGIeRyRsNa) | [ME\-GUMI](https://open.spotify.com/artist/4JymhH4RCu5eqaBqZQvxyb) | [はっとすりゃ喜劇](https://open.spotify.com/album/2CRwu5RUT5CLY9fmo2n4gp) | 3:05 | 2024-11-12 | 2024-11-20 |
 | [はないちもんめ](https://open.spotify.com/track/6CCPm5TBuz2KDJEyHLC7U7) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [はないちもんめ](https://open.spotify.com/album/5XnobAe6hhFUFgprseEA0h) | 3:12 | 2023-10-24 | 2023-11-01 |
+| [ばけもん](https://open.spotify.com/track/2Og2WwWWnBUoMiRnFBKVAA) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ばけもん](https://open.spotify.com/album/29F4dvRCBdSNRIo4Ys8n4N) | 3:01 | 2026-07-16 |  |
 | [ひかり](https://open.spotify.com/track/3b2wcKvqYFwLAqE3nUstWp) | [こたに](https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq) | [ひかり](https://open.spotify.com/album/71Ezl29HkDNmbdBuIb78cp) | 4:26 | 2026-02-11 | 2026-02-25 |
 | [ひっかきまわす](https://open.spotify.com/track/2QGWJrSFxHWbSRYlWkVgwf) | [I was born](https://open.spotify.com/artist/06mhRcKAyG22X6wKdMhUhv) | [ひっかきまわす](https://open.spotify.com/album/5zGP6FR6t9YGyaaiQWLYJM) | 3:56 | 2024-01-31 | 2024-02-21 |
 | [ひとつだけ](https://open.spotify.com/track/3IxPzZUGIR7xJnDjjSy14W) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ひとつだけ](https://open.spotify.com/album/210GEsdXOa68MnyzasOufB) | 4:07 | 2025-03-25 | 2025-05-22 |
@@ -1873,7 +1874,7 @@
 | [風船](https://open.spotify.com/track/4S6WOlZQdqCY9jV6zNvodB) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [風船](https://open.spotify.com/album/3MBtrFhoiAGJnEq0g0WEVd) | 3:27 | 2024-12-17 | 2025-02-19 |
 | [飴と鞭](https://open.spotify.com/track/7hfNGFlfHLbe4h7xTrbjfu) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [飴と鞭](https://open.spotify.com/album/141H237A7IvCyCG0x4ekhF) | 3:28 | 2025-01-14 | 2025-01-22 |
 | [高槻](https://open.spotify.com/track/1Z1Kfw6ZDzyJKMctio1QVl) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [あの娘の春を想う](https://open.spotify.com/album/0Kzres1NymuEfctIVZF8JS) | 3:33 | 2024-01-09 | 2024-02-01 |
-| [魔女と狩人](https://open.spotify.com/track/2ATrGyhc14jtrd3M7yjU80) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [魔女と狩人](https://open.spotify.com/album/4XdyUZuE6mFTCtvlaUVSbQ) | 2:38 | 2026-06-30 |  |
+| [魔女と狩人](https://open.spotify.com/track/2ATrGyhc14jtrd3M7yjU80) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [魔女と狩人](https://open.spotify.com/album/4XdyUZuE6mFTCtvlaUVSbQ) | 2:38 | 2026-06-30 | 2026-07-18 |
 | [魔法がとける前に](https://open.spotify.com/track/5ENeQ4fXWw9dUFgiiplipH) | [セブンス・ベガ](https://open.spotify.com/artist/4vTpw8jh1edDWj0ATZYgd7) | [魔法がとける前に](https://open.spotify.com/album/5D6WVPU9JL8dpWj7NyHYiE) | 4:01 | 2026-04-07 |  |
 | [魚を追いかけて](https://open.spotify.com/track/3rOmeh2KOIvbEGGBQKm15W) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [魚を追いかけて](https://open.spotify.com/album/0BIQ7RwLDzgYhpWNMc0we2) | 3:58 | 2024-01-16 | 2024-03-06 |
 | [鳴り止まない](https://open.spotify.com/track/2Hpfa8hRv3Fiv2Z76IQ9Bz) | [Lailah](https://open.spotify.com/artist/5taxbI4xVo5t7Ck8jCXGch) | [鳴り止まない](https://open.spotify.com/album/1ieX597kuIO3b2AgXwrj4H) | 3:48 | 2025-01-21 | 2025-01-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: COLLEAGUES
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,435 likes - 313 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,441 likes - 313 songs - 17 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 5 | [I Wish](https://open.spotify.com/track/0La342lZJ1Rl7IYac4yW6e) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 3:00 |
 | 6 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 | 7 | [Kelly](https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4) | [Kelly No Brakes](https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V) | [Kelly](https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c) | 4:09 |
-| 8 | [Track 3](https://open.spotify.com/track/6DcJN0iH30RsirkMMd1JLO) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD) | [off center](https://open.spotify.com/album/3lNo4FMllv6xyCwaznfjvg) | 0:00 |
+| 8 | [indecisive](https://open.spotify.com/track/6DcJN0iH30RsirkMMd1JLO) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [off center](https://open.spotify.com/album/3lNo4FMllv6xyCwaznfjvg) | 2:30 |
 | 9 | [Alaró](https://open.spotify.com/track/7wKvF2X3Xu8fR3hvef6Gz7) | [Mon Rayon](https://open.spotify.com/artist/72T708Fc8U7CNXT1ScaWmv) | [Alaró](https://open.spotify.com/album/4E3zbCXIPJ3TX3X71NH3tE) | 3:38 |
 | 10 | [Killing Time](https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Killing Time](https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7) | 3:32 |
 | 11 | [speedboat](https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [speedboat](https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V) | 3:12 |

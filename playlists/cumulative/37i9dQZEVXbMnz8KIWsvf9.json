@@ -5286,7 +5286,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -8090,7 +8090,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
@@ -8130,6 +8130,24 @@
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/7a3iH9vM5Z58GqOMqXBU1M"
     },
     {
       "album": {
@@ -16456,7 +16474,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -20430,7 +20448,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 241973,
       "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/5XhAqG6dRhLYJb2QF6WhL4"
@@ -22492,7 +22510,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 223571,
       "name": "\u0e2a\u0e19\u0e34\u0e17\u0e43\u0e08 - \u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \"\u0e23\u0e31\u0e01\u0e23\u0e49\u0e32\u0e22\"",
       "url": "https://open.spotify.com/track/1XdaaI0bz0ILJzl1oBq2In"
@@ -22576,7 +22594,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 264444,
       "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15 (feat. \u0e14\u0e32 \u0e40\u0e2d\u0e47\u0e19\u0e42\u0e14\u0e23\u0e1f\u0e34\u0e19)",
       "url": "https://open.spotify.com/track/151RFTqNBV4hcJLOAux0FR"
@@ -22790,7 +22808,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 274360,
       "name": "\u0e2a\u0e32\u0e2b\u0e31\u0e2a",
       "url": "https://open.spotify.com/track/1sjiQsNatr158lrSidleY2"
@@ -24350,7 +24368,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 239770,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
       "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
@@ -25246,7 +25264,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 221049,
       "name": "\u0e43\u0e08\u0e1a\u0e32\u0e07",
       "url": "https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9"

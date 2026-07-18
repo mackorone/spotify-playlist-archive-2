@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:3YFGEKxRqRSBCW6sSv2FJH">Kasia Sienkiewicz</a>
 
-2,951 songs - 6 day 11 hr 26 min
+2,952 songs - 6 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Było miło](https://open.spotify.com/track/0Ats8UjkpH6HEP4k2Gt0rY) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE), [LPJW40](https://open.spotify.com/artist/1yuXlpC7d9j8CZK5z73yBN) | [Kontrola](https://open.spotify.com/album/2teFszicbrLoUynpd4eoga) | 3:24 | 2022-05-31 | 2022-07-06 |
 | [było, minęło](https://open.spotify.com/track/5OC347cwcGpiwnHt0YmToq) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:27 | 2026-03-19 | 2026-04-08 |
 | [Byłoby](https://open.spotify.com/track/4prisH6iYuEMuvTTZaHxDP) | [BAiKA](https://open.spotify.com/artist/42T9pQeSYn2olQmVFSXZJc) | [Zdecydowana mniejszość](https://open.spotify.com/album/4xEzPIry8De2gviAnxDjya) | 4:10 | 2023-05-02 | 2023-06-07 |
-| [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 | 2026-06-02 |  |
+| [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 | 2026-06-02 | 2026-07-18 |
 | [bąbelki](https://open.spotify.com/track/5vU6OWEUWJwDC7qefIlg9N) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [bąbelki](https://open.spotify.com/album/56xhsAMuARrlm6k3zbw1jz) | 3:02 | 2023-08-01 | 2023-09-06 |
 | [Bąbelkowe Truskawki](https://open.spotify.com/track/29VazbA7GJEKLPktwoV5va) | [SONIA](https://open.spotify.com/artist/72df4j6ONtlu01RCWPmxjD) | [Bąbelkowe Truskawki](https://open.spotify.com/album/3OynIG3nuKfVe6ZMSkAaFJ) | 2:21 | 2022-05-31 | 2022-07-06 |
 | [Bądź tu ze mną](https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2) | [Sylwia Przybysz](https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09) | [Bądź tu ze mną](https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ) | 2:41 | 2025-08-05 | 2025-09-03 |
@@ -2445,6 +2445,7 @@
 | [To mógł być mail](https://open.spotify.com/track/2m9YDJEwgseY8h8nKmyafa) | [Ranko Ukulele](https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC) | [Poezja brzdąkana](https://open.spotify.com/album/2G8jf6WDZ6QToBmPs2Yll5) | 2:27 | 2024-06-04 | 2024-07-03 |
 | [To Nasze Miejsce \- wersja akustyczna](https://open.spotify.com/track/5NfMeunZg0ax5CaRvxf8rl) | [Jagoda Kret](https://open.spotify.com/artist/1crECa5RK4wfYX9QtHJtv3) | [To Nasze Miejsce \(wersja akustyczna\)](https://open.spotify.com/album/2a2J969pMEjL6fQ0SqKdwg) | 3:36 | 2022-07-05 | 2022-08-03 |
 | [To nie GTA](https://open.spotify.com/track/3sAj4ybGnotyTZFscnGJbJ) | [OG KAMKA](https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb) | [To nie GTA](https://open.spotify.com/album/2w7VSkrDtJcDqPu3wU15DA) | 1:31 | 2025-04-01 | 2025-05-07 |
+| [To nie o mnie](https://open.spotify.com/track/5StvojAq9eoTAKZQQLQ2a9) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:01 | 2026-07-17 |  |
 | [To nie to](https://open.spotify.com/track/4sx1F5vrBxheiLB9LsGfPB) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [To nie to](https://open.spotify.com/album/1j5w8HDzPM4JYHvrvaBypb) | 3:03 | 2025-09-02 | 2025-10-01 |
 | [To nie to](https://open.spotify.com/track/0RSXAKiui7yPlpBPvx1Y03) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [To nie to](https://open.spotify.com/album/2n1JveGP79QfByhC390lVo) | 3:10 | 2024-04-02 | 2024-05-02 |
 | [to nie ty!](https://open.spotify.com/track/32JDRwUUTIC9wpNYdifUpE) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU), [Filip Solen](https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5) | [to nie ty!](https://open.spotify.com/album/3LVG8dWSLToTO8m5R15fam) | 1:34 | 2025-08-05 | 2025-09-03 |

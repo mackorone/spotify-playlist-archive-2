@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Trophy Wife
 
-1,930 songs - 4 day 15 hr 40 min
+1,935 songs - 4 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-29 | 2022-09-24 |
 | [Crow](https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Crow](https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp) | 3:29 | 2024-09-13 | 2024-09-28 |
 | [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 | 2025-11-14 | 2026-06-12 |
+| [Cruise The Town](https://open.spotify.com/track/0SbkhX0zVR4b1Ju84tiKmu) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [Cruise The Town](https://open.spotify.com/album/7C8EgLPkVl6dBpfUAtEEuj) | 3:23 | 2026-07-17 |  |
 | [Crumbs](https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Crumbs](https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq) | 4:13 | 2026-03-06 | 2026-03-21 |
 | [Crush](https://open.spotify.com/track/38Ej7o4BhPn2j6TAZRAshk) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Crush](https://open.spotify.com/album/3pUx8XNJZvXaLJLzIP8mXC) | 2:39 | 2025-07-11 | 2026-01-15 |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-02 | 2022-04-29 |
@@ -929,6 +930,7 @@
 | [Intheskatepark](https://open.spotify.com/track/4zkAoqG7TwRxbCQpL0AZa0) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Intheskatepark](https://open.spotify.com/album/5ysjL1aGDCf3ODiF3le9Wh) | 2:25 | 2023-09-22 | 2023-10-14 |
 | [into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [into me](https://open.spotify.com/album/0IoYTbRX2fybz0yqHM2TNT) | 2:52 | 2025-04-25 | 2025-07-19 |
 | [invisible string](https://open.spotify.com/track/1BuayMZGxH5A0NasB4bESi) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [invisible string](https://open.spotify.com/album/03SgefcTQpH6gDeTWiPawR) | 3:07 | 2022-05-20 | 2022-07-23 |
+| [Isn't He Funny?](https://open.spotify.com/track/4RLCHXFRTWiAYUhdacWmSx) | [Big Red](https://open.spotify.com/artist/6BEEGVEK6XIrmqi64E66vC) | [Isn't He Funny?](https://open.spotify.com/album/4eyqwoo5mTFEGgyvaCTnDp) | 5:43 | 2026-07-17 |  |
 | [It Hurts](https://open.spotify.com/track/4EYkBReSCqoFZAvHRShmMA) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [It Hurts](https://open.spotify.com/album/3gshl9FwDG8P91p8iG5ccH) | 3:23 | 2022-08-26 | 2022-09-24 |
 | [It Wasn't You, It Was The Feeling](https://open.spotify.com/track/26M3JzCSmSCfVv5PBXpf8v) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [It Wasn't You, It Was The Feeling](https://open.spotify.com/album/64CGQNBqerg8LHTFNZaerx) | 4:00 | 2026-03-06 |  |
 | [it's all the same to me .](https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK) | [a blue room](https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [it's all the same to me .](https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1) | 3:45 | 2024-01-05 | 2024-06-08 |
@@ -1531,6 +1533,7 @@
 | [Somersaults](https://open.spotify.com/track/2vyAEzE5FeDgm4Jx7mdblZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Somersaults](https://open.spotify.com/album/7hcLdGZHxJkqJQrbbE7tuv) | 4:32 | 2026-03-10 |  |
 | [Something Else](https://open.spotify.com/track/6bZ5iC1vemFxvVPHfmixbI) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Something Else](https://open.spotify.com/album/52qxd2pn2DC8uk51R4Yf7z) | 4:19 | 2021-03-05 | 2022-04-18 |
 | [something new](https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [something new](https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF) | 3:51 | 2024-10-04 | 2025-04-05 |
+| [Something To Be Said](https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Something To Be Said](https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o) | 3:33 | 2026-07-17 |  |
 | [Sometimes I Think About Death](https://open.spotify.com/track/68azWVwlh4j461uhjXDzPM) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Adult Romantix](https://open.spotify.com/album/3QhaKVItgP8GQ5RQiz25FM) | 3:10 | 2025-08-22 | 2026-01-24 |
 | [Someway Somehow](https://open.spotify.com/track/4zVs1kuSTwvLPpcBL4Rj6D) | [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [Someway Somehow](https://open.spotify.com/album/5hYsYw1TOEos0WRxIfspDo) | 3:28 | 2023-08-03 | 2024-01-27 |
 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-01-27 | 2023-03-25 |
@@ -1734,6 +1737,7 @@
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-21 | 2025-06-14 |
 | [Touch Base](https://open.spotify.com/track/48qeE7lY6PzSwBsLOn7mbO) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Trains Running Backwards](https://open.spotify.com/album/6bqdx647yJNvWTqhEskejD) | 3:42 | 2025-11-14 | 2026-06-12 |
 | [Tough](https://open.spotify.com/track/5E1FnnZwcyVldAEpkgjHso) | [Nat & Alex Wolff](https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S) | [Tough](https://open.spotify.com/album/05mFw0imurwaCKfk7zSlN8) | 2:57 | 2025-11-07 | 2026-03-07 |
+| [TOURNIQUET](https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Summer Indoors \(or outside wearing black\)](https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27) | 2:36 | 2026-07-17 |  |
 | [Track](https://open.spotify.com/track/3lmiUjD283FiDGWB6LHAkr) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:34 | 2021-03-05 | 2022-04-29 |
 | [Trading Doses](https://open.spotify.com/track/2r3vdfi8SmACLX7BOUqcgg) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Trading Doses](https://open.spotify.com/album/3LDWBlzWbvuVlgYnHkFPmq) | 2:51 | 2022-06-24 | 2023-04-01 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-06-14 |
@@ -1760,6 +1764,7 @@
 | [Turn Out Right](https://open.spotify.com/track/3TeE7eWPz7DoKFZXWuplLN) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Turn Out Right](https://open.spotify.com/album/0JaZULxpUIqiJw1h96kr2b) | 4:01 | 2025-08-29 | 2026-01-24 |
 | [Turnaround \(Cocaine Song\)](https://open.spotify.com/track/02VjhVSU9Kmlpg9cXxc6yk) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Turnaround \(Cocaine Song\)](https://open.spotify.com/album/2KcGTfbMXhDcv8VPlmF9TR) | 3:23 | 2021-03-05 | 2022-04-29 |
 | [Turning](https://open.spotify.com/track/6It2pydpSo0FUQ3HdQES97) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Turning](https://open.spotify.com/album/614cwAiCbxTJz6QBafC4zm) | 2:53 | 2022-01-28 | 2022-04-27 |
+| [turning down flowers](https://open.spotify.com/track/4qNrfLBEXFEg1HG5k0uAqI) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [turning down flowers](https://open.spotify.com/album/2JQMcBhwaJucwikRrDBtnt) | 6:08 | 2026-07-17 |  |
 | [Turns Out](https://open.spotify.com/track/0J44KtQTje94RvWPLzFXt2) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [The Moon Is a Harsh Mistress](https://open.spotify.com/album/0wzsNoLN1rzCYi8QhtGe5Y) | 2:02 | 2025-02-28 | 2025-07-12 |
 | [TV Car Chase](https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [TV Car Chase](https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn) | 4:44 | 2024-07-19 | 2024-08-10 |
 | [TV in the Gas Pump](https://open.spotify.com/track/0o65GCofNQEUgkAIoWPjrb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:22 | 2023-03-23 | 2023-06-16 |

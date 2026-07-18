@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2574657,
+  "num_followers": 2574882,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAAa8wAOegjqalpfWu/OHsb7",
+  "snapshot_id": "algfAAAAAADpFoY1fPWCUvKY6yRKL+u0",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "Voy a Apagar La Luz / Contigo Aprend\u00ed",
-      "url": "https://open.spotify.com/track/4BCiucu42W0U9Y1eqPaQDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 162093,
       "name": "Y - En vivo",
       "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Voy a Apagar La Luz / Contigo Aprend\u00ed",
+      "url": "https://open.spotify.com/track/4BCiucu42W0U9Y1eqPaQDx"
     },
     {
       "added_at": null,

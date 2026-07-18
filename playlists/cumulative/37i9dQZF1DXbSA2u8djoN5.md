@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Cojo, Delia
 
-301 songs - 14 hr 44 min
+302 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 | 2025-07-31 | 2026-07-10 |
 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 | 2026-05-14 |  |
 | [MUZEU](https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [MUZEU](https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy) | 2:36 | 2024-10-31 | 2025-04-05 |
+| [Natural](https://open.spotify.com/track/4aK1zeqgOwUel3T5xpVhyQ) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Rusu](https://open.spotify.com/artist/1Sv7lDvguOrZI37FulYZ9Q), [ARG](https://open.spotify.com/artist/3xKYlqzRMv6TKZvhHOzw9O) | [Natural](https://open.spotify.com/album/23x3PN8zT0WXc7e8hqumN7) | 3:42 | 2026-07-16 |  |
 | [Ne vedem acasă](https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Ne vedem acasă](https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G) | 2:59 | 2025-12-04 | 2026-02-27 |
 | [Neinlocuibila](https://open.spotify.com/track/5JouYzY9AdUQUHya0CGY0H) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [Neinlocuibila](https://open.spotify.com/album/1ZtB8vR0jQ7PRSvTMfaV3o) | 2:36 | 2025-07-24 | 2025-10-17 |
 | [Nimic Nou](https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Nimic Nou](https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R) | 2:35 | 2024-11-21 | 2025-02-14 |

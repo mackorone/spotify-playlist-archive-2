@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Baby Rose",
+  "description": "Chill r&b. Cover: Syd",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -1697,6 +1697,28 @@
     },
     {
       "album": {
+        "name": "Beard",
+        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222579,
+      "name": "Always Be Mine (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW"
+    },
+    {
+      "album": {
         "name": "Always Time",
         "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
       },
@@ -1882,6 +1904,28 @@
       "duration_ms": 245426,
       "name": "Anxiety (Burlinda\u2019s Theme)",
       "url": "https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb"
+    },
+    {
+      "album": {
+        "name": "Any Time (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
     },
     {
       "album": {
@@ -8616,7 +8660,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 212005,
       "name": "energy!",
       "url": "https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6"
@@ -12116,7 +12160,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 172366,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2pDPS1bUC7vARDFMFiE4Ll"
@@ -12830,6 +12874,24 @@
       "duration_ms": 199306,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/47ssAULbAN5FIl89x3eiFB"
+    },
+    {
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
       "album": {
@@ -13902,7 +13964,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 216774,
       "name": "I Just Want You",
       "url": "https://open.spotify.com/track/06LGJKqpFUcIGDtS5ITAU6"
@@ -13928,6 +13990,28 @@
       "duration_ms": 194000,
       "name": "I Know (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/1tfNvTi9njogdoorSPO9ZY"
+    },
+    {
+      "album": {
+        "name": "I Like It",
+        "url": "https://open.spotify.com/album/0kobuTWXZAe2LoxuiE0xJ9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        },
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204303,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH"
     },
     {
       "album": {
@@ -14374,7 +14458,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 205066,
       "name": "idea 1",
       "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
@@ -16184,7 +16268,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 130235,
       "name": "Laugh Later, Cry Now",
       "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
@@ -17002,7 +17086,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 202080,
       "name": "LOOSE",
       "url": "https://open.spotify.com/track/7I0OBcIj0vjzSvcGExnI1h"
@@ -19065,6 +19149,24 @@
     },
     {
       "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/3rhEkxqugYGVqkiGapPZ7N"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148178,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y"
+    },
+    {
+      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq"
       },
@@ -19174,7 +19276,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195454,
       "name": "move it along (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
@@ -21921,6 +22023,28 @@
     },
     {
       "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187725,
+      "name": "Overthinking (feat. Musiq Soulchild)",
+      "url": "https://open.spotify.com/track/2hwK5VxW3T2UlUxtmI2Smm"
+    },
+    {
+      "album": {
         "name": "P*$$Y Fairy (OTW)",
         "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
       },
@@ -22124,6 +22248,24 @@
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy"
+    },
+    {
+      "album": {
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/12mCbpKjekdI0eFiOHtxsx"
     },
     {
       "album": {
@@ -23022,6 +23164,24 @@
       "duration_ms": 163360,
       "name": "Proof",
       "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
+    },
+    {
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130068,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
     },
     {
       "album": {
@@ -24556,7 +24716,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164571,
       "name": "Same Ole Dreams",
       "url": "https://open.spotify.com/track/5tfbPQ9xEeLgMXsA6KmCBP"
@@ -25738,6 +25898,24 @@
       "duration_ms": 256336,
       "name": "Show You (Remix) [feat. Q] [from Insecure: Music From The HBO Original Series, Season 4]",
       "url": "https://open.spotify.com/track/1wA1tFOHx167N1My7frqIH"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202989,
+      "name": "show you me",
+      "url": "https://open.spotify.com/track/4f50UTC41M2Ah5itifSGE5"
     },
     {
       "album": {
@@ -28226,6 +28404,24 @@
       "duration_ms": 219861,
       "name": "Sweet Like",
       "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
+    },
+    {
+      "album": {
+        "name": "Sweet n\u2019 Sour",
+        "url": "https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157683,
+      "name": "Sweet n\u2019 Sour",
+      "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
     },
     {
       "album": {
@@ -32290,7 +32486,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180000,
       "name": "What They Want?",
       "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"

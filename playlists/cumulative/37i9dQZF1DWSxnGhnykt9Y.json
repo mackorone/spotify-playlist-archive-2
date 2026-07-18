@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "FFG",
+        "url": "https://open.spotify.com/album/2o9hkG6LiPFh6FKZwqRArG"
+      },
+      "artists": [
+        {
+          "name": "The Lagos Panic",
+          "url": "https://open.spotify.com/artist/3dNMFM4VVHFHZd3yo1SpCG"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233990,
+      "name": "FFG",
+      "url": "https://open.spotify.com/track/3LiMM8tFNp81ZCmQvxjQbf"
+    },
+    {
+      "album": {
         "name": "Fighting",
         "url": "https://open.spotify.com/album/72LClr9ud1tcJNajCT6xeZ"
       },
@@ -1860,7 +1882,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 157759,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv"
@@ -3102,7 +3124,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167000,
       "name": "Mbali",
       "url": "https://open.spotify.com/track/3nnZWb6mhiPhhyRV2sQv0X"
@@ -3944,7 +3966,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 159000,
       "name": "Okunkun",
       "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
@@ -4158,7 +4180,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 147744,
       "name": "Para Para",
       "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
@@ -4458,7 +4480,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 183000,
       "name": "Ready (feat. \u00d8bed)",
       "url": "https://open.spotify.com/track/5ZGyfcX8rmvy1MWWonAjpt"
@@ -4896,7 +4918,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 178666,
       "name": "Something About Your Love (Ganja)",
       "url": "https://open.spotify.com/track/3joOpLP4AYXu3JZNqn3lVy"

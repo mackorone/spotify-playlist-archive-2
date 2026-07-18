@@ -4,7 +4,7 @@
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Celine Wanyi
 
-323 songs - 17 hr 37 min
+325 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [EYEZ](https://open.spotify.com/track/0mb8qYvh2IUAuQQ3gNTueb) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [EYEZ](https://open.spotify.com/album/3tARCP2tUQXmIIJeRg0hrN) | 3:53 | 2025-07-17 | 2026-04-07 |
 | [EYEZ](https://open.spotify.com/track/4YqQdOfk5KNUEqLZcdsftr) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:53 | 2025-12-03 | 2026-01-17 |
 | [FADE](https://open.spotify.com/track/3XZHLeJ3qcVWhMSTlarRWA) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [FADE](https://open.spotify.com/album/4zkXysoyWxSxF9T7OsbgQe) | 2:36 | 2025-04-15 | 2026-04-07 |
+| [failed tailors](https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [failed tailors](https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05) | 2:42 | 2026-07-17 |  |
 | [Fairy](https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Fairy](https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc) | 3:21 | 2025-02-27 | 2025-04-16 |
 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 | 2024-06-27 | 2025-04-16 |
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 | 2024-12-05 |
@@ -213,6 +214,7 @@
 | [NEEDY](https://open.spotify.com/track/0gxImK7r6ifryRjrIDSfJN) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [FOOLED](https://open.spotify.com/album/6XKnNZ3GHLBXdHxD9NNpwW) | 3:13 | 2025-12-03 | 2026-01-17 |
 | [NEEDY](https://open.spotify.com/track/70TT8nFGh2hPh0W1vMulfP) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [NEEDY](https://open.spotify.com/album/5ykpO45Yi24t7ILKq9q2It) | 3:13 | 2025-05-29 | 2026-04-07 |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2024-06-27 | 2025-04-16 |
+| [nobody likes you](https://open.spotify.com/track/1YOcwxo5GQVUuI0OyVPeIr) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [nobody likes you](https://open.spotify.com/album/5OVEst6bFHOIAY1fwMYLJB) | 3:20 | 2026-07-17 |  |
 | [Not Afraid](https://open.spotify.com/track/5v6ScxMNSZ1KcnMiWjCmPb) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [Not Afraid](https://open.spotify.com/album/5gWXGGJNkUgshcOfbJ0CzZ) | 3:06 | 2025-06-04 | 2026-04-07 |
 | [NOVEMBER](https://open.spotify.com/track/5QAgbUZoUvLethzw2bTRGt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [NOVEMBER](https://open.spotify.com/album/1CZh3LscwOdGeBTB1FqyWg) | 3:28 | 2025-04-15 | 2026-04-07 |
 | [oasis](https://open.spotify.com/track/7dxsN7YD2zfUMPqDCFvUvD) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 2:30 | 2025-05-29 | 2026-04-07 |

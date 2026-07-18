@@ -126,7 +126,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 232692,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/3A6JavykTX0AKvePIwxzaA"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "Cumbia Con La Luna",
       "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
@@ -3413,6 +3413,32 @@
     },
     {
       "album": {
+        "name": "El Peor De Mis Fracasos (En Vivo)",
+        "url": "https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8"
+      },
+      "artists": [
+        {
+          "name": "Los Del Roble",
+          "url": "https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "El Gerry Oficial",
+          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225535,
+      "name": "El Peor De Mis Fracasos (En Vivo)",
+      "url": "https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -3468,6 +3494,28 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "album": {
+        "name": "El Rey De Corazones",
+        "url": "https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233443,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7"
     },
     {
       "album": {
@@ -4004,7 +4052,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 203200,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/0OTBMEBx7m0WssMZanksqd"
@@ -4522,7 +4570,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 141285,
       "name": "Fuera Mas Feliz",
       "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
@@ -5338,7 +5386,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 136086,
       "name": "La Mas Bonita De Todas - En Vivo",
       "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
@@ -6260,7 +6308,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 266800,
       "name": "L\u00e1stima Que Seas Ajena",
       "url": "https://open.spotify.com/track/6qAobz9SsUHUbfLNfwPziO"
@@ -6362,7 +6410,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 159548,
       "name": "MALEDUCADO",
       "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
@@ -7039,6 +7087,28 @@
     },
     {
       "album": {
+        "name": "Mientras Viva",
+        "url": "https://open.spotify.com/album/5hddYRjNxP6KAROWtkT6Tx"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138103,
+      "name": "Mientras Viva",
+      "url": "https://open.spotify.com/track/7LElmZ4UT8nKBUmMM7uwZg"
+    },
+    {
+      "album": {
         "name": "Mil Gracias Por Existir",
         "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
       },
@@ -7414,7 +7484,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 217166,
       "name": "No Creo",
       "url": "https://open.spotify.com/track/3AatxyEZQLtJ06Q3iFnKEQ"
@@ -7952,7 +8022,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 196166,
       "name": "Obvio No",
       "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
@@ -8368,7 +8438,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 208696,
       "name": "peliculiando",
       "url": "https://open.spotify.com/track/4st6K8nGBjANh0mKNvOpnt"
@@ -8408,6 +8478,24 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "album": {
+        "name": "Pint\u00e1bamos Pa' Grandes",
+        "url": "https://open.spotify.com/album/4PbhntEjIsCqivpkd7HToy"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180798,
+      "name": "Pint\u00e1bamos Pa' Grandes",
+      "url": "https://open.spotify.com/track/31ljftJmu0K4dfZfDhESyy"
     },
     {
       "album": {
@@ -9870,7 +9958,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
@@ -10441,6 +10529,24 @@
     },
     {
       "album": {
+        "name": "The Magic Man",
+        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262356,
+      "name": "The Magic Man",
+      "url": "https://open.spotify.com/track/1iUJ5K2eTf2GVb9mHP5NwX"
+    },
+    {
+      "album": {
         "name": "The One (Pero No Como Yo)",
         "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
       },
@@ -10546,7 +10652,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 136588,
       "name": "Todos nos Shipean",
       "url": "https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs"
@@ -11276,7 +11382,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 227413,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
@@ -11802,7 +11908,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195750,
       "name": "Zapatos Que Aprietan",
       "url": "https://open.spotify.com/track/78ZHzMZpAjKjksZl7vgNyb"

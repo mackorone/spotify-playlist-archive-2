@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 6 hr 54 min
+134 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [magic](https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [magic](https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO) | 3:09 | 2025-08-14 | 2025-11-07 |
 | [magic](https://open.spotify.com/track/5sKOusTK8cOTX26ued359I) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [the love myself collection](https://open.spotify.com/album/3bCpWVnEKSaGWcEBblSzBC) | 3:09 | 2025-11-06 |  |
 | [Merry Bitchmas](https://open.spotify.com/track/34rNbRykHwMbKHxI87O03w) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/53AHqaUwDxyBusu6SZSIXe) | 3:24 | 2025-07-03 | 2026-02-04 |
-| [Merry Bitchmas](https://open.spotify.com/track/4yryO4jfyCAl8mfVS4C66r) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/7jbt7HV8zmCJcQI4HgcSgW) | 3:24 | 2026-02-03 |  |
+| [Merry Bitchmas](https://open.spotify.com/track/4n6lKbCHF69pHW6zgjvWhj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/2QnJSWJ0m0CDTvtaDp0NwB) | 3:24 | 2026-07-17 |  |
+| [Merry Bitchmas](https://open.spotify.com/track/4yryO4jfyCAl8mfVS4C66r) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/7jbt7HV8zmCJcQI4HgcSgW) | 3:24 | 2026-02-03 | 2026-07-18 |
 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2025-07-03 |  |
 | [Mixed Signals](https://open.spotify.com/track/3h71g6qyyJRoyHOzXNSIYe) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Wide\-Eyed](https://open.spotify.com/album/6GnQAEXPs7bGDJCeshofZY) | 3:37 | 2025-07-03 |  |
 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 | 2025-07-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : DJ Kawest x Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,381 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,435 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 7 | [copycat](https://open.spotify.com/track/6ZerSQuXzY2qpL1ntAuJZL) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [NENUPHAR](https://open.spotify.com/album/5aytOozAflE0ugJUlFXTkX) | 2:34 |
 | 8 | [Terminé](https://open.spotify.com/track/2kCpJcd7oKKJBb8oCkAQdu) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Terminé](https://open.spotify.com/album/6M6flSEBeH8E0ry91NrBKb) | 3:30 |
 | 9 | [Talons, Pt\. 2](https://open.spotify.com/track/6yxn10ZN8rl3XPNPObXMLN) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [Talons, Pt\. 2](https://open.spotify.com/album/5a3bWDN1e3otWH7Q4mdCNi) | 3:07 |
-| 10 | [Frequency](https://open.spotify.com/track/63LswPK31jvNEjlhtKFzaK) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM), [Mvk](https://open.spotify.com/artist/7KJy9iqbUNj0xqHcsZSnbN) | [Frequency](https://open.spotify.com/album/3aJ7EwZSzppNcnuhzEkHku) | 2:43 |
+| 10 | [Frequency](https://open.spotify.com/track/63LswPK31jvNEjlhtKFzaK) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM), [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP) | [Frequency](https://open.spotify.com/album/3aJ7EwZSzppNcnuhzEkHku) | 2:43 |
 | 11 | [VA LOIN](https://open.spotify.com/track/4y4vmSwPS2nj5Q3CmBWEsX) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:41 |
 | 12 | [Pas comme moi](https://open.spotify.com/track/3rdiPxdC5Y2N9eDgEk3MY4) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Pas comme moi](https://open.spotify.com/album/4Z7rvNms3Gtk1g8BNxejoz) | 3:48 |
 | 13 | [Dégâts](https://open.spotify.com/track/1zIyD2YvfkKCPgR293M9Lu) | [Lilou](https://open.spotify.com/artist/0KfUsUyGSFyNGm6A71DcLR) | [Dégâts](https://open.spotify.com/album/3jEbg0LsEQTlFAyziDoDvD) | 3:15 |

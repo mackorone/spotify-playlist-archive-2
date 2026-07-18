@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-207 songs - 10 hr 21 min
+210 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Scotland](https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:12 | 2022-03-09 |  |
 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-01 | 2022-11-09 |
 | [Serenade](https://open.spotify.com/track/27ET9815AS9RsdIYOc1zwv) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr) | [Tanzil: Serenade](https://open.spotify.com/album/0KpnMh7B863m8X9uAB9o1j) | 3:32 | 2024-12-24 |  |
+| [Serenata para Cordas: I\. Allegretto Placido](https://open.spotify.com/track/7wx7OyCNq2Y7NMdDLSPP87) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [São Paulo Chamber Soloists](https://open.spotify.com/artist/4y63e2CxfWrQMntizfnEuB) | [Infinitum Particulare](https://open.spotify.com/album/4ZX7CLKlRsZ6WLkVyrYNIp) | 4:42 | 2026-07-17 |  |
 | [Sherwood Forest](https://open.spotify.com/track/1bHaFlc2jjKMfnb6GcBNwb) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Q5SwPqfjjPk9ol0tFjElq) | 2:19 | 2022-03-09 |  |
 | [Sherwood Forest](https://open.spotify.com/track/51zjgYMqhtxjYckGppYoce) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1QN1oNiNm33SVenYlW7ADL) | 2:19 | 2022-07-29 | 2024-04-19 |
 | [shimmer](https://open.spotify.com/track/5HEFeQwfpoXRQ6qWgCiBe7) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:18 | 2022-03-09 | 2022-11-09 |
@@ -199,6 +200,7 @@
 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 | 2022-11-08 |  |
 | [To Zanarkand \(From "Final Fantasy X"\)](https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:50 | 2025-11-06 |  |
 | [Touchless](https://open.spotify.com/track/71D7iylmSl5mbsJUIrtqYV) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Touchless](https://open.spotify.com/album/6wridSsSkC6PXi9MZRj0Yk) | 2:53 | 2022-03-09 | 2022-11-09 |
+| [Trenet: En avril à Paris \(Arr\. Weissenberg for Piano Solo\)](https://open.spotify.com/track/2jAgACFmGydTmXnwPyw2GZ) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ), [Walter Eiger](https://open.spotify.com/artist/4Xn9ScC6D14GWO2bGc75w7), [Saehyun Kim](https://open.spotify.com/artist/1JiZGgjMlMtfpKeSgMN7YQ) | [Trenet & Eiger: En avril à Paris](https://open.spotify.com/album/7780kt0BpqI0h14WsOylEj) | 3:42 | 2026-07-17 |  |
 | [Tsimtsum \(From "Life of Pi" Soundtrack\)](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 | 2022-03-09 |  |
 | [Turbulence](https://open.spotify.com/track/0MIhLR15bY9jiYQaB3BpaQ) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Ocean](https://open.spotify.com/album/3tBUPAbNm3FZ4nAgyR01rD) | 6:50 | 2025-08-08 |  |
 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 | 2024-11-08 |  |
@@ -214,6 +216,7 @@
 | [Winter Has Come](https://open.spotify.com/track/16bZwkDgXGLeys3cS1Mn5f) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 6 \(Music from the HBO® Series\)](https://open.spotify.com/album/29zyqYXwLn4nNTPkRNSOuJ) | 3:14 | 2022-03-09 | 2022-07-29 |
 | [Winterfell](https://open.spotify.com/track/0y1Bay4UAdzWvpDJinzGz1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:43 | 2022-11-08 |  |
 | [Winterfell \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/6NTKYkRWHOMZz4O8N3NMZS) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:43 | 2022-03-09 | 2022-11-09 |
+| [Wordless Farewell](https://open.spotify.com/track/65eEAIFRT8S13VrK4W3hNo) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Philipp Schupelius](https://open.spotify.com/artist/5GVDvbvOn2HQ6dcKLXohKT), [Shanghai Philharmonic Orchestra](https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8), [Liang Zhang](https://open.spotify.com/artist/2ps20TD19WuTC4OwEETvqf) | [Wordless Farewell](https://open.spotify.com/album/2ZpsL1JLnGgX1cJg0BERMl) | 3:35 | 2026-07-17 |  |
 | [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 | 2022-06-24 | 2022-11-09 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

@@ -20902,7 +20902,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 88888,
       "name": "havefun",
       "url": "https://open.spotify.com/track/3scVrOGMEQoqL6UQvieavk"
@@ -29281,6 +29281,24 @@
     },
     {
       "album": {
+        "name": "Love Love (Love Love)",
+        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Love Love (Love Love)",
+      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
+    },
+    {
+      "album": {
         "name": "love me",
         "url": "https://open.spotify.com/album/6R2tK2Kz7LsGZPswqfDpGd"
       },
@@ -31404,7 +31422,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195428,
       "name": "mind be so numb",
       "url": "https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n"
@@ -31798,7 +31816,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 160213,
       "name": "Moire",
       "url": "https://open.spotify.com/track/64xwM6gRhzh9XlTCYFX6y3"
@@ -35807,6 +35825,28 @@
     },
     {
       "album": {
+        "name": "OZEMPIC",
+        "url": "https://open.spotify.com/album/1uFVJQUCpdCghONNSqIbmS"
+      },
+      "artists": [
+        {
+          "name": "Euskoprincess",
+          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "OZEMPIC",
+      "url": "https://open.spotify.com/track/2gFHy9JQHEGvGsAtd7zCW2"
+    },
+    {
+      "album": {
         "name": "P!RNHUB",
         "url": "https://open.spotify.com/album/270lYiriRkpM4JTlKxXj7I"
       },
@@ -37308,6 +37348,24 @@
       "duration_ms": 133263,
       "name": "POP SHUVIT!",
       "url": "https://open.spotify.com/track/401qoFc0esSgVBS9av7m0C"
+    },
+    {
+      "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
     },
     {
       "album": {
@@ -45282,7 +45340,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 206571,
       "name": "stop being a hoe (ethanplus Remix)",
       "url": "https://open.spotify.com/track/5MpZX0wdV9TycmyZewTwux"

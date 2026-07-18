@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Bengü ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,251 likes - 107 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,874 likes - 108 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 34 | [Haydar Haydar](https://open.spotify.com/track/4VolalmXUHQMYZm5pmt6DN) | [Karaf](https://open.spotify.com/artist/3olb2kGgNI9UuUjHJpYK0o) | [Haydar Haydar](https://open.spotify.com/album/1ydzcvud8Y5hVhwfPA2wSY) | 3:52 |
 | 35 | [Gömdüm Aşk\-ı](https://open.spotify.com/track/3c7GbZqYno6uIgOc4eRXj2) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW) | [Gömdüm Aşk\-ı](https://open.spotify.com/album/3xVWRPDUhuoC3F20LquyPZ) | 3:26 |
 | 36 | [HERALDE](https://open.spotify.com/track/4arXp17etIcPL1LWMqvvec) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [HERALDE](https://open.spotify.com/album/6kX2TQjvuXJtrcUU55GORs) | 2:12 |
-| 37 | [Track 4](https://open.spotify.com/track/5VRNP8LVkHqd29nVncvWk8) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Yola Devam](https://open.spotify.com/album/2xr1eQGFSOzL2In0WrvrlH) | 0:00 |
+| 37 | [Gece Gibi Gel](https://open.spotify.com/track/5VRNP8LVkHqd29nVncvWk8) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Yola Devam](https://open.spotify.com/album/2xr1eQGFSOzL2In0WrvrlH) | 2:09 |
 | 38 | [Kaderimin Oyunusun](https://open.spotify.com/track/1bohYgXJvqMJq6p2kAyBWi) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Kaderimin Oyunusun](https://open.spotify.com/album/1l03blQ9P8DXSx5uOe9Ggy) | 2:55 |
 | 39 | [BYE BYE](https://open.spotify.com/track/4lnQFBtP3AjFNUX89PDpzQ) | [BAR BIA](https://open.spotify.com/artist/6tpQwZFjeQbKo0B2S7fZGg), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BYE BYE](https://open.spotify.com/album/2ye5HSQgpXucH24URizzUT) | 2:00 |
 | 40 | [Pusu Kuruyor](https://open.spotify.com/track/5l9V2GgggT5BseUdeyabm4) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Pusu Kuruyor](https://open.spotify.com/album/77gT7QCBUJPMgOwxmuWa7l) | 2:14 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 62 | [Canavar](https://open.spotify.com/track/1NdovsMYS3E8Xla7gOaNGk) | [Ali Chapo](https://open.spotify.com/artist/2y87kmzGXuNRoOBKOnm41q) | [Canavar](https://open.spotify.com/album/3qLk5qGivhKEfbEWpG1LvS) | 2:05 |
 | 63 | [TRAPTOR](https://open.spotify.com/track/6RCgswOLTfCJdsQn00abLO) | [ERU](https://open.spotify.com/artist/3ijnQoOmFlFrGvYgUZC8tq), [SHY](https://open.spotify.com/artist/53vDt5rEMf4xwcEHXqM72n) | [TRAPTOR](https://open.spotify.com/album/6kviXzKEzQ2asOmTdg6PV7) | 1:18 |
 | 64 | [TOP CHART](https://open.spotify.com/track/6rmVO1bmpjzIigcsQziIfT) | [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1) | [TOP CHART](https://open.spotify.com/album/4p5mtxjLndJqQaSxEMQLdz) | 2:01 |
-| 65 | [Track 5](https://open.spotify.com/track/2F4gakAdBZNZe6gnJbwXbW) | [Aynur](https://open.spotify.com/artist/6kZvCKj0MxeLEg35TXYZDd) | [Live Collection Series: Boğaziçi](https://open.spotify.com/album/0Z3cV7QlFPC4wAvY9k7y8H) | 0:00 |
+| 65 | [Akşam Olur Karanlığa Kalırsın\- Gelin \- Live at Boğaziçi](https://open.spotify.com/track/2F4gakAdBZNZe6gnJbwXbW) | [Aynur](https://open.spotify.com/artist/6kZvCKj0MxeLEg35TXYZDd) | [Live Collection Series: Boğaziçi](https://open.spotify.com/album/0Z3cV7QlFPC4wAvY9k7y8H) | 5:22 |
 | 66 | [Gece Bekçisi \(Akustik\)](https://open.spotify.com/track/4LJ516ePRvVCHENWoSwQzZ) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ) | [Hatırlamıyorum](https://open.spotify.com/album/3G8LGG44tiRpjPoWEZhDJf) | 3:12 |
 | 67 | [Bi Farkın Yok](https://open.spotify.com/track/6YDkEFfbyR9kqQ2fmr8ZAY) | [efey4hya](https://open.spotify.com/artist/51VMWTqR5Y6pC2y30m3kqM) | [Bi Farkın Yok](https://open.spotify.com/album/481k4cX1R66ReLOPNT2azB) | 2:54 |
 | 68 | [KURT COBAIN](https://open.spotify.com/track/78RqxUmC0tqakZdt2FV28Y) | [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [ULTRAVIOLÉ](https://open.spotify.com/album/0EHekZeOHQ679q3zuEQTty) | 2:03 |
@@ -110,10 +110,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 100 | [Denge \- A\-Tape](https://open.spotify.com/track/3sI5hhdyAQlbLEeAqIT9Fg) | [Nasihat](https://open.spotify.com/artist/16Q3Cd0OCxtjJageHDqY9Q) | [Denge \(A\-Tape\)](https://open.spotify.com/album/6cG711aFhie9T6Gz5bg68q) | 3:02 |
 | 101 | [DEJA](https://open.spotify.com/track/1jQo3rDIJi1bmhwZHcE04k) | [Deja](https://open.spotify.com/artist/2v6Rfe2RE8Sq5nKn80e8GQ) | [DEJA](https://open.spotify.com/album/2OLDuLojj50iC0sFV8CYUw) | 2:30 |
 | 102 | [KOVAN](https://open.spotify.com/track/11SBHx7dCqNWN5vlcW6ZMk) | [b8](https://open.spotify.com/artist/332Dfo4gdzHulJ49WmlW5O) | [KOVAN](https://open.spotify.com/album/6GyTd4D4TUpHEVuqG5ltJs) | 1:45 |
-| 103 | [Cilve](https://open.spotify.com/track/17tBm73AMtYoj3KY4PmJ58) | [Mustafa Becerik](https://open.spotify.com/artist/6HS6nannn9ORc4xc5lPrV9) | [Cilve](https://open.spotify.com/album/1fCruUzFHODEYxMrynTAah) | 2:47 |
-| 104 | [Derdimden Büyük](https://open.spotify.com/track/4WoIx7P5JGJmvgBHX2ofGx) | [Yasemin Koç](https://open.spotify.com/artist/2kMj60GL4WITQFUDTkivyU) | [Derdimden Büyük](https://open.spotify.com/album/4SCDJmVc2JvcvnF9hh2Onu) | 3:02 |
-| 105 | [Ceza](https://open.spotify.com/track/5irFBelWIuYqJLRfcwB3Ft) | [Berru Tural](https://open.spotify.com/artist/3M5nCTomwzlOvf0yiH9QHa) | [Ceza](https://open.spotify.com/album/7atWmhorR8s2GRDTj4y5sE) | 3:18 |
-| 106 | [Bana Bi’ Şans Ver](https://open.spotify.com/track/3DHA9uqc1zoBsJsdG8SixS) | [Umut Er](https://open.spotify.com/artist/2dIg9NWnGgv2XFcXcdEMDp) | [Bana Bi’ Şans Ver](https://open.spotify.com/album/4pSNH6crJo9F94PCvTiQgp) | 3:37 |
-| 107 | [FLX](https://open.spotify.com/track/3ahxTol3sEIyhQnC9oTR9e) | [Pai](https://open.spotify.com/artist/6mv2xxrLqFamRS9V6CWb1Y) | [FLX](https://open.spotify.com/album/4N2BcCsjpcXmXKT1YVeBGA) | 2:16 |
+| 103 | [Overdue](https://open.spotify.com/track/05AgkmGMCFojowUN8Zh0pO) | [SIMYA](https://open.spotify.com/artist/7n5rcN15IpF9phKu2NQPuN) | [Overdue](https://open.spotify.com/album/57ZUdmMlSenIWdtbXSM78G) | 3:21 |
+| 104 | [Cilve](https://open.spotify.com/track/17tBm73AMtYoj3KY4PmJ58) | [Mustafa Becerik](https://open.spotify.com/artist/6HS6nannn9ORc4xc5lPrV9) | [Cilve](https://open.spotify.com/album/1fCruUzFHODEYxMrynTAah) | 2:47 |
+| 105 | [Derdimden Büyük](https://open.spotify.com/track/4WoIx7P5JGJmvgBHX2ofGx) | [Yasemin Koç](https://open.spotify.com/artist/2kMj60GL4WITQFUDTkivyU) | [Derdimden Büyük](https://open.spotify.com/album/4SCDJmVc2JvcvnF9hh2Onu) | 3:02 |
+| 106 | [Ceza](https://open.spotify.com/track/5irFBelWIuYqJLRfcwB3Ft) | [Berru Tural](https://open.spotify.com/artist/3M5nCTomwzlOvf0yiH9QHa) | [Ceza](https://open.spotify.com/album/7atWmhorR8s2GRDTj4y5sE) | 3:18 |
+| 107 | [Bana Bi’ Şans Ver](https://open.spotify.com/track/3DHA9uqc1zoBsJsdG8SixS) | [Umut Er](https://open.spotify.com/artist/2dIg9NWnGgv2XFcXcdEMDp) | [Bana Bi’ Şans Ver](https://open.spotify.com/album/4pSNH6crJo9F94PCvTiQgp) | 3:37 |
+| 108 | [FLX](https://open.spotify.com/track/3ahxTol3sEIyhQnC9oTR9e) | [Pai](https://open.spotify.com/artist/6mv2xxrLqFamRS9V6CWb1Y) | [FLX](https://open.spotify.com/album/4N2BcCsjpcXmXKT1YVeBGA) | 2:16 |
 
 Snapshot ID: `AAAAAI7evRx0140E81exG/SWL2N+K+TH`

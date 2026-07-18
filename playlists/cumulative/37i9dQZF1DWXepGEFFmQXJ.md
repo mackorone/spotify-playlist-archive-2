@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: The Wet Whistles
 
-1,251 songs - 2 day 20 hr 37 min
+1,252 songs - 2 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,6 +1061,7 @@
 | [The Call](https://open.spotify.com/track/2eyhcmJHSEbdakGBBDsiqE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County \(From The Beginning\)](https://open.spotify.com/album/1LfbRC9L0MfNXSHZfX63hq) | 4:59 | 2024-10-31 | 2025-01-10 |
 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 | 2025-05-22 | 2025-07-18 |
 | [The Darkness](https://open.spotify.com/track/2e4FrUm8CiGmNvIgSOu4CF) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Reason To Believe](https://open.spotify.com/album/4XdLdI1tIzVWuLX5JjLvGu) | 3:39 | 2026-05-28 |  |
+| [The Day I Hang It Up](https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [The Day I Hang It Up](https://open.spotify.com/album/5yWMqaHPPBwpS5sOhGU9u5) | 2:41 | 2026-07-16 |  |
 | [The Dress](https://open.spotify.com/track/4pbQxmny6x7hYojKtu77SW) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Dustpiles](https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo) | 4:03 | 2026-07-16 |  |
 | [The Easy Part](https://open.spotify.com/track/4jXhn6VdZJ9Em2oQoBCRdL) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The Easy Part](https://open.spotify.com/album/6igHTjBIaZOADFFNEsRMh3) | 3:36 | 2025-07-31 | 2025-10-10 |
 | [The Girl I Knew](https://open.spotify.com/track/5fC1YgBLFdSv3Uslvw6EoM) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [The Girl I Knew](https://open.spotify.com/album/3ti4yhlrktsAPHwQ7gRs4P) | 2:51 | 2023-10-05 | 2023-12-20 |

@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/5Ftz250CdsmP245ch6fUi4"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/1N9IeARyJvRI9Fv5XMpih4"
+    },
+    {
+      "album": {
         "name": "Arachnophobia",
         "url": "https://open.spotify.com/album/3QATSYk5TsPkoEJKvZIM7P"
       },
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167652,
       "name": "Co mi tam",
       "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 170402,
       "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
       "url": "https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER"
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 176727,
       "name": "Dom",
       "url": "https://open.spotify.com/track/7GI44CEvgkTfS0lDPxnVQW"
@@ -5148,7 +5166,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 211764,
       "name": "Gdzie jest Frank Ocean?",
       "url": "https://open.spotify.com/track/0Zl4Qc9ykqydUmTvbc145L"
@@ -5286,7 +5304,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 159974,
       "name": "glitter in the night",
       "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
@@ -5366,6 +5384,24 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248164,
+      "name": "Good Reason",
+      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
       "album": {
@@ -8017,6 +8053,40 @@
     },
     {
       "album": {
+        "name": "LAWETA",
+        "url": "https://open.spotify.com/album/3OLETlDfl1uKHtliwKJ1vy"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "GRAUX",
+          "url": "https://open.spotify.com/artist/7dIkkipbI4G2w3R24gIqQ6"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158230,
+      "name": "LAWETA",
+      "url": "https://open.spotify.com/track/0BB4jjCL7bYDZwZk6OsKsf"
+    },
+    {
+      "album": {
         "name": "Le bois br\u00fble",
         "url": "https://open.spotify.com/album/5xMtoetMCz6QQvEPSZV5Q7"
       },
@@ -8740,7 +8810,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 226260,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/13HoInPNP9y7ric9rHdmKo"
@@ -8928,6 +8998,24 @@
       "duration_ms": 165586,
       "name": "mario",
       "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
+    },
+    {
+      "album": {
+        "name": "Mary Liz",
+        "url": "https://open.spotify.com/album/66mM8cazoG4DatzhsHMKEH"
+      },
+      "artists": [
+        {
+          "name": "Cinnamon Gum",
+          "url": "https://open.spotify.com/artist/7IHYKEfIucsNRkp6ge657X"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136213,
+      "name": "Mary Liz",
+      "url": "https://open.spotify.com/track/2uTLLFhgJRxuo3BHXqwoH8"
     },
     {
       "album": {
@@ -9522,6 +9610,24 @@
       "duration_ms": 275780,
       "name": "More to Lose",
       "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
+    },
+    {
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "album": {
@@ -11588,7 +11694,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 176394,
       "name": "Optimist",
       "url": "https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz"
@@ -13057,6 +13163,24 @@
     },
     {
       "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg"
+    },
+    {
+      "album": {
         "name": "Promise?",
         "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
       },
@@ -13138,7 +13262,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 225600,
       "name": "Przejdzie",
       "url": "https://open.spotify.com/track/1mX2xcAqCVkmTljZoyIryk"
@@ -13982,7 +14106,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 265283,
       "name": "Safari X",
       "url": "https://open.spotify.com/track/2o02L5fM30wexzQGaMPE4X"
@@ -15465,6 +15589,24 @@
     },
     {
       "album": {
+        "name": "Sweet n\u2019 Sour",
+        "url": "https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157683,
+      "name": "Sweet n\u2019 Sour",
+      "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
+    },
+    {
+      "album": {
         "name": "syreny",
         "url": "https://open.spotify.com/album/2nEbaoH3bOXEOEmWXRub2k"
       },
@@ -16823,6 +16965,24 @@
     },
     {
       "album": {
+        "name": "Tracimy tylko czas",
+        "url": "https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Tracimy tylko czas",
+      "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
+    },
+    {
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W"
       },
@@ -16838,6 +16998,24 @@
       "duration_ms": 224146,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8"
+    },
+    {
+      "album": {
+        "name": "trees for the woods",
+        "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247540,
+      "name": "trees for the woods",
+      "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
       "album": {
@@ -17822,6 +18000,24 @@
       "duration_ms": 171731,
       "name": "Weekend Boy",
       "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
+    },
+    {
+      "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
     },
     {
       "album": {
@@ -18978,7 +19174,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 197317,
       "name": "Zabierz mnie",
       "url": "https://open.spotify.com/track/1zGdPbhCoVtHmvmhwpGyzt"

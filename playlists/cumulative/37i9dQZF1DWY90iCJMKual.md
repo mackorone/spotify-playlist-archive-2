@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Denise Julia
 
-506 songs - 1 day 3 hr 30 min
+510 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [IDONTKNOW](https://open.spotify.com/track/7cdCFgg9Bas4TKQj8ZPyUY) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [IDONTKNOW](https://open.spotify.com/album/7gBKC4DZACdv0RllYjrdMm) | 3:29 | 2025-11-10 | 2025-12-04 |
 | [IDWTEXTUBABY](https://open.spotify.com/track/5qCBvYAAU36yMNlWocpWsJ) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1) | [IDWTEXTUBABY](https://open.spotify.com/album/2KRM2qkoin6x6INQsC3k16) | 6:46 | 2023-10-13 | 2024-02-29 |
 | [If you know](https://open.spotify.com/track/4VTcx7SL7OyJkPdgM9UxKg) | [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [Crakky](https://open.spotify.com/artist/3t80c7XZFuKcSUVyvpI6d3) | [If you know](https://open.spotify.com/album/5rYEDfD05wXsm6CAfemsCh) | 2:42 | 2025-09-12 | 2025-12-04 |
+| [If You Were My Boo](https://open.spotify.com/track/3bBPI2E3VrQqQbYC7fjfJG) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [If You Were My Boo](https://open.spotify.com/album/6pXy9msWlnvoZml5wdvfr1) | 4:16 | 2026-07-17 |  |
 | [igotyou](https://open.spotify.com/track/4axeZkPYK38pCXZELyCXll) | [Kyl Aries](https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S) | [igotyou](https://open.spotify.com/album/0iAYpL3xGoiRFVXo2R7WA9) | 3:40 | 2022-10-12 | 2023-07-29 |
 | [Iingatan Kita \(feat\. Nik Makino\)](https://open.spotify.com/track/5EoLhi1fO5bj7CtAHCwoOJ) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q), [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks) | [Iingatan Kita \(feat\. Nik Makino\)](https://open.spotify.com/album/0G4PM6H9pA3pIvfBYJj083) | 3:07 | 2023-11-17 | 2025-01-17 |
 | [Ikaw](https://open.spotify.com/track/70DsYJAaQd6GbYCBkSnmhW) | [Ayip](https://open.spotify.com/artist/5hvJjbF0h7vQRvZ47Ll1zP), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Ikaw](https://open.spotify.com/album/35WDoHkwGzEmQhcSiVSvbt) | 3:13 | 2022-12-14 | 2023-07-29 |
@@ -357,6 +358,7 @@
 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2024-03-12 |  |
 | [Para Lang Sa'yo](https://open.spotify.com/track/3UlM8h84n3BoJyOAV2XbBS) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [Para Lang Sa'yo](https://open.spotify.com/album/64IGUK4c80Ki79J8GL53sL) | 2:25 | 2026-02-23 | 2026-06-27 |
 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-21 | 2026-03-25 |
+| [Paradise](https://open.spotify.com/track/6R8WzI0A00AWtX3vw6PNFM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Paradise](https://open.spotify.com/album/1aFlqLnophxrohV3vbNAXe) | 3:06 | 2026-07-17 |  |
 | [Paraiso](https://open.spotify.com/track/5BfDIUvbucoFiJDQCcJeNp) | [Anji Salvacion](https://open.spotify.com/artist/5dUnvFYDMwg7j5JcERaGMk) | [Paraiso](https://open.spotify.com/album/6i6wKxhKqdmxvp6doDn3lg) | 3:08 | 2023-04-21 | 2023-08-17 |
 | [Paraluman](https://open.spotify.com/track/1rznIP1bYsOGy9D9KyXueZ) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Paraluman](https://open.spotify.com/album/7CoTVzxzcWEB01I4uKe8Wa) | 4:41 | 2022-10-12 | 2023-07-29 |
 | [Paramdam](https://open.spotify.com/track/35LQPNNntn1AOa3SExFVxz) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi) | [Paramdam](https://open.spotify.com/album/5KmNhTJ2oYiZ1sbzt7fmiD) | 4:36 | 2022-10-12 | 2023-05-18 |
@@ -381,6 +383,7 @@
 | [r u mine?](https://open.spotify.com/track/5XORKi6kE3LoXyeuCTOZEr) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [zero sugar \(deluxe edition\)](https://open.spotify.com/album/03pff5qVfKj4f6vwmHZuX7) | 2:48 | 2025-01-17 | 2026-02-28 |
 | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/track/1RyNTn3xMOxEEKBPPNv26Y) | [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Millennium PH](https://open.spotify.com/artist/0Rqq0FtfXdLCVTMi4iuM0o), [SIK4M1](https://open.spotify.com/artist/1djddcVQAVA3lJTLmzIj7e) | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/album/4RUoQYHy04Sm41QDwB9Tyz) | 3:31 | 2022-10-12 | 2023-07-29 |
 | [RBND](https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs) | [Zachary](https://open.spotify.com/artist/5rqiwyKEa9FZTy78BVNRSc) | [RBND](https://open.spotify.com/album/2IgRAdB7ITP9m0NQAn9mrM) | 2:57 | 2022-12-14 | 2023-08-04 |
+| [Recall](https://open.spotify.com/track/3WXwyPXvew8pgb7v0wPazY) | [OZO](https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI) | [Recall](https://open.spotify.com/album/0JbKO3DJFalXg4MJDdpen4) | 4:34 | 2026-07-17 |  |
 | [RIDE](https://open.spotify.com/track/2Ne8TpsDAs3dHrNpPqkd2v) | [rienne](https://open.spotify.com/artist/4TvZ190CDevLDBByQ5pXTP), [DAZE](https://open.spotify.com/artist/0jts7PajizS8WEOylLO1b6) | [RIDE](https://open.spotify.com/album/2mTviQ1feV7WAuA8LoND7A) | 2:41 | 2025-08-08 | 2025-12-04 |
 | [Right Time](https://open.spotify.com/track/1i1qzqAEak05032RuwcrTY) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Right Time](https://open.spotify.com/album/7IMA9Uv2Eys0tNrQ1ImYrE) | 3:28 | 2023-04-17 | 2023-09-07 |
 | [Roots](https://open.spotify.com/track/2f10y3Q1P9UFJPj7cGCBj8) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [Roots](https://open.spotify.com/album/0ONLtHlkSuxLBquZNwvilc) | 3:09 | 2023-10-27 | 2024-02-07 |
@@ -409,6 +412,7 @@
 | [Save Our Love](https://open.spotify.com/track/46zkArRxszr5jpq3Q2ziQq) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Save Our Love](https://open.spotify.com/album/2HuFrYNh6j9pVo7Nyiahjd) | 2:40 | 2026-06-15 |  |
 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 | 2023-08-30 | 2024-03-13 |
 | [sayang](https://open.spotify.com/track/4gE0JIwmVMJM2cIdgL0joY) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [sayang](https://open.spotify.com/album/6qQXVJYOm7wGLxK6mLnTlq) | 3:02 | 2025-08-08 | 2025-12-04 |
+| [Sayang](https://open.spotify.com/track/2zL2rMvXqOoPpabiBcjKjX) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Contrast](https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq) | 3:05 | 2026-07-17 |  |
 | [Sayo](https://open.spotify.com/track/50yqnqZJcev2GoGeWnWC9B) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sayo](https://open.spotify.com/album/3nlJpk1BYKsKLC1j4xD7rU) | 2:42 | 2025-10-24 | 2025-12-04 |
 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 | 2023-10-13 | 2024-08-31 |
 | [Sayo Lamang](https://open.spotify.com/track/5ZNNJZDFcgt3qG3m9XFRIt) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/4WGGdXbns7k4zkwIjxn66l) | 3:04 | 2024-03-22 | 2025-01-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: NINEOKMAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,124 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,122 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc) | [SOUNDSLEEP](https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw) | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj) | 4:52 |
 | 50 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
 
-Snapshot ID: `AAAAALUW8YHXyL2jPoZbuT/eCkY/3lA6`
+Snapshot ID: `AAAAAM97CtITA0KFOo8cCVmTaEPfWFFO`

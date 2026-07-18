@@ -4365,6 +4365,28 @@
     },
     {
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/2Sb3J6ExQSAl16YdNkgKys"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        },
+        {
+          "name": "Jones McJonsen",
+          "url": "https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149624,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/2mag4uJrjz3ub8ycjASBrZ"
+    },
+    {
+      "album": {
         "name": "Armagosa",
         "url": "https://open.spotify.com/album/6IbnNQY0GFx1V4WM49Yy09"
       },
@@ -6412,6 +6434,28 @@
       "duration_ms": 79932,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3fiOgFT8BOAu3EqtHDhp26"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/4VT0f5pVq2y6PVbOtP4K9u"
+      },
+      "artists": [
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        },
+        {
+          "name": "yungmerrin",
+          "url": "https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111463,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/26zjxcIewOYyMWym0mftMl"
     },
     {
       "album": {
@@ -9146,6 +9190,32 @@
       "duration_ms": 140689,
       "name": "Blue Shift",
       "url": "https://open.spotify.com/track/6M9BG9lw1NJ3cUXHc5UWar"
+    },
+    {
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/4NF6j0UpqxnbooPCltEehL"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "SunShun",
+          "url": "https://open.spotify.com/artist/39lo8UU0LRMGTcHzmqMK9p"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109756,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/1ULVlnExqXN3JGy3gTuRv1"
     },
     {
       "album": {
@@ -23030,7 +23100,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 124235,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/2iq7cTcwCbPXwjQ969MZ63"
@@ -31295,6 +31365,32 @@
     },
     {
       "album": {
+        "name": "Green Soju",
+        "url": "https://open.spotify.com/album/0bhdYL3ErDclyErpII52fu"
+      },
+      "artists": [
+        {
+          "name": "Langston",
+          "url": "https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA"
+        },
+        {
+          "name": "Hicks",
+          "url": "https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV"
+        },
+        {
+          "name": "ARISU",
+          "url": "https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Green Soju",
+      "url": "https://open.spotify.com/track/0KFQ697GYrwEscuMJ8oO9V"
+    },
+    {
+      "album": {
         "name": "greenery",
         "url": "https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6"
       },
@@ -37564,7 +37660,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 114285,
       "name": "Island Dream",
       "url": "https://open.spotify.com/track/4r1TL5VYZQAaFPPYnPwAKf"
@@ -39706,7 +39802,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 113684,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/37M0mUenbLK4xcQEkFcPUf"
@@ -47393,6 +47489,28 @@
     },
     {
       "album": {
+        "name": "Marigot",
+        "url": "https://open.spotify.com/album/08mK985PXhFRSnEDZyhep0"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Marigot",
+      "url": "https://open.spotify.com/track/43Ni4j90A0bFH6ygRNeyfW"
+    },
+    {
+      "album": {
         "name": "Marinata",
         "url": "https://open.spotify.com/album/5yzgXeDOJdi01fCodYV2jn"
       },
@@ -48536,7 +48654,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 99512,
       "name": "MIA",
       "url": "https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG"
@@ -58388,7 +58506,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 128873,
       "name": "Outlines",
       "url": "https://open.spotify.com/track/4kPeJwqxGDX7DJYFuOCQAF"

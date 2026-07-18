@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,589 likes - 88 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,570 likes - 88 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 87 | [YOU'RE NOTHING](https://open.spotify.com/track/7CtpvWmTKId7nL7kgDV1Uv) | [Native James](https://open.spotify.com/artist/3hppZYnoNkwmo2pXbRNeF3) | [YOU'RE NOTHING](https://open.spotify.com/album/735CcQuU6bmzMNp8S0tfax) | 2:55 |
 | 88 | [YOU DIED](https://open.spotify.com/track/76hJuzeeHq615YFWu0NyaD) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [YOU DIED](https://open.spotify.com/album/0D9HpjMrmUY5w9LSHVvdM8) | 3:24 |
 
-Snapshot ID: `AAAAAHcQhs7+Ai1rNkqmKX3fuUADY8VE`
+Snapshot ID: `AAAAAEhOsLvqVc4tPikbWNiIQsmh6Cgu`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAACBwwGX6ERSNISdDZfgoVbe",
+  "snapshot_id": "algfAAAAAAAVDknwOzafEoliTa8K5y7j",
   "tracks": [
     {
       "added_at": null,
@@ -638,15 +638,11 @@
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        },
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         }
       ],
-      "duration_ms": 381226,
-      "name": "101 REGRETS",
-      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
+      "duration_ms": 230600,
+      "name": "N\u00c9ON ROUGE",
+      "url": "https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074"
     },
     {
       "added_at": null,
@@ -710,11 +706,15 @@
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         }
       ],
-      "duration_ms": 230600,
-      "name": "N\u00c9ON ROUGE",
-      "url": "https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074"
+      "duration_ms": 381226,
+      "name": "101 REGRETS",
+      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 192874,
-      "name": "PETIT <3",
-      "url": "https://open.spotify.com/track/6f0gMyXWn8vd4sDwA9xlNg"
+      "duration_ms": 42500,
+      "name": "FUCK ME",
+      "url": "https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed"
     },
     {
       "added_at": null,
@@ -911,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Station",
-        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
+        "name": "Drapeau blanc",
+        "url": "https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW"
       },
       "artists": [
         {
-          "name": "Ria Sean",
-          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+          "name": "Lord Esperanza",
+          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt"
+      "duration_ms": 184920,
+      "name": "Laisse aller (feat. Yseult)",
+      "url": "https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8"
     }
   ],
   "unique_name": "This Is Yseult",

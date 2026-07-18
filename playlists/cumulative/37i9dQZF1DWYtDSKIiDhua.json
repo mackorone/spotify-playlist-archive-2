@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "R&B and good vibe tracks for your current mood. Cover: Jorja Smith",
+  "description": "R&B and good vibe tracks for your current mood. Cover: Tinashe",
   "name": "mood. ",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 197837,
       "name": "8 Stages",
       "url": "https://open.spotify.com/track/24PCmAa9K0g7Z44xjyaIOk"
@@ -2576,6 +2576,28 @@
       "duration_ms": 197427,
       "name": "Bag Of You",
       "url": "https://open.spotify.com/track/5oXnVsEekj2sD6HlLcNXd5"
+    },
+    {
+      "album": {
+        "name": "Ballerina Tea (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5gXRFTz68AdHOkoLBdXG5Q"
+      },
+      "artists": [
+        {
+          "name": "LAWSON",
+          "url": "https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193513,
+      "name": "Ballerina Tea (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4I0oPdCm7ZCP7DTHs73a1e"
     },
     {
       "album": {
@@ -5717,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190894,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
+    },
+    {
+      "album": {
         "name": "crazy girl",
         "url": "https://open.spotify.com/album/6ZC1MX5xk9GwQoGQPxqyzM"
       },
@@ -7506,6 +7546,24 @@
       "duration_ms": 187058,
       "name": "Don\u2019t go home",
       "url": "https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292780,
+      "name": "doom",
+      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
     },
     {
       "album": {
@@ -11195,6 +11253,24 @@
     },
     {
       "album": {
+        "name": "Made You Think I Was Gone ...But",
+        "url": "https://open.spotify.com/album/25bNaP0CRNhtjAwxRiFguT"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143474,
+      "name": "Gyal Gimmie",
+      "url": "https://open.spotify.com/track/4SIQIPGjdmJLJRrnquuvwW"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf"
       },
@@ -11652,6 +11728,24 @@
       "duration_ms": 214956,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
+    },
+    {
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
       "album": {
@@ -15567,6 +15661,24 @@
     },
     {
       "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
+    },
+    {
+      "album": {
         "name": "PSST!",
         "url": "https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj"
       },
@@ -15926,7 +16038,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 202040,
       "name": "Looking Lovely (feat. Robin Thicke)",
       "url": "https://open.spotify.com/track/3S387IOgisu1EnfqoxbHoK"
@@ -17922,7 +18034,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 245080,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX"
@@ -18746,7 +18858,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
@@ -22400,6 +22512,24 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
+    },
+    {
+      "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/0JbKO3DJFalXg4MJDdpen4"
+      },
+      "artists": [
+        {
+          "name": "OZO",
+          "url": "https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/3WXwyPXvew8pgb7v0wPazY"
     },
     {
       "album": {
@@ -26852,7 +26982,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 165558,
       "name": "TABOO",
       "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
@@ -28166,7 +28296,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 238285,
       "name": "There, There",
       "url": "https://open.spotify.com/track/5fnRmmu0VYact0wMvpaV8h"
@@ -31474,7 +31604,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 254360,
       "name": "Why You Wanna Fight?",
       "url": "https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX"

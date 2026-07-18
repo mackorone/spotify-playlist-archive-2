@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,309 likes - 49 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,447 likes - 49 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 17 | [E Se Deus Disser Não? \- Ao Vivo](https://open.spotify.com/track/4lbMjNGgc5BxgBUirrI4br) | [Abraão Alencar](https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [E Se Deus Disser Não? \(Ao Vivo\)](https://open.spotify.com/album/6RhXgd8XLN8GrDUOdwu1sd) | 5:08 |
 | 18 | [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/0tIeWlRo1s3R2R83GLzXN3) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Os Sonhos de Deus \(Ao Vivo\)](https://open.spotify.com/album/6ixU3Qh1Lob6kEI02SeGQM) | 5:22 |
 | 19 | [Salva\-me, ó Deus](https://open.spotify.com/track/3GvweYWA2GjqPXdXbh31ot) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67) | [Salva\-me, ó Deus](https://open.spotify.com/album/4rwgrmh2mqhsHCJNBBkNDa) | 5:08 |
-| 20 | [Saudades da Eternidade](https://open.spotify.com/track/4jfHVR2Kdmozxn0fm49Foy) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Paixão & Devoção Vol\. 1 \(Acústico\)](https://open.spotify.com/album/7Knetfd3XvG3eeztyOhMu8) | 3:47 |
+| 20 | [Saudades da Eternidade](https://open.spotify.com/track/4jfHVR2Kdmozxn0fm49Foy) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Paixão & Devoção Vol\. 1](https://open.spotify.com/album/7Knetfd3XvG3eeztyOhMu8) | 3:47 |
 | 21 | [Feche os Olhos](https://open.spotify.com/track/5s2Im1RF82P8Oef7eTgAt8) | [Gerson Borges](https://open.spotify.com/artist/5oVAfxApcM67olFFGpQGEe), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Feche Os Olhos](https://open.spotify.com/album/3iuhsX0Y8yA6mJRikkgKWZ) | 4:06 |
 | 22 | [Círculo de Oração](https://open.spotify.com/track/2IMhAXarSl3w0RsjZLs6QB) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Círculo de Oração](https://open.spotify.com/album/6Dk5fGCDvA0fExcFlDWEz1) | 2:44 |
 | 23 | [Minha Essência \- Ao Vivo](https://open.spotify.com/track/3dnznjUVkhiZFEqZWJP5Vc) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Essencial \- Ao Vivo em Belo Horizonte](https://open.spotify.com/album/70TnE2X1grKX8pb1Orcz65) | 5:56 |

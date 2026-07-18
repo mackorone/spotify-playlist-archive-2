@@ -2,9 +2,9 @@
 
 ### [Indie's Top 50](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> A delicious mix of new songs in high rotation\. Cover: Beabadoobee
+> A delicious mix of new songs in high rotation\. Cover: Bella Kay
 
-3,106 songs - 7 day 19 hr 42 min
+3,108 songs - 7 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -907,6 +907,7 @@
 | [Fantasy](https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Fantasy](https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ) | 4:47 | 2024-09-13 | 2024-10-11 |
 | [Fantasy \(with Raveena\)](https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Fantasy \(with Raveena\)](https://open.spotify.com/album/7dEJfJNC8FTuvu1fbnXedb) | 3:54 | 2025-03-28 | 2025-08-23 |
 | [Far Away From Home](https://open.spotify.com/track/1S8p8ckDT2D6imAfsppGRl) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 4:25 | 2019-08-09 | 2019-12-07 |
+| [Fast Asleep](https://open.spotify.com/track/1plZImDbco0NxZyxjQ1KnY) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Heavenly Body: If I'm The Bottle You're The Message](https://open.spotify.com/album/6e9wfJP9MkML5BqpviZlk8) | 2:53 | 2026-07-17 |  |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-07-19 | 2022-04-09 |
 | [FAST LOVE](https://open.spotify.com/track/21mtm9jy3qJrrajtWXvQel) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/4QUB4pWidBTtksxXVhDO19) | 3:26 | 2023-12-08 | 2024-01-14 |
 | [FAST LOVE](https://open.spotify.com/track/49RXDNZ5DB9v3YhB6fFM2C) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [FAST LOVE](https://open.spotify.com/album/2C1ihKLZTjo8wYGG0TGtDQ) | 3:26 | 2023-12-08 | 2024-01-30 |
@@ -1275,6 +1276,7 @@
 | [I Can Dream](https://open.spotify.com/track/4T0V5H3xvsPtc8L7Gt0U3b) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [I Can Dream](https://open.spotify.com/album/1FXJHXlWYHfQW3Iv5pA8l0) | 4:37 | 2024-06-07 | 2024-08-17 |
 | [I CHOOSE YOU](https://open.spotify.com/track/6YRLMz4DOqNtGCvqGR2E0N) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I CHOOSE YOU](https://open.spotify.com/album/7IQHVqrPoox6QKnyW9zGDY) | 3:37 | 2019-12-13 | 2020-03-06 |
 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 | 2025-03-28 | 2025-06-14 |
+| [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 | 2026-07-17 |  |
 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 | 2026-01-30 | 2026-06-06 |
 | [I disappear in your arms \- bonus](https://open.spotify.com/track/7k9L8N0jZcz9qFupVeI4Va) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/3uF0lelesKigBc6H9NGzDq) | 3:56 | 2020-03-14 | 2020-06-12 |
 | [I Don't Belong](https://open.spotify.com/track/5cROm5vS1sK0gM3NQL5Gr6) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Don't Belong](https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW) | 4:31 | 2020-07-03 | 2021-03-06 |
@@ -2174,7 +2176,7 @@
 | [Problem Solver \(with Medium Build\)](https://open.spotify.com/track/3mFcGSQwieNIJirXJ9NmEH) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Problem Solver \(with Medium Build\)](https://open.spotify.com/album/0i9iCZZevm0XGD25aecPLl) | 2:49 | 2025-04-25 | 2025-08-23 |
 | [Prom Queen](https://open.spotify.com/track/3MtGstTnbaZaVOLcfpuiiE) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/5oCpbhgCKnqNHaUAtVA2Cg) | 2:16 | 2019-05-26\* | 2019-08-13 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-22 | 2023-07-01 |
-| [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-05-08 |  |
+| [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-05-08 | 2026-07-18 |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-26 | 2024-03-29 |
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-04-05 | 2023-07-10 |
 | [Ptolemaea](https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 6:23 | 2023-01-06 | 2023-04-01 |
@@ -2840,7 +2842,7 @@
 | [True Music](https://open.spotify.com/track/21voEC3YgeU5SgNDiwMdt1) | [Zach Phillips](https://open.spotify.com/artist/4IMrFd3S6UGSpX6BJEYgQ3) | [True Music](https://open.spotify.com/album/4anSdNjpGgIev5YgwHI033) | 2:11 | 2024-12-23 | 2025-02-08 |
 | [True Seekers](https://open.spotify.com/track/6aNQhBtd7xz2c2Vi3cISMC) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [True Seekers](https://open.spotify.com/album/65PkwvvpGhX6FWVUGHZ59j) | 3:26 | 2021-10-11 | 2021-10-13 |
 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 | 2021-08-04 | 2022-04-21 |
-| [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 | 2026-02-20 |  |
+| [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 | 2026-02-20 | 2026-07-18 |
 | [Try Again](https://open.spotify.com/track/2AVfLvQRmTbNhmtVTJEHQ3) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Try Again](https://open.spotify.com/album/7HMYH790CJ1p6GUEFa6lk6) | 3:48 | 2019-12-07 | 2020-04-03 |
 | [Try Hard Fool](https://open.spotify.com/track/2HMTLM3uA0NsOU1IkNufSj) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Try Hard Fool](https://open.spotify.com/album/7Mpq98LzwU04b1u69x61uf) | 3:10 | 2019-09-21 | 2020-07-03 |
 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 | 2026-03-20 |  |

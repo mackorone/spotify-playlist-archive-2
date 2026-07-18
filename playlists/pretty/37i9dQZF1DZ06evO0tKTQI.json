@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14016,
+  "num_followers": 14017,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAC3TBMI3vYyf1sbulSWqntQ",
+  "snapshot_id": "algfAAAAAAC7tavUWVHyvmOx7eXsb0CS",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linger [Spanish Mix (2026)]",
-        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
+        "name": "Soft Error",
+        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
         },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 225216,
-      "name": "Linger - Spanish Mix (2026)",
-      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
+      "duration_ms": 141000,
+      "name": "Aibo (feat. Bratty)",
+      "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
     },
     {
       "added_at": null,
@@ -279,22 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soft Error",
-        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
+        "name": "Linger [Spanish Mix (2026)]",
+        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
       },
       "artists": [
         {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Aibo (feat. Bratty)",
-      "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
+      "duration_ms": 225216,
+      "name": "Linger - Spanish Mix (2026)",
+      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
     },
     {
       "added_at": null,
@@ -408,13 +408,13 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 227738,
-      "name": "no queda nada ft. Julieta Venegas",
-      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/3GYzURynXdhJjIU0JknWxy"
     },
     {
       "added_at": null,
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         },
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 218217,
-      "name": "el silencio",
-      "url": "https://open.spotify.com/track/3GYzURynXdhJjIU0JknWxy"
+      "duration_ms": 227738,
+      "name": "no queda nada ft. Julieta Venegas",
+      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
     },
     {
       "added_at": null,

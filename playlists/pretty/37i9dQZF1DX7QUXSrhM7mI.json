@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPxIhqirvfYR1HlCQJ0Ty/cprLr2",
+  "snapshot_id": "AAAAADxhJXExyDhkUcOa1bF+LzI/8xzT",
   "tracks": [
     {
       "added_at": "2026-05-12 22:07:33",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
       "added_at": "2026-05-15 19:32:26",
       "album": {
         "name": "Middle of Nowhere",
@@ -167,6 +151,22 @@
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232771,
-      "name": "If The World Burns Down",
-      "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 178352,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232771,
+      "name": "If The World Burns Down",
+      "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3"
     },
     {
+      "added_at": "2026-07-10 04:01:41",
+      "album": {
+        "name": "pretty ruthless",
+        "url": "https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26"
+      },
+      "artists": [
+        {
+          "name": "Macy Todd",
+          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+        }
+      ],
+      "duration_ms": 200029,
+      "name": "mean!",
+      "url": "https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH"
+    },
+    {
       "added_at": "2026-05-12 22:07:33",
       "album": {
         "name": "Can We Do This Over",
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Backflips in a Restaurant (Deluxe)",
         "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
       },
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
     },
     {
-      "added_at": "2026-07-10 04:01:41",
+      "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "pretty ruthless",
-        "url": "https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26"
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
       },
       "artists": [
         {
-          "name": "Macy Todd",
-          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 200029,
-      "name": "mean!",
-      "url": "https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH"
+      "duration_ms": 224333,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
+        "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
+        "url": "https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235249,
+      "name": "Thank You For A Lovely Time - Raphael Saadiq Version",
+      "url": "https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
         "name": "The Moment (with KOKORO)",
         "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
-        "url": "https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 235249,
-      "name": "Thank You For A Lovely Time - Raphael Saadiq Version",
-      "url": "https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Stars and Teeth",
         "url": "https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Something You Do",
-        "url": "https://open.spotify.com/album/5nva0GpwF5LjRvjdNKLOxM"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Lomis",
-          "url": "https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn"
-        }
-      ],
-      "duration_ms": 199078,
-      "name": "Something You Do",
-      "url": "https://open.spotify.com/track/61G7t6N3nAgdUSCHaKMXSt"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "Call Them And Tell Them You Love Them",
         "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 191912,
       "name": "Too Many Times",
       "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Something You Do",
+        "url": "https://open.spotify.com/album/5nva0GpwF5LjRvjdNKLOxM"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Lomis",
+          "url": "https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn"
+        }
+      ],
+      "duration_ms": 199078,
+      "name": "Something You Do",
+      "url": "https://open.spotify.com/track/61G7t6N3nAgdUSCHaKMXSt"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Talk About Love",
-        "url": "https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 310868,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
         "name": "U-Turn",
         "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 206628,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
+        "name": "Talk About Love",
+        "url": "https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 310868,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk"
     },
     {
       "added_at": "2026-05-12 22:07:33",

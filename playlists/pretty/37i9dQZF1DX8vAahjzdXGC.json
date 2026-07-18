@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari Gracie Abrams , Shabrina Leanor, Katyana, Nadhif Basalamah, Carly Rae Jepsen dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 247989,
+  "num_followers": 248308,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABIfebGHfMPmHdw8rlbJjwPRFCun",
+  "snapshot_id": "AAAAAGO4aO89CY8ox38DKm0VG/5VzVAL",
   "tracks": [
     {
       "added_at": "2026-07-16 17:00:33",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/6CWqqGSSyQ2dGBcLmgJj70"
     },
     {
+      "added_at": "2026-07-17 04:01:38",
+      "album": {
+        "name": "CHAT",
+        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "CHAT",
+      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
+    },
+    {
       "added_at": "2026-07-16 17:00:33",
       "album": {
         "name": "Crash Out",
@@ -416,8 +432,8 @@
           "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 246803,
+      "name": "Million Different Reasons",
       "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
     },
     {
@@ -799,6 +815,26 @@
     {
       "added_at": "2026-07-16 17:00:33",
       "album": {
+        "name": "Rhythm Inside",
+        "url": "https://open.spotify.com/album/6w9zeitvnCK4UCzMWrEfy3"
+      },
+      "artists": [
+        {
+          "name": "Marthin Siahaan",
+          "url": "https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD"
+        },
+        {
+          "name": "Albert Fakdawer",
+          "url": "https://open.spotify.com/artist/1mEija09kczZccE9j1k7mv"
+        }
+      ],
+      "duration_ms": 183188,
+      "name": "Rhythm Inside",
+      "url": "https://open.spotify.com/track/2dcCM2xkGXFzjPaVCjnqEu"
+    },
+    {
+      "added_at": "2026-07-16 17:00:33",
+      "album": {
         "name": "Awas Jatuh Cinta",
         "url": "https://open.spotify.com/album/6PEJHg6lI82C27K743M2II"
       },
@@ -863,6 +899,22 @@
       "duration_ms": 198461,
       "name": "Pada Akhirnya",
       "url": "https://open.spotify.com/track/51V453E1AA1oPYeSyxa6KN"
+    },
+    {
+      "added_at": "2026-07-17 09:00:02",
+      "album": {
+        "name": "Spring, Summer, Fall, Winter",
+        "url": "https://open.spotify.com/album/1b5bGCxyUEKi27oSXRCwSw"
+      },
+      "artists": [
+        {
+          "name": "WONWOO",
+          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Spring, Summer, Fall, Winter (Korean Ver.)",
+      "url": "https://open.spotify.com/track/4KDr3ViGsomHd9cZJsgZDh"
     },
     {
       "added_at": "2026-07-16 17:00:33",
@@ -1211,22 +1263,6 @@
     {
       "added_at": "2026-07-16 17:00:33",
       "album": {
-        "name": "Love In Reverse (Unwound)",
-        "url": "https://open.spotify.com/album/3sioAiA4LogZ0efvQ9zTsD"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 204201,
-      "name": "Love In Reverse - Unwound",
-      "url": "https://open.spotify.com/track/4mbe9NU1iZ3JW6KAUYMDug"
-    },
-    {
-      "added_at": "2026-07-16 17:00:33",
-      "album": {
         "name": "Tomorrow the sun won't rise",
         "url": "https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7"
       },
@@ -1234,6 +1270,14 @@
         {
           "name": "Powfu",
           "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        },
+        {
+          "name": "evertree",
+          "url": "https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6"
         }
       ],
       "duration_ms": 162750,

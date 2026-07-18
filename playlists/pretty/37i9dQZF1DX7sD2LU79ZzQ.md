@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Katyana, Nadhif Basalamah
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,086 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,191 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 15 | [Have You Ever?](https://open.spotify.com/track/6CWqqGSSyQ2dGBcLmgJj70) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Have You Ever?](https://open.spotify.com/album/3UAXaCH6xU9reI2CYwVcYK) | 5:02 |
 | 16 | [Kasian Ketahuan](https://open.spotify.com/track/0WcfYAfAjKEdp8AaGehqCL) | [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Kasian Ketahuan](https://open.spotify.com/album/4ZKDFcRy8tOSRSGCjlXLOb) | 3:49 |
 | 17 | [Delulu](https://open.spotify.com/track/2A3BQ7uPihrYaxqNhmT7c1) | [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi), [Jessy Alexa](https://open.spotify.com/artist/6JpwRqEtkOKFKBPT9viK1s) | [Delulu](https://open.spotify.com/album/69URZ7IkBVs5T27hY1j490) | 2:42 |
-| 18 | [Track 9](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 0:00 |
+| 18 | [Million Different Reasons](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 4:06 |
 | 19 | [Tiba\-Tiba Kau](https://open.spotify.com/track/4RLijjALsVZdCuLHa6p1QU) | [DNANDA](https://open.spotify.com/artist/45llK0vUDYIrW1vz7fv1Ti) | [Tiba\-Tiba Kau](https://open.spotify.com/album/7xTYRwBXJYJd1eNhIYGxKF) | 3:07 |
 | 20 | [Tenggelam](https://open.spotify.com/track/2DBn3aMUdQ3EvlXHGkCana) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Tenggelam](https://open.spotify.com/album/4z4VS3URGMiYAU6yLdhDM1) | 3:36 |
 | 21 | [Jalan Tengah](https://open.spotify.com/track/0q0LEdCPlGvIj8gqZIQ1R1) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Jalan Tengah](https://open.spotify.com/album/2YhQm90EHX7YgBD2XlhVot) | 3:37 |

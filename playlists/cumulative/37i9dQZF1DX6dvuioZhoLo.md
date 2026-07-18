@@ -2,9 +2,9 @@
 
 ### [Vintage Vibes](https://open.spotify.com/playlist/37i9dQZF1DX6dvuioZhoLo)
 
-> New makes old\. Cover: Lily Meola
+> New makes old\. Cover:  Presley Haile
 
-273 songs - 16 hr 4 min
+274 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dirty Old Town](https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [I've Got a Way](https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO) | 2:41 | 2022-04-01 | 2024-01-19 |
 | [Dirty Old Town](https://open.spotify.com/track/5a2WV9vQTSOlbCTap3jFjj) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [I've Got a Way](https://open.spotify.com/album/3dCxhbeYqNxz9L04w2tL8E) | 2:41 | 2021-11-12 | 2022-07-29 |
 | [Dirty Rain](https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 3:12 | 2021-11-12 | 2026-03-28 |
+| [Don't be so hard](https://open.spotify.com/track/4DSOQUiX3PwyoXOKAvySm1) | [Presley Haile](https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH) | [Hamilton Honey: Part 1](https://open.spotify.com/album/5Nhe3xMXb4tSLGzRHNrAOC) | 3:00 | 2026-07-17 |  |
 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Don't Come Home A Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq) | 2:06 | 2022-04-01 | 2024-04-19 |
 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/track/7h4q1lMv48EKmE8uc5do4H) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Gold](https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl) | 2:07 | 2022-04-01 | 2022-07-02 |
 | [Don't Waste Your Prayers](https://open.spotify.com/track/73KH2rdA1bzlIydzmoXJF7) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8) | [Don't Waste Your Prayers](https://open.spotify.com/album/1v3yDVsW0j1D7hVqKrPQqm) | 2:53 | 2026-03-06 |  |
@@ -194,7 +195,7 @@
 | [Only Lies](https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP) | 3:50 | 2022-04-01 | 2024-07-03 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:29 | 2023-04-21 | 2024-04-19 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-21 | 2023-04-25 |
-| [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 | 2023-10-06 |  |
+| [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 | 2023-10-06 | 2026-07-18 |
 | [Out To Sea](https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/5qet4b9g14WGegggOOxz6s) | 5:51 | 2021-11-12 | 2022-07-24 |
 | [Out to Sea](https://open.spotify.com/track/37B5EOUbYGfLjayLDQblv2) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/3zZGcZMTRjI6nVk361JwSE) | 5:51 | 2023-10-06 | 2024-04-19 |
 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 | 2021-11-12 | 2024-07-06 |

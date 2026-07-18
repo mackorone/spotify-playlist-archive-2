@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Tulus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511,143 likes - 94 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,497 likes - 94 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

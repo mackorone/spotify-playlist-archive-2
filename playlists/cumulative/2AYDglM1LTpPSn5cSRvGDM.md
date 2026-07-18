@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-263 songs - 14 hr 55 min
+264 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Greece 2000 \- Max Styler Rework](https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000 \(Max Styler Rework\)](https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43) | 3:37 | 2026-01-12 | 2026-01-31 |
 | [Greenlight](https://open.spotify.com/track/1KsQ8y9wtQnOnQHgnZLu3L) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Greenlight](https://open.spotify.com/album/64xjMvMB0ysQiX9gjeMUug) | 2:57 | 2025-07-11 | 2025-08-23 |
 | [Groove Constructor](https://open.spotify.com/track/0gwzHG7qX6rAIOHKqyAKCu) | [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [Groove Constructor](https://open.spotify.com/album/0wKgllfpFfuNBRYpmh5m2k) | 4:30 | 2025-07-11 | 2025-09-16 |
+| [Healing](https://open.spotify.com/track/3elQqKon4DoPytJDJLDNnG) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Kindrid](https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Healing](https://open.spotify.com/album/3Qabx7eEI7BWPv7OXonGZa) | 4:37 | 2026-07-17 |  |
 | [Hear Me Out \- Hel:sløwed Remix](https://open.spotify.com/track/2jjk9eOpncsrixFwuTUisI) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Hear Me Out \(Hel:sløwed Remix\)](https://open.spotify.com/album/4oqPBZ0tn7Toj5CtOJZJk1) | 3:13 | 2025-07-11 |  |
 | [Heart Starts Beating](https://open.spotify.com/track/4dWriJSpVzVOECD8GNDxxb) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Jas.](https://open.spotify.com/artist/3ueCEKtgkcjy2YxGPjCobz) | [Heart Starts Beating](https://open.spotify.com/album/6xSJEP1rHuCNRscd1YQVs7) | 3:10 | 2025-07-11 |  |
 | [Hero](https://open.spotify.com/track/5CQ4pHqibilSqbAxvMxOq3) | [Louis Bekk](https://open.spotify.com/artist/3vhqjjDY5CvxhFjuHGi5WC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Hero](https://open.spotify.com/album/0Q4FZ1rx5FSM1bfyEN3BE8) | 3:53 | 2026-04-10 |  |

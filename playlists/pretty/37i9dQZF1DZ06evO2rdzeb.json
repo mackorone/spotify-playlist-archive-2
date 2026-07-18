@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 19912,
+  "num_followers": 19919,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAABjtqJaHpFSI72EaB0o0eBd",
+  "snapshot_id": "algfAAAAAAA1Ib/r8x/YMX1EhgeoN2ad",
   "tracks": [
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 268133,
-      "name": "little things - live",
-      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
+      "duration_ms": 196178,
+      "name": "cattails & soundcheck",
+      "url": "https://open.spotify.com/track/4Cu9vJHOJy6d6XCA3rV0Mq"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 196178,
-      "name": "cattails & soundcheck",
-      "url": "https://open.spotify.com/track/4Cu9vJHOJy6d6XCA3rV0Mq"
+      "duration_ms": 268133,
+      "name": "little things - live",
+      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
     },
     {
       "added_at": null,

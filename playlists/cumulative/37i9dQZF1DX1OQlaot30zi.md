@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di Mambolosco, Artie 5ive, PRACI con Ernia, 10k watt, con rooc lee e molti altri.
 
-7,585 songs - 13 day 22 hr 18 min
+7,587 songs - 13 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3379,6 +3379,7 @@
 | [Killas](https://open.spotify.com/track/77tDrwfL69KzqnpmwASI06) | [Datkid](https://open.spotify.com/artist/0mrS7wImQSucxAJWj22pe2) | [Killas](https://open.spotify.com/album/0gIc2XkMBCnlp47ZY5x2oZ) | 2:04 | 2026-05-21 | 2026-06-12 |
 | [KILLER](https://open.spotify.com/track/6UHiMQV7R6N9GHFKpYIiw3) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [KILLER](https://open.spotify.com/album/0TcilQFUp2BCdr7c4wwpsa) | 2:40 | 2025-02-06 | 2025-03-07 |
 | [Killshot](https://open.spotify.com/track/7MvItCGlJ217NPmGUZv0Yd) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx) | [Killshot](https://open.spotify.com/album/4oLnUt41zlJjNA3wRJzX8n) | 2:05 | 2023-02-24 | 2023-03-03 |
+| [KILO](https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [KILO](https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji) | 1:49 | 2026-07-17 |  |
 | [Kim Jong \(feat\. Jake La Furia, Emis Killa & Gemitaiz\)](https://open.spotify.com/track/5YYq5aSyRFeVnDrg1Wn3bh) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 2:13 | 2022-11-04 | 2022-12-02 |
 | [KING KONG](https://open.spotify.com/track/32VEdZ4LzPz5R0SADbQ51g) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [KING KONG](https://open.spotify.com/album/2d6Uy5ZYyc1DCiE3jggSkC) | 2:04 | 2024-09-19 | 2024-09-27 |
 | [KING KONG \(64 BARS\)](https://open.spotify.com/track/2bgx3DdOfxGwG1aidBNEmT) | [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu) | [KING KONG \(64 BARS\)](https://open.spotify.com/album/6GPkff2wKOH5FbbLtLeqLN) | 2:00 | 2024-09-12 | 2024-09-20 |
@@ -6024,6 +6025,7 @@
 | [SCAPPA](https://open.spotify.com/track/5Cy9aEx5pMEL4wbyuRCTDC) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [SCAPPA](https://open.spotify.com/album/6qM9P4tWyT7qFO6yeUEE8q) | 2:30 | 2025-01-17 | 2025-02-07 |
 | [Scappa da me](https://open.spotify.com/track/7sMe3toUFxmHvDpwmuVQJH) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [Lady The Murder](https://open.spotify.com/artist/4vh7hHYOwPxPPtrypN38Tl) | [Scappa da me](https://open.spotify.com/album/2BrL8EOdnTqqpzlfuGJSsz) | 3:17 | 2023-01-12 | 2023-01-20 |
 | [Scappa da Milano](https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Scappa da Milano](https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG) | 2:59 | 2023-07-27 | 2023-09-15 |
+| [scarabocchi \(feat\. Frah Quintale\)](https://open.spotify.com/track/0a4xzCqPMGAJwP9Z6W0GV4) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [scarabocchi \(feat\. Frah Quintale\)](https://open.spotify.com/album/1id30wqSAEon0hN5088lAr) | 2:18 | 2026-07-17 |  |
 | [SCARAFAGGI \(feat\. Danno\)](https://open.spotify.com/track/4cgGC1Zyv1FwgikPYdxDe9) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [SCARAFAGGI \(feat\. Danno\)](https://open.spotify.com/album/6enXFlrDWOOlhMaZmg3qIJ) | 2:39 | 2026-06-11 | 2026-07-03 |
 | [Scarico](https://open.spotify.com/track/530IV2MJ20lxMvcwdg16uy) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Scarico](https://open.spotify.com/album/0DnCrCI9lCuKPrabhCgAxt) | 2:47 | 2023-04-06 | 2023-04-21 |
 | [Scarpe & Collane](https://open.spotify.com/track/59bOe6lzp8tY2uHuy7DCpe) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [Scarpe & Collane](https://open.spotify.com/album/1zpSMqL0LNdblBBDh8JkB0) | 2:41 | 2023-03-30 | 2023-04-21 |

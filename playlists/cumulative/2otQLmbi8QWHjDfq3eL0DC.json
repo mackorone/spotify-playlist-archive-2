@@ -948,7 +948,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 193384,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
@@ -1186,6 +1186,24 @@
       "duration_ms": 221387,
       "name": "Believe In Myself",
       "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
+    },
+    {
+      "album": {
+        "name": "Believe In Yourself",
+        "url": "https://open.spotify.com/album/0rZzon6LLvzvNXeIhHoSSL"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260010,
+      "name": "Believe In Yourself",
+      "url": "https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy"
     },
     {
       "album": {
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 348923,
       "name": "Boom Boom Untz Untz",
       "url": "https://open.spotify.com/track/7tznNo9geODfcyE7mHITFY"
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
@@ -2822,6 +2840,24 @@
       "duration_ms": 163197,
       "name": "Don't Play by the Rules",
       "url": "https://open.spotify.com/track/58PyYwBXk5933MqJdmjQDn"
+    },
+    {
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/7ivrYpAxYdkGjiNsjCOLhc"
+      },
+      "artists": [
+        {
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181311,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/27Q0AnWlJqDBgmBsh9LYC1"
     },
     {
       "album": {
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 221805,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"
@@ -3600,7 +3636,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 149250,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/3m7ujh5Wws7bTCbesg7GQK"
@@ -4915,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "I KNOW I KNOW (SAiiLOR Remix)",
+        "url": "https://open.spotify.com/album/3Uo5JOmwZ1GEgtNHsMWqeX"
+      },
+      "artists": [
+        {
+          "name": "SAiiLOR",
+          "url": "https://open.spotify.com/artist/5q7VoDTI2lyelmWLangje7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136056,
+      "name": "I KNOW I KNOW (SAiiLOR Remix) - TikTok Version",
+      "url": "https://open.spotify.com/track/2lnh5kkkLyfem17CmjvUwI"
+    },
+    {
+      "album": {
         "name": "I LOVE UR GF",
         "url": "https://open.spotify.com/album/1JQkbKYKIhhc9LJ5HKiyII"
       },
@@ -4999,6 +5053,28 @@
     },
     {
       "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "i think i'm addicted",
+      "url": "https://open.spotify.com/track/0C5G0JJLTyDexp08AiAzxy"
+    },
+    {
+      "album": {
         "name": "i think i'm addicted",
         "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
       },
@@ -5018,6 +5094,32 @@
       "duration_ms": 158520,
       "name": "i think i'm addicted",
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
+    },
+    {
+      "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/53hLHd6Rlsc6HhNBWOtB7T"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        },
+        {
+          "name": "Mzansi Youth Choir",
+          "url": "https://open.spotify.com/artist/3jfrL6OHcKhCAI27qr3ViJ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/1lWj89xpFuPwrDPRVfSvuT"
     },
     {
       "album": {
@@ -5322,7 +5424,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -5476,6 +5578,42 @@
       "duration_ms": 242357,
       "name": "Keep Needing",
       "url": "https://open.spotify.com/track/3M3zORX9rvpSLZqEmOAvj1"
+    },
+    {
+      "album": {
+        "name": "Keep Pushing",
+        "url": "https://open.spotify.com/album/5cIDsAhKbc3wpJ5uvjFHD3"
+      },
+      "artists": [
+        {
+          "name": "Beni Hana",
+          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209272,
+      "name": "Keep Pushing",
+      "url": "https://open.spotify.com/track/1GwKFUz92ToRqHMxqskCyO"
+    },
+    {
+      "album": {
+        "name": "Keeping Your Head Up",
+        "url": "https://open.spotify.com/album/2fh6SclstUbbwaTfP5DEfj"
+      },
+      "artists": [
+        {
+          "name": "Kogis",
+          "url": "https://open.spotify.com/artist/2wFVdtZzgMRVBQWhPpgq9W"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153683,
+      "name": "Keeping Your Head Up",
+      "url": "https://open.spotify.com/track/6oO0Whu0i2OqeBZYwz1a9Q"
     },
     {
       "album": {
@@ -6422,7 +6560,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167405,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/6OT17NwvpPgvNxB5VwJFum"
@@ -7406,7 +7544,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 152228,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1pKNtBVFw9jznXqz8QzVoU"
@@ -8840,7 +8978,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 426500,
       "name": "Slow Burning",
       "url": "https://open.spotify.com/track/3MSqn0KbZ5qBcZYxj81Gzx"
@@ -9101,7 +9239,7 @@
     },
     {
       "album": {
-        "name": "State Of Mind (with Camden Cox)",
+        "name": "State Of Mind",
         "url": "https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe"
       },
       "artists": [
@@ -9118,7 +9256,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184320,
-      "name": "State Of Mind (with Camden Cox)",
+      "name": "State Of Mind",
       "url": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s"
     },
     {
@@ -10282,7 +10420,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 259657,
       "name": "The Shift",
       "url": "https://open.spotify.com/track/2KNk7wEQL3Te889V1swDB9"
@@ -11447,6 +11585,24 @@
     },
     {
       "album": {
+        "name": "When the Feeling Is Gone",
+        "url": "https://open.spotify.com/album/3uNFCRskNLz2W8zKBDXxhM"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156615,
+      "name": "When the Feeling Is Gone",
+      "url": "https://open.spotify.com/track/5NfXyiFOOApr4DdvGj2wMX"
+    },
+    {
+      "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
@@ -11771,6 +11927,32 @@
     },
     {
       "album": {
+        "name": "Would U Still Love Me",
+        "url": "https://open.spotify.com/album/7iEDs8tg9UO1QHqvctmIGr"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210117,
+      "name": "Would U Still Love Me - Lost Frequencies Remix",
+      "url": "https://open.spotify.com/track/7fDXzEtxEkNhSzIOF4J5sQ"
+    },
+    {
+      "album": {
         "name": "Would U Still Love Me (feat. Cameron Whitcomb) - VIP",
         "url": "https://open.spotify.com/album/3rFJsvbc9D6kKFE5vibqft"
       },
@@ -11786,7 +11968,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 134769,
       "name": "Would U Still Love Me - VIP",
       "url": "https://open.spotify.com/track/0Pbten8NbqYu33F8MIcANC"

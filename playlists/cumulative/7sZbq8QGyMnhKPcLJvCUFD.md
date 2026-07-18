@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-873 songs - 1 day 19 hr 17 min
+874 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,6 +728,7 @@
 | [Stuck](https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Stuck](https://open.spotify.com/album/7fs01eUoFmk6R0ar9AzqS3) | 4:11 | 2024-05-21 | 2025-01-08 |
 | [stuckinmyhead!](https://open.spotify.com/track/34TL9VeKTtvn3cPB6dzp8p) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [stuckinmyhead!](https://open.spotify.com/album/6iQCYurOp956o4CRQgJ1u3) | 1:31 | 2025-06-13 |  |
 | [Stutterfly](https://open.spotify.com/track/1o0yHeedgdJc5gnFqja4di) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Stutterfly](https://open.spotify.com/album/0FH0qU4BYEeL2VorGlJBJ6) | 4:13 | 2025-02-28 |  |
+| [SUFFOCATE](https://open.spotify.com/track/6RUHWfhCcQih0sF2COlKyl) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [SUFFOCATE](https://open.spotify.com/album/3gTj7zWhpgrFO625d1gZ0e) | 3:15 | 2026-07-17 |  |
 | [SUN](https://open.spotify.com/track/3ss6ur5xJD1weR8QRYgT3f) | [KEELA](https://open.spotify.com/artist/7rWlbS9hZvqhjYRDgMkY2l) | [SUN](https://open.spotify.com/album/0WsOV2WePPv73OB5XRfyga) | 2:53 | 2024-01-24 | 2024-08-28 |
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2023-04-28 |
 | [Sunrise](https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Sunrise](https://open.spotify.com/album/5KXb5CBBV5HucBeRRus7K6) | 4:16 | 2024-01-05 | 2024-08-28 |

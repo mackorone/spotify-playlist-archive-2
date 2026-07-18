@@ -4,7 +4,7 @@
 
 > ¡Música que representa a Cuba! Cover: Dany Ome & Kevincito El 13
 
-193 songs - 11 hr 1 min
+194 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Dueño De Qué? \(with Lenier & Divan\)](https://open.spotify.com/track/1rAbcmwj0dww7fzuUVBQhJ) | [July Roby](https://open.spotify.com/artist/57cu9wH6iCTECFPINbrPdi), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP) | [Dueño De Qué?](https://open.spotify.com/album/0OirAdRYmG0AvgqcD3y9gs) | 3:30 | 2022-02-25 | 2026-07-01 |
 | [Dándote To' \- Prod\. by Dj Honda x Dave Produce](https://open.spotify.com/track/3SUNpMRAhwDjf4aymN24kv) | [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk), [Dave Produce](https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9) | [Dándote To'](https://open.spotify.com/album/6LrV0bnO1eV7cdUWSKwfFV) | 2:49 | 2026-06-30 |  |
 | [E\-Charla](https://open.spotify.com/track/2xYin099dsquBdgTEQe4Oh) | [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [E\-Charla](https://open.spotify.com/album/2mDJ4ckYrPXq8leJmFqDHp) | 3:39 | 2026-06-30 |  |
-| [El de Pi](https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [El de Pi](https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H) | 3:16 | 2026-06-30 |  |
+| [El de Pi](https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [El de Pi](https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H) | 3:16 | 2026-06-30 | 2026-07-18 |
+| [El Doctorado \- Version Reparto](https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Seikan Anikila](https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [El Doctorado \(Version Reparto\)](https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5) | 3:41 | 2026-07-17 |  |
 | [El Doggy \(feat\. Ovi & Randy\) \- Perreo](https://open.spotify.com/track/2HpFUVAWXnE9PbMTXaxtIT) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [El Doggy \(feat\. Ovi & Randy\) \[Perreo\]](https://open.spotify.com/album/2S5Py3y97OSaYRs8Fzldv9) | 3:00 | 2022-02-25 | 2023-05-13 |
 | [El Dueño de la Fiesta](https://open.spotify.com/track/7AsrJVyic9J8Jkx30wQjv9) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [El Dueño de la Fiesta](https://open.spotify.com/album/6waQ4BSppDCcgYqdSk6oaZ) | 3:08 | 2022-02-25 | 2026-07-01 |
 | [El Farsante \(Timba Remix\)](https://open.spotify.com/track/6rQ8bYJwMHTWGJhA143RIl) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Farsante \(Timba Remix\)](https://open.spotify.com/album/2TbFKVI7lW1Q91nr8ddXUR) | 3:59 | 2022-02-25 | 2026-07-01 |

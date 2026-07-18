@@ -2,7 +2,7 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>
+> Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:07EyVrrbqIAHNLw9FEnQUs">Lotta</a>
 
 538 songs - 1 day 2 hr 44 min
 
@@ -27,7 +27,7 @@
 | [Babyhands](https://open.spotify.com/track/3QbXgoghUm9v3zKjDL2xQp) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Babyhands](https://open.spotify.com/album/1XJ7Jfjf0x5ATOG4buoyz4) | 3:05 | 2022-08-26 | 2023-04-15 |
 | [Balans](https://open.spotify.com/track/4hU7OPVaMxkhOYYPkV7LwL) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Balans](https://open.spotify.com/album/5nOi3r1tgBDSISc9KiBNDw) | 3:02 | 2022-08-26 | 2023-02-07 |
 | [bar](https://open.spotify.com/track/7epBYMSR42d7s4mSStpsRv) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [TO MUSIAŁO SIĘ WYDARZYĆ](https://open.spotify.com/album/7bSxiNjlfZ8c1DS1BK4cUq) | 2:44 | 2025-07-29 | 2026-02-12 |
-| [baza](https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [baza](https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm) | 3:06 | 2026-03-13 |  |
+| [baza](https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [baza](https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm) | 3:06 | 2026-03-13 | 2026-07-18 |
 | [BBY WAGON](https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [BBY WAGON](https://open.spotify.com/album/4BvRWjZ42EdCw7TDNwjOPd) | 2:23 | 2026-05-01 | 2026-06-20 |
 | [Berek](https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Berek](https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX) | 3:36 | 2025-09-19 | 2026-02-12 |
 | [Berlin](https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Berlin](https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa) | 2:55 | 2026-05-20 |  |
@@ -113,7 +113,7 @@
 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 | 2022-08-26 | 2023-03-14 |
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 | 2024-10-12 |
 | [DZISIAJ SOBIE DAM](https://open.spotify.com/track/6Sv3i9AHA26HTE8CgOxvHe) | [René](https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [DZISIAJ SOBIE DAM](https://open.spotify.com/album/4cve0tuEDdJ1LVFRsJP8z0) | 2:30 | 2026-02-11 | 2026-03-28 |
-| [dziwne dzieciaki z klasy](https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [dziwne dzieciaki z klasy](https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB) | 1:51 | 2024-06-18 | 2026-02-12 |
+| [dziwne dzieciaki z klasy](https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [dziwne dzieciaki z klasy](https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB) | 1:51 | 2024-06-18 |  |
 | [Déjà Vu](https://open.spotify.com/track/38kn37eobizkIKnTS7y71g) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [MINT](https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y) | 2:18 | 2025-07-29 | 2025-10-22 |
 | [Déjà Vu](https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Déjà Vu](https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK) | 2:18 | 2024-06-20 | 2025-07-30 |
 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 | 2023-11-10 | 2025-07-30 |

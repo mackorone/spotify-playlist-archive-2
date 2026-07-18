@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "New soul-infused music! Cover: Baby Rose",
+  "description": "New soul-infused music! Cover: Leon Bridges",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/1p8FQRg8gaK3P6T6ioEkfQ"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4M",
+          "url": "https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Better Late Than Never",
+      "url": "https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O"
+    },
+    {
+      "album": {
         "name": "Better Than Ever",
         "url": "https://open.spotify.com/album/433n2VsgKPwC6znMcFfTWN"
       },
@@ -3543,6 +3561,28 @@
     },
     {
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/0WfsBOOoRAC7S9mlDakToz"
+      },
+      "artists": [
+        {
+          "name": "Westheaven",
+          "url": "https://open.spotify.com/artist/6DL4MG7n0el4T6yCY2ARDo"
+        },
+        {
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195696,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/0Loag0eZZbD2jzSyIwzPuh"
+    },
+    {
+      "album": {
         "name": "Change (from the Netflix Series \"We The People\")",
         "url": "https://open.spotify.com/album/5TJLb0uEmHxpKt20715yM9"
       },
@@ -3656,6 +3696,24 @@
       "duration_ms": 215002,
       "name": "Changes - Single Edit",
       "url": "https://open.spotify.com/track/2tmZnS5qDGJ1nl5edrXFRq"
+    },
+    {
+      "album": {
+        "name": "Changes Rising",
+        "url": "https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196908,
+      "name": "Changes Rising",
+      "url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP"
     },
     {
       "album": {
@@ -5757,6 +5815,24 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166809,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6"
+    },
+    {
+      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -7118,6 +7194,24 @@
       "duration_ms": 233599,
       "name": "Forget To Remember",
       "url": "https://open.spotify.com/track/4YbnQVAmuehPi4l81nNjEM"
+    },
+    {
+      "album": {
+        "name": "Forsaken Soul",
+        "url": "https://open.spotify.com/album/3iRiaNoU3uokCM2HalNHMR"
+      },
+      "artists": [
+        {
+          "name": "Helena Casella",
+          "url": "https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248295,
+      "name": "Forsaken Soul",
+      "url": "https://open.spotify.com/track/6RRibTFwGjBFV13xmXYTtG"
     },
     {
       "album": {
@@ -8810,6 +8904,24 @@
       "duration_ms": 205201,
       "name": "Heat of the Moon",
       "url": "https://open.spotify.com/track/7GmSvY6pk87MO2GaMnXLLN"
+    },
+    {
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
       "album": {
@@ -12238,6 +12350,24 @@
       "duration_ms": 175714,
       "name": "Lifted Up",
       "url": "https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw"
+    },
+    {
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "album": {
@@ -15673,6 +15803,32 @@
     },
     {
       "album": {
+        "name": "Notification",
+        "url": "https://open.spotify.com/album/1sml0Bxb76iZkMQtpgctlW"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        },
+        {
+          "name": "Flowzz",
+          "url": "https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv"
+        },
+        {
+          "name": "Dylamic",
+          "url": "https://open.spotify.com/artist/5MtsgRJefIuTFSiEZJpaHA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Notification",
+      "url": "https://open.spotify.com/track/13jwCg2uYwaIxku3NjolO3"
+    },
+    {
+      "album": {
         "name": "Submerge",
         "url": "https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4"
       },
@@ -18726,6 +18882,28 @@
       "duration_ms": 175800,
       "name": "Say Something You Mean",
       "url": "https://open.spotify.com/track/1FDp21yhgv3qaxbpxzWJ9E"
+    },
+    {
+      "album": {
+        "name": "Say Something You Mean (.multibeat REMIX)",
+        "url": "https://open.spotify.com/album/6YJ2NHE6AYhnBLrmsgwf1h"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        },
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162145,
+      "name": "Say Something You Mean (.multibeat REMIX)",
+      "url": "https://open.spotify.com/track/6UGYWGtm571k6xE6mLmNfJ"
     },
     {
       "album": {
@@ -23686,7 +23864,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 184711,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
@@ -23878,6 +24056,24 @@
       "duration_ms": 288000,
       "name": "Vice City",
       "url": "https://open.spotify.com/track/0NqVf6pfPPXJVBn3sfOJEX"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/3Zg0vOH7zsN17dAAngLP8s"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171910,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql"
     },
     {
       "album": {
@@ -24614,6 +24810,24 @@
       "duration_ms": 181346,
       "name": "WHEN IT HURTS",
       "url": "https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk"
+    },
+    {
+      "album": {
+        "name": "When Life Calls",
+        "url": "https://open.spotify.com/album/6WvfQvxR7PU49jgwmlCPNP"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181722,
+      "name": "When Life Calls",
+      "url": "https://open.spotify.com/track/6Tud6dqGiFqvBWXRP9NbQi"
     },
     {
       "album": {

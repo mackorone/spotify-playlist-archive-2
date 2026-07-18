@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Day We Ran
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,336 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,328 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 2 | [LUCID](https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [LUCID](https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL) | 3:08 |
 | 3 | [Beaches In Tennessee](https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Beaches In Tennessee](https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ) | 3:16 |
 | 4 | [Mr Charm](https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 |
-| 5 | [Track 1](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 0:00 |
+| 5 | [Lady](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 2:31 |
 | 6 | [Runaways](https://open.spotify.com/track/3fQLQSOhijzOC6W1NPhYle) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sungazer](https://open.spotify.com/album/2N4iGvv8PwZdJQL3rNQlrh) | 4:19 |
 | 7 | [Hurracane](https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Hurracane](https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4) | 3:05 |
 | 8 | [AFRAID TO DIE](https://open.spotify.com/track/6GiHYoRbplk9wYZ4TL3uw5) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [AFRAID TO DIE](https://open.spotify.com/album/6FMYxT1o4zfHEsas7nb1t9) | 4:00 |

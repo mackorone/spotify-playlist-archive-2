@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/5FNFAWI3mBqkNn6D1am9Kt"
+      },
+      "artists": [
+        {
+          "name": "Robbie Perrott",
+          "url": "https://open.spotify.com/artist/3k3FcK16PCE7XiDTGpub8K"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235458,
+      "name": "40",
+      "url": "https://open.spotify.com/track/7ijxjvAznH2Jwb4lTGRNvm"
+    },
+    {
+      "album": {
         "name": "8/10 Catch",
         "url": "https://open.spotify.com/album/417kUi7DIGgc57nM5vmoJT"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198095,
       "name": "Before You Disappear",
       "url": "https://open.spotify.com/track/495cjydvmEw3WdH4K8LJJz"
@@ -2136,6 +2154,24 @@
       "duration_ms": 182240,
       "name": "Bromponie",
       "url": "https://open.spotify.com/track/1TH69xbJTp66ZOc1ZTejyI"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Bachelor",
+        "url": "https://open.spotify.com/album/0hFt5CTei97CTDaz4k59c2"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Brooklyn Bachelor",
+      "url": "https://open.spotify.com/track/1hJi7eS9uhSQtnQSTjRR72"
     },
     {
       "album": {
@@ -3248,7 +3284,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 172444,
       "name": "Dad Bod",
       "url": "https://open.spotify.com/track/00YyqyBVyILKFBp1abjNpo"
@@ -4100,7 +4136,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
@@ -4786,7 +4822,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 209981,
       "name": "Emerald Eyes",
       "url": "https://open.spotify.com/track/2kQztLfnrsw7VCdm8ld98o"
@@ -5228,7 +5264,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 190633,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0"
@@ -5805,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "Geen Skande",
+        "url": "https://open.spotify.com/album/45TjFXBVzjqMYbLuo7z3Dm"
+      },
+      "artists": [
+        {
+          "name": "Klaas Zaberman en die Nie-reisende Reserwes",
+          "url": "https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227972,
+      "name": "Geen Skande",
+      "url": "https://open.spotify.com/track/1sZ5KoWcweIBDAuaLy5n9E"
+    },
+    {
+      "album": {
         "name": "Geen Vrede",
         "url": "https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h"
       },
@@ -6144,7 +6198,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 205000,
       "name": "Gly Mamma Gly",
       "url": "https://open.spotify.com/track/6zxQcCztB1zyMvdWedQEZL"
@@ -6844,7 +6898,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 163000,
       "name": "Hey Denny",
       "url": "https://open.spotify.com/track/17jx0VcmlgzHERF4HZBM0o"
@@ -7282,7 +7336,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 240000,
       "name": "Hoor Jy My",
       "url": "https://open.spotify.com/track/2Z1HkHOEYU9Z8wlpcmWrK4"
@@ -8080,7 +8134,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 255576,
       "name": "Island of Despair",
       "url": "https://open.spotify.com/track/7G1hnQ0ubNf1m2xN3hbK7D"
@@ -8512,7 +8566,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 208366,
       "name": "Kies",
       "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
@@ -9318,6 +9372,24 @@
       "duration_ms": 253983,
       "name": "Lily",
       "url": "https://open.spotify.com/track/1AhAMxIvoboBxjPdcGYnXu"
+    },
+    {
+      "album": {
+        "name": "Limousine",
+        "url": "https://open.spotify.com/album/0cseDTVEIJKqmrGtym1uVU"
+      },
+      "artists": [
+        {
+          "name": "Metro Villa",
+          "url": "https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Limousine",
+      "url": "https://open.spotify.com/track/6edjFwEvZmtxlnAN9x7s5E"
     },
     {
       "album": {
@@ -10414,7 +10486,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 199909,
       "name": "My Hede",
       "url": "https://open.spotify.com/track/0eOnpZ8rcbQlM1IXF2M2ad"
@@ -10840,6 +10912,24 @@
       "duration_ms": 194000,
       "name": "Nikotien",
       "url": "https://open.spotify.com/track/0FNyPh1lnEjcw7THcdZSqp"
+    },
+    {
+      "album": {
+        "name": "Nikotien (Radio Edit)",
+        "url": "https://open.spotify.com/album/4GZbjcD4fcgAcfhsHgkUPM"
+      },
+      "artists": [
+        {
+          "name": "NIKOTIEN",
+          "url": "https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Nikotien - Radio Edit",
+      "url": "https://open.spotify.com/track/4L8c8jAing1SZXmCF0IXkl"
     },
     {
       "album": {
@@ -12048,10 +12138,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 190435,
       "name": "Polariteit",
       "url": "https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA"
+    },
+    {
+      "album": {
+        "name": "Popcorn and Candyfloss",
+        "url": "https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298369,
+      "name": "Popcorn and Candyfloss",
+      "url": "https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89"
     },
     {
       "album": {
@@ -14729,6 +14837,24 @@
     },
     {
       "album": {
+        "name": "Surrender to the Waves",
+        "url": "https://open.spotify.com/album/2L6eOlq1xijsj0gja8oCnT"
+      },
+      "artists": [
+        {
+          "name": "Jonny and the Fellow Revellers",
+          "url": "https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281836,
+      "name": "Surrender to the Waves",
+      "url": "https://open.spotify.com/track/7zPDsNnkEn5RwIARvQu3Ns"
+    },
+    {
+      "album": {
         "name": "Skate Fiend",
         "url": "https://open.spotify.com/album/22gNZ5s0LpJwaQ55PWPPZd"
       },
@@ -15379,6 +15505,24 @@
     },
     {
       "album": {
+        "name": "The Image of Gold and the Blazing Furnace",
+        "url": "https://open.spotify.com/album/0vTNnfrRaSzaxfBMcgXnym"
+      },
+      "artists": [
+        {
+          "name": "O'Grace",
+          "url": "https://open.spotify.com/artist/3jY9sVAFfe8TQ2qqxLlus8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233135,
+      "name": "The Image of Gold and the Blazing Furnace",
+      "url": "https://open.spotify.com/track/4wG7CHANSB6AqVR9s7rXVy"
+    },
+    {
+      "album": {
         "name": "The Kid",
         "url": "https://open.spotify.com/album/4HQlRenLS3Mu9gvIk3tJzk"
       },
@@ -15908,7 +16052,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 172440,
       "name": "Tough",
       "url": "https://open.spotify.com/track/05c24M6IA8m5XTkD73pk0U"
@@ -16006,6 +16150,28 @@
       "duration_ms": 149446,
       "name": "TREAT HIM LIKE A BABY",
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+    },
+    {
+      "album": {
+        "name": "Tree Terug",
+        "url": "https://open.spotify.com/album/2yPn88G3X2ZdTBaiEoTYKn"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        },
+        {
+          "name": "Net Francois",
+          "url": "https://open.spotify.com/artist/6ZRHHVXgxYnvQHn1VNcHmk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220869,
+      "name": "Tree Terug",
+      "url": "https://open.spotify.com/track/7MRxb8LoyblUUqnNVGtiQe"
     },
     {
       "album": {
@@ -16118,7 +16284,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 212904,
       "name": "Uitgesonderde Uitsig",
       "url": "https://open.spotify.com/track/5D0ihUX0oyFvzIHb37QM3b"

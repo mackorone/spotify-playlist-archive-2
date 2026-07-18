@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 89365,
+  "num_followers": 89379,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Where's My Love (with Carla)",
-        "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Where's My Love - with Carla",
-      "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Where's My Love (with Carla)",
+        "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Where's My Love - with Carla",
+      "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "Exit Strategy",
+        "url": "https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 261026,
+      "name": "Undo Me",
+      "url": "https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "HELP(2)",
         "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 287063,
       "name": "Matches & Gasoline",
       "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Exit Strategy",
-        "url": "https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 261026,
-      "name": "Undo Me",
-      "url": "https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 110173,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 110173,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "World's Greatest Lover",
-        "url": "https://open.spotify.com/album/0O0aqyZzpU9HSnxLkoZhkn"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 198681,
-      "name": "World's Greatest Lover",
-      "url": "https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Somebody Nobody Gets Over",
         "url": "https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 167808,
       "name": "Somebody Nobody Gets Over",
       "url": "https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "World's Greatest Lover",
+        "url": "https://open.spotify.com/album/0O0aqyZzpU9HSnxLkoZhkn"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 198681,
+      "name": "World's Greatest Lover",
+      "url": "https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt"
     },
     {
       "added_at": "2026-05-15 15:12:25",

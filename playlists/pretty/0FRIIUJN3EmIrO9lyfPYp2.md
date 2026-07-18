@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0FRIIUJN3EmIrO9lyfPYp2.md) - [plain]
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 14,902 likes - 763 songs - 1 day 2 hr 49 min
+[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 14,900 likes - 763 songs - 1 day 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/0FRIIUJN3EmIrO9lyfPYp2.md) - [plain]
 | 95 | [sequence of impaired memories](https://open.spotify.com/track/2hf0VV9wMvH8rfLz6zYX4v) | [Scravz](https://open.spotify.com/artist/3hMlbrdZtluesriLMQaJix) | [sequence of impaired memories](https://open.spotify.com/album/49HZ9PHcDMZJfpgEsEcbDO) | 3:12 |
 | 96 | [Luminescence](https://open.spotify.com/track/5plrgSc0eBRvz2zIgv55qU) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Luminescence](https://open.spotify.com/album/2ow03fjXATz6KD5icDnqo8) | 2:18 |
 | 97 | [Backrooms](https://open.spotify.com/track/69MB5pkQQtAxJAYWowjWWh) | [Aunøra](https://open.spotify.com/artist/5Uqmw3ATHkgvbdRIvQHWqw) | [Backrooms](https://open.spotify.com/album/1490Rt6q9BmKL3QKJ9GZ3z) | 1:35 |
-| 98 | [fragments](https://open.spotify.com/track/52cN2rPCGlTQhFJJpdZpWx) | [Kub0](https://open.spotify.com/artist/1G0DoICczjBpWjARx4g1yO), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [fragments](https://open.spotify.com/album/2dChemWY5yn3fpRamEwdfz) | 2:07 |
+| 98 | [fragments](https://open.spotify.com/track/52cN2rPCGlTQhFJJpdZpWx) | [kub0](https://open.spotify.com/artist/4G87nmoUWzBd4A0ZMET8on), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [fragments](https://open.spotify.com/album/2dChemWY5yn3fpRamEwdfz) | 2:07 |
 | 99 | [when you left](https://open.spotify.com/track/6V8GpFnMUTAlUqE4dUHvt0) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [when you left](https://open.spotify.com/album/39zUDRzSrF6XcytFflHU5f) | 3:18 |
 | 100 | [the past](https://open.spotify.com/track/0A8pVUQWd9R5sSBABHXiap) | [empty street](https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X) | [the past](https://open.spotify.com/album/1j1ybJNVoPWWvr0ZFuD0zI) | 2:08 |
 | 101 | [sad song](https://open.spotify.com/track/6A8H0xWSyrO93dZl5KX5ZV) | [d2s1](https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY) | [sad song](https://open.spotify.com/album/49Hu7HlgIRSubBzQnw8R1S) | 1:21 |

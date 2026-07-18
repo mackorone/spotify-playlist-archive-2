@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nwith Locky & Luke Dean",
-  "num_followers": 87344,
+  "num_followers": 87472,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfkmoY0cWPIBiEDCXbin2eg0OR1",
+  "snapshot_id": "AAAAAIUbS1J5gAUNsxvCSpo0puutNpUo",
   "tracks": [
     {
       "added_at": "2026-07-10 04:02:04",
@@ -33,6 +33,54 @@
       "url": "https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD"
     },
     {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-07-17 04:01:06",
+      "album": {
+        "name": "Burnin' (2026 Remix)",
+        "url": "https://open.spotify.com/album/42baliS0uXFcYAYFdsggDq"
+      },
+      "artists": [
+        {
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
+        }
+      ],
+      "duration_ms": 149552,
+      "name": "Burnin' (2026 Remix)",
+      "url": "https://open.spotify.com/track/7LWHF6fHELXfQ4Z45BZdSN"
+    },
+    {
+      "added_at": "2026-07-17 15:05:04",
+      "album": {
+        "name": "Hey Everybody (Back In The Dance)",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Hey Everybody (Back In The Dance)",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
       "added_at": "2026-07-03 04:01:53",
       "album": {
         "name": "Look Into My Eyes",
@@ -49,10 +97,10 @@
       "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
     },
     {
-      "added_at": "2026-07-01 03:14:17",
+      "added_at": "2026-07-17 04:01:06",
       "album": {
-        "name": "Other Side of the Phone",
-        "url": "https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4"
+        "name": "I Just Need You",
+        "url": "https://open.spotify.com/album/4DvmM8xYBgAvjUS1bDbQvy"
       },
       "artists": [
         {
@@ -60,9 +108,9 @@
           "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
         }
       ],
-      "duration_ms": 285354,
-      "name": "Other Side of the Phone",
-      "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
+      "duration_ms": 150909,
+      "name": "I Just Need You",
+      "url": "https://open.spotify.com/track/1DKmvYdvympuinKv3bXhev"
     },
     {
       "added_at": "2026-07-10 04:02:04",
@@ -81,36 +129,60 @@
       "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
     },
     {
-      "added_at": "2026-06-19 04:01:17",
+      "added_at": "2026-07-03 04:01:53",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
       },
       "artists": [
         {
-          "name": "Ryan Nicholls",
-          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
+          "name": "Mat Eclair",
+          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
+      "duration_ms": 182255,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
+    },
+    {
+      "added_at": "2026-07-17 04:01:06",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        },
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        },
+        {
+          "name": "Nate Katz",
+          "url": "https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"
     },
     {
       "added_at": "2026-07-10 04:02:04",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+        "name": "To Be Free / Sweet Love",
+        "url": "https://open.spotify.com/album/61aG9H7cKm2HHjY6sRLI50"
       },
       "artists": [
         {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
         }
       ],
-      "duration_ms": 239246,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+      "duration_ms": 184853,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/7DFSWmAZmtspiqEQNjXB6x"
     },
     {
       "added_at": "2026-07-01 03:14:17",
@@ -133,20 +205,24 @@
       "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
     },
     {
-      "added_at": "2026-07-03 04:01:53",
+      "added_at": "2026-07-17 04:01:06",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/2dIF1VlTdYgJxZ2tvElVgr"
       },
       "artists": [
         {
-          "name": "Mat Eclair",
-          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
         }
       ],
-      "duration_ms": 182255,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
+      "duration_ms": 226259,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/1Q24Vs2ynPhDpg4XCuxdR4"
     },
     {
       "added_at": "2026-07-03 04:01:53",
@@ -169,6 +245,26 @@
       "url": "https://open.spotify.com/track/1d8w8ahMR2HwECpQ5ksjZB"
     },
     {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
+    },
+    {
       "added_at": "2026-06-19 04:01:17",
       "album": {
         "name": "Feel",
@@ -185,6 +281,22 @@
       "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
     },
     {
+      "added_at": "2026-06-19 04:01:17",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nicholls",
+          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
+    },
+    {
       "added_at": "2026-07-03 04:01:53",
       "album": {
         "name": "If Its Real",
@@ -199,6 +311,22 @@
       "duration_ms": 198000,
       "name": "If Its Real",
       "url": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
+    },
+    {
+      "added_at": "2026-07-17 04:01:06",
+      "album": {
+        "name": "Satellite Phase EP",
+        "url": "https://open.spotify.com/album/6VHGzqMNRNzuMxuBlloyBt"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 186568,
+      "name": "Love Games",
+      "url": "https://open.spotify.com/track/07G7jbxZhIH0Y6YXe0XnV5"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -233,24 +361,40 @@
       "url": "https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF"
     },
     {
-      "added_at": "2026-07-03 04:01:53",
+      "added_at": "2026-07-01 03:14:17",
       "album": {
-        "name": "My Place",
-        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+        "name": "Other Side of the Phone",
+        "url": "https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4"
       },
       "artists": [
         {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
         }
       ],
-      "duration_ms": 159615,
-      "name": "My Place",
-      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
+      "duration_ms": 285354,
+      "name": "Other Side of the Phone",
+      "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
+    },
+    {
+      "added_at": "2026-07-17 04:01:06",
+      "album": {
+        "name": "Jammin'",
+        "url": "https://open.spotify.com/album/1WTjMMgwk5HEzpvwuw2NBy"
+      },
+      "artists": [
+        {
+          "name": "Simon Kidzoo",
+          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
+        },
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Jammin",
+      "url": "https://open.spotify.com/track/73HI3WuwM7W12t1X3x12Vr"
     },
     {
       "added_at": "2026-06-05 04:01:30",
@@ -375,22 +519,6 @@
       "duration_ms": 186363,
       "name": "Morning Light (feat. Mizbee)",
       "url": "https://open.spotify.com/track/0evpQOzmGKPoZo5LYFfKRt"
-    },
-    {
-      "added_at": "2026-07-10 04:02:04",
-      "album": {
-        "name": "To Be Free / Sweet Love",
-        "url": "https://open.spotify.com/album/61aG9H7cKm2HHjY6sRLI50"
-      },
-      "artists": [
-        {
-          "name": "ANATTA",
-          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "To Be Free",
-      "url": "https://open.spotify.com/track/7DFSWmAZmtspiqEQNjXB6x"
     },
     {
       "added_at": "2026-05-29 04:01:35",
@@ -749,22 +877,6 @@
       "url": "https://open.spotify.com/track/5hBK3SddrzzFWxsLyT1Rw2"
     },
     {
-      "added_at": "2026-06-12 04:01:31",
-      "album": {
-        "name": "Coastal Transmissions EP",
-        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
-      },
-      "artists": [
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "duration_ms": 220168,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
-    },
-    {
       "added_at": "2026-06-19 04:01:17",
       "album": {
         "name": "GANGSTA",
@@ -993,22 +1105,6 @@
       "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
     },
     {
-      "added_at": "2026-06-12 04:01:31",
-      "album": {
-        "name": "Get Loose",
-        "url": "https://open.spotify.com/album/05AMeF9HxOXv6QfSzmpw5j"
-      },
-      "artists": [
-        {
-          "name": "Midas Field",
-          "url": "https://open.spotify.com/artist/2CWBXfhKFuPmSoXhM4V6O1"
-        }
-      ],
-      "duration_ms": 384155,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/4tsOLecIcXkaOdSBMRxFlq"
-    },
-    {
       "added_at": "2026-06-05 04:01:30",
       "album": {
         "name": "May I?",
@@ -1091,22 +1187,6 @@
       "duration_ms": 196555,
       "name": "Push Ya Back",
       "url": "https://open.spotify.com/track/5i5caeF79c3FuXWbJMZQww"
-    },
-    {
-      "added_at": "2026-05-29 04:01:35",
-      "album": {
-        "name": "Back Pressure",
-        "url": "https://open.spotify.com/album/6KkOX0odkP64F3857xu3Mg"
-      },
-      "artists": [
-        {
-          "name": "Mariche",
-          "url": "https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF"
-        }
-      ],
-      "duration_ms": 222829,
-      "name": "Back Pressure",
-      "url": "https://open.spotify.com/track/4UAQbIQNigCfJx4fCv4gCY"
     },
     {
       "added_at": "2026-05-08 18:22:08",
@@ -1271,22 +1351,6 @@
       "duration_ms": 187258,
       "name": "Second Nature - SHUFFA Remix",
       "url": "https://open.spotify.com/track/1TRXRI1BAk8vsZAa2mHLix"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Bass Rider EP",
-        "url": "https://open.spotify.com/album/6iUxrJlvhNkFDyh1KTNNmE"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Bass Rider",
-      "url": "https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N"
     },
     {
       "added_at": "2026-04-17 04:04:08",
@@ -1547,22 +1611,6 @@
       "duration_ms": 187669,
       "name": "Clubwalker",
       "url": "https://open.spotify.com/track/6NjcmK0kTqYqPuGHywAR5T"
-    },
-    {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "In Love With My 909",
-        "url": "https://open.spotify.com/album/12gHWhgeVPkESG8PlGm98Q"
-      },
-      "artists": [
-        {
-          "name": "Blaise Bracic",
-          "url": "https://open.spotify.com/artist/4r61NJYpoMYek97nrUPfvN"
-        }
-      ],
-      "duration_ms": 169218,
-      "name": "In Love With My 909",
-      "url": "https://open.spotify.com/track/17uV2PyLB4lRGIMnsI3WHy"
     },
     {
       "added_at": "2026-03-27 04:00:16",
@@ -2041,30 +2089,6 @@
       "url": "https://open.spotify.com/track/6RREMDJ6ru3YpvboN4Le3q"
     },
     {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Freak Like Me (Ben Kim Remix)",
-        "url": "https://open.spotify.com/album/3xP002zibPYbY6Dgd1IsPK"
-      },
-      "artists": [
-        {
-          "name": "Lee Walker",
-          "url": "https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP"
-        },
-        {
-          "name": "DJ Deeon",
-          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
-        },
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 176144,
-      "name": "Freak Like Me - Ben Kim Remix",
-      "url": "https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6"
-    },
-    {
       "added_at": "2025-08-20 19:16:02",
       "album": {
         "name": "Do You Like Bass",
@@ -2079,22 +2103,6 @@
       "duration_ms": 230769,
       "name": "Do You Like Bass",
       "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
-    },
-    {
-      "added_at": "2025-07-02 15:10:18",
-      "album": {
-        "name": "Bass Jump EP",
-        "url": "https://open.spotify.com/album/2qvdXuq10ShTNfI3wNXUTF"
-      },
-      "artists": [
-        {
-          "name": "Luca Rossi",
-          "url": "https://open.spotify.com/artist/7I673u2XTlO4pz29h6wSL2"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "Bass Jump",
-      "url": "https://open.spotify.com/track/4yeL38PURk2TrKQw2WC1Zo"
     },
     {
       "added_at": "2025-04-18 20:13:27",

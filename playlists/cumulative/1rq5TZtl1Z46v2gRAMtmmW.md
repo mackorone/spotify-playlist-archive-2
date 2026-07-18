@@ -4,7 +4,7 @@
 
 > 
 
-551 songs - 1 day 11 hr 32 min
+553 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 | 2025-11-17 | 2026-02-18 |
 | [Caught Up In The Fire \(An Apparition\)](https://open.spotify.com/track/3ojRt2l1Zq9YMd8eD7O4WX) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire \(An Apparition\)](https://open.spotify.com/album/0Kylm5pCQ5cUlRb6EvHLEw) | 3:46 | 2025-12-09 | 2026-04-04 |
 | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2) | 2:42 | 2026-01-29 | 2026-04-04 |
+| [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 | 2026-07-17 |  |
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-10-12 | 2022-06-22 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 | 2024-04-27 |
 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-14 | 2026-02-18 |
@@ -410,6 +411,7 @@
 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2023-12-19 | 2024-05-10 |
 | [Right Here](https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Right Here](https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp) | 3:49 | 2024-05-15 | 2024-08-14 |
 | [Right Here](https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Right Here](https://open.spotify.com/album/6eVyeXNcxcfv0eE5fZmteF) | 2:13 | 2023-09-26 | 2024-04-13 |
+| [Right Thing](https://open.spotify.com/track/3iClibIjy24oX2tOGuBHYl) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Right Thing](https://open.spotify.com/album/7H5iillfusVO8njfh7xBRH) | 3:35 | 2026-07-17 |  |
 | [rimel](https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rimel](https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA) | 2:06 | 2024-04-10 | 2024-06-21 |
 | [RISE](https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [RISE](https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse) | 2:40 | 2024-04-17 | 2024-07-11 |
 | [Round n Round](https://open.spotify.com/track/7EovTzlTgRD6MdprArq80m) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Round n Round](https://open.spotify.com/album/47XFxbR2CJp4fLPnhf3Tfr) | 5:10 | 2024-04-09 | 2024-06-21 |

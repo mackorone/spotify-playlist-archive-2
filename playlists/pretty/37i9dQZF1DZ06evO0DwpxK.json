@@ -1,12 +1,12 @@
 {
   "description": "This is HUMBE. The essential tracks, all in one playlist.",
-  "num_followers": 287114,
+  "num_followers": 287153,
   "original_name": "This Is HUMBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAACibwuEex8PRT1FOupRXmOs",
+  "snapshot_id": "algfAAAAAACo8QQYTPvXQDK5JChn3rib",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESENCIA",
-        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 180619,
-      "name": "TU VALOR",
-      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/3B9XsHBz4VVFEw5iC3sYZP"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9"
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 237908,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/3B9XsHBz4VVFEw5iC3sYZP"
+      "duration_ms": 178709,
+      "name": "TSQ",
+      "url": "https://open.spotify.com/track/1Zh65uEClQl16bwYW4HD2I"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESENCIA",
-        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 178709,
-      "name": "TSQ",
-      "url": "https://open.spotify.com/track/1Zh65uEClQl16bwYW4HD2I"
+      "duration_ms": 229709,
+      "name": "\u00faltimamente",
+      "url": "https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 229709,
-      "name": "\u00faltimamente",
-      "url": "https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV"
+      "duration_ms": 180619,
+      "name": "TU VALOR",
+      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
     },
     {
       "added_at": null,
@@ -259,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagro",
-        "url": "https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR"
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9"
       },
       "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
         {
           "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 207003,
-      "name": "Templo de Piceas",
-      "url": "https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM"
+      "duration_ms": 148266,
+      "name": "novatos",
+      "url": "https://open.spotify.com/track/1SZ36sAVA9Xy8XKFsCW51J"
     },
     {
       "added_at": null,
@@ -291,6 +287,26 @@
       "duration_ms": 192897,
       "name": "HARRY STAMPER",
       "url": "https://open.spotify.com/track/7H0ER1T2kHDyOuDf03zlKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagro",
+        "url": "https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 207003,
+      "name": "Templo de Piceas",
+      "url": "https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM"
     },
     {
       "added_at": null,
@@ -323,22 +339,6 @@
       "duration_ms": 209226,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/6x4hov4il890wqz0eIvSgo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 148266,
-      "name": "novatos",
-      "url": "https://open.spotify.com/track/1SZ36sAVA9Xy8XKFsCW51J"
     },
     {
       "added_at": null,

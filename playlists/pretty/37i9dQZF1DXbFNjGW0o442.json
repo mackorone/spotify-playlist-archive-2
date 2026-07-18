@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43931,
+  "num_followers": 43937,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "S\u00daPER PREMIUM ULTRA",
-        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 204403,
-      "name": "RA",
-      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "TUYA",
         "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 203792,
       "name": "No Te Perdono",
       "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "S\u00daPER PREMIUM ULTRA",
+        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 204403,
+      "name": "RA",
+      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "De Facto",
-        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "L\u00edneas En Hojas",
-      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Gracias por Cuidar el Equipo",
         "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 227328,
       "name": "Directa",
       "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "De Facto",
+        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "L\u00edneas En Hojas",
+      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Mujer Contra Mujer",
-        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
-      },
-      "artists": [
-        {
-          "name": "Sandra & Celeste",
-          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Mujer Contra Mujer",
-      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Una Pel\u00edcula",
         "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 320167,
       "name": "Una Pel\u00edcula",
       "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Mujer Contra Mujer",
+        "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
+      },
+      "artists": [
+        {
+          "name": "Sandra & Celeste",
+          "url": "https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Mujer Contra Mujer",
+      "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Celesteac\u00fastica (Veinteaniversario)",
+        "url": "https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 267091,
+      "name": "Mi Elemento",
+      "url": "https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -959,42 +979,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed",
-        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 230988,
-      "name": "Cuando el sol est\u00e1 as\u00ed",
-      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Celesteac\u00fastica (Veinteaniversario)",
-        "url": "https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy"
-      },
-      "artists": [
-        {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 267091,
-      "name": "Mi Elemento",
-      "url": "https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Agitar",
         "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 127598,
       "name": "Agitar",
       "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Cuando el sol est\u00e1 as\u00ed",
+        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 230988,
+      "name": "Cuando el sol est\u00e1 as\u00ed",
+      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Para Olvidarte",
-        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Para Olvidarte",
-      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Una Temporada en el Invierno",
         "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
       },
@@ -1087,22 +1071,6 @@
       "duration_ms": 236081,
       "name": "Una Temporada en el Invierno",
       "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Hasta Abajo - Ep",
-        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
-      },
-      "artists": [
-        {
-          "name": "Violeta Castillo",
-          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
-        }
-      ],
-      "duration_ms": 345723,
-      "name": "Las Se\u00f1ales",
-      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1123,24 +1091,8 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arder",
-        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1s Que Uno",
-          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
-        }
-      ],
-      "duration_ms": 220249,
-      "name": "Tu Caminar",
-      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
+        "name": "Para Olvidarte",
+        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
       },
       "artists": [
         {
@@ -1148,9 +1100,25 @@
           "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
         }
       ],
-      "duration_ms": 211614,
-      "name": "Girando",
-      "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
+      "duration_ms": 185093,
+      "name": "Para Olvidarte",
+      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Hasta Abajo - Ep",
+        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+      },
+      "artists": [
+        {
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+        }
+      ],
+      "duration_ms": 345723,
+      "name": "Las Se\u00f1ales",
+      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1171,6 +1139,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Arder",
+        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1s Que Uno",
+          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
+        }
+      ],
+      "duration_ms": 220249,
+      "name": "Tu Caminar",
+      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Todo el mundo miente",
         "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
       },
@@ -1183,6 +1167,42 @@
       "duration_ms": 207669,
       "name": "Todo el mundo miente",
       "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "duration_ms": 211614,
+      "name": "Girando",
+      "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+      },
+      "artists": [
+        {
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1219,22 +1239,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Huir",
-        "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Huir",
-      "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Suena En M\u00ed",
         "url": "https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr"
       },
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+        "name": "Huir",
+        "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
       },
       "artists": [
         {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+      "duration_ms": 256200,
+      "name": "Huir",
+      "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1283,6 +1283,22 @@
       "duration_ms": 192286,
       "name": "Mi Voz",
       "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Libido",
+        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Tyrana",
+          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
+        }
+      ],
+      "duration_ms": 175114,
+      "name": "Libido",
+      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1315,22 +1331,6 @@
       "duration_ms": 223205,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Libido",
-        "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Tyrana",
-          "url": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
-        }
-      ],
-      "duration_ms": 175114,
-      "name": "Libido",
-      "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Sola y Feliz",
-        "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
+        "name": "Dime Si (remix)",
+        "url": "https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO"
       },
       "artists": [
         {
-          "name": "Tiburona",
-          "url": "https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3"
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
         }
       ],
-      "duration_ms": 188861,
-      "name": "Sola y Feliz",
-      "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
+      "duration_ms": 254653,
+      "name": "Dime Si - remix",
+      "url": "https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Denadie",
-        "url": "https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G"
+        "name": "Sola y Feliz",
+        "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
       },
       "artists": [
         {
-          "name": "Melanie Williams",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Tiburona",
+          "url": "https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3"
         }
       ],
-      "duration_ms": 186041,
-      "name": "Denadie",
-      "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
+      "duration_ms": 188861,
+      "name": "Sola y Feliz",
+      "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Denadie",
+        "url": "https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 186041,
+      "name": "Denadie",
+      "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "El lado sur de mi coraz\u00f3n",
         "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 175235,
       "name": "Te agradezco el amor",
       "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Dime Si (remix)",
-        "url": "https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "Dime Si - remix",
-      "url": "https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 176490,
-      "name": "El Oscuro",
-      "url": "https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Rompe Paga",
         "url": "https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB"
       },
@@ -1623,18 +1607,34 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Tanta Data",
-        "url": "https://open.spotify.com/album/2yZn2CNQjT154b0gSvbFUo"
+        "name": "Fogones Nocturnos",
+        "url": "https://open.spotify.com/album/6Yq9lqtDXpfStCm0cLtXII"
       },
       "artists": [
         {
-          "name": "Ruise\u00f1ora",
-          "url": "https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO"
+          "name": "Sol Bassa",
+          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Tanta Data",
-      "url": "https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId"
+      "duration_ms": 236386,
+      "name": "Fogones Nocturnos",
+      "url": "https://open.spotify.com/track/2Kz28K1EKmHQLgevGuKBgB"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 176490,
+      "name": "El Oscuro",
+      "url": "https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW"
     }
   ],
   "unique_name": "Rockeras",

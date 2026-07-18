@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  Ladipoe
 
-442 songs - 22 hr 40 min
+442 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 | 2022-04-21 | 2024-05-17 |
 | [No Collab](https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Générations](https://open.spotify.com/artist/4oaKWkUkOcOROIPCyBuAod) | [Générations Street](https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd) | 2:09 | 2023-12-01 | 2024-01-03 |
 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 | 2023-11-10 | 2025-05-27 |
+| [No Level](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 4:00 | 2026-07-17 |  |
 | [NO LIMIT](https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe) | [BDLM VOL.1](https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y) | 3:14 | 2024-10-18 | 2025-07-18 |
 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 | 2024-07-05 | 2025-08-29 |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-29 | 2025-09-12 |
@@ -410,7 +411,6 @@
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-09-27 | 2025-10-24 |
 | [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 | 2025-09-26 |  |
 | [Too Late for Mama](https://open.spotify.com/track/1Xp4Cy2DSnghxhXDriDKrr) | [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [BONJ](https://open.spotify.com/artist/06U2Jp2afTGxkxA9LMluDL) | [Shallow](https://open.spotify.com/album/0pChf8s46kdE5dS7eLv88S) | 3:32 | 2024-05-24 | 2024-09-07 |
-| [Track 8](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 0:00 | 2026-07-17 |  |
 | [Trap Waltz](https://open.spotify.com/track/5qqO0DePrhF3xttj0Nfm3v) | [LuNo Da ViNci](https://open.spotify.com/artist/2QL5zMgCw5o1bkMttMbdzx), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [WillX BOY](https://open.spotify.com/artist/24uRj76SdihKvLzrWvmE8e) | [Trap Waltz](https://open.spotify.com/album/45FiQ6iEu5XOS6Uf580Gyk) | 2:48 | 2025-08-01 | 2025-11-28 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 | 2026-05-09 |
 | [tufF lucK](https://open.spotify.com/track/05ckeXjGCNBEBcPxtefZjx) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [tufF lucK](https://open.spotify.com/album/4bOwdHNy1wXRKNdhMRpscl) | 3:40 | 2021-12-09 | 2022-09-17 |

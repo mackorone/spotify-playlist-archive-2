@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Bella Poarch on the cover
+> sweet\. sharp\. unbothered \- Emi Grace on the cover
 
-1,122 songs - 2 day 3 hr 56 min
+1,126 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Bad Habits](https://open.spotify.com/track/2Zxa8dBD8TDAAwuwPJZz6o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Bad Habits](https://open.spotify.com/album/2ljBsmYzspzbHDojqm5CDP) | 3:32 | 2024-07-26 | 2025-01-25 |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-28 | 2023-05-06 |
 | [BAD IDEA](https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [BAD IDEA](https://open.spotify.com/album/6onkLsxds6BIAt1CJcqHpH) | 3:04 | 2026-01-23 | 2026-05-16 |
+| [Bad Ones](https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Bad Ones](https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng) | 2:45 | 2026-07-17 |  |
 | [bad tattoo](https://open.spotify.com/track/7iUhMgffcOTVXrpBKP0wxm) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [bad tattoo](https://open.spotify.com/album/0j7ZjvfGjpbiSZl4Jm0BKR) | 2:40 | 2023-12-08 | 2024-01-13 |
 | [Bad Thing](https://open.spotify.com/track/6UTi9PS0CiMUs5DUfYl3W4) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Bad Thing](https://open.spotify.com/album/3mswhSkFywLzh7g33pG7O3) | 2:43 | 2023-02-10 | 2023-05-20 |
 | [BADDER](https://open.spotify.com/track/5hvxB7vZ8p6YDLlt7iC7o8) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [BADDER](https://open.spotify.com/album/0Zb78r3znw6BMy7IP7fYVk) | 3:14 | 2023-03-24 | 2023-08-19 |
@@ -374,7 +375,7 @@
 | [GIBBERISH](https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [GIBBERISH](https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK) | 2:15 | 2024-04-26 | 2024-06-29 |
 | [Girl Like Me](https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Girl Like Me](https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv) | 2:29 | 2022-12-09 | 2023-08-26 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2022-11-19 |
-| [Girls Are So Lucky](https://open.spotify.com/track/1iyDMAsVPrn25iGiqjI9Ev) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Girls Are So Lucky](https://open.spotify.com/album/0vrId1FtS9yQlcwxCLpw1b) | 2:15 | 2026-04-17 |  |
+| [Girls Are So Lucky](https://open.spotify.com/track/1iyDMAsVPrn25iGiqjI9Ev) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Girls Are So Lucky](https://open.spotify.com/album/0vrId1FtS9yQlcwxCLpw1b) | 2:15 | 2026-04-17 | 2026-07-18 |
 | [Girls Can Do Anything](https://open.spotify.com/track/6heGVcEj4wAyvdM9vg81kF) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Girls Can Do Anything](https://open.spotify.com/album/21ZOZVvKJtmGn4OjW8f3wW) | 2:54 | 2022-03-11 | 2022-04-16 |
 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 | 2022-11-18 | 2023-02-18 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-19 | 2023-04-01 |
@@ -698,6 +699,7 @@
 | [Next Girl](https://open.spotify.com/track/04nNCAclZY6SkkhAsyZvrg) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Next Girl](https://open.spotify.com/album/2rsNNclb3rLNdFgbrcSVRN) | 2:13 | 2026-06-26 |  |
 | [Night at the Opera](https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO) | 3:04 | 2026-04-03 | 2026-06-13 |
 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 | 2024-01-12 | 2024-04-27 |
+| [NINE\-ONE\-ONE](https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7) | [insha](https://open.spotify.com/artist/1JK3iEviLgJX7BeMmBnKD9) | [NINE\-ONE\-ONE](https://open.spotify.com/album/50bkgKigPtMZSJNMxhBDO6) | 1:41 | 2026-07-17 |  |
 | [No Comma](https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [No Comma](https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4) | 2:41 | 2024-09-20 | 2025-01-25 |
 | [No Fair](https://open.spotify.com/track/38oTngdlSyvTSOSuBxMo7y) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [No Fair](https://open.spotify.com/album/33Z3HByYE3waLUxBwim2MZ) | 3:20 | 2025-08-15 | 2025-10-05 |
 | [NO FAVORS](https://open.spotify.com/track/0yC5FVKCYgPdPqkBxifItx) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [NO FAVORS](https://open.spotify.com/album/3NyNscLjMBpZyb18dYrtnO) | 1:54 | 2025-07-11 | 2025-11-08 |
@@ -738,7 +740,7 @@
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-09-06 | 2025-01-11 |
 | [PANIC ATTACK](https://open.spotify.com/track/2eedk1GWWMQddPLcGdMnqW) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [PANIC ATTACK](https://open.spotify.com/album/3CNRa6ky0qtoGT9Huz7yK1) | 2:20 | 2024-10-04 | 2025-01-25 |
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2022-04-08 | 2022-06-04 |
-| [PAPERCUT](https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [PAPERCUT](https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo) | 3:14 | 2026-01-23 |  |
+| [PAPERCUT](https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [PAPERCUT](https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo) | 3:14 | 2026-01-23 | 2026-07-18 |
 | [Parachute](https://open.spotify.com/track/63AH0CKhrzqFVQt3VfJsom) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Parachute](https://open.spotify.com/album/2Uf2MHzOLmlfuciVughpzO) | 2:31 | 2024-09-27 | 2025-01-25 |
 | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/track/1erjalqVwLQT2t1ZWcas9P) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/album/79NhJfhqNZgDUJtwIn1V1k) | 2:48 | 2021-11-19 | 2022-03-18 |
 | [Parasite](https://open.spotify.com/track/00Se605FE4PodGs9ZV0hJq) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Parasite](https://open.spotify.com/album/70cJf4BIWAMjyqEtcPJA06) | 3:24 | 2025-08-01 | 2025-08-30 |
@@ -890,6 +892,7 @@
 | [SLEEPING WITH KARMA](https://open.spotify.com/track/3yJDEWDY4mj4fslXhVLcLx) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [SLEEPING WITH KARMA](https://open.spotify.com/album/0wb2E0nDn3qfxsgupyqqOx) | 2:44 | 2025-06-13 | 2025-07-26 |
 | [SLOW DOWN](https://open.spotify.com/track/0RnKHcb6dnWIBBuiipNx2o) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [SLOW DOWN](https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx) | 2:28 | 2024-05-24 | 2024-07-27 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2021-09-10 | 2022-03-18 |
+| [SMH](https://open.spotify.com/track/07I8k93iDfq3yZMZPyvUJ1) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [SMH](https://open.spotify.com/album/3KUImf8fghGXzP2YpmRWmy) | 2:13 | 2026-07-17 |  |
 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 | 2022-11-26 |
 | [Smoochie Girl](https://open.spotify.com/track/0nimVZc4NEpUO0qub6FZRk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3Xy6qL3ZmwqwOGjBkypnlJ) | 3:01 | 2025-09-19 | 2026-03-19 |
 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 | 2022-09-09 | 2022-11-12 |
@@ -998,6 +1001,7 @@
 | [To The Moon](https://open.spotify.com/track/7JRnLgqbG12bgMeI0Nntei) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [To The Moon](https://open.spotify.com/album/2ar7pzKt4oF0qyODJLwIMn) | 2:51 | 2023-07-28 | 2023-12-09 |
 | [Tombstone](https://open.spotify.com/track/5wRS72uvPwRMCY39ZzsGd3) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Tombstone](https://open.spotify.com/album/1evZwJqReLrvbQIyPamqFs) | 3:30 | 2026-04-10 | 2026-06-22 |
 | [Tongue Trick](https://open.spotify.com/track/0nmVf8TKm9VPvgELV4u2EA) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Choke Hold](https://open.spotify.com/album/7avibQveVA03ZGcknyu0dm) | 2:47 | 2024-08-30 | 2024-09-28 |
+| [Too Fast To Live, Too Young To Die](https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Too Fast To Live, Too Young To Die](https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP) | 3:21 | 2026-07-17 |  |
 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2022-10-14 | 2023-03-25 |
 | [Too Late To Move On](https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Too Late To Move On](https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii) | 2:31 | 2023-05-05 | 2023-06-24 |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-09-24 |
@@ -1097,7 +1101,7 @@
 | [WHO MADE YOU GOD?](https://open.spotify.com/track/1nV6Qser13CumN9rCB1t2l) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WHO MADE YOU GOD?](https://open.spotify.com/album/25m4iN0Zy9rn0SAOxrRi8m) | 3:27 | 2022-09-23 | 2023-01-14 |
 | [WHO MADE YOU GOD?](https://open.spotify.com/track/33RkgvfErKI9QLp3XwQXC3) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WHO MADE YOU GOD?](https://open.spotify.com/album/7vpNvBh0qxPbbvAoVxry82) | 3:27 | 2022-09-23 | 2022-11-17 |
 | [Who Was I To Want You?](https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Who Was I To Want You?](https://open.spotify.com/album/4qhqDZJR96FgMGQMZ5mNls) | 3:17 | 2025-08-08 | 2025-10-05 |
-| [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 | 2026-02-13 |  |
+| [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 | 2026-02-13 | 2026-07-18 |
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-04-24 | 2024-06-15 |
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-01-19 | 2024-04-27 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 | 2022-03-18 | 2022-05-14 |

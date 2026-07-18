@@ -1,13 +1,141 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Macy Todd",
-  "num_followers": 219525,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Isabel van Gelder",
+  "num_followers": 219514,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPH/EIo3Pm9viFzINu3djrigTn+P",
+  "snapshot_id": "AAAAAPA6aD9w+/JZ7P5k6PiQ9ietNbPp",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 219302,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
+    },
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 180967,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I"
+    },
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "duration_ms": 211619,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
+    },
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/7enCEM8sC7Zfl7fALQWFqG"
+      },
+      "artists": [
+        {
+          "name": "MINOE",
+          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
+        }
+      ],
+      "duration_ms": 177599,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2wGGc1BHUCiaN5WWi4rHYC"
+    },
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "Lucky to Be",
+        "url": "https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 128853,
+      "name": "Sleeping with My Boots On",
+      "url": "https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX"
+    },
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "Breadcrumbs",
+        "url": "https://open.spotify.com/album/0UVZPteSAFrEIAPxh01qEw"
+      },
+      "artists": [
+        {
+          "name": "Isabella Contadini",
+          "url": "https://open.spotify.com/artist/7es1ZMOu9pWxGha3pVYjwv"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Breadcrumbs",
+      "url": "https://open.spotify.com/track/11bloEmkI1B1VJDaam7amJ"
+    },
+    {
+      "added_at": "2026-07-17 04:02:07",
+      "album": {
+        "name": "You're Never Alone",
+        "url": "https://open.spotify.com/album/0O2iRORmaAioTiQPUpEmtg"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Skora",
+          "url": "https://open.spotify.com/artist/2gudzFL2ctFaWwVjhy79Fa"
+        }
+      ],
+      "duration_ms": 144356,
+      "name": "You're Never Alone",
+      "url": "https://open.spotify.com/track/3r2mLZ18tU8WH6XF7bUOqZ"
+    },
     {
       "added_at": "2026-07-10 15:28:37",
       "album": {
@@ -425,22 +553,6 @@
       "url": "https://open.spotify.com/track/2wJhQccf0olvXdFFS8n7Ay"
     },
     {
-      "added_at": "2026-06-12 04:56:00",
-      "album": {
-        "name": "Stop Me Dead",
-        "url": "https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF"
-      },
-      "artists": [
-        {
-          "name": "Kerr Mercer",
-          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
-        }
-      ],
-      "duration_ms": 151794,
-      "name": "Stop Me Dead",
-      "url": "https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU"
-    },
-    {
       "added_at": "2026-05-29 04:02:57",
       "album": {
         "name": "scars to prove it",
@@ -521,22 +633,6 @@
       "url": "https://open.spotify.com/track/5GNXPlVDtvk0lnmak8HSaL"
     },
     {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "Sick of Staying",
-        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 206470,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
-    },
-    {
       "added_at": "2026-05-22 04:49:40",
       "album": {
         "name": "Same Old Song",
@@ -567,22 +663,6 @@
       "duration_ms": 205225,
       "name": "Piece of Your Love",
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-04-29 01:53:50",
-      "album": {
-        "name": "picking petals",
-        "url": "https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 228942,
-      "name": "picking petals",
-      "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
     },
     {
       "added_at": "2026-05-22 04:49:40",
@@ -663,22 +743,6 @@
       "duration_ms": 186131,
       "name": "Say It Like You Mean It",
       "url": "https://open.spotify.com/track/2NmSbpmU94WloIuWGSeMCQ"
-    },
-    {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/2LW9HJ56wQs8VzYcI0LFfs"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 237014,
-      "name": "Dying Star",
-      "url": "https://open.spotify.com/track/0DwcDNWoSNSKIUzAfKhFQs"
     },
     {
       "added_at": "2026-04-24 04:00:14",
@@ -1041,22 +1105,6 @@
       "url": "https://open.spotify.com/track/05zheau3JeycC8FNZpGRSd"
     },
     {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
-    },
-    {
       "added_at": "2026-03-28 20:27:32",
       "album": {
         "name": "Love Will Kill Me",
@@ -1121,22 +1169,6 @@
       "url": "https://open.spotify.com/track/6ayWThHJIEq12z3fuR9S5n"
     },
     {
-      "added_at": "2026-04-03 04:01:42",
-      "album": {
-        "name": "second grade",
-        "url": "https://open.spotify.com/album/5pMdeiF3uvKgUkjrAjX3so"
-      },
-      "artists": [
-        {
-          "name": "Anya Gupta",
-          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
-        }
-      ],
-      "duration_ms": 182701,
-      "name": "second grade",
-      "url": "https://open.spotify.com/track/77GI8YUY8xvnXD3qaC1xWQ"
-    },
-    {
       "added_at": "2026-03-20 04:00:44",
       "album": {
         "name": "Not My Friends",
@@ -1183,118 +1215,6 @@
       "duration_ms": 187115,
       "name": "Happy Meaning",
       "url": "https://open.spotify.com/track/0SkkAICzAWkjVcAuBlsDtV"
-    },
-    {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "Never Made It Out",
-        "url": "https://open.spotify.com/album/3aQU2rp2dbpBrMFe5sGlfR"
-      },
-      "artists": [
-        {
-          "name": "Shay O'Dowd",
-          "url": "https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Never Made It Out",
-      "url": "https://open.spotify.com/track/12MTn5SaP2z5aYNjAiAJvc"
-    },
-    {
-      "added_at": "2026-03-13 04:00:44",
-      "album": {
-        "name": "animal",
-        "url": "https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz"
-      },
-      "artists": [
-        {
-          "name": "Ben Ellis",
-          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
-        }
-      ],
-      "duration_ms": 250883,
-      "name": "animal",
-      "url": "https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "Old Time's Sake",
-        "url": "https://open.spotify.com/album/4JRlbtTEJu7TQ3DVp5vKO2"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Old Time's Sake",
-      "url": "https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs"
-    },
-    {
-      "added_at": "2026-03-17 01:16:24",
-      "album": {
-        "name": "Please, Don't Wake Me",
-        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 219406,
-      "name": "Please, Don't Wake Me",
-      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
-    },
-    {
-      "added_at": "2026-03-13 04:00:44",
-      "album": {
-        "name": "You Don't Really Like Me",
-        "url": "https://open.spotify.com/album/2BocWiE6BIzA7yjOQCUxvS"
-      },
-      "artists": [
-        {
-          "name": "Emma Andersen",
-          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
-        }
-      ],
-      "duration_ms": 166221,
-      "name": "You Don't Really Like Me",
-      "url": "https://open.spotify.com/track/5aSEbL2JKTt9qoHZRpW5kT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "Aint It Such A Bitch",
-        "url": "https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 206874,
-      "name": "Aint It Such A Bitch",
-      "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
-    },
-    {
-      "added_at": "2026-03-13 04:00:44",
-      "album": {
-        "name": "When You Fall In Love",
-        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 187057,
-      "name": "When You Fall In Love",
-      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

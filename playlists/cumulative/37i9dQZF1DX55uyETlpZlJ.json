@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 235074,
       "name": "Belongaluru",
       "url": "https://open.spotify.com/track/3Ccj32rFvv6NZa9l6nv7fc"
@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 182523,
       "name": "Jai Anthem (From \"Jai\")",
       "url": "https://open.spotify.com/track/32RlK5Wh2iNkmXxetLbv32"
@@ -6772,7 +6772,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 308553,
       "name": "Laka Laka Holital",
       "url": "https://open.spotify.com/track/2xV18yzxS5hKV6Deyw8H6C"
@@ -8165,6 +8165,28 @@
     },
     {
       "album": {
+        "name": "Modala Kavana",
+        "url": "https://open.spotify.com/album/6i9eG3Ac1vYBRMYXhdmELp"
+      },
+      "artists": [
+        {
+          "name": "Shaunbhogmusic",
+          "url": "https://open.spotify.com/artist/2j1jUQaGT4CBcnrTjjHn5l"
+        },
+        {
+          "name": "Joel Sakkari",
+          "url": "https://open.spotify.com/artist/5czzvCflTYTFwFiF5Lj6WO"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312428,
+      "name": "Modala Kavana",
+      "url": "https://open.spotify.com/track/6cYA08WH1TmTPqK7F9DBZE"
+    },
+    {
+      "album": {
         "name": "Moha",
         "url": "https://open.spotify.com/album/3305TUU9f36esWNU6ffNaA"
       },
@@ -9410,6 +9432,24 @@
       "duration_ms": 249219,
       "name": "Nanomme Ninnodane",
       "url": "https://open.spotify.com/track/1nXe2tZgYkFYAQiwYrc605"
+    },
+    {
+      "album": {
+        "name": "Nanu Mukkesh",
+        "url": "https://open.spotify.com/album/71WyCVQ4r5C8FLx6Ulcgjx"
+      },
+      "artists": [
+        {
+          "name": "MC RUM",
+          "url": "https://open.spotify.com/artist/1VOhMkYaOcjMkDEN4hSSGy"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197892,
+      "name": "Nanu Mukkesh",
+      "url": "https://open.spotify.com/track/3ulzOuzHA4B8570MGpUsjw"
     },
     {
       "album": {
@@ -11106,7 +11146,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 190991,
       "name": "Olave The tale of ManHitha",
       "url": "https://open.spotify.com/track/4ToJi6PqxkKuEuNnvF3TLL"
@@ -13133,6 +13173,24 @@
     },
     {
       "album": {
+        "name": "Suchane",
+        "url": "https://open.spotify.com/album/6nYHVt6xR9IRtUp2roMXma"
+      },
+      "artists": [
+        {
+          "name": "Sage G 17",
+          "url": "https://open.spotify.com/artist/1qq4Yxku063YcXvDJ7S8Fc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168386,
+      "name": "Suchane",
+      "url": "https://open.spotify.com/track/6nnjBps2lTL8D1wjvyGmXY"
+    },
+    {
+      "album": {
         "name": "Summane (Female)",
         "url": "https://open.spotify.com/album/5YWKgzbCNTGUcDGXe48sDe"
       },
@@ -13446,7 +13504,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 206000,
       "name": "That's OK",
       "url": "https://open.spotify.com/track/3xhDoKSUhjfeXnvTTt4U1o"
@@ -14043,6 +14101,24 @@
     },
     {
       "album": {
+        "name": "Vajra (Kannada Version)",
+        "url": "https://open.spotify.com/album/0YCu7JudCi2LREhgceY2KB"
+      },
+      "artists": [
+        {
+          "name": "Srikanth Iyer",
+          "url": "https://open.spotify.com/artist/1PJzxgc0GaDN5vC46g1U4P"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239288,
+      "name": "Vajra - Kannada Version",
+      "url": "https://open.spotify.com/track/7fc5hwkMya1VzPABRAlt8b"
+    },
+    {
+      "album": {
         "name": "Veera",
         "url": "https://open.spotify.com/album/4Oi5t7j1mpqKTxpn2DZXq6"
       },
@@ -14335,6 +14411,24 @@
     },
     {
       "album": {
+        "name": "YATHANE",
+        "url": "https://open.spotify.com/album/1mQLss8zM9BXKUzB0mnQqM"
+      },
+      "artists": [
+        {
+          "name": "Voice of Vishal",
+          "url": "https://open.spotify.com/artist/6J1CrXguBJIqDSiUPWC75B"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "YATHANE",
+      "url": "https://open.spotify.com/track/2d7rYQfwIigHAksNcMyAQI"
+    },
+    {
+      "album": {
         "name": "Yelladi Nanna Gelati 2",
         "url": "https://open.spotify.com/album/3o1CraR30nGxVff7l54x21"
       },
@@ -14412,7 +14506,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 252444,
       "name": "YEN AAGIDE",
       "url": "https://open.spotify.com/track/1lMJ3fbfShTNMDVN3h3e2g"

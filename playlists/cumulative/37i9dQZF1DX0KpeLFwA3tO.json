@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Initiate",
+  "description": "The best new music from the wide world of punk. Cover: The Menzingers",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1030,6 +1030,24 @@
       "duration_ms": 182000,
       "name": "6SPEED",
       "url": "https://open.spotify.com/track/50YqXG4WbLBYndkE7wPztt"
+    },
+    {
+      "album": {
+        "name": "To Live And Die In The American South",
+        "url": "https://open.spotify.com/album/6TGU2qrg1KgMeTniPkLYhc"
+      },
+      "artists": [
+        {
+          "name": "Riley!",
+          "url": "https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194949,
+      "name": "73 Summers",
+      "url": "https://open.spotify.com/track/2spDdkgW1tjp96YvaiWVov"
     },
     {
       "album": {
@@ -2064,6 +2082,24 @@
       "duration_ms": 206204,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/1Y9Nu5Jzuf1CKFOY4x7jCU"
+    },
+    {
+      "album": {
+        "name": "again",
+        "url": "https://open.spotify.com/album/0usoII5gF5NYASuhjJBZgY"
+      },
+      "artists": [
+        {
+          "name": "better living.",
+          "url": "https://open.spotify.com/artist/63j4X1B61HEpCD0bBlvRa4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175846,
+      "name": "again",
+      "url": "https://open.spotify.com/track/599TJK7vmDozmtNs5TwAlP"
     },
     {
       "album": {
@@ -7556,7 +7592,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 160711,
       "name": "Born Low",
       "url": "https://open.spotify.com/track/29lm5mHJ2GfsQISGI8B7kD"
@@ -8191,6 +8227,24 @@
     },
     {
       "album": {
+        "name": "Bring On The Psychics",
+        "url": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Bring On The Psychics",
+      "url": "https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq"
+    },
+    {
+      "album": {
         "name": "Is This The Low Point Or The Moment After?",
         "url": "https://open.spotify.com/album/7scnpxa4nBF35V8rpYZD57"
       },
@@ -8502,6 +8556,24 @@
       "duration_ms": 194657,
       "name": "Burn",
       "url": "https://open.spotify.com/track/061YzXs5MzqCO0LnNyelrn"
+    },
+    {
+      "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191010,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
     },
     {
       "album": {
@@ -11169,6 +11241,24 @@
     },
     {
       "album": {
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174208,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/0Wg9Onf2gM9JA2WROEf7zd"
+    },
+    {
+      "album": {
         "name": "COKEHEAD",
         "url": "https://open.spotify.com/album/4JFfwqsgySYq0uYEokchgy"
       },
@@ -13406,6 +13496,24 @@
       "duration_ms": 207538,
       "name": "Dark Skies",
       "url": "https://open.spotify.com/track/72mLqLvPHY8RU0noE9CpKs"
+    },
+    {
+      "album": {
+        "name": "Dark Summer",
+        "url": "https://open.spotify.com/album/1Z9i2afJULwMsP7Ot0ZNHL"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235253,
+      "name": "Dark Summer",
+      "url": "https://open.spotify.com/track/2IBMljVB5JsAE4jd6mIVZ7"
     },
     {
       "album": {
@@ -16990,7 +17098,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198040,
       "name": "Eat For Peace",
       "url": "https://open.spotify.com/track/7cKxXhku9d5sm4RMYPA5ie"
@@ -17730,7 +17838,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164125,
       "name": "EVERY GAZE (feat. Shooting Daggers)",
       "url": "https://open.spotify.com/track/2GyT4UFnpM3wiWMfJo8FTU"
@@ -17868,6 +17976,24 @@
       "duration_ms": 218290,
       "name": "Everything Else Can Wait",
       "url": "https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r"
+    },
+    {
+      "album": {
+        "name": "Everything I Ever Saw",
+        "url": "https://open.spotify.com/album/0sv1PoH9ogsxlaLeGWPrMR"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204656,
+      "name": "Everything I Ever Saw",
+      "url": "https://open.spotify.com/track/2mECzzifzhyByuC0K8qeyg"
     },
     {
       "album": {
@@ -20912,7 +21038,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 185076,
       "name": "Fun Destroyer",
       "url": "https://open.spotify.com/track/78UOwac27Z0gICBrk5J3tX"
@@ -24293,6 +24419,24 @@
     },
     {
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/02swHn4vumiHRRCUqobttq"
+      },
+      "artists": [
+        {
+          "name": "Olive Vox",
+          "url": "https://open.spotify.com/artist/1XT9PDbUGYnNcjDnvXvBOS"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177443,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/0uHUwC27BoPvI5UC9kM9FA"
+    },
+    {
+      "album": {
         "name": "Heart Pumps Blood",
         "url": "https://open.spotify.com/album/38tf14Nlk4xBpZhwax3wZ6"
       },
@@ -25538,7 +25682,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 181018,
       "name": "House Of Matches",
       "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
@@ -27489,6 +27633,24 @@
     },
     {
       "album": {
+        "name": "I Won't Surrender",
+        "url": "https://open.spotify.com/album/2GgY7IOhzvrPnSUQv3BzeQ"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "I Won't Surrender",
+      "url": "https://open.spotify.com/track/2paQ7cuCUxpxBIXOJaZjiV"
+    },
+    {
+      "album": {
         "name": "I'd Get Along",
         "url": "https://open.spotify.com/album/4InmQS0emp7RwOxxjpfuK3"
       },
@@ -28578,7 +28740,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195000,
       "name": "INHERITED",
       "url": "https://open.spotify.com/track/5u2PKVZtiRsOYGyNuSzjri"
@@ -28830,7 +28992,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 208298,
       "name": "Invisible Strings",
       "url": "https://open.spotify.com/track/5DpPjFe0fxJ1EAnd2yF3NU"
@@ -29234,7 +29396,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 129399,
       "name": "It Used To Snow",
       "url": "https://open.spotify.com/track/4rN4OjD7we9KlZq9XUlD6U"
@@ -29292,6 +29454,24 @@
       "duration_ms": 149395,
       "name": "It Was Easy",
       "url": "https://open.spotify.com/track/0aYZyfR7Ua57iOLXXzozwc"
+    },
+    {
+      "album": {
+        "name": "It Was Never A Phase",
+        "url": "https://open.spotify.com/album/3SsyDCAICEj3ZVVbKa6unS"
+      },
+      "artists": [
+        {
+          "name": "Minute After Midnight",
+          "url": "https://open.spotify.com/artist/1I2FT3hzoEYgxaIlCMkotA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220063,
+      "name": "It Was Never A Phase",
+      "url": "https://open.spotify.com/track/1XLR3Ip597XEGio9dRGr81"
     },
     {
       "album": {
@@ -29512,6 +29692,24 @@
       "duration_ms": 112489,
       "name": "Jack",
       "url": "https://open.spotify.com/track/3HqjkJozv732dGgTlc4NMC"
+    },
+    {
+      "album": {
+        "name": "Jack Torrance",
+        "url": "https://open.spotify.com/album/5E5qrB9HqkYnnVc4gA2fa8"
+      },
+      "artists": [
+        {
+          "name": "Zeke",
+          "url": "https://open.spotify.com/artist/7HvjR3M6xzluBLTnioRzvu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63520,
+      "name": "Jack Torrance",
+      "url": "https://open.spotify.com/track/14rQ1NLN2DFXPLbc1lIPbg"
     },
     {
       "album": {
@@ -30475,6 +30673,28 @@
     },
     {
       "album": {
+        "name": "Kids Of The K-Hole",
+        "url": "https://open.spotify.com/album/2hx09bldXe3xfeiHJtdO9v"
+      },
+      "artists": [
+        {
+          "name": "Fat Mike",
+          "url": "https://open.spotify.com/artist/6Lcg20AJgoSg3YUmz1zCt6"
+        },
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190656,
+      "name": "Kids Of The K-Hole",
+      "url": "https://open.spotify.com/track/1qxco4wI5tapPh4JJdCa2p"
+    },
+    {
+      "album": {
         "name": "Kids of the K-T Hole",
         "url": "https://open.spotify.com/album/5ZHqt9RKOUJXpFWwwy0lV3"
       },
@@ -30768,6 +30988,24 @@
       "duration_ms": 221589,
       "name": "King",
       "url": "https://open.spotify.com/track/1zQvjaJSLOe4ApyRkrjnPW"
+    },
+    {
+      "album": {
+        "name": "King Death",
+        "url": "https://open.spotify.com/album/2sNL2WTsQLcZZ4NtO70uKZ"
+      },
+      "artists": [
+        {
+          "name": "Evil Island",
+          "url": "https://open.spotify.com/artist/1ZqAGxTUQNbBh00YLuuQoP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "King Death",
+      "url": "https://open.spotify.com/track/5Pf7ntYm3W0iQnnOrvCliz"
     },
     {
       "album": {
@@ -34045,6 +34283,24 @@
     },
     {
       "album": {
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188336,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/1WCqnG8mUXsf8BPlmUERFq"
       },
@@ -37158,7 +37414,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 127493,
       "name": "Nah Nah",
       "url": "https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD"
@@ -40594,7 +40850,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 229786,
       "name": "Opportunity",
       "url": "https://open.spotify.com/track/3RdhSonqmb95nKsTXmN3HT"
@@ -41490,6 +41746,24 @@
     {
       "album": {
         "name": "Paranoid",
+        "url": "https://open.spotify.com/album/5hXaNIv2Y4a2wcF15UkbgC"
+      },
+      "artists": [
+        {
+          "name": "N8NOFACE",
+          "url": "https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133028,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/22zRaOOun80LgPFAdhhc4R"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
         "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
       },
       "artists": [
@@ -41728,7 +42002,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 178114,
       "name": "Pathetic",
       "url": "https://open.spotify.com/track/48H964OXoYm4FGIkn7xQlb"
@@ -45068,7 +45342,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 122786,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/1uJjmh1VpduxuPImOTcLsn"
@@ -45506,7 +45780,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 181366,
       "name": "Revelation of Evil",
       "url": "https://open.spotify.com/track/2hAzLnmZszdyL14X0rUVgZ"
@@ -49498,7 +49772,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 177613,
       "name": "SLC Punk on an SSRI",
       "url": "https://open.spotify.com/track/2ahuaNEKa0RsVrX4lI1k4F"
@@ -51522,7 +51796,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 78618,
       "name": "Stillness Blues",
       "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
@@ -53044,6 +53318,24 @@
       "duration_ms": 238972,
       "name": "Take Back Your Voice",
       "url": "https://open.spotify.com/track/7BLCCHWAOIhOawOYwCkuI0"
+    },
+    {
+      "album": {
+        "name": "TAKE ME FOR A SPIN",
+        "url": "https://open.spotify.com/album/2Ly9qjbIxjYWbREJ8HY9Og"
+      },
+      "artists": [
+        {
+          "name": "Runway the Catwalker",
+          "url": "https://open.spotify.com/artist/0v7OXAWuYuTZJGeHKwGhkQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185085,
+      "name": "TAKE ME FOR A SPIN",
+      "url": "https://open.spotify.com/track/6dfZnxUgnju0wQ0CWTUEyu"
     },
     {
       "album": {
@@ -55774,7 +56066,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 158379,
       "name": "The Smash",
       "url": "https://open.spotify.com/track/2EYdHeWW7x1P6Q6rCpnIF5"

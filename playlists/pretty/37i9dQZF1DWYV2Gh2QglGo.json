@@ -1,13 +1,221 @@
 {
-  "description": "The home of Canadian country music. Cover: Chevy Beaulieu",
-  "num_followers": 84128,
+  "description": "The home of Canadian country music. Cover: Noah Bridgen",
+  "num_followers": 84127,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnsmeJDD972tF+EITiVA6Ir//OD",
+  "snapshot_id": "AAAAAFlLwcljebvWjulh+/bWRDRGwPne",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Men Into Boys",
+        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 154448,
+      "name": "Men Into Boys",
+      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Saving Me",
+        "url": "https://open.spotify.com/album/70RJexXwAZ3XJL4QXip3MM"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "duration_ms": 221787,
+      "name": "Saving Me",
+      "url": "https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/6fcjeLOJxPSGBRBz0QzFwk"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 153998,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3LAPsp68xanrLI05uK1n6B"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Chevrolaid Back",
+        "url": "https://open.spotify.com/album/6yhK51yO9ZwdNHWxf0M5fR"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Chevrolaid Back",
+      "url": "https://open.spotify.com/track/3CXEeYwt2GvT6n89ooL2j1"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "\u00c0 deux",
+        "url": "https://open.spotify.com/album/0I5ismsSKnFfl9LzEuMHHZ"
+      },
+      "artists": [
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "duration_ms": 191582,
+      "name": "\u00c0 deux",
+      "url": "https://open.spotify.com/track/4Vk5DGChHThoUPzZKTuTaH"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "I Sure Hope So",
+        "url": "https://open.spotify.com/album/6AF4c8unC9GTqPnAc5MHUv"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 209166,
+      "name": "I Sure Hope So",
+      "url": "https://open.spotify.com/track/1sx70yd6jpIAGZPy9xgocz"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "King Size Trouble",
+        "url": "https://open.spotify.com/album/1gvgDEXRuM8VztzLVgZ0pr"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "duration_ms": 153692,
+      "name": "King Size Trouble",
+      "url": "https://open.spotify.com/track/4C1sJovydhaZOGpqs2gcHm"
+    },
+    {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Spiraling",
+        "url": "https://open.spotify.com/album/1kQKRGY4GbruO2Ha1aIKOM"
+      },
+      "artists": [
+        {
+          "name": "Sadie Campbell",
+          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Spiraling",
+      "url": "https://open.spotify.com/track/7BSV22vWFpDHDWb13EXXoA"
+    },
+    {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 181389,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
+    },
+    {
+      "added_at": "2026-07-17 16:07:29",
+      "album": {
+        "name": "Did July",
+        "url": "https://open.spotify.com/album/3e598b6XtajzmcOqdpcQUa"
+      },
+      "artists": [
+        {
+          "name": "Ben Chase",
+          "url": "https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0"
+        }
+      ],
+      "duration_ms": 190511,
+      "name": "Did July",
+      "url": "https://open.spotify.com/track/395xnAoaoi71sujp8KilMU"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "God Knows I Try",
+        "url": "https://open.spotify.com/album/7IQPPigGG11oSuzWYIEKZF"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 205950,
+      "name": "God Knows I Try",
+      "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
+    },
     {
       "added_at": "2026-07-10 04:03:19",
       "album": {
@@ -25,20 +233,52 @@
       "url": "https://open.spotify.com/track/15dkTfTBwtG4tpz3hVbMYu"
     },
     {
-      "added_at": "2026-07-10 04:03:19",
+      "added_at": "2026-07-17 04:03:05",
       "album": {
-        "name": "I Sure Hope So",
-        "url": "https://open.spotify.com/album/6AF4c8unC9GTqPnAc5MHUv"
+        "name": "Roxie",
+        "url": "https://open.spotify.com/album/7kzUd2BMEfHaVEon7FcbWZ"
       },
       "artists": [
         {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+          "name": "Tyler Lorette",
+          "url": "https://open.spotify.com/artist/5AJ5mQlyss1SLspTXxo424"
         }
       ],
-      "duration_ms": 209166,
-      "name": "I Sure Hope So",
-      "url": "https://open.spotify.com/track/1sx70yd6jpIAGZPy9xgocz"
+      "duration_ms": 159274,
+      "name": "Roxie",
+      "url": "https://open.spotify.com/track/1hJspLJJHO012ZgLPEpf6M"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Home In Your Broken Heart",
+        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 222710,
+      "name": "Home In Your Broken Heart",
+      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Stop The Bleeding",
+        "url": "https://open.spotify.com/album/790pZAVns4b9VzBL51NXfy"
+      },
+      "artists": [
+        {
+          "name": "The Road Hammers",
+          "url": "https://open.spotify.com/artist/1JEhLfoNDGbqu40txdS8go"
+        }
+      ],
+      "duration_ms": 227592,
+      "name": "Stop The Bleeding",
+      "url": "https://open.spotify.com/track/4ISoN4KS2mCdZlLTToWFtH"
     },
     {
       "added_at": "2026-07-10 04:03:19",
@@ -63,38 +303,6 @@
     {
       "added_at": "2026-07-10 04:03:19",
       "album": {
-        "name": "God Knows I Try",
-        "url": "https://open.spotify.com/album/7IQPPigGG11oSuzWYIEKZF"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 205950,
-      "name": "God Knows I Try",
-      "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "Deep Water",
-        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 153069,
-      "name": "Deep Water",
-      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
         "name": "Being Free",
         "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
       },
@@ -111,38 +319,6 @@
     {
       "added_at": "2026-07-10 04:03:19",
       "album": {
-        "name": "Home In Your Broken Heart",
-        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 222710,
-      "name": "Home In Your Broken Heart",
-      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 181389,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
         "name": "Killed My Silverado",
         "url": "https://open.spotify.com/album/65CoarfdhnrxT9djRQJcbS"
       },
@@ -155,22 +331,6 @@
       "duration_ms": 163035,
       "name": "Killed My Silverado",
       "url": "https://open.spotify.com/track/7no6q4Nx6mJus9km9s4KV6"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "The Tenth Album (Side A)",
-        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 144790,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
     },
     {
       "added_at": "2026-07-10 04:03:19",
@@ -957,22 +1117,6 @@
       "url": "https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW"
     },
     {
-      "added_at": "2026-06-05 04:02:58",
-      "album": {
-        "name": "Si j'avais su",
-        "url": "https://open.spotify.com/album/1nUrYbnpvFOU4ieFE9cNRY"
-      },
-      "artists": [
-        {
-          "name": "Francis Degrandpr\u00e9",
-          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "Si j'avais su",
-      "url": "https://open.spotify.com/track/2YFXeVtnFtx4kUBHZlKCFb"
-    },
-    {
       "added_at": "2026-05-29 08:01:08",
       "album": {
         "name": "Summertime",
@@ -1163,22 +1307,6 @@
       "duration_ms": 184396,
       "name": "Chase My Whiskey",
       "url": "https://open.spotify.com/track/7wOvpum2LOTjY7bOOcBzS8"
-    },
-    {
-      "added_at": "2026-05-29 08:01:08",
-      "album": {
-        "name": "Mid Life",
-        "url": "https://open.spotify.com/album/3MQH16onkL9TBdbURqcBR8"
-      },
-      "artists": [
-        {
-          "name": "Sadie Campbell",
-          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
-        }
-      ],
-      "duration_ms": 205402,
-      "name": "Mid Life",
-      "url": "https://open.spotify.com/track/6rVUVt13g4qJ7Tlz2ZQEyG"
     },
     {
       "added_at": "2026-05-29 08:01:08",
@@ -1455,22 +1583,6 @@
     {
       "added_at": "2026-05-15 04:03:14",
       "album": {
-        "name": "Sorry (Country Version)",
-        "url": "https://open.spotify.com/album/5eBkSxZKyGprzAvaKe75wT"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 197224,
-      "name": "Sorry - Country Version",
-      "url": "https://open.spotify.com/track/4zjJQpfb5fKRsRnXLrMy7G"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
         "name": "Small Town Livin'",
         "url": "https://open.spotify.com/album/2HcA9JfsHF2g8AFnykVFC4"
       },
@@ -1659,22 +1771,6 @@
       "duration_ms": 169938,
       "name": "So Far so Good",
       "url": "https://open.spotify.com/track/5p4rAajj1Osq1aS8vFBgdO"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "P.O.S.",
-        "url": "https://open.spotify.com/album/4mmeyfgVl2um0sm62Ixl9v"
-      },
-      "artists": [
-        {
-          "name": "Noah Brigden",
-          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
-        }
-      ],
-      "duration_ms": 198278,
-      "name": "P.O.S.",
-      "url": "https://open.spotify.com/track/6AJaDD64IxpDR3qntU56Pd"
     },
     {
       "added_at": "2026-05-08 04:05:38",
@@ -2179,22 +2275,6 @@
     {
       "added_at": "2026-04-10 04:04:24",
       "album": {
-        "name": "Ride At Dawn",
-        "url": "https://open.spotify.com/album/6WRRYqCe2UFxw8xpvxHd6K"
-      },
-      "artists": [
-        {
-          "name": "Shawnee Kish",
-          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
-        }
-      ],
-      "duration_ms": 166834,
-      "name": "Ride At Dawn",
-      "url": "https://open.spotify.com/track/7pTM9SbEDlonGGyN8bvu4w"
-    },
-    {
-      "added_at": "2026-04-10 04:04:24",
-      "album": {
         "name": "Ain't Goin' Nowhere",
         "url": "https://open.spotify.com/album/5Tt87rXPnepduWrmXs7tVU"
       },
@@ -2307,22 +2387,6 @@
       "duration_ms": 223538,
       "name": "Hometown Heroes (feat. Dean Brody)",
       "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Have You Seen Her",
-        "url": "https://open.spotify.com/album/55YfxVi8AL9uLovRiA0NUa"
-      },
-      "artists": [
-        {
-          "name": "Dawson Gray",
-          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Have You Seen Her",
-      "url": "https://open.spotify.com/track/4uIcP2VNylqEtSNt2f1Mwv"
     },
     {
       "added_at": "2026-03-27 04:01:06",
@@ -2599,22 +2663,6 @@
       "duration_ms": 164950,
       "name": "I Want a Cowboy",
       "url": "https://open.spotify.com/track/5aMte04D5B9qVqfHRuGUTm"
-    },
-    {
-      "added_at": "2026-01-23 05:01:13",
-      "album": {
-        "name": "When We Die",
-        "url": "https://open.spotify.com/album/27VT8vDUyhEyl7WuOIsqQm"
-      },
-      "artists": [
-        {
-          "name": "Dawson Gray",
-          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
-        }
-      ],
-      "duration_ms": 189102,
-      "name": "When We Die",
-      "url": "https://open.spotify.com/track/56NwNT9HF8iUCbFAUMe8T2"
     },
     {
       "added_at": "2026-02-27 05:01:26",

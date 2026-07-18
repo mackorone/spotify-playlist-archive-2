@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Choi Yu Ree \(최유리\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,380 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,373 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [사랑했고 사랑했고 사랑했다](https://open.spotify.com/track/3fIjMrLEe4R0CeOGj1BNqJ) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [사랑했고 사랑했고 사랑했다](https://open.spotify.com/album/3oZ2xjTHAJ1FWtWKEDw2kb) | 4:12 |
 | 100 | [How about you](https://open.spotify.com/track/4Imjh7Rdg5NJPluzMiy6qa) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [How about you](https://open.spotify.com/album/3oKJKREnfP5MiB0e0OPjOn) | 4:02 |
 
-Snapshot ID: `AAAAANITFrr//S/8U3F+51mVBXZjkSKx`
+Snapshot ID: `AAAAANhGJtOMJ3xbZKtZie+kVT001vAj`

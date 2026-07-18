@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 189598,
+  "num_followers": 189625,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Me Saludas A La Tuya",
-        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 163932,
-      "name": "Me Saludas A La Tuya",
-      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+        "name": "Me Saludas A La Tuya",
+        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+      "duration_ms": 163932,
+      "name": "Me Saludas A La Tuya",
+      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Divas Rancheras",
-        "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
-      },
-      "artists": [
-        {
-          "name": "Angeles Ochoa",
-          "url": "https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "El Herradero",
-      "url": "https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 203173,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Divas Rancheras",
+        "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
+      },
+      "artists": [
+        {
+          "name": "Angeles Ochoa",
+          "url": "https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "El Herradero",
+      "url": "https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
+        "name": "Las Rejas No Matan",
+        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
         "name": "Tengo Ganas De Olvidarte",
         "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 218061,
       "name": "Tengo Ganas De Olvidarte",
       "url": "https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
-        "name": "Las Rejas No Matan",
-        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
     },
     {
       "added_at": "2026-02-13 06:00:00",

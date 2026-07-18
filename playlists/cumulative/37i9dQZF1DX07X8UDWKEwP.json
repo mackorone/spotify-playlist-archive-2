@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 188686,
       "name": "Adi\u00f3s Adi\u00f3s",
       "url": "https://open.spotify.com/track/3IyFAuQTK4THafNRoF3bES"
@@ -6255,6 +6255,32 @@
     },
     {
       "album": {
+        "name": "ESA MUJER",
+        "url": "https://open.spotify.com/album/5XIy883X2seq9tiZVrbIak"
+      },
+      "artists": [
+        {
+          "name": "Charles Luis",
+          "url": "https://open.spotify.com/artist/6leJUISW6JxYObU2SBgXLf"
+        },
+        {
+          "name": "Dimelo Cupido",
+          "url": "https://open.spotify.com/artist/3JEHkKoCwbqnsqJxumsmy5"
+        },
+        {
+          "name": "Dj Husky",
+          "url": "https://open.spotify.com/artist/7KpJV35QbeZ1ZCn34bnypL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228403,
+      "name": "ESA MUJER",
+      "url": "https://open.spotify.com/track/1mXxS7FotrC51Vnq0jMgSy"
+    },
+    {
+      "album": {
         "name": "Escasez de Besos",
         "url": "https://open.spotify.com/album/7hu8S7ZNiakxzrN3K1sljS"
       },
@@ -8116,6 +8142,24 @@
       "duration_ms": 177242,
       "name": "La Diferente",
       "url": "https://open.spotify.com/track/7jrf60exlPX6inEBrZXjkE"
+    },
+    {
+      "album": {
+        "name": "La Discoteca",
+        "url": "https://open.spotify.com/album/4RcYAfFpxlNDm9vQx4ivSv"
+      },
+      "artists": [
+        {
+          "name": "Donny Caballero",
+          "url": "https://open.spotify.com/artist/59KiJoJk4joMhDfJ037DDt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171947,
+      "name": "La Discoteca",
+      "url": "https://open.spotify.com/track/5iZsbkwnVAC6HrCafCez6F"
     },
     {
       "album": {
@@ -10356,6 +10400,24 @@
       "duration_ms": 199865,
       "name": "me voy, ya me fui",
       "url": "https://open.spotify.com/track/49B1lQifUr3NU9TfWlybEh"
+    },
+    {
+      "album": {
+        "name": "Medio Vampiro",
+        "url": "https://open.spotify.com/album/16YpcG6B5RtdLCciEe9oR4"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191156,
+      "name": "Medio Vampiro",
+      "url": "https://open.spotify.com/track/6cqfmiG1ZgneC7GSgXx643"
     },
     {
       "album": {
@@ -15832,7 +15894,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180461,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/3d2lHHAwIUunKJZjauMCX8"
@@ -16216,7 +16278,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 476013,
       "name": "Tim Pop",
       "url": "https://open.spotify.com/track/3PvYRydetolbFke3FNqub1"

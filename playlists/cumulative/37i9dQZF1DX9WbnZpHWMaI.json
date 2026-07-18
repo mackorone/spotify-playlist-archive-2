@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Nia Archives and Jorja Smith.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Nia Archives & Jorja Smith.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -638,6 +638,28 @@
       "duration_ms": 218354,
       "name": "All I Wanna Do Is Party",
       "url": "https://open.spotify.com/track/7iN74jtHyyQlqHZt8slpdk"
+    },
+    {
+      "album": {
+        "name": "All In For You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174566,
+      "name": "All In For You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
     },
     {
       "album": {
@@ -4546,7 +4568,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180875,
       "name": "Falling Out of Grace",
       "url": "https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT"
@@ -5770,7 +5792,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 173333,
       "name": "Gimme Dat",
       "url": "https://open.spotify.com/track/1MwIuhWqaLKTA3CrAaEZM5"
@@ -5962,6 +5984,24 @@
       "duration_ms": 125815,
       "name": "GLOW. (Blusher Remix)",
       "url": "https://open.spotify.com/track/2EHLYHcY5n1VetFu2Te0Mv"
+    },
+    {
+      "album": {
+        "name": "Heavenly Body: If I'm The Bottle You're The Message",
+        "url": "https://open.spotify.com/album/6e9wfJP9MkML5BqpviZlk8"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125013,
+      "name": "Glowing Guts",
+      "url": "https://open.spotify.com/track/0VvIO0ZW3iCendYN3iQYgi"
     },
     {
       "album": {
@@ -13842,7 +13882,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 222000,
       "name": "T Shirt",
       "url": "https://open.spotify.com/track/54uCSh5xkFvWxXPIe6zgZp"
@@ -14954,6 +14994,24 @@
       "duration_ms": 140573,
       "name": "Touch Touch",
       "url": "https://open.spotify.com/track/0Rn7DkVnVtKzqG2mcZditT"
+    },
+    {
+      "album": {
+        "name": "Emotional Junglist",
+        "url": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151054,
+      "name": "Train Of Thought",
+      "url": "https://open.spotify.com/track/1zhowQgLDBGUy9WrPzNbv3"
     },
     {
       "album": {

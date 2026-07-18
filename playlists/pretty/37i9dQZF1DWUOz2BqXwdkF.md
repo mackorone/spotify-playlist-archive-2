@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 
 > Love was never part of the deal\. Listen to the music from and inspired by Off Campus, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,360 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,113 likes - 92 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 | 86 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 |
 | 87 | [Make a Man Out of You](https://open.spotify.com/track/1aAsVv8x1aqQYMWm2CodwT) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Wonderland](https://open.spotify.com/album/3HLGdW2Txvm3ex8EqRI5wh) | 2:43 |
 | 88 | [Bad Thing Rush](https://open.spotify.com/track/1yyyDdy8KflIYwCSTbs0bU) | [After Ava](https://open.spotify.com/artist/6nxc4Go6GppjwawTm0Gjp5) | [Bad Thing Rush](https://open.spotify.com/album/689oPazJQbzw8QIB3zeEJ9) | 2:13 |
-| 89 | [Welcome To Briar U](https://open.spotify.com/track/6hoeHG1SBfpfDxPtksN9gM) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 0:36 |
-| 90 | [Sleeping \(Hannah & Garrett Theme\)](https://open.spotify.com/track/1koGvzvltFe1645XVYrhI3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 2:58 |
+| 89 | [The Bitch Is Back](https://open.spotify.com/track/5B1ovpM35BYEZSQwspYl0W) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [The Bitch Is Back](https://open.spotify.com/album/0TVdBd2Un1ASEDWL1qbaH8) | 3:23 |
+| 90 | [Cherry Pie](https://open.spotify.com/track/0AGI7TpDj9MvEbmdU0py0p) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Cherry Pie](https://open.spotify.com/album/0KYNPQBnu83NxDeob6XpwB) | 3:13 |
+| 91 | [Welcome To Briar U](https://open.spotify.com/track/6hoeHG1SBfpfDxPtksN9gM) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 0:36 |
+| 92 | [Sleeping \(Hannah & Garrett Theme\)](https://open.spotify.com/track/1koGvzvltFe1645XVYrhI3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 2:58 |
 
-Snapshot ID: `AAAAAHa6UsQVdVM3Xma8802omsdEp5bO`
+Snapshot ID: `AAAAAAF4f19jaqX6pYyUIUgRt2QLSTfg`

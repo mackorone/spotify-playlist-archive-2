@@ -1,12 +1,12 @@
 {
-  "description": "A delicious mix of new songs in high rotation. Cover: Beabadoobee",
-  "num_followers": 1915266,
+  "description": "A delicious mix of new songs in high rotation. Cover: Bella Kay",
+  "num_followers": 1915094,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgKBSBamMEalG733lXJJuK/V8/N",
+  "snapshot_id": "AAAAADUOvTn1XZw4l45V2+4vcuAm3Jfa",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:46",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
     },
     {
+      "added_at": "2026-07-10 04:02:00",
+      "album": {
+        "name": "Role Model Hermit",
+        "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 236807,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
+    },
+    {
       "added_at": "2026-06-26 04:01:46",
       "album": {
         "name": "Lost Boys",
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
-      "added_at": "2026-07-10 04:02:00",
+      "added_at": "2026-07-17 04:00:59",
       "album": {
-        "name": "Role Model Hermit",
-        "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 236807,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -135,6 +151,26 @@
       "duration_ms": 299000,
       "name": "Lima",
       "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
+    },
+    {
+      "added_at": "2026-07-17 04:00:59",
+      "album": {
+        "name": "Heavenly Body: If I'm The Bottle You're The Message",
+        "url": "https://open.spotify.com/album/6e9wfJP9MkML5BqpviZlk8"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/1plZImDbco0NxZyxjQ1KnY"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -531,22 +567,6 @@
     {
       "added_at": "2026-06-26 04:01:46",
       "album": {
-        "name": "Promise?",
-        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 192100,
-      "name": "Promise?",
-      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
         "name": "2515",
         "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
       },
@@ -767,22 +787,6 @@
       "duration_ms": 272196,
       "name": "Warning",
       "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 171386,
-      "name": "Truth Of Pursuit",
-      "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
     },
     {
       "added_at": "2026-06-26 04:01:46",

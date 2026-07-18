@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAWDnbRrL0JAXk5pTJpRwOJnglpM+bl",
+  "snapshot_id": "AAAWETvJFn5+lL/RE5PKLI33I+ZuHKqO",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2939,6 +2939,54 @@
       "duration_ms": 171925,
       "name": "Inno al PC",
       "url": "https://open.spotify.com/track/2p4h5PZvl9pPSpIKyJGotv"
+    },
+    {
+      "added_at": "2026-07-17 07:37:57",
+      "album": {
+        "name": "Clowns without Crowns",
+        "url": "https://open.spotify.com/album/12RrZUaOOx3zfGkQNWV05F"
+      },
+      "artists": [
+        {
+          "name": "Supertrendt",
+          "url": "https://open.spotify.com/artist/4K5O7XpUvQx0S3YAFMHO8w"
+        }
+      ],
+      "duration_ms": 237119,
+      "name": "Clowns without Crowns",
+      "url": "https://open.spotify.com/track/7J7kX0fWq92ecC29PTPFQC"
+    },
+    {
+      "added_at": "2026-07-17 07:37:59",
+      "album": {
+        "name": "Desperfecci\u00f3n",
+        "url": "https://open.spotify.com/album/0H0XpGvk9I3TvqWc8CCdyl"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Vega",
+          "url": "https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Desperfecci\u00f3n",
+      "url": "https://open.spotify.com/track/7HlFYB6p95JOQKs62BLy4H"
+    },
+    {
+      "added_at": "2026-07-17 07:38:05",
+      "album": {
+        "name": "Losing Who I Used to Be",
+        "url": "https://open.spotify.com/album/1dGWdvcUV5brX9x6t7s3Qe"
+      },
+      "artists": [
+        {
+          "name": "Teddy Is Offline",
+          "url": "https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V"
+        }
+      ],
+      "duration_ms": 191191,
+      "name": "Losing Who I Used to Be",
+      "url": "https://open.spotify.com/track/3oyt3P5sKEthWeTl5Dmxut"
     }
   ],
   "unique_name": "New Indie Music",

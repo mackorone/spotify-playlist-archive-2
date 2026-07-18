@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 136695,
       "name": "Do You Really Trust Yourself",
       "url": "https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx"
@@ -4030,6 +4030,24 @@
       "duration_ms": 236013,
       "name": "Hear At Last",
       "url": "https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu"
+    },
+    {
+      "album": {
+        "name": "The Phoenix",
+        "url": "https://open.spotify.com/album/0RkCLagJCR15B421nm6KZv"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297240,
+      "name": "Heart Of Gold",
+      "url": "https://open.spotify.com/track/7LTjvG0l6UrXGMdl5Efh9U"
     },
     {
       "album": {
@@ -7354,7 +7372,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 233333,
       "name": "Please Mr. Groove",
       "url": "https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5"
@@ -8834,6 +8852,24 @@
       "duration_ms": 254346,
       "name": "Stride",
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
+    },
+    {
+      "album": {
+        "name": "Strollin'",
+        "url": "https://open.spotify.com/album/7ntJSSAKg3nPnad334iGjv"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270625,
+      "name": "Strollin'",
+      "url": "https://open.spotify.com/track/5qD4Zm5ttUXOAsW18xfAki"
     },
     {
       "album": {

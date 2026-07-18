@@ -2157,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4E9KtAlL6nobcjWgvidsY3"
+      },
+      "artists": [
+        {
+          "name": "Shel Khan",
+          "url": "https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216750,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp"
+    },
+    {
+      "album": {
         "name": "Geister",
         "url": "https://open.spotify.com/album/4lgWWLPTSCyNn6zS73Y5KX"
       },
@@ -5676,6 +5694,24 @@
       "duration_ms": 251040,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ"
+    },
+    {
+      "album": {
+        "name": "Still Running Away",
+        "url": "https://open.spotify.com/album/3YDiUpOeyo3IZ7twYJAWZ3"
+      },
+      "artists": [
+        {
+          "name": "The Drowning Waves",
+          "url": "https://open.spotify.com/artist/0eNa44YN6H5Uvsbzh3cYlT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181473,
+      "name": "Still Running Away",
+      "url": "https://open.spotify.com/track/2XbrKg47udmilyrS8NZb2E"
     },
     {
       "album": {

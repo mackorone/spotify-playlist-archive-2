@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,976,681 likes - 202 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,976,721 likes - 202 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 201 | [Lone Watch](https://open.spotify.com/track/25hnbR7UXD8mi14ZwF4IPt) | [The Dawning](https://open.spotify.com/artist/4ev14fn325vhWuykve3QtA) | [Lone Watch](https://open.spotify.com/album/46mYpIRwaaqTNWI4cKoRe1) | 2:44 |
 | 202 | [Veiled Peak](https://open.spotify.com/track/3OKTCsUsBoxFXFObqt9xFI) | [Lemon Grove](https://open.spotify.com/artist/0d6hM5RBMperEhHuY21f9n) | [Veiled Peak](https://open.spotify.com/album/6sVsfHIfNey92hCuHjKnJC) | 2:30 |
 
-Snapshot ID: `AAAAAGS39xHhcD8SsVK5o6YAiGtNAO82`
+Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`

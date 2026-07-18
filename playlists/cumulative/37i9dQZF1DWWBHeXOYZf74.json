@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Kelela",
+  "description": "Genre-less. Quality first always. Cover: Nia Archives",
   "name": "POLLEN",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 230163,
       "name": "'ever do you want",
       "url": "https://open.spotify.com/track/6EOhtoZa8JRw4fP7TkjOZ1"
+    },
+    {
+      "album": {
+        "name": "'Til We Meet Again",
+        "url": "https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "'Til We Meet Again",
+      "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
     },
     {
       "album": {
@@ -3011,6 +3029,28 @@
     },
     {
       "album": {
+        "name": "All In For You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174566,
+      "name": "All In For You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
+    },
+    {
+      "album": {
         "name": "All Made Up",
         "url": "https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1"
       },
@@ -4274,6 +4314,28 @@
       "duration_ms": 169756,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI"
+    },
+    {
+      "album": {
+        "name": "Any Time (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
     },
     {
       "album": {
@@ -7272,7 +7334,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 154000,
       "name": "bite",
       "url": "https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP"
@@ -17345,6 +17407,24 @@
     },
     {
       "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292780,
+      "name": "doom",
+      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
+    },
+    {
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/26gPb1EQQFK1Y0ij5E5rAE"
       },
@@ -22004,7 +22084,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 170533,
       "name": "Focu 'Ranni",
       "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
@@ -26464,7 +26544,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 84855,
       "name": "head 2 toe",
       "url": "https://open.spotify.com/track/39TaWKQwe5maEDLZJhNpmI"
@@ -26962,7 +27042,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 174615,
       "name": "HEAVENS #1",
       "url": "https://open.spotify.com/track/0nl8sLJ9FywNZu1hJSIYtT"
@@ -32094,7 +32174,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 191225,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/0SYpRF77aDTsKEaVfPyfwg"
@@ -36034,7 +36114,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 115160,
       "name": "linknb",
       "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
@@ -41327,6 +41407,28 @@
     },
     {
       "album": {
+        "name": "My Journey",
+        "url": "https://open.spotify.com/album/6YdEaSvHBeTVdzteLKe0hB"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Hips & Lips",
+          "url": "https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421219,
+      "name": "My Journey",
+      "url": "https://open.spotify.com/track/34R3T6Euc1Lllf1IaHVQXF"
+    },
+    {
+      "album": {
         "name": "Posse EP Volume 2",
         "url": "https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y"
       },
@@ -46227,6 +46329,32 @@
     },
     {
       "album": {
+        "name": "Peas In A Pod",
+        "url": "https://open.spotify.com/album/4pbXoYwjXiX2vHD3zOGjmE"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189797,
+      "name": "Peas In A Pod",
+      "url": "https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94"
+    },
+    {
+      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -47304,7 +47432,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 266613,
       "name": "point blank",
       "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
@@ -50885,6 +51013,28 @@
     },
     {
       "album": {
+        "name": "Romanticize",
+        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Romanticize",
+      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
+    },
+    {
+      "album": {
         "name": "EUSEXUA",
         "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
@@ -51154,7 +51304,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 224841,
       "name": "ROUND & ROUND",
       "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
@@ -51662,7 +51812,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 193294,
       "name": "SAME SH!T",
       "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
@@ -52838,7 +52988,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
@@ -56050,7 +56200,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 178320,
       "name": "soulless cycle",
       "url": "https://open.spotify.com/track/6cOD4NsMsC3xykBHA3j5b6"
@@ -59821,6 +59971,28 @@
     },
     {
       "album": {
+        "name": "Emotional Junglist",
+        "url": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142070,
+      "name": "Tender (feat. Sampha)",
+      "url": "https://open.spotify.com/track/208t36wBB22OOCi1eG4rI3"
+    },
+    {
+      "album": {
         "name": "SUCCUBUS",
         "url": "https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ"
       },
@@ -61158,6 +61330,32 @@
       "duration_ms": 167906,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2M33H5HtCUuXKxVX7jxMQ6"
+    },
+    {
+      "album": {
+        "name": "MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY (DELUXE)",
+        "url": "https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7"
+      },
+      "artists": [
+        {
+          "name": "_BY.ALEXANDER",
+          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
+        },
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/6u24LC3ZC40gAEPS2IwURV"
+        },
+        {
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206060,
+      "name": "the truth at a distance FEAT NALI & HAWA",
+      "url": "https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI"
     },
     {
       "album": {
@@ -62656,6 +62854,24 @@
       "duration_ms": 162758,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/5zBDAhKVH4lAXzXwmPGThy"
+    },
+    {
+      "album": {
+        "name": "Emotional Junglist",
+        "url": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151054,
+      "name": "Train Of Thought",
+      "url": "https://open.spotify.com/track/1zhowQgLDBGUy9WrPzNbv3"
     },
     {
       "album": {
@@ -68580,6 +68796,32 @@
       "duration_ms": 143830,
       "name": "Yo Love - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"
+    },
+    {
+      "album": {
+        "name": "YO NO SOY TU MAMA",
+        "url": "https://open.spotify.com/album/66pI7bpScC48RLESizKNMV"
+      },
+      "artists": [
+        {
+          "name": "BRAVA",
+          "url": "https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ"
+        },
+        {
+          "name": "Bella Kanela",
+          "url": "https://open.spotify.com/artist/4Vty69Pu7Pu3mRhYjJuR9m"
+        },
+        {
+          "name": "Sunny Wright IV",
+          "url": "https://open.spotify.com/artist/6huxe3RKiXS6u0ba4Tgg8b"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198193,
+      "name": "YO NO SOY TU MAMA",
+      "url": "https://open.spotify.com/track/1rpCavSwzf6WlGmaBEWXGo"
     },
     {
       "album": {

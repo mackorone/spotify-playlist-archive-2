@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 6 likes - 419 songs - 1 day 4 hr 47 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 6 likes - 420 songs - 1 day 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -427,5 +427,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 417 | [I Think I Lost My Headache](https://open.spotify.com/track/0MUXUGM0qh4lqWWQ9vvytv) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R](https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6) | 8:40 |
 | 418 | [Slept so Long](https://open.spotify.com/track/7AUjDtvBKzMif7i9rBH6o9) | [Jay Gordon](https://open.spotify.com/artist/08I5arPdBfbrzaLTdipFSy) | [Queen Of The Damned \(Music From The Motion Picture\)](https://open.spotify.com/album/5Y7jGzXsLLm5vXDdtX18p4) | 5:29 |
 | 419 | [Hypnotize](https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 3:09 |
+| 420 | [Like You](https://open.spotify.com/track/21ceHLJfgyO9703AlzM4DU) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 4:16 |
 
-Snapshot ID: `AAABulUGM3AbRgRk7hW7kN1PZa0jXxmn`
+Snapshot ID: `AAABu8xTARZzyrP/8DvEe3KhLpNe16RJ`

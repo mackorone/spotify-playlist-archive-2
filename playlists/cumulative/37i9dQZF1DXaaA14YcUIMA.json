@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 189213,
       "name": "C\u00f3mo Me Duele Amor",
       "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213426,
+      "name": "Nadie Sabe Lo Que Tiene",
+      "url": "https://open.spotify.com/track/046ranbtTCP1YfvOWzj0AW"
+    },
+    {
+      "album": {
         "name": "Preg\u00fantame A Mi",
         "url": "https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k"
       },
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 237440,
       "name": "Perd\u00f3n Por Tus L\u00e1grimas",
       "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
@@ -2798,6 +2816,28 @@
       "duration_ms": 207266,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/60pVBdslwbfdr38i34yhUq"
+    },
+    {
+      "album": {
+        "name": "Reg\u00e1lame",
+        "url": "https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        },
+        {
+          "name": "Elaine Haro",
+          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158945,
+      "name": "Reg\u00e1lame",
+      "url": "https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO"
     },
     {
       "album": {

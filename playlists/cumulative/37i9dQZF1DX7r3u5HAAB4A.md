@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Drake
+> A melting pot of Caribbean culture\. Cover: Buju Banton
 
-356 songs - 17 hr 29 min
+359 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-08-29 |  |
 | [Head Mad](https://open.spotify.com/track/0oICohEsRLouAvUSxhNNJM) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [ProdByPanda](https://open.spotify.com/artist/1T6qr1gEMrwWCflNaoxY0Y) | [Head Mad](https://open.spotify.com/album/393G4I5jPQB1fjbote4Z0O) | 2:03 | 2025-01-24 | 2025-02-01 |
 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 | 2024-08-29 | 2024-09-28 |
+| [Hello \(feat\. Buju Banton\)](https://open.spotify.com/track/00R468Heq3qV12xMqQFULd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:55 | 2026-07-17 |  |
 | [Her World \(feat\. Jorja Smith\)](https://open.spotify.com/track/1DSJqQC90lUY9OLKFH1bHe) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lovers Till I'm Gone](https://open.spotify.com/album/4WAgGUPLsCdOqGpiJcbN52) | 2:25 | 2025-01-17 | 2025-01-25 |
 | [HIGH CLASS](https://open.spotify.com/track/0psFMh5lO0IjjZ1sNKbx3d) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [THE IMPACT](https://open.spotify.com/album/4MEhltzG4SeDGwDNGgVQ36) | 2:50 | 2025-12-19 | 2026-01-17 |
 | [Higher Life \- Remix](https://open.spotify.com/track/4gbo7YNqeKPM2UnVTTCD5u) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Higher Life \(Remix\)](https://open.spotify.com/album/2LMcKdZNqerzbVa3JOQd4w) | 3:38 | 2024-11-08 | 2024-12-07 |
@@ -149,6 +150,7 @@
 | [Holy Man](https://open.spotify.com/track/4nwERQVp8OB0h32UsqKpeI) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Holy Man](https://open.spotify.com/album/2xlJNUHy1xHL1xGFRqn390) | 2:13 | 2024-08-29 |  |
 | [Hot Gyal Anthem](https://open.spotify.com/track/1MCPPjy2vAVt4CwJjfg7gK) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:16 | 2024-08-29 | 2025-11-16 |
 | [Hot Shot \(feat\. Buju Banton & Bounty Killer\)](https://open.spotify.com/track/6DSDSLGD0CcBwpkTTmoCXq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [You Remind Me / Hot Shot](https://open.spotify.com/album/0PLmnJL9Oxl02CtHgoakWU) | 3:04 | 2025-09-05 | 2025-11-15 |
+| [House Call](https://open.spotify.com/track/1P2YMHIhDi0Oszip9SpdtS) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Too Too Bad](https://open.spotify.com/album/0XXkEYOyHM2Lpb09pME4rl) | 2:37 | 2026-07-17 |  |
 | [Hurt Demself](https://open.spotify.com/track/1UQozeA24nY9HsyrnNSpQk) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Teetimus](https://open.spotify.com/artist/4htSRZXDPFU5B3B8FQR24d), [Jahsnowcone](https://open.spotify.com/artist/06AIt4G1skzpGDX1XRywxe) | [Hurt DemSelf](https://open.spotify.com/album/4JvfAjoUx6o0uCyHfzC7ZF) | 2:24 | 2025-05-30 | 2025-06-07 |
 | [Immortal Life](https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Nothing Without God](https://open.spotify.com/album/65clKbczk7FXoDZP4HUWOY) | 2:41 | 2025-11-07 | 2025-11-16 |
 | [Inferno](https://open.spotify.com/track/2elfc7Kdlike9fjeUS1ocP) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Inferno](https://open.spotify.com/album/2BMtAEAPkIAsOduldWG2hh) | 2:42 | 2024-08-29 | 2025-04-26 |
@@ -263,6 +265,7 @@
 | [Romantic \(with Masicka\)](https://open.spotify.com/track/2pMUyYmRRwom1SdYzBtE17) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Romantic \(with Masicka\)](https://open.spotify.com/album/6YjD4IDZsKPxWx7iFlV8L7) | 2:38 | 2025-07-04 | 2025-08-02 |
 | [Rose Petal](https://open.spotify.com/track/1mtNAKbARp4CXxmrqvg2DU) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Love Island Riddim](https://open.spotify.com/album/58IbHZt2rtKDyrV9uHkFCq) | 3:29 | 2024-09-17 | 2025-10-25 |
 | [Rum Behavior](https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Rum Behavior](https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI) | 2:35 | 2024-12-06 | 2025-06-14 |
+| [Satisfy Me \(feat\. Ari Lennox\)](https://open.spotify.com/track/1K0xROvNycpdtPL8aynDAJ) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Too Too Bad](https://open.spotify.com/album/5PHqWQBqM7GO5kVUKy0lZj) | 2:40 | 2026-07-17 |  |
 | [Scatter](https://open.spotify.com/track/3qORtOCSInAMHTFR3GGLd2) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Treasure Self Love](https://open.spotify.com/album/2xD9ACxjRvtjAPOpR2mFBf) | 3:54 | 2025-08-22 | 2026-05-09 |
 | [SEE IT YAH](https://open.spotify.com/track/0VakktQEioPjhfIlOIDRQi) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [SEE IT YAH](https://open.spotify.com/album/3bskhfYIw17ltWH5BkXvmm) | 3:32 | 2024-08-29 | 2024-09-14 |
 | [Send Dem A Prayer](https://open.spotify.com/track/7HnodmlRRGTVfbmw6jdUsC) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [THE TORCHER](https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT) | 3:35 | 2025-09-12 | 2025-10-25 |

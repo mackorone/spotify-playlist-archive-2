@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1236043,
+  "num_followers": 1236093,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAACrtO83iEzJyidKG+qRwVqo",
+  "snapshot_id": "algfAAAAAADKinx5fMMDeM039H0S3Ybq",
   "tracks": [
     {
       "added_at": null,
@@ -779,26 +779,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Untouchable",
-        "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
+        "name": "Pac's Life",
+        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
       },
       "artists": [
-        {
-          "name": "Scarface",
-          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
-        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Johnny P",
-          "url": "https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
+      "duration_ms": 217440,
+      "name": "Pac's Life",
+      "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
     },
     {
       "added_at": null,
@@ -823,26 +823,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pac's Life",
-        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
+        "name": "The Untouchable",
+        "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
       },
       "artists": [
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Johnny P",
+          "url": "https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Pac's Life",
-      "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
+      "duration_ms": 300693,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
     },
     {
       "added_at": null,

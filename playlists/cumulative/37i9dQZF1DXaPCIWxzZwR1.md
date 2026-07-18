@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Daniel Seavey
 
-2,509 songs - 5 day 3 hr 2 min
+2,510 songs - 5 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,7 +767,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2022-03-26 |
 | [Fingers Crossed](https://open.spotify.com/track/0JzDx938tQq0W1fQNtNdtF) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fingers Crossed](https://open.spotify.com/album/346bhxhT8LdAvXEdHerBVZ) | 2:35 | 2021-06-12 | 2021-09-11 |
 | [First Call](https://open.spotify.com/track/0ktbpf7PQCWAV2Jer0I0GS) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [First Call](https://open.spotify.com/album/4pa6L45UyAUncVobuARUlX) | 2:21 | 2021-09-25 | 2021-10-09 |
-| [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 | 2026-02-20 |  |
+| [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 | 2026-02-20 | 2026-07-18 |
 | [First Original Thought](https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [First Original Thought](https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD) | 2:50 | 2025-09-26 | 2025-10-11 |
 | [First Place](https://open.spotify.com/track/5Td5Y4mFerZdmgs2mmGw9A) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [First Place](https://open.spotify.com/album/4t8vZxmCJHeUWcaQlKtBK6) | 2:33 | 2021-03-14 | 2021-05-29 |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-03-14 | 2021-05-08 |
@@ -1721,6 +1721,7 @@
 | [Piece of Work](https://open.spotify.com/track/0tLK0fFNlY43ntSpXjR8J0) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Piece of Work](https://open.spotify.com/album/6D96ZkhAFi4cXQADlCTz0R) | 3:05 | 2021-07-10 | 2021-08-07 |
 | [pieces](https://open.spotify.com/track/63Nx8zAsDf3YRfZmNF5OTC) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [pieces](https://open.spotify.com/album/0wvlzL66ClrOKiy3Vc4s5E) | 2:27 | 2023-04-14 | 2023-06-17 |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-06-24 | 2022-08-06 |
+| [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 | 2026-07-17 |  |
 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-04-05 | 2024-08-17 |
 | [Pindrop](https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Pindrop](https://open.spotify.com/album/6Evr4r8MxqnoEb1ttAVskr) | 2:48 | 2025-10-10 | 2026-03-14 |
 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 | 2022-01-07 | 2022-01-29 |

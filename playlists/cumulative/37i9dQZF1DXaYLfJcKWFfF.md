@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-457 songs - 1 day 2 hr 23 min
+458 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 | 2025-06-26 |  |
 | [Feel It All](https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Feel It All](https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ) | 2:48 | 2025-09-19 |  |
 | [Feel Something](https://open.spotify.com/track/0EozgtHJL578iobhVcodiS) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Feel Something](https://open.spotify.com/album/6Zs16k742zGTAsJMrFww6C) | 2:02 | 2025-05-16 | 2025-06-20 |
+| [FFG](https://open.spotify.com/track/3LiMM8tFNp81ZCmQvxjQbf) | [The Lagos Panic](https://open.spotify.com/artist/3dNMFM4VVHFHZd3yo1SpCG), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [FFG](https://open.spotify.com/album/2o9hkG6LiPFh6FKZwqRArG) | 3:53 | 2026-07-17 |  |
 | [Final Hour](https://open.spotify.com/track/6kfcbZSCZWEM0tbQp665fA) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:16 | 2025-07-18 | 2025-09-04 |
 | [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 | 2024-10-04 | 2025-08-29 |
 | [Flow](https://open.spotify.com/track/2pOfNZj58exge3SGovS0FG) | [ADEOLUWA](https://open.spotify.com/artist/48J5kBDJXz0JCFGS2qKqQY) | [Flow](https://open.spotify.com/album/1sHCKCFVRl7GR0jApDQBKV) | 5:28 | 2026-05-22 |  |
@@ -383,7 +384,7 @@
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 | 2024-04-12 |
 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 | 2025-01-30 | 2025-10-17 |
 | [The Adults Are Talking](https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [The Adults Are Talking](https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk) | 2:25 | 2025-08-28 | 2026-02-14 |
-| [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 | 2025-08-28 |  |
+| [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 | 2025-08-28 | 2026-07-18 |
 | [The Cut Worm](https://open.spotify.com/track/4FZgKRGzkaz4YqFRzFev1K) | [Lo\-Ghost](https://open.spotify.com/artist/2ylCUQW0mn5N0gC0Ko7HNa) | [So Glad We're Friends](https://open.spotify.com/album/6Rda1auKNEyfshpxwlOx9W) | 3:22 | 2025-10-02 | 2025-10-24 |
 | [The Door](https://open.spotify.com/track/6k9OTAIHa2qy7L8eXIR8Rr) | [Kayla The Crow](https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH), [Sannie Fox](https://open.spotify.com/artist/7D5bb69WMeC1jB8yP1uXnI) | [The Door](https://open.spotify.com/album/4R4Pc3nwMzmveOiAedDal1) | 3:20 | 2026-02-13 | 2026-03-28 |
 | [The Fisherman](https://open.spotify.com/track/66RYGAyZxwKGY03PcPUn0T) | [Kristin McClement](https://open.spotify.com/artist/6EokueUn3GuFT3eXNqKT2Y) | [The Fisherman](https://open.spotify.com/album/2V8YtRexp50MjP6WYOUMbV) | 6:19 | 2026-03-27 | 2026-05-23 |

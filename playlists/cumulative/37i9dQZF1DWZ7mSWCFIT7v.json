@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 210438,
       "name": "Blowtorch Thimble",
       "url": "https://open.spotify.com/track/7dVwOXJpWMLFa3JZEOprye"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 394710,
       "name": "Donut Plains",
       "url": "https://open.spotify.com/track/4W21omcedBTZvgKPjghuRC"
@@ -3778,6 +3778,24 @@
       "duration_ms": 191000,
       "name": "FlimFlam",
       "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
+    },
+    {
+      "album": {
+        "name": "IN TALES BETWEEN",
+        "url": "https://open.spotify.com/album/0oM6Fr3h4DcMlUlTebLHv1"
+      },
+      "artists": [
+        {
+          "name": "LUXE",
+          "url": "https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297931,
+      "name": "flow, out",
+      "url": "https://open.spotify.com/track/3s7hc0XqsNWTfaAYD0Xbdf"
     },
     {
       "album": {
@@ -10946,6 +10964,24 @@
       "duration_ms": 411886,
       "name": "Whipping Spree",
       "url": "https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro"
+    },
+    {
+      "album": {
+        "name": "Tessares",
+        "url": "https://open.spotify.com/album/5cVhwY4xBaFrX06wn41rjK"
+      },
+      "artists": [
+        {
+          "name": "dgoHn",
+          "url": "https://open.spotify.com/artist/7niTXistKYVF29W4Bo0cUt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330493,
+      "name": "Whistling On A Tuesday",
+      "url": "https://open.spotify.com/track/3Tynu2rLZGil2f49F4aqCa"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Indie Colombia](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 
-> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Paula Pera y el fin de los Tiempos
+> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Lido Pimienta
 
-157 songs - 9 hr 31 min
+158 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Manos al Fuego](https://open.spotify.com/track/3oGlMejab90xmaoizmkdHe) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd) | 3:52 | 2023-09-25 | 2024-04-19 |
 | [Manos al Fuego](https://open.spotify.com/track/4iaLgMm0Y79jrPiIm13FNn) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Manos al Fuego](https://open.spotify.com/album/1LRqlp2bAaVeaptfQdLnq3) | 3:52 | 2024-04-12 | 2024-06-29 |
 | [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 | 2024-06-28 |  |
+| [Marea](https://open.spotify.com/track/7l4pU3dvBHZ4Lwj39L4M6q) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Marea](https://open.spotify.com/album/1CxXV7NN4SXRWua4esjSu3) | 3:08 | 2026-07-17 |  |
 | [Matizando](https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0BLDyvnSOw07mqhIH9vVFH) | 3:34 | 2024-04-12 |  |
 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 | 2023-09-25 | 2024-04-19 |
 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 | 2023-09-25 |  |

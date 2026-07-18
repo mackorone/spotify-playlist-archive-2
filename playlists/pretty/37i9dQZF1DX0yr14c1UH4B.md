@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷<br/>cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,578 likes - 115 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,572 likes - 115 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,19 +33,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 23 | [Occasionally](https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [This Is How You See Me Now](https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6) | 3:52 |
 | 24 | [Underwater](https://open.spotify.com/track/0uX5BUyybJR2FGUN0CAhsD) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Underwater](https://open.spotify.com/album/2cV8Eo0qF0MZZt0kl3STkH) | 4:05 |
 | 25 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
-| 26 | [Plans](https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Plans](https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk) | 3:51 |
-| 27 | [So Perfect](https://open.spotify.com/track/2ghQex1XgicbaZg3t6n3Ty) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:18 |
-| 28 | [Dublin Lights](https://open.spotify.com/track/1pJ4VltkJd9psAy8C6AuGM) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 2:09 |
-| 29 | [the street](https://open.spotify.com/track/1pcjh360q7cRkPJ9JIPAbl) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [AngelPink \(no halo\)](https://open.spotify.com/album/78wkgP8mEp8lOohpRundaM) | 3:18 |
-| 30 | [Boys on Film](https://open.spotify.com/track/26TQ2ADZDcTCMWvasNcHkt) | [Hannah Jane Lewis](https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq) | [Boys on Film](https://open.spotify.com/album/6GtB71dQ44mqz3gg75kzPO) | 3:27 |
-| 31 | [Alaska](https://open.spotify.com/track/6XrpO1tdX5puL0sLTUnTOR) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Alaska](https://open.spotify.com/album/08uEyXxsw5ynWXdPPIfMV7) | 3:13 |
-| 32 | [Fleur De Lis](https://open.spotify.com/track/0twrwVzOJWGeYIgr9dUsdB) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 4:53 |
-| 33 | [Before I Wake](https://open.spotify.com/track/6G5KucQWMMP2xQxhpydS86) | [Zachary John](https://open.spotify.com/artist/6UIi5A3UwDn0o1pfnpjKky) | [Before I Wake](https://open.spotify.com/album/1HRtmA7dL2x7httTnG9vJX) | 3:49 |
-| 34 | [Dandelion](https://open.spotify.com/track/34D5CH3DKBGpAj8ktFOAUH) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 4:00 |
+| 26 | [So Perfect](https://open.spotify.com/track/2ghQex1XgicbaZg3t6n3Ty) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:18 |
+| 27 | [Dublin Lights](https://open.spotify.com/track/1pJ4VltkJd9psAy8C6AuGM) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 2:09 |
+| 28 | [the street](https://open.spotify.com/track/1pcjh360q7cRkPJ9JIPAbl) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [AngelPink \(no halo\)](https://open.spotify.com/album/78wkgP8mEp8lOohpRundaM) | 3:18 |
+| 29 | [Boys on Film](https://open.spotify.com/track/26TQ2ADZDcTCMWvasNcHkt) | [Hannah Jane Lewis](https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq) | [Boys on Film](https://open.spotify.com/album/6GtB71dQ44mqz3gg75kzPO) | 3:27 |
+| 30 | [Alaska](https://open.spotify.com/track/6XrpO1tdX5puL0sLTUnTOR) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Alaska](https://open.spotify.com/album/08uEyXxsw5ynWXdPPIfMV7) | 3:13 |
+| 31 | [Fleur De Lis](https://open.spotify.com/track/0twrwVzOJWGeYIgr9dUsdB) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 4:53 |
+| 32 | [Before I Wake](https://open.spotify.com/track/6G5KucQWMMP2xQxhpydS86) | [Zachary John](https://open.spotify.com/artist/6UIi5A3UwDn0o1pfnpjKky) | [Before I Wake](https://open.spotify.com/album/1HRtmA7dL2x7httTnG9vJX) | 3:49 |
+| 33 | [Dandelion](https://open.spotify.com/track/34D5CH3DKBGpAj8ktFOAUH) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 4:00 |
+| 34 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
 | 35 | [Does She Know](https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong](https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi) | 3:14 |
 | 36 | [Home In Your Broken Heart](https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Home In Your Broken Heart](https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9) | 3:42 |
-| 37 | [So Long](https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [So Long](https://open.spotify.com/album/5bjrfLnlXq7JvqtCWWrold) | 3:55 |
-| 38 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
+| 37 | [Paradise](https://open.spotify.com/track/3mVd5gTmze4bWj0uvf6Jta) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Paradise](https://open.spotify.com/album/21vTpbjUDOu3vbAUBVHLtp) | 3:46 |
+| 38 | [So Long](https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [So Long](https://open.spotify.com/album/5bjrfLnlXq7JvqtCWWrold) | 3:55 |
 | 39 | [You Don’t Love Me](https://open.spotify.com/track/3t6oBroGQU9T74ul4ZcB1a) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Master of Goodbye](https://open.spotify.com/album/2JnSlEZRsF7IdEsdnoajIi) | 2:56 |
 | 40 | [Linger On](https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k) | [credits](https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U) | [Linger On](https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD) | 3:09 |
 | 41 | [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 97 | [Stay](https://open.spotify.com/track/5sw8gGr76oGWni9lyY0q5v) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Stay](https://open.spotify.com/album/4rAN2QfF0EppGKC09ceKUP) | 4:01 |
 | 98 | [Time Lost](https://open.spotify.com/track/0aHSrR8RefR8MbMt5X9DYo) | [Kanako Yamamoto](https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E) | [Time Lost](https://open.spotify.com/album/4CJCGMU40qZmYtJrAgJJrO) | 2:45 |
 | 99 | [Burn Brighter](https://open.spotify.com/track/3krRlbpBmP6nw7ZVjBLX5y) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [From Good To Bad And Then Back Again](https://open.spotify.com/album/1TknuTW1u03ctgFjY3qy6c) | 2:33 |
-| 100 | [and, breathe](https://open.spotify.com/track/3bptbDcVVQLYtHoLh1C2UD) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [and, breathe](https://open.spotify.com/album/6nBNznmNtEFT9yAwGa4cpK) | 4:14 |
+| 100 | [and, breathe](https://open.spotify.com/track/3bptbDcVVQLYtHoLh1C2UD) | [Isaac Waddington \(Good Twin\)](https://open.spotify.com/artist/5ogMrK1dLz7iM5w6hFQhS1) | [and, breathe](https://open.spotify.com/album/6nBNznmNtEFT9yAwGa4cpK) | 4:14 |
 | 101 | [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 |
 | 102 | [Sleepwalking](https://open.spotify.com/track/2nf5llRG3J5ZEkeGL4JSjA) | [Little Grandad](https://open.spotify.com/artist/1Mgr4JJnFwPk3FHbu09wAl) | [Sleepwalking / Unmasked](https://open.spotify.com/album/1eXBgy3E6jqC1sLoDiSpCZ) | 3:55 |
 | 103 | [dream state](https://open.spotify.com/track/62OMSnfraKVSw3EdMrfRaL) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [dream state](https://open.spotify.com/album/0ou5tlHzLfVumgS1VabO9M) | 4:01 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 114 | [The Sky Fell Down](https://open.spotify.com/track/5qHOS5AP026xuignL3tea4) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [The Sky Fell Down](https://open.spotify.com/album/3LALcJmuCErimoijYzwXcn) | 3:33 |
 | 115 | [Bones](https://open.spotify.com/track/4VUEtD4WedXZjIYJK9d63n) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Birds in Winter](https://open.spotify.com/album/3Qm7yz3G1vT0kleL0c5D28) | 4:02 |
 
-Snapshot ID: `AAAAANX6N+7p6Ml14cgHNYJv+NmLgU4z`
+Snapshot ID: `AAAAAJ1YLVzygm8Q5bcvv32mmfE0F7E1`

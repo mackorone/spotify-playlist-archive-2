@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-578 songs - 1 day 14 hr 51 min
+579 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Funky Music](https://open.spotify.com/track/6P1ymqtnLK8fhgss4wSAV4) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/0liLs1akeHQRHkvmLWGuEi) | 4:10 | 2024-03-08 | 2024-04-27 |
 | [Further](https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Further](https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo) | 2:57 | 2021-10-08 | 2023-06-17 |
 | [Further On Up The Road](https://open.spotify.com/track/0D1CV2GEWYrtsV1MSagoFv) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Further On Up The Road](https://open.spotify.com/album/7yZVOOsYS2rZB9mowwb56x) | 4:18 | 2025-09-26 | 2025-11-22 |
-| [Gaslight](https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Gaslight](https://open.spotify.com/album/48M5raydjk0czvX1C9yw6I) | 4:15 | 2026-04-03 |  |
+| [Gaslight](https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Gaslight](https://open.spotify.com/album/48M5raydjk0czvX1C9yw6I) | 4:15 | 2026-04-03 | 2026-07-18 |
 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 | 2023-01-06 | 2023-09-16 |
 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 | 2022-04-29 | 2022-06-11 |
 | [Get Down](https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/3cBmAwjBX1csLooXbuwHhr) | 3:27 | 2021-06-25 | 2022-07-29 |
@@ -467,6 +467,7 @@
 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 | 2023-10-06 | 2025-09-20 |
 | [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 | 2025-11-14 | 2026-02-07 |
 | [Sweet Little Caroline](https://open.spotify.com/track/43W4M7GNQaWS2l7b5oQhvA) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Sweet Little Caroline](https://open.spotify.com/album/1D5q1fkeVkuZil5oEpL4eX) | 3:14 | 2026-03-20 | 2026-05-16 |
+| [Take Me Back](https://open.spotify.com/track/31NPKytF4zstCGYjewWkwe) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Take Me Back](https://open.spotify.com/album/2JR7wiMw6PmQYzU1H1rR84) | 4:35 | 2026-07-17 |  |
 | [Take Me Back](https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [New Morning](https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh) | 5:36 | 2021-04-23 | 2022-04-23 |
 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 | 2023-09-15 | 2025-07-19 |
 | [Talkin' To Myself](https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Broken](https://open.spotify.com/album/3XXt7jo30yi07AseATCdby) | 4:15 | 2024-03-01 | 2025-06-07 |

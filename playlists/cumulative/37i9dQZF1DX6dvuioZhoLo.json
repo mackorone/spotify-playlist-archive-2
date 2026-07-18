@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New makes old. Cover: Lily Meola",
+  "description": "New makes old. Cover:  Presley Haile",
   "name": "Vintage Vibes",
   "tracks": [
     {
@@ -746,6 +746,24 @@
       "duration_ms": 192266,
       "name": "Dirty Rain",
       "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
+    },
+    {
+      "album": {
+        "name": "Hamilton Honey: Part 1",
+        "url": "https://open.spotify.com/album/5Nhe3xMXb4tSLGzRHNrAOC"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180501,
+      "name": "Don't be so hard",
+      "url": "https://open.spotify.com/track/4DSOQUiX3PwyoXOKAvySm1"
     },
     {
       "album": {
@@ -3460,7 +3478,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"

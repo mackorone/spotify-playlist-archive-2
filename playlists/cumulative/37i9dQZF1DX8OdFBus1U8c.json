@@ -7043,6 +7043,28 @@
     },
     {
       "album": {
+        "name": "Namaskaram",
+        "url": "https://open.spotify.com/album/5II30lcLeW2lHPeG4IpJ02"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "Namaskaram",
+      "url": "https://open.spotify.com/track/1dWk1UUNUrQHzSrDZAlXe6"
+    },
+    {
+      "album": {
         "name": "Namma Stories",
         "url": "https://open.spotify.com/album/4QDOVhXnmdyTc2xWynuCq3"
       },

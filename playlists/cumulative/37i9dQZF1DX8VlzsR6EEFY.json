@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. NXNNI en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Mosmo y Maximo Grado en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -1905,6 +1905,28 @@
     },
     {
       "album": {
+        "name": "Dirty Money",
+        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154785,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
+    },
+    {
+      "album": {
         "name": "DOCTOR",
         "url": "https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y"
       },
@@ -3645,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Desde El Patio Western Club Volumen 3",
+        "url": "https://open.spotify.com/album/6gbRsyyYZaPTWn4u0NwQ3Y"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "La Llamada De Mi Ex",
+      "url": "https://open.spotify.com/track/6SAEl9VLEqkVJ964GYSCWu"
+    },
+    {
+      "album": {
         "name": "Lo Aprend\u00ed En La Lleca",
         "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
@@ -5362,6 +5402,24 @@
       "duration_ms": 144981,
       "name": "No Hay Soluci\u00f3n",
       "url": "https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG"
+    },
+    {
+      "album": {
+        "name": "No Manches",
+        "url": "https://open.spotify.com/album/2fyDi75HoCA5JM9VdArNhw"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "No Manches",
+      "url": "https://open.spotify.com/track/6K8F823kDw3DxCmKJA1bDN"
     },
     {
       "album": {
@@ -8058,6 +8116,24 @@
       "duration_ms": 127783,
       "name": "Vamos Empezando",
       "url": "https://open.spotify.com/track/2oHLFiokInTqoT9eNHdJXK"
+    },
+    {
+      "album": {
+        "name": "Entre Besos",
+        "url": "https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187691,
+      "name": "Vibra Perfecta",
+      "url": "https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ"
     },
     {
       "album": {

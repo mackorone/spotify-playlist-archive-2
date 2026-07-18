@@ -1037,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "BATUT",
+        "url": "https://open.spotify.com/album/0Phe8iwXf7qSnH7Xwyqqoc"
+      },
+      "artists": [
+        {
+          "name": "KSIOR",
+          "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
+        },
+        {
+          "name": "SISS",
+          "url": "https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161428,
+      "name": "BATUT",
+      "url": "https://open.spotify.com/track/0cGSVOwXOlDrPpjV2lJthP"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
@@ -1066,7 +1088,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -1276,7 +1298,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh"
@@ -7842,7 +7864,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 247384,
       "name": "POV",
       "url": "https://open.spotify.com/track/0hagtXEv3AXDszIgoWytMi"
@@ -8206,7 +8228,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 223698,
       "name": "Rezhim Neprilichna",
       "url": "https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG"
@@ -8494,6 +8516,28 @@
       "duration_ms": 239999,
       "name": "Shimmy",
       "url": "https://open.spotify.com/track/3AZGF9eV68DnDbhWDWGBzn"
+    },
+    {
+      "album": {
+        "name": "SHIVALI",
+        "url": "https://open.spotify.com/album/7ow8O8aVmMAgxIMT94k296"
+      },
+      "artists": [
+        {
+          "name": "Bandata Na Ruba",
+          "url": "https://open.spotify.com/artist/12fCNCkYtNfyBZ3zjFGri8"
+        },
+        {
+          "name": "MOMO RECORDS",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "SHIVALI",
+      "url": "https://open.spotify.com/track/4TxCB4NwlnlL4kVnw3U75h"
     },
     {
       "album": {
@@ -9263,6 +9307,28 @@
     },
     {
       "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -9286,6 +9352,32 @@
       "duration_ms": 185110,
       "name": "TALKING",
       "url": "https://open.spotify.com/track/1eaqMiiUn2P7MnqJK4XeK0"
+    },
+    {
+      "album": {
+        "name": "TARIKATA",
+        "url": "https://open.spotify.com/album/5bPqaqhQOjGuTS3bRYmbWc"
+      },
+      "artists": [
+        {
+          "name": "Nasyo Chernia",
+          "url": "https://open.spotify.com/artist/14hRjnPyJXRdg38ghjQA9H"
+        },
+        {
+          "name": "Fury",
+          "url": "https://open.spotify.com/artist/1NoJcqjaeEWed9cu8s55e5"
+        },
+        {
+          "name": "Bobo Armani",
+          "url": "https://open.spotify.com/artist/1qlcFQMEzCTkYb6TsvirQg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "TARIKATA",
+      "url": "https://open.spotify.com/track/55BpgtsgLWNJs5OW1SpmLA"
     },
     {
       "album": {
@@ -10908,7 +11000,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 189176,
       "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
       "url": "https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j"
@@ -10960,7 +11052,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 188415,
       "name": "\u0411\u0415\u0414\u041d\u0418 \u0418 \u0411\u041e\u0413\u0410\u0422\u0418",
       "url": "https://open.spotify.com/track/1R4hFeBjHwxZniSxxz3bSB"
@@ -12650,7 +12742,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
@@ -13662,7 +13754,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"

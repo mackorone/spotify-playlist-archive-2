@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,870 songs - 3 day 10 hr 51 min
+1,871 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1825,6 +1825,7 @@
 | [Where the Rivers Run](https://open.spotify.com/track/68xDhjQhGVfq7dGhfC1XhZ) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Where the Rivers Run](https://open.spotify.com/album/7i78ZgsoSY3KpmLFF32x5J) | 2:19 | 2024-03-18 | 2024-12-13 |
 | [Where's My Love \- Piano Solo](https://open.spotify.com/track/7ih16mauHrpUMOIeWEOyVO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Piano Solo\)](https://open.spotify.com/album/6YhPay3BxJkrx8WGrgNdj2) | 4:34 | 2019-05-26\* | 2020-08-11 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-03-10 | 2023-03-28 |
+| [Whipering Waltz](https://open.spotify.com/track/1Tx3Nbs4r8PbAfQgYetqGV) | [Beckon Keasmith](https://open.spotify.com/artist/3ojYDRTLXj4iuVdrJWoxei) | [Whipering Waltz](https://open.spotify.com/album/0XHqMSZO0g6l9MyfNmazMH) | 2:55 | 2026-07-17 |  |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-03-10 | 2023-11-14 |
 | [Whispered Winds](https://open.spotify.com/track/3Ts6C6TMvIzPIvdudMX7bH) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Whispered Winds](https://open.spotify.com/album/0et0WwbdnUCOzoDMQ4K8yQ) | 2:28 | 2020-11-03 | 2021-09-24 |
 | [Whispering Oaks](https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Whispering Oaks](https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz) | 2:31 | 2023-10-09 | 2025-02-26 |

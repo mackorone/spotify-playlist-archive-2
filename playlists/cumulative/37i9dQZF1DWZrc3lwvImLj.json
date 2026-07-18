@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/5boK4GsdzMghJ3D7M0Bkis"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/2F0YWBc1F5Os1gyHkunW0Q"
+    },
+    {
+      "album": {
         "name": "alone at sea",
         "url": "https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6"
       },
@@ -416,6 +434,24 @@
       "duration_ms": 227000,
       "name": "Amber",
       "url": "https://open.spotify.com/track/31eqVCJgVXYnJa1GkQdJuC"
+    },
+    {
+      "album": {
+        "name": "and I saw you",
+        "url": "https://open.spotify.com/album/3OqgNytVcniVQOYMdyi5d2"
+      },
+      "artists": [
+        {
+          "name": "Ziva",
+          "url": "https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126850,
+      "name": "and I saw you",
+      "url": "https://open.spotify.com/track/4LGATPJzH9JfuIkCEcFX1U"
     },
     {
       "album": {
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 151000,
       "name": "Changing Tears",
       "url": "https://open.spotify.com/track/21cadrPsxFz88eAdxmOyZv"
@@ -1838,6 +1874,24 @@
       "duration_ms": 114747,
       "name": "Diomede",
       "url": "https://open.spotify.com/track/1PBHmvZAJesTPz7UPnci1k"
+    },
+    {
+      "album": {
+        "name": "Down the river",
+        "url": "https://open.spotify.com/album/5Fx0Xb6PN6k8wz4cz21ij4"
+      },
+      "artists": [
+        {
+          "name": "Simon Strella",
+          "url": "https://open.spotify.com/artist/0oUJgwFn9WchGSTdT7ODyZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141174,
+      "name": "Down the river",
+      "url": "https://open.spotify.com/track/0hKDBDMVk5kNsE8NPWcWRF"
     },
     {
       "album": {
@@ -2882,6 +2936,24 @@
       "duration_ms": 167693,
       "name": "Gradational",
       "url": "https://open.spotify.com/track/7uam2Tyu6KZjGLauONQLk7"
+    },
+    {
+      "album": {
+        "name": "Handcrafted Pieces",
+        "url": "https://open.spotify.com/album/0umRbCz45hiBsCSFIpyUaD"
+      },
+      "artists": [
+        {
+          "name": "Our Sense",
+          "url": "https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139814,
+      "name": "Handcrafted Pieces",
+      "url": "https://open.spotify.com/track/7DC5M85JR5G7SsAFK2CV7F"
     },
     {
       "album": {
@@ -4355,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/0EoQqDYsCWiAOJRT6Wk5i5"
+      },
+      "artists": [
+        {
+          "name": "Eric Ville de Soins",
+          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171550,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/7H7htG1WiHeKfwjfDMZQEW"
+    },
+    {
+      "album": {
         "name": "Mmmm Mmmm Mmmm Mmmm",
         "url": "https://open.spotify.com/album/6UIEYLhTfMIHcKjlisFbZw"
       },
@@ -5364,7 +5454,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 157124,
       "name": "Opus 9",
       "url": "https://open.spotify.com/track/4OVIVWM4GB2OwmlEsZ4D3U"
@@ -5490,7 +5580,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198250,
       "name": "Perdono",
       "url": "https://open.spotify.com/track/7jAhN8L7qmsoeLa6Wo8ItS"
@@ -6322,7 +6412,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 151185,
       "name": "Shadow Lake",
       "url": "https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N"
@@ -6617,6 +6707,24 @@
     },
     {
       "album": {
+        "name": "Solivagant",
+        "url": "https://open.spotify.com/album/2qEKVI8D0TqZKZMfCUgKb0"
+      },
+      "artists": [
+        {
+          "name": "Mauvais Roger",
+          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134266,
+      "name": "Solivagant",
+      "url": "https://open.spotify.com/track/3hkpWN7bCDJ2MnGDLxyXK7"
+    },
+    {
+      "album": {
         "name": "Pin\u00f4",
         "url": "https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK"
       },
@@ -6812,6 +6920,24 @@
       "duration_ms": 165034,
       "name": "Squares of life",
       "url": "https://open.spotify.com/track/2C6BCDdtYjbbbAucqaw9NG"
+    },
+    {
+      "album": {
+        "name": "Starting Again",
+        "url": "https://open.spotify.com/album/3f4ndXTYdxXbXhLw7Ztmkv"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162281,
+      "name": "Starting Again",
+      "url": "https://open.spotify.com/track/2pLxdShKXWoX5ARLaN0ph0"
     },
     {
       "album": {
@@ -8451,6 +8577,24 @@
     },
     {
       "album": {
+        "name": "Waltzing Slow",
+        "url": "https://open.spotify.com/album/1OltwBU7fZWAlbgOjUnm39"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159083,
+      "name": "Waltzing Slow",
+      "url": "https://open.spotify.com/track/6ire35GIce1ZUiNCQKyMSl"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
       },
@@ -8577,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "When Time Stood Still",
+        "url": "https://open.spotify.com/album/194WP14H0fwg98kJBQ55Jm"
+      },
+      "artists": [
+        {
+          "name": "Dimitris Manolakis",
+          "url": "https://open.spotify.com/artist/0TcAFBjC5xAS8v0UWe4B02"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164814,
+      "name": "When Time Stood Still",
+      "url": "https://open.spotify.com/track/5sGzTiurBUie1qWLlrWNc9"
+    },
+    {
+      "album": {
         "name": "When We Beat The Odds",
         "url": "https://open.spotify.com/album/7nkoWfuYeZpqK5pkjO4QLF"
       },
@@ -8700,7 +8862,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 158360,
       "name": "White wings",
       "url": "https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE"

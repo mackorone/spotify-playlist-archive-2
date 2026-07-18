@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16624,
+  "num_followers": 16630,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAAbVQzo+z+QsGcEQRO2MJdR",
+  "snapshot_id": "algfAAAAAAA1le5J6445dnUifxAzr6zr",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 172840,
       "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
       "url": "https://open.spotify.com/track/2XbPlYHLrT4Pjn7J7nKs4O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Spring",
-        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Spring",
-        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Fabled World",
-      "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
+      "duration_ms": 98120,
+      "name": "This Machine Kills Fascists",
+      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 98120,
-      "name": "This Machine Kills Fascists",
-      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
+      "duration_ms": 196306,
+      "name": "Fabled World",
+      "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+        "name": "Cease Fires",
+        "url": "https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA"
       },
       "artists": [
         {
           "name": "Anti-Flag",
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Stacey Dee",
-          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
         }
       ],
-      "duration_ms": 280333,
-      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
-      "url": "https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu"
+      "duration_ms": 179362,
+      "name": "Kill the Rich (Re-Recorded)",
+      "url": "https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cease Fires",
-        "url": "https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA"
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
       "artists": [
         {
           "name": "Anti-Flag",
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Stacey Dee",
+          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
         }
       ],
-      "duration_ms": 179362,
-      "name": "Kill the Rich (Re-Recorded)",
-      "url": "https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt"
+      "duration_ms": 280333,
+      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
+      "url": "https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu"
     },
     {
       "added_at": null,

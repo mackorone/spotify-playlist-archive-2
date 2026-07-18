@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rotimi Keys & Greatman Takit
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,562 likes - 143 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,600 likes - 143 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 3 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 |
 | 4 | [Breathe Upon Me \(Teach Me How to Pray\)](https://open.spotify.com/track/18FPbHjbvv4BOUSajGHirW) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Parchment](https://open.spotify.com/artist/0y8AeXbN1NpAoIv9EQzuiU) | [Breathe Upon Me \(Teach Me How to Pray\)](https://open.spotify.com/album/2wScdTBElvcW4cXrFctUJL) | 3:17 |
 | 5 | [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 |
-| 6 | [Track 1](https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Love at Home \(Vol\. 2\)](https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI) | 0:00 |
+| 6 | [Your Way](https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Love at Home \(Vol\. 2\)](https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI) | 2:26 |
 | 7 | [Albarkun Allah](https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [TMP Music](https://open.spotify.com/artist/0FSWMqdRbmwGSlcOlquXgo) | [Super Power](https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ) | 5:21 |
 | 8 | [Fi Life](https://open.spotify.com/track/73YHEkRd1VtJfrc53mMWrX) | [Miriam Jaydah](https://open.spotify.com/artist/0WD1OVRYVzK0UGWfh42NrG) | [Fi Life](https://open.spotify.com/album/7BsptJbMsZvoiyMFabdYUo) | 4:25 |
 | 9 | [Count \- Remix](https://open.spotify.com/track/0OG3OffnpxCf660FjzZkWo) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Sikaflames](https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg) | [Count \(Remix\)](https://open.spotify.com/album/3WyUI20FlXytrp8ZlHImns) | 3:31 |

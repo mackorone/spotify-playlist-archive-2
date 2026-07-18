@@ -10581,6 +10581,28 @@
     },
     {
       "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240301,
+      "name": "No Level",
+      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
+    },
+    {
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
       },
@@ -15354,24 +15376,6 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
-    },
-    {
-      "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "date_added": "2026-07-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
     },
     {
       "album": {

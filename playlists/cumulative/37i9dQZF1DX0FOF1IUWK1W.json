@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Mc Jacar\u00e9 o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Gusttavo Lima o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 166666,
       "name": "Assunto Que D\u00f3i",
       "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
@@ -9811,6 +9811,32 @@
     },
     {
       "album": {
+        "name": "MTG Pra Ficar Legal",
+        "url": "https://open.spotify.com/album/6TGcOYytHAJd64f06lxFP3"
+      },
+      "artists": [
+        {
+          "name": "DJ JZ",
+          "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
+        },
+        {
+          "name": "Mc Fael Halls",
+          "url": "https://open.spotify.com/artist/3GXvEIDsldUNbsvypttNd2"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "MTG Pra Ficar Legal",
+      "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
+    },
+    {
+      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -11862,7 +11888,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 110769,
       "name": "PEGA A MALDADE DA BANDIDA",
       "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
@@ -12840,6 +12866,36 @@
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
+    },
+    {
+      "album": {
+        "name": "FUNK DE CANALHA",
+        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "pros menor da nova",
+      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
     },
     {
       "album": {

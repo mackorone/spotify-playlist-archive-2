@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Explosi\u00f3n Norte\u00f1a y Los Invasores de Nuevo Le\u00f3n en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones.  Chuy Montana, El Padrinito Toys.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 224785,
       "name": "29:11",
       "url": "https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV"
@@ -7625,6 +7625,28 @@
     },
     {
       "album": {
+        "name": "Dirty Money",
+        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154785,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
+    },
+    {
+      "album": {
         "name": "Disfruto el Momento",
         "url": "https://open.spotify.com/album/1XpgbryofDnJiNFwQgGKQj"
       },
@@ -9606,7 +9628,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 152093,
       "name": "El Chaparrito - En Vivo",
       "url": "https://open.spotify.com/track/6jER67dJrBO0YBYQUHDhzG"
@@ -10536,7 +10558,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 253954,
       "name": "El De Las Artilladas 2.0 (En Vivo)",
       "url": "https://open.spotify.com/track/5qfaqi8y2x6bP6ouycCmUs"
@@ -12156,7 +12178,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 225266,
       "name": "El Guero Colorado",
       "url": "https://open.spotify.com/track/3Y1VKqAPBMlaXLh2Sww2Ws"
@@ -14066,7 +14088,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 227840,
       "name": "El Papas",
       "url": "https://open.spotify.com/track/2fOhQ8n9NxThHCQV4tbjKz"
@@ -15136,6 +15158,24 @@
       "duration_ms": 222135,
       "name": "El Rey Del Pop (En Vivo)",
       "url": "https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye"
+    },
+    {
+      "album": {
+        "name": "EL RG 2",
+        "url": "https://open.spotify.com/album/7rNLWhbgJ0X6TSmsF3rvc0"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214783,
+      "name": "El RG 2",
+      "url": "https://open.spotify.com/track/6Jn2LvKZOmtGldcEcXOWEF"
     },
     {
       "album": {
@@ -25791,6 +25831,24 @@
     },
     {
       "album": {
+        "name": "M3",
+        "url": "https://open.spotify.com/album/1BDdN8PlNdCRZaRMcUQ9md"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152164,
+      "name": "M3",
+      "url": "https://open.spotify.com/track/6uLzsfLC1h5uZU8TT7ogRd"
+    },
+    {
+      "album": {
         "name": "Contenido Explicito Vol.2",
         "url": "https://open.spotify.com/album/2DuttX0eX08X6VTlsPG4uz"
       },
@@ -26144,6 +26202,28 @@
       "duration_ms": 162358,
       "name": "Malencachado",
       "url": "https://open.spotify.com/track/5EoCaQgaStJIL4HpaBUJ2Q"
+    },
+    {
+      "album": {
+        "name": "Maletas",
+        "url": "https://open.spotify.com/album/7snzmWrjcDkZEBRMvgM954"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158659,
+      "name": "Maletas",
+      "url": "https://open.spotify.com/track/5ci4n9VebQuO1jyfRHRx0f"
     },
     {
       "album": {
@@ -27468,6 +27548,24 @@
       "duration_ms": 161076,
       "name": "Mi Primer Mill\u00f3n",
       "url": "https://open.spotify.com/track/1Q5Hhn3rlYNQ1PAZoHuozu"
+    },
+    {
+      "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "album": {
@@ -29442,7 +29540,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
@@ -35796,6 +35894,24 @@
       "duration_ms": 166485,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/0fvTBE8xQux2JhAhgAiLBr"
+    },
+    {
+      "album": {
+        "name": "The Magic Man",
+        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262356,
+      "name": "The Magic Man",
+      "url": "https://open.spotify.com/track/1iUJ5K2eTf2GVb9mHP5NwX"
     },
     {
       "album": {

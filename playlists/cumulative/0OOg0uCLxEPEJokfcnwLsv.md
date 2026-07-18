@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-580 songs - 1 day 11 hr 56 min
+584 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Another Day Is Gone](https://open.spotify.com/track/0HS4fqcRazWuujB0aTdwiD) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Another Day Is Gone](https://open.spotify.com/album/3xKkBJlx8QMc00eSanaZSN) | 4:21 | 2026-04-27 | 2026-05-26 |
 | [Another Life](https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm) | [Ben Trexel](https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu), [Amanda Willis\-Brice](https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF) | [Another Life](https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq) | 3:49 | 2026-07-02 |  |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
+| [Apothecary](https://open.spotify.com/track/7hj1rSYzSvd6Fl1QoWhdr3) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Rebel Heart](https://open.spotify.com/album/4ntykUJB1DDCEa6PKHFh84) | 3:52 | 2026-07-17 |  |
 | [April](https://open.spotify.com/track/1A6hxO7ymM4QPip7txEt53) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 3:29 | 2025-12-23 | 2026-01-21 |
 | [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 | 2025-12-20 | 2026-05-08 |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-12 |
@@ -192,6 +193,7 @@
 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 | 2026-06-18 |  |
 | [Full Sway](https://open.spotify.com/track/3Rki4S4PaAnrsceZ58IIE0) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [Full Sway](https://open.spotify.com/album/6sSBHo3QJj5BRTlGNFSXgX) | 3:39 | 2026-02-20 | 2026-05-26 |
 | [Furniture](https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Furniture](https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq) | 4:07 | 2025-12-30 | 2026-02-04 |
+| [Garden](https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4E9KtAlL6nobcjWgvidsY3) | 3:36 | 2026-07-17 |  |
 | [Gave my life for Rock'n'Roll](https://open.spotify.com/track/0CDJYw9HCLnv3IUTPSke9e) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 2:52 | 2026-03-21 |  |
 | [Geister](https://open.spotify.com/track/2tT3k5a3U87GPpKgbWptRT) | [Elektrosauna](https://open.spotify.com/artist/031hMoHlvGjXfQusuM62pi) | [Geister](https://open.spotify.com/album/4lgWWLPTSCyNn6zS73Y5KX) | 6:10 | 2026-01-11 | 2026-02-04 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-26 | 2026-04-20 |
@@ -315,6 +317,7 @@
 | [My Love is an Exploding Star](https://open.spotify.com/track/5eETbpiCV3FHMjEVVkHEiI) | [Zachary Friederich](https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk) | [SONGBOOK BURNING](https://open.spotify.com/album/0HUMF75Y8H7ImKHHtODjS8) | 3:39 | 2026-01-06 | 2026-02-02 |
 | [My Own Bunker](https://open.spotify.com/track/2rLebuakIprXtEJYanD9mP) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [My Own Bunker](https://open.spotify.com/album/4XDTuocZ7RH6466RhNE2pB) | 2:54 | 2026-04-30 | 2026-05-26 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |
+| [My Rebirth](https://open.spotify.com/track/37PjHfN79hZxX1BWZbeEdQ) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:27 | 2026-07-17 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-12-08 | 2025-12-28 |
 | [Más Dulce que Gris](https://open.spotify.com/track/2bvd7uARfmVQ1GDtuoQSlT) | [Delirio](https://open.spotify.com/artist/3Fpq6dElb8GooXoecLKM7G) | [VITRUM](https://open.spotify.com/album/056vQabi5S1twEzRiW8o2y) | 4:33 | 2026-01-22 | 2026-02-18 |
 | [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 | 2026-03-12 | 2026-04-20 |
@@ -502,6 +505,7 @@
 | [The Road Less Travelled](https://open.spotify.com/track/343vOMd6pDa254603WoQlV) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [The Road Less Travelled](https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ) | 4:54 | 2026-05-14 |  |
 | [The Runaround](https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [The Runaround](https://open.spotify.com/album/7bRIOQfdUKMVvBcnkfpzZJ) | 3:31 | 2026-03-14 |  |
 | [The Seam](https://open.spotify.com/track/4TlAo4IKVYjlulx8kfJee1) | [Neal Hooks](https://open.spotify.com/artist/6eZaaqFRF8cESVVjN2TlyH) | [Juliette & Clyde](https://open.spotify.com/album/52SHYtUn7d7MDfU8rHWBlD) | 3:18 | 2026-05-15 | 2026-06-13 |
+| [The Squeeze](https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [The Squeeze](https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ) | 4:01 | 2026-07-17 |  |
 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 | 2026-03-03 | 2026-03-22 |
 | [The Veil](https://open.spotify.com/track/3S9Wu7CaNB5gRDMPBSbHFR) | [Chris Maragoth](https://open.spotify.com/artist/01OJBw7i5uLKADzURGFQr3) | [Lost and Separated](https://open.spotify.com/album/56jnF9yHPmOA5ezamiYMWP) | 3:39 | 2026-05-28 |  |
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-12-23 | 2026-01-21 |

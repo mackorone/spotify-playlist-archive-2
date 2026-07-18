@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ALALA, ALIE BLACKCOBRA
 
-925 songs - 2 day 6 hr 20 min
+926 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 | 2022-05-26 | 2024-01-18 |
 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0ZhLq2xUkUlc3YPuoWa6SE) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 | 2022-08-18 | 2023-07-22 |
 | [ปสด \(WTH\)](https://open.spotify.com/track/485mVs5B5ADp7WlqFB3ggt) | [ily](https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre) | [ปสด \(WTH\)](https://open.spotify.com/album/1nrw6CHbemgtLx2gfy8sNm) | 4:12 | 2025-10-16 | 2025-10-30 |
+| [ปักเมนแฟน \(I STAN YOU\) \- From GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน](https://open.spotify.com/track/2fSEAfvpGg4drnweGfCMQu) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [NEX OF BUS](https://open.spotify.com/artist/3anNEqSsXtlYGvEbNI8AU8), [Onglee PROXIE](https://open.spotify.com/artist/0rO2jAMF4BotxgJi9yi4rX), [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w) | [ปักเมนแฟน \(I STAN YOU\) \[From GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน\]](https://open.spotify.com/album/3U36l9cCWzHB6LFR3oNmLY) | 3:41 | 2026-07-17 |  |
 | [ปักใจ \(Still\) \- Ost\. ภพเธอ Love Upon a Time Series](https://open.spotify.com/track/3xgbJWnKccTeGlLFjFeE1Z) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ปักใจ \(Still\) \[Ost\. ภพเธอ Love Upon a Time Series\]](https://open.spotify.com/album/4GyqFPxBc3cwlm8Y2c0eXs) | 3:31 | 2026-05-21 |  |
 | [ปังปัง \(Unit Grande\)](https://open.spotify.com/track/4FSpUOfa8dLaT6hULA1W23) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ปังปัง \(Unit Grande\)](https://open.spotify.com/album/0ddQPOtTCIt3kMku9b0muZ) | 3:02 | 2023-06-01 | 2023-06-09 |
 | [ปากหนัก \(Too Late\)](https://open.spotify.com/track/1UwG1bhUPFpnICDg1hC6Vk) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [ปากหนัก \(Too Late\)](https://open.spotify.com/album/284lPIQeWQxn7huMDTYMvr) | 4:17 | 2025-11-11 | 2025-12-19 |
@@ -871,7 +872,7 @@
 | [โค้ดลับ](https://open.spotify.com/track/7yPsDvID4lBpGfm2AHliHy) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โค้ดลับ](https://open.spotify.com/album/7eSrWCLACdNQiikod3JOuU) | 3:51 | 2026-01-29 | 2026-02-06 |
 | [โซ๊ะ เดิ้น \(SO DERN\)](https://open.spotify.com/track/4eEiV5ADRuqA9RFyQpZapp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [โซ๊ะ เดิ้น \(SO DERN\)](https://open.spotify.com/album/0oYSdPIcXr91F2voTxZP6M) | 2:58 | 2026-04-02 | 2026-04-10 |
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-26 | 2024-01-19 |
-| [โลกจำลอง](https://open.spotify.com/track/0qcMrwso3fjyMT3NPV4QX9) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [โลกจำลอง](https://open.spotify.com/album/6l1llI25E2QNq8rYXImlPY) | 3:50 | 2026-06-11 |  |
+| [โลกจำลอง](https://open.spotify.com/track/0qcMrwso3fjyMT3NPV4QX9) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [โลกจำลอง](https://open.spotify.com/album/6l1llI25E2QNq8rYXImlPY) | 3:50 | 2026-06-11 | 2026-07-18 |
 | [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/track/0XD4SwzwVcepNKCtr2i37z) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [โลเล โยเย โมเม \(No Way\)](https://open.spotify.com/album/1nkCVldSm0BACa1JvBONAq) | 2:54 | 2026-02-12 | 2026-02-27 |
 | [โสดสนิท \(100% single\)](https://open.spotify.com/track/1DCHQy6QgSlhjAsGr2wbEi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [โสดสนิท \(100% single\)](https://open.spotify.com/album/6WgtoQ25rW94D4gO7zJGZ2) | 2:55 | 2026-02-12 | 2026-02-20 |
 | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/track/1ncwheJzbPTvNhKtwvsrjM) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/album/0kcSrOXptP3PBv9T8r22Qc) | 3:04 | 2025-03-20 | 2025-04-25 |

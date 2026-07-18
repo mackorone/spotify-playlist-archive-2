@@ -1,13 +1,89 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Joel Corry",
-  "num_followers": 118046,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lucas &amp; Steve",
+  "num_followers": 118041,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhwtLiLoqot+fgzo3AWsZkdTRBsZzP",
+  "snapshot_id": "AAAhx1Cw2GRkdnXWyx0tFRyRFOOoPkMN",
   "tracks": [
+    {
+      "added_at": "2026-07-17 06:39:58",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/5QojSpPbS1dTNb5HjGXtdR"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 173561,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/2W69oGQSekiLskq5xBnDMa"
+    },
+    {
+      "added_at": "2026-07-17 06:39:44",
+      "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 178112,
+      "name": "Allein",
+      "url": "https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI"
+    },
+    {
+      "added_at": "2026-07-17 06:40:23",
+      "album": {
+        "name": "Echo Sax Finale",
+        "url": "https://open.spotify.com/album/7gGVmp0etPwdJO0KRfWxpn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Caleb Arredondo",
+          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Echo Sax Finale",
+      "url": "https://open.spotify.com/track/5r87pH2ofTqx375POjVKtc"
+    },
+    {
+      "added_at": "2026-07-17 13:32:41",
+      "album": {
+        "name": "La R\u00e9volution",
+        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 132492,
+      "name": "La R\u00e9volution",
+      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
+    },
     {
       "added_at": "2026-07-10 06:56:39",
       "album": {

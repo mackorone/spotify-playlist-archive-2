@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Isn't it sweeter?",
+        "url": "https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150901,
+      "name": "A Little More Fun",
+      "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
+    },
+    {
+      "album": {
         "name": "A PERFECT WORLD",
         "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
       },
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 229655,
       "name": "Grain by Grain",
       "url": "https://open.spotify.com/track/2sUR1qY51anvjBXMpfQGNa"
@@ -3955,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "I Just Got Mad",
+        "url": "https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149364,
+      "name": "I Just Got Mad",
+      "url": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
+    },
+    {
+      "album": {
         "name": "Am I Okay? (I'll Be Fine)",
         "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
       },
@@ -4404,7 +4440,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
@@ -5008,6 +5044,24 @@
       "duration_ms": 283618,
       "name": "Lies - Acoustic Piano",
       "url": "https://open.spotify.com/track/19tlQPgqiFl964Vuz5tOGB"
+    },
+    {
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "album": {
@@ -5677,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/3bnebUwxlcFQ7XOpFWkh2V"
+      },
+      "artists": [
+        {
+          "name": "Tim Hart",
+          "url": "https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/4flxWSex7pgZOsapTzTRhY"
+    },
+    {
+      "album": {
         "name": "missing you",
         "url": "https://open.spotify.com/album/3ybVPvqMAtbyyceiDxu4Tk"
       },
@@ -5692,6 +5764,24 @@
       "duration_ms": 173154,
       "name": "missing you",
       "url": "https://open.spotify.com/track/6bh7mHsbv8u9kVWtKqCAcB"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6JDb1qRjuItQsVhpzgCUPP"
+      },
+      "artists": [
+        {
+          "name": "Mountain Boy",
+          "url": "https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253720,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/7b6wt5FZgNLBHEteC7Ugh8"
     },
     {
       "album": {
@@ -6147,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/08OgJN88zln9DvbkDlGu56"
+      },
+      "artists": [
+        {
+          "name": "Julia Wallace",
+          "url": "https://open.spotify.com/artist/2bFY7vDLp0o5Kt6FHiwkAp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222452,
+      "name": "No Way Around You",
+      "url": "https://open.spotify.com/track/6dGueGkfvmRDeWHrEWPVwr"
+    },
+    {
+      "album": {
         "name": "Nobody Gets Me",
         "url": "https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl"
       },
@@ -6201,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/75KlvQHAuditOEGyQShRiL"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201810,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/59VWVBr0dMHL5JQTnYVC7m"
+    },
+    {
+      "album": {
         "name": "Love Me For Another Day",
         "url": "https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2"
       },
@@ -6252,6 +6378,24 @@
       "duration_ms": 196600,
       "name": "Not Us Anymore",
       "url": "https://open.spotify.com/track/4413S20MlTBkUkRvmxKkDq"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149663,
+      "name": "nothing",
+      "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i"
     },
     {
       "album": {
@@ -6772,7 +6916,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/7g4JvjIMwC4gi6gBPKOqnz"
@@ -7479,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "Cry For Me",
+        "url": "https://open.spotify.com/album/4QCAnF76MDKeYnr4FMkaVm"
+      },
+      "artists": [
+        {
+          "name": "Gloria Laing",
+          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "Scared Of Me",
+      "url": "https://open.spotify.com/track/6c1pozetaTladugnMW6z9T"
+    },
+    {
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -7628,6 +7790,24 @@
       "duration_ms": 220380,
       "name": "Shoes Of Lightning",
       "url": "https://open.spotify.com/track/6HIv1vFwzhrAP2uLbne3SV"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202989,
+      "name": "show you me",
+      "url": "https://open.spotify.com/track/4f50UTC41M2Ah5itifSGE5"
     },
     {
       "album": {
@@ -8251,6 +8431,28 @@
     },
     {
       "album": {
+        "name": "Crazy Rainbow",
+        "url": "https://open.spotify.com/album/7oyNub5nsPkJoyV6xatDcN"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "atom",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188586,
+      "name": "Stronger (with atom)",
+      "url": "https://open.spotify.com/track/6VmbPa5V3ugkFa4QYmV5gf"
+    },
+    {
+      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
       },
@@ -8591,6 +8793,24 @@
     },
     {
       "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162548,
+      "name": "Tears of Joy",
+      "url": "https://open.spotify.com/track/73A2mMTvyvq69r84BTAAQk"
+    },
+    {
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
       },
@@ -8696,7 +8916,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/33vtLeCWJAMbYjIg6xc6cz"
@@ -9385,6 +9605,28 @@
     },
     {
       "album": {
+        "name": "Crazy Rainbow",
+        "url": "https://open.spotify.com/album/7oyNub5nsPkJoyV6xatDcN"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Vance Gilbert",
+          "url": "https://open.spotify.com/artist/4d1JIoUa0YcXee1Dn3Yzs0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260730,
+      "name": "Unfamiliar Moon (with Vance Gilbert)",
+      "url": "https://open.spotify.com/track/2hC3ktg3mDcIJUy6uO9kkt"
+    },
+    {
+      "album": {
         "name": "Virginia Slims",
         "url": "https://open.spotify.com/album/3RAd40AnzRyrxKz0hWrxUz"
       },
@@ -10068,6 +10310,24 @@
       "duration_ms": 209409,
       "name": "you're still everything",
       "url": "https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp"
+    },
+    {
+      "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222166,
+      "name": "Your Love Is Electric",
+      "url": "https://open.spotify.com/track/3MwwB2aY7xDrHqmbYL0iYf"
     },
     {
       "album": {

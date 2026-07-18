@@ -4,7 +4,7 @@
 
 > IBZ szn\. Cover: Deer Jade
 
-1,369 songs - 3 day 22 hr 17 min
+1,370 songs - 3 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1133,7 +1133,7 @@
 | [Sun Is Shining \- Victor Alc Remix](https://open.spotify.com/track/1FZmRN5VDABp7PWuCMxHuL) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5), [Victor Alc](https://open.spotify.com/artist/7EFV6WDiCud4RtQWpdvK0E) | [Sun Is Shining \(Victor Alc Remix\)](https://open.spotify.com/album/2O3yf4HFEGDUaAW7QXLcht) | 4:49 | 2025-03-27 | 2026-05-15 |
 | [Sun My Sweet Sun \- Love Version](https://open.spotify.com/track/18tRRaLHF6Y0b1yb6rJNET) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Sun My Sweet Sun \(Love Version\)](https://open.spotify.com/album/5Y7gnEmaXsOH3mDUZCkyt0) | 5:31 | 2026-06-25 |  |
 | [Sunday Best \- KARABA Remix](https://open.spotify.com/track/1jFusidIzeFjDcwG0Kj6YA) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Sunday Best \(KARABA Remix\)](https://open.spotify.com/album/3LaT5ge4mHujW2f52UKYdv) | 3:30 | 2025-05-01 | 2026-05-15 |
-| [Sunday Routine](https://open.spotify.com/track/3GAAROhEVPSXEjWxESvTiZ) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Sunday Routine](https://open.spotify.com/album/6KQoTPbf0pUWuZvrg1Zm88) | 3:42 | 2026-05-14 |  |
+| [Sunday Routine](https://open.spotify.com/track/3GAAROhEVPSXEjWxESvTiZ) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Sunday Routine](https://open.spotify.com/album/6KQoTPbf0pUWuZvrg1Zm88) | 3:42 | 2026-05-14 | 2026-07-18 |
 | [Sunpetal](https://open.spotify.com/track/4eZ86BB6u2BZXj7ilo1mk4) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [SAGA004](https://open.spotify.com/album/5ggTXqpDKZIemTJHM9mEis) | 3:29 | 2026-07-16 |  |
 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 | 2025-02-20 | 2026-05-15 |
 | [Sunshine \- Liva K Remix](https://open.spotify.com/track/6vghPzWOwN8p8Z6L7rc0ZK) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Sunshine \(Liva K Remix\)](https://open.spotify.com/album/0oj7njwcujSqMdggEl8bEm) | 3:01 | 2025-09-04 | 2026-05-15 |
@@ -1308,6 +1308,7 @@
 | [What Is Luv](https://open.spotify.com/track/6cbUxwLzwFKxHRrkKocDno) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [What Is Luv](https://open.spotify.com/album/1NDF0g1a4mEtG5x9aLOBub) | 3:54 | 2026-05-07 |  |
 | [What The F\*\*\* Is That](https://open.spotify.com/track/1ar4g4Jk5Be21Y63PNerdh) | [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG), [Darco](https://open.spotify.com/artist/49Zm4OzK2RcWyrMLSU59ht) | [What The F\*\*\* Is That](https://open.spotify.com/album/6vm8iOXPTn9MxcyMul87k0) | 3:52 | 2026-05-14 |  |
 | [what the hell is lofi house?](https://open.spotify.com/track/4LoUp759ZRqbpzXpryqyub) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [what the hell is lofi house?](https://open.spotify.com/album/0jnEIIGSChsF3129A2d3bv) | 5:42 | 2023-06-29 | 2024-01-05 |
+| [What U Said](https://open.spotify.com/track/3TFwuXsD10xlaUqt8Adts9) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [SAM SHI](https://open.spotify.com/artist/7wRjTJzLqYdeuY0z0DyLEl) | [What U Said](https://open.spotify.com/album/3mFyXkvkNvrPCJguJ0eNkl) | 2:38 | 2026-07-17 |  |
 | [What Would You Say](https://open.spotify.com/track/23dhTtl0pYxAh6Ppq6YRPC) | [Bareno](https://open.spotify.com/artist/3HUwuKnvmz95LRPoxRFDwc), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [What Would You Say](https://open.spotify.com/album/43HCSJ5xjbElDLyLeM7hy9) | 3:26 | 2026-04-09 | 2026-05-15 |
 | [What You Need](https://open.spotify.com/track/7FMx7eILF6lnMeyIPLLVlG) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [What You Need](https://open.spotify.com/album/0eL50oLRtvemTHfmruPGCa) | 5:20 | 2024-02-01 | 2024-03-30 |
 | [WHAT!](https://open.spotify.com/track/1vnEr5iuAEGZco3ryl6kfg) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803), [Yuvèe](https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f) | [WHAT!](https://open.spotify.com/album/032Gx82p6cpYLnPfe1ixFX) | 3:19 | 2026-05-14 |  |

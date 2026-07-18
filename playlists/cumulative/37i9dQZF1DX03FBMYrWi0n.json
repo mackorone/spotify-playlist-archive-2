@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: maudit vincent",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Grace of Arc",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 184522,
       "name": "Almost Gone",
       "url": "https://open.spotify.com/track/28QL9oxHDxJ75VEODOUDVX"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 177990,
       "name": "Ask Me",
       "url": "https://open.spotify.com/track/1VtPpUAN1LsuLwjFDkTMmg"
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Barking at the Sun",
+        "url": "https://open.spotify.com/album/2QdxdM7ixA51zndGOco3gW"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309410,
+      "name": "Barking at the Sun",
+      "url": "https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP"
+    },
+    {
+      "album": {
         "name": "Barracuda",
         "url": "https://open.spotify.com/album/0QFxXWyypV88bXEaJnyEF0"
       },
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 234791,
       "name": "Beast In The Flesh",
       "url": "https://open.spotify.com/track/4Ii9uKLmeqRrJpvGgfFMHf"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 97714,
       "name": "BFA",
       "url": "https://open.spotify.com/track/7tddZul60cxot2DuEAxefN"
@@ -1226,10 +1244,28 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 151013,
       "name": "big dog",
       "url": "https://open.spotify.com/track/1KeSvI6TNMd4VUS0FdsFyR"
+    },
+    {
+      "album": {
+        "name": "Bing-a-bang",
+        "url": "https://open.spotify.com/album/7Cf3hAAG1PtGL20l6Ej1ke"
+      },
+      "artists": [
+        {
+          "name": "Aubin pi la S.C.B.",
+          "url": "https://open.spotify.com/artist/42AwulUoVFEtaeL3eI7k4b"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Bing-a-bang",
+      "url": "https://open.spotify.com/track/5ApHksfVQz8PahixZsUZGz"
     },
     {
       "album": {
@@ -1774,7 +1810,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 228566,
       "name": "Chevaux fant\u00f4mes",
       "url": "https://open.spotify.com/track/0YMRyg8uhvvhrhD7nbp0Io"
@@ -2153,6 +2189,28 @@
     },
     {
       "album": {
+        "name": "Nouveaux Langages",
+        "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
+      },
+      "artists": [
+        {
+          "name": "N NAO",
+          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Corps (feat. Lou-Adriane Cassidy)",
+      "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
+    },
+    {
+      "album": {
         "name": "Correct",
         "url": "https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU"
       },
@@ -2496,7 +2554,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 287706,
       "name": "Dehors, la r\u00e9volution nous ressemble, A_",
       "url": "https://open.spotify.com/track/3JRKMMmjiqYSgxZTVSxwm1"
@@ -2928,7 +2986,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 171723,
       "name": "Drive U Mad",
       "url": "https://open.spotify.com/track/61pKBial8w5aKgwgJmye19"
@@ -3688,7 +3746,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 124315,
       "name": "FYORE",
       "url": "https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4"
@@ -4272,7 +4330,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 177880,
       "name": "I Wasn\u2019t Fully Cooked",
       "url": "https://open.spotify.com/track/18Bzs5tXdAIoyPdWOqm5Kh"
@@ -5060,7 +5118,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187000,
       "name": "L'amour en sang",
       "url": "https://open.spotify.com/track/61QLuj5GO0mhBjgBHhITeb"
@@ -5158,6 +5216,24 @@
       "duration_ms": 182252,
       "name": "l'\u00cele",
       "url": "https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs"
+    },
+    {
+      "album": {
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "album": {
@@ -5450,6 +5526,24 @@
       "duration_ms": 181286,
       "name": "Lance-Flamme Lance-Glace",
       "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+    },
+    {
+      "album": {
+        "name": "Lauda",
+        "url": "https://open.spotify.com/album/2k8PnWL7bidqIWzi4v4ZuZ"
+      },
+      "artists": [
+        {
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330480,
+      "name": "Lauda",
+      "url": "https://open.spotify.com/track/7cmI7fqL8FodgrCyvlLLrU"
     },
     {
       "album": {
@@ -6678,10 +6772,32 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 163500,
       "name": "Necktie",
       "url": "https://open.spotify.com/track/4HtW4zq3bonOxyGJPasIVh"
+    },
+    {
+      "album": {
+        "name": "Neon Love",
+        "url": "https://open.spotify.com/album/0k5L5Me4LeMQbTJqJ97W2w"
+      },
+      "artists": [
+        {
+          "name": "Belgrave",
+          "url": "https://open.spotify.com/artist/6n2l0Y44SoAw3wU8wQlhVz"
+        },
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184712,
+      "name": "Neon Love",
+      "url": "https://open.spotify.com/track/1GQsaeaG3UvSvHdP4LHt9p"
     },
     {
       "album": {
@@ -7998,7 +8114,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 221204,
       "name": "pretty place 2 cry",
       "url": "https://open.spotify.com/track/5W8I0knrJQY3pDIT86WKfB"
@@ -8622,7 +8738,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161259,
       "name": "Say It!",
       "url": "https://open.spotify.com/track/1ZmdrwfBaMaa7Z4cMqKcrQ"
@@ -9286,7 +9402,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 132923,
       "name": "SUBSTRATUM",
       "url": "https://open.spotify.com/track/34eUeC0plRGfQddzrav04N"
@@ -9340,7 +9456,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 175160,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1zhqhqDeOeSaok012e9g9c"
@@ -9491,6 +9607,24 @@
     },
     {
       "album": {
+        "name": "TDPM",
+        "url": "https://open.spotify.com/album/1v5zUrBtNBG2rDZqmjc0Ol"
+      },
+      "artists": [
+        {
+          "name": "Delphine",
+          "url": "https://open.spotify.com/artist/56sYHRQvLFVBdJXCDA9pms"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "TDPM",
+      "url": "https://open.spotify.com/track/33OwyDNTDGGhbKdREipIva"
+    },
+    {
+      "album": {
         "name": "Te garder",
         "url": "https://open.spotify.com/album/1b9QCrHAFg4EoN4n5wPoiJ"
       },
@@ -9628,7 +9762,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 190750,
       "name": "The Water's Just Fine",
       "url": "https://open.spotify.com/track/1c1ncPGk9iEzO60gAOcYH8"
@@ -9826,7 +9960,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 174151,
       "name": "Tout recommence",
       "url": "https://open.spotify.com/track/6k4AAQgHGx1Lt7jcz0nsKM"
@@ -10738,7 +10872,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 159564,
       "name": "\u00c9clats",
       "url": "https://open.spotify.com/track/5kO31qpPg2qlIJ7rKA4YeI"
@@ -10796,6 +10930,28 @@
       "duration_ms": 180426,
       "name": "\u00c9toiles",
       "url": "https://open.spotify.com/track/6QZ5o7B9K0umjgPJSe8bFa"
+    },
+    {
+      "album": {
+        "name": "AMII.0-RW000 Vol. II",
+        "url": "https://open.spotify.com/album/1BgFnh2VeWj4L3yT3Aomor"
+      },
+      "artists": [
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        },
+        {
+          "name": "Nouveau Palais",
+          "url": "https://open.spotify.com/artist/3stMzXv1n4PimyAqPsvwQm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "\u00e9tude06 . E A R T H S E A . AMII.0-RW006",
+      "url": "https://open.spotify.com/track/4qRkCgJULmapg3utfOmo0U"
     },
     {
       "album": {

@@ -618,7 +618,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 358759,
       "name": "Amourium",
       "url": "https://open.spotify.com/track/5BGWFW40vQK40k0GyQk80W"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 160720,
       "name": "Bandit chef",
       "url": "https://open.spotify.com/track/44A6TlpNKN3uuXfi2tdjnd"
@@ -2066,6 +2066,24 @@
       "duration_ms": 141290,
       "name": "Bonbon",
       "url": "https://open.spotify.com/track/3Lasn0k10J5Xx3nlez8N6h"
+    },
+    {
+      "album": {
+        "name": "Booster",
+        "url": "https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131702,
+      "name": "Booster",
+      "url": "https://open.spotify.com/track/2uRtKtAriztwH2ZTYEL5NU"
     },
     {
       "album": {
@@ -6149,6 +6167,28 @@
     },
     {
       "album": {
+        "name": "J&M",
+        "url": "https://open.spotify.com/album/701R7ZACfODEcHE5MHIpu0"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136855,
+      "name": "J&M",
+      "url": "https://open.spotify.com/track/53Usy8Rb3WutzbN8d64HJc"
+    },
+    {
+      "album": {
         "name": "47\u00b0",
         "url": "https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg"
       },
@@ -8748,6 +8788,28 @@
       "duration_ms": 267160,
       "name": "MAMA EYENGA",
       "url": "https://open.spotify.com/track/5XID8nM9UjxKmEzvsMk7MY"
+    },
+    {
+      "album": {
+        "name": "Prototype (Indusa)",
+        "url": "https://open.spotify.com/album/0zzpysNlTuMKOPbKJANwNz"
+      },
+      "artists": [
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        },
+        {
+          "name": "Joe Like",
+          "url": "https://open.spotify.com/artist/79iYQmZKVGRrPZSELgHJrq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213417,
+      "name": "Maman eh",
+      "url": "https://open.spotify.com/track/7JbvpELmmA6BGhEBxN9XHt"
     },
     {
       "album": {
@@ -11581,6 +11643,24 @@
     },
     {
       "album": {
+        "name": "C'est Le Moment",
+        "url": "https://open.spotify.com/album/7ovEtaPubxWzgmhKvBOGkB"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9 Panama",
+          "url": "https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304666,
+      "name": "Pardonner",
+      "url": "https://open.spotify.com/track/7vhS5zb4bll5tqwcwqQikI"
+    },
+    {
+      "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/1Pbn4jIeuwCSbcXiaVyoPf"
       },
@@ -12738,7 +12818,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 127894,
       "name": "Saint Patrick",
       "url": "https://open.spotify.com/track/3nPbazoyLQO8ynVbpzBDdW"

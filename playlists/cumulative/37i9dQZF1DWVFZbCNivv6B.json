@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. T.O.N.A en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Sandro Malandro, Kevis & Maykee en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1752,6 +1752,28 @@
       "duration_ms": 294400,
       "name": "Aqu\u00ed Todo Es Ilegal - Remix",
       "url": "https://open.spotify.com/track/16CQ7lj4yCk6g7pVWxBqcW"
+    },
+    {
+      "album": {
+        "name": "Armando",
+        "url": "https://open.spotify.com/album/2LAvPHS0ONrQKqguaTD39D"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Armando",
+      "url": "https://open.spotify.com/track/2L7YbJVC0TV0S3AoCSVTzj"
     },
     {
       "album": {
@@ -15326,7 +15348,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 168979,
       "name": "Por Hollywood",
       "url": "https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr"

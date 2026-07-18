@@ -1549,6 +1549,32 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/2tno51mcmBQPpFxAbldEeM"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "Stereohats",
+          "url": "https://open.spotify.com/artist/5mXk5yufaVz1wTuEAiaBN6"
+        },
+        {
+          "name": "Linnea Schossow",
+          "url": "https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125241,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/16kXvWISs9PlN8k8fR1Bjn"
+    },
+    {
+      "album": {
         "name": "Brighter Than The Sun",
         "url": "https://open.spotify.com/album/6KGr1eBvT9h93U2UUSAO3R"
       },

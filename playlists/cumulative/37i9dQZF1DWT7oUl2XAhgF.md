@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-609 songs - 1 day 12 hr 33 min
+610 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-06-17 | 2023-02-18 |
 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 | 2025-07-18 |  |
 | [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 | 2025-10-17 |  |
+| [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 | 2026-07-17 |  |
 | [Envy](https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Envy](https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax) | 4:07 | 2022-03-25 | 2025-05-31 |
 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 | 2022-03-25 | 2024-04-19 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 | 2025-05-17 |
@@ -286,7 +287,7 @@
 | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/track/4WovYmHVAw2WliG6Es3kRQ) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/album/4Hx7ymGXKFN2rd8bMVNOxG) | 4:26 | 2024-08-02 | 2024-09-14 |
 | [Let You Go](https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Let You Go](https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT) | 2:44 | 2024-04-19 | 2025-11-15 |
 | [Let's Be Alone Together](https://open.spotify.com/track/4svMoWeX1xfkJw4NiRJL6N) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Let's Be Alone Together](https://open.spotify.com/album/4ZSJXSwFpoVKzVCInWagCi) | 5:11 | 2024-06-07 | 2024-08-17 |
-| [Let's Fall In Love \(Again\)](https://open.spotify.com/track/4MFaY2c03D6Pmw38CVtSKo) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Let's Fall In Love \(Again\)](https://open.spotify.com/album/6mvEGQbyfU2pYJ8m5UDGiR) | 3:13 | 2026-06-19 |  |
+| [Let's Fall In Love \(Again\)](https://open.spotify.com/track/4MFaY2c03D6Pmw38CVtSKo) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Let's Fall In Love \(Again\)](https://open.spotify.com/album/6mvEGQbyfU2pYJ8m5UDGiR) | 3:13 | 2026-06-19 | 2026-07-18 |
 | [Life of the Party](https://open.spotify.com/track/3sjgUdqEep6XgJFfVRqllt) | [Jr\. Thomas](https://open.spotify.com/artist/4rlASrO81ZjHrd70G6swdV), [Eraserhood Sound](https://open.spotify.com/artist/3GJ1qWWMdMQNXMmwTnyqtZ) | [Life of the Party](https://open.spotify.com/album/3Bp75oph7dSe9bEcdZPn97) | 3:30 | 2025-09-05 | 2025-09-27 |
 | [Lift](https://open.spotify.com/track/6Ht5xsk4VtVOW2X6iihvWY) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Lift](https://open.spotify.com/album/7IMTCYMmhoq95Dso180h8v) | 4:27 | 2022-07-29 | 2022-08-27 |
 | [Lifted Up](https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Lifted Up](https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV) | 2:55 | 2024-01-26 | 2024-06-01 |
@@ -575,7 +576,7 @@
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-18 |
 | [What About Me?](https://open.spotify.com/track/6Oro2FQdBJd8BOtGEFbyel) | [Taylor Williams](https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F) | [Dreaming / What About Me?](https://open.spotify.com/album/2vgae29PUqVE30peZS7IK2) | 3:15 | 2025-11-14 |  |
 | [What Are You Sayin'](https://open.spotify.com/track/2xgNO2prwTqGfryq6c5Aiy) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [What Are You Sayin'](https://open.spotify.com/album/1fK9fPN7vcbUADimwj9fJu) | 4:23 | 2025-10-17 |  |
-| [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 | 2025-11-28 |  |
+| [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 | 2025-11-28 | 2026-07-18 |
 | [What More Can I Do](https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [What More Can I Do](https://open.spotify.com/album/4d0s8nBxKeOgJPTDylVz2j) | 2:17 | 2024-06-21 | 2025-04-05 |
 | [What You Chose](https://open.spotify.com/track/3XkPTlF8G89tA3m0xv7Rmd) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [What You Chose](https://open.spotify.com/album/3wFPt6l1djsbjGxFIMCjnJ) | 3:17 | 2025-01-03 | 2025-01-25 |
 | [What's on Your Mind \(OurVinyl Sessions\)](https://open.spotify.com/track/5Zon0BSyiQYHD06Yrf57zh) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Greyhounds \| OurVinyl Sessions](https://open.spotify.com/album/5i9W52ffNzgpjVOfM6ZfsZ) | 4:07 | 2022-03-21 | 2024-02-03 |

@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rotimi Keys & Greatman Takit
 
-1,805 songs - 3 day 23 hr 34 min
+1,805 songs - 3 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1617,7 +1617,6 @@
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 | 2023-07-14 | 2023-09-08 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-04-10 |
-| [Track 1](https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Love at Home \(Vol\. 2\)](https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI) | 0:00 | 2026-07-17 |  |
 | [Treasure](https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Treasure](https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj) | 2:44 | 2023-02-02 | 2023-03-11 |
 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 | 2025-04-04 | 2025-06-20 |
 | [Triumphant Entry](https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls) | [GCAi](https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw), [Dee Minor](https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV) | [Triumphant Entry](https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg) | 3:00 | 2023-07-21 | 2023-07-28 |
@@ -1796,6 +1795,7 @@
 | [YOUR NAME \- Special Version](https://open.spotify.com/track/23jUHlhSGwf3ippSVwMIV7) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t) | [YOUR NAME \(Special Version\)](https://open.spotify.com/album/0f9st8rSjl7LHDEv7tJL65) | 3:30 | 2023-10-13 | 2023-11-17 |
 | [Your Name Is Higher](https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Your Name Is Higher](https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i) | 3:29 | 2023-11-17 | 2023-12-30 |
 | [Your Type](https://open.spotify.com/track/0600lhAgyChB43nDMSQFHo) | [Skie Music](https://open.spotify.com/artist/5P4rch630qIMkSGKTlpZlO), [Jugu Tcr](https://open.spotify.com/artist/4Q8HqtdPSydyL43bWahCy3), [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz), [Kode 5](https://open.spotify.com/artist/3xbdgFzkGUAEh8gonx0GaR) | [Your Type](https://open.spotify.com/album/0jkPt012fcXaUvaQblr9o4) | 2:37 | 2024-02-16 | 2024-04-12 |
+| [Your Way](https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Love at Home \(Vol\. 2\)](https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI) | 2:26 | 2026-07-17 |  |
 | [Your Way](https://open.spotify.com/track/3sNaDycGqEhCZCynxXsqmD) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Your Way](https://open.spotify.com/album/3n9S4mPb88vqtiLERDxle1) | 3:20 | 2023-07-07 | 2023-08-12 |
 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 | 2025-03-07 | 2025-05-30 |
 | [Your Way II](https://open.spotify.com/track/0HRE64PXOwTEYVyfHEdDme) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Abims](https://open.spotify.com/artist/3ByJvshy0yP9wc2dOOIuKJ), [Psalm Hills](https://open.spotify.com/artist/2pssl6dzeh6h6IpUIq9XQ7) | [Your Way II](https://open.spotify.com/album/7nQhHNDOjjHWk59SvT8G1B) | 3:46 | 2026-06-12 |  |

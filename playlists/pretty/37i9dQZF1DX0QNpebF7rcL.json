@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 155666,
+  "num_followers": 155768,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc",
+  "snapshot_id": "AAAAABcEmdXXItzfrZ2xvEccuDSOjQE0",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:00:10",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/2JR7wiMw6PmQYzU1H1rR84"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        }
+      ],
+      "duration_ms": 275671,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/31NPKytF4zstCGYjewWkwe"
+    },
     {
       "added_at": "2026-07-03 04:00:32",
       "album": {
@@ -371,22 +391,6 @@
       "duration_ms": 177181,
       "name": "Wolf Blues - Single Version",
       "url": "https://open.spotify.com/track/2rEj96qkmn8a4foUERYUpb"
-    },
-    {
-      "added_at": "2026-04-03 04:00:19",
-      "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/48M5raydjk0czvX1C9yw6I"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 255942,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u"
     },
     {
       "added_at": "2026-03-27 04:00:07",

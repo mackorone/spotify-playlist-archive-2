@@ -1,13 +1,109 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+.",
-  "num_followers": 28801,
+  "num_followers": 28829,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIvFNwJWafPQm8u5+AF/tR/STn5x",
+  "snapshot_id": "AAAAAGpc1aQxj5Ae5iLbv5+Oh2fnY8Zu",
   "tracks": [
+    {
+      "added_at": "2026-07-17 12:00:03",
+      "album": {
+        "name": "TOO BRAZEN",
+        "url": "https://open.spotify.com/album/6A2At8Wh91FJuYKCBEkYHq"
+      },
+      "artists": [
+        {
+          "name": "Brazen Barbie",
+          "url": "https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Pack It Up",
+      "url": "https://open.spotify.com/track/7x4lzSX2MdmhGMWkP2qEh8"
+    },
+    {
+      "added_at": "2026-07-17 12:00:03",
+      "album": {
+        "name": "The Found Album",
+        "url": "https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Gouch\u00e9",
+          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
+        }
+      ],
+      "duration_ms": 187846,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/1BveF6EjMicrZfFJxmIfcT"
+    },
+    {
+      "added_at": "2026-07-17 12:00:03",
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/0eXLacgidV4BAUBWYpRsdV"
+    },
+    {
+      "added_at": "2026-07-17 12:00:03",
+      "album": {
+        "name": "A Louder Silence",
+        "url": "https://open.spotify.com/album/2iBubkygaX6SHYMKLajvVb"
+      },
+      "artists": [
+        {
+          "name": "Leifur James",
+          "url": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
+        }
+      ],
+      "duration_ms": 262695,
+      "name": "Suns of Gold",
+      "url": "https://open.spotify.com/track/6zcNkpCktzTfG2jiHTEHJs"
+    },
+    {
+      "added_at": "2026-07-17 12:00:03",
+      "album": {
+        "name": "Everything's Ok (With My Baby)",
+        "url": "https://open.spotify.com/album/4cRFUvlIY7y1ySZzgxpAtg"
+      },
+      "artists": [
+        {
+          "name": "Kory Leigh",
+          "url": "https://open.spotify.com/artist/4lv2pd5mTkTk8vJwf77LQ5"
+        }
+      ],
+      "duration_ms": 138703,
+      "name": "Everything's Ok - With My Baby",
+      "url": "https://open.spotify.com/track/6ymDL9ploWmOGFSwixjbbv"
+    },
+    {
+      "added_at": "2026-07-17 12:00:03",
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 162210,
+      "name": "Angels In The Sky",
+      "url": "https://open.spotify.com/track/4LVy9xhLWPbH8nJlDu88Fe"
+    },
     {
       "added_at": "2026-06-26 13:00:31",
       "album": {

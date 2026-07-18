@@ -2207,6 +2207,32 @@
     },
     {
       "album": {
+        "name": "ATMANS",
+        "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128634,
+      "name": "BURN LIKE FYA",
+      "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/7fhyji8myH6JtzxXosXXIw"
       },
@@ -9855,6 +9881,24 @@
     },
     {
       "album": {
+        "name": "maybe i think",
+        "url": "https://open.spotify.com/album/4OYELnP5UQBBelvamEjIz0"
+      },
+      "artists": [
+        {
+          "name": "Nick Bellerose",
+          "url": "https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "maybe i think",
+      "url": "https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux"
+    },
+    {
+      "album": {
         "name": "memory hoarder",
         "url": "https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS"
       },
@@ -10446,6 +10490,24 @@
       "duration_ms": 246818,
       "name": "Mort de rire",
       "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
+    },
+    {
+      "album": {
+        "name": "I Know A Garden",
+        "url": "https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190757,
+      "name": "Mosaic in the Sun",
+      "url": "https://open.spotify.com/track/2iitUrUOfO8Mj5fdLUNGj1"
     },
     {
       "album": {
@@ -11540,7 +11602,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 250533,
       "name": "Outline",
       "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
@@ -15685,6 +15747,24 @@
     },
     {
       "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
+    },
+    {
+      "album": {
         "name": "Toujours mieux",
         "url": "https://open.spotify.com/album/6ZHZUzD5Eiz1uA0d3h41Xf"
       },
@@ -15974,7 +16054,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 214993,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3rFOMdbscUP3ofTH2bCxjT"

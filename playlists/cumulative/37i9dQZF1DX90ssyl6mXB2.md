@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: where.t.at
+> late night vibes – notifications off\. cover: Jaymin
 
-353 songs - 16 hr 13 min
+355 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 | 2025-11-08 |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 | 2025-11-08 |
 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 | 2025-04-04 |  |
+| [high horse](https://open.spotify.com/track/25Fgryvfcz82BzMZrviqbU) | [Dame Atlas](https://open.spotify.com/artist/6KzA7YJ7DBDzaQMT9eq0xR) | [if i'm being honest](https://open.spotify.com/album/5n84sWXzuClhbDcJzydleo) | 2:36 | 2026-07-17 |  |
 | [HIT MY PHONE](https://open.spotify.com/track/5WXbDxcW6ob9XLckvdvG74) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [HIT MY PHONE](https://open.spotify.com/album/1iAsBAduNSRfvvlZ91k80d) | 3:09 | 2025-08-15 |  |
 | [HOLD ON](https://open.spotify.com/track/73TZJtqmOIPCKQbZv9WP71) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HOLD ON](https://open.spotify.com/album/2wNFgVPKrqk2FEMnAayqyA) | 2:54 | 2025-09-05 |  |
 | [Hold Still](https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Hold Still](https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06) | 2:49 | 2024-10-25 | 2025-11-08 |
@@ -252,6 +253,7 @@
 | [Proper](https://open.spotify.com/track/1dqWo0yB41RcdIWa1a54xU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/2PDK6hYWOXKooDebSnVHeY) | 2:24 | 2024-11-22 | 2026-06-04 |
 | [Proper](https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7) | 2:24 | 2024-11-22 |  |
 | [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 | 2024-11-08 | 2024-11-23 |
+| [Proud](https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Proud](https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6) | 2:10 | 2026-07-17 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 | 2026-03-14 |
 | [RAINING IN HOUSTON](https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:04 | 2025-02-14 | 2025-03-29 |
 | [Receipts](https://open.spotify.com/track/1Lw4Q4fdDkm9teelfS3fx9) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 3:24 | 2025-03-07 |  |

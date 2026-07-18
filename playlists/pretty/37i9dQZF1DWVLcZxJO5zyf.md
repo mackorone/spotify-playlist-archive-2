@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto:  Liniker
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Luisa Sonza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,288,114 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,893 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MELHOR NOTÍCIA](https://open.spotify.com/track/4DqQqIMiD3YqnUwR13xLmA) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MELHOR NOTÍCIA](https://open.spotify.com/album/0sYPdRHJeo4UYbcoRQMmYK) | 5:02 |
-| 2 | [SEU E SÓ \- Ao Vivo no Bondinho, RJ](https://open.spotify.com/track/7aVQMeubLjqfIuLXRbptyl) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM \- Ao Vivo no Bondinho \(RJ\)](https://open.spotify.com/album/4xwP0KpzNiMkQKxA4YZJo5) | 2:31 |
-| 3 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
-| 4 | [Estrela Do Meu Show](https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Estrela Do Meu Show](https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe) | 4:06 |
-| 5 | [NUVEM NEGRA](https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj) | [NUVEM NEGRA](https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed) | 4:54 |
-| 6 | [Cobra Criada/Bicho Solto \- Refix](https://open.spotify.com/track/5Y60BnKGNfUSaP2VHWbKCo) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Cobra Criada/Bicho Solto \(Refix\)](https://open.spotify.com/album/6AmlsEaSfzTZ9CYTe0cURx) | 2:30 |
-| 7 | [Drogas, Sexo, Techno, Repete!](https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [SANDRA ELETRÔNICA](https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3) | 3:38 |
-| 8 | [Caipiranhas](https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Caipiranhas](https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA) | 1:56 |
-| 9 | [mexe com meu juízo](https://open.spotify.com/track/3jRjwADDFans8VFXW2N5Vz) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [escapismo](https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb) | 2:59 |
+| 1 | [Tropical Paradise](https://open.spotify.com/track/1aOo5rg36qqtvFllrGbOT5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 1:52 |
+| 2 | [MELHOR NOTÍCIA](https://open.spotify.com/track/4DqQqIMiD3YqnUwR13xLmA) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MELHOR NOTÍCIA](https://open.spotify.com/album/0sYPdRHJeo4UYbcoRQMmYK) | 5:02 |
+| 3 | [Moça](https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Moça](https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z) | 2:14 |
+| 4 | [SEU E SÓ \- Ao Vivo no Bondinho, RJ](https://open.spotify.com/track/7aVQMeubLjqfIuLXRbptyl) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM \- Ao Vivo no Bondinho \(RJ\)](https://open.spotify.com/album/4xwP0KpzNiMkQKxA4YZJo5) | 2:31 |
+| 5 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
+| 6 | [Estrela Do Meu Show](https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Estrela Do Meu Show](https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe) | 4:06 |
+| 7 | [NUVEM NEGRA](https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj) | [NUVEM NEGRA](https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed) | 4:54 |
+| 8 | [Cobra Criada/Bicho Solto \- Refix](https://open.spotify.com/track/5Y60BnKGNfUSaP2VHWbKCo) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Cobra Criada/Bicho Solto \(Refix\)](https://open.spotify.com/album/6AmlsEaSfzTZ9CYTe0cURx) | 2:30 |
+| 9 | [Drogas, Sexo, Techno, Repete!](https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [SANDRA ELETRÔNICA](https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3) | 3:38 |
 | 10 | [Mágica \- Acústico](https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Inimaginável \(Acústico\)](https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue) | 3:09 |
 | 11 | [se joga](https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 4:05 |
 | 12 | [Seu e Só](https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Seu e Só](https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 |
 | 50 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 |
 
-Snapshot ID: `AAAAADLUft6CTRFlhHcyBoiGgPiJ9j0s`
+Snapshot ID: `AAAAAJLcLXhC13H44olhf1PszxWhNuzL`

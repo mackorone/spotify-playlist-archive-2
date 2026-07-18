@@ -137,6 +137,32 @@
     },
     {
       "album": {
+        "name": "ABC (Disco Dom Refunk)",
+        "url": "https://open.spotify.com/album/3fCA0NmnEOazs6OlkKkx2J"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        },
+        {
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180247,
+      "name": "ABC - Disco Dom Refunk",
+      "url": "https://open.spotify.com/track/6oV12A5xN7SGfnOg5AmyiB"
+    },
+    {
+      "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
@@ -784,7 +810,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 212903,
       "name": "Are They Real",
       "url": "https://open.spotify.com/track/2R9mq2ZOGNnQIpIwTiSjqc"
@@ -1054,7 +1080,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 162792,
       "name": "Baby Wants to Disco - Radio Edit",
       "url": "https://open.spotify.com/track/1Ofhyr05vsIOMyjxrw2arv"
@@ -2642,6 +2668,28 @@
       "duration_ms": 319891,
       "name": "Confrontations",
       "url": "https://open.spotify.com/track/0p1ijCxJxAmEUm9OfTM4mX"
+    },
+    {
+      "album": {
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/6On9NhclLlb3aUY0zqoWD4"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Eddie Bizzarre",
+          "url": "https://open.spotify.com/artist/3OyvIlYOIFtJRxYxXWYKfR"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170883,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7eHRWrX7rct5GERt2dFTYj"
     },
     {
       "album": {
@@ -4579,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/0wJlUhRnBtYWeGXM2dVx6V"
+      },
+      "artists": [
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190143,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/59IGNhUKMApukJXpDVX0x8"
+    },
+    {
+      "album": {
         "name": "Feel Love",
         "url": "https://open.spotify.com/album/7lGP3jleS3SRHFs9DU0l9w"
       },
@@ -4634,6 +4700,32 @@
       "duration_ms": 260001,
       "name": "Feelin It",
       "url": "https://open.spotify.com/track/0bcCYef1KBJyYDoMNF62Ph"
+    },
+    {
+      "album": {
+        "name": "Feeling For You (Fcukers & Junior Sanchez Remix)",
+        "url": "https://open.spotify.com/album/7t9tDtV33PmsISIR0ymsaD"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228704,
+      "name": "Feeling For You - Fcukers & Junior Sanchez Remix",
+      "url": "https://open.spotify.com/track/2SpViBCYQMXwS6OrTTWG3u"
     },
     {
       "album": {
@@ -7240,7 +7332,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 395305,
       "name": "I'LL BE THERE FOR YOU - Club Mix",
       "url": "https://open.spotify.com/track/1DQfq4NUG1kmg7Bp06XjIM"
@@ -7284,7 +7376,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 178125,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/5F9rZa65ePNd3HZFkavre7"
@@ -7574,6 +7666,32 @@
       "duration_ms": 192086,
       "name": "IN THE MOOD",
       "url": "https://open.spotify.com/track/70a5DOAwTeMjHBjvJdj6H2"
+    },
+    {
+      "album": {
+        "name": "In Your Mind (Dennis Cruz Remix)",
+        "url": "https://open.spotify.com/album/2ANY0QhS5i215fcBucaBCJ"
+      },
+      "artists": [
+        {
+          "name": "Serge Devant",
+          "url": "https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP"
+        },
+        {
+          "name": "Camille Safiya",
+          "url": "https://open.spotify.com/artist/0njiJOJRIXjXanWDLd586D"
+        },
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280649,
+      "name": "In Your Mind - Dennis Cruz Remix",
+      "url": "https://open.spotify.com/track/5MsKLQXBk3kvNThCxyWMKW"
     },
     {
       "album": {
@@ -9276,7 +9394,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 228196,
       "name": "Love Sensation",
       "url": "https://open.spotify.com/track/4dONCeO3M7K1KQMIVkqX03"
@@ -9612,7 +9730,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 201269,
       "name": "Magick",
       "url": "https://open.spotify.com/track/25g4GMEcXFCPQDqpFMDP82"
@@ -10314,7 +10432,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 339666,
       "name": "Murder On The Dancefloor - Jewels & Stone Mix",
       "url": "https://open.spotify.com/track/0nf2XYpRORaw6VQEzsrNr1"
@@ -11463,6 +11581,24 @@
     },
     {
       "album": {
+        "name": "Out of my Mind",
+        "url": "https://open.spotify.com/album/4akK68MAExmRm4P6xiR2vN"
+      },
+      "artists": [
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158334,
+      "name": "Out of my Mind",
+      "url": "https://open.spotify.com/track/1yUGb5pw0FokNMyeUQWAqm"
+    },
+    {
+      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -11642,7 +11778,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198822,
       "name": "Paris, je t'aime",
       "url": "https://open.spotify.com/track/4dlMAPulZfFFfBU65DiyMc"
@@ -12290,7 +12426,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180204,
       "name": "Rhythm Unknown",
       "url": "https://open.spotify.com/track/1WeM5XntFJnLceZ7RVAcgo"
@@ -12874,6 +13010,24 @@
       "duration_ms": 156017,
       "name": "Scandalize",
       "url": "https://open.spotify.com/track/6k2KiTbVSBuL3ErsWCinlS"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/11bfqAIOyJOCg2WEuI9gbf"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137813,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/4Fslza08qYknIDHCriPIdZ"
     },
     {
       "album": {
@@ -14123,6 +14277,24 @@
     },
     {
       "album": {
+        "name": "String Theory",
+        "url": "https://open.spotify.com/album/7ga1fhYWGhvlJFNspL1SIk"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "String Theory - Radio Edit",
+      "url": "https://open.spotify.com/track/2536KLSOz6Vck9Q8LJN3kp"
+    },
+    {
+      "album": {
         "name": "Strings Boogie",
         "url": "https://open.spotify.com/album/0TXgkcTSJItO739OdBvAmx"
       },
@@ -15098,6 +15270,24 @@
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
+    },
+    {
+      "album": {
+        "name": "This Way",
+        "url": "https://open.spotify.com/album/1G3gwKKPAD9U7cnNoUG5HD"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186415,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/2U6z9aPg4RSQ2zkZgJyW6O"
     },
     {
       "album": {

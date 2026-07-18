@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Stank face activated. Cover: Dave Summer",
+  "description": "Stank face activated. Cover: Average Citizens",
   "name": "Bangers",
   "tracks": [
     {
@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "600 Degrees",
+        "url": "https://open.spotify.com/album/1iKcGN0r8ME0BChC4VX5Gq"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "DeLorean Black",
+          "url": "https://open.spotify.com/artist/4plo7rEUdfyIE3Vfjw07qH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "600 Degrees",
+      "url": "https://open.spotify.com/track/7kgGQ0mASiY6dLks30cUY5"
+    },
+    {
+      "album": {
         "name": "6izarre RAVE (with 6arelyhuman)",
         "url": "https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW"
       },
@@ -328,7 +350,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z"
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 170667,
       "name": "Back To Back (feat. Lil Debbie)",
       "url": "https://open.spotify.com/track/12EpRsQ6t3Y3paxIPIEVBL"
@@ -2076,6 +2098,24 @@
       "duration_ms": 246394,
       "name": "Bass Music",
       "url": "https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY"
+    },
+    {
+      "album": {
+        "name": "BASS REPEAT",
+        "url": "https://open.spotify.com/album/4zQk3DUHRXhBb4Uy1c0rky"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162411,
+      "name": "BASS REPEAT",
+      "url": "https://open.spotify.com/track/0JGC40P6QaZd9iEtrPIo4V"
     },
     {
       "album": {
@@ -3872,7 +3912,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156477,
       "name": "Conceited - What The Fuck",
       "url": "https://open.spotify.com/track/1Q0pG9JMCGpJ6uyFC9GvkZ"
@@ -4888,7 +4928,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
@@ -5058,7 +5098,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
@@ -6646,7 +6686,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 139098,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/4yNjYd1lH4notRcjqdvwxG"
@@ -8530,7 +8570,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 260023,
       "name": "Here With Me Now",
       "url": "https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n"
@@ -8802,7 +8842,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 199384,
       "name": "Holla At A Player",
       "url": "https://open.spotify.com/track/1KyEK4m4MPdnty3r3kmCfr"
@@ -9116,7 +9156,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 148300,
       "name": "HOW I DO IT",
       "url": "https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq"
@@ -12939,6 +12979,32 @@
     },
     {
       "album": {
+        "name": "Movin' To The Sun",
+        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "album": {
         "name": "Mudcat",
         "url": "https://open.spotify.com/album/7nx00mnr3aXir5YckFCaNl"
       },
@@ -16477,6 +16543,28 @@
     },
     {
       "album": {
+        "name": "Ride The Roller",
+        "url": "https://open.spotify.com/album/1yG3Bmnq5KYxoneIMAaS4j"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "Average Citizens",
+          "url": "https://open.spotify.com/artist/5sN9PgGYPrFI5OcEHF7VR9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "Ride The Roller",
+      "url": "https://open.spotify.com/track/6jJjNmaOr7b3Ej8UHHnv7O"
+    },
+    {
+      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/5hSPTMOJn2XATqYl7l14vc"
       },
@@ -17420,7 +17508,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 213913,
       "name": "SHAKEUP",
       "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
@@ -19336,7 +19424,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156521,
       "name": "Taste The Bass",
       "url": "https://open.spotify.com/track/3GLMMMUd499cjYITlwMq4F"
@@ -19460,7 +19548,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 203835,
       "name": "Ten",
       "url": "https://open.spotify.com/track/3NLX0WPaHV7Zi8EMUvmwOV"
@@ -19668,7 +19756,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 183724,
       "name": "The Pit",
       "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,166 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,159 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,7 +229,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 219 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
 | 220 | [Zettaiteki Sanpunkan](https://open.spotify.com/track/7BUXJOYpgglQveaqsDe3hc) | [Sokoninaru](https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF) | [ISSEN](https://open.spotify.com/album/6IgyoTPAuCmUsofLP7V2Wm) | 3:02 |
 | 221 | [Purgatorium](https://open.spotify.com/track/09Gy2And4Ys7RtuMUvaLfK) | [お月さま交響曲](https://open.spotify.com/artist/6C3lQzZk0S0JZO2MfruFGc) | [Arcaea Sound Collection: Memories of Conflict](https://open.spotify.com/album/45slopREa0Xk7yxQGrDxrn) | 2:31 |
-| 222 | [Everything will freeze \-Guitar Instrumental\-](https://open.spotify.com/track/5P1BZpdmaVFm0OwPbWe5Dz) | [UNDEAD CORPORATION DOUJIN WORKS](https://open.spotify.com/artist/5NETkMPykaG8ngC1VcubSX) | [暴君](https://open.spotify.com/album/123vrNZOnzcEPXXrbbSk7w) | 3:17 |
+| 222 | [Everything will freeze \- Guitar Instrumental](https://open.spotify.com/track/5P1BZpdmaVFm0OwPbWe5Dz) | [UNDEAD CORPORATION DOUJIN WORKS](https://open.spotify.com/artist/5NETkMPykaG8ngC1VcubSX) | [暴君](https://open.spotify.com/album/123vrNZOnzcEPXXrbbSk7w) | 3:17 |
 | 223 | [Bookmaker](https://open.spotify.com/track/3tCci3fv4JcH6WDSpzDesG) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Fionaredica](https://open.spotify.com/album/6XDzzIEnhUOhtLn6MTZWGm) | 4:23 |
 | 224 | [Zeek's Plan](https://open.spotify.com/track/3hZcM1k594IRqVdEmADsew) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 3:47 |
 | 225 | [Reflections](https://open.spotify.com/track/1msdCkmMraSkcmjwILl9Bs) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Reflections](https://open.spotify.com/album/40yI1vDHFA1bn5h7jusdJp) | 4:11 |

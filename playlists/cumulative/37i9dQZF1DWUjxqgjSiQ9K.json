@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Diante do Trono",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Aline Barros & Aaron Moses",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1937,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "Avivamiento (En Vivo Desde Per\u00fa)",
+        "url": "https://open.spotify.com/album/3AUHt7xuiteY3gj7SVZloB"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Israel Chaparro",
+          "url": "https://open.spotify.com/artist/1OLRSnF2sTYBx7lSbfgWeK"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319897,
+      "name": "Avivamiento - En Vivo Desde Per\u00fa",
+      "url": "https://open.spotify.com/track/6o6p2jE3RPT1S9FqiLFEvL"
+    },
+    {
+      "album": {
         "name": "Ay\u00fadame a Creer",
         "url": "https://open.spotify.com/album/33TGZrKLsp5OIdiRYd7ggL"
       },
@@ -3540,7 +3562,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 258556,
       "name": "Contigo Padre",
       "url": "https://open.spotify.com/track/1qKlNxxYJkFjJdYIRyiEsa"
@@ -4072,7 +4094,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 403845,
       "name": "CRISTO",
       "url": "https://open.spotify.com/track/7BOtLQbPHdaB5VWkvtxVUm"
@@ -11577,6 +11599,28 @@
     },
     {
       "album": {
+        "name": "Mil Gracias",
+        "url": "https://open.spotify.com/album/5CgRDcS03qWsuab2zn0mSl"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470581,
+      "name": "Mil Gracias",
+      "url": "https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K"
+    },
+    {
+      "album": {
         "name": "Mil Preguntas",
         "url": "https://open.spotify.com/album/5RZ1ZkrtlEuKpMgEdm0bvG"
       },
@@ -12834,6 +12878,24 @@
       "duration_ms": 261177,
       "name": "No Temer\u00e9 - Live",
       "url": "https://open.spotify.com/track/5ZDGRUdNLtAUTrTo1qpLh2"
+    },
+    {
+      "album": {
+        "name": "NO TIENES IGUAL",
+        "url": "https://open.spotify.com/album/4Nrx6RkWTYqGr3IW2XLdNT"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247983,
+      "name": "NO TIENES IGUAL",
+      "url": "https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9"
     },
     {
       "album": {
@@ -16934,7 +16996,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 430000,
       "name": "Te Exaltar\u00e9",
       "url": "https://open.spotify.com/track/55aat3EMyWAfEco7Tk2j0N"

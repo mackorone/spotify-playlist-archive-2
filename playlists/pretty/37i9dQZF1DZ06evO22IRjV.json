@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31186,
+  "num_followers": 31190,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAC8xsJjIf35qpZ8j/GLdoGH",
+  "snapshot_id": "algfAAAAAABEzDV+5lmv52kOmLk9lD7R",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff0310",
-        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Steppin' out",
-      "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
+      "duration_ms": 215485,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOLD",
-        "url": "https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4"
+        "name": "\uff0310",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 215485,
-      "name": "GOLD",
-      "url": "https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le"
+      "duration_ms": 252133,
+      "name": "Steppin' out",
+      "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5TELLA",
-        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "5TELLA",
-      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW 26TH ANNIVERSARY BEST 26 SONGS",
         "url": "https://open.spotify.com/album/6lyZYzko5j5CC6PsS10iFZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 192000,
       "name": "\u8d08\u308b\u8a00\u8449 (single version)",
       "url": "https://open.spotify.com/track/2qtUy8rrbEqdfvyeMqETQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5TELLA",
+        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "5TELLA",
+      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30a4\u30eb",
-        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
         "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 243640,
       "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
       "url": "https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 279733,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "26 a Go Go !!!",
-        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "GLORY DAYS",
-      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
         "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 234293,
       "name": "Hero's Come Back!!",
       "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "GLORY DAYS",
+      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DICE",
-        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
         "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DICE",
+        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "White Moon",
         "url": "https://open.spotify.com/album/0tC9E3xjkn39oZRsKqPYQV"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 224066,
       "name": "White Moon",
       "url": "https://open.spotify.com/track/6MGJHSYSQRZzthnP7tsAs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "26 a Go Go !!!",
-        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4 -Album Mix-",
-      "url": "https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4 -Album Mix-",
+      "url": "https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MICROCOSM",
         "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
         "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 278476,
       "name": "\u30e6\u30e9\u30e6\u30e9",
       "url": "https://open.spotify.com/track/6p6IssaX9xho07QisbjC8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
     },
     {
       "added_at": null,

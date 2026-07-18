@@ -148,7 +148,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 240000,
       "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
       "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "Northshore",
+        "url": "https://open.spotify.com/album/04OtkVEYg7sS00OoP21i6H"
+      },
+      "artists": [
+        {
+          "name": "B3NTLY",
+          "url": "https://open.spotify.com/artist/5jBmKVPNPtBDr4oVL3I10N"
+        },
+        {
+          "name": "Artigue",
+          "url": "https://open.spotify.com/artist/6vW7FpCWUzOJv5NDTHXYdU"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125688,
+      "name": "Dog Pound",
+      "url": "https://open.spotify.com/track/3KqKa5Z8UvvdCehEeF34cj"
+    },
+    {
+      "album": {
         "name": "Zombi3 Land",
         "url": "https://open.spotify.com/album/5cllsfYZdvMH6SCTwO1Cnd"
       },
@@ -1670,7 +1692,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 170177,
       "name": "God Made It",
       "url": "https://open.spotify.com/track/2En3Lfa3fqExSPrFOuD4Q8"
@@ -1976,7 +1998,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 165722,
       "name": "HOMEGROWN",
       "url": "https://open.spotify.com/track/0pMwh56IqW62E9uqyod3LB"
@@ -3056,7 +3078,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -3334,7 +3356,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -3490,7 +3512,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -4196,7 +4218,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -4354,7 +4376,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Survival Mode",
       "url": "https://open.spotify.com/track/6J1qkQoOtEC66i6gwz112z"
@@ -4510,7 +4532,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
@@ -4600,7 +4622,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 120214,
       "name": "The Final Agenda",
       "url": "https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps"

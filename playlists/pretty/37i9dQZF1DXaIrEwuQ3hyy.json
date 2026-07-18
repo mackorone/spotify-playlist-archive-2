@@ -1,6 +1,6 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1100444,
+  "num_followers": 1100504,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -379,7 +379,7 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
-        "name": "Jeden Tag neu",
+        "name": "jeden tag neu",
         "url": "https://open.spotify.com/album/2N2ogz5o77Ii7wreGUffFT"
       },
       "artists": [
@@ -389,7 +389,7 @@
         }
       ],
       "duration_ms": 171431,
-      "name": "Jeden Tag neu",
+      "name": "jeden tag neu",
       "url": "https://open.spotify.com/track/2BgbsLjtIlJke0OWtRynDx"
     },
     {
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8"
+    },
+    {
+      "added_at": "2026-07-16 22:00:39",
+      "album": {
         "name": "girls like girls the album",
         "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8"
-    },
-    {
-      "added_at": "2026-07-16 22:00:39",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
-        "name": "light up",
-        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "light up",
-      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
-    },
-    {
-      "added_at": "2026-07-16 22:00:39",
-      "album": {
         "name": "Water The Flowers",
         "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 150994,
       "name": "Water The Flowers",
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
+    },
+    {
+      "added_at": "2026-07-16 22:00:39",
+      "album": {
+        "name": "light up",
+        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "light up",
+      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
     },
     {
       "added_at": "2026-07-16 22:00:39",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2026-07-16 22:00:39",
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
+        "name": "Blush Red",
+        "url": "https://open.spotify.com/album/7fMmi1DkgkI1fdOhRFxUpg"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
         }
       ],
-      "duration_ms": 206808,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+      "duration_ms": 186213,
+      "name": "romance tape",
+      "url": "https://open.spotify.com/track/0mDPqU51kG3c2dBoQ3ulvG"
     },
     {
       "added_at": "2026-07-16 22:00:39",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
-        "name": "Know the Night",
-        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Know the Night",
-      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
-    },
-    {
-      "added_at": "2026-07-16 22:00:39",
-      "album": {
         "name": "Iman",
         "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
       },
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2026-07-16 22:00:39",
+      "album": {
         "name": "Cut In Half",
         "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
       },
@@ -1375,38 +1391,6 @@
       "duration_ms": 161684,
       "name": "Cut In Half",
       "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
-    },
-    {
-      "added_at": "2026-07-16 22:00:39",
-      "album": {
-        "name": "Blush Red",
-        "url": "https://open.spotify.com/album/7fMmi1DkgkI1fdOhRFxUpg"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "romance tape",
-      "url": "https://open.spotify.com/track/0mDPqU51kG3c2dBoQ3ulvG"
-    },
-    {
-      "added_at": "2026-07-16 22:00:39",
-      "album": {
-        "name": "MI SUE\u00d1O",
-        "url": "https://open.spotify.com/album/69XK7T7UIWLq7h4cNOKKl3"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 144867,
-      "name": "MI SUE\u00d1O",
-      "url": "https://open.spotify.com/track/520zZB2d3iCE04y7YIOaQF"
     },
     {
       "added_at": "2026-07-16 22:00:39",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
+        "name": "MI SUE\u00d1O",
+        "url": "https://open.spotify.com/album/69XK7T7UIWLq7h4cNOKKl3"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 144867,
+      "name": "MI SUE\u00d1O",
+      "url": "https://open.spotify.com/track/520zZB2d3iCE04y7YIOaQF"
+    },
+    {
+      "added_at": "2026-07-16 22:00:39",
+      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-07-16 22:00:39",
       "album": {
-        "name": "eat some pasta",
-        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "eat some pasta",
-      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
-    },
-    {
-      "added_at": "2026-07-16 22:00:39",
-      "album": {
         "name": "Morning Birds",
         "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 287000,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
+    },
+    {
+      "added_at": "2026-07-16 22:00:39",
+      "album": {
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     },
     {
       "added_at": "2026-07-16 22:00:39",

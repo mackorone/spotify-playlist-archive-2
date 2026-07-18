@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/6TSlY3RFS8jbuKY2Fhovbo"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mitchell-Haines",
+          "url": "https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136781,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2PYywbKzaAsAo8EmNFOM4T"
+    },
+    {
+      "album": {
         "name": "Beyond The Words",
         "url": "https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh"
       },

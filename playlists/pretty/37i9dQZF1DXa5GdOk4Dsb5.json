@@ -1,12 +1,12 @@
 {
   "description": "Reforzando la alianza Colombia-M\u00e9xico. Con Natanael Cano en portada. ",
-  "num_followers": 170707,
+  "num_followers": 170698,
   "original_name": "Parceros \ud83e\udd1d Compas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFI4LZr4ps34yIqB8XWMvksAvayy",
+  "snapshot_id": "AAAAAGcmml4aCGiZXEAvNKh8Hcwt4XVc",
   "tracks": [
     {
       "added_at": "2026-07-17 00:20:51",
@@ -569,6 +569,26 @@
       "url": "https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX"
     },
     {
+      "added_at": "2026-07-17 20:07:25",
+      "album": {
+        "name": "Vive Tu Vida",
+        "url": "https://open.spotify.com/album/1b4CTfE2CODXCgSIW0nXSY"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Ayala",
+          "url": "https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 157103,
+      "name": "Vive Tu Vida",
+      "url": "https://open.spotify.com/track/3DzNgv4wLRfR90ZKl5raAZ"
+    },
+    {
       "added_at": "2026-07-17 00:20:51",
       "album": {
         "name": "L\u00e1stima Que Seas Ajena",
@@ -799,6 +819,22 @@
       "duration_ms": 163560,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "added_at": "2026-07-17 20:07:25",
+      "album": {
+        "name": "Chismofilia",
+        "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "duration_ms": 178608,
+      "name": "Chismofilia",
+      "url": "https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G"
     },
     {
       "added_at": "2026-07-17 00:20:51",

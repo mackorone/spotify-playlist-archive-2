@@ -788,10 +788,40 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 196472,
       "name": "El de Pi",
       "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
+    },
+    {
+      "album": {
+        "name": "El Doctorado (Version Reparto)",
+        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Seikan Anikila",
+          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221671,
+      "name": "El Doctorado - Version Reparto",
+      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
     },
     {
       "album": {

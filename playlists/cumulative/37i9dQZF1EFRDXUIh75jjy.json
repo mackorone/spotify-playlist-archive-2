@@ -3112,10 +3112,28 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 191363,
       "name": "It Ain't Nothing",
       "url": "https://open.spotify.com/track/2BcGm4sN6PgO4eNKCSpsK7"
+    },
+    {
+      "album": {
+        "name": "It Ain't Nothing",
+        "url": "https://open.spotify.com/album/4LrxGUNQcW2purbLJL9FSp"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191363,
+      "name": "It Ain't Nothing",
+      "url": "https://open.spotify.com/track/3SsO9dzxovr9HlzsxZohDX"
     },
     {
       "album": {
@@ -5156,10 +5174,28 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 212373,
       "name": "So Many Ways",
       "url": "https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW"
+    },
+    {
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/1mFxAq2azeYdXUbMLkPNKm"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5PCA9QRawbZAc2H3262HDX"
     },
     {
       "album": {

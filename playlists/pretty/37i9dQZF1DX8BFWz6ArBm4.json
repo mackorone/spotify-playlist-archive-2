@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giannis Ploutarhos",
-  "num_followers": 39403,
+  "num_followers": 39428,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-07-16 21:00:20",
       "album": {
-        "name": "Exigiste Mou",
-        "url": "https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 173308,
-      "name": "Exigiste Mou",
-      "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
-    },
-    {
-      "added_at": "2026-07-16 21:00:20",
-      "album": {
         "name": "Exairesi",
         "url": "https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2026-07-16 21:00:20",
       "album": {
+        "name": "Exigiste Mou",
+        "url": "https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 173308,
+      "name": "Exigiste Mou",
+      "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
+    },
+    {
+      "added_at": "2026-07-16 21:00:20",
+      "album": {
         "name": "Etsi Exei Mathei",
         "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
       },
@@ -475,70 +475,6 @@
       "duration_ms": 190148,
       "name": "Etsi Exei Mathei",
       "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
-    },
-    {
-      "added_at": "2026-07-16 21:00:20",
-      "album": {
-        "name": "Deutera",
-        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
-      },
-      "artists": [
-        {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
-        }
-      ],
-      "duration_ms": 240222,
-      "name": "Deutera",
-      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
-    },
-    {
-      "added_at": "2026-07-16 21:00:20",
-      "album": {
-        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
-        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 305263,
-      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
-      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
-    },
-    {
-      "added_at": "2026-07-16 21:00:20",
-      "album": {
-        "name": "Se Thelo Parafora",
-        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Se Thelo Parafora",
-      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
-    },
-    {
-      "added_at": "2026-07-16 21:00:20",
-      "album": {
-        "name": "Matia Mou",
-        "url": "https://open.spotify.com/album/0Np3xakjySsq2L133xPFFo"
-      },
-      "artists": [
-        {
-          "name": "Ilias Vrettos",
-          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Matia Mou",
-      "url": "https://open.spotify.com/track/3cTnyjyZpo93SfoO4RAA6v"
     },
     {
       "added_at": "2026-07-16 21:00:20",
@@ -559,6 +495,54 @@
       "duration_ms": 162683,
       "name": "Xelogiastra",
       "url": "https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB"
+    },
+    {
+      "added_at": "2026-07-16 21:00:20",
+      "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+    },
+    {
+      "added_at": "2026-07-16 21:00:20",
+      "album": {
+        "name": "Matia Mou",
+        "url": "https://open.spotify.com/album/0Np3xakjySsq2L133xPFFo"
+      },
+      "artists": [
+        {
+          "name": "Ilias Vrettos",
+          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Matia Mou",
+      "url": "https://open.spotify.com/track/3cTnyjyZpo93SfoO4RAA6v"
+    },
+    {
+      "added_at": "2026-07-16 21:00:20",
+      "album": {
+        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
+        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 305263,
+      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
+      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
     },
     {
       "added_at": "2026-07-16 21:00:20",
@@ -599,18 +583,18 @@
     {
       "added_at": "2026-07-16 21:00:20",
       "album": {
-        "name": "Kati Xereis",
-        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
+        "name": "Se Thelo Parafora",
+        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
       },
       "artists": [
         {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
         }
       ],
-      "duration_ms": 164181,
-      "name": "Kati Xereis",
-      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
+      "duration_ms": 201925,
+      "name": "Se Thelo Parafora",
+      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
     },
     {
       "added_at": "2026-07-16 21:00:20",
@@ -631,6 +615,22 @@
       "duration_ms": 161785,
       "name": "Den Apantas",
       "url": "https://open.spotify.com/track/3KyUbMHPsZsPDoCTpSQ1DJ"
+    },
+    {
+      "added_at": "2026-07-16 21:00:20",
+      "album": {
+        "name": "Kati Xereis",
+        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 164181,
+      "name": "Kati Xereis",
+      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
     },
     {
       "added_at": "2026-07-16 21:00:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-16 21:00:20",
       "album": {
-        "name": "Pare Repo",
-        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Pare Repo",
-      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
-    },
-    {
-      "added_at": "2026-07-16 21:00:20",
-      "album": {
         "name": "Fortigo",
         "url": "https://open.spotify.com/album/66mrSDnk640euJ6tJ2d4Y2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 199648,
       "name": "Fortigo",
       "url": "https://open.spotify.com/track/2NndVcLMwvJt6NYnm7ufUs"
+    },
+    {
+      "added_at": "2026-07-16 21:00:20",
+      "album": {
+        "name": "Pare Repo",
+        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Pare Repo",
+      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
     },
     {
       "added_at": "2026-07-16 21:00:20",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-16 21:00:20",
       "album": {
-        "name": "Na Giriseis Pou",
-        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Na Giriseis Pou",
-      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
-    },
-    {
-      "added_at": "2026-07-16 21:00:20",
-      "album": {
         "name": "Sou Eleipsa H Oxi?",
         "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 239482,
       "name": "Sou Eleipsa H Oxi?",
       "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
+    },
+    {
+      "added_at": "2026-07-16 21:00:20",
+      "album": {
+        "name": "Kataramena Feggaria (Live)",
+        "url": "https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH"
+      },
+      "artists": [
+        {
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+        }
+      ],
+      "duration_ms": 180571,
+      "name": "Kataramena Feggaria - Live",
+      "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
     }
   ],
   "unique_name": "Laika tou Simera",

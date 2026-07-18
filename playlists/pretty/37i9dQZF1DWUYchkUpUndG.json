@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover: Awinnah",
-  "num_followers": 61024,
+  "num_followers": 61140,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 146000,
+      "name": "Your Way",
       "url": "https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ"
     },
     {
@@ -250,10 +250,14 @@
         {
           "name": "Intabayasedubai",
           "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
+        },
+        {
+          "name": "Dee R",
+          "url": "https://open.spotify.com/artist/3SoLAoN6YKvT5dzYtGxISi"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 255040,
+      "name": "Unyaka Omusha",
       "url": "https://open.spotify.com/track/47wMwviQLeGPGSGsWTzsJN"
     },
     {
@@ -530,10 +534,14 @@
         {
           "name": "Adura Ojofeitimi",
           "url": "https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V"
+        },
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 645365,
+      "name": "At the Center - Acoustic",
       "url": "https://open.spotify.com/track/206xVrplqZ3mawIiueAc0i"
     },
     {
@@ -1563,6 +1571,26 @@
     {
       "added_at": "2026-07-17 00:01:06",
       "album": {
+        "name": "Iga Asim Efela Ya",
+        "url": "https://open.spotify.com/album/4WyrYPePhwfbVanDR5444q"
+      },
+      "artists": [
+        {
+          "name": "Obed Thompson",
+          "url": "https://open.spotify.com/artist/7N1C7xGqJkH6xvBzxrtCml"
+        },
+        {
+          "name": "Praise Marshal",
+          "url": "https://open.spotify.com/artist/6qw4xT26HSNYTALPxgpyac"
+        }
+      ],
+      "duration_ms": 394176,
+      "name": "Iga Asim Efela Ya",
+      "url": "https://open.spotify.com/track/2JNTZWwo2BJOjNxyhLFbTJ"
+    },
+    {
+      "added_at": "2026-07-17 00:01:06",
+      "album": {
         "name": "Your Promises",
         "url": "https://open.spotify.com/album/6xqWHy9A7maYpbAdx0yRPq"
       },
@@ -1595,6 +1623,22 @@
       "duration_ms": 324047,
       "name": "Ebukhoneni",
       "url": "https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR"
+    },
+    {
+      "added_at": "2026-07-17 00:01:06",
+      "album": {
+        "name": "prayer of the prodigal",
+        "url": "https://open.spotify.com/album/3Y8CTy3VQdL9FdfatXqtLw"
+      },
+      "artists": [
+        {
+          "name": "boyWithAHeart",
+          "url": "https://open.spotify.com/artist/2S9tMnWI8Q60FdVdIN7XIT"
+        }
+      ],
+      "duration_ms": 159295,
+      "name": "prayer of the prodigal",
+      "url": "https://open.spotify.com/track/6xTW7yE6eOL4tNFRachhb2"
     },
     {
       "added_at": "2026-07-17 00:01:06",

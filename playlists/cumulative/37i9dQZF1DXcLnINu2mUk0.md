@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego
 
-923 songs - 2 day 0 hr 37 min
+923 songs - 2 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 | 2022-09-17 |
 | [Dona do Love](https://open.spotify.com/track/0yJDSlfiupPOhmBFFZaWrQ) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD) | [Dona do Love](https://open.spotify.com/album/5n6ndgfRieqDfbQ6vJhI7U) | 3:27 | 2024-08-09 | 2024-11-29 |
 | [Dona Do Meu Coração](https://open.spotify.com/track/46GDVz4wTsWVZonA1LkupU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF), [Mozzy Jr](https://open.spotify.com/artist/46FPvK1KPnpVOKHISFJhpB) | [Dona Do Meu Coração](https://open.spotify.com/album/766f2mw4eB8TdjXhvelZTL) | 3:57 | 2023-03-24 | 2023-04-14 |
+| [Dona Do Meu Mundo](https://open.spotify.com/track/48EoaMVhlBUIxeSyoa3mVf) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [Chilólo](https://open.spotify.com/album/3D4zOJWAtuuflXFWyY03j9) | 2:05 | 2026-07-16 |  |
 | [Done Playing](https://open.spotify.com/track/3DTlk6xaPJmhw5VD6Ej2GU) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Done Playing](https://open.spotify.com/album/7sPwClLJWJOaN5tapv58AL) | 2:45 | 2025-03-21 | 2025-05-02 |
 | [Dopamina](https://open.spotify.com/track/3jgeShFs3oWdp8fekiP4l8) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Mukab](https://open.spotify.com/artist/1rUoRdzeWCqoAn2EoSAj0X), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Bem\-Vindo Ao Meu Mundo](https://open.spotify.com/album/0PeQXhEAlEwBgDAYDfNcVE) | 4:37 | 2024-11-22 | 2025-02-13 |
 | [Dopamina](https://open.spotify.com/track/6sUgvCRoJWCcLO4DXk406c) | [WINDOH](https://open.spotify.com/artist/6JdeUWTrO9Ou3GD1b07Xgs) | [Dopamina](https://open.spotify.com/album/1WstldOS1EEqQNz5aDoMFR) | 3:27 | 2023-12-08 | 2024-01-05 |
@@ -840,7 +841,6 @@
 | [TOU NA MESMA](https://open.spotify.com/track/38pmZyhyQSY8hCOM65RHWC) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [TOU NA MESMA](https://open.spotify.com/album/5RfQqIydnZmOgqVAnD9upg) | 3:25 | 2024-04-18 | 2024-05-04 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-13 | 2025-07-29 |
 | [Toxic](https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [Toxic](https://open.spotify.com/album/2sfSoDqx6QohDOVG7mmV0f) | 2:22 | 2022-12-23 | 2023-01-21 |
-| [Track 6](https://open.spotify.com/track/48EoaMVhlBUIxeSyoa3mVf) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4) | [Chilólo](https://open.spotify.com/album/3D4zOJWAtuuflXFWyY03j9) | 0:00 | 2026-07-16 |  |
 | [Traumas](https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Traumas](https://open.spotify.com/album/6uFAcZ1DBNnP97huRU2Kxg) | 3:20 | 2026-07-09 |  |
 | [Triste \(Pensas Em Mim\)](https://open.spotify.com/track/2Ym9McKj9QGLjoe0MFaCzm) | [RAISSA](https://open.spotify.com/artist/44zte6km7DPWrgPJqOLu0m) | [Triste \(Pensas Em Mim\)](https://open.spotify.com/album/4NWM9iVA8OfQd9WI6oR0DK) | 3:18 | 2024-12-06 | 2025-01-17 |
 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 | 2024-02-16 | 2025-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,426 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,483 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 36 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
 | 37 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
 | 38 | [The Tracks Of My Tears](https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj) | 2:54 |
-| 39 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
-| 40 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Steve Wright’s Sunday Love Songs… Make\-Ups and Break\-Ups](https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ) | 2:59 |
-| 41 | [Didn't I Blow Your Mind This Time](https://open.spotify.com/track/77rb1lTjC0lpUA6ylghYL6) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Jackie Brown \- Music From The Mirmax Motion Picture](https://open.spotify.com/album/2RH9TP3pHVoQ9Lih5Dt0tf) | 3:20 |
-| 42 | [Now That We Found Love](https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Love Songs](https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt) | 4:41 |
-| 43 | [I Never Loved A Man \[The Way I Love You\]](https://open.spotify.com/track/3zyDPAVCR5FQuvkzV0vs5e) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Definitive Soul: Aretha Franklin](https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n) | 2:44 |
-| 44 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
+| 39 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
+| 40 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
+| 41 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Steve Wright’s Sunday Love Songs… Make\-Ups and Break\-Ups](https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ) | 2:59 |
+| 42 | [Didn't I Blow Your Mind This Time](https://open.spotify.com/track/77rb1lTjC0lpUA6ylghYL6) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Jackie Brown \- Music From The Mirmax Motion Picture](https://open.spotify.com/album/2RH9TP3pHVoQ9Lih5Dt0tf) | 3:20 |
+| 43 | [Now That We Found Love](https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Love Songs](https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt) | 4:41 |
+| 44 | [I Never Loved A Man \[The Way I Love You\]](https://open.spotify.com/track/3zyDPAVCR5FQuvkzV0vs5e) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Definitive Soul: Aretha Franklin](https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n) | 2:44 |
 | 45 | [Son Of A Preacher Man](https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Silver Collection](https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R) | 2:26 |
 | 46 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Hit Pac \- 5 Series](https://open.spotify.com/album/4JRwDa5DgT6eaU6UoosSEM) | 4:02 |
 | 47 | [Drift Away](https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Invincible](https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf) | 3:55 |

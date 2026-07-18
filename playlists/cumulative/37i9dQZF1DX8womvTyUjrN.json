@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ALMAS",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: FABIAN & ROBI",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 148363,
       "name": "ati!",
       "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
@@ -3008,6 +3008,28 @@
       "duration_ms": 218084,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/6D0oLnRc8CqyFv4AiZMMOG"
+    },
+    {
+      "album": {
+        "name": "Bonito D\u00eda",
+        "url": "https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "Bonito D\u00eda",
+      "url": "https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm"
     },
     {
       "album": {
@@ -4459,6 +4481,24 @@
     },
     {
       "album": {
+        "name": "como un im\u00e1n",
+        "url": "https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Arenas",
+          "url": "https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166867,
+      "name": "como un im\u00e1n",
+      "url": "https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0"
+    },
+    {
+      "album": {
         "name": "Como Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX"
       },
@@ -4652,7 +4692,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 196546,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0VE8s4QgvxcapGhaJfgPbS"
@@ -11010,7 +11050,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 137479,
       "name": "La Mala",
       "url": "https://open.spotify.com/track/5YckAHqUVvw9Xcgn5N2AH4"
@@ -11851,6 +11891,46 @@
     },
     {
       "album": {
+        "name": "LINEAS PARALELAS",
+        "url": "https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182820,
+      "name": "LINEAS PARALELAS",
+      "url": "https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf"
+    },
+    {
+      "album": {
+        "name": "llego tarde",
+        "url": "https://open.spotify.com/album/6xUBmNwvhBduRhRi3vL28B"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183209,
+      "name": "llego tarde",
+      "url": "https://open.spotify.com/track/09t6r5XchW9rcmAXtmEtRI"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s de los 30",
         "url": "https://open.spotify.com/album/3eX2h4SbKZdoVlqdOt8DIG"
       },
@@ -11916,7 +11996,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161826,
       "name": "Lo Bueno y Lo Malo",
       "url": "https://open.spotify.com/track/1pOmmOjExecXVlLvg2iC6P"
@@ -14584,7 +14664,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 142007,
       "name": "nada para nadie :(:",
       "url": "https://open.spotify.com/track/34vEg8VafGWSWPnNTpjhOv"
@@ -14892,6 +14972,24 @@
       "duration_ms": 135030,
       "name": "No Eras Para Tanto",
       "url": "https://open.spotify.com/track/44lL0sZVxO02J4p1IjTrYb"
+    },
+    {
+      "album": {
+        "name": "NO ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/16q6SR66jmXRvSURQO8WU7"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163054,
+      "name": "NO ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5xvkvXiMv2dSALNCho2AoH"
     },
     {
       "album": {
@@ -16933,6 +17031,24 @@
     },
     {
       "album": {
+        "name": "PELICULEAR",
+        "url": "https://open.spotify.com/album/41PRTcTS2TI4kvddMLrbbB"
+      },
+      "artists": [
+        {
+          "name": "SANTANDER",
+          "url": "https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141393,
+      "name": "PELICULEAR",
+      "url": "https://open.spotify.com/track/3nFGVyhcnu5rrYYWjYl6FF"
+    },
+    {
+      "album": {
         "name": "pelinegra",
         "url": "https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA"
       },
@@ -18586,7 +18702,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 204257,
       "name": "qu\u00e9 ves en m\u00ed?",
       "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
@@ -22953,6 +23069,24 @@
     },
     {
       "album": {
+        "name": "Venas full",
+        "url": "https://open.spotify.com/album/63nVdfpwcJdcOw1HdokqG2"
+      },
+      "artists": [
+        {
+          "name": "Danny Polo",
+          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146428,
+      "name": "Venas full",
+      "url": "https://open.spotify.com/track/0M1CpOvPHhAT3KOIRvl1xt"
+    },
+    {
+      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3fAhHCHL12IjUVUMmImIUs"
       },
@@ -23830,7 +23964,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 149090,
       "name": "\u00a1\u00a1\u00a1FELIZ ANIVERSARIO!!!",
       "url": "https://open.spotify.com/track/1fbMf6ddxF3g2rcTJSEupE"

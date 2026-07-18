@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27236,
+  "num_followers": 27235,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
+        "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
+        "url": "https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "\u3086\u308c\u308b",
+      "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
         "name": "ALLSEASON EP.",
         "url": "https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 250864,
       "name": "0\u2103\u306e\u65e5\u66dc",
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
-        "url": "https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Dengaryu",
-          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "\u3086\u308c\u308b",
-      "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -747,6 +747,22 @@
       "duration_ms": 204264,
       "name": "City Love City Love City Love",
       "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "orion",
+        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "orion",
+      "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -787,22 +803,6 @@
       "duration_ms": 273661,
       "name": "BLIZZARD",
       "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "orion",
-        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "orion",
-      "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "What's Going On?",
-        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
-      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "wizard",
         "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 237200,
       "name": "\u307e\u3063\u3057\u308d",
       "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "What's Going On?",
+        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
+      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
-        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
-      },
-      "artists": [
-        {
-          "name": "Shogo Hamada",
-          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
-        }
-      ],
-      "duration_ms": 311946,
-      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
-      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
@@ -1199,6 +1183,22 @@
       "duration_ms": 286000,
       "name": "SNOW SOUND",
       "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
+        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
+      },
+      "artists": [
+        {
+          "name": "Shogo Hamada",
+          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
+      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "BIBLE",
-        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
-      },
-      "artists": [
-        {
-          "name": "Seiko Matsuda",
-          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "hug",
@@ -1399,6 +1383,22 @@
       "duration_ms": 229655,
       "name": "hug",
       "url": "https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "BIBLE",
+        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
       "added_at": "2025-10-24 07:45:46",

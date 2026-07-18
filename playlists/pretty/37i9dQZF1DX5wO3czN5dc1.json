@@ -1,12 +1,12 @@
 {
   "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Francis Mercier",
-  "num_followers": 8506,
+  "num_followers": 8563,
   "original_name": "Afro House Pulse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2ND5F5jLvhNkEYtE7SpL1TQqKI",
+  "snapshot_id": "AAAAAJNzva3beVixjjm1HMiykKdWbHIc",
   "tracks": [
     {
       "added_at": "2026-07-16 22:00:09",
@@ -67,6 +67,34 @@
       "duration_ms": 372005,
       "name": "Hamba Nawe",
       "url": "https://open.spotify.com/track/2wehBHqjisx7V17lBLHGSZ"
+    },
+    {
+      "added_at": "2026-07-17 14:30:55",
+      "album": {
+        "name": "Tiki Tiki 2.0",
+        "url": "https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Tiki Tiki 2.0",
+      "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
     },
     {
       "added_at": "2026-07-16 22:00:09",
@@ -1127,30 +1155,6 @@
       "duration_ms": 259672,
       "name": "Kokareku",
       "url": "https://open.spotify.com/track/1GWIPbj3cqvtK7yWMq2F9o"
-    },
-    {
-      "added_at": "2026-07-16 22:00:09",
-      "album": {
-        "name": "Terra",
-        "url": "https://open.spotify.com/album/2QadlJyz48SNJ3l5EQRb66"
-      },
-      "artists": [
-        {
-          "name": "Eli Fola",
-          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
-        },
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
-        },
-        {
-          "name": "Innarius",
-          "url": "https://open.spotify.com/artist/3ByAHu681RFcsV7iaHsdZ9"
-        }
-      ],
-      "duration_ms": 230082,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/6Aizche508zAkLL3uWgqJP"
     }
   ],
   "unique_name": "Afro House Pulse",

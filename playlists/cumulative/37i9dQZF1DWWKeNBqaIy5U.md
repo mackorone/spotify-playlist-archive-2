@@ -4,7 +4,7 @@
 
 > The gentle sound of some of the greatest voices and instrumentalists in Jazz\. Your Jazz dinner soundtrack.
 
-137 songs - 9 hr 24 min
+138 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0oeUGF5YJJrH8I8dNKTLvl) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Or Bareket](https://open.spotify.com/artist/7hRyRSyX5ki2vDzjfedv3j) | [Conner's Days](https://open.spotify.com/album/6oVWqfFOSjt1W0tlMmLudj) | 4:22 | 2025-02-04 |  |
 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 | 2025-02-04 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2025-02-04 |  |
-| [Just In Time](https://open.spotify.com/track/4dNKUXGfUMsMSkmytyQY7T) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 4:10 | 2026-05-25 |  |
+| [Just In Time](https://open.spotify.com/track/4dNKUXGfUMsMSkmytyQY7T) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 4:10 | 2026-05-25 | 2026-07-18 |
 | [Kid's Know \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7r9IzVSqmcXukLSy8xun9j) | [Sonny Rollins Quintet](https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO), [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Plays For Bird \(RVG Remaster\)](https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C) | 11:35 | 2026-05-25 |  |
 | [Last Call](https://open.spotify.com/track/2RabGFYvECBmNrp31WxPVu) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Last Call](https://open.spotify.com/album/5tpS8Goe4jAsu0MXji3tx3) | 4:19 | 2026-05-25 |  |
 | [Late Date](https://open.spotify.com/track/4uPSrtreVDAqWGUk0lxJMu) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 5:08 | 2025-02-04 |  |
@@ -117,6 +117,7 @@
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2025-02-04 | 2026-05-26 |
 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2025-02-04 |  |
 | [Soon](https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 2:47 | 2025-02-04 |  |
+| [Stephanie](https://open.spotify.com/track/0kuEM0rW8eZgIEXoaqISxD) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:55 | 2026-05-25 |  |
 | [Sunset over Paris](https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 4:03 | 2025-02-04 | 2026-05-26 |
 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 | 2025-02-04 |  |
 | [Teach Me Tonight](https://open.spotify.com/track/391jzZNqMz98LcEPFQuBvr) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:51 | 2025-02-04 |  |

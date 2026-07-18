@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114358,
+  "num_followers": 114360,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -419,42 +419,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Kaybolur",
-        "url": "https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ"
-      },
-      "artists": [
-        {
-          "name": "Soft Analog",
-          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
-        }
-      ],
-      "duration_ms": 292794,
-      "name": "Kaybolur",
-      "url": "https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "\u00c7apk\u0131nca",
-        "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        },
-        {
-          "name": "Ozan Bayra\u015fa",
-          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
-        }
-      ],
-      "duration_ms": 218789,
-      "name": "\u00c7apk\u0131nca",
-      "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
       },
@@ -479,6 +443,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Kaybolur",
+        "url": "https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ"
+      },
+      "artists": [
+        {
+          "name": "Soft Analog",
+          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
+        }
+      ],
+      "duration_ms": 292794,
+      "name": "Kaybolur",
+      "url": "https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Hissettin mi",
         "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 212608,
       "name": "Hissettin mi",
       "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "\u00c7apk\u0131nca",
+        "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        },
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
+        }
+      ],
+      "duration_ms": 218789,
+      "name": "\u00c7apk\u0131nca",
+      "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
     },
     {
       "added_at": "2025-07-10 21:06:57",

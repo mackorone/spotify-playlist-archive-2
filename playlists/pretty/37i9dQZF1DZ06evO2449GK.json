@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 64505,
+  "num_followers": 64521,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAA0Tf9UVl8UM/sG2bsA/9S0",
+  "snapshot_id": "algfAAAAAADKOyhnEIR01b/R7Hq+Ohaz",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Jeronimo",
+          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Medellificaci\u00f3n",
+      "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Servicios Ambulatorioz",
         "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
       },
@@ -55,6 +75,38 @@
       "duration_ms": 201813,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2Dj24olIFAq8Z9MlWndo6U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "La T\u00edpica",
+      "url": "https://open.spotify.com/track/6vadvytXA6QudX5WDBpP2f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sancocho en Le\u00f1a",
+        "url": "https://open.spotify.com/album/0TgM0NVtPWfm1aPCYrbWaa"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Sancocho en Le\u00f1a",
+      "url": "https://open.spotify.com/track/1QUqKGKN1GvzA2qvAYi2cp"
     },
     {
       "added_at": null,
@@ -79,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
       },
       "artists": [
         {
@@ -88,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 171560,
-      "name": "La T\u00edpica",
-      "url": "https://open.spotify.com/track/6vadvytXA6QudX5WDBpP2f"
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs"
     },
     {
       "added_at": null,
@@ -111,58 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jeronimo",
-          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Medellificaci\u00f3n",
-      "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sancocho en Le\u00f1a",
-        "url": "https://open.spotify.com/album/0TgM0NVtPWfm1aPCYrbWaa"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Sancocho en Le\u00f1a",
-      "url": "https://open.spotify.com/track/1QUqKGKN1GvzA2qvAYi2cp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ba\u00f1o de Ruda",
         "url": "https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td"
       },
@@ -175,6 +175,22 @@
       "duration_ms": 189318,
       "name": "Ba\u00f1o de Ruda",
       "url": "https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
     },
     {
       "added_at": null,
@@ -195,22 +211,6 @@
       "duration_ms": 226893,
       "name": "El Malo de la Pel\u00edcula",
       "url": "https://open.spotify.com/track/66maa6bpHoJjsmtozGChDf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Suero Casero",
-      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Chang\u00f3",
-      "url": "https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 223461,
       "name": "El Rey del Despecho",
       "url": "https://open.spotify.com/track/5Andam5kQoD57q7XF8l0PE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Chang\u00f3",
+      "url": "https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "N.A.D.A.",
-      "url": "https://open.spotify.com/track/6VpPd9Ka03ktsqQ4ucW1BD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 235000,
       "name": "TNT",
       "url": "https://open.spotify.com/track/0eaXWFl4NKrL14zGqOVRt8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "N.A.D.A.",
+      "url": "https://open.spotify.com/track/6VpPd9Ka03ktsqQ4ucW1BD"
     },
     {
       "added_at": null,
@@ -383,46 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantone",
-        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
-      },
-      "artists": [
-        {
-          "name": "No Rules Clan",
-          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
-        },
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
-        }
-      ],
-      "duration_ms": 265488,
-      "name": "Quien Va",
-      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Rulaz Plazco",
-          "url": "https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s"
         }
       ],
-      "duration_ms": 231413,
-      "name": "G\u00e9nero Rural",
-      "url": "https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P"
+      "duration_ms": 365706,
+      "name": "Otra Canci\u00f3n Larga",
+      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
     },
     {
       "added_at": null,
@@ -447,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Rulaz Plazco",
+          "url": "https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s"
+        }
+      ],
+      "duration_ms": 231413,
+      "name": "G\u00e9nero Rural",
+      "url": "https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aranjuez",
         "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },
@@ -463,18 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+        "name": "Pantone",
+        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
       "artists": [
         {
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 365706,
-      "name": "Otra Canci\u00f3n Larga",
-      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
+      "duration_ms": 265488,
+      "name": "Quien Va",
+      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Antes del Meridiano",
+      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 231505,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Antes del Meridiano",
-      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Anestesia Local - Episodio 2",
+      "url": "https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 316002,
       "name": "La Esquina del Mariachi",
       "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Anestesia Local - Episodio 2",
-      "url": "https://open.spotify.com/track/2CjZxvQhqXQdMilp1tAJSX"
     },
     {
       "added_at": null,

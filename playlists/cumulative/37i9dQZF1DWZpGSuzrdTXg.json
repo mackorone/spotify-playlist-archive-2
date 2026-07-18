@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 220620,
       "name": "Angel Child",
       "url": "https://open.spotify.com/track/13oIo7ceUwD6RCxPfGJyhX"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 264568,
       "name": "Be Kind",
       "url": "https://open.spotify.com/track/1v2dSYojE7oigmkN9gPQ0v"
@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Figure Me Out",
+        "url": "https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb"
+      },
+      "artists": [
+        {
+          "name": "Julia Adriana",
+          "url": "https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166949,
+      "name": "Figure Me Out",
+      "url": "https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm"
+    },
+    {
+      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 227141,
       "name": "getting used to",
       "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
@@ -1968,6 +1986,24 @@
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Fall In Love Again (Piano Version)",
+        "url": "https://open.spotify.com/album/3TDmeOosg9b6N5u6Pi0Ck5"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "I Don't Want To Fall In Love Again - Piano Version",
+      "url": "https://open.spotify.com/track/0nMscuNPNrMkDiyyZ3zON6"
     },
     {
       "album": {
@@ -4351,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/1dQeY1B5fEGOpY8f6heGWY"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213375,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq"
+    },
+    {
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/30H3pEsM0Z3Fn6VR8hwu6H"
       },
@@ -4593,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "The Heron",
+        "url": "https://open.spotify.com/album/7JaPeFm4sXWVw8FMyqbtmq"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170857,
+      "name": "The Heron",
+      "url": "https://open.spotify.com/track/1NEzIEe4X1DxPUqQdz0SMc"
+    },
+    {
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -4662,7 +4734,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 63000,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw"

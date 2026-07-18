@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 190465,
       "name": "Craving",
       "url": "https://open.spotify.com/track/3W20jmVQZaiCnmVN9qsxDn"
@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
+      "album": {
         "name": "Lovers Till I\u2019m Gone",
         "url": "https://open.spotify.com/album/2UUhXldWviKuy7NuGrPeLi"
       },
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 189780,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
@@ -4358,7 +4376,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 135000,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/2xvExplR1KtOR6CgLFOa04"
@@ -4558,6 +4576,24 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
+    },
+    {
+      "album": {
+        "name": "Moment Of Silence",
+        "url": "https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187427,
+      "name": "Moment Of Silence",
+      "url": "https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc"
     },
     {
       "album": {
@@ -5202,6 +5238,36 @@
       "duration_ms": 301576,
       "name": "Over (feat. Yebba)",
       "url": "https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz"
+    },
+    {
+      "album": {
+        "name": "FATHERS",
+        "url": "https://open.spotify.com/album/1EeNAliCb18UrU84kfqWmh"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "PATCHWORK",
+      "url": "https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6"
     },
     {
       "album": {
@@ -5874,7 +5940,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 298908,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/60hmQ0aAaBC6Y7vrnFyKAf"
@@ -6386,7 +6452,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 233513,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
@@ -7670,7 +7736,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 202010,
       "name": "WAHALA RIDDIM",
       "url": "https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8"

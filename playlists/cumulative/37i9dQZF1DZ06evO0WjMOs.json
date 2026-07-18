@@ -1261,6 +1261,36 @@
     },
     {
       "album": {
+        "name": "Never Gonna Be Alone (HONNE Remix)",
+        "url": "https://open.spotify.com/album/6lfVjl4oZl6q9DTiJHOoax"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/7EXJJpgDl7y4szvrpUYj0s"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Never Gonna Be Alone (HONNE Remix)",
+      "url": "https://open.spotify.com/track/3z9rfhgooezVTMBrRvNz0l"
+    },
+    {
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },

@@ -1,33 +1,13 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 67907,
+  "num_followers": 67932,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAAAK+0FIKrO2j47jVRehrITj",
+  "snapshot_id": "algfAAAAAACpx4ru8y+wmVrAp3SLjph4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "TMS",
-        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Villegas",
-          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
-        }
-      ],
-      "duration_ms": 161824,
-      "name": "TMS",
-      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
-    },
     {
       "added_at": null,
       "album": {
@@ -199,6 +179,26 @@
       "duration_ms": 170469,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TMS",
+        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Villegas",
+          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
+        }
+      ],
+      "duration_ms": 161824,
+      "name": "TMS",
+      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
-        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 235775,
-      "name": "Ciega X \u00c9l",
-      "url": "https://open.spotify.com/track/4BUoYSsmLpclJV1oCp87wf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -495,22 +479,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nacimos Con Estrella",
-        "url": "https://open.spotify.com/album/2S0FbDrOTKRYbfTl462RV3"
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 226848,
-      "name": "Nacimos Con Estrella",
-      "url": "https://open.spotify.com/track/1Y3gC8sYbwQYA24CQwpfVu"
+      "duration_ms": 235775,
+      "name": "Ciega X \u00c9l",
+      "url": "https://open.spotify.com/track/4BUoYSsmLpclJV1oCp87wf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 210541,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+        "name": "Nacimos Con Estrella",
+        "url": "https://open.spotify.com/album/2S0FbDrOTKRYbfTl462RV3"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 210541,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+      "duration_ms": 226848,
+      "name": "Nacimos Con Estrella",
+      "url": "https://open.spotify.com/track/1Y3gC8sYbwQYA24CQwpfVu"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 166677,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Yo",
-        "url": "https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 174346,
-      "name": "Seg\u00fan Yo",
-      "url": "https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 191680,
       "name": "LALA",
       "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seg\u00fan Yo",
+        "url": "https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Seg\u00fan Yo",
+      "url": "https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi m\u00e1s grande error",
-        "url": "https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 143162,
-      "name": "Mi m\u00e1s grande error",
-      "url": "https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Dejaron Como 100pre",
         "url": "https://open.spotify.com/album/4f7OO4Z04tIGrCOeyx50Rv"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 172760,
       "name": "Me Dejaron Como 100pre",
       "url": "https://open.spotify.com/track/2qWuXhI0PW4QuVmyXqqyRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi m\u00e1s grande error",
+        "url": "https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 143162,
+      "name": "Mi m\u00e1s grande error",
+      "url": "https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy"
     },
     {
       "added_at": null,

@@ -3322,7 +3322,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "BAD BUNNY",
       "url": "https://open.spotify.com/track/4XeDO87WYRcMON0JlBIJa0"
@@ -7518,7 +7518,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 220080,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
@@ -9350,7 +9350,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187826,
       "name": "D\u00c9RYN\u00c9",
       "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
@@ -11046,7 +11046,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 181530,
       "name": "Feledn\u00e9d",
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
@@ -17064,7 +17064,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 197025,
       "name": "Kell egy p\u00e1r nap",
       "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
@@ -29098,7 +29098,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 271272,
       "name": "Sephora",
       "url": "https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE"
@@ -31150,7 +31150,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3cA772g1QiXO7hcAATxa97"
@@ -35456,6 +35456,28 @@
       "duration_ms": 187769,
       "name": "VAN HARAG",
       "url": "https://open.spotify.com/track/78kccOls0P0nkQj4TsNjeP"
+    },
+    {
+      "album": {
+        "name": "Van Valami (feat. RZMVS)",
+        "url": "https://open.spotify.com/album/3dBG6jdLkAFFLPd7KqVezj"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202919,
+      "name": "Van Valami (feat. RZMVS)",
+      "url": "https://open.spotify.com/track/0IM555Y5XQsro0o7vZa4y6"
     },
     {
       "album": {

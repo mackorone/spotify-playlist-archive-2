@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Con Luis Alfonso y Piso 21 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,956 likes - 87 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,981 likes - 87 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 76 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
 | 77 | [Así Es la Vida](https://open.spotify.com/track/4KhBwHZ2x6vCkzIjh6ffo9) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Así Es la Vida](https://open.spotify.com/album/56pIZUQqtx72HZLYvX4isJ) | 3:10 |
 | 78 | [Angel o Demonio](https://open.spotify.com/track/3n6PQ3RroS5Q1ZstcUBFfT) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9) | [Angel o Demonio](https://open.spotify.com/album/1rrKKryerzTqOR7BZ0lARv) | 3:19 |
-| 79 | [Copita de Licor](https://open.spotify.com/track/4Tz8tuCuqYuNJMumdZDkrt) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Copita De Licor](https://open.spotify.com/album/6wvzBAOtOXRmEmELpEKYLi) | 3:47 |
+| 79 | [Copita de Licor](https://open.spotify.com/track/4Tz8tuCuqYuNJMumdZDkrt) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/76tihqGo7DDyC8TnRnPA6X) | [Copita De Licor](https://open.spotify.com/album/6wvzBAOtOXRmEmELpEKYLi) | 3:47 |
 | 80 | [Te Extraño](https://open.spotify.com/track/41r4Bi95vksuMFgKx9yftT) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Te Extraño](https://open.spotify.com/album/1pdxfcoAl2QOW3WOC1R8zd) | 3:03 |
 | 81 | [OK](https://open.spotify.com/track/77T1Aq7ZuMrFFF80VrRZyh) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7lT1OPDd7NyTsdrP3r80NZ) | 2:21 |
 | 82 | [Muy Bandida](https://open.spotify.com/track/3COF1HSdwbzRrWCbEjEbdq) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [De Regreso al Dolor](https://open.spotify.com/album/5RIKYvJcZknT4zBYZJxFfV) | 3:01 |

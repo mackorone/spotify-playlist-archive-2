@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 37691,
+  "num_followers": 37695,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
+        "name": "De Tamme Boerenzoon",
+        "url": "https://open.spotify.com/album/2Fl945IbiGs1Ac6iBNV0mA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 van Duin",
+          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "De Tamme Boerenzoon",
+      "url": "https://open.spotify.com/track/0QdHoKxsUspo3PRFB5jXLg"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
         "name": "Toen Was Geluk Heel Gewoon",
         "url": "https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 312080,
       "name": "Dodenrit",
       "url": "https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
-        "name": "De Tamme Boerenzoon",
-        "url": "https://open.spotify.com/album/2Fl945IbiGs1Ac6iBNV0mA"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 van Duin",
-          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "De Tamme Boerenzoon",
-      "url": "https://open.spotify.com/track/0QdHoKxsUspo3PRFB5jXLg"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE"
+      },
+      "artists": [
+        {
+          "name": "Henk Wijngaard",
+          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Met De Vlam In De Pijp",
+      "url": "https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
         "name": "Rob 100",
         "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Hollandse Hits Top 100",
-        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
-      },
-      "artists": [
-        {
-          "name": "Gerard Hoeben",
-          "url": "https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E"
-        }
-      ],
-      "duration_ms": 166765,
-      "name": "Maar Wie Holt Van Mekaar",
-      "url": "https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Grootste Hits",
         "url": "https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv"
       },
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE"
+        "name": "Hollandse Hits Top 100",
+        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
       },
       "artists": [
         {
-          "name": "Henk Wijngaard",
-          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
+          "name": "Gerard Hoeben",
+          "url": "https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E"
         }
       ],
-      "duration_ms": 189706,
-      "name": "Met De Vlam In De Pijp",
-      "url": "https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm"
+      "duration_ms": 166765,
+      "name": "Maar Wie Holt Van Mekaar",
+      "url": "https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Liedjes van Toen - Grootste Hollandse Hits 1973-1974",
-        "url": "https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Van Toren",
-          "url": "https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb"
-        }
-      ],
-      "duration_ms": 126779,
-      "name": "H\u00e9 Kom Aan",
-      "url": "https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Heerlijk Hollands - Het Allerbeste van Vader Abraham",
         "url": "https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 280480,
       "name": "Jij En Ik Blijven Bestaan",
       "url": "https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Liedjes van Toen - Grootste Hollandse Hits 1973-1974",
+        "url": "https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Van Toren",
+          "url": "https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb"
+        }
+      ],
+      "duration_ms": 126779,
+      "name": "H\u00e9 Kom Aan",
+      "url": "https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79"
     },
     {
       "added_at": "2024-07-09 16:51:18",

@@ -1,6 +1,6 @@
 {
   "description": "If love is in the air then you've got your own gas tank. No roses. Just vibes.",
-  "num_followers": 125366,
+  "num_followers": 125382,
   "original_name": "Your Valentine's Mood",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-02-12 16:24:33",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "by now",
-      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2026-02-12 16:24:33",
-      "album": {
         "name": "Grit & Lust",
         "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2026-02-12 16:24:33",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "by now",
+      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
     },
     {
       "added_at": "2026-02-12 16:24:33",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-02-12 16:24:33",
       "album": {
+        "name": "OFA (Oxlade From Africa)",
+        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 148746,
+      "name": "KU LO SA",
+      "url": "https://open.spotify.com/track/6NYaKDhK6xOuylauWDuLrP"
+    },
+    {
+      "added_at": "2026-02-12 16:24:33",
+      "album": {
         "name": "Terminator (feat. Young Jonn)",
         "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 234024,
       "name": "Terminator (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
-    },
-    {
-      "added_at": "2026-02-12 16:24:33",
-      "album": {
-        "name": "OFA (Oxlade From Africa)",
-        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 148746,
-      "name": "KU LO SA",
-      "url": "https://open.spotify.com/track/6NYaKDhK6xOuylauWDuLrP"
     },
     {
       "added_at": "2026-02-12 16:24:33",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-12 16:24:33",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Trouble Maker",
-      "url": "https://open.spotify.com/track/7K9wl9YIk1nCnTKNE1K3ta"
-    },
-    {
-      "added_at": "2026-02-12 16:24:33",
-      "album": {
         "name": "A1 (Feeling Disorder)",
         "url": "https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo"
       },
@@ -891,18 +875,34 @@
     {
       "added_at": "2026-02-12 16:24:33",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/2rZkJYYmCodKXWFYhTM2Ms"
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 237377,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3n1CZHXSmwEvrC3n8trfLp"
+      "duration_ms": 155500,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/7K9wl9YIk1nCnTKNE1K3ta"
+    },
+    {
+      "added_at": "2026-02-12 16:24:33",
+      "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 175987,
+      "name": "Something Different",
+      "url": "https://open.spotify.com/track/7g2j8MYcb4PJsI2C9OzEsx"
     }
   ],
   "unique_name": "Your Valentine's Mood",

@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 234458,
+  "num_followers": 234502,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 148619,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
+      "duration_ms": 36966,
+      "name": "Enlightenment",
+      "url": "https://open.spotify.com/track/2eMyIBkiRlPYWNBBAGEZEx"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 36966,
-      "name": "Enlightenment",
-      "url": "https://open.spotify.com/track/2eMyIBkiRlPYWNBBAGEZEx"
+      "duration_ms": 148619,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -719,26 +719,6 @@
       "duration_ms": 191113,
       "name": "Mel Gel",
       "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
-        "name": "El Sue\u00f1o (feat. Tru-Skool)",
-        "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 234435,
-      "name": "El Sue\u00f1o (feat. Tru-Skool)",
-      "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -763,6 +743,26 @@
       "duration_ms": 172242,
       "name": "Midnight Desires",
       "url": "https://open.spotify.com/track/35imBoVE05swGqEdb17COU"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "El Sue\u00f1o (feat. Tru-Skool)",
+        "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        }
+      ],
+      "duration_ms": 234435,
+      "name": "El Sue\u00f1o (feat. Tru-Skool)",
+      "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
     },
     {
       "added_at": "2026-06-12 05:30:19",

@@ -4,7 +4,7 @@
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: The Devil Wears Prada 2
 
-220 songs - 12 hr 21 min
+222 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2024-01-13 | 2024-07-13 |
 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 | 2025-11-13 |  |
 | [Challengers: Match Point](https://open.spotify.com/track/7kSmQCEQHvSYrUUyPpAz8n) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 5:02 | 2024-04-26 | 2025-11-29 |
+| [Cherry Pie](https://open.spotify.com/track/0AGI7TpDj9MvEbmdU0py0p) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Cherry Pie](https://open.spotify.com/album/0KYNPQBnu83NxDeob6XpwB) | 3:13 | 2026-07-17 |  |
 | [Closer \(From “The Idea of You”\)](https://open.spotify.com/track/0MUt629ACWlm5ncrqlRlTv) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Closer \(From “The Idea of You”\)](https://open.spotify.com/album/7exYFqgMgVbJYQhpBCUtBi) | 2:47 | 2024-04-12 | 2024-12-21 |
 | [Coming Around Again](https://open.spotify.com/track/70SnbMZXxFVMPCEEXRaJdd) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Coming Around Again](https://open.spotify.com/album/04Gf1mGtzHDfQ4fI0I231I) | 3:52 | 2025-08-08 | 2026-01-03 |
 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2024-12-20 | 2025-10-04 |
@@ -90,6 +91,7 @@
 | [Hard Part](https://open.spotify.com/track/71BsK28ROXzJWOEkfkpQe4) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Original Sound \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bYYwd6JUXqv158IClqhQx) | 3:24 | 2026-05-08 |  |
 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 | 2026-05-22 |  |
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2024-01-13 | 2024-07-13 |
+| [Horns of a Bull](https://open.spotify.com/track/32Ijq5qKePYt71JfkNnsfi) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Lucky \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/3qsDzCbEPwZuDpnGGwGc4x) | 1:40 | 2026-07-17 |  |
 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 | 2025-11-10 | 2026-02-21 |
 | [How To Write A Song Without You \- Paul Rudd Version](https://open.spotify.com/track/1XzCiCGgNZkQ57K56OxqhW) | [Paul Rudd](https://open.spotify.com/artist/0QNcEAUUPt1qZoNtduSR4h) | [Power Ballad \(Music From The Motion Picture\)](https://open.spotify.com/album/1bYapUhIGFShycmARmnvT4) | 3:54 | 2026-05-29 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2024-01-13 | 2024-06-15 |

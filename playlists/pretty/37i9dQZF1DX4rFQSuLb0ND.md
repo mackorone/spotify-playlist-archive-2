@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rFQSuLb0ND.md) - [plain]
 
 > When the phone rings, you answer\. Listen to the music from Big Mistakes, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 31 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 31 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

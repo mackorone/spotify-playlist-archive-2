@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Chevy Beaulieu",
+  "description": "The home of Canadian country music. Cover: Noah Bridgen",
   "name": "North Country",
   "tracks": [
     {
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Chevrolaid Back",
+        "url": "https://open.spotify.com/album/6yhK51yO9ZwdNHWxf0M5fR"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Chevrolaid Back",
+      "url": "https://open.spotify.com/track/3CXEeYwt2GvT6n89ooL2j1"
+    },
+    {
+      "album": {
         "name": "Chevy Back",
         "url": "https://open.spotify.com/album/3M9fBBRnLYkoYAVswpmhXx"
       },
@@ -2686,6 +2704,24 @@
       "duration_ms": 212759,
       "name": "Dernier mot",
       "url": "https://open.spotify.com/track/4N0eBOtW24oTP3LbpbvsWj"
+    },
+    {
+      "album": {
+        "name": "Did July",
+        "url": "https://open.spotify.com/album/3e598b6XtajzmcOqdpcQUa"
+      },
+      "artists": [
+        {
+          "name": "Ben Chase",
+          "url": "https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190511,
+      "name": "Did July",
+      "url": "https://open.spotify.com/track/395xnAoaoi71sujp8KilMU"
     },
     {
       "album": {
@@ -4528,7 +4564,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187378,
       "name": "Have You Seen Her",
       "url": "https://open.spotify.com/track/4uIcP2VNylqEtSNt2f1Mwv"
@@ -4842,6 +4878,24 @@
       "duration_ms": 197036,
       "name": "Highway Money",
       "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/6fcjeLOJxPSGBRBz0QzFwk"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153998,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3LAPsp68xanrLI05uK1n6B"
     },
     {
       "album": {
@@ -6317,6 +6371,24 @@
     },
     {
       "album": {
+        "name": "King Size Trouble",
+        "url": "https://open.spotify.com/album/1gvgDEXRuM8VztzLVgZ0pr"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "King Size Trouble",
+      "url": "https://open.spotify.com/track/4C1sJovydhaZOGpqs2gcHm"
+    },
+    {
+      "album": {
         "name": "Kingdom of Fear",
         "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
       },
@@ -7353,6 +7425,24 @@
     },
     {
       "album": {
+        "name": "Men Into Boys",
+        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154448,
+      "name": "Men Into Boys",
+      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
+    },
+    {
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/3EISSb48UhturhlGFgHJw7"
       },
@@ -7382,7 +7472,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 205402,
       "name": "Mid Life",
       "url": "https://open.spotify.com/track/6rVUVt13g4qJ7Tlz2ZQEyG"
@@ -8788,7 +8878,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198278,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/6AJaDD64IxpDR3qntU56Pd"
@@ -9452,7 +9542,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 166834,
       "name": "Ride At Dawn",
       "url": "https://open.spotify.com/track/7pTM9SbEDlonGGyN8bvu4w"
@@ -9621,6 +9711,24 @@
     },
     {
       "album": {
+        "name": "Roxie",
+        "url": "https://open.spotify.com/album/7kzUd2BMEfHaVEon7FcbWZ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Lorette",
+          "url": "https://open.spotify.com/artist/5AJ5mQlyss1SLspTXxo424"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159274,
+      "name": "Roxie",
+      "url": "https://open.spotify.com/track/1hJspLJJHO012ZgLPEpf6M"
+    },
+    {
+      "album": {
         "name": "Ruin Your Bar",
         "url": "https://open.spotify.com/album/5ZhMQVDZzZ2VZa8CFKXxpv"
       },
@@ -9744,6 +9852,24 @@
       "duration_ms": 193846,
       "name": "Save This Country Soul",
       "url": "https://open.spotify.com/track/5htSYYeV2UKpIXF4iZMCt1"
+    },
+    {
+      "album": {
+        "name": "Saving Me",
+        "url": "https://open.spotify.com/album/70RJexXwAZ3XJL4QXip3MM"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221787,
+      "name": "Saving Me",
+      "url": "https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC"
     },
     {
       "album": {
@@ -10090,7 +10216,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 155689,
       "name": "Si j'avais su",
       "url": "https://open.spotify.com/track/2YFXeVtnFtx4kUBHZlKCFb"
@@ -10598,7 +10724,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 197224,
       "name": "Sorry - Country Version",
       "url": "https://open.spotify.com/track/4zjJQpfb5fKRsRnXLrMy7G"
@@ -10692,6 +10818,24 @@
       "duration_ms": 206684,
       "name": "Space",
       "url": "https://open.spotify.com/track/1Ykta2tKZCE7crfIZ85IBi"
+    },
+    {
+      "album": {
+        "name": "Spiraling",
+        "url": "https://open.spotify.com/album/1kQKRGY4GbruO2Ha1aIKOM"
+      },
+      "artists": [
+        {
+          "name": "Sadie Campbell",
+          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188511,
+      "name": "Spiraling",
+      "url": "https://open.spotify.com/track/7BSV22vWFpDHDWb13EXXoA"
     },
     {
       "album": {
@@ -10804,6 +10948,24 @@
       "duration_ms": 213819,
       "name": "Stoned Alone (feat. Caitlyn Smith)",
       "url": "https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC"
+    },
+    {
+      "album": {
+        "name": "Stop The Bleeding",
+        "url": "https://open.spotify.com/album/790pZAVns4b9VzBL51NXfy"
+      },
+      "artists": [
+        {
+          "name": "The Road Hammers",
+          "url": "https://open.spotify.com/artist/1JEhLfoNDGbqu40txdS8go"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227592,
+      "name": "Stop The Bleeding",
+      "url": "https://open.spotify.com/track/4ISoN4KS2mCdZlLTToWFtH"
     },
     {
       "album": {
@@ -12734,7 +12896,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 189102,
       "name": "When We Die",
       "url": "https://open.spotify.com/track/56NwNT9HF8iUCbFAUMe8T2"
@@ -13522,6 +13684,24 @@
       "duration_ms": 204053,
       "name": "\u00c0 contre-sens",
       "url": "https://open.spotify.com/track/4HCqSBVpd83ZcekvjuMbVc"
+    },
+    {
+      "album": {
+        "name": "\u00c0 deux",
+        "url": "https://open.spotify.com/album/0I5ismsSKnFfl9LzEuMHHZ"
+      },
+      "artists": [
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191582,
+      "name": "\u00c0 deux",
+      "url": "https://open.spotify.com/track/4Vk5DGChHThoUPzZKTuTaH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo"

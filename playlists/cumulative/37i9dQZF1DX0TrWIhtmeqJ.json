@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: Pozzy, Saiming, t.o",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: Zino Vinci",
   "name": "We Move",
   "tracks": [
     {
@@ -142,10 +142,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167195,
       "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "album": {
+        "name": "ACE!",
+        "url": "https://open.spotify.com/album/7mZ98a0PVl9RqCPrqN2UU7"
+      },
+      "artists": [
+        {
+          "name": "Ahmed, With Love.",
+          "url": "https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "ACE!",
+      "url": "https://open.spotify.com/track/3oHrVxPWSNEHXbKcOUIaV6"
     },
     {
       "album": {
@@ -272,7 +290,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161194,
       "name": "at the wheel",
       "url": "https://open.spotify.com/track/7DGHxfw67pmv0mX6bqd4hP"
@@ -446,7 +464,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 174285,
       "name": "Borrowed Time",
       "url": "https://open.spotify.com/track/4ZpVfizZaFMnFtzsfxZ9ls"
@@ -707,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Champagne & Lace",
+        "url": "https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158816,
+      "name": "Champagne & Lace",
+      "url": "https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn"
+    },
+    {
+      "album": {
         "name": "Chancer",
         "url": "https://open.spotify.com/album/6DuDANtEfqCWZ6HafjRWdT"
       },
@@ -736,7 +772,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 210688,
       "name": "Change",
       "url": "https://open.spotify.com/track/1KmrL1QJABCiUNsqtfOLht"
@@ -976,7 +1012,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 194113,
       "name": "Distance",
       "url": "https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8"
@@ -1132,6 +1168,32 @@
       "duration_ms": 281655,
       "name": "Down 4 (feat. Osquello)",
       "url": "https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06"
+    },
+    {
+      "album": {
+        "name": "Dripkid",
+        "url": "https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4"
+      },
+      "artists": [
+        {
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+        },
+        {
+          "name": "Faldwight",
+          "url": "https://open.spotify.com/artist/3lBMMN3ccThy7W3nFQuokf"
+        },
+        {
+          "name": "Howj",
+          "url": "https://open.spotify.com/artist/0OucfGg8WrZdIDBElyyP7l"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169436,
+      "name": "Dripkid",
+      "url": "https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV"
     },
     {
       "album": {
@@ -1304,7 +1366,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 109714,
       "name": "fathers sheep",
       "url": "https://open.spotify.com/track/3CylEDYJJCF9z7DzCpRSAk"
@@ -1484,7 +1546,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 203211,
       "name": "G Check",
       "url": "https://open.spotify.com/track/36hEPuSrVEBnqfZ6FXQDnk"
@@ -2093,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "just might",
+        "url": "https://open.spotify.com/album/3hhZoqXRPHmBYjwtJiK1Pg"
+      },
+      "artists": [
+        {
+          "name": "00ab",
+          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "just might",
+      "url": "https://open.spotify.com/track/3pribIFLgH5JaLLhn4QflK"
+    },
+    {
+      "album": {
         "name": "stone radio",
         "url": "https://open.spotify.com/album/3NI1FaapWxo9bLT20nsJOT"
       },
@@ -2324,7 +2404,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 140432,
       "name": "matcha bros",
       "url": "https://open.spotify.com/track/6j039F1GAbxnO4un1630wK"
@@ -2609,6 +2689,28 @@
     },
     {
       "album": {
+        "name": "I.G.",
+        "url": "https://open.spotify.com/album/2okLrkCqUkPFNSNbPOqvv3"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        },
+        {
+          "name": "Saruna Rayi",
+          "url": "https://open.spotify.com/artist/0DjnooL3sKmtynrKuOO4GZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Passenger Princess",
+      "url": "https://open.spotify.com/track/13W7cyv0wB5HhyGlNj9xyO"
+    },
+    {
+      "album": {
         "name": "#FEDERAL++",
         "url": "https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU"
       },
@@ -2805,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Random Yutes",
+        "url": "https://open.spotify.com/album/1ZblTU3ZEZ0FoBovc8omNx"
+      },
+      "artists": [
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Random Yutes",
+      "url": "https://open.spotify.com/track/372zFtfJxHdZgYxHuxtGK0"
+    },
+    {
+      "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/1QbU6iDI8cC2RNJyMUqPXj"
       },
@@ -2877,6 +2997,36 @@
     },
     {
       "album": {
+        "name": "Same Old Story",
+        "url": "https://open.spotify.com/album/2yCnCG9ZDTDAQMOvTCAG6t"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "CLARK",
+          "url": "https://open.spotify.com/artist/3oe253onRmaxNiz7NkNELQ"
+        },
+        {
+          "name": "DeeRiginal",
+          "url": "https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/4ohYnWl912l2yKZ46EDStE"
+    },
+    {
+      "album": {
         "name": "Same Shit",
         "url": "https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr"
       },
@@ -2946,7 +3096,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 224666,
       "name": "Say What's Up",
       "url": "https://open.spotify.com/track/5vG6DJBJAxuK5em5U14vis"
@@ -3192,6 +3342,24 @@
       "duration_ms": 211084,
       "name": "SNM",
       "url": "https://open.spotify.com/track/7gpKJqAxBdpXj2TDcdsYs9"
+    },
+    {
+      "album": {
+        "name": "SNOW ON THE TABLE",
+        "url": "https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4"
+      },
+      "artists": [
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126374,
+      "name": "SNOW ON THE TABLE",
+      "url": "https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x"
     },
     {
       "album": {
@@ -3662,6 +3830,24 @@
       "duration_ms": 193548,
       "name": "Tell Me!!!",
       "url": "https://open.spotify.com/track/1qvTzVA2VVi3nnknvaSJ20"
+    },
+    {
+      "album": {
+        "name": "THE DISTANCE INTERLUDE",
+        "url": "https://open.spotify.com/album/1kWskePNqs6cW1qiBiNPzK"
+      },
+      "artists": [
+        {
+          "name": "FromJerome",
+          "url": "https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "THE DISTANCE INTERLUDE",
+      "url": "https://open.spotify.com/track/008pjG0to2o4jFIP15im0m"
     },
     {
       "album": {

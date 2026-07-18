@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Lil Baby
 
-878 songs - 1 day 18 hr 14 min
+878 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Limitless](https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:21 | 2025-01-23 | 2025-02-21 |
 | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ) | 3:27 | 2026-01-22 | 2026-06-19 |
 | [Little Foot Big Foot](https://open.spotify.com/track/6rW3mLtDPEzJ00X3ubG6Mv) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Atavista](https://open.spotify.com/album/4Ji5PWAFzyDcrN0wRukYZb) | 3:46 | 2024-05-16 | 2024-06-22 |
+| [Living Large](https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 2:28 | 2026-07-16 |  |
 | [LLTK](https://open.spotify.com/track/6XNrW7oM3S7VsokV65VcVp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [LLTK](https://open.spotify.com/album/1D1ouEX6eIt8I3iF4RpqfV) | 2:52 | 2023-10-05 | 2023-11-03 |
 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 | 2026-05-29 |  |
 | [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 | 2025-08-28 | 2025-12-13 |
@@ -794,7 +795,6 @@
 | [Touch Tight](https://open.spotify.com/track/573IKEOcJbl5FOKLrZfoPl) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Touch Tight](https://open.spotify.com/album/4s6Wa5Rokzi0dmSmxdNFGm) | 1:31 | 2024-12-05 | 2025-03-21 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-10-11 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-09-22 | 2023-12-22 |
-| [Track 8](https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 0:00 | 2026-07-16 |  |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 | 2026-06-19 |
 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 | 2025-02-20 | 2025-05-30 |
 | [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 | 2025-02-20 | 2025-07-18 |

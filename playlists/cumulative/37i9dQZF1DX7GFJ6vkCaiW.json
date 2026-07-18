@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Ifan Seventeen",
+  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Rony Parulian",
   "name": "Video Musik Indonesia ",
   "tracks": [
     {
@@ -428,7 +428,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 211933,
       "name": "Dia Milikku",
       "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 186713,
       "name": "Get Over Him",
       "url": "https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 202659,
       "name": "Hoping You'll Be Mine",
       "url": "https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 242942,
       "name": "Jikalau Kau Cinta",
       "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 216959,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 262341,
       "name": "Masih Hatiku",
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 275688,
       "name": "Rindu Dalam Hati",
       "url": "https://open.spotify.com/track/1DhJgI2oAsDeDVSD5TNPCF"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 228386,
       "name": "Sedih Tak Berujung",
       "url": "https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 226956,
       "name": "Semenjak Ada Dirimu",
       "url": "https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG"
@@ -1886,6 +1886,24 @@
       "duration_ms": 207600,
       "name": "Teganya Kau",
       "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
+    },
+    {
+      "album": {
+        "name": "Teh Hijau",
+        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212879,
+      "name": "Teh Hijau",
+      "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
     },
     {
       "album": {

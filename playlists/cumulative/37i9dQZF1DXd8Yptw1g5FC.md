@@ -4,7 +4,7 @@
 
 > Bengü ve haftanın en iyi çıkışları!
 
-8,791 songs - 18 day 18 hr 14 min
+8,792 songs - 18 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [AKTIV II](https://open.spotify.com/track/0wtiwUuHTOonphD15w39an) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Reder](https://open.spotify.com/artist/1FgZxH6ZBRxrWjd0SriKY3) | [AKTIV II](https://open.spotify.com/album/3CGt2iYFmQlIGGiK5DGbmS) | 3:01 | 2026-02-05 | 2026-02-13 |
 | [Akıllanmadım](https://open.spotify.com/track/0xmEwyEMwxVyOv4gwWvdOh) | [Yves Nisha](https://open.spotify.com/artist/39OhF2kFnDtdD3bqcYha81) | [Ben vs Ben](https://open.spotify.com/album/1UNro4YAYahFjyRnxP5dWQ) | 2:02 | 2026-04-02 | 2026-04-10 |
 | [Akıllı Ol](https://open.spotify.com/track/2S2ZH4f6QeD04RYwlfBdVP) | [Serap Zincir](https://open.spotify.com/artist/2i8C04rTkgsWyROvLebxl9), [Zerrin Özer](https://open.spotify.com/artist/2CleFSxMoxkm2RduyMwcrm) | [Akıllı Ol](https://open.spotify.com/album/3Y30E9khF3FaWdvHpI4oDe) | 2:53 | 2025-08-21 | 2025-08-29 |
+| [Akşam Olur Karanlığa Kalırsın\- Gelin \- Live at Boğaziçi](https://open.spotify.com/track/2F4gakAdBZNZe6gnJbwXbW) | [Aynur](https://open.spotify.com/artist/6kZvCKj0MxeLEg35TXYZDd) | [Live Collection Series: Boğaziçi](https://open.spotify.com/album/0Z3cV7QlFPC4wAvY9k7y8H) | 5:22 | 2026-07-16 |  |
 | [Akşama Kaldım](https://open.spotify.com/track/2wk3wspfJCBIQ7ggh2jTEH) | [Çetin Dilsiz](https://open.spotify.com/artist/3xVNtr8NgvJI6VmJ2DoYUs) | [Akşama Kaldım](https://open.spotify.com/album/4kpGoHsiKri3IehBFidw3n) | 3:31 | 2025-09-25 | 2025-10-04 |
 | [Akşamüstü](https://open.spotify.com/track/1pOPhu4WVFg55GWzr7q5Un) | [Tual](https://open.spotify.com/artist/1pN6fkbVTYbHEhN8jl49dE) | [Akşamüstü](https://open.spotify.com/album/3V3QplpsEdfp53L9qSuJGW) | 3:54 | 2026-04-02 | 2026-04-10 |
 | [Akşamüstü](https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Akşamüstü](https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h) | 2:52 | 2026-06-11 | 2026-06-19 |
@@ -2868,6 +2869,7 @@
 | [Gece Boyu](https://open.spotify.com/track/3TmxBVYIHQr3khR7rSk0PU) | [Chef Bi](https://open.spotify.com/artist/6Cf83I8yeJUd9uIPEUV6IM) | [Gece Boyu](https://open.spotify.com/album/4GCpJE2DUHSWSjMNzO00Yh) | 2:25 | 2025-02-27 | 2025-03-07 |
 | [Gece Boyu](https://open.spotify.com/track/6mgGTVq2nDmhgi5gNhN8WA) | [Faruk Çeliker](https://open.spotify.com/artist/4WqUoA1EHo5wlkUGUbz2MR) | [Gece Boyu](https://open.spotify.com/album/2xxK0Imtdk765CmetS10kS) | 3:13 | 2025-10-02 | 2025-10-10 |
 | [gece boyu](https://open.spotify.com/track/1gqdcO1hJmAOu5WInY4m46) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [gece boyu](https://open.spotify.com/album/1Wk6HgqeLhcgclKNd8O5kQ) | 2:20 | 2025-10-23 | 2025-10-31 |
+| [Gece Gibi Gel](https://open.spotify.com/track/5VRNP8LVkHqd29nVncvWk8) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Yola Devam](https://open.spotify.com/album/2xr1eQGFSOzL2In0WrvrlH) | 2:09 | 2026-07-16 |  |
 | [Gece Gibi Gözleri](https://open.spotify.com/track/53Cddqwki7yiceIjp5IWZw) | [Kaan Küçük](https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ) | [Gece Gibi Gözleri](https://open.spotify.com/album/6dwyvKsxQhpAZFJOyLyY0y) | 2:24 | 2025-08-14 | 2025-08-22 |
 | [Gece Gündüz](https://open.spotify.com/track/6MvQ7C97uRWCOzXnYwYxMP) | [APHE](https://open.spotify.com/artist/2ZLabHfvJFop1azfpuLfYN), [BARO](https://open.spotify.com/artist/34tuu1IhVrXqgadfA6OCrT) | [Gece Gündüz](https://open.spotify.com/album/1VyUFavIyiNOabWk7RNusN) | 1:51 | 2025-08-14 | 2025-08-22 |
 | [Gece Puslu](https://open.spotify.com/track/1lzu13s6ag3F9RaZo4aodv) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Gece Puslu](https://open.spotify.com/album/7qySLENb2zHNqTWQ3CgKTw) | 2:39 | 2026-01-29 | 2026-02-06 |
@@ -5804,6 +5806,7 @@
 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 | 2026-01-23 | 2026-01-30 |
 | [overdose](https://open.spotify.com/track/7ita2TGdZrNU8J4PPBgi2u) | [ELARA](https://open.spotify.com/artist/43GTMffFpic3whTow0orG4) | [overdose](https://open.spotify.com/album/3ZvdcQ3JgJKjHYch3Xo9O2) | 2:52 | 2025-06-26 | 2025-07-04 |
 | [overdose](https://open.spotify.com/track/61xji2dJQmmCtnYu1qFlQC) | [Tutku](https://open.spotify.com/artist/5hgO3u5FjBwpPJZFP8W7DX) | [overdose](https://open.spotify.com/album/1TqJh0DuI4ojrqZncxfOJ9) | 2:06 | 2026-03-12 | 2026-03-20 |
+| [Overdue](https://open.spotify.com/track/05AgkmGMCFojowUN8Zh0pO) | [SIMYA](https://open.spotify.com/artist/7n5rcN15IpF9phKu2NQPuN) | [Overdue](https://open.spotify.com/album/57ZUdmMlSenIWdtbXSM78G) | 3:21 | 2026-07-16 |  |
 | [Overthink](https://open.spotify.com/track/0JuRcGO6mi97bGNbsGfXZ8) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC), [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT) | [Overthink](https://open.spotify.com/album/5NdPZ3nXaH17l96iJrVIaH) | 2:50 | 2025-04-10 | 2025-04-18 |
 | [OVERTHINK](https://open.spotify.com/track/1XuXvzasOeH3rqUHZO6Wkh) | [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [STVR](https://open.spotify.com/artist/0p8AsjpUmhwyKXYhSZuJNi), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [OVERTHINK](https://open.spotify.com/album/23tklyMUF8hJhrUkapIHVY) | 3:25 | 2026-05-07 | 2026-05-15 |
 | [Oy Dedim](https://open.spotify.com/track/5oS6MhVXXQ0bdoumQJw2US) | [Onur Atmaca](https://open.spotify.com/artist/2wlyVkL3KJmboFNEsUP5dB) | [Oy Dedim](https://open.spotify.com/album/0yrlNleOICb3BNDQRut8eB) | 3:29 | 2026-02-05 | 2026-02-13 |
@@ -7341,8 +7344,6 @@
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-20 |
 | [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-02 | 2026-07-10 |
 | [TOZPEMBE](https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [TOZPEMBE](https://open.spotify.com/album/6kUsjDLFky1XSIs2PefSyQ) | 2:18 | 2025-10-30 | 2025-11-07 |
-| [Track 4](https://open.spotify.com/track/5VRNP8LVkHqd29nVncvWk8) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Yola Devam](https://open.spotify.com/album/2xr1eQGFSOzL2In0WrvrlH) | 0:00 | 2026-07-16 |  |
-| [Track 5](https://open.spotify.com/track/2F4gakAdBZNZe6gnJbwXbW) | [Aynur](https://open.spotify.com/artist/6kZvCKj0MxeLEg35TXYZDd) | [Live Collection Series: Boğaziçi](https://open.spotify.com/album/0Z3cV7QlFPC4wAvY9k7y8H) | 0:00 | 2026-07-16 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Trafo](https://open.spotify.com/track/1UqEriTZm9GOREm4lZUcTF) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK) | [Trafo](https://open.spotify.com/album/3fyKbclKoyHYRSGcknCy81) | 3:23 | 2026-06-11 | 2026-06-19 |
 | [Transcend](https://open.spotify.com/track/2cbyiv8mzoTCCzCAx2SdYW) | [Erdem Tunali](https://open.spotify.com/artist/0nKW0tidLmlNBpIhcRmwta), [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Transcend](https://open.spotify.com/album/00pjxxOfsIntUfRjFtmf1l) | 4:28 | 2025-11-27 | 2025-12-05 |

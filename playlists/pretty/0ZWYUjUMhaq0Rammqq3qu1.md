@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > It's time to go: Breakup\. New job\. Death of a loved one\. New state \- or new country\. Whatever sparks YOUR Moving Day, this is your soundtrack for all the fond farewells, the act of leaving the past behind, the fresh starts, the new beginnings \- and the complete unknown ahead\. Move on!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,750 likes - 80 songs - 5 hr 15 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,734 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,33 @@
 {
-  "description": "New jazz for open minds. Cover: FATHERS",
-  "num_followers": 1050034,
+  "description": "New jazz for open minds. Cover: Joey Alexander",
+  "num_followers": 1050041,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGmKubxyhIldSylD340wzJb4ByN",
+  "snapshot_id": "AAAAAKZv9Jb7rMtfo3X3Lf74v6ljUIb6",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:00:49",
+      "album": {
+        "name": "Celestial Keeper",
+        "url": "https://open.spotify.com/album/6bCBFdvHhmsX05Du9Dyk4Y"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 383893,
+      "name": "Aversion",
+      "url": "https://open.spotify.com/track/3MDksTG6Kwv7er3F8fT3bj"
+    },
     {
       "added_at": "2026-07-10 04:00:27",
       "album": {
@@ -37,10 +57,10 @@
       "url": "https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6"
     },
     {
-      "added_at": "2026-07-03 04:00:42",
+      "added_at": "2026-07-17 04:00:49",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/2PbQgPKGJ5clOcuQXHwoqK"
+        "name": "Afro-Disco Makossa",
+        "url": "https://open.spotify.com/album/0FwADFYvE0aqCpn3UwCZbK"
       },
       "artists": [
         {
@@ -48,9 +68,117 @@
           "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
         }
       ],
-      "duration_ms": 262383,
-      "name": "Shake Down",
-      "url": "https://open.spotify.com/track/6jQ2AEAq0BKtaYgKNb5Gdz"
+      "duration_ms": 275482,
+      "name": "Afro-Disco Makossa",
+      "url": "https://open.spotify.com/track/0Z84DGwD7GhT2sbwui9KEU"
+    },
+    {
+      "added_at": "2026-07-17 04:00:49",
+      "album": {
+        "name": "Sentimental Things",
+        "url": "https://open.spotify.com/album/0yJu6n3gg2LXJcL1KsaaU9"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "Sentimental Things",
+      "url": "https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1"
+    },
+    {
+      "added_at": "2026-07-17 04:00:49",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/24uo5KRoLMnZUSlCSlDGdw"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6"
+    },
+    {
+      "added_at": "2026-07-17 04:00:49",
+      "album": {
+        "name": "Where moments wait",
+        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 204198,
+      "name": "Where moments wait",
+      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
+    },
+    {
+      "added_at": "2026-07-17 04:00:49",
+      "album": {
+        "name": "So You Want to Be A Woman",
+        "url": "https://open.spotify.com/album/2HGDzWpl0IXcUHaDxymfVx"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        }
+      ],
+      "duration_ms": 279396,
+      "name": "So You Want to Be A Woman",
+      "url": "https://open.spotify.com/track/3N1wQ3ZV7dgNWQRIuNBtEE"
+    },
+    {
+      "added_at": "2026-07-17 04:00:49",
+      "album": {
+        "name": "The Shieling \u2013 Companion Pieces",
+        "url": "https://open.spotify.com/album/5xltfiyOqFxB68wdLF4Eeb"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "Red Deer",
+      "url": "https://open.spotify.com/track/49wWdpiIvXzLMjyJnhusIT"
+    },
+    {
+      "added_at": "2026-07-17 04:00:49",
+      "album": {
+        "name": "Days Begin To Sing",
+        "url": "https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        },
+        {
+          "name": "Omagugu",
+          "url": "https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Days Begin To Sing",
+      "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
     },
     {
       "added_at": "2026-07-10 04:00:27",
@@ -139,26 +267,6 @@
       "duration_ms": 382208,
       "name": "\u1e3ci\u1e45walo \u1e3da Mubebi",
       "url": "https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt"
-    },
-    {
-      "added_at": "2026-06-26 04:00:18",
-      "album": {
-        "name": "Sometimes Love",
-        "url": "https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 307245,
-      "name": "Sometimes Love",
-      "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
     },
     {
       "added_at": "2026-06-26 04:00:18",
@@ -335,34 +443,6 @@
       "duration_ms": 235224,
       "name": "Gospel Andante",
       "url": "https://open.spotify.com/track/3Z72TmFgNcyvTL83UFEkSn"
-    },
-    {
-      "added_at": "2026-06-12 04:01:23",
-      "album": {
-        "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
-        "url": "https://open.spotify.com/album/4E7cjsGwW7DIIZfOFokVFH"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "Mirella Costa",
-          "url": "https://open.spotify.com/artist/7ESNrvtH8AEYW4pSbiOtx7"
-        },
-        {
-          "name": "Zaza Desiderio",
-          "url": "https://open.spotify.com/artist/6MKahwH3Pc4PjRPIKrngfb"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
-      "url": "https://open.spotify.com/track/23T156dMcEz78BKQLUg0D6"
     },
     {
       "added_at": "2026-06-12 04:01:23",
@@ -745,22 +825,6 @@
       "url": "https://open.spotify.com/track/4Bh2G7uXuQfbRgPx5UKnUV"
     },
     {
-      "added_at": "2026-05-08 04:26:21",
-      "album": {
-        "name": "Stella by Starlight",
-        "url": "https://open.spotify.com/album/7h9rzMS9L5WtrK4MIV1ZEe"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 305142,
-      "name": "Stella by Starlight",
-      "url": "https://open.spotify.com/track/2Xl9x1b2zk62jenZSuXapr"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "Monsters",
@@ -955,22 +1019,6 @@
       "duration_ms": 169793,
       "name": "Le Bracelet",
       "url": "https://open.spotify.com/track/4qaRroBSIJYMYtJvJ9rwKY"
-    },
-    {
-      "added_at": "2026-04-24 04:01:10",
-      "album": {
-        "name": "Ford the River",
-        "url": "https://open.spotify.com/album/1G191xGWbJe1LeMoB70pum"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 310405,
-      "name": "Ford the River",
-      "url": "https://open.spotify.com/track/2iB26PtZ2mwj2UNpoIHEey"
     },
     {
       "added_at": "2025-11-21 05:47:14",
@@ -1453,22 +1501,6 @@
       "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
     },
     {
-      "added_at": "2026-04-17 04:03:56",
-      "album": {
-        "name": "Younge",
-        "url": "https://open.spotify.com/album/37nNm3RVTz6KulC5r0O6ey"
-      },
-      "artists": [
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        }
-      ],
-      "duration_ms": 207984,
-      "name": "Different Directions",
-      "url": "https://open.spotify.com/track/4djRjoWKtRg33y7xJYKaWo"
-    },
-    {
       "added_at": "2026-03-20 04:00:54",
       "album": {
         "name": "Alkebulan",
@@ -1901,30 +1933,6 @@
       "url": "https://open.spotify.com/track/6y8wzT1tutKxp0R7VjkBem"
     },
     {
-      "added_at": "2025-10-31 04:00:33",
-      "album": {
-        "name": "Techno Logic",
-        "url": "https://open.spotify.com/album/768dTvGf2c479ASY1S0DAu"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        },
-        {
-          "name": "Theon Cross",
-          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
-        },
-        {
-          "name": "Ben LaMar Gay",
-          "url": "https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR"
-        }
-      ],
-      "duration_ms": 292346,
-      "name": "Gnu Blue",
-      "url": "https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix"
-    },
-    {
       "added_at": "2026-01-09 05:00:24",
       "album": {
         "name": "Friends",
@@ -2059,22 +2067,6 @@
       "duration_ms": 163199,
       "name": "Dusty But Digital pt.3 - Dusty But Digital",
       "url": "https://open.spotify.com/track/15ccg03xENvbgTdtw2OBfs"
-    },
-    {
-      "added_at": "2025-12-12 05:30:00",
-      "album": {
-        "name": "Scurry",
-        "url": "https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley Trio",
-          "url": "https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Scurry",
-      "url": "https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce"
     },
     {
       "added_at": "2026-01-16 05:00:39",

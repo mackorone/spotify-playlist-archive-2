@@ -1,12 +1,12 @@
 {
   "description": "Cannelle new mixtape = inspiring \u2728",
-  "num_followers": 510975,
+  "num_followers": 511271,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHz5z3iEswCD0XomEqgcVlMM+ZK8",
+  "snapshot_id": "AAAAAMGxWMzq3M7hd15DrmslIKVBkJVd",
   "tracks": [
     {
       "added_at": "2026-07-03 04:02:01",
@@ -23,6 +23,58 @@
       "duration_ms": 147600,
       "name": "Dis-Moi",
       "url": "https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA"
+    },
+    {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "Tweaker Poem",
+        "url": "https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE"
+    },
+    {
+      "added_at": "2026-07-17 04:02:03",
+      "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
+    },
+    {
+      "added_at": "2026-06-19 04:01:32",
+      "album": {
+        "name": "CONSTANTLY",
+        "url": "https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "duration_ms": 182368,
+      "name": "CONSTANTLY",
+      "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
     },
     {
       "added_at": "2026-07-10 04:02:12",
@@ -57,40 +109,24 @@
       "url": "https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW"
     },
     {
-      "added_at": "2026-07-10 04:02:12",
+      "added_at": "2026-07-17 04:02:03",
       "album": {
-        "name": "Tweaker Poem",
-        "url": "https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx"
+        "name": "OZEMPIC",
+        "url": "https://open.spotify.com/album/1uFVJQUCpdCghONNSqIbmS"
       },
       "artists": [
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE"
-    },
-    {
-      "added_at": "2026-06-19 04:01:32",
-      "album": {
-        "name": "CONSTANTLY",
-        "url": "https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "Euskoprincess",
+          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
         },
         {
-          "name": "slayr",
-          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
         }
       ],
-      "duration_ms": 182368,
-      "name": "CONSTANTLY",
-      "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
+      "duration_ms": 198400,
+      "name": "OZEMPIC",
+      "url": "https://open.spotify.com/track/2gFHy9JQHEGvGsAtd7zCW2"
     },
     {
       "added_at": "2026-06-12 04:01:44",
@@ -115,6 +151,38 @@
       "duration_ms": 143737,
       "name": "I Like",
       "url": "https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw"
+    },
+    {
+      "added_at": "2026-07-10 04:02:12",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/5bq0T1HikXAfh4Psg75aFL"
+      },
+      "artists": [
+        {
+          "name": "Westwood",
+          "url": "https://open.spotify.com/artist/3ROUUVgC0l5pYp3wLQQ05v"
+        }
+      ],
+      "duration_ms": 130259,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/4jZUTV3lMCxllZiIvWte9X"
+    },
+    {
+      "added_at": "2026-07-17 04:02:03",
+      "album": {
+        "name": "Love Love (Love Love)",
+        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Love Love (Love Love)",
+      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
     },
     {
       "added_at": "2026-07-03 04:02:01",
@@ -177,38 +245,6 @@
       "url": "https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T"
     },
     {
-      "added_at": "2026-07-10 04:02:12",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/5bq0T1HikXAfh4Psg75aFL"
-      },
-      "artists": [
-        {
-          "name": "Westwood",
-          "url": "https://open.spotify.com/artist/3ROUUVgC0l5pYp3wLQQ05v"
-        }
-      ],
-      "duration_ms": 130259,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/4jZUTV3lMCxllZiIvWte9X"
-    },
-    {
-      "added_at": "2026-07-03 04:02:01",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
-    },
-    {
       "added_at": "2026-05-15 04:02:23",
       "album": {
         "name": "GET UP! GET DOWN! (EVERYBODYYY)",
@@ -227,6 +263,22 @@
       "duration_ms": 148837,
       "name": "GET UP! GET DOWN! (EVERYBODYYY)",
       "url": "https://open.spotify.com/track/2nqn5XsYk0gsCGSAWbBFsR"
+    },
+    {
+      "added_at": "2026-07-03 04:02:01",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
     },
     {
       "added_at": "2026-07-10 04:02:12",
@@ -617,26 +669,6 @@
       "url": "https://open.spotify.com/track/0I0OmJNbs66ulFVXSlRMrr"
     },
     {
-      "added_at": "2026-06-19 04:01:32",
-      "album": {
-        "name": "stop being a hoe (ethanplus Remix)",
-        "url": "https://open.spotify.com/album/3EvRM1aJrGToiyxpbWcTvE"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        },
-        {
-          "name": "Ethanplus",
-          "url": "https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "stop being a hoe (ethanplus Remix)",
-      "url": "https://open.spotify.com/track/5MpZX0wdV9TycmyZewTwux"
-    },
-    {
       "added_at": "2026-06-12 04:01:44",
       "album": {
         "name": "CAIRO (I Like That...)",
@@ -883,26 +915,6 @@
       "duration_ms": 217672,
       "name": "Versailles Flow",
       "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
-    },
-    {
-      "added_at": "2026-04-24 14:28:02",
-      "album": {
-        "name": "the party is where u.r.",
-        "url": "https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf"
-      },
-      "artists": [
-        {
-          "name": "u.r.trax",
-          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
-        },
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "mind be so numb",
-      "url": "https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n"
     },
     {
       "added_at": "2026-04-24 04:02:28",
@@ -1551,22 +1563,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Moire",
-        "url": "https://open.spotify.com/album/5yxDD9kqU4961uarBjkhNi"
-      },
-      "artists": [
-        {
-          "name": "GRRL",
-          "url": "https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Moire",
-      "url": "https://open.spotify.com/track/64xwM6gRhzh9XlTCYFX6y3"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "It's You (underscores' \"It\u2019s U\" Remix)",
         "url": "https://open.spotify.com/album/68KwMNXlguxjAnGkNaEMaX"
       },
@@ -1827,22 +1823,6 @@
       "duration_ms": 168800,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "havefun",
-        "url": "https://open.spotify.com/album/24p67ENiw4sPj6f2diJqD9"
-      },
-      "artists": [
-        {
-          "name": "Kill Eva",
-          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
-        }
-      ],
-      "duration_ms": 88888,
-      "name": "havefun",
-      "url": "https://open.spotify.com/track/3scVrOGMEQoqL6UQvieavk"
     },
     {
       "added_at": "2026-03-27 04:00:20",

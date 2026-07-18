@@ -4,7 +4,7 @@
 
 > It's all about the song 🌷<br/>cover: Gracie Abrams
 
-961 songs - 2 day 5 hr 45 min
+962 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 | 2025-06-19 | 2025-11-07 |
 | [Amen](https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:17 | 2025-04-24 | 2025-05-16 |
 | [American Trail](https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [American Trail](https://open.spotify.com/album/5dSsYiQTgjXPRhF4D0IvFX) | 4:15 | 2025-05-02 | 2025-06-20 |
-| [and, breathe](https://open.spotify.com/track/3bptbDcVVQLYtHoLh1C2UD) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [and, breathe](https://open.spotify.com/album/6nBNznmNtEFT9yAwGa4cpK) | 4:14 | 2026-05-07 |  |
+| [and, breathe](https://open.spotify.com/track/3bptbDcVVQLYtHoLh1C2UD) | [Isaac Waddington \(Good Twin\)](https://open.spotify.com/artist/5ogMrK1dLz7iM5w6hFQhS1) | [and, breathe](https://open.spotify.com/album/6nBNznmNtEFT9yAwGa4cpK) | 4:14 | 2026-05-07 |  |
 | [Angel Boy](https://open.spotify.com/track/2OD7229uwYHl6kKDbfexOF) | [Bronagh](https://open.spotify.com/artist/0GBp7EJwvfJvoapb2TrTvC) | [Angel Boy](https://open.spotify.com/album/0xND0FVQpZdtpqQD9Um1IQ) | 3:39 | 2025-04-24 | 2025-05-23 |
 | [animal](https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [animal](https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz) | 4:10 | 2026-03-13 | 2026-06-26 |
 | [Another Body](https://open.spotify.com/track/5r19E26jFldVMw9EOt6wl9) | [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Another Body](https://open.spotify.com/album/60O5lTmaXrZMaWuKwqDrJD) | 2:54 | 2025-09-19 | 2026-01-15 |
@@ -615,6 +615,7 @@
 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 | 2025-08-22 | 2025-10-24 |
 | [Overdrawn](https://open.spotify.com/track/2biAEf8gmyqFzxCq9V6pVg) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Overdrawn](https://open.spotify.com/album/0OwJt3VZqdF0AjDsCLnY4M) | 4:16 | 2026-04-03 | 2026-06-12 |
 | [Parachute](https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Parachute](https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11) | 2:52 | 2026-05-14 | 2026-06-26 |
+| [Paradise](https://open.spotify.com/track/3mVd5gTmze4bWj0uvf6Jta) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Paradise](https://open.spotify.com/album/21vTpbjUDOu3vbAUBVHLtp) | 3:46 | 2026-07-17 |  |
 | [Paris](https://open.spotify.com/track/0DQ1ufVX26xAlUv9wu70sO) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx), [Zander](https://open.spotify.com/artist/61w5YWu30HuH0qRSsCdJ54) | [Paris](https://open.spotify.com/album/049mrMrFaAmuZfZpUReoTP) | 4:03 | 2025-10-23 | 2026-01-15 |
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-16 | 2025-03-21 |
 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy) | 4:50 | 2025-11-14 | 2026-03-20 |
@@ -632,7 +633,7 @@
 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 | 2025-05-09 | 2025-08-08 |
 | [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-03 | 2025-05-03 |
 | [Planets](https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:39 | 2025-07-17 | 2025-11-07 |
-| [Plans](https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Plans](https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk) | 3:51 | 2026-06-25 |  |
+| [Plans](https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Plans](https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk) | 3:51 | 2026-06-25 | 2026-07-18 |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-05-31 | 2024-10-05 |
 | [Please Don't Hate Me](https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Please Don't Hate Me](https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn) | 3:21 | 2026-01-16 | 2026-04-17 |
 | [Please Don't Hate Me](https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Please Don't Hate Me](https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd) | 3:34 | 2025-10-16 | 2026-03-13 |

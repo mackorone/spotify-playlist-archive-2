@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALIE BLACKCOBRA",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP KRIT, NEX OF BUS, ONGLEE PROXIE, GELBOYS (OST.GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19)",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -288,6 +288,24 @@
       "duration_ms": 242181,
       "name": "9 \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB"
+    },
+    {
+      "album": {
+        "name": "99 Degrees",
+        "url": "https://open.spotify.com/album/4Is832uPcdyCDQ2dupadBg"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "99 Degrees",
+      "url": "https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct"
     },
     {
       "album": {
@@ -2009,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Better Life",
+        "url": "https://open.spotify.com/album/3oWsL8nTThyJrytCDG2HN3"
+      },
+      "artists": [
+        {
+          "name": "WOLF & WANDER",
+          "url": "https://open.spotify.com/artist/7wdvxj46daKf9awePzBHSd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223217,
+      "name": "Better Life",
+      "url": "https://open.spotify.com/track/5dApXF5URhY6jDBnNpTocr"
+    },
+    {
+      "album": {
         "name": "better than he does",
         "url": "https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF"
       },
@@ -3034,7 +3070,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -6810,7 +6846,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -9828,7 +9864,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -12847,6 +12883,28 @@
     },
     {
       "album": {
+        "name": "ON&OFF (feat. ALIE BLACKCOBRA)",
+        "url": "https://open.spotify.com/album/3l2g8O8hS67OF1hHe6yRUr"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        },
+        {
+          "name": "ALIE BLACKCOBRA",
+          "url": "https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "ON&OFF (feat. ALIE BLACKCOBRA)",
+      "url": "https://open.spotify.com/track/2cVkSqGKhDJzbqLDcVz6O9"
+    },
+    {
+      "album": {
         "name": "Private Blizzard",
         "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
       },
@@ -13192,7 +13250,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 203812,
       "name": "OVERHOPED",
       "url": "https://open.spotify.com/track/1lU1eiiKqkzxfDRsxygGlP"
@@ -13572,6 +13630,24 @@
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
+    },
+    {
+      "album": {
+        "name": "CYANTIST",
+        "url": "https://open.spotify.com/album/5bN3mBhK6SmCvYzWo83ar6"
+      },
+      "artists": [
+        {
+          "name": "atom chanakan",
+          "url": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284583,
+      "name": "PLEASE",
+      "url": "https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17"
     },
     {
       "album": {
@@ -16092,7 +16168,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -16876,7 +16952,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 200749,
       "name": "Stuck in Between",
       "url": "https://open.spotify.com/track/6qoPv5gXmFX3yHCp1cU0s2"
@@ -21636,7 +21712,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 142952,
       "name": "\u0e04\u0e38\u0e13\u0e19\u0e32\u0e22\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25",
       "url": "https://open.spotify.com/track/7IW4BkaGY2ageuJP6uoZeP"
@@ -21680,6 +21756,46 @@
       "duration_ms": 260500,
       "name": "\u0e08\u0e32\u0e23\u0e22\u0e4c",
       "url": "https://open.spotify.com/track/148XXIHC5yeUDkOvlByiPM"
+    },
+    {
+      "album": {
+        "name": "amor",
+        "url": "https://open.spotify.com/album/7xR7EizDHwZvNXG136xtoS"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        },
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222858,
+      "name": "\u0e08\u0e33\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (feat. Patrickananda)",
+      "url": "https://open.spotify.com/track/4IhpuWgVMk3VI8F6aRErB0"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22 (The Wall)",
+        "url": "https://open.spotify.com/album/5ZVkGe0DRxrumm7blAE4mn"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288076,
+      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22 (The Wall)",
+      "url": "https://open.spotify.com/track/3IJO30sBHgv6xpllqjaZPk"
     },
     {
       "album": {
@@ -21921,6 +22037,28 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e14\u0e39\u0e41\u0e25\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e14\u0e35 (To Hold You)",
+        "url": "https://open.spotify.com/album/6DhJ9afAR0wkuhH86A8fGj"
+      },
+      "artists": [
+        {
+          "name": "MEAN Band",
+          "url": "https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG"
+        },
+        {
+          "name": "THAI OF BUS",
+          "url": "https://open.spotify.com/artist/0Z58UI5AaJeKNRlDlCIhrs"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235167,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e14\u0e39\u0e41\u0e25\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e14\u0e35 (To Hold You)",
+      "url": "https://open.spotify.com/track/1ZQlJDvEcuzJfZiA0LP43m"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e19\u0e2d\u0e35\u0e01\u0e19\u0e34\u0e14 (feat. KHEM FREEHAND)",
         "url": "https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI"
       },
@@ -21998,7 +22136,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 241973,
       "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/5XhAqG6dRhLYJb2QF6WhL4"
@@ -22020,6 +22158,36 @@
       "duration_ms": 255466,
       "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
       "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e31\u0e01\u0e40\u0e21\u0e19\u0e41\u0e1f\u0e19 (I STAN YOU) [From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19]",
+        "url": "https://open.spotify.com/album/3U36l9cCWzHB6LFR3oNmLY"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        },
+        {
+          "name": "NEX OF BUS",
+          "url": "https://open.spotify.com/artist/3anNEqSsXtlYGvEbNI8AU8"
+        },
+        {
+          "name": "Onglee PROXIE",
+          "url": "https://open.spotify.com/artist/0rO2jAMF4BotxgJi9yi4rX"
+        },
+        {
+          "name": "GELBOYS",
+          "url": "https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221828,
+      "name": "\u0e1b\u0e31\u0e01\u0e40\u0e21\u0e19\u0e41\u0e1f\u0e19 (I STAN YOU) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/2fSEAfvpGg4drnweGfCMQu"
     },
     {
       "album": {
@@ -22200,6 +22368,24 @@
       "duration_ms": 202105,
       "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
       "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e1c\u0e39\u0e49\u0e08\u0e33\u0e17\u0e35\u0e48\u0e14\u0e35 (Memory)",
+        "url": "https://open.spotify.com/album/7KZWbJOjrc3QdMj57WGZ2m"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e1c\u0e39\u0e49\u0e08\u0e33\u0e17\u0e35\u0e48\u0e14\u0e35 (Memory)",
+      "url": "https://open.spotify.com/track/1PFVwV88MIfPeNOrTQ9gnN"
     },
     {
       "album": {
@@ -22385,6 +22571,28 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01\u0e40\u0e2b\u0e2d\u0e30 (Euphoria)",
+        "url": "https://open.spotify.com/album/200YDiaRP2nBmFjl1XhQqR"
+      },
+      "artists": [
+        {
+          "name": "FANG",
+          "url": "https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre"
+        },
+        {
+          "name": "JINWOOK OF BUS",
+          "url": "https://open.spotify.com/artist/5fN4TLKABIQWkolg9NnUrk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197063,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01\u0e40\u0e2b\u0e2d\u0e30 (Euphoria)",
+      "url": "https://open.spotify.com/track/0c8sbXSIeaqwzxCvMzSfAP"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e25\u0e38\u0e21\u0e2d\u0e32\u0e01\u0e32\u0e28",
         "url": "https://open.spotify.com/album/4L5tegjCajfCK99LLZ0Kk0"
       },
@@ -22400,6 +22608,24 @@
       "duration_ms": 267000,
       "name": "\u0e2b\u0e25\u0e38\u0e21\u0e2d\u0e32\u0e01\u0e32\u0e28",
       "url": "https://open.spotify.com/track/75FEJ1dyr39vGXC20EyQYb"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2d\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e17\u0e19\u0e40\u0e21\u0e49\u0e19\u0e17\u0e4c",
+        "url": "https://open.spotify.com/album/60vLpPLaRxohZ1D8gJQRP1"
+      },
+      "artists": [
+        {
+          "name": "Loso",
+          "url": "https://open.spotify.com/artist/68ASbzKA9iG2gd7JRfPD71"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307840,
+      "name": "\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e22\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/6mGIzdCMlkuvBpZ8LhXmJS"
     },
     {
       "album": {
@@ -22526,7 +22752,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 221194,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e25\u0e32 (Last Song)",
       "url": "https://open.spotify.com/track/5Jr4BqVWFxGKkX947UfBky"
@@ -22562,7 +22788,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 292511,
       "name": "\u0e41\u0e2a\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/35mKMMSq2zSWW5D0tTrR7d"
@@ -22732,7 +22958,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 266000,
       "name": "\u0e44\u0e21\u0e48\u0e41\u0e1a\u0e48\u0e07\u0e43\u0e04\u0e23 (Mine)",
       "url": "https://open.spotify.com/track/3tyMR3PR22Zl4arWBydCf2"

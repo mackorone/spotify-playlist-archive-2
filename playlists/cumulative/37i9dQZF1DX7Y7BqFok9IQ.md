@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-421 songs - 1 day 3 hr 4 min
+422 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Black Speakers](https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Black Speakers](https://open.spotify.com/album/3qFMig0PZVFxzrh9z6M8hm) | 4:24 | 2022-08-26 |  |
 | [Blinded](https://open.spotify.com/track/027LnYtc3AvNAtEPVljiRB) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Blinded](https://open.spotify.com/album/5UR9aMOqwtsE6usHfRxMsW) | 2:50 | 2021-10-08 | 2022-07-27 |
 | [Blow Wind Blow](https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Blow Wind Blow](https://open.spotify.com/album/1rQr3i5EBvvfaDhSG4rnRs) | 3:28 | 2024-06-21 | 2024-09-07 |
+| [Blowin’ Up](https://open.spotify.com/track/2Zb35W62gjWrWIOWVgZ1UA) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Blowin’ Up](https://open.spotify.com/album/73t1D1zXiMmhniINLqvo4r) | 3:16 | 2026-07-17 |  |
 | [Blue Sky](https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Blue Sky](https://open.spotify.com/album/2KUwhFMUmvRLG1muibvI4r) | 3:31 | 2021-10-22 |  |
 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-07-12 | 2024-09-21 |
 | [Blues Is Still Alive](https://open.spotify.com/track/65JFEj7OsgvyTZ89Y4DiRV) | [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ), [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues Is Still Alive](https://open.spotify.com/album/3O6B52e8n83PbZAU8CkSWS) | 5:29 | 2024-11-08 |  |
@@ -346,7 +347,7 @@
 | [STREET'S QUEEN](https://open.spotify.com/track/71wyFs3xWEHVCw8HBOXndJ) | [The Dream Roll](https://open.spotify.com/artist/0i36lN49PG20OUnWhEwy2x) | [SAVE YOUR SOUL](https://open.spotify.com/album/7wZHrhHK4AIjv3vhB2p4of) | 3:18 | 2022-04-08 |  |
 | [Stronger](https://open.spotify.com/track/2gAxL2K1oGqFVZANHsfAkP) | [AK & The Red Kites](https://open.spotify.com/artist/2EXwo4zlnJz7u1o1wBhiHM) | [Proverbial Storm](https://open.spotify.com/album/6dZOYVVpuX85auwFnikAAB) | 2:27 | 2024-06-28 |  |
 | [Struggling With The Bottle](https://open.spotify.com/track/5G1lsldy6mzaL8OXb721vS) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/4zio3LtIBfWx2jroLprxvo) | 2:39 | 2026-02-27 |  |
-| [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 |  |
+| [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 | 2026-07-18 |
 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 | 2025-05-17 |
 | [Suit in the Back](https://open.spotify.com/track/53vycZVVC4nbAgwQy3q5YU) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/3RqzS1i0EjYgPr25RLZcfB) | 2:53 | 2020-10-16 | 2024-04-19 |
 | [Sunshine Lady](https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6) | [The Shelter People](https://open.spotify.com/artist/3m1rUUzCaulww0FUM2Gw1i) | [Sunshine Lady / Rock n Roll](https://open.spotify.com/album/0LZ5hsTglEgJovaQgDru6v) | 3:01 | 2022-06-03 |  |

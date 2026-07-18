@@ -3641,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Rave It",
+        "url": "https://open.spotify.com/album/5P9aENKuMJtZUjFJkXvukM"
+      },
+      "artists": [
+        {
+          "name": "Ian Redman",
+          "url": "https://open.spotify.com/artist/1ZWdwbBleF8o1Pyrq46dBa"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195515,
+      "name": "Rave It",
+      "url": "https://open.spotify.com/track/7i7St3C83Y4x0ZGRCeBPVw"
+    },
+    {
+      "album": {
         "name": "Ravers Of The Night",
         "url": "https://open.spotify.com/album/0qiOQ5yVlLsBegEmeVUvFv"
       },

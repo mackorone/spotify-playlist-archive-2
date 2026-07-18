@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Montreal, Lagos, Bogotá, & beyond 🌎 featuring KALLITECHNIS
 
-254 songs - 16 hr 0 min
+256 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dreams](https://open.spotify.com/track/1xJkH2q9mG9f9zkaiPfzEJ) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dreams](https://open.spotify.com/album/3MpFQSHLMig7WlGYvYxFBw) | 4:08 | 2026-02-27 |  |
 | [Drowned in Blue](https://open.spotify.com/track/3Oi6tPZNQizEDBfXVtyzn2) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Drowned in Blue](https://open.spotify.com/album/716cHuoRhH3rDq34HaTBE9) | 2:58 | 2025-11-07 |  |
 | [DTPA](https://open.spotify.com/track/2pW1kEB7RK8CdumAiXBlXr) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Licious](https://open.spotify.com/album/0OiY4E01FdNSKkpmmWmjqP) | 2:26 | 2025-03-14 |  |
+| [Dynamite](https://open.spotify.com/track/2YE3TKZiHd8hdNeBDOm9rb) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Implicit](https://open.spotify.com/artist/05BTvrKFB0nETZbTezuif5) | [Dynamite](https://open.spotify.com/album/25LmHRFEWOj2KCMIeJv5hU) | 3:00 | 2026-07-17 |  |
 | [Elevation](https://open.spotify.com/track/0CXvQkUxr08aHn7KmF4AiA) | [Luke Gambini](https://open.spotify.com/artist/7GJL9SCd2uTBYRzWcRLLsN) | [Elevation](https://open.spotify.com/album/7bbsbkrBsK0VdBypOrPyEd) | 3:49 | 2026-05-15 | 2026-05-19 |
 | [Eminesence \- Yoruba Soul Mix](https://open.spotify.com/track/33K98Xp6WFHwGO9gugW16F) | [Vince Watson](https://open.spotify.com/artist/2Y3cH3SUZL9XKfKD3novXt), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Eminesence \- The Mixes](https://open.spotify.com/album/2TXM8SqZdBwghajTbatSnc) | 5:46 | 2026-07-06 |  |
 | [Emotional Intelligence](https://open.spotify.com/track/3yMYs3jJdAPxMgqb0CYZUG) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Dave Koor](https://open.spotify.com/artist/7bWbTT6EfOWbzRmBCSGUhq) | [Chaos In The CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 6:20 | 2025-02-21 | 2025-08-30 |
@@ -84,7 +85,7 @@
 | [fourth wave](https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [fourth wave](https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt) | 4:24 | 2025-03-28 | 2025-08-30 |
 | [freedom](https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [freedom](https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc) | 3:38 | 2026-05-15 |  |
 | [Funky Funghi](https://open.spotify.com/track/4dMdH1MAZDI0ovK5ROOfmi) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Tezeta](https://open.spotify.com/album/0ljstUxoD15pelifv3t8AT) | 4:42 | 2026-05-29 |  |
-| [Girl \(I Need You\)](https://open.spotify.com/track/04fa1bVyDW6kxN42a2uol3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32), [Chris William](https://open.spotify.com/artist/0939OZsdw0LX2vhbJbCBC2) | [Girl \(I Need You\)](https://open.spotify.com/album/1JNaRsbF8YUIf4EXE8z8fi) | 5:56 | 2026-05-08 |  |
+| [Girl \(I Need You\)](https://open.spotify.com/track/04fa1bVyDW6kxN42a2uol3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32), [Chris William](https://open.spotify.com/artist/0939OZsdw0LX2vhbJbCBC2) | [Girl \(I Need You\)](https://open.spotify.com/album/1JNaRsbF8YUIf4EXE8z8fi) | 5:56 | 2026-05-08 | 2026-07-18 |
 | [Glass Walls](https://open.spotify.com/track/12KAzEuVYaPNzWMcfn0veK) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Glass Walls](https://open.spotify.com/album/1r37hTRFSarNIbdLkng0D9) | 3:05 | 2026-02-06 | 2026-04-04 |
 | [Glimpses](https://open.spotify.com/track/3XE67IbSDQQDOhfCM2pCo4) | [NRMNT](https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA) | [Glimpses](https://open.spotify.com/album/5d5nNbF2KDP4LQy6pOxzuw) | 3:27 | 2026-01-16 | 2026-04-11 |
 | [Go together.](https://open.spotify.com/track/0gmKaocfYGg1wq7fdURfas) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Go together.](https://open.spotify.com/album/3fNFrgvsQr2ubJ9afPhvnw) | 2:32 | 2026-05-29 |  |
@@ -147,6 +148,7 @@
 | [Metric Rules](https://open.spotify.com/track/2IF9pQyd0K1BV7OC0Z2a0n) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [When Lagos Sleeps](https://open.spotify.com/album/3MTAJWcFRUAfH3FF4E96wp) | 3:13 | 2026-03-20 |  |
 | [Metropolis](https://open.spotify.com/track/53Z2PO6u3LG9ba0A6EBaTI) | [AJ Hamilton](https://open.spotify.com/artist/6JvOEBar34Q5TQulmpLj3V) | [Metropolis](https://open.spotify.com/album/6ZiOldPmvjyuWcA9WwuVX9) | 3:54 | 2025-02-21 | 2026-03-21 |
 | [Midnight Drift](https://open.spotify.com/track/7vIPXFvCLD1atpPnnaTjkh) | [būgs](https://open.spotify.com/artist/2xzpAVZRcuDvvjqSX1ejDT), [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm) | [Midnight Drift](https://open.spotify.com/album/11QbMV3YybZOXbjR51cBq7) | 3:17 | 2025-12-05 | 2026-03-28 |
+| [Midnight in Manhattan](https://open.spotify.com/track/1p7uy7X1LPAtX7b0bWAQx4) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Midnight in Manhattan](https://open.spotify.com/album/0Wo9oJJIg1cmqgnmhbIG6P) | 2:34 | 2026-07-17 |  |
 | [Mirage](https://open.spotify.com/track/4hLI1F3ChsMivSIW8lwNvR) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Mirage](https://open.spotify.com/album/39HbPcEk6VkoDkeDhZFBnb) | 3:11 | 2025-09-26 | 2026-01-17 |
 | [Missing u](https://open.spotify.com/track/773lfCbUHbFc0WsCJftePE) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx), [Jordan Burnett](https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e) | [Missing u](https://open.spotify.com/album/6ji1bD57jNSy4rb68YdhW0) | 1:48 | 2025-08-29 |  |
 | [Moments](https://open.spotify.com/track/48FkCtZNNpTYshKMM358YL) | [Jimmy Q](https://open.spotify.com/artist/7xALZJA4uqi1224A9Bd7GA), [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [Moments](https://open.spotify.com/album/0DORzhj4y3sk5rTfQMIKjS) | 3:13 | 2025-12-19 | 2026-05-16 |
@@ -259,7 +261,7 @@
 | [Wind Flow](https://open.spotify.com/track/5eOMr8XPdhjbVDiJ1gYkyY) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Wind Flow](https://open.spotify.com/album/5Hc9wklPGdneyxoeNedqFd) | 3:47 | 2026-02-27 | 2026-07-11 |
 | [Would appear to be jazz.](https://open.spotify.com/track/7zM1h1j8HCCj7y27NC0J4t) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/2tdNyBAIoCMhXwAJtAO8vH) | 2:39 | 2025-04-25 | 2026-02-07 |
 | [You can count on me.](https://open.spotify.com/track/4buhsm0hBj9buN2B2mn0LK) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [You can count on me.](https://open.spotify.com/album/2gPoDqhG5UholG4AfzFun5) | 2:13 | 2026-02-27 | 2026-04-18 |
-| [You Crazy](https://open.spotify.com/track/0NgWk376k1bwhZedtd2Gy7) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [You Crazy](https://open.spotify.com/album/54NKfX3AxHRXNLXM9aBtMN) | 4:23 | 2026-04-17 |  |
+| [You Crazy](https://open.spotify.com/track/0NgWk376k1bwhZedtd2Gy7) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [You Crazy](https://open.spotify.com/album/54NKfX3AxHRXNLXM9aBtMN) | 4:23 | 2026-04-17 | 2026-07-18 |
 | [You'll see.](https://open.spotify.com/track/0rTMuA7XXtrfAoFPemhZ8N) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [You'll see.](https://open.spotify.com/album/7r2XhelK0TCdCqOy2mx36k) | 1:51 | 2026-01-16 | 2026-02-28 |
 | [⁠Apt To Sidewalk Stand](https://open.spotify.com/track/5deJC7o86gjJoPobebQohn) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [How To Dance Freely Without Social Anxiety](https://open.spotify.com/album/0eTVJWgSKXud0nj1yDWan0) | 3:24 | 2025-10-10 | 2026-03-28 |
 

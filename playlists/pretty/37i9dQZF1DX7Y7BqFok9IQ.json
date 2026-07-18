@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: The Black Keys",
-  "num_followers": 267354,
+  "num_followers": 267409,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAOOi8iwnnYSM/tiVxvrht3M9CYlp",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:00:03",
+      "album": {
+        "name": "Blowin\u2019 Up",
+        "url": "https://open.spotify.com/album/73t1D1zXiMmhniINLqvo4r"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "duration_ms": 196594,
+      "name": "Blowin\u2019 Up",
+      "url": "https://open.spotify.com/track/2Zb35W62gjWrWIOWVgZ1UA"
+    },
     {
       "added_at": "2026-06-26 04:01:30",
       "album": {
@@ -1259,22 +1275,6 @@
       "duration_ms": 155853,
       "name": "No Good",
       "url": "https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "Sugar and Spice",
-        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn & Chris Arndt",
-          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
-        }
-      ],
-      "duration_ms": 214921,
-      "name": "Sugar and Spice",
-      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
     },
     {
       "added_at": "2026-03-20 15:56:34",

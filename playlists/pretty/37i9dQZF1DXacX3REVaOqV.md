@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,356 likes - 105 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,370 likes - 105 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 11 | [Happiness](https://open.spotify.com/track/2LRBzB782NG9RtHHcGkNhH) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Do What You Want EP](https://open.spotify.com/album/15J9k0oUpT8f78UfMJages) | 3:30 |
 | 12 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 |
 | 13 | [El Niño](https://open.spotify.com/track/7Mg58xNYB3yOpyouHvlllW) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [El Niño](https://open.spotify.com/album/6q1F2vHv0r7z38IafdnUzu) | 3:07 |
-| 14 | [State Of Mind \(with Camden Cox\)](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind \(with Camden Cox\)](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
+| 14 | [State Of Mind](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
 | 15 | [Attract](https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Attract](https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9) | 5:07 |
 | 16 | [I Want Your Love](https://open.spotify.com/track/3maBFltdmodeTDz82ZqeLU) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Danny Losito](https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf) | [I Want Your Love](https://open.spotify.com/album/4aA0YfSnvcwgMwVN6pPRpa) | 4:00 |
 | 17 | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Mixmasters](https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9) | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc) | 2:55 |

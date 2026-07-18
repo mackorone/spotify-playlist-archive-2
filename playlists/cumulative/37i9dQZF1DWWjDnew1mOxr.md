@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Yard Act
 
-465 songs - 1 day 2 hr 17 min
+466 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 | 2024-08-21 | 2026-06-10 |
 | [Perfume](https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Perfume](https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w) | 3:17 | 2026-04-24 |  |
 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 | 2024-07-12 |  |
+| [Pistol](https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Pistol](https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo) | 3:25 | 2026-07-16 |  |
 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 | 2026-02-20 |  |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-02-23 | 2024-07-08 |
 | [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 | 2023-09-19 | 2024-02-04 |
@@ -398,7 +399,7 @@
 | [Technofear](https://open.spotify.com/track/6CIrj2Av1omuZonMOxhQX2) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Technofear](https://open.spotify.com/album/74S1PUTNT3ytS3tWQlmkCE) | 3:20 | 2024-10-17 | 2024-12-05 |
 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2023-01-10 | 2023-08-04 |
 | [That's Me](https://open.spotify.com/track/3KEovEZXkLJf8dtguk9eO8) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [That's Me](https://open.spotify.com/album/23Ny7HGfmfimPjnjbHkTR7) | 2:11 | 2026-06-18 | 2026-07-17 |
-| [The Age of Innocence](https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [The Age of Innocence](https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b) | 2:33 | 2026-02-20 |  |
+| [The Age of Innocence](https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [The Age of Innocence](https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b) | 2:33 | 2026-02-20 | 2026-07-18 |
 | [The Angel](https://open.spotify.com/track/5Br5PsC9lcUf5ncWtlOGWN) | [The Frowns](https://open.spotify.com/artist/4dl2iOugjvNuQKO0R5xDMG) | [The Angel](https://open.spotify.com/album/4UgZYcakscbvZ85cqEZIdl) | 3:22 | 2026-03-27 | 2026-05-01 |
 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 | 2023-01-10 | 2024-07-13 |
 | [The Bends \(Here We Go Again\)](https://open.spotify.com/track/1YMzNSD0V93Q3F4suliR0a) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [The Bends \(Here We Go Again\)](https://open.spotify.com/album/05E9fCGbWWqcwZz1Kb83G5) | 3:54 | 2025-06-06 | 2026-03-28 |

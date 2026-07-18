@@ -3309,6 +3309,36 @@
     },
     {
       "album": {
+        "name": "Glass: The Poet Acts (From \"The Hours\")",
+        "url": "https://open.spotify.com/album/1snngtT87KF4u3Ot2UwH4T"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Oscar Jockel",
+          "url": "https://open.spotify.com/artist/0aoA1OWyDRcpf0u6zh7bsw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258920,
+      "name": "The Poet Acts - From \"The Hours\"",
+      "url": "https://open.spotify.com/track/4xVHxfDRDUpVpxlUs2tgXe"
+    },
+    {
+      "album": {
         "name": "The Seasons June Variation (After The Seasons, Op.37a/TH 135: VI. June \"Barcarolle\")",
         "url": "https://open.spotify.com/album/4v4p3zhAoNyXUW27ucOtR1"
       },

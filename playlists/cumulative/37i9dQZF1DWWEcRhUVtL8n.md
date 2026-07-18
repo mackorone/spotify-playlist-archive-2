@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Quiet Houses
+> New and approved indie pop\. Cover: After
 
-2,470 songs - 5 day 11 hr 38 min
+2,472 songs - 5 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [Dream Drop](https://open.spotify.com/track/4UR2N5fuU37KA0gu6SjJr3) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Dream Drop](https://open.spotify.com/album/5xeJjEHTAmh2W59hqFRRVk) | 2:54 | 2021-06-03 | 2021-10-16 |
 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 | 2021-02-24 | 2021-05-21 |
 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2023-06-09 | 2023-08-26 |
+| [Dream Girl](https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [PIXIE](https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq) | 3:23 | 2026-07-17 |  |
 | [Dream Girl \- Home Made](https://open.spotify.com/track/4dxl0rlIMku4Y0gJ1C4nWc) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl \(Home Made\)](https://open.spotify.com/album/292NmEgOydXAimN1fL9ESt) | 3:00 | 2020-10-20 | 2021-05-28 |
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-13 | 2023-06-17 |
 | [Dream House](https://open.spotify.com/track/60lvIOvMGnA99LuSofbcyw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Rainbow Mixtape](https://open.spotify.com/album/2bWRZWNWiTjrZkAH9rW6gB) | 3:04 | 2021-05-03 | 2022-04-16 |
@@ -936,7 +937,7 @@
 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 | 2025-05-02 | 2025-06-03 |
 | [Heathens](https://open.spotify.com/track/6yTbMlD00yPN4fcCmUM1DB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Heathens](https://open.spotify.com/album/727TuBQgwg62XhwClV7GtK) | 3:45 | 2021-12-03 | 2022-04-21 |
 | [Heather Grey](https://open.spotify.com/track/3NnOxkPPHIuM4jWPWyNz9O) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Heather Grey](https://open.spotify.com/album/6OKDedyhI5AAFETKwyuS3Q) | 2:37 | 2022-06-01 | 2022-06-23 |
-| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-06 |  |
+| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-06 | 2026-07-18 |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-23 | 2024-09-21 |
 | [Heaven Knows](https://open.spotify.com/track/1rGtiJ6NtmHiEij4bf6hOh) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Heaven Knows](https://open.spotify.com/album/21rC1AhLo8aFP4zDbKVWSr) | 2:50 | 2023-05-12 | 2023-05-20 |
 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 | 2023-09-23 |
@@ -1519,7 +1520,7 @@
 | [Never Ending](https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:57 | 2022-03-04 | 2022-07-25 |
 | [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 | 2025-02-28 | 2025-03-15 |
 | [Never Fucking Fall in Love Again](https://open.spotify.com/track/2KjjaYuZrYqTyau5doDnW3) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Never Fucking Fall in Love Again](https://open.spotify.com/album/0U6R4LjIiTa81tGQKWTDTd) | 2:21 | 2020-10-20 | 2020-10-21 |
-| [Never Let Go](https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Never Let Go](https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM) | 5:12 | 2026-03-27 |  |
+| [Never Let Go](https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Never Let Go](https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM) | 5:12 | 2026-03-27 | 2026-07-18 |
 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 | 2024-02-28 | 2024-06-17 |
 | [nevermind](https://open.spotify.com/track/6SzMMd1rNtyfj8bAgm2BLw) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [nevermind](https://open.spotify.com/album/7EKuPcaolXbxykekJyQo9K) | 2:56 | 2020-10-20 | 2021-06-03 |
 | [New Age Meds](https://open.spotify.com/track/4FaYk25oNcZClZ6tx5CE8R) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [New Age Meds](https://open.spotify.com/album/4QyxAGwZ1rlb58wSY1oRu0) | 3:30 | 2020-10-20 | 2020-10-21 |
@@ -2129,6 +2130,7 @@
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-05-03 | 2021-05-08 |
 | [Take Me All The Way](https://open.spotify.com/track/1NEAm6UTITP4YfOkwUbGcO) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Take Me All The Way](https://open.spotify.com/album/6G3RTPbRId0MaaDF8L6yAF) | 2:51 | 2021-02-23 | 2021-02-28 |
 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-30 | 2025-07-26 |
+| [Take Me to Sunrise](https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Take Me to Sunrise](https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy) | 3:14 | 2026-07-17 |  |
 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 | 2024-04-05 | 2025-02-22 |
 | [Take My Picture](https://open.spotify.com/track/6kYMoYJnbXVuiqVMCkL2Pe) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Bummer](https://open.spotify.com/album/6qQ2gWYEYmikgGm6qSBYmz) | 3:15 | 2022-10-28 | 2022-12-10 |
 | [Take Yourself Home](https://open.spotify.com/track/6YndZBGmLySgsVScckWkmO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Take Yourself Home](https://open.spotify.com/album/0F9bpInUaHGru63OHqBuQ8) | 4:09 | 2021-02-06 | 2022-04-12 |

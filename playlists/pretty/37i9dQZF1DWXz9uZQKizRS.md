@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Sad Smiles
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,723 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,736 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 13 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 |
 | 14 | [Brak tchu](https://open.spotify.com/track/40WAq4ke8fNkOMJKJQ8iQq) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Album Niebieski](https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0) | 3:31 |
 | 15 | [Zabierz mnie](https://open.spotify.com/track/1zGdPbhCoVtHmvmhwpGyzt) | [EWA KOC](https://open.spotify.com/artist/1ORJEbjXzkBVFzUmxFEa7E), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Zabierz mnie](https://open.spotify.com/album/7hwMCNFzu3WauGICGVc2Hm) | 3:17 |
-| 16 | [ZACHODY \(feat\. Jonatan\)](https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [ZACHODY](https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi) | 2:39 |
+| 16 | [ZACHODY](https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ZACHODY](https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi) | 2:39 |
 | 17 | [Bez oka miś](https://open.spotify.com/track/3DgHVPuBXWLfKoCEAVaYpY) | [Jędrzej Wise](https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC), [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [Bez oka miś](https://open.spotify.com/album/3WCkeLZL8Hd42EFgCUrrEI) | 4:26 |
 | 18 | [Nie masz sił to płacz](https://open.spotify.com/track/5NIc6PrM1pmEiRCTRdUSgp) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Halo\. Co jest grane?](https://open.spotify.com/album/3erv5YTUmv5AvVTqnJTEjP) | 3:52 |
 | 19 | [Gdyby ktoś pytał](https://open.spotify.com/track/5pjp4ydhdLaFOcZaQXDjkP) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Gdyby ktoś pytał](https://open.spotify.com/album/7dNF7MJWJdzJv4z7eeQqlk) | 2:57 |

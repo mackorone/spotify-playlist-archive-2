@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "All From Now",
+        "url": "https://open.spotify.com/album/5PnzO89bX2hwg91RCRErHN"
+      },
+      "artists": [
+        {
+          "name": "Uno Blanket",
+          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158409,
+      "name": "All From Now",
+      "url": "https://open.spotify.com/track/60pO5AlkXea3GYjRwr5s8h"
+    },
+    {
+      "album": {
         "name": "All My Words",
         "url": "https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 162271,
       "name": "Arches",
       "url": "https://open.spotify.com/track/4cyhuoZvaQcdF2hXqduc36"
@@ -1320,6 +1338,24 @@
       "duration_ms": 243209,
       "name": "Ballade Pour Elly",
       "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
+    },
+    {
+      "album": {
+        "name": "Bare Light",
+        "url": "https://open.spotify.com/album/10ADTR7DsE2FnhqvbE16Up"
+      },
+      "artists": [
+        {
+          "name": "Kuro Yama",
+          "url": "https://open.spotify.com/artist/1cS2AwtXloMGmieZSnIJ9d"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139750,
+      "name": "Bare Light",
+      "url": "https://open.spotify.com/track/1UvEeTO8TJONVxWrroTFPO"
     },
     {
       "album": {
@@ -2036,7 +2072,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 147138,
       "name": "Celadon Hill",
       "url": "https://open.spotify.com/track/5uLoyV8cLAngL0i2ETQEM7"
@@ -2223,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "Cold Window",
+        "url": "https://open.spotify.com/album/6IoVHEA6A2cn1pqYVhGxjU"
+      },
+      "artists": [
+        {
+          "name": "Last Octave",
+          "url": "https://open.spotify.com/artist/2bODZoFMtMG0yF5PBL1bRh"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159099,
+      "name": "Cold Window",
+      "url": "https://open.spotify.com/track/1Lbv7WWSMgFFIRf0oLnJ9l"
+    },
+    {
+      "album": {
         "name": "Color Me Blue",
         "url": "https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF"
       },
@@ -2382,6 +2436,24 @@
       "duration_ms": 184240,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K"
+    },
+    {
+      "album": {
+        "name": "Cotton Skies",
+        "url": "https://open.spotify.com/album/4HLDbpuYSkRlVuk6Z1sWKc"
+      },
+      "artists": [
+        {
+          "name": "Jules Morel",
+          "url": "https://open.spotify.com/artist/1ohYthfkJsmmZ0yPSiT0RC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122476,
+      "name": "Cotton Skies",
+      "url": "https://open.spotify.com/track/3AiAQBP8sbljb3UYB9wE3s"
     },
     {
       "album": {
@@ -2742,6 +2814,24 @@
       "duration_ms": 133483,
       "name": "Dawn's reflection",
       "url": "https://open.spotify.com/track/15LkUIJWsiQI54VJlQj0tM"
+    },
+    {
+      "album": {
+        "name": "Day After Day",
+        "url": "https://open.spotify.com/album/6iSYcdeuwuwP9r66okOiJq"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Day After Day",
+      "url": "https://open.spotify.com/track/6qG3ltDAwDTbQLF15uw78T"
     },
     {
       "album": {
@@ -3563,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/4kvqOKLoazFhYD6XCObHTE"
+      },
+      "artists": [
+        {
+          "name": "Nadav Kohen",
+          "url": "https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118971,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/0FnAlg32ihWb2o6DQZiLZz"
+    },
+    {
+      "album": {
         "name": "Elune",
         "url": "https://open.spotify.com/album/5TGOokVxqJ6JqwI9HRz31D"
       },
@@ -4172,7 +4280,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 158500,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy"
@@ -4442,7 +4550,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 139263,
       "name": "Forbidden Chords",
       "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
@@ -6271,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Intrepid",
+        "url": "https://open.spotify.com/album/2LLdSm53y4ECCcTWdVB105"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164785,
+      "name": "Intrepid",
+      "url": "https://open.spotify.com/track/0HAs6ePMyKsbfnjXaxdZSf"
+    },
+    {
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR"
       },
@@ -6833,6 +6959,24 @@
     },
     {
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/2HwHF63wmQ5cZAqMrT5Ylj"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154483,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/4CWLkJ3Dr7kJ0Xf0ZktW27"
+    },
+    {
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC"
       },
@@ -6934,7 +7078,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 147098,
       "name": "Le Recueillement",
       "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
@@ -7618,7 +7762,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
@@ -8691,6 +8835,24 @@
     },
     {
       "album": {
+        "name": "Noble Heights",
+        "url": "https://open.spotify.com/album/41YbLJNfsr1OxAPVd1LpSG"
+      },
+      "artists": [
+        {
+          "name": "Peiskos",
+          "url": "https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147073,
+      "name": "Noble Heights",
+      "url": "https://open.spotify.com/track/6FIXGM2CPDRdLBz7QD4I8F"
+    },
+    {
+      "album": {
         "name": "Noctivian No.6",
         "url": "https://open.spotify.com/album/6nNufLkeT2EwfjAPaMluWL"
       },
@@ -9620,7 +9782,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 142165,
       "name": "Paseo",
       "url": "https://open.spotify.com/track/3z34o6Tz0nEHd6rPjIcyTN"
@@ -10736,7 +10898,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 136500,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/5IifgRe4ed99fgkCbuUIQU"
@@ -11607,6 +11769,24 @@
     },
     {
       "album": {
+        "name": "Shimmering",
+        "url": "https://open.spotify.com/album/1M2Ou91mXcijsruHansfTp"
+      },
+      "artists": [
+        {
+          "name": "Sean Oban",
+          "url": "https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Shimmering",
+      "url": "https://open.spotify.com/track/1TmKoVyIA8IGqLLoUqqVGt"
+    },
+    {
+      "album": {
         "name": "Shinsetsu",
         "url": "https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A"
       },
@@ -11936,6 +12116,24 @@
       "duration_ms": 130000,
       "name": "Silva",
       "url": "https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT"
+    },
+    {
+      "album": {
+        "name": "Silver Lilt",
+        "url": "https://open.spotify.com/album/6JVIUKGMiYhW564RkDYVGB"
+      },
+      "artists": [
+        {
+          "name": "Arthur Pierce",
+          "url": "https://open.spotify.com/artist/23VLmeNJOf0gh4T4Dla24m"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144293,
+      "name": "Silver Lilt",
+      "url": "https://open.spotify.com/track/4oPO558wG0UaD9Py46Inyq"
     },
     {
       "album": {
@@ -13394,7 +13592,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 240194,
       "name": "The Fumes",
       "url": "https://open.spotify.com/track/3hFMkp1whfTIyByhaJZh6D"
@@ -13560,6 +13758,24 @@
       "duration_ms": 106625,
       "name": "The Pond",
       "url": "https://open.spotify.com/track/1sKzQ5CXYSKKeeKyfLf5H3"
+    },
+    {
+      "album": {
+        "name": "The Quiet Prayer",
+        "url": "https://open.spotify.com/album/5H1kzmjZOCMKdS6gFK03ER"
+      },
+      "artists": [
+        {
+          "name": "Martin Rapide",
+          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146562,
+      "name": "The Quiet Prayer",
+      "url": "https://open.spotify.com/track/41GlWn5Pb1DkKMHfd5bmt5"
     },
     {
       "album": {

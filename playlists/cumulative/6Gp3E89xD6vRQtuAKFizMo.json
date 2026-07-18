@@ -5259,6 +5259,28 @@
     },
     {
       "album": {
+        "name": "Illuminate Me",
+        "url": "https://open.spotify.com/album/4GDbny8PiEaVTetogHpmnq"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "Illuminate Me",
+      "url": "https://open.spotify.com/track/5muNBA2TfDmtkrXmXUqEB5"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW"
       },

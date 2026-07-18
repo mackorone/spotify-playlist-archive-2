@@ -32863,6 +32863,24 @@
     },
     {
       "album": {
+        "name": "Whipering Waltz",
+        "url": "https://open.spotify.com/album/0XHqMSZO0g6l9MyfNmazMH"
+      },
+      "artists": [
+        {
+          "name": "Beckon Keasmith",
+          "url": "https://open.spotify.com/artist/3ojYDRTLXj4iuVdrJWoxei"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175470,
+      "name": "Whipering Waltz",
+      "url": "https://open.spotify.com/track/1Tx3Nbs4r8PbAfQgYetqGV"
+    },
+    {
+      "album": {
         "name": "Whirling sky",
         "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
       },

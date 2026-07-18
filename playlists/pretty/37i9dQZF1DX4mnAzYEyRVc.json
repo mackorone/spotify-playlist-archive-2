@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: La Pegatina\n",
-  "num_followers": 71802,
+  "num_followers": 71824,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,18 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
-        "url": "https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs"
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
       },
       "artists": [
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 228533,
-      "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
-      "url": "https://open.spotify.com/track/2rwkaFdBNUlYHEpInYEeM0"
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -859,6 +855,26 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
+        "url": "https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
+      "url": "https://open.spotify.com/track/2rwkaFdBNUlYHEpInYEeM0"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Rudy Come Home",
         "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
       },
@@ -871,38 +887,6 @@
       "duration_ms": 240429,
       "name": "Rudy Come Home",
       "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Bersinar",
-        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 225047,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -923,6 +907,22 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Bersinar",
+        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 225047,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
-      },
-      "artists": [
-        {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "El Mosquito",
+        "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 188772,
+      "name": "El Mosquito",
+      "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "El Mosquito",
-        "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 188772,
-      "name": "El Mosquito",
-      "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "The Sound Of Revolution",
         "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 205527,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "STAY YOUNG STAY PUNK",
+        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
+      },
+      "artists": [
+        {
+          "name": "FIVE STATE DRIVE",
+          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "STAY YOUNG STAY PUNK",
+      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5"
-      },
-      "artists": [
-        {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Toro",
-      "url": "https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "STAY YOUNG STAY PUNK",
-        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
-      },
-      "artists": [
-        {
-          "name": "FIVE STATE DRIVE",
-          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "STAY YOUNG STAY PUNK",
-      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5"
+      },
+      "artists": [
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Toro",
+      "url": "https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1307,26 +1307,18 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Looking Out For #1",
-        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
+        "name": "Wir kommen in Frieden",
+        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Bob Rock",
-          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
-        },
-        {
-          "name": "Adam Greenholtz",
-          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 150553,
-      "name": "Looking Out For #1 - Ska Version",
-      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
+      "duration_ms": 234061,
+      "name": "Wir kommen in Frieden",
+      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1351,18 +1343,26 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Wir kommen in Frieden",
-        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
+        "name": "Looking Out For #1",
+        "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
       "artists": [
         {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Bob Rock",
+          "url": "https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL"
+        },
+        {
+          "name": "Adam Greenholtz",
+          "url": "https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua"
         }
       ],
-      "duration_ms": 234061,
-      "name": "Wir kommen in Frieden",
-      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+      "duration_ms": 150553,
+      "name": "Looking Out For #1 - Ska Version",
+      "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Endlich auf Reise",
+        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 179446,
+      "name": "Endlich auf Reise",
+      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Magam sem tudom",
         "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Endlich auf Reise",
-        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 179446,
-      "name": "Endlich auf Reise",
-      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Pancho",
-        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
-      },
-      "artists": [
-        {
-          "name": "Fast Food Orchestra",
-          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Pancho",
-      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Pancho",
+        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
+      },
+      "artists": [
+        {
+          "name": "Fast Food Orchestra",
+          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Pancho",
+      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
     },
     {
       "added_at": "2026-03-20 06:00:11",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Macy Todd",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Isabel van Gelder",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 206874,
       "name": "Aint It Such A Bitch",
       "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 250883,
       "name": "animal",
       "url": "https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 206470,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
@@ -2542,6 +2542,24 @@
       "duration_ms": 192280,
       "name": "Boysober",
       "url": "https://open.spotify.com/track/10zeUcNHgWOc073roWFCrz"
+    },
+    {
+      "album": {
+        "name": "Breadcrumbs",
+        "url": "https://open.spotify.com/album/0UVZPteSAFrEIAPxh01qEw"
+      },
+      "artists": [
+        {
+          "name": "Isabella Contadini",
+          "url": "https://open.spotify.com/artist/7es1ZMOu9pWxGha3pVYjwv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183296,
+      "name": "Breadcrumbs",
+      "url": "https://open.spotify.com/track/11bloEmkI1B1VJDaam7amJ"
     },
     {
       "album": {
@@ -3763,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219302,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
+    },
+    {
+      "album": {
         "name": "Contradiction",
         "url": "https://open.spotify.com/album/3Oy8YDpQ9vw9g3XzriqhTF"
       },
@@ -4044,7 +4080,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
@@ -4988,7 +5024,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 237014,
       "name": "Dying Star",
       "url": "https://open.spotify.com/track/0DwcDNWoSNSKIUzAfKhFQs"
@@ -7149,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211619,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
+    },
+    {
+      "album": {
         "name": "Happening Again",
         "url": "https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM"
       },
@@ -8446,6 +8500,24 @@
       "duration_ms": 278388,
       "name": "I Can Be Your Mother",
       "url": "https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP"
+    },
+    {
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
       "album": {
@@ -12458,7 +12530,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 194000,
       "name": "Never Made It Out",
       "url": "https://open.spotify.com/track/12MTn5SaP2z5aYNjAiAJvc"
@@ -12998,7 +13070,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 224500,
       "name": "Old Time's Sake",
       "url": "https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs"
@@ -13538,7 +13610,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 228942,
       "name": "picking petals",
       "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
@@ -13664,7 +13736,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 219406,
       "name": "Please, Don't Wake Me",
       "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
@@ -15058,7 +15130,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 182701,
       "name": "second grade",
       "url": "https://open.spotify.com/track/77GI8YUY8xvnXD3qaC1xWQ"
@@ -15278,6 +15350,24 @@
       "duration_ms": 230653,
       "name": "She's There",
       "url": "https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA"
+    },
+    {
+      "album": {
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/7enCEM8sC7Zfl7fALQWFqG"
+      },
+      "artists": [
+        {
+          "name": "MINOE",
+          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177599,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2wGGc1BHUCiaN5WWi4rHYC"
     },
     {
       "album": {
@@ -15566,6 +15656,24 @@
       "duration_ms": 208107,
       "name": "Sleep Tonight",
       "url": "https://open.spotify.com/track/3KUZ67LJ8PBbffnGaDrKt4"
+    },
+    {
+      "album": {
+        "name": "Lucky to Be",
+        "url": "https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128853,
+      "name": "Sleeping with My Boots On",
+      "url": "https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX"
     },
     {
       "album": {
@@ -16185,6 +16293,24 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I"
+    },
+    {
+      "album": {
         "name": "Spell",
         "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
       },
@@ -16412,7 +16538,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 151794,
       "name": "Stop Me Dead",
       "url": "https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU"
@@ -19176,7 +19302,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187057,
       "name": "When You Fall In Love",
       "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
@@ -19734,7 +19860,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 166221,
       "name": "You Don't Really Like Me",
       "url": "https://open.spotify.com/track/5aSEbL2JKTt9qoHZRpW5kT"
@@ -19918,6 +20044,24 @@
       "duration_ms": 161999,
       "name": "You'll Be Fine",
       "url": "https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ"
+    },
+    {
+      "album": {
+        "name": "You're Never Alone",
+        "url": "https://open.spotify.com/album/0O2iRORmaAioTiQPUpEmtg"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Skora",
+          "url": "https://open.spotify.com/artist/2gudzFL2ctFaWwVjhy79Fa"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144356,
+      "name": "You're Never Alone",
+      "url": "https://open.spotify.com/track/3r2mLZ18tU8WH6XF7bUOqZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9598,
+  "num_followers": 9596,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAAGro13rh3P+wIWaIgm8NO2",
+  "snapshot_id": "algfAAAAAACUJ1KBJpt2+Eqb2IiUC+qx",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Novinho",
+      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doces ou Travessuras",
         "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 154630,
       "name": "Doces ou Travessuras",
       "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Novinho",
-      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
     },
     {
       "added_at": null,
@@ -1095,6 +1095,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOFINHO SUBMISSO",
         "url": "https://open.spotify.com/album/6OZtQ1z5yC4tDnQQ6dPu69"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 206656,
       "name": "FOFINHO SUBMISSO",
       "url": "https://open.spotify.com/track/3L18ZuWtiptTLd2wbqE9P3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,

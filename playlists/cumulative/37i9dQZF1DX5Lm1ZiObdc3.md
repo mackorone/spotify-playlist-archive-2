@@ -4,7 +4,7 @@
 
 > Classical tunes to make you feel good.
 
-121 songs - 8 hr 4 min
+122 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Serenade in D Major: II\. Scherzo\. Allegro vivace \- Allegro molto](https://open.spotify.com/track/1UtAlIatgUY1BNMRXT2pks) | [Ethel Smyth](https://open.spotify.com/artist/55kwBWuwvx5vPPvrLlF3hn), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [Odaline de la Martinez](https://open.spotify.com/artist/1fQgbE1iYZ2CsTbxXS2TlA) | [Smyth: Serenade in D Major / Concerto for Violin, Horn and Orchestra](https://open.spotify.com/album/4UOW8vU6ZmGF44jo6GjLkl) | 6:09 | 2021-07-02 |  |
 | [Serenade No\. 2 in A Major, Op\. 16: 2\. Scherzo\. Vivace](https://open.spotify.com/track/0veVPDB3qEURlYHKgzlt87) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Bernard Haitink](https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1) | [Brahms: Complete Symphonies & Concertos](https://open.spotify.com/album/40p4EtgVV9Gljt10ECjhIQ) | 2:43 | 2021-07-02 |  |
 | [Sonata for Violin, Cello & Continuo in G Major, RV 820: VII\. Allegro](https://open.spotify.com/track/5Y8RqEQ5xTCyW4s5IrFAcF) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [La Serenissima](https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN), [Adrian Chandler](https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz) | [Vivaldi: Sonata for Violin, Cello & Continuo in G Major, RV 820: VII\. Allegro](https://open.spotify.com/album/0z3mUO19ncu54wM7T4yzZ4) | 3:43 | 2026-07-03 |  |
+| [Still Hope](https://open.spotify.com/track/47xbAcUvVQ22xg12aCbD97) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Still Hope](https://open.spotify.com/album/1OS0EEEiH1cqFuwxhKTyEd) | 2:20 | 2026-07-17 |  |
 | [String Quartet in E\-Flat Major, H\. 277: II\. Allegretto](https://open.spotify.com/track/1xWatkcOFPdkyVubqPMkGC) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Quatuor Cobalt](https://open.spotify.com/artist/7DB3PThRACKSehOKYZed2P) | [String Quartet in E\-flat major, H.277: II\. Allegretto](https://open.spotify.com/album/7wxj5L3bStPox3zFQdnzU4) | 3:44 | 2024-11-15 |  |
 | [String Quintet in C Major, Op\. 29: III\. Scherzo \(Allegro\)](https://open.spotify.com/track/3lfUv5v8yvrIUCViqSDVy3) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [WDR Symphony Orchestra Cologne Chamber Players](https://open.spotify.com/artist/7kbWsCQwryrCGdykU9h3PO) | [Beethoven: String Quintets Op\. 29 and 104, Fugue Op\. 137](https://open.spotify.com/album/0ltkuezXFiwGT35lsu1zmo) | 4:12 | 2022-06-10 | 2024-04-19 |
 | [String Quintet in C Major, Op\. 29: III\. Scherzo \(Allegro\)](https://open.spotify.com/track/6mqYpI1zLtUMuIDLtkocJ5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [WDR Symphony Orchestra Cologne Chamber Players](https://open.spotify.com/artist/7kbWsCQwryrCGdykU9h3PO) | [Beethoven: String Quintets Op\. 29 and 104, Fugue Op\. 137](https://open.spotify.com/album/5GcnQWHi9g4kg84QrBwgSE) | 4:12 | 2021-07-02 |  |

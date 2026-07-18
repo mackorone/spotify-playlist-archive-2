@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAD/aeHEBvI8WxFV0Iq/gsR3",
+  "snapshot_id": "algfAAAAAADBHC2h+q4SKcfkg1V12LTg",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/1JlBUmVN2rRyfJPaMfGyQz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TSUNAMI",
         "url": "https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr"
       },
@@ -123,26 +139,6 @@
       "duration_ms": 126486,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY (Nano Mixes)",
-        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        }
-      ],
-      "duration_ms": 154691,
-      "name": "Posh - MJ Nebreda Remix",
-      "url": "https://open.spotify.com/track/1PDZoDVGqDE5C4tzDJl6Hy"
     },
     {
       "added_at": null,
@@ -179,6 +175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        }
+      ],
+      "duration_ms": 154691,
+      "name": "Posh - MJ Nebreda Remix",
+      "url": "https://open.spotify.com/track/1PDZoDVGqDE5C4tzDJl6Hy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
       },
@@ -199,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 146378,
+      "name": "Lucky Number One",
+      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
       },
@@ -215,22 +247,6 @@
       "duration_ms": 154213,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
     },
     {
       "added_at": null,
@@ -267,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
+        }
+      ],
+      "duration_ms": 134968,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boys lie",
         "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
       },
@@ -279,22 +315,6 @@
       "duration_ms": 145857,
       "name": "boys lie",
       "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 146378,
-      "name": "Lucky Number One",
-      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
     },
     {
       "added_at": null,
@@ -351,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 111345,
+      "name": "fem-onomics",
+      "url": "https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "clown shit (up the wall) [SOPHIE Remix]",
         "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
       },
@@ -371,26 +407,6 @@
       "duration_ms": 387310,
       "name": "clown shit (up the wall) [SOPHIE Remix]",
       "url": "https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Kevin Aviance",
-          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
-        }
-      ],
-      "duration_ms": 134968,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
     },
     {
       "added_at": null,
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -547,6 +563,26 @@
       "duration_ms": 192941,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1YnewALtpmHPZg86MgB1C0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
     },
     {
       "added_at": null,
@@ -591,22 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
+        "name": "Push N Pull",
+        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
       },
       "artists": [
         {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+          "name": "Runyu Qian",
+          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
+      "duration_ms": 162580,
+      "name": "Push N Pull",
+      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
     },
     {
       "added_at": null,
@@ -631,26 +667,6 @@
       "duration_ms": 174720,
       "name": "Best I've Ever Had",
       "url": "https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Push N Pull",
-        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
-      },
-      "artists": [
-        {
-          "name": "Runyu Qian",
-          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Push N Pull",
-      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 52400,
+  "num_followers": 52413,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAACA46VAoPoU4oBVi9RtkhE0",
+  "snapshot_id": "algfAAAAAAAT0IzZ/6706NLMeFaxCM3M",
   "tracks": [
     {
       "added_at": null,
@@ -444,7 +444,7 @@
       "added_at": null,
       "album": {
         "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+        "url": "https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 271944,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z"
+      "duration_ms": 228941,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu"
     },
     {
       "added_at": null,
@@ -508,7 +508,7 @@
       "added_at": null,
       "album": {
         "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc"
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 228941,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu"
+      "duration_ms": 271944,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z"
     },
     {
       "added_at": null,

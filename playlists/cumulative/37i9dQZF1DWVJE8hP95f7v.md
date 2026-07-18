@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-116 songs - 6 hr 57 min
+117 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Depois do Amor](https://open.spotify.com/track/1DLitp0tvUDULj1Xvji3G8) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Samantha Schmütz](https://open.spotify.com/artist/2d5jpxKopvlhzQ2UneuilJ) | [Depois do Amor](https://open.spotify.com/album/3b5sEZLSfgUoHNLYm6Z78S) | 3:22 | 2025-05-02 |  |
 | [Derrete](https://open.spotify.com/track/7CRkPyNdM9KvvliymmrgV1) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8), [Allure Dayo](https://open.spotify.com/artist/5QXS66BHpTWa3WXKgVbsNx) | [Derrete](https://open.spotify.com/album/5s1HAwaUOQoO10Yf0hik0Z) | 5:03 | 2023-12-08 |  |
 | [Dia Bom](https://open.spotify.com/track/7zzd7q2VoU8Dkgori4rgCc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:43 | 2023-12-08 | 2026-05-08 |
+| [Disco Tropical](https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Disco Tropical](https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR) | 3:07 | 2026-07-17 |  |
 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2023-12-08 |  |
 | [Escolhi Ser Feliz](https://open.spotify.com/track/46Mbf2x3j3qJidTWfmt23u) | [Josimar Prince](https://open.spotify.com/artist/2pQWEVffdxDEZEsWdRTUPz) | [Escolhi Ser Feliz](https://open.spotify.com/album/5lbtSIdSEelRqUM4eBOTqj) | 4:16 | 2024-01-19 | 2025-02-08 |
 | [Estou Voltando](https://open.spotify.com/track/3uI7Koma7Wih7h1QawYXDl) | [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m), [Supergroove](https://open.spotify.com/artist/3fZ6M7e4ebc0mlYcPzr3gx) | [Estou Voltando](https://open.spotify.com/album/2hf3H1KEoYeMsadLkmGKL2) | 4:20 | 2023-12-08 |  |
@@ -94,7 +95,7 @@
 | [Onda Poderosa / Citação: Abalou](https://open.spotify.com/track/0ufa6F0EztswDDsWRbcMok) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Onda Poderosa / Citação: Abalou](https://open.spotify.com/album/031Zl5kgrUiOm6l5RE2i6u) | 4:14 | 2023-12-08 | 2024-01-20 |
 | [Plano Astral](https://open.spotify.com/track/61DHpS5NML76zOqum12Sk1) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [02 de Fevereiro](https://open.spotify.com/album/2FpyYjNz2THd0HVHgHMFLJ) | 4:23 | 2023-12-08 |  |
 | [Poeira](https://open.spotify.com/track/0NBEUOXcxAYhirxbC8ibuX) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Poeira](https://open.spotify.com/album/1xi2xzHZgoXx4aujl8bbmD) | 2:59 | 2024-06-21 |  |
-| [Poeira](https://open.spotify.com/track/2PUfG9mvqzlOGFhWMvWJId) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda \(Deluxe Edition\)](https://open.spotify.com/album/5xuuiA832dBS56jqzYAqw5) | 2:59 | 2026-05-22 |  |
+| [Poeira](https://open.spotify.com/track/2PUfG9mvqzlOGFhWMvWJId) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda \(Deluxe Edition\)](https://open.spotify.com/album/5xuuiA832dBS56jqzYAqw5) | 2:59 | 2026-05-22 | 2026-07-18 |
 | [Preta de Humaitá](https://open.spotify.com/track/5s6OgyXVWd8poXQ9NFcMIr) | [Mununu](https://open.spotify.com/artist/6Pl3is2BWXd1lWbjrnqnNn), [Nego Moura](https://open.spotify.com/artist/6LPX9ybjEaR6mdqkbMPlLt), [Os Camarás](https://open.spotify.com/artist/3CONcpsrok1bCCFxOkriX7) | [Preta de Humaitá](https://open.spotify.com/album/27suoD4HF6ue9TQhHgrVgB) | 4:24 | 2023-12-08 | 2025-09-20 |
 | [Proposta](https://open.spotify.com/track/1taeNu1wYQx0duaEu2NqXY) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Leo Minas.](https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3) | [Proposta](https://open.spotify.com/album/1xEQfEqDkNhypgXbFGBWHo) | 3:44 | 2024-03-29 | 2024-05-11 |
 | [Proposta](https://open.spotify.com/track/6K7RRfMOjRHEwa0JN1tvf1) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Leo Minas.](https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3) | [Proposta](https://open.spotify.com/album/3xxzWBSGDSA6wNtT73Xiiv) | 3:44 | 2023-12-08 | 2024-04-19 |

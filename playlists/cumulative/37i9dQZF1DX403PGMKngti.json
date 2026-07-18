@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "MI VIDA, MI TEATRO",
+        "url": "https://open.spotify.com/album/64LomvWP5zkCkPhDUsFKrv"
+      },
+      "artists": [
+        {
+          "name": "Keyvin Ce",
+          "url": "https://open.spotify.com/artist/59ELR8A5JHmUK402NRjbOE"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Cafe",
+      "url": "https://open.spotify.com/track/3277TAKAv27ewlf3pueeXl"
+    },
+    {
+      "album": {
         "name": "Catalina",
         "url": "https://open.spotify.com/album/7k5rbjZiJou8AOmkZrxo00"
       },

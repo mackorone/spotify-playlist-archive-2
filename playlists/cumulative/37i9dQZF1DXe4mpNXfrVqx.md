@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Afreekassia
 
-256 songs - 11 hr 19 min
+257 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 | 2022-12-03 |
 | [Camisa 10](https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Camisa 10](https://open.spotify.com/album/1BT1zwJm02tDL5W2kNAk2H) | 2:34 | 2022-03-18 | 2022-10-29 |
 | [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 | 2022-04-22 | 2023-08-19 |
+| [CARA DI CRIA \#9](https://open.spotify.com/track/0rfCtJcklw0YJxn96wVW6W) | [Jenario Mc](https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa), [Abaddie](https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3) | [CARA DI CRIA \#9](https://open.spotify.com/album/4PzYlcuQHHtsj2LsN67bAw) | 2:25 | 2026-07-17 |  |
 | [Chama de amor](https://open.spotify.com/track/2qOzVhY0aa8mdAdGT42eX4) | [OGCapitu](https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD), [MaBapp](https://open.spotify.com/artist/7GNt5XtPdChjW3R9pKSa2U), [Bertoi](https://open.spotify.com/artist/36UCsM7sdK6dOjTlcZnH8T) | [Chama de amor](https://open.spotify.com/album/62sT4NHJ53d9JVkCE5bbDt) | 2:41 | 2026-02-20 | 2026-05-30 |
 | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 | 2023-02-22 |  |
 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 | 2023-04-21 | 2025-10-10 |
@@ -152,7 +153,7 @@
 | [Mal Acostumada](https://open.spotify.com/track/7GnPbQS1aDXXmON7bMxwX4) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/0r6xdmo9wYNcHrsIlpDvNh) | 2:16 | 2022-03-18 | 2026-05-30 |
 | [Malas Prontas](https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Malas Prontas](https://open.spotify.com/album/3NoLX9JnxmOaC0EfwKezAD) | 2:37 | 2022-04-22 | 2023-08-26 |
 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 | 2022-03-18 | 2022-04-23 |
-| [Malícia](https://open.spotify.com/track/65RGKMXWOHHTkOLKzeRE0D) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Kil](https://open.spotify.com/artist/2CArMydvTpgVI7lzBphw0D) | [Inimitável](https://open.spotify.com/album/4OuuNSNhugOcXfO6QAj6GL) | 2:01 | 2023-11-10 |  |
+| [Malícia](https://open.spotify.com/track/65RGKMXWOHHTkOLKzeRE0D) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Kil](https://open.spotify.com/artist/2CArMydvTpgVI7lzBphw0D) | [Inimitável](https://open.spotify.com/album/4OuuNSNhugOcXfO6QAj6GL) | 2:01 | 2023-11-10 | 2026-07-18 |
 | [Manda Foto](https://open.spotify.com/track/2ZAT9lqhq7sEYtyUsg72QR) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Manda Foto](https://open.spotify.com/album/17yuXJKc5MUKgRg6jAmLLf) | 2:17 | 2022-07-08 | 2023-07-29 |
 | [Manda Foto](https://open.spotify.com/track/4zJlNlP04sjaIryU8EIlTV) | [Ge Nunes](https://open.spotify.com/artist/3Fld6S2obQAqXJlMetQMja), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Manda Foto](https://open.spotify.com/album/68lUUHGYtKKcAKxBvRKpvz) | 2:17 | 2022-04-15 | 2022-07-29 |
 | [MC de Batalha](https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [MC de Batalha](https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy) | 3:08 | 2025-10-03 | 2026-06-20 |

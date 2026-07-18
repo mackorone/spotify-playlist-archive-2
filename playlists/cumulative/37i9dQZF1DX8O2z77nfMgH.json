@@ -35029,6 +35029,28 @@
     },
     {
       "album": {
+        "name": "Bonito D\u00eda",
+        "url": "https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "Bonito D\u00eda",
+      "url": "https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm"
+    },
+    {
+      "album": {
         "name": "Bonnie and Clyde",
         "url": "https://open.spotify.com/album/1e2LKI1Aog4ivFzgj3mNMR"
       },

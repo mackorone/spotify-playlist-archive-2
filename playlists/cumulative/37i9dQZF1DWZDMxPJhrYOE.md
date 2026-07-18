@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,188 songs - 2 day 13 hr 57 min
+1,190 songs - 2 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD) | 3:13 | 2024-11-28 | 2025-02-25 |
 | [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 | 2026-03-27 | 2026-06-05 |
 | [BACK WHEN YOU WERE MINE](https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BACK WHEN YOU WERE MINE](https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k) | 2:41 | 2026-01-01 | 2026-03-22 |
-| [Backshots](https://open.spotify.com/track/05rmBmmwJEk2qvhoK9PK98) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Backshots](https://open.spotify.com/album/13PMkppu9s4tzjzKefhNzp) | 3:24 | 2026-06-11 |  |
+| [Backshots](https://open.spotify.com/track/05rmBmmwJEk2qvhoK9PK98) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Backshots](https://open.spotify.com/album/13PMkppu9s4tzjzKefhNzp) | 3:24 | 2026-06-11 | 2026-07-18 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-12 | 2025-01-25 |
 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 | 2026-01-15 | 2026-04-18 |
 | [Badebro](https://open.spotify.com/track/3ana92dtECBiBiebGSCS6F) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Badebro](https://open.spotify.com/album/2nAKzMmmaiYggSTCs80JZt) | 3:21 | 2026-06-11 | 2026-06-20 |
@@ -278,7 +278,7 @@
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 | 2026-06-27 |
 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-21 | 2025-10-17 |
 | [drømmefanger \(feat\. URO\)](https://open.spotify.com/track/1vsap6mgQTyL2EVUXWq66e) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [drømmefanger \(feat\. URO\)](https://open.spotify.com/album/3w5zSTFFUOdEt90zUncRph) | 2:30 | 2026-01-09 | 2026-03-20 |
-| [Drømmer](https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Drømmer](https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL) | 2:52 | 2026-07-09 |  |
+| [Drømmer](https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Drømmer](https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL) | 2:52 | 2026-07-09 | 2026-07-18 |
 | [Drømmer Som Dig](https://open.spotify.com/track/4zPWwofLXqCkiVHmcVy61m) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Når Lyset Banker](https://open.spotify.com/album/0cr10mlo1RuGBWvwS7kyJ8) | 2:53 | 2026-05-07 | 2026-05-29 |
 | [Du ligner din mor](https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Du ligner din mor](https://open.spotify.com/album/3F9tNqTRRrq7l5ZlLuGfL0) | 3:06 | 2024-12-26 | 2025-03-14 |
 | [Du Min](https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Du Min](https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS) | 1:59 | 2024-08-29 | 2024-09-06 |
@@ -838,6 +838,7 @@
 | [Ramt I Natten](https://open.spotify.com/track/4Kwwp0MxTDm3Qppvbr8ETg) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa), [Akiba](https://open.spotify.com/artist/6345d96wPs1wcEtwVyJCv7) | [Ramt I Natten](https://open.spotify.com/album/4bs0E4fBxwGuuYbaRBoUVX) | 2:37 | 2025-07-17 | 2025-07-25 |
 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 | 2026-01-09 | 2026-04-18 |
 | [Recently Deleted](https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:43 | 2025-12-19 | 2026-01-15 |
+| [Recommend](https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Recommend](https://open.spotify.com/album/1guKBOUhoB5kkgwrgAEFpq) | 2:38 | 2026-07-16 |  |
 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 | 2025-07-03 | 2025-09-06 |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-09 | 2025-01-10 |
 | [Regner med i morgen](https://open.spotify.com/track/4CrI9DDQhs2r0Mwqo4fuSH) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [kh kh kh](https://open.spotify.com/album/7Ci8zGzBpTU42ZYe2A0BqM) | 3:06 | 2025-10-23 | 2025-11-14 |
@@ -1000,6 +1001,7 @@
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-31 | 2024-10-09 |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-17 | 2025-08-12 |
 | [Sweet To Me](https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 4:17 | 2026-02-06 | 2026-04-21 |
+| [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 | 2026-07-16 |  |
 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 | 2024-08-16 | 2024-11-08 |
 | [Sæt Det Fri](https://open.spotify.com/track/2YFG7K2csOO1GqPTQkQbTz) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Sæt Det Fri](https://open.spotify.com/album/7i0etg8EnmIQm69MysY5Nr) | 2:44 | 2026-07-02 | 2026-07-10 |
 | [Ta' Det Af](https://open.spotify.com/track/7o7vqAXas2beWU5aMNaQKV) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Ta' Det Af](https://open.spotify.com/album/2qAK5RmqAf0I9ObPRcNdpm) | 2:23 | 2025-09-04 | 2025-09-26 |

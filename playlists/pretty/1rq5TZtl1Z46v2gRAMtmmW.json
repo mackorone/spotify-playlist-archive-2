@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31938,
+  "num_followers": 31941,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARvu+Lo0ZVacU0IH7fRNA5H3DOe0mP",
+  "snapshot_id": "AAARwfZOAHvpeFb/eofsehiV0wWJBPZe",
   "tracks": [
     {
       "added_at": "2026-06-10 17:55:44",
@@ -179,6 +179,26 @@
       "duration_ms": 256526,
       "name": "Ultramoon",
       "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
+    },
+    {
+      "added_at": "2026-07-17 09:44:50",
+      "album": {
+        "name": "Right Thing",
+        "url": "https://open.spotify.com/album/7H5iillfusVO8njfh7xBRH"
+      },
+      "artists": [
+        {
+          "name": "MALUGI",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Right Thing",
+      "url": "https://open.spotify.com/track/3iClibIjy24oX2tOGuBHYl"
     },
     {
       "added_at": "2026-06-25 10:23:49",
@@ -1239,6 +1259,26 @@
       "duration_ms": 212707,
       "name": "Staring at the Sun",
       "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
+    },
+    {
+      "added_at": "2026-07-17 14:19:06",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 207764,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

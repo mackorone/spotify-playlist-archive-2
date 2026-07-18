@@ -1,13 +1,29 @@
 {
-  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Paula Pera y el fin de los Tiempos",
+  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Lido Pimienta",
   "num_followers": 32817,
   "original_name": "Indie Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBy7rUAAU3b0pvZ/60OOs45NA8x",
+  "snapshot_id": "AAAAACzwM6Biqv571tCU3dBq16xANUgu",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:59:05",
+      "album": {
+        "name": "Marea",
+        "url": "https://open.spotify.com/album/1CxXV7NN4SXRWua4esjSu3"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 188363,
+      "name": "Marea",
+      "url": "https://open.spotify.com/track/7l4pU3dvBHZ4Lwj39L4M6q"
+    },
     {
       "added_at": "2026-06-12 04:59:20",
       "album": {

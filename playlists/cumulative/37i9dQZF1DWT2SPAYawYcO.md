@@ -4,7 +4,7 @@
 
 > Brand new music from Gracie Abrams, Swapmeet, Lil Baby, Steve Lacy, Jordan Rakei, Bella Kay + more
 
-13,866 songs - 31 day 11 hr 32 min
+13,867 songs - 31 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6750,6 +6750,7 @@
 | [Ladies](https://open.spotify.com/track/2P33N4Bb9wD3kyzi5f64PM) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Ladies](https://open.spotify.com/album/6QRXtSl9pBcViOYFaojO4j) | 3:11 | 2024-02-22 | 2024-03-01 |
 | [LADY](https://open.spotify.com/track/0Achu5TgsjASEMh8FkJV0w) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Angusand](https://open.spotify.com/artist/3cuhXQnsPeUIYdQDw7ztl6) | [LADY](https://open.spotify.com/album/4ZUpUUyjQ2iRrUvNOQYRYC) | 2:55 | 2024-07-25 | 2024-08-02 |
 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 | 2025-09-04 | 2025-09-12 |
+| [Lady](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 2:31 | 2026-07-16 |  |
 | [Lady Beetle](https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Lady Beetle](https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb) | 3:32 | 2025-08-21 | 2025-08-29 |
 | [Lady Killers III](https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers III](https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb) | 2:56 | 2024-05-02 | 2024-05-10 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 | 2025-07-18 |
@@ -7159,6 +7160,7 @@
 | [living](https://open.spotify.com/track/0HfGVMPCyfCrVNKhbZC4ON) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [Late Fee](https://open.spotify.com/album/7c1h0tdyNGHrRtcFfZJ3Vm) | 3:38 | 2025-06-12 | 2025-06-20 |
 | [Living](https://open.spotify.com/track/41RCdAt1hvIfBOg5gsdCdz) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Living](https://open.spotify.com/album/3C4N0csezUXLqo5aEsR4Ae) | 3:01 | 2025-10-02 | 2025-10-10 |
 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 | 2024-03-28 | 2024-04-05 |
+| [Living Large](https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 2:28 | 2026-07-16 |  |
 | [Living Less](https://open.spotify.com/track/5d9xpprlYS5lLRTFebBCJE) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Living Less](https://open.spotify.com/album/31y2oBtE605SBDqM4no7lC) | 2:43 | 2024-09-19 | 2024-09-27 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-16 | 2024-05-24 |
 | [Liza M1](https://open.spotify.com/track/37VVNfgGTkOTSV1Lgw5WVH) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Liza M1](https://open.spotify.com/album/7J9BOI5vYSPAyWFn8fi47s) | 4:35 | 2025-03-20 | 2025-03-28 |
@@ -11929,6 +11931,7 @@
 | [The Dance](https://open.spotify.com/track/7xGvYCFhK8YtTsPMCkrYNm) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [LEGACY](https://open.spotify.com/album/3QNAOCNjw9KfHre2U3TWLV) | 3:31 | 2024-12-05 | 2024-12-13 |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-17 | 2023-08-25 |
 | [The Darkness](https://open.spotify.com/track/2e4FrUm8CiGmNvIgSOu4CF) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Reason To Believe](https://open.spotify.com/album/4XdLdI1tIzVWuLX5JjLvGu) | 3:39 | 2026-05-28 | 2026-06-05 |
+| [The Day I Hang It Up](https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [The Day I Hang It Up](https://open.spotify.com/album/5yWMqaHPPBwpS5sOhGU9u5) | 2:41 | 2026-07-16 |  |
 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 | 2025-11-13 | 2025-11-21 |
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-04 | 2025-09-12 |
 | [The Death of the Crows](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [X\-ÆON](https://open.spotify.com/album/5ufm3YpuYfSpMyPapW5Vay) | 3:09 | 2025-10-16 | 2025-10-24 |
@@ -12547,8 +12550,6 @@
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 | 2023-06-30 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-07-31 | 2025-08-08 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-05-24 |
-| [Track 1](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 0:00 | 2026-07-16 |  |
-| [Track 8](https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 0:00 | 2026-07-16 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 | 2026-02-06 |

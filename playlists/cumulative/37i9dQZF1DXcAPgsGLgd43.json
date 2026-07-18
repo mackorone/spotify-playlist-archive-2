@@ -4049,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "El Alma",
+        "url": "https://open.spotify.com/album/6THsT4Ewl8QZ5X2W6l7OTO"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146160,
+      "name": "El Alma",
+      "url": "https://open.spotify.com/track/1aIqaRMpbmA2aPZj2k6q1S"
+    },
+    {
+      "album": {
         "name": "El Baile",
         "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
@@ -4576,7 +4594,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 163125,
       "name": "Fatima",
       "url": "https://open.spotify.com/track/0u8Kaw5kwAslngfsJs2TP5"
@@ -5371,6 +5389,28 @@
     },
     {
       "album": {
+        "name": "La Bamba",
+        "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
+      },
+      "artists": [
+        {
+          "name": "MESSINA.",
+          "url": "https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV"
+        },
+        {
+          "name": "Rawling",
+          "url": "https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197862,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
+    },
+    {
+      "album": {
         "name": "La Boca (JP Garcia Remix)",
         "url": "https://open.spotify.com/album/31JP6lshNMGXh6hBKNQpv6"
       },
@@ -5566,7 +5606,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 205750,
       "name": "La Discoteca - Radio Edit",
       "url": "https://open.spotify.com/track/61UIk6qr7g0djFzhwgUYLH"
@@ -5818,6 +5858,24 @@
       "duration_ms": 160000,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
+    },
+    {
+      "album": {
+        "name": "La Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2SG6u81yTtHu1mjPRieVrh"
+      },
+      "artists": [
+        {
+          "name": "Amal Nemer",
+          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4UR5cxT3PNf6UAAWhhz67M"
     },
     {
       "album": {
@@ -6868,7 +6926,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180000,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/1WpbVQ3hkP9QubhkNZv3AX"
@@ -8981,6 +9039,24 @@
     },
     {
       "album": {
+        "name": "RAMITO",
+        "url": "https://open.spotify.com/album/5KmFY9CRZVYHgM4rXI1gzB"
+      },
+      "artists": [
+        {
+          "name": "Les Castizos",
+          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185952,
+      "name": "RAMITO",
+      "url": "https://open.spotify.com/track/7qwztTtuPusFuB5Ogi1QQN"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -9010,7 +9086,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167166,
       "name": "Reina de la Pista",
       "url": "https://open.spotify.com/track/5ZmOi8QTdksIUcyjvwYQGx"

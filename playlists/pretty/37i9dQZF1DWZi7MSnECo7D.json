@@ -1,15 +1,131 @@
 {
-  "description": "M\u00fasica brasileira fora da curva. Foto: Karen Jonz, Fernanda Takai",
-  "num_followers": 762775,
+  "description": "M\u00fasica brasileira fora da curva. Foto: Carmino",
+  "num_followers": 762701,
   "original_name": "alt BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqTFzJ/wgyAKigNxOYV0uQkv3ZD",
+  "snapshot_id": "AAAAAL+NzksMNUScV/y5opTyRX/D5bA4",
   "tracks": [
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "P\u00e9gaso",
+        "url": "https://open.spotify.com/album/2WLLocXOrTbqRvCKpxMPRh"
+      },
+      "artists": [
+        {
+          "name": "Carmino",
+          "url": "https://open.spotify.com/artist/2q4wKrkDhx0s9zhcZxlIX2"
+        }
+      ],
+      "duration_ms": 249398,
+      "name": "P\u00e9gaso",
+      "url": "https://open.spotify.com/track/6Tz4qXP09rIOhYFhht69xy"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "quero ir pra casa",
+        "url": "https://open.spotify.com/album/6q4od1wo4vEx4ykGSTJpHu"
+      },
+      "artists": [
+        {
+          "name": "ursamenor",
+          "url": "https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK"
+        }
+      ],
+      "duration_ms": 192105,
+      "name": "eu sei muito bem",
+      "url": "https://open.spotify.com/track/0Q5HcBX5eqM6ciNMdIxlP3"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "Amiga do Tempo",
+        "url": "https://open.spotify.com/album/2pO6Ut3Xva2Dx7tlVcL36S"
+      },
+      "artists": [
+        {
+          "name": "boasorte",
+          "url": "https://open.spotify.com/artist/5io1VxUi0EDMOxkZqfrEE6"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Amiga do Tempo",
+      "url": "https://open.spotify.com/track/24lyQ8f2VScw0E36XDtxjO"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "voc\u00ea flutua?",
+        "url": "https://open.spotify.com/album/3TSmJYVVVEa7WKeoIahNNd"
+      },
+      "artists": [
+        {
+          "name": "Cecilia j\u00e1 n\u00e3o \u00e9 + a mesma",
+          "url": "https://open.spotify.com/artist/6VW3jkSMQuIxnWOiUkXrmQ"
+        },
+        {
+          "name": "Niery",
+          "url": "https://open.spotify.com/artist/6lHHStJk0BXXjCUZQ4kGM6"
+        }
+      ],
+      "duration_ms": 251371,
+      "name": "voc\u00ea flutua?",
+      "url": "https://open.spotify.com/track/0aG28IoMrqCTZv9Santu0R"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "desculpa eu ser um trem desgovernado",
+        "url": "https://open.spotify.com/album/1Ybn4BCcUGKV0W05xoEnQ4"
+      },
+      "artists": [
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "duration_ms": 228010,
+      "name": "desculpa eu ser um trem desgovernado",
+      "url": "https://open.spotify.com/track/1zeDwHNgcA5tE8eouovhmw"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "Slowdancing",
+        "url": "https://open.spotify.com/album/2esz0fEXPbuLkodnlHPkbU"
+      },
+      "artists": [
+        {
+          "name": "Marina Mole",
+          "url": "https://open.spotify.com/artist/2NfeWZIShKTCykmRDr3HWv"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Slowdancing",
+      "url": "https://open.spotify.com/track/1KQpLRKz2pFNcW321SMrXK"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "Me Deixe Estar",
+        "url": "https://open.spotify.com/album/5QY7Wb95tBrj2I67ziAhJX"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 241596,
+      "name": "Me Deixe Estar",
+      "url": "https://open.spotify.com/track/6Cqw1DqoQOkrFGCX2uTc3d"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "SESS\u00c3O DE HORROR ft. Fernanda Takai (Original)",
         "url": "https://open.spotify.com/album/5r9jtNz7NBtrGwUZq3GO4J"
@@ -29,107 +145,7 @@
       "url": "https://open.spotify.com/track/0ZuAeAWRf9YEc55YsZf9ez"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "N\u00e3o Tem Espa\u00e7o pra Mais Nada (Al\u00e9m do Seu Ego Aqui)",
-        "url": "https://open.spotify.com/album/5wZpDEdgTDf8nIYaDHBz7Q"
-      },
-      "artists": [
-        {
-          "name": "Turmallina",
-          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "N\u00e3o Tem Espa\u00e7o pra Mais Nada (Al\u00e9m do Seu Ego Aqui)",
-      "url": "https://open.spotify.com/track/0Wxwy0hM31v475vv2NKBmc"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Sem Fronteiras",
-        "url": "https://open.spotify.com/album/6JXjV8CKdndWGknRTAZsR9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Berle",
-          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
-        },
-        {
-          "name": "Nyron Higor",
-          "url": "https://open.spotify.com/artist/2WYlmnoa3sQwZVX6CYwlsQ"
-        }
-      ],
-      "duration_ms": 227807,
-      "name": "Voc\u00ea J\u00e1 Sabe Que Eu Te Amo",
-      "url": "https://open.spotify.com/track/5Rnie3NITLaAfeBKIcTSPu"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Colch\u00e3o",
-        "url": "https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mizutani",
-          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Colch\u00e3o",
-      "url": "https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Amiga do Tempo",
-        "url": "https://open.spotify.com/album/2pO6Ut3Xva2Dx7tlVcL36S"
-      },
-      "artists": [
-        {
-          "name": "boasorte",
-          "url": "https://open.spotify.com/artist/5io1VxUi0EDMOxkZqfrEE6"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Amiga do Tempo",
-      "url": "https://open.spotify.com/track/24lyQ8f2VScw0E36XDtxjO"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "desculpa eu ser um trem desgovernado",
-        "url": "https://open.spotify.com/album/1Ybn4BCcUGKV0W05xoEnQ4"
-      },
-      "artists": [
-        {
-          "name": "saudade",
-          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
-        }
-      ],
-      "duration_ms": 228010,
-      "name": "desculpa eu ser um trem desgovernado",
-      "url": "https://open.spotify.com/track/1zeDwHNgcA5tE8eouovhmw"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Me Deixe Estar",
-        "url": "https://open.spotify.com/album/5QY7Wb95tBrj2I67ziAhJX"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 241596,
-      "name": "Me Deixe Estar",
-      "url": "https://open.spotify.com/track/6Cqw1DqoQOkrFGCX2uTc3d"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Animais",
         "url": "https://open.spotify.com/album/5JqhYaTwY5FlU6WyXv87XT"
@@ -145,7 +161,23 @@
       "url": "https://open.spotify.com/track/3dSTyRbUYDRxo1dZLGgTd8"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/6zdZyXRycmRScvnimJkSNj"
+      },
+      "artists": [
+        {
+          "name": "Erro Cora\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/128k4zZvKWQ43qw2KJsNKA"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/6Dqp3yGMW9Ieenpra36Quz"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Cinema B\u00e9lico?",
         "url": "https://open.spotify.com/album/7HTM8l0ms2UGoIGOSbtnKD"
@@ -165,7 +197,23 @@
       "url": "https://open.spotify.com/track/4X6ahvTtoxqt99uFNvzmVb"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "Ainda nem doeu",
+        "url": "https://open.spotify.com/album/5MI0ed8NiGXQwDD9VXxYJU"
+      },
+      "artists": [
+        {
+          "name": "Morro Fuji",
+          "url": "https://open.spotify.com/artist/1pWhGcoXS2qPnzp69pd9Q5"
+        }
+      ],
+      "duration_ms": 189857,
+      "name": "Eu do Futuro",
+      "url": "https://open.spotify.com/track/3JCJGvNlAFnUhN11qbqptG"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Y",
         "url": "https://open.spotify.com/album/3qn8ps9vNqRIuTG2t5Xk5p"
@@ -185,39 +233,7 @@
       "url": "https://open.spotify.com/track/4hZFY1eyaSAKegAOZMc8r0"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
-        "url": "https://open.spotify.com/album/1FQQxM4RKDl4Ow9VjrKZkj"
-      },
-      "artists": [
-        {
-          "name": "Bruno Berle",
-          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
-        }
-      ],
-      "duration_ms": 205081,
-      "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/5fTAcOluWUSutQZZ3gu0fQ"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "meia volta",
-        "url": "https://open.spotify.com/album/5mJRNHDQf9db5gFTu9nD1W"
-      },
-      "artists": [
-        {
-          "name": "ursamenor",
-          "url": "https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK"
-        }
-      ],
-      "duration_ms": 225456,
-      "name": "meia volta",
-      "url": "https://open.spotify.com/track/3uPnhYJOAw1lvwRewOLS8U"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "PEDAGIOS Y CARONAS",
         "url": "https://open.spotify.com/album/1ADyzZnYO53coeiJT79BtK"
@@ -233,39 +249,43 @@
       "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
-        "name": "Te amo e ponto.",
-        "url": "https://open.spotify.com/album/428bKqiaco0xZ9Z9W1GIYr"
+        "name": "Sem Fronteiras",
+        "url": "https://open.spotify.com/album/6JXjV8CKdndWGknRTAZsR9"
       },
       "artists": [
         {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        },
+        {
+          "name": "Nyron Higor",
+          "url": "https://open.spotify.com/artist/2WYlmnoa3sQwZVX6CYwlsQ"
         }
       ],
-      "duration_ms": 180684,
-      "name": "Te amo e ponto.",
-      "url": "https://open.spotify.com/track/0lY05dmtTNRpEhuVasgckZ"
+      "duration_ms": 227807,
+      "name": "Voc\u00ea J\u00e1 Sabe Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/5Rnie3NITLaAfeBKIcTSPu"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
-        "name": "da janela",
-        "url": "https://open.spotify.com/album/0uKntdziPCXeqS2Pdt1wnG"
+        "name": "Colch\u00e3o",
+        "url": "https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ"
       },
       "artists": [
         {
-          "name": "ursamenor",
-          "url": "https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK"
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
         }
       ],
-      "duration_ms": 233986,
-      "name": "da janela",
-      "url": "https://open.spotify.com/track/1HRnDYfGjQhW4f9TH6EVk5"
+      "duration_ms": 187000,
+      "name": "Colch\u00e3o",
+      "url": "https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Monocrom\u00e1tica",
         "url": "https://open.spotify.com/album/3IHmjCWCSK4VMkmOXi1vat"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/5cOgEcwXJ8b0KlQS8ijvOT"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Musa (Batata Boy Remix)",
         "url": "https://open.spotify.com/album/2CVTnZrHsasXfskzbk3d08"
@@ -301,7 +321,23 @@
       "url": "https://open.spotify.com/track/17zjbTc884pSYpiqlz263q"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "meia volta",
+        "url": "https://open.spotify.com/album/5mJRNHDQf9db5gFTu9nD1W"
+      },
+      "artists": [
+        {
+          "name": "ursamenor",
+          "url": "https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK"
+        }
+      ],
+      "duration_ms": 225456,
+      "name": "meia volta",
+      "url": "https://open.spotify.com/track/3uPnhYJOAw1lvwRewOLS8U"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Migalhas",
         "url": "https://open.spotify.com/album/6fQCzPUP45tyjMbwzcOlKJ"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Que Lado?",
         "url": "https://open.spotify.com/album/13dWGu2HAxViCyFwwIg5zL"
@@ -333,7 +369,7 @@
       "url": "https://open.spotify.com/track/1g0SOcGdmSqHRefSeRRMru"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Catamar\u00e3",
         "url": "https://open.spotify.com/album/3xj0ACmQ7wluSKYIISFfae"
@@ -349,23 +385,7 @@
       "url": "https://open.spotify.com/track/6iuuKZ0eVuRrv6DzL6NAni"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Ainda nem doeu",
-        "url": "https://open.spotify.com/album/5MI0ed8NiGXQwDD9VXxYJU"
-      },
-      "artists": [
-        {
-          "name": "Morro Fuji",
-          "url": "https://open.spotify.com/artist/1pWhGcoXS2qPnzp69pd9Q5"
-        }
-      ],
-      "duration_ms": 189857,
-      "name": "Eu do Futuro",
-      "url": "https://open.spotify.com/track/3JCJGvNlAFnUhN11qbqptG"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Eu Sinto Muito!",
         "url": "https://open.spotify.com/album/1nA2sOOYgAYDAa53hft9DX"
@@ -385,7 +405,39 @@
       "url": "https://open.spotify.com/track/2edZucoKG26rfWBX96cpWy"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "N\u00e3o Tem Espa\u00e7o pra Mais Nada (Al\u00e9m do Seu Ego Aqui)",
+        "url": "https://open.spotify.com/album/5wZpDEdgTDf8nIYaDHBz7Q"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "N\u00e3o Tem Espa\u00e7o pra Mais Nada (Al\u00e9m do Seu Ego Aqui)",
+      "url": "https://open.spotify.com/track/0Wxwy0hM31v475vv2NKBmc"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "Te amo e ponto.",
+        "url": "https://open.spotify.com/album/428bKqiaco0xZ9Z9W1GIYr"
+      },
+      "artists": [
+        {
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        }
+      ],
+      "duration_ms": 180684,
+      "name": "Te amo e ponto.",
+      "url": "https://open.spotify.com/track/0lY05dmtTNRpEhuVasgckZ"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Dil\u00favio de Dinheiro Algum",
         "url": "https://open.spotify.com/album/7Fr1ExGVYK2g9zUF7oxLWv"
@@ -401,7 +453,7 @@
       "url": "https://open.spotify.com/track/4kGAcLyuxF38RA7dmGEjYG"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Lendas e Sol",
         "url": "https://open.spotify.com/album/6Wnk6h19k5JXof0qu0LxjC"
@@ -417,7 +469,7 @@
       "url": "https://open.spotify.com/track/4q7bIdBEYSFpt3xsK63Kkn"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "QUASE SUPERFICIAL",
         "url": "https://open.spotify.com/album/3x1rXMOCmKz7eSDeqBMAf6"
@@ -433,7 +485,23 @@
       "url": "https://open.spotify.com/track/12fr1LzY5hOi6crkKud3F1"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "da janela",
+        "url": "https://open.spotify.com/album/0uKntdziPCXeqS2Pdt1wnG"
+      },
+      "artists": [
+        {
+          "name": "ursamenor",
+          "url": "https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "da janela",
+      "url": "https://open.spotify.com/track/1HRnDYfGjQhW4f9TH6EVk5"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Feliz e triste ao mesmo tempo",
         "url": "https://open.spotify.com/album/00iuHiqHtjgZnStQBF7C6w"
@@ -449,7 +517,7 @@
       "url": "https://open.spotify.com/track/7rS7bDTTMFsOL3W53LwFa1"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Luneta Azul",
         "url": "https://open.spotify.com/album/3BDzguosvNEg5WMNVqyqr0"
@@ -465,7 +533,7 @@
       "url": "https://open.spotify.com/track/1BZddqkm7MPfw2mYUhd8An"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "NOVA BOSSA: aquele abra\u00e7o aos ratos vivos",
         "url": "https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h"
@@ -481,7 +549,7 @@
       "url": "https://open.spotify.com/track/0FKiqBavvrUq9csPKGQxEY"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Bicicleta",
         "url": "https://open.spotify.com/album/5mAxGGwUUdtykGZLCIz4zd"
@@ -497,7 +565,23 @@
       "url": "https://open.spotify.com/track/5R6QiRpQDGoWsdjj1Q0pfs"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
+      "album": {
+        "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/1FQQxM4RKDl4Ow9VjrKZkj"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "duration_ms": 205081,
+      "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/5fTAcOluWUSutQZZ3gu0fQ"
+    },
+    {
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "SALINA",
         "url": "https://open.spotify.com/album/1B6dVG3DEX3ypRXrKUmWwr"
@@ -513,7 +597,7 @@
       "url": "https://open.spotify.com/track/6wjGy9KGq91UBqj52ydt9h"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "fasc\u00ednio diamantino",
         "url": "https://open.spotify.com/album/4vAdtBPHjmQFJFOOprPmmh"
@@ -529,7 +613,7 @@
       "url": "https://open.spotify.com/track/49unruR1AIczXADwmD2ZNO"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Vestida de Vento",
         "url": "https://open.spotify.com/album/3myw4eTQ18ZL6KdbZUtjfG"
@@ -545,7 +629,7 @@
       "url": "https://open.spotify.com/track/1DIZQjhCkTRYr3ci5qFiqZ"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Memor\u00e1vel / Nuvens Espirais (Larara)",
         "url": "https://open.spotify.com/album/0HB0IUE7Fiey3kZwvwz1Mm"
@@ -561,7 +645,7 @@
       "url": "https://open.spotify.com/track/52L4iJdJcqRtmpk9K1KPe1"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "seres urbanos",
         "url": "https://open.spotify.com/album/3oCQoO5vhmFboVlUlLqyYg"
@@ -577,7 +661,7 @@
       "url": "https://open.spotify.com/track/358mmoC0a4iwFKNQ4nBan5"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "SETOR",
         "url": "https://open.spotify.com/album/0VSmput9OOKMRScDdAd96N"
@@ -593,7 +677,7 @@
       "url": "https://open.spotify.com/track/2E7kMm2RIUzeFxuVVM11FV"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Ainda Aqui",
         "url": "https://open.spotify.com/album/14sjEivdUvcT0kdBzRRYDC"
@@ -609,7 +693,7 @@
       "url": "https://open.spotify.com/track/2eZWmLAuzWgNTJZlQV2E6p"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Assim (Acho Um Pouco Bom)",
         "url": "https://open.spotify.com/album/18KpMIbMOSkPEjlaCPpjvM"
@@ -629,7 +713,7 @@
       "url": "https://open.spotify.com/track/1qibtJEVQ6iZ3hM23M9KQV"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Trailers do futuro",
         "url": "https://open.spotify.com/album/4bLafK72fi1C4KIXfYHEi0"
@@ -649,7 +733,7 @@
       "url": "https://open.spotify.com/track/5fXO4FNwekuKXWjpaxhuEP"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Desculpa",
         "url": "https://open.spotify.com/album/7bypvt3AG7P0zibqWQzudA"
@@ -665,7 +749,7 @@
       "url": "https://open.spotify.com/track/0eYhsqk8WYzwjI5EEiKHL8"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Faz Tanto Tempo",
         "url": "https://open.spotify.com/album/1y0esu7IlufE8X2d0mLVRz"
@@ -681,7 +765,7 @@
       "url": "https://open.spotify.com/track/4QLHR9sNJDPwNX0pAjkPp0"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/3gzq2cXMfBjN5oJxC8K05M"
@@ -697,7 +781,7 @@
       "url": "https://open.spotify.com/track/2rNO2pDk2R1WK3YApUmR8J"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX"
@@ -713,7 +797,7 @@
       "url": "https://open.spotify.com/track/7iVdVEANzcCXpYpLRzsd6w"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "euforia EP",
         "url": "https://open.spotify.com/album/7GBsEG9yn0oDIHHjNy9pxp"
@@ -729,7 +813,7 @@
       "url": "https://open.spotify.com/track/5IrFoIIwQWUZXonhxQy5yM"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "O Que Fazem Os Adultos?",
         "url": "https://open.spotify.com/album/0oIrkLblF8M5gMINtQItma"
@@ -749,7 +833,7 @@
       "url": "https://open.spotify.com/track/2wtMnf9LHAuLOKJiU9GE8G"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Melhor Resposta",
         "url": "https://open.spotify.com/album/3HkXrJbILbnwdazjRGFZOv"
@@ -765,7 +849,7 @@
       "url": "https://open.spotify.com/track/3y4XwP5QX7z2E9Co6U2lKs"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "No Lugar",
         "url": "https://open.spotify.com/album/1k6CBaapU4uoa4f1RgARjz"
@@ -781,7 +865,7 @@
       "url": "https://open.spotify.com/track/1vhNRQZLL0PtdpkzLucwK0"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Dissolu\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
@@ -801,7 +885,7 @@
       "url": "https://open.spotify.com/track/30V5cpClEQtLBzmgQUIDH4"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Sem In\u00edcio Nem Fim",
         "url": "https://open.spotify.com/album/4X8OdTAgIsHiFYItSm1k5D"
@@ -817,7 +901,7 @@
       "url": "https://open.spotify.com/track/3ui5IGS8jIlvqmtD9EfJDP"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Me Diz Que Vai Ficar Tudo Bem",
         "url": "https://open.spotify.com/album/777j9m7iXB8jagtOqxPqIR"
@@ -833,7 +917,7 @@
       "url": "https://open.spotify.com/track/0odwNQkRJs4vrvPfovvOHl"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Palavra de Amigo",
         "url": "https://open.spotify.com/album/0nrRXmFg1ez4pjIWaEhVlv"
@@ -849,7 +933,7 @@
       "url": "https://open.spotify.com/track/1eceS7epAB4s1U4TRD1FyC"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "AQUINO ao vivo",
         "url": "https://open.spotify.com/album/7KBvhJdGKzB0mAuivMfGSG"
@@ -865,7 +949,7 @@
       "url": "https://open.spotify.com/track/2qmh5D1CE0WEqFQ8SB1SzW"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "A Palavra",
         "url": "https://open.spotify.com/album/2cVYHWFKHLRJAzT4hfPAPS"
@@ -881,7 +965,7 @@
       "url": "https://open.spotify.com/track/5WcrYJKJPbkbFbhAWw8Scg"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Luzes Que V\u00e3o Passando - Frio",
         "url": "https://open.spotify.com/album/0D40fjIvrWnBTNMDrHXuW3"
@@ -901,7 +985,7 @@
       "url": "https://open.spotify.com/track/7x3VTgrjDdkDhDA2kUog9v"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Depressa",
         "url": "https://open.spotify.com/album/2o3ooJPzpn2Y6UHGtoRtoN"
@@ -917,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1fdw0RylmEVesr0sKUeT4x"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Denga (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
@@ -933,7 +1017,7 @@
       "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "RESID\u00caNCIA RISCO #01",
         "url": "https://open.spotify.com/album/48pIeNximaHm0vhUa8naBT"
@@ -953,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0fSkB57cN8TsZBIbhvUeNA"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/0bAjb8XF1KuD49NvdRgiiI"
@@ -969,51 +1053,7 @@
       "url": "https://open.spotify.com/track/3C7rx29J2MH2rVrEdLUKWc"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Descansad\u00e3o",
-        "url": "https://open.spotify.com/album/5xwO7zqxJBdv17d0jrj6sJ"
-      },
-      "artists": [
-        {
-          "name": "Deluce",
-          "url": "https://open.spotify.com/artist/1Ud5u4n6HkiJkAQDzUQVfF"
-        },
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "Descansad\u00e3o",
-      "url": "https://open.spotify.com/track/74rzS1YhGpXzqb00TF1BjS"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "N\u00c3O VOU DAN\u00c7AR NA SUA PISTA (JoJo Version)",
-        "url": "https://open.spotify.com/album/5d4zMn8LZqqiEBzCFnFbXR"
-      },
-      "artists": [
-        {
-          "name": "UMZ\u00c9",
-          "url": "https://open.spotify.com/artist/2cxxQoxSHD93xP7Zk1NbPL"
-        },
-        {
-          "name": "felino",
-          "url": "https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/2ynGcMGcoRzQbfn3TZTMpV"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "N\u00c3O VOU DAN\u00c7AR NA SUA PISTA - JoJo Version",
-      "url": "https://open.spotify.com/track/5UCgxzdH4aiE84j2k8qMge"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "BALA DE BANANA",
         "url": "https://open.spotify.com/album/2ecM686DWMlwwbKvnqtjto"
@@ -1029,7 +1069,7 @@
       "url": "https://open.spotify.com/track/48TkQgizaqWSIajEodSKLx"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "fim de domingo",
         "url": "https://open.spotify.com/album/7mNeGSINS61SOeqVOhOj1F"
@@ -1045,7 +1085,7 @@
       "url": "https://open.spotify.com/track/28NK0zNiD1tYD8TRYDzkzz"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX"
@@ -1061,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1C6o5ypsjD6TUPlTPqFbT0"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Avenida",
         "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
@@ -1077,7 +1117,7 @@
       "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Ainda aprendendo a lidar",
         "url": "https://open.spotify.com/album/2Fw76SOb68k0RtNTWA5TKv"
@@ -1093,31 +1133,7 @@
       "url": "https://open.spotify.com/track/0IRUazz8KtNHIiyf5ezOGX"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Voc\u00ea \u00c9 Marcante",
-        "url": "https://open.spotify.com/album/2L79fd9okcnR3p1fCTGg4P"
-      },
-      "artists": [
-        {
-          "name": "Vitor Brauer",
-          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
-        },
-        {
-          "name": "Sandy Iketani",
-          "url": "https://open.spotify.com/artist/3XDKhk3nGAljbqHpC3RNIJ"
-        },
-        {
-          "name": "JOBSORATO",
-          "url": "https://open.spotify.com/artist/2AiYj140FAIbxT9vGHnjTC"
-        }
-      ],
-      "duration_ms": 206669,
-      "name": "Voc\u00ea \u00c9 Marcante - Rock Doido Mix",
-      "url": "https://open.spotify.com/track/4zrCqMzFIkW5e9dletNJBZ"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "T\u00e1 Foda",
         "url": "https://open.spotify.com/album/2j3ATjDBr3H0LgUiOyhUkN"
@@ -1141,23 +1157,7 @@
       "url": "https://open.spotify.com/track/4NmGGeaEyyfv69VxfXjdRH"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mizutani",
-          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Presente",
-      "url": "https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Agu\u00e7a",
         "url": "https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK"
     },
     {
-      "added_at": "2026-07-10 03:03:14",
+      "added_at": "2026-07-17 03:03:24",
       "album": {
         "name": "Me Pede",
         "url": "https://open.spotify.com/album/0gnhQV4j0nQh4NvoNVHfad"
@@ -1187,26 +1187,6 @@
       "duration_ms": 179076,
       "name": "Me Pede",
       "url": "https://open.spotify.com/track/3uTUUjzDliYIEpHi1YSLJC"
-    },
-    {
-      "added_at": "2026-07-10 03:03:14",
-      "album": {
-        "name": "Sabo",
-        "url": "https://open.spotify.com/album/2bW3OKawZMlsEwunwtWjAk"
-      },
-      "artists": [
-        {
-          "name": "Hurtmold",
-          "url": "https://open.spotify.com/artist/65RycP7iE8vX8tbzKy3top"
-        },
-        {
-          "name": "Sess\u00f5es Selo Sesc",
-          "url": "https://open.spotify.com/artist/5UAhmzty3dTzxnMzn1aWuU"
-        }
-      ],
-      "duration_ms": 485226,
-      "name": "Sabo",
-      "url": "https://open.spotify.com/track/0ABwGonw1WbL4BouDlRgeO"
     }
   ],
   "unique_name": "alt BR",

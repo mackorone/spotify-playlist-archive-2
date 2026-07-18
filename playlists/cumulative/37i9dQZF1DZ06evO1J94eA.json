@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Summer Jazz: Herbie Hancock",
+        "url": "https://open.spotify.com/album/27euznpSVGZG3Kl4KfaCUt"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280146,
+      "name": "Riot - Remastered 2004",
+      "url": "https://open.spotify.com/track/4kC1tDzY0GFCG65FYRISAg"
+    },
+    {
+      "album": {
         "name": "Future Shock",
         "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 440600,
       "name": "Spider",
       "url": "https://open.spotify.com/track/1pY0F9OQikG0LVlU3eTSj2"

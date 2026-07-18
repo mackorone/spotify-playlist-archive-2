@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Deb Fan
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Novel Fergus & 床哥
 
-1,710 songs - 4 day 0 hr 46 min
+1,712 songs - 4 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Favorite Drug](https://open.spotify.com/track/7acFbTCQRZu1uDTfoyZtc8) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Favorite Drug](https://open.spotify.com/album/6fbi9zwD9WKXi4acKbZce4) | 3:45 | 2022-06-09 | 2022-09-09 |
 | [Favorite Drug \(feat\. kayan9896\) \- Remix](https://open.spotify.com/track/2DjlbZzO8rfqaoPcufRJqN) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Favorite Drug \(feat\. kayan9896\) \[Remix\]](https://open.spotify.com/album/0B3pSSFcnE3GNatFhuRMi8) | 3:43 | 2022-09-29 | 2023-03-18 |
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-02-29 | 2024-06-07 |
+| [FB愛不完](https://open.spotify.com/track/4Quwh4FUE0N9APHnIsLUul) | [床哥](https://open.spotify.com/artist/5tz6K8BYKfiVFB8yQRdGX8), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [FB愛不完](https://open.spotify.com/album/36RLX27ALeHuc0hG2apfF2) | 2:56 | 2026-07-17 |  |
 | [Fears](https://open.spotify.com/track/1vqGvYITaMS6IYvJPby3sY) | [Sage Vapid](https://open.spotify.com/artist/7d598fEPZUr7rcu9HFkVof) | [Fears](https://open.spotify.com/album/7FIG6JsX0ihcw0gJJl1U3Q) | 3:55 | 2025-05-29 | 2025-11-21 |
 | [feel / night](https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [feel / night](https://open.spotify.com/album/7Igprspl27yshxLlS7ZfeW) | 3:37 | 2023-03-30 | 2023-07-14 |
 | [Feel the Rain](https://open.spotify.com/track/41ePILFgS5liu9g4iBodob) | [DEADHEIR](https://open.spotify.com/artist/3kUjUAQE2usKTo1Gt2MZBU) | [Feel the Rain](https://open.spotify.com/album/7GVEQttmD40HbQf85iIE68) | 4:20 | 2022-09-01 | 2023-01-06 |
@@ -959,6 +960,7 @@
 | [tell me i'm not annoying](https://open.spotify.com/track/15sM0O9U2nAhmUKmk4LVI9) | [Jennifer Chan](https://open.spotify.com/artist/3VsN7FZqKWUitDdVDrmAmr) | [tell me i'm not annoying](https://open.spotify.com/album/3Js7JSyGr54eWFahEUK8bO) | 4:01 | 2023-07-13 | 2023-11-03 |
 | [Temptation](https://open.spotify.com/track/6p52RSR5MJdQf1p8LZ5zYx) | [Pabylon](https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E) | [Temptation](https://open.spotify.com/album/2S6RCowJ4LKF3X2KDZnkzT) | 3:37 | 2024-05-30 | 2024-11-15 |
 | [tenderly](https://open.spotify.com/track/4oE64Nfd25mBzYcdlymJgv) | [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [tenderly](https://open.spotify.com/album/7rGLqte04OEyOWJGvKTEvN) | 3:39 | 2024-01-25 | 2024-05-10 |
+| [text u](https://open.spotify.com/track/3cmk459dDNAu7WLtPJhAnv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [text u](https://open.spotify.com/album/1mSRlipSmdZwuX6pZGSKJP) | 2:29 | 2026-07-17 |  |
 | [That's ok](https://open.spotify.com/track/3RINdYUikBUKApA7U0uiIU) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Purple Heart](https://open.spotify.com/album/27FcEUK2T1DWv0IYOzW3JW) | 3:14 | 2022-05-26 | 2022-07-29 |
 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 | 2023-12-28 | 2024-05-10 |
 | [That’s My City](https://open.spotify.com/track/1n53s8k0DCPDlRmbvlemTy) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [AION](https://open.spotify.com/album/0ugzhDdaFaXenDixlPZKuU) | 2:56 | 2024-06-06 | 2024-11-15 |

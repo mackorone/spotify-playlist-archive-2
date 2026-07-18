@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,026 likes - 77 songs - 4 hr 28 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,030 likes - 79 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 75 | [WITHOUT A RUSH](https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [IS IT STILL IN ME?](https://open.spotify.com/album/1CnOt3j4Oxhu2Iy81TrpXJ) | 4:24 |
 | 76 | [Belmont's Burden](https://open.spotify.com/track/6JtTuNBzGGY9XCoosrEW58) | [Chaz](https://open.spotify.com/artist/0AMUMmgDk8XcRVkWwT3xpH) | [Gamers](https://open.spotify.com/album/4TDXJxqqHRtzFIKkx9ie4a) | 2:16 |
 | 77 | [Lagrimas sobre mi tumba](https://open.spotify.com/track/0Gnmrekg0aorhYHSORyoa5) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Lagrimas sobre mi tumba](https://open.spotify.com/album/30xueizYmcjpbJmsK4ZhXx) | 3:34 |
+| 78 | [Breathe](https://open.spotify.com/track/2gSkYHCtONOOIX4ukgAYx0) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 |
+| 79 | [One Way Out](https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [One Way Out](https://open.spotify.com/album/34LOAm5Emkw1jlx8OTOiGW) | 3:07 |
 
-Snapshot ID: `AAAEJXzgFvbQ+gJxHYsPtsGMDvG8ecid`
+Snapshot ID: `AAAEJ8LjqDq5nPxuOD5YoGsKcuIMlAsg`

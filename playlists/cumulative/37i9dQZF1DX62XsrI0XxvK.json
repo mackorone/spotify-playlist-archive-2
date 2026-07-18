@@ -3289,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Million Different Reasons",
+        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246803,
+      "name": "Million Different Reasons",
+      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
+    },
+    {
+      "album": {
         "name": "More Than",
         "url": "https://open.spotify.com/album/68Ur2E6rm3KMSmPPpUi9Qn"
       },
@@ -5088,24 +5106,6 @@
       "duration_ms": 210083,
       "name": "Touch (feat. Khole)",
       "url": "https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc"
-    },
-    {
-      "album": {
-        "name": "Million Different Reasons",
-        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
-      },
-      "artists": [
-        {
-          "name": "Jordan Susanto",
-          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
-        }
-      ],
-      "date_added": "2026-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
     },
     {
       "album": {

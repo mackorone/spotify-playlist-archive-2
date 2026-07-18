@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Acuerdate de Mi](https://open.spotify.com/track/37L1nLzyyha7aBEasI5hOD) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:13 | 2023-09-25 |  |
+| [Acuerdate de Mi](https://open.spotify.com/track/37L1nLzyyha7aBEasI5hOD) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:13 | 2023-09-25 | 2026-07-18 |
 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:29 | 2023-03-10 |  |
 | [Adios Madre Querida \- En Vivo](https://open.spotify.com/track/2WpnSBSuhytZxhpqy4nrpp) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:38 | 2024-11-25 | 2026-02-17 |
 | [Al Ver Que Te Vas \- En Vivo](https://open.spotify.com/track/1laxigh2D0jypvNDVLL2Rj) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:20 | 2024-05-21 | 2026-06-12 |
@@ -50,7 +50,7 @@
 | [Las Cuentas Claras \- Versión Norteño En Vivo](https://open.spotify.com/track/3nlTZwaA4blF3UQyCUpxX2) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:31 | 2023-07-30 | 2025-07-22 |
 | [Laurita Garza \- Versión Banda En Vivo](https://open.spotify.com/track/4eGrp5JWRFZc2j5Zsho9Ge) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:17 | 2023-03-10 |  |
 | [Leña De Pirul \- En Vivo](https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:16 | 2023-03-10 |  |
-| [Llegas](https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:22 | 2023-03-10 | 2026-07-10 |
+| [Llegas](https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:22 | 2023-03-10 |  |
 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 | 2023-03-10 |  |
 | [Mas Alla del Sol](https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Mas Alla del Sol](https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn) | 3:22 | 2025-04-13 |  |
 | [Me Bebi Tu Recuerdo](https://open.spotify.com/track/1DQ8PVNmNJqGVHBZSkoK5L) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/5fVPMn4h5ZPFEUJBHEs8lF) | 3:10 | 2025-03-15 |  |

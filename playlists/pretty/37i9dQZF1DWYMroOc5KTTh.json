@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 752518,
+  "num_followers": 752769,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgi0znBc2Zy93fmEtesC3aymCfd",
+  "snapshot_id": "AAAAAAHVocjhRvmN0Y+SxouhdHcF7sSV",
   "tracks": [
     {
       "added_at": "2026-07-09 23:00:40",
@@ -355,30 +355,6 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
-        "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 241061,
-      "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
-      "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
-    },
-    {
-      "added_at": "2026-07-09 23:00:40",
-      "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
       },
@@ -399,6 +375,30 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "added_at": "2026-07-09 23:00:40",
+      "album": {
+        "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
+        "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 241061,
+      "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
+      "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -647,22 +647,18 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Sound of You (ft. TEED)",
-        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         }
       ],
-      "duration_ms": 236528,
-      "name": "Sound of You (ft. TEED)",
-      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -703,18 +699,22 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Sound of You (ft. TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+      "duration_ms": 236528,
+      "name": "Sound of You (ft. TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
       "added_at": "2026-07-09 23:00:40",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-09 23:00:40",
       "album": {
+        "name": "Ultramoon",
+        "url": "https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 256526,
+      "name": "Ultramoon",
+      "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
+    },
+    {
+      "added_at": "2026-07-09 23:00:40",
+      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
-    },
-    {
-      "added_at": "2026-07-09 23:00:40",
-      "album": {
-        "name": "Ultramoon",
-        "url": "https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 256526,
-      "name": "Ultramoon",
-      "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
     },
     {
       "added_at": "2026-07-09 23:00:40",

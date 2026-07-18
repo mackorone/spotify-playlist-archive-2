@@ -16,10 +16,6 @@
         {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -417,6 +413,24 @@
     },
     {
       "album": {
+        "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type A)",
+        "url": "https://open.spotify.com/album/4PCJN1Q2vcXmSqxvSuaOsy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292245,
+      "name": "Can you guess what?",
+      "url": "https://open.spotify.com/track/1d4soSWVhtEkZu1uAxWBca"
+    },
+    {
+      "album": {
         "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
         "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
       },
@@ -450,28 +464,6 @@
       "duration_ms": 292245,
       "name": "Can you guess what?",
       "url": "https://open.spotify.com/track/6dLx7yqMlZnfQG2CEfoZKZ"
-    },
-    {
-      "album": {
-        "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type A)",
-        "url": "https://open.spotify.com/album/4PCJN1Q2vcXmSqxvSuaOsy"
-      },
-      "artists": [
-        {
-          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
-          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
-        }
-      ],
-      "date_added": "2022-05-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292245,
-      "name": "Can you guess what?",
-      "url": "https://open.spotify.com/track/1d4soSWVhtEkZu1uAxWBca"
     },
     {
       "album": {
@@ -732,10 +724,6 @@
         {
           "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
           "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -784,14 +772,6 @@
         {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u4e09\u65e5\u6708\u5b97\u8fd1",
-          "url": "https://open.spotify.com/artist/2vjGWPWlr1yKcblPJCeKHQ"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -946,10 +926,6 @@
         {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -972,10 +948,6 @@
         {
           "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
           "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -1020,14 +992,6 @@
         {
           "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
           "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
-        },
-        {
-          "name": "\u9577\u66fd\u88ae\u864e\u5fb9",
-          "url": "https://open.spotify.com/artist/07wH0MydXfKHy0H26NUlqm"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -1214,10 +1178,6 @@
         {
           "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
           "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -1480,10 +1440,6 @@
         {
           "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
           "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -1642,10 +1598,6 @@
         {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -1742,10 +1694,6 @@
         {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -1790,18 +1738,6 @@
         {
           "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
           "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
-        },
-        {
-          "name": "\u306b\u3063\u304b\u308a\u9752\u6c5f",
-          "url": "https://open.spotify.com/artist/2lHuU6Ms7WbqqbkcayH0GX"
-        },
-        {
-          "name": "\u5927\u5036\u5229\u4f3d\u7f85",
-          "url": "https://open.spotify.com/artist/4f5vdL86Piwkqs8iNb0fNA"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -1992,14 +1928,6 @@
         {
           "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
           "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
-        },
-        {
-          "name": "\u873b\u86c9\u5207",
-          "url": "https://open.spotify.com/artist/6OhDqYEtREqJ7DM0FI8G1X"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -3198,20 +3126,8 @@
       },
       "artists": [
         {
-          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
-          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
-        },
-        {
-          "name": "\u52a0\u5dde\u6e05\u5149",
-          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
           "name": "\u4eca\u5263",
           "url": "https://open.spotify.com/artist/3rYTbf1KoWmW1fpqRlV9lO"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -3234,10 +3150,6 @@
         {
           "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
           "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -3334,10 +3246,6 @@
         {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -3404,10 +3312,6 @@
         {
           "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
           "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -3530,10 +3434,6 @@
         {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -3592,10 +3492,6 @@
         {
           "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
           "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -3634,20 +3530,8 @@
       },
       "artists": [
         {
-          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
-          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
-        },
-        {
-          "name": "\u52a0\u5dde\u6e05\u5149",
-          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
           "name": "\u5ca9\u878d",
           "url": "https://open.spotify.com/artist/38TMuaHVygtqHhu8E3nXTa"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -4420,18 +4304,6 @@
         {
           "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
           "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
-        },
-        {
-          "name": "\u548c\u6cc9\u5b88\u517c\u5b9a",
-          "url": "https://open.spotify.com/artist/78TAC4erxSOlhvH9fqXUje"
-        },
-        {
-          "name": "\u5800\u5ddd\u56fd\u5e83",
-          "url": "https://open.spotify.com/artist/3yNFtmFzmhdtpPe31XwAXq"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",
@@ -4800,16 +4672,8 @@
       },
       "artists": [
         {
-          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
-          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
-        },
-        {
           "name": "\u52a0\u5dde\u6e05\u5149",
           "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
         }
       ],
       "date_added": "2022-05-24",

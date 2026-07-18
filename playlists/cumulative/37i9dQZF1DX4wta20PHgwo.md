@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-578 songs - 2 day 3 hr 25 min
+579 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Canon Couperin](https://open.spotify.com/track/6Hwhr1mdLOFZj6IezH13Ho) | [Tilo Weber](https://open.spotify.com/artist/3eHtftmDOgj9FpDTcPmvl4), [Tilo Weber Quartet](https://open.spotify.com/artist/7xujC7ezVI4o51vyM6U5UA) | [Canon Couperin](https://open.spotify.com/album/3krCKBEkUY1O67bSHlkGYR) | 5:18 | 2021-02-26 | 2021-10-01 |
 | [Canopy & Stars](https://open.spotify.com/track/79n6J2l0s1IcktamBUEjAd) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Salute to the Sun](https://open.spotify.com/album/7KL9LRIsBoto6VAfcQjM0D) | 7:51 | 2022-07-21 | 2022-10-05 |
 | [Canopy & Stars](https://open.spotify.com/track/7umqx02CQsnSjzmoGlwv1l) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Canopy & Stars](https://open.spotify.com/album/0zCJbbeQAiBakodQ7rNwT6) | 7:51 | 2020-12-04 | 2022-07-29 |
-| [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-05-22 |  |
+| [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-05-22 | 2026-07-18 |
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-21 | 2024-04-19 |
 | [Chelsea Bridge](https://open.spotify.com/track/4Hy5FWDo8kKW3iPga7YmrF) | [Juho Valjakka](https://open.spotify.com/artist/0aKY7KV2w80cRCZfEwwipw) | [Liminal Spaces](https://open.spotify.com/album/2gqbWgPLtXP5tWusQTcI67) | 4:38 | 2023-08-03 | 2024-07-20 |
 | [Children](https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 5:42 | 2020-05-03 | 2022-04-19 |
@@ -562,6 +562,7 @@
 | [Where Do We Go From Here](https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 3:49 | 2023-06-01 |  |
 | [Where Do You Go?](https://open.spotify.com/track/3eTUgNA4GrFu3mo1wy79ni) | [Cornelia Nilsson](https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c), [Daniel Franck](https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Where Do You Go?](https://open.spotify.com/album/637CSjIkYI1pALV0yrFcfc) | 6:58 | 2024-02-23 | 2026-02-14 |
 | [Where Light Settles](https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi) | 6:29 | 2026-04-24 |  |
+| [Where moments wait](https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Where moments wait](https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f) | 3:24 | 2026-07-17 |  |
 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 | 2022-07-21 | 2024-04-19 |
 | [Where or When](https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard time volume 3: The revolution of romance](https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0) | 2:48 | 2020-06-12 |  |
 | [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2020-05-08 | 2021-09-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Cody Simpson",
+  "description": "a little indie, a little pop, soda featuring Surfaces",
   "name": "soda",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 160666,
       "name": "16 dogs",
       "url": "https://open.spotify.com/track/6evha6l77b3R2dxTKRVXjh"
+    },
+    {
+      "album": {
+        "name": "Loveland (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6rLBGig7awR8nRMt0suKbv"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181928,
+      "name": "18",
+      "url": "https://open.spotify.com/track/2Df5ZX1R04fIp5uIyxrA8D"
     },
     {
       "album": {
@@ -9288,7 +9306,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 254424,
       "name": "FLORIDA MAN",
       "url": "https://open.spotify.com/track/7C5bt32X9IwDZqH3UNHZcU"
@@ -11196,7 +11214,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 192356,
       "name": "Heart",
       "url": "https://open.spotify.com/track/6EUSY6w1esfVEorLKpZbLZ"
@@ -12825,6 +12843,24 @@
     },
     {
       "album": {
+        "name": "Lost On The Way To Paradise",
+        "url": "https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159709,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL"
+    },
+    {
+      "album": {
         "name": "i hate her boyfriend's face",
         "url": "https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy"
       },
@@ -13930,7 +13966,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 220800,
       "name": "in my body",
       "url": "https://open.spotify.com/track/50nUvAn8Aag64TnXbLRD8V"
@@ -16308,7 +16344,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 172586,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
@@ -20114,6 +20150,28 @@
       "duration_ms": 180493,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/3IfZgsFeQe31nGg4xcb5AX"
+    },
+    {
+      "album": {
+        "name": "Crazy Rainbow",
+        "url": "https://open.spotify.com/album/7oyNub5nsPkJoyV6xatDcN"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136662,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/25daS9NP6OyeqyWgnsbBut"
     },
     {
       "album": {
@@ -25713,6 +25771,24 @@
     },
     {
       "album": {
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
+    },
+    {
+      "album": {
         "name": "The Art Of Letting Go",
         "url": "https://open.spotify.com/album/6U1qBWVsKKmUXnX69Ji96X"
       },
@@ -28794,7 +28870,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167523,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh"
@@ -30006,6 +30082,24 @@
       "duration_ms": 128397,
       "name": "Your Mom",
       "url": "https://open.spotify.com/track/4XpOw6STEFTNIpHeF1nXrI"
+    },
+    {
+      "album": {
+        "name": "All the Space Between",
+        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132840,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis"

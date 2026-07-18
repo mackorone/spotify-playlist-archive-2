@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14959,
+  "num_followers": 14963,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAB7OOaSExRaMCm2BeesXS4z",
+  "snapshot_id": "algfAAAAAADYfj367UFRTWRYWHirunwd",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Okemmuo (The Spirit of the Spirit)",
+        "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 354986,
+      "name": "Okemmuo (The Spirit of the Spirit)",
+      "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Lifter",
+      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        }
+      ],
+      "duration_ms": 246674,
+      "name": "Onememma (feat. Chioma Jesus)",
+      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bank Statements",
         "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
       },
@@ -403,62 +459,6 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        }
-      ],
-      "duration_ms": 246674,
-      "name": "Onememma (feat. Chioma Jesus)",
-      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Lifter",
-      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Okemmuo (The Spirit of the Spirit)",
-        "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
-      },
-      "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 354986,
-      "name": "Okemmuo (The Spirit of the Spirit)",
-      "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
     },
     {
       "added_at": null,

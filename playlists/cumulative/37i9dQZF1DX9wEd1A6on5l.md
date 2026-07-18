@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-905 songs - 1 day 18 hr 39 min
+906 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 | 2024-07-26 | 2025-04-01 |
 | [Casamigos](https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Casamigos](https://open.spotify.com/album/6VHl2eKVBKJ70NS2kvEfgk) | 2:10 | 2024-08-02 | 2024-08-26 |
 | [Cash](https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Wara Wara Szn](https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs) | 3:00 | 2024-06-07 | 2024-11-20 |
-| [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-08-29 |  |
+| [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-08-29 | 2026-07-18 |
 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 | 2023-11-10 | 2024-08-26 |
 | [CATALYST](https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [IRON ORE](https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr) | 2:32 | 2026-03-20 | 2026-05-22 |
 | [Catch Me Outside](https://open.spotify.com/track/0UWyHT8g7D7XYMCdeNfTQV) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Catch Me Outside](https://open.spotify.com/album/1Ie1r094Z0brpyrDeCepYW) | 2:50 | 2024-09-06 | 2024-09-20 |
@@ -297,6 +297,7 @@
 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 | 2023-10-18 |
 | [Feeling Good](https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Feeling Good](https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp) | 2:17 | 2023-11-10 | 2024-02-16 |
 | [Feels](https://open.spotify.com/track/1akSDgOrWqGhHy4ZWIM4nd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [Feels](https://open.spotify.com/album/7c9ijsXzppdoXA8OEdDA2k) | 3:03 | 2024-06-07 | 2024-07-13 |
+| [FFG](https://open.spotify.com/track/3LiMM8tFNp81ZCmQvxjQbf) | [The Lagos Panic](https://open.spotify.com/artist/3dNMFM4VVHFHZd3yo1SpCG), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [FFG](https://open.spotify.com/album/2o9hkG6LiPFh6FKZwqRArG) | 3:53 | 2026-07-17 |  |
 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 | 2024-10-18 | 2025-04-01 |
 | [Fijabi](https://open.spotify.com/track/2oXA1zZ5z7fK4igfWNAojT) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Fijabi](https://open.spotify.com/album/3pxYG4xiLDWs6WOsuWXNyQ) | 3:52 | 2026-05-08 | 2026-05-19 |
 | [FILE FUN](https://open.spotify.com/track/1u928hWuzkxEIipQCl0tCx) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [FILE FUN](https://open.spotify.com/album/7mHulRGH7jT6ceK4ZlEoQN) | 2:13 | 2024-08-25 | 2024-09-20 |

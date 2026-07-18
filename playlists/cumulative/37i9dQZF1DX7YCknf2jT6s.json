@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: FATHERS",
+  "description": "New jazz for open minds. Cover: Joey Alexander",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1016,6 +1016,24 @@
       "duration_ms": 337285,
       "name": "African Sun",
       "url": "https://open.spotify.com/track/67LBxjF6YOMja1TxlV4Lzm"
+    },
+    {
+      "album": {
+        "name": "Afro-Disco Makossa",
+        "url": "https://open.spotify.com/album/0FwADFYvE0aqCpn3UwCZbK"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275482,
+      "name": "Afro-Disco Makossa",
+      "url": "https://open.spotify.com/track/0Z84DGwD7GhT2sbwui9KEU"
     },
     {
       "album": {
@@ -3360,6 +3378,28 @@
       "duration_ms": 364661,
       "name": "Avaloch",
       "url": "https://open.spotify.com/track/0QUmEcZQjnJRkBanzaOWmX"
+    },
+    {
+      "album": {
+        "name": "Celestial Keeper",
+        "url": "https://open.spotify.com/album/6bCBFdvHhmsX05Du9Dyk4Y"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383893,
+      "name": "Aversion",
+      "url": "https://open.spotify.com/track/3MDksTG6Kwv7er3F8fT3bj"
     },
     {
       "album": {
@@ -9509,6 +9549,28 @@
     },
     {
       "album": {
+        "name": "Days Begin To Sing",
+        "url": "https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        },
+        {
+          "name": "Omagugu",
+          "url": "https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Days Begin To Sing",
+      "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
+    },
+    {
+      "album": {
         "name": "Days to Save",
         "url": "https://open.spotify.com/album/7e4wNEclZkRP9dwzUXphzs"
       },
@@ -9952,7 +10014,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 207984,
       "name": "Different Directions",
       "url": "https://open.spotify.com/track/4djRjoWKtRg33y7xJYKaWo"
@@ -11482,7 +11544,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 265000,
       "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
       "url": "https://open.spotify.com/track/23T156dMcEz78BKQLUg0D6"
@@ -13840,7 +13902,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 310405,
       "name": "Ford the River",
       "url": "https://open.spotify.com/track/2iB26PtZ2mwj2UNpoIHEey"
@@ -15240,7 +15302,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 292346,
       "name": "Gnu Blue",
       "url": "https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix"
@@ -30585,6 +30647,24 @@
     },
     {
       "album": {
+        "name": "The Shieling \u2013 Companion Pieces",
+        "url": "https://open.spotify.com/album/5xltfiyOqFxB68wdLF4Eeb"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162099,
+      "name": "Red Deer",
+      "url": "https://open.spotify.com/track/49wWdpiIvXzLMjyJnhusIT"
+    },
+    {
+      "album": {
         "name": "Red Herring",
         "url": "https://open.spotify.com/album/4t4goUpjyk86iqV8HVTJkH"
       },
@@ -32314,7 +32394,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 186160,
       "name": "Scurry",
       "url": "https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce"
@@ -32526,6 +32606,28 @@
       "duration_ms": 386346,
       "name": "Sentimental Mode",
       "url": "https://open.spotify.com/track/5nxBcToLYc4iUPAbi7tQDS"
+    },
+    {
+      "album": {
+        "name": "Sentimental Things",
+        "url": "https://open.spotify.com/album/0yJu6n3gg2LXJcL1KsaaU9"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135499,
+      "name": "Sentimental Things",
+      "url": "https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1"
     },
     {
       "album": {
@@ -32850,7 +32952,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 262383,
       "name": "Shake Down",
       "url": "https://open.spotify.com/track/6jQ2AEAq0BKtaYgKNb5Gdz"
@@ -33865,6 +33967,28 @@
     },
     {
       "album": {
+        "name": "So You Want to Be A Woman",
+        "url": "https://open.spotify.com/album/2HGDzWpl0IXcUHaDxymfVx"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279396,
+      "name": "So You Want to Be A Woman",
+      "url": "https://open.spotify.com/track/3N1wQ3ZV7dgNWQRIuNBtEE"
+    },
+    {
+      "album": {
         "name": "Soft Serve",
         "url": "https://open.spotify.com/album/0CcbsdZercsXGdQEn2VZjy"
       },
@@ -34232,7 +34356,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 307245,
       "name": "Sometimes Love",
       "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
@@ -35078,7 +35202,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 305142,
       "name": "Stella by Starlight",
       "url": "https://open.spotify.com/track/2Xl9x1b2zk62jenZSuXapr"
@@ -35714,6 +35838,24 @@
       "duration_ms": 452393,
       "name": "Suite 408",
       "url": "https://open.spotify.com/track/1bZH4iix8YTwyoNzFVMTYa"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/24uo5KRoLMnZUSlCSlDGdw"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6"
     },
     {
       "album": {
@@ -43236,6 +43378,24 @@
       "duration_ms": 261887,
       "name": "Where Grace Abounds",
       "url": "https://open.spotify.com/track/7jtkZSNqKkeCVAxIh67QsH"
+    },
+    {
+      "album": {
+        "name": "Where moments wait",
+        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204198,
+      "name": "Where moments wait",
+      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
       "album": {

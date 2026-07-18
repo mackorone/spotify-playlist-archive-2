@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: TJ Monterde",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Maki",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164133,
       "name": "CHANGES",
       "url": "https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0"
@@ -4368,6 +4368,28 @@
       "duration_ms": 288000,
       "name": "Kalimutan Ka",
       "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
+    },
+    {
+      "album": {
+        "name": "Kalimutan Mo Na Lang",
+        "url": "https://open.spotify.com/album/4egLEJrAV2C4fTVrqI2DQP"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        },
+        {
+          "name": "Yeng Constantino",
+          "url": "https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285107,
+      "name": "Kalimutan Mo Na Lang",
+      "url": "https://open.spotify.com/track/3eGdqfiTv3Da4OdFwj8EAP"
     },
     {
       "album": {
@@ -8595,6 +8617,48 @@
     },
     {
       "album": {
+        "name": "LiFT OFF MiXTAPE",
+        "url": "https://open.spotify.com/album/6AcssXGgA6H1jYq2eTVMsZ"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
+        },
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+        },
+        {
+          "name": "Baby Blood",
+          "url": "https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76"
+        },
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304375,
+      "name": "SA GABE",
+      "url": "https://open.spotify.com/track/3XyIsxrNNGzVUHmbQkANBt"
+    },
+    {
+      "album": {
         "name": "Sa Kahapon",
         "url": "https://open.spotify.com/album/1WaMsAatHluQ0sf7f4fVd4"
       },
@@ -9476,7 +9540,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 175000,
       "name": "Stand In The Fire",
       "url": "https://open.spotify.com/track/0y7C7yRdCgzoBKlsru844O"
@@ -9596,6 +9660,24 @@
       "duration_ms": 179280,
       "name": "Sulyap",
       "url": "https://open.spotify.com/track/0k1bhzpUq3Ol9B2paSDEaK"
+    },
+    {
+      "album": {
+        "name": "Summer Crush",
+        "url": "https://open.spotify.com/album/5kfTZHSs9x8z0oMOoXiqw2"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194887,
+      "name": "Summer Crush",
+      "url": "https://open.spotify.com/track/6dz4FTaIgrPIk7lfphecQh"
     },
     {
       "album": {
@@ -10114,7 +10196,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 194594,
       "name": "Tayo Nalang Ulit",
       "url": "https://open.spotify.com/track/3mBEGgGhEn4LD2vPF6cvai"

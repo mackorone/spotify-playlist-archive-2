@@ -711,6 +711,32 @@
     },
     {
       "album": {
+        "name": "A Dawning - choir versions",
+        "url": "https://open.spotify.com/album/4j7w91k7htc0kTU7uSPm99"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        },
+        {
+          "name": "Kli\u00f0ur",
+          "url": "https://open.spotify.com/artist/3XOAKplBa51UQ75xsW918A"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300365,
+      "name": "Bedrock - choir version",
+      "url": "https://open.spotify.com/track/2K463DEqOzEiOg2leYIgfX"
+    },
+    {
+      "album": {
         "name": "Music from the Peterhouse Partbooks",
         "url": "https://open.spotify.com/album/3EWD1qdXOTjiKqcfMU7yzy"
       },

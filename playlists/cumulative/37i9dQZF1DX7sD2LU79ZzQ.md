@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Katyana, Nadhif Basalamah
 
-1,632 songs - 4 day 7 hr 24 min
+1,632 songs - 4 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,6 +951,7 @@
 | [MIA](https://open.spotify.com/track/09eXUhQEMNokUW7xqZT3YD) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [MIA](https://open.spotify.com/album/6Uz2Mo5S7QfjoGt4bgTXfD) | 2:49 | 2025-04-10 | 2025-05-16 |
 | [Miliki Aku](https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Miliki Aku](https://open.spotify.com/album/3OFKmugE12oDluNxHELmry) | 3:11 | 2025-02-06 | 2025-03-21 |
 | [Milikku Seutuhnya](https://open.spotify.com/track/0UMrmBvG1wpKQQ1qetvSYh) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Milikku Seutuhnya](https://open.spotify.com/album/2SFeCcYE2PvbARW3CMOKeh) | 3:53 | 2024-07-25 | 2024-09-06 |
+| [Million Different Reasons](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 4:06 | 2026-07-16 |  |
 | [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 | 2025-08-22 |
 | [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 | 2026-06-19 |  |
 | [MONSTER](https://open.spotify.com/track/3rw9rjplRXaJyRPvxIcLf7) | [PIAFARHAN](https://open.spotify.com/artist/0M7CsP09MKGoHKNcOqJ4kV) | [MONSTER](https://open.spotify.com/album/0crjWUx4z8Vm13Gar8K4cL) | 3:36 | 2025-10-03 | 2026-01-23 |
@@ -1567,7 +1568,6 @@
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-02 | 2024-08-30 |
 | [Torang Indonesia](https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Ashanty](https://open.spotify.com/artist/5MMKUZqCug8M2r4N4cNru1), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy), [BDT Susi](https://open.spotify.com/artist/6wAx0noCWoCmQ4RrmPWU9D), [BDT Hasail](https://open.spotify.com/artist/3p3m76gsxXtPMZef9VSYGL), [Carmen Glovw](https://open.spotify.com/artist/4FDWj5SOT1NiM3UHs55JjJ), [Syafril Harsani](https://open.spotify.com/artist/2bSpv8MiYXWO6moinqX9BJ), [ALAN DARMAWAN](https://open.spotify.com/artist/7Ms3FUXVnCP4YEUMOOPo72) | [Torang Indonesia](https://open.spotify.com/album/1NOaWD1UDY99Gwhaq2LK0o) | 4:16 | 2024-08-15 | 2024-09-27 |
-| [Track 9](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 0:00 | 2026-07-16 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-08 | 2024-11-29 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-09-06 |

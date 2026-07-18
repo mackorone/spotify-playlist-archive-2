@@ -1,13 +1,33 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Kaskade & Crankdat",
-  "num_followers": 995027,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring BARELY ALIVE",
+  "num_followers": 995081,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlOOPti6QFODqCz5hPsJP30aDVw",
+  "snapshot_id": "AAAAAKJ2fU6q3hN7cFZRwQERs1Nmja6x",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:01:43",
+      "album": {
+        "name": "100% NO AI",
+        "url": "https://open.spotify.com/album/3hSbmouv9YXTm07H21Vg0g"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "LAY ME DOWN",
+      "url": "https://open.spotify.com/track/7BXZ2E80UPxW1ihOuvtj6u"
+    },
     {
       "added_at": "2026-07-10 04:02:06",
       "album": {
@@ -27,26 +47,6 @@
       "duration_ms": 239562,
       "name": "A Little Bit",
       "url": "https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX"
-    },
-    {
-      "added_at": "2026-07-03 04:16:11",
-      "album": {
-        "name": "Club XL",
-        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        }
-      ],
-      "duration_ms": 153206,
-      "name": "Club XL",
-      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
     },
     {
       "added_at": "2026-07-10 04:02:06",
@@ -85,24 +85,52 @@
       "url": "https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV"
     },
     {
-      "added_at": "2026-07-03 04:16:11",
+      "added_at": "2026-07-17 04:01:43",
       "album": {
-        "name": "Return to the Return (of the Spectrum of Intergalactic Happiness)",
-        "url": "https://open.spotify.com/album/2suK6AyM6XGaWHo9hHqiMz"
+        "name": "Play It",
+        "url": "https://open.spotify.com/album/1pArkQVsHcQIHQYyUHF8PP"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         },
         {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Sam Adams",
+          "url": "https://open.spotify.com/artist/4SZgeCABVz7OMthqPCLCgP"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
         }
       ],
-      "duration_ms": 198012,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/6QpcvSJ5hjc3N9Eyp2SDu3"
+      "duration_ms": 203720,
+      "name": "Play It",
+      "url": "https://open.spotify.com/track/5HFgp1uUEpSqVUjaZyiB5f"
+    },
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "Future Funk Volume 1",
+        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Rump Shaker",
+      "url": "https://open.spotify.com/track/42Wg4dxXp01ii2i4odEUIl"
     },
     {
       "added_at": "2026-07-10 04:02:06",
@@ -129,24 +157,104 @@
       "url": "https://open.spotify.com/track/4N83wAazucqM5dhLMWEv0r"
     },
     {
-      "added_at": "2026-06-05 04:01:32",
+      "added_at": "2026-07-03 04:16:11",
       "album": {
-        "name": "Future Funk Volume 1",
-        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
+        "name": "Throw Ya Body",
+        "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+          "name": "Tej",
+          "url": "https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL"
+        },
+        {
+          "name": "Avani Satra",
+          "url": "https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp"
         }
       ],
-      "duration_ms": 197052,
-      "name": "Rump Shaker",
-      "url": "https://open.spotify.com/track/42Wg4dxXp01ii2i4odEUIl"
+      "duration_ms": 171428,
+      "name": "Throw Ya Body",
+      "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
+    },
+    {
+      "added_at": "2026-07-03 04:16:11",
+      "album": {
+        "name": "Return to the Return (of the Spectrum of Intergalactic Happiness)",
+        "url": "https://open.spotify.com/album/2suK6AyM6XGaWHo9hHqiMz"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 198012,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/6QpcvSJ5hjc3N9Eyp2SDu3"
+    },
+    {
+      "added_at": "2026-07-17 04:01:43",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/4t4NGhv3ws51s50LFD4ayG"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Entity",
+          "url": "https://open.spotify.com/artist/5L8dqEpUKv5tG6ut6BLa1t"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/5WxvNw9tY5MttliFP6LRVG"
+    },
+    {
+      "added_at": "2026-07-03 04:16:11",
+      "album": {
+        "name": "Club XL",
+        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 153206,
+      "name": "Club XL",
+      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
+    },
+    {
+      "added_at": "2026-05-08 04:02:32",
+      "album": {
+        "name": "SWANGIN'",
+        "url": "https://open.spotify.com/album/66oZ0p6RfIeETHxlzR5Nzl"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "SWANGIN'",
+      "url": "https://open.spotify.com/track/2wGXI8ztqQ674mrn3rZa3Q"
     },
     {
       "added_at": "2026-06-26 04:01:05",
@@ -189,6 +297,26 @@
       "url": "https://open.spotify.com/track/33rOFwZOk1rs9OwvHL12cF"
     },
     {
+      "added_at": "2026-07-17 04:01:43",
+      "album": {
+        "name": "Simulate",
+        "url": "https://open.spotify.com/album/1Fp5mg2TlhuhSBqovSjbO1"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "duration_ms": 234331,
+      "name": "Simulate",
+      "url": "https://open.spotify.com/track/2yOvdhx6S0pmNQ0oYBpT0Z"
+    },
+    {
       "added_at": "2026-05-29 04:02:45",
       "album": {
         "name": "Eyes Cut Deeper (Crankdat Remix)",
@@ -213,48 +341,24 @@
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
     },
     {
-      "added_at": "2026-07-03 04:16:11",
+      "added_at": "2026-07-17 04:01:43",
       "album": {
-        "name": "Throw Ya Body",
-        "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/4k5SwgU2Pu3f8fpjwCbNlN"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         },
         {
-          "name": "Tej",
-          "url": "https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL"
-        },
-        {
-          "name": "Avani Satra",
-          "url": "https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp"
+          "name": "XLVR",
+          "url": "https://open.spotify.com/artist/3fom1pernUdgyIJm1HgadE"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Throw Ya Body",
-      "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
-    },
-    {
-      "added_at": "2026-06-05 04:01:32",
-      "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 204857,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/6MVLHfS52hKHzbcLtejCWC"
+      "duration_ms": 215862,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/34zFcIBM79Ib8ltuGT9aaU"
     },
     {
       "added_at": "2026-07-03 04:16:11",
@@ -281,6 +385,54 @@
       "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
     },
     {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/6MVLHfS52hKHzbcLtejCWC"
+    },
+    {
+      "added_at": "2026-07-17 04:01:43",
+      "album": {
+        "name": "THE GIRLS ARE MAKING RIDDIM (TYNAN Remix)",
+        "url": "https://open.spotify.com/album/7J99dL5Qz6dNbWGunQJhCd"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "Gardella",
+          "url": "https://open.spotify.com/artist/3CCAetE0sFpegAh0V8xJLf"
+        },
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        },
+        {
+          "name": "Tweenkboosiechase",
+          "url": "https://open.spotify.com/artist/46pf6AXDf42L3k6fDp7vkR"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "THE GIRLS ARE MAKING RIDDIM - TYNAN Remix",
+      "url": "https://open.spotify.com/track/2hXcwuogVeLo4LOoGe1627"
+    },
+    {
       "added_at": "2026-07-10 04:02:06",
       "album": {
         "name": "BLOODBATH AND BEYOND",
@@ -295,6 +447,26 @@
       "duration_ms": 226551,
       "name": "IMPACT",
       "url": "https://open.spotify.com/track/4YLDVdlK5VNfHZJ7KxPjD9"
+    },
+    {
+      "added_at": "2026-07-17 04:01:43",
+      "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4MU4IBa0NRZvMF5JTgYE5c"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/2oMPAV0j89RmT9cju0CvNi"
     },
     {
       "added_at": "2026-06-12 04:24:40",
@@ -319,6 +491,122 @@
       "duration_ms": 276153,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/4q1LQDKbCd6JX2EDJTRZjn"
+    },
+    {
+      "added_at": "2026-07-03 04:16:11",
+      "album": {
+        "name": "Fall Back to Nothing (feat. Saint Monet)",
+        "url": "https://open.spotify.com/album/1wTrrTGokRFfWFDsLDhZgV"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
+        }
+      ],
+      "duration_ms": 223663,
+      "name": "Fall Back to Nothing (feat. Saint Monet)",
+      "url": "https://open.spotify.com/track/2BKaOhRDmln79AvTiZecSm"
+    },
+    {
+      "added_at": "2026-06-26 04:01:05",
+      "album": {
+        "name": "Beat On My Drum",
+        "url": "https://open.spotify.com/album/2bhyG6zXxsCE3S43riy5Yc"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 213180,
+      "name": "Beat On My Drum",
+      "url": "https://open.spotify.com/track/5rQTAm1XAm7UKdejGZAkZF"
+    },
+    {
+      "added_at": "2026-07-10 04:02:06",
+      "album": {
+        "name": "PRETTY GIRLS",
+        "url": "https://open.spotify.com/album/4q9UYt2kIGO1VxxG3w1xOf"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "PRETTY GIRLS",
+      "url": "https://open.spotify.com/track/5E64oUALBVwhnqpSrARgS0"
+    },
+    {
+      "added_at": "2026-07-17 04:01:43",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/0nunwhEtlMDamlIztoNm7w"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/3230TVnfrMI8hDBSW0gyrs"
+    },
+    {
+      "added_at": "2026-05-01 04:02:55",
+      "album": {
+        "name": "Visualize",
+        "url": "https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "Finnuh",
+          "url": "https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Visualize",
+      "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
+    },
+    {
+      "added_at": "2026-06-12 04:24:40",
+      "album": {
+        "name": "Bass Bumpin",
+        "url": "https://open.spotify.com/album/1bl2xbqNKQh6q27zEkTY3W"
+      },
+      "artists": [
+        {
+          "name": "Jaenga",
+          "url": "https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Bass Bumpin",
+      "url": "https://open.spotify.com/track/4XUNSbxzT3vgIeAYBhPQsl"
     },
     {
       "added_at": "2026-06-26 04:01:05",
@@ -359,86 +647,6 @@
       "duration_ms": 187000,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/2xQ8gBWuFuZXyhXdkcOLHA"
-    },
-    {
-      "added_at": "2026-06-26 04:01:05",
-      "album": {
-        "name": "Beat On My Drum",
-        "url": "https://open.spotify.com/album/2bhyG6zXxsCE3S43riy5Yc"
-      },
-      "artists": [
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 213180,
-      "name": "Beat On My Drum",
-      "url": "https://open.spotify.com/track/5rQTAm1XAm7UKdejGZAkZF"
-    },
-    {
-      "added_at": "2026-07-03 04:16:11",
-      "album": {
-        "name": "Fall Back to Nothing (feat. Saint Monet)",
-        "url": "https://open.spotify.com/album/1wTrrTGokRFfWFDsLDhZgV"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Saint Monet",
-          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
-        }
-      ],
-      "duration_ms": 223663,
-      "name": "Fall Back to Nothing (feat. Saint Monet)",
-      "url": "https://open.spotify.com/track/2BKaOhRDmln79AvTiZecSm"
-    },
-    {
-      "added_at": "2026-05-01 04:02:55",
-      "album": {
-        "name": "Visualize",
-        "url": "https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        },
-        {
-          "name": "Finnuh",
-          "url": "https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Visualize",
-      "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
-    },
-    {
-      "added_at": "2026-07-10 04:02:06",
-      "album": {
-        "name": "PRETTY GIRLS",
-        "url": "https://open.spotify.com/album/4q9UYt2kIGO1VxxG3w1xOf"
-      },
-      "artists": [
-        {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        },
-        {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "PRETTY GIRLS",
-      "url": "https://open.spotify.com/track/5E64oUALBVwhnqpSrARgS0"
     },
     {
       "added_at": "2026-06-12 19:36:48",
@@ -545,20 +753,24 @@
       "url": "https://open.spotify.com/track/7BkpjG6X40gATdlHbsMtxV"
     },
     {
-      "added_at": "2026-06-12 04:24:40",
+      "added_at": "2026-05-15 04:02:24",
       "album": {
-        "name": "Bass Bumpin",
-        "url": "https://open.spotify.com/album/1bl2xbqNKQh6q27zEkTY3W"
+        "name": "Fuck The Whole World (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
       },
       "artists": [
         {
-          "name": "Jaenga",
-          "url": "https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Bass Bumpin",
-      "url": "https://open.spotify.com/track/4XUNSbxzT3vgIeAYBhPQsl"
+      "duration_ms": 155675,
+      "name": "Fuck The Whole World - Subtronics Remix",
+      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
     },
     {
       "added_at": "2026-07-03 04:16:11",
@@ -595,22 +807,6 @@
       "duration_ms": 217674,
       "name": "Psychedelic Symphony",
       "url": "https://open.spotify.com/track/5GNjh0PVagxII7EdZJqIot"
-    },
-    {
-      "added_at": "2026-05-08 04:02:32",
-      "album": {
-        "name": "SWANGIN'",
-        "url": "https://open.spotify.com/album/66oZ0p6RfIeETHxlzR5Nzl"
-      },
-      "artists": [
-        {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "SWANGIN'",
-      "url": "https://open.spotify.com/track/2wGXI8ztqQ674mrn3rZa3Q"
     },
     {
       "added_at": "2026-06-19 04:02:01",
@@ -667,26 +863,6 @@
       "duration_ms": 227327,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/27DXQ1nIW0tbdkUM5f0X07"
-    },
-    {
-      "added_at": "2026-05-15 04:02:24",
-      "album": {
-        "name": "Fuck The Whole World (Subtronics Remix)",
-        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Fuck The Whole World - Subtronics Remix",
-      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
     },
     {
       "added_at": "2026-07-10 04:02:06",
@@ -751,26 +927,6 @@
       "duration_ms": 197142,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/45JQqMg08DsvcDvpiJP7rE"
-    },
-    {
-      "added_at": "2026-07-03 04:16:11",
-      "album": {
-        "name": "Valley Of Violence (Borgore Remix)",
-        "url": "https://open.spotify.com/album/6zFLKBNw1kEKJSbJPBL4Co"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Valley Of Violence - Borgore Remix",
-      "url": "https://open.spotify.com/track/7b1HBFEWhCtlNnlr2Y4jIV"
     },
     {
       "added_at": "2026-07-10 04:02:06",
@@ -933,26 +1089,6 @@
       "url": "https://open.spotify.com/track/69LK77IjL8NtKTgpMmRuCB"
     },
     {
-      "added_at": "2026-06-26 04:01:05",
-      "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/0WAdan0ibzKZaXQVJUu15I"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Mr. Carmack",
-          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
-        }
-      ],
-      "duration_ms": 210910,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/2DZsC8AcxL8hgClBNnTCos"
-    },
-    {
       "added_at": "2026-06-19 04:02:01",
       "album": {
         "name": "SHOOT 2 KILL",
@@ -1005,22 +1141,6 @@
       "url": "https://open.spotify.com/track/3ubOOFmrtp5E3lzfurjBpU"
     },
     {
-      "added_at": "2026-06-12 04:24:40",
-      "album": {
-        "name": "TACTICAL NUKE",
-        "url": "https://open.spotify.com/album/59ZGJ6dUUL2xqZaWYS48dU"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "TACTICAL NUKE",
-      "url": "https://open.spotify.com/track/6T66lWaSyt2ueTQ0dWFhBl"
-    },
-    {
       "added_at": "2026-05-15 04:02:24",
       "album": {
         "name": "RAGE",
@@ -1055,54 +1175,6 @@
       "duration_ms": 148965,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/2BRxZXodJKlPvC0eq5VZFn"
-    },
-    {
-      "added_at": "2026-06-12 04:24:40",
-      "album": {
-        "name": "ELEVATE EP",
-        "url": "https://open.spotify.com/album/4rW6HBE63AdwiZ4hM1zZZ6"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Filthy",
-          "url": "https://open.spotify.com/artist/2cOY5jobwSKKjxdspNYEQU"
-        },
-        {
-          "name": "Thrashout",
-          "url": "https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "UNHINGED",
-      "url": "https://open.spotify.com/track/5cNlshU4AURA583RJnqS95"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "RIDDEM",
-        "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Allenora",
-          "url": "https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0"
-        },
-        {
-          "name": "America Foster",
-          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "RIDDEM",
-      "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
     },
     {
       "added_at": "2026-06-12 04:24:40",
@@ -1397,26 +1469,6 @@
       "url": "https://open.spotify.com/track/7pddglpSVLghORfwW4zk8I"
     },
     {
-      "added_at": "2026-05-01 04:02:55",
-      "album": {
-        "name": "The Dreams Strange and Eternal",
-        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
-        }
-      ],
-      "duration_ms": 233794,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
-    },
-    {
       "added_at": "2026-04-17 04:04:06",
       "album": {
         "name": "BrAiNdEaD",
@@ -1455,30 +1507,6 @@
       "duration_ms": 166666,
       "name": "LIGHTS GO OUT - Dennett Remix",
       "url": "https://open.spotify.com/track/1hQAmS4c99YiiXTORf0pCW"
-    },
-    {
-      "added_at": "2026-04-24 04:02:31",
-      "album": {
-        "name": "Snazur EP",
-        "url": "https://open.spotify.com/album/3uiXCFAP0jWVVNvnEZLrmV"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        },
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
     },
     {
       "added_at": "2026-05-22 04:01:23",
@@ -1547,30 +1575,6 @@
       "duration_ms": 184414,
       "name": "ENERGY (I Feel)",
       "url": "https://open.spotify.com/track/0DZirU8OfoBgia2kga6Bzi"
-    },
-    {
-      "added_at": "2026-04-03 04:03:08",
-      "album": {
-        "name": "Movement (Wooli & Kompany Remix)",
-        "url": "https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Movement - Wooli & Kompany Remix",
-      "url": "https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9"
     },
     {
       "added_at": "2026-03-20 04:31:42",

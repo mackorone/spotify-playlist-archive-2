@@ -1,28 +1,80 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Jarah.",
-  "num_followers": 68241,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Fabian y ROBI.",
+  "num_followers": 68235,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdjqfNosw7O0RYyMxUIKv8IW/gh",
+  "snapshot_id": "AAAAAOY6IWpac605oeTRkovkmUlBIC6y",
   "tracks": [
     {
-      "added_at": "2026-06-26 04:59:11",
+      "added_at": "2026-07-17 04:59:06",
       "album": {
-        "name": "QUIZ\u00c1S",
-        "url": "https://open.spotify.com/album/6JgnkUyrIK2I0GTgbUIYD6"
+        "name": "LINEAS PARALELAS",
+        "url": "https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7"
       },
       "artists": [
         {
-          "name": "Jarah",
-          "url": "https://open.spotify.com/artist/7M9LU8frdsqdvohdmDHu76"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 159000,
-      "name": "QUIZ\u00c1S",
-      "url": "https://open.spotify.com/track/7gIA58X5inZX0gmsrEJshr"
+      "duration_ms": 182820,
+      "name": "LINEAS PARALELAS",
+      "url": "https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf"
+    },
+    {
+      "added_at": "2026-07-01 14:25:35",
+      "album": {
+        "name": "Caf\u00e9 Con Medialunas",
+        "url": "https://open.spotify.com/album/3r4w26NIb61UrQr43aOOWM"
+      },
+      "artists": [
+        {
+          "name": "Khappa",
+          "url": "https://open.spotify.com/artist/716e8qkglnLkQH9jt1itI1"
+        }
+      ],
+      "duration_ms": 138694,
+      "name": "Caf\u00e9 Con Medialunas",
+      "url": "https://open.spotify.com/track/5Qfpww6O3kRSC8ra1C2fio"
+    },
+    {
+      "added_at": "2026-07-01 14:25:35",
+      "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "A La Ni\u00f1a Que Fui",
+      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
+    },
+    {
+      "added_at": "2026-04-21 23:32:30",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "added_at": "2026-05-22 04:59:44",
@@ -39,22 +91,6 @@
       "duration_ms": 125560,
       "name": "Mal o Bien",
       "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
-    },
-    {
-      "added_at": "2026-06-05 04:59:03",
-      "album": {
-        "name": "sorry si soy GRRRIS",
-        "url": "https://open.spotify.com/album/2REZnpE59NSHnRdZHXfyzC"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "NI NA\u2019",
-      "url": "https://open.spotify.com/track/39C3rCxx20wcrWA1ACfUfI"
     },
     {
       "added_at": "2026-03-27 04:59:28",
@@ -101,22 +137,6 @@
       "url": "https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE"
     },
     {
-      "added_at": "2026-07-01 14:25:35",
-      "album": {
-        "name": "Caf\u00e9 Con Medialunas",
-        "url": "https://open.spotify.com/album/3r4w26NIb61UrQr43aOOWM"
-      },
-      "artists": [
-        {
-          "name": "Khappa",
-          "url": "https://open.spotify.com/artist/716e8qkglnLkQH9jt1itI1"
-        }
-      ],
-      "duration_ms": 138694,
-      "name": "Caf\u00e9 Con Medialunas",
-      "url": "https://open.spotify.com/track/5Qfpww6O3kRSC8ra1C2fio"
-    },
-    {
       "added_at": "2026-06-19 04:59:07",
       "album": {
         "name": "Gidi 2 Caracas (La M\u00fasica)",
@@ -151,22 +171,6 @@
       "duration_ms": 171627,
       "name": "En La Misma Cama",
       "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
-    },
-    {
-      "added_at": "2026-04-21 23:32:30",
-      "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "added_at": "2026-03-26 18:25:59",
@@ -207,22 +211,6 @@
       "duration_ms": 141874,
       "name": "Alguien aqui",
       "url": "https://open.spotify.com/track/1cxiTnSdoLscxNU25iCPg5"
-    },
-    {
-      "added_at": "2026-07-01 14:25:35",
-      "album": {
-        "name": "PUERTA ABIERTA",
-        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "A La Ni\u00f1a Que Fui",
-      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
     },
     {
       "added_at": "2026-07-01 14:25:35",
@@ -855,22 +843,6 @@
     {
       "added_at": "2026-03-26 18:25:59",
       "album": {
-        "name": "Antes De Que Amanezca",
-        "url": "https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
         "name": "\u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
       },
@@ -899,22 +871,6 @@
       "duration_ms": 154794,
       "name": "Misi\u00f3n Imposible",
       "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "cuatro",
-        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 249884,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
     },
     {
       "added_at": "2026-03-26 18:25:59",
@@ -1029,22 +985,6 @@
       "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
     },
     {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "Dios Te Cuide",
-        "url": "https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 198947,
-      "name": "Dios Te Cuide",
-      "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
-    },
-    {
       "added_at": "2026-01-30 04:59:23",
       "album": {
         "name": "LA REINA",
@@ -1075,26 +1015,6 @@
       "duration_ms": 160723,
       "name": "Sabe Bien",
       "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "Otra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/6z6fclMwLj1Q2CxFxHGp1q"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 216943,
-      "name": "Otra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5PjsROhhpXFTnjhAeTd2OB"
     },
     {
       "added_at": "2026-03-26 18:25:59",

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 113366,
+  "num_followers": 113383,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Take a Walk",
-      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Hollywood Forever Cemetery Sings",
-      "url": "https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 247506,
       "name": "We Come Running",
       "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Hollywood Forever Cemetery Sings",
+      "url": "https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Summer's Gone",
+        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "How Did I Get Here",
+      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Summer's Gone",
-        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "How Did I Get Here",
-      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Celebration Rock",
         "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 289150,
       "name": "The House That Heaven Built",
       "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Fitzpleasure",
-      "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1463,6 +1447,22 @@
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Fitzpleasure",
+      "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
     },
     {
       "added_at": "2025-03-14 12:16:12",

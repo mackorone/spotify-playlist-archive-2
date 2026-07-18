@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-495 songs - 1 day 11 hr 22 min
+496 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Laugh Away](https://open.spotify.com/track/4qSG7uX4AGz0rBxDQoFxH9) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Laugh Away](https://open.spotify.com/album/6SSX0knQ6kawHeYhyecKFh) | 2:51 | 2021-10-15 | 2022-04-02 |
 | [Less Than Zero \- Waveshaper Remix](https://open.spotify.com/track/3HwJmPyOpvA2uzQ9U48yP5) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [King Protea](https://open.spotify.com/artist/3PwDndbBVU4u5Pgvx0mf9c), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Less Than Zero \(Waveshaper Remix\)](https://open.spotify.com/album/0ii4KfMrtI7OSNfHnJj8S4) | 4:21 | 2021-10-15 | 2026-04-03 |
 | [Levitate](https://open.spotify.com/track/1xp4lcRDfFI60eOl1t4C0r) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Restore](https://open.spotify.com/album/0YIlGbKwJN5E8xRrSKtmRz) | 3:55 | 2022-02-04 | 2022-05-25 |
+| [Lick](https://open.spotify.com/track/6gOClzwkSsius0V40jy923) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Lick](https://open.spotify.com/album/4c9OHAlF3XHyTbsN1KmmkK) | 2:40 | 2026-07-17 |  |
 | [Lifted](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:38 | 2022-09-23 |  |
 | [Light](https://open.spotify.com/track/20IXNFE419YM3vu7mEuM6M) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx) | [Light](https://open.spotify.com/album/45fOiBfPzjuymF8Pgu2s89) | 3:27 | 2021-10-15 | 2022-03-18 |
 | [Light Curve](https://open.spotify.com/track/2lQ2w0vLaWRbmN0exN2pNU) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb), [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Light Curve](https://open.spotify.com/album/5fcSV3jBQoPZ4GpPmjAlbJ) | 4:16 | 2023-01-13 | 2024-04-19 |
@@ -266,7 +267,7 @@
 | [Looking For Tracy Tzu](https://open.spotify.com/track/2G0c5XvospcOSyA3t1W2X2) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:17 | 2022-07-22 | 2024-04-19 |
 | [Looking for Tracy Tzu](https://open.spotify.com/track/49zgQWxmae5SESFN60Dh33) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Trilogy](https://open.spotify.com/album/42KmZSl5Yq3sY5TciEjW2b) | 4:17 | 2021-10-15 | 2022-02-05 |
 | [Looking for Tracy Tzu](https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [EP II](https://open.spotify.com/album/4qXB40wtbBbetffvic299O) | 4:17 | 2021-10-15 | 2026-04-09 |
-| [Lost in the Cloud](https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Lost in the Cloud](https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx) | 3:45 | 2022-02-04 |  |
+| [Lost in the Cloud](https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Lost in the Cloud](https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx) | 3:45 | 2022-02-04 | 2026-07-18 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-06-03 | 2022-07-20 |
 | [Lost Woods](https://open.spotify.com/track/78j8TTEo6VJ7VeeDItgvaJ) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Legend of Synthwave](https://open.spotify.com/album/4TeZZfbu3rbifAjwiAAEq8) | 2:38 | 2021-10-15 | 2022-10-29 |
 | [Love Is Anywhere](https://open.spotify.com/track/608hXuaq2JMWsILseQYXHp) | [Flashworx](https://open.spotify.com/artist/1ex2bxtu5YJ52Q6vVjpT1e) | [Two Guys In Japan](https://open.spotify.com/album/6NIEszOdIuWugX3DQWsS4Q) | 4:48 | 2022-04-01 | 2022-04-18 |

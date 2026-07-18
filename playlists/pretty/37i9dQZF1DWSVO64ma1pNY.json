@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 303524,
+  "num_followers": 303531,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "AB III",
-        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Queens of the Stone Age",
         "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 205320,
       "name": "Avon",
       "url": "https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "AB III",
+        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Money (Hope Ain\u2019t Gone)",
         "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
     },
     {
       "added_at": "2024-12-03 09:27:47",

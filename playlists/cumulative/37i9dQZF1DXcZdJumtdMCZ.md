@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Ofro and Vaasi
 
-351 songs - 18 hr 24 min
+352 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Orunaal](https://open.spotify.com/track/4eg64qihOvIvtFRv7hxs6d) | [Siragilla Paravai](https://open.spotify.com/artist/5wy1LPpy80g25LjJoyd0Bv), [KARKAY](https://open.spotify.com/artist/00YboNb94lHeYpUmmslkqU) | [Orunaal](https://open.spotify.com/album/3GpsMKYnffsqOmssvSjKTX) | 3:35 | 2024-12-29 | 2025-03-08 |
 | [Paadatha Pattellam \(From "Rudhran"\)](https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP), [Emcee D](https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8), [Viswananthan \- Ramamoorthy](https://open.spotify.com/artist/4boLbuKNNyZVHPALfmbtN4), [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Kannadasan](https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB) | [Paadatha Pattellam \(From "Rudhran"\) \- Single](https://open.spotify.com/album/5l3eBNA5oU8nLlLty57mUT) | 4:47 | 2023-02-13 | 2023-05-13 |
 | [Pache Maina](https://open.spotify.com/track/4sJa409jzHjBeLV6whtfUt) | [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo) | [Pache Maina](https://open.spotify.com/album/1YwTbLR9QBOy15XzpFQKZP) | 3:37 | 2025-12-10 |  |
+| [Padhil](https://open.spotify.com/track/5fK68t2NAyoEdN6QpfaOFB) | [Thuva JB Chandran](https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq), [Ragu Branavan](https://open.spotify.com/artist/4ACZU8tpMbm69mMTkGcVI5), [Kishoth Chandru](https://open.spotify.com/artist/0eDUvwiks7KXdY5nPIxpZ9) | [Padhil](https://open.spotify.com/album/1FNk6cp4Q2PPbz025Ve9Gu) | 3:34 | 2026-07-16 |  |
 | [PAGADI](https://open.spotify.com/track/7LxIAVGEQSi2tcytd7xyJu) | [Prabath G.](https://open.spotify.com/artist/0AFm8YfBJDCBkKaQD7pkWd), [Matt Jay](https://open.spotify.com/artist/2wGYgm6CpO9bElcikcDTvh) | [PAGADI](https://open.spotify.com/album/0FWY2AQIQueLWGpOrmjUzf) | 3:04 | 2024-12-29 | 2025-02-22 |
 | [Paiya Dei \- From "Think Indie"](https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [Paiya Dei \(From "Think Indie"\)](https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40) | 2:35 | 2024-12-29 | 2025-10-10 |
 | [Pakkam Vanthu](https://open.spotify.com/track/2mo1jyrYHdyiekQHNKXx1C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 4:18 | 2022-02-08 | 2024-04-19 |

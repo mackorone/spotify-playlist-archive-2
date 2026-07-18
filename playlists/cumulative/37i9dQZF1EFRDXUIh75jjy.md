@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-338 songs - 17 hr 21 min
+340 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Indie Movie Zoomout Moment](https://open.spotify.com/track/52L7FseAcbWs0lqTH9Z2IK) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 2:45 | 2024-06-07 |  |
 | [Is It Just Me?](https://open.spotify.com/track/2NFJOmioXKKFVDgVuwn0d7) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Charlie Puth](https://open.spotify.com/album/4gfQSJmCVTC1OFvnTsvxeR) | 2:32 | 2024-06-07 |  |
 | [Is That a Thing?](https://open.spotify.com/track/6KqjmAUPLX2pCNEY0l6Tmi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [DestroyDestroyDestroyDestroy](https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb) | 2:49 | 2024-06-07 |  |
-| [It Ain't Nothing](https://open.spotify.com/track/2BcGm4sN6PgO4eNKCSpsK7) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [It Ain't Nothing](https://open.spotify.com/album/3lQWHIJOb6mDYd7K5f63X8) | 3:11 | 2026-01-01 |  |
+| [It Ain't Nothing](https://open.spotify.com/track/2BcGm4sN6PgO4eNKCSpsK7) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [It Ain't Nothing](https://open.spotify.com/album/3lQWHIJOb6mDYd7K5f63X8) | 3:11 | 2026-01-01 | 2026-07-18 |
+| [It Ain't Nothing](https://open.spotify.com/track/3SsO9dzxovr9HlzsxZohDX) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [It Ain't Nothing](https://open.spotify.com/album/4LrxGUNQcW2purbLJL9FSp) | 3:11 | 2026-07-17 |  |
 | [It Ain't Nothing](https://open.spotify.com/track/5MjWbEv8algUbaQIsTpDZt) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [It Ain't Nothing](https://open.spotify.com/album/6IovfYKuPuGs2hank1x7AX) | 3:11 | 2025-12-17 | 2026-01-02 |
 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 | 2024-08-29 |  |
 | [It's Over For Me](https://open.spotify.com/track/5hKJVvNU3DOsB5bYOA0WKU) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:21 | 2024-06-07 |  |
@@ -284,7 +285,8 @@
 | [She’s So Pretty](https://open.spotify.com/track/4te3Z4fg2MSfdhCX183u5u) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:51 | 2025-11-14 |  |
 | [Shimmering Seas \- From "Disney Cruise Line"/25th Anniversary Theme](https://open.spotify.com/track/5LbetxUPzDO4zL46yFClNq) | [Michelle Zarlenga](https://open.spotify.com/artist/5TbAVEN0oQUPFfJZy0JP3q) | [Shimmering Seas \(From "Disney Cruise Line"/25th Anniversary Theme\)](https://open.spotify.com/album/0uoA6FdN5MJkHJEphNtQdu) | 2:53 | 2024-06-07 |  |
 | [Sick of Myself](https://open.spotify.com/track/52C1BJ2z9bv6vpuZdu53Ov) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 2:27 | 2025-12-17 |  |
-| [So Many Ways](https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [So Many Ways](https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC) | 3:32 | 2026-03-15 |  |
+| [So Many Ways](https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [So Many Ways](https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC) | 3:32 | 2026-03-15 | 2026-07-18 |
+| [So Many Ways](https://open.spotify.com/track/5PCA9QRawbZAc2H3262HDX) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [So Many Ways](https://open.spotify.com/album/1mFxAq2azeYdXUbMLkPNKm) | 3:32 | 2026-07-17 |  |
 | [Soft](https://open.spotify.com/track/5a59o1acxGZ0txvNzumplU) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 2:58 | 2025-10-18 |  |
 | [SOFT ASS BITCH](https://open.spotify.com/track/1XT2UmApd8ntFrw2j52GCB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Articulate Excuses](https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio) | 2:43 | 2025-05-22 |  |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2024-06-07 |  |

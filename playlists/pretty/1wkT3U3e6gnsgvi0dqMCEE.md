@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,541 likes - 369 songs - 1 day 0 hr 42 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,541 likes - 374 songs - 1 day 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 3 | [Mr Charm](https://open.spotify.com/track/1YfhdcCmNm4EiFnyz7DNiT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/650o7IPvNOzSSn9qOyJhxw) | 4:34 |
 | 4 | [Underground \- Shelved First Attempt](https://open.spotify.com/track/0wf0GlQMK4V40jZZsXhzAN) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Underground \(Shelved First Attempt\)](https://open.spotify.com/album/0LGBK6ErvpcWku1zqp3M4u) | 4:28 |
 | 5 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 |
-| 6 | [Beggar's Song](https://open.spotify.com/track/4EZVqFa04Anni6bXw1iGRa) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Thin Lizzy](https://open.spotify.com/album/0RnPzx11OzUIyNVFf2MznJ) | 5:31 |
+| 6 | [Beggar's Song](https://open.spotify.com/track/4EZVqFa04Anni6bXw1iGRa) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Thin Lizzy \(Deluxe Edition\)](https://open.spotify.com/album/0RnPzx11OzUIyNVFf2MznJ) | 5:31 |
 | 7 | [Jealous Lover](https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jealous Lover](https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM) | 3:49 |
 | 8 | [Just As Bad As You](https://open.spotify.com/track/3PpfemA3nLeG2ZMdWiFyiC) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Talk To Me](https://open.spotify.com/album/6eyIR3bP3r3YG40DnyTyHc) | 3:50 |
 | 9 | [It’s A Good Life If You Don’t Weaken \- Live July 22 \- August 20, 2016](https://open.spotify.com/track/5ZS9998dQe1kzKSnYLpT4U) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Little Bones/It's A Good Life If You Don't Weaken \(Live July 22 \- August 20, 2016\)](https://open.spotify.com/album/2MbKU2dYv0P7DzWpZM7orO) | 4:13 |
@@ -377,5 +377,10 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 367 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
 | 368 | [Whiskey In The Jar](https://open.spotify.com/track/6YH9hWz9ypmvbHl1LpCMFz) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:47 |
 | 369 | [Someone Saved My Life Tonight \- Captain Fantastic Live / 2005](https://open.spotify.com/track/0AZOzB8mMGS2Gsu6CMn7Hw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy \(50th Anniversary Edition\)](https://open.spotify.com/album/3zRjCT3nLkeYanSFYHfQPu) | 7:43 |
+| 370 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
+| 371 | [Paradise](https://open.spotify.com/track/3mVd5gTmze4bWj0uvf6Jta) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Paradise](https://open.spotify.com/album/21vTpbjUDOu3vbAUBVHLtp) | 3:46 |
+| 372 | [Positive Vibration \- Live At The Hammersmith Odeon, London, UK \- June, 1976](https://open.spotify.com/track/6zaUdq5VMHhKrtlCBNGXMn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Positive Vibration / Roots, Rock, Reggae \(Live At The Hammersmith Odeon, London, UK \- June 1976\)](https://open.spotify.com/album/4po2v4hpXE9EoE4qsE0I92) | 3:34 |
+| 373 | [Cold Little Heart \- Live In Session At RAK Studios / 2016](https://open.spotify.com/track/0dNfhhgRZWN7BEN1LdZ2MH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Live In Session At RAK Studios \(Live In Session At RAK Studios / 2016\)](https://open.spotify.com/album/7MDH01wqb7D5enJod7SwOj) | 11:08 |
+| 374 | [Crypto](https://open.spotify.com/track/5Qv7Gt0VTcd5dEDdrQNv1d) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Crypto](https://open.spotify.com/album/5UWKGZ565Ym8XMgnWALXFZ) | 2:40 |
 
-Snapshot ID: `AAAD3IyYNL+jkY62QlQYp1qXmheuauh3`
+Snapshot ID: `AAAD4XuE7hhqjFwb8etN8fJdp6gTJiA8`

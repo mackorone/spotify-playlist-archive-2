@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 208522,
+  "num_followers": 208533,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAC0hY6Tj7uaq04IiJs6KCed",
+  "snapshot_id": "algfAAAAAAB09B1YuzhvuZJGiyMBL60Q",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 61533,
-      "name": "Aerial Tal - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aerial",
         "url": "https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 293720,
       "name": "King Of The Mountain",
       "url": "https://open.spotify.com/track/21ZTkAe7nw4kAR1aHyZXSx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 61533,
+      "name": "Aerial Tal - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 304306,
-      "name": "Somewhere In Between - 2018 Remaster",
-      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dreaming",
         "url": "https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 216906,
-      "name": "Symphony in Blue - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1ADI3yWnCH2cgZE9y6Ss0j"
+      "duration_ms": 304306,
+      "name": "Somewhere In Between - 2018 Remaster",
+      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+        "name": "Lionheart (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 509200,
-      "name": "Nocturn - 2018 Remaster",
-      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
+      "duration_ms": 216906,
+      "name": "Symphony in Blue - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1ADI3yWnCH2cgZE9y6Ss0j"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 227093,
-      "name": "In Search of Peter Pan - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3dbKMKZjmjYaFfW5KdRN8q"
+      "duration_ms": 509200,
+      "name": "Nocturn - 2018 Remaster",
+      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+        "name": "Lionheart (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 85893,
-      "name": "Prelude - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD"
+      "duration_ms": 227093,
+      "name": "In Search of Peter Pan - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3dbKMKZjmjYaFfW5KdRN8q"
     },
     {
       "added_at": null,
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 279466,
-      "name": "Hammer Horror",
-      "url": "https://open.spotify.com/track/1OeyUaxsSWYqJEzH81X3ue"
+      "duration_ms": 85893,
+      "name": "Prelude - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 242386,
       "name": "The Red Shoes - 2018 Remaster",
       "url": "https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Hammer Horror",
+      "url": "https://open.spotify.com/track/1OeyUaxsSWYqJEzH81X3ue"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 341306,
+      "name": "Prologue - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lionheart (2018 Remaster)",
         "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
       },
@@ -699,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Shoes",
-        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 317898,
-      "name": "Moments Of Pleasure - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 341306,
-      "name": "Prologue - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dreaming",
         "url": "https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 323400,
       "name": "Night Of The Swallow",
       "url": "https://open.spotify.com/track/0GxUznsPADwZOXwluZTHnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Shoes",
+        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 317898,
+      "name": "Moments Of Pleasure - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Full House - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3rds168fWqxkyYnyIvH3Ed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dreaming (2018 Remaster)",
         "url": "https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 229240,
       "name": "Houdini - 2018 Remaster",
       "url": "https://open.spotify.com/track/18hSVEiQxA9mbIq23fyNfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lionheart (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Full House - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3rds168fWqxkyYnyIvH3Ed"
     }
   ],
   "unique_name": "This Is Kate Bush",

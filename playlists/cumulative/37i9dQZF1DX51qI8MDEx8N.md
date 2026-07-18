@@ -4,11 +4,11 @@
 
 > Soft piano music to accompany your reading
 
-257 songs - 10 hr 56 min
+259 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-04-28 |  |
+| [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-04-28 | 2026-07-18 |
 | [A Song for Clara](https://open.spotify.com/track/3QyXiYnPcszAptSYP2ZICS) | [Shoshana Michel](https://open.spotify.com/artist/65YH4PPgJlL7o1gqVGncZ1) | [A Song for Clara](https://open.spotify.com/album/4NJ9DFtxsmOCQgdJKWDa71) | 2:50 | 2022-04-28 | 2026-07-04 |
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2022-04-28 | 2025-05-03 |
 | [A Walk Along the Seine](https://open.spotify.com/track/5X1UIUwfELwhImAfkIGfMD) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [A Walk Along the Seine](https://open.spotify.com/album/6i64uiYslHoDvAmP9U2gLW) | 2:11 | 2025-05-20 | 2025-07-22 |
@@ -55,7 +55,7 @@
 | [Desalniettemin](https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI) | [Mavis Marchena](https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd) | [Desalniettemin](https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA) | 2:52 | 2022-04-28 | 2025-05-15 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-28 | 2025-05-03 |
 | [Drifting By](https://open.spotify.com/track/0VVtg9eCHlU8jPQRhvhd7F) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Drifting By](https://open.spotify.com/album/7MoH7kzE4A2AKWEv9t9IWO) | 2:34 | 2026-06-12 |  |
-| [Drystem](https://open.spotify.com/track/3yJciXYbUbfPFnYFtkUEkT) | [SoftKey](https://open.spotify.com/artist/73P22uwEYwcNzLZhc63iFX) | [Drystem](https://open.spotify.com/album/3Yu8S1IjvNVPxD2kFLBAPE) | 2:25 | 2026-07-10 |  |
+| [Drystem](https://open.spotify.com/track/3yJciXYbUbfPFnYFtkUEkT) | [SoftKey](https://open.spotify.com/artist/73P22uwEYwcNzLZhc63iFX) | [Drystem](https://open.spotify.com/album/3Yu8S1IjvNVPxD2kFLBAPE) | 2:25 | 2026-07-10 | 2026-07-18 |
 | [During Dusk](https://open.spotify.com/track/3g0HqDIiNIq3MpCkZAIYhv) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [During Dusk](https://open.spotify.com/album/09XpqDeMEJgB0Ur4tnhwRP) | 2:33 | 2026-07-10 |  |
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-04-28 | 2026-05-30 |
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-19 |  |
@@ -83,7 +83,7 @@
 | [Glassy Afternoon](https://open.spotify.com/track/0OkGMlKdtYZyMhIZwTnkNp) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Glassy Afternoon](https://open.spotify.com/album/1ug6XCwYUAKPbSDOroopGb) | 2:20 | 2026-06-12 |  |
 | [Good Morning Sun](https://open.spotify.com/track/3GJ8xm8WGms4eIh0QKLRbG) | [Luna la Fait](https://open.spotify.com/artist/2NvjHhBUzWwQuKOjzkxssi) | [Good Morning Sun](https://open.spotify.com/album/7qi2SY8fnEJqfSOypYTY1g) | 2:46 | 2026-07-03 |  |
 | [Guiding Light](https://open.spotify.com/track/1yifgXa6NhUmUayr78flWm) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Guiding Light](https://open.spotify.com/album/020aZCrrAmqQQ7TIobHAZN) | 2:10 | 2022-04-28 | 2025-04-17 |
-| [Halo](https://open.spotify.com/track/6Hrlsgrkf3xNM1kIdPAnXX) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Halo](https://open.spotify.com/album/02DMIRVjsIqiLiayCgzdoq) | 2:57 | 2026-07-10 |  |
+| [Halo](https://open.spotify.com/track/6Hrlsgrkf3xNM1kIdPAnXX) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Halo](https://open.spotify.com/album/02DMIRVjsIqiLiayCgzdoq) | 2:57 | 2026-07-10 | 2026-07-18 |
 | [Haven](https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Haven](https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7) | 2:45 | 2022-04-28 | 2026-07-11 |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-04-28 | 2026-07-11 |
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-04-28 | 2026-07-04 |
@@ -181,11 +181,13 @@
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-04-28 | 2026-05-30 |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2022-04-28 | 2025-04-17 |
 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 | 2022-04-28 | 2025-05-15 |
+| [Sainted Haze](https://open.spotify.com/track/19sWpV3j496TLYcctAz4NR) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Sainted Haze](https://open.spotify.com/album/1LArRNZxy6b4KqdI21ObtT) | 2:24 | 2026-07-17 |  |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-04-28 | 2026-07-11 |
 | [Sanpo](https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Sanpo](https://open.spotify.com/album/1BdZhzd2iQTim5CxFLyccf) | 2:36 | 2022-04-28 | 2025-06-11 |
 | [Sapiens](https://open.spotify.com/track/5w32YiZfjZ0vC3Y1bYs62i) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 3:05 | 2022-04-28 | 2025-04-17 |
 | [Satori](https://open.spotify.com/track/6Zmhxmb4cIZnrrbHfBsVKZ) | [Christian Vey](https://open.spotify.com/artist/34oi16MBJNFMwdyDqIlMXL) | [Satori](https://open.spotify.com/album/60pPe1OEiOxmAz5p4Kr9J2) | 3:00 | 2026-07-03 |  |
 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 | 2023-07-25 | 2026-07-04 |
+| [Seraphine](https://open.spotify.com/track/1N3PTgf9qyKxCH3DwgEuKG) | [Ignacio Montoya](https://open.spotify.com/artist/4XBctiZfMg9kgOPlqfLgFA) | [Seraphine](https://open.spotify.com/album/5MuHGnIj46ga3xOmhP8VQI) | 2:37 | 2026-07-17 |  |
 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-04-28 | 2025-05-03 |
 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 | 2022-04-28 | 2026-07-11 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-28 | 2023-06-20 |

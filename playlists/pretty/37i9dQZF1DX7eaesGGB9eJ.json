@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 302247,
+  "num_followers": 302310,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
+      },
+      "artists": [
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Activados y Prendidos",
         "url": "https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 208026,
       "name": "Pesao (feat. Cartel de Santa & Millonario)",
       "url": "https://open.spotify.com/track/6yly6C4QeDi4N1CpnFrJc7"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
-      },
-      "artists": [
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -879,8 +879,8 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 233040,
-      "name": "De Perros Amores",
-      "url": "https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE"
+      "duration_ms": 253893,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

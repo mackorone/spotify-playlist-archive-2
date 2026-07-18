@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-474 songs - 23 hr 49 min
+475 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Breathing](https://open.spotify.com/track/0RdQFQGVGhGmBCNREU7vsC) | [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc), [Lost Astro](https://open.spotify.com/artist/6yp0fKhPxEjq0e3IbGLg4X) | [Breathing](https://open.spotify.com/album/2yrdbmuPSFMhxZ8mz1SCBD) | 2:51 | 2025-01-31 | 2025-03-13 |
 | [Breathless](https://open.spotify.com/track/4kydVCpanDuAzoGuHMNZBZ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Breathless](https://open.spotify.com/album/4YNvCzLe7cq4CVIrzg976s) | 3:10 | 2023-08-24 | 2024-07-13 |
 | [Brighter](https://open.spotify.com/track/2FmQv4uDrTBw9Hor1dCdBb) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y) | [Brighter](https://open.spotify.com/album/4HWqkhmqLAfLJCuy2mS1tz) | 3:00 | 2024-01-09 | 2024-06-29 |
+| [Brighter Days](https://open.spotify.com/track/16kXvWISs9PlN8k8fR1Bjn) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Stereohats](https://open.spotify.com/artist/5mXk5yufaVz1wTuEAiaBN6), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Brighter Days](https://open.spotify.com/album/2tno51mcmBQPpFxAbldEeM) | 2:05 | 2026-07-17 |  |
 | [Brighter Than The Sun](https://open.spotify.com/track/2BWuBXsrpgh46npuN9JAEJ) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Brighter Than The Sun](https://open.spotify.com/album/6KGr1eBvT9h93U2UUSAO3R) | 3:15 | 2022-07-29 | 2023-07-27 |
 | [Bring It Home](https://open.spotify.com/track/1vKswlFSIoQFK9OYFxHXxG) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Bring It Home](https://open.spotify.com/album/0lT8OMOXN3Dkk2FzeuJhDF) | 2:42 | 2022-07-29 | 2022-08-20 |
 | [Bring Me Down](https://open.spotify.com/track/7FhOYhjnqPPlm0LTOMnJLy) | [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI), [Sisters Cap](https://open.spotify.com/artist/2qqX8GWsa5U8kiVM10bFlp), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Bring Me Down](https://open.spotify.com/album/2lRVLM5xZEZaFYu436lCVU) | 3:14 | 2022-07-29 | 2023-09-09 |

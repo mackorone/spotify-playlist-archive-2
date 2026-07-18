@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: KayBlack",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: G.A., Niink",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -9826,7 +9826,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 175229,
       "name": "Como Se Nada Tivesse Acontecido",
       "url": "https://open.spotify.com/track/6Bx3aWW86P4GNqtBmsANF4"
@@ -13464,7 +13464,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 152275,
       "name": "Diva Pop",
       "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
@@ -24664,7 +24664,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 233236,
       "name": "LEVEL UP",
       "url": "https://open.spotify.com/track/1ChOY8pWRAPYFLclxIDfEn"
@@ -28847,6 +28847,40 @@
     },
     {
       "album": {
+        "name": "MINERADOR",
+        "url": "https://open.spotify.com/album/7hFx5oit0Dh2V0QEGRVl7J"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "DESSIIIK",
+          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
+        },
+        {
+          "name": "Yoko",
+          "url": "https://open.spotify.com/artist/0UenuJp55lQTf168bwDCcH"
+        },
+        {
+          "name": "bwhatudoin",
+          "url": "https://open.spotify.com/artist/4efJOhkoi4uqW0vULYPEUR"
+        },
+        {
+          "name": "CASA 11",
+          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149572,
+      "name": "MINERADOR",
+      "url": "https://open.spotify.com/track/131lWDJpcqLQsiwPcPsWa0"
+    },
+    {
+      "album": {
         "name": "MINHA FOME",
         "url": "https://open.spotify.com/album/0pt8i9OgqttYdZkmXsyx63"
       },
@@ -31056,6 +31090,36 @@
       "duration_ms": 162539,
       "name": "Nevou",
       "url": "https://open.spotify.com/track/2KBRMu0mXxGqJT1GecDDcD"
+    },
+    {
+      "album": {
+        "name": "NEY NO BARCELONA (STUDIO#10)",
+        "url": "https://open.spotify.com/album/0lsy2PbOVIC4fXeBvQ2bYq"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "NEY NO BARCELONA",
+      "url": "https://open.spotify.com/track/2zlHRa29HFO8dnNpdWea0D"
     },
     {
       "album": {
@@ -35386,7 +35450,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 118120,
       "name": "pela fam\u00edlia",
       "url": "https://open.spotify.com/track/6koKzHHjfbsOR7u3jGOn2A"
@@ -40508,6 +40572,32 @@
       "duration_ms": 149370,
       "name": "RESPIRA!",
       "url": "https://open.spotify.com/track/3QzXhMK6W0wsoa9vGDU9N4"
+    },
+    {
+      "album": {
+        "name": "Resumo",
+        "url": "https://open.spotify.com/album/3lzIJ9gBamGfS2iEQw63Mg"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "BG_Rj",
+          "url": "https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142279,
+      "name": "Resumo",
+      "url": "https://open.spotify.com/track/60VIiC7hY10xz8QT3NSQek"
     },
     {
       "album": {
@@ -50074,6 +50164,36 @@
       "duration_ms": 154838,
       "name": "Vit\u00f3ria Dobrada",
       "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+    },
+    {
+      "album": {
+        "name": "Vit\u00f3ria Regia",
+        "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
+      },
+      "artists": [
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/7FGbhQp2Mk48Ik3N93dF6E"
+        },
+        {
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/0AbPEIkqBEiXudoPFPfEDp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195582,
+      "name": "Vit\u00f3ria Regia",
+      "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 
 > Feeling like summer in 04'
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,839 likes - 53 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,854 likes - 53 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

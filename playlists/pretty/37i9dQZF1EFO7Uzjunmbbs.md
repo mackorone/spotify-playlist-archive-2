@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 218 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,084 likes - 218 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 37 | [The Way I Say Goodbye](https://open.spotify.com/track/6ZV6lI92ypdfjeGgDQc5Mm) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 3:04 |
 | 38 | [Didn't I](https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:38 |
 | 39 | [Good, but not together](https://open.spotify.com/track/41s8TlEiXtACk0z8Se79KE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/2QNQe0cnmzYYc0QcKeEZgb) | 3:02 |
-| 40 | [Gettin' In The Way](https://open.spotify.com/track/2qtPnxwPuGMgCjAIJDFdnW) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:48 |
-| 41 | [Child Again](https://open.spotify.com/track/5wWKC300gz5NFjxWxoUnCx) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:49 |
+| 40 | [Child Again](https://open.spotify.com/track/5wWKC300gz5NFjxWxoUnCx) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:49 |
+| 41 | [Gettin' In The Way](https://open.spotify.com/track/2qtPnxwPuGMgCjAIJDFdnW) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:48 |
 | 42 | [Can't Take Away](https://open.spotify.com/track/4QxWJsZzDHh4R5XxfYFLju) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 2:33 |
 | 43 | [Human Diary](https://open.spotify.com/track/5HPT6H8sKOhkGZ7TCrTgfY) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:43 |
 | 44 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 52 | [The Hill](https://open.spotify.com/track/4xr1UV4rbOwXuAAlS0vdpQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 2:45 |
 | 53 | [Still Alive](https://open.spotify.com/track/48FNLOPGDxC0KM51hG5yU9) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:05 |
 | 54 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
-| 55 | [Good Time To Be Alive](https://open.spotify.com/track/6ubbUDxSrnA8wKQg5rOdcM) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/3kMcbLaMtiRcQdMSvLyr1h) | 3:11 |
-| 56 | [Drink With You](https://open.spotify.com/track/4RjlDrPdAgvvPAgsKxjlln) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 2:51 |
+| 55 | [Drink With You](https://open.spotify.com/track/4RjlDrPdAgvvPAgsKxjlln) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 2:51 |
+| 56 | [Good Time To Be Alive](https://open.spotify.com/track/6ubbUDxSrnA8wKQg5rOdcM) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/3kMcbLaMtiRcQdMSvLyr1h) | 3:11 |
 | 57 | [Same Heart](https://open.spotify.com/track/4m21Y1hcRYAmuYYUuohbWM) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:36 |
 | 58 | [Be One](https://open.spotify.com/track/1UMKRcqs7kFf6wDVo0HaSI) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:11 |
 | 59 | [the car](https://open.spotify.com/track/2AaBAxpI2efR3fh2XuVq9I) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/7kM5N8LhfPhz8BWronkeub) | 2:45 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 141 | [Infatuation \- Spanish Remix](https://open.spotify.com/track/4HXzOlC2lMEmn2JEumzbNt) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Unstoppable \(United We Can\)](https://open.spotify.com/album/6SzzbmZsFQcrpDkezXtnYU) | 2:55 |
 | 142 | [How This Ends](https://open.spotify.com/track/4vSCO0f8BurJVGYlY4OVkZ) | [Grayson Reed](https://open.spotify.com/artist/0ZqF46gvYuIgK5S5LjsUjk) | [Walk](https://open.spotify.com/album/65bBOu1yEq9ioTCPLM7yPo) | 3:41 |
 | 143 | [Something I'm Not](https://open.spotify.com/track/6HQMEEo4h1EIp8JfzwHZKQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:16 |
-| 144 | [Dumber](https://open.spotify.com/track/74TqdcqLHGDAJ9xnmWCMFF) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Dumber](https://open.spotify.com/album/117DyJhEs1TkpAsughPA4n) | 3:30 |
-| 145 | [Anywhere for You](https://open.spotify.com/track/6TORZWko3D8kIzfQ5S7uyd) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [MacKenzie Porter](https://open.spotify.com/album/7JnxsKJF4RXlmEJAUYRsFX) | 3:28 |
+| 144 | [Anywhere for You](https://open.spotify.com/track/6TORZWko3D8kIzfQ5S7uyd) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [MacKenzie Porter](https://open.spotify.com/album/7JnxsKJF4RXlmEJAUYRsFX) | 3:28 |
+| 145 | [Dumber](https://open.spotify.com/track/74TqdcqLHGDAJ9xnmWCMFF) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Dumber](https://open.spotify.com/album/117DyJhEs1TkpAsughPA4n) | 3:30 |
 | 146 | [Identity Crisis](https://open.spotify.com/track/3589tdKDYRNbzyHLe0K6KE) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 1:52 |
 | 147 | [Shame](https://open.spotify.com/track/49bqWTHnrwfX3wZrssH8a9) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Shame](https://open.spotify.com/album/6sUcE6NEwgjQbNX2fCHMDQ) | 3:21 |
 | 148 | [Best Part Of Me](https://open.spotify.com/track/3a3GALlXj7wi5vo9trXiGk) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:24 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 217 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 218 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcXClAAAAAARXbEIgX+aKJjY/dKF5uC1`
+Snapshot ID: `AcXINAAAAABmi/6OElNwiiMBYX5uWv8D`

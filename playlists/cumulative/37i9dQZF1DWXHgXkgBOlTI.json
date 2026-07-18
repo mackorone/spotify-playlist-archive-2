@@ -2757,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/02eKXgRieK4rSCYLlyLY5y"
+      },
+      "artists": [
+        {
+          "name": "\u672c\u7530\u7af9\u66e0",
+          "url": "https://open.spotify.com/artist/4s7Fk4GSE20zLzyTq05gUo"
+        },
+        {
+          "name": "\u4eca\u6751\u88d5\u53f8",
+          "url": "https://open.spotify.com/artist/6wM0OcxPKVdZmVpnpMs91g"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281346,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/0xgAMhn7qqKrQcACbIEPoa"
+    },
+    {
+      "album": {
         "name": "Who is \u201cLAGHEADS\u201d?",
         "url": "https://open.spotify.com/album/52iASbVYgjcsSasw8D0KZY"
       },
@@ -2970,7 +2992,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 245500,
       "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
       "url": "https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE"

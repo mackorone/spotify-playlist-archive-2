@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like sad hour, with PEGGY",
+  "description": "heartbreak feels good in a place like sad hour, with panicbaby",
   "name": "sad hour",
   "tracks": [
     {
@@ -622,6 +622,24 @@
       "duration_ms": 244390,
       "name": "all i need (the distance song)",
       "url": "https://open.spotify.com/track/53KwVDCwML3G2cZ3v4KBvO"
+    },
+    {
+      "album": {
+        "name": "how the f*** does everybody else manage?",
+        "url": "https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191422,
+      "name": "all my favourite people are sad",
+      "url": "https://open.spotify.com/track/6jkmc5eOlVQdhL7xISd2UO"
     },
     {
       "album": {
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 204374,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
@@ -3158,6 +3176,24 @@
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
+    },
+    {
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219302,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
     },
     {
       "album": {
@@ -4189,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "PIXIE",
+        "url": "https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203728,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -4492,7 +4546,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 140307,
       "name": "easy",
       "url": "https://open.spotify.com/track/12kvkByLJthKaIhk819aNA"
@@ -5426,7 +5480,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 236167,
       "name": "Flowers - Spotify Singles",
       "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
@@ -7797,6 +7851,24 @@
     },
     {
       "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
+    {
+      "album": {
         "name": "i don't like u (but i love u)",
         "url": "https://open.spotify.com/album/4I0lSg6mDyJStWrNBJrcCK"
       },
@@ -7920,6 +7992,24 @@
       "duration_ms": 190243,
       "name": "I Guess That Was Goodbye",
       "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
+    },
+    {
+      "album": {
+        "name": "i hate Berlin!!",
+        "url": "https://open.spotify.com/album/1baPOa1qSk34CSSfIXWO1O"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189010,
+      "name": "i hate Berlin!!",
+      "url": "https://open.spotify.com/track/7IaAZ5JLPXXOnV78chiHdO"
     },
     {
       "album": {
@@ -8518,7 +8608,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 153633,
       "name": "i wish i hated you",
       "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
@@ -10188,7 +10278,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 132629,
       "name": "leaving you is hard",
       "url": "https://open.spotify.com/track/2VYIeZGLDsSn8wubtWuT1V"
@@ -12752,7 +12842,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 226284,
       "name": "Not Even Gone",
       "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
@@ -14783,6 +14873,24 @@
     },
     {
       "album": {
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/7enCEM8sC7Zfl7fALQWFqG"
+      },
+      "artists": [
+        {
+          "name": "MINOE",
+          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177599,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2wGGc1BHUCiaN5WWi4rHYC"
+    },
+    {
+      "album": {
         "name": "Show Me Where It Hurts",
         "url": "https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr"
       },
@@ -16537,6 +16645,24 @@
     },
     {
       "album": {
+        "name": "The Protagonist",
+        "url": "https://open.spotify.com/album/2LPlJX4MTer22EiLitNAMg"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177539,
+      "name": "The Protagonist",
+      "url": "https://open.spotify.com/track/6nRxOPZEnMnFOLSnRVoYCi"
+    },
+    {
+      "album": {
         "name": "The Rain Isn't Over",
         "url": "https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB"
       },
@@ -16620,7 +16746,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 193040,
       "name": "The Summer I Turned Pretty",
       "url": "https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf"

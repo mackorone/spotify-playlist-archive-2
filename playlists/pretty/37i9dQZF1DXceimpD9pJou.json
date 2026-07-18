@@ -1,13 +1,297 @@
 {
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Shammai",
-  "num_followers": 167210,
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Su Presencia",
+  "num_followers": 167285,
   "original_name": "Todas Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQIGYFK7ojqfszplGzpyiKBxv+6",
+  "snapshot_id": "AAAAAF96yziwa/cWwQ4svf/5USqTB0Bf",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "NO TIENES IGUAL",
+        "url": "https://open.spotify.com/album/4Nrx6RkWTYqGr3IW2XLdNT"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 247983,
+      "name": "NO TIENES IGUAL",
+      "url": "https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/4jTwmNKRgjnTIrm8nyKA9C"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        },
+        {
+          "name": "Obyone",
+          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
+        },
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/14t6bEV9Efq9yor2RuJoli"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "La Voz De Mi Padre",
+        "url": "https://open.spotify.com/album/5BbuP7t055WPJoqQ8APllR"
+      },
+      "artists": [
+        {
+          "name": "Ericson Alexander Molano",
+          "url": "https://open.spotify.com/artist/725RWHC7v2JOqMWmzx7XuK"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "duration_ms": 373428,
+      "name": "La Voz De Mi Padre",
+      "url": "https://open.spotify.com/track/4adfWAlbzg9d49D8BK0yQW"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Avivamiento (En Vivo Desde Per\u00fa)",
+        "url": "https://open.spotify.com/album/3AUHt7xuiteY3gj7SVZloB"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Israel Chaparro",
+          "url": "https://open.spotify.com/artist/1OLRSnF2sTYBx7lSbfgWeK"
+        }
+      ],
+      "duration_ms": 319897,
+      "name": "Avivamiento - En Vivo Desde Per\u00fa",
+      "url": "https://open.spotify.com/track/6o6p2jE3RPT1S9FqiLFEvL"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Mil Gracias",
+        "url": "https://open.spotify.com/album/5CgRDcS03qWsuab2zn0mSl"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "duration_ms": 470581,
+      "name": "Mil Gracias",
+      "url": "https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Milagroso / Padre Nuestro",
+        "url": "https://open.spotify.com/album/67jvV3YDUvDmWzPK5QvuJb"
+      },
+      "artists": [
+        {
+          "name": "Toni Romero",
+          "url": "https://open.spotify.com/artist/69BWizWNZTCdBWLb1zllgw"
+        },
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "duration_ms": 626005,
+      "name": "Milagroso / Padre Nuestro",
+      "url": "https://open.spotify.com/track/0PuH1tZV1NagpsotmNYvzO"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Indigno (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2jdlUMIRzwOo4FekAoOOeE"
+      },
+      "artists": [
+        {
+          "name": "Raisa D\u00edaz",
+          "url": "https://open.spotify.com/artist/4xmr8vnfO5RhovBUfsABGi"
+        }
+      ],
+      "duration_ms": 501461,
+      "name": "Indigno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6jTJ6klbjyTb5WzvzFbyvJ"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Traigo mi Perfume (Beso tus Pies) Espontaneo",
+        "url": "https://open.spotify.com/album/7cvQYc5eTOhPzqrB8VWYfQ"
+      },
+      "artists": [
+        {
+          "name": "Abner Himely Oficial",
+          "url": "https://open.spotify.com/artist/2PnCPlb32E8jOabHbri8GM"
+        },
+        {
+          "name": "King David Music",
+          "url": "https://open.spotify.com/artist/6WZerC89NageKK8pZb6bj6"
+        }
+      ],
+      "duration_ms": 340384,
+      "name": "Traigo mi Perfume (Beso tus Pies)",
+      "url": "https://open.spotify.com/track/0KwNKX6aLo777pozLyQt25"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "VIDA EL ME DIO",
+        "url": "https://open.spotify.com/album/3j7j1MXvdUFqdpP38Hbz4N"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Wessin",
+          "url": "https://open.spotify.com/artist/1zIIY2NrBdGLE0RzFyKMBl"
+        }
+      ],
+      "duration_ms": 590918,
+      "name": "VIDA EL ME DIO",
+      "url": "https://open.spotify.com/track/2W1AQHDLftvvfgB0ATGcPT"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Nuestro Dios",
+        "url": "https://open.spotify.com/album/6ighLyhj6ZY5BX5IlunH8s"
+      },
+      "artists": [
+        {
+          "name": "Selah Worship",
+          "url": "https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA"
+        },
+        {
+          "name": "Eugenio",
+          "url": "https://open.spotify.com/artist/06I4FXtPybqLqCwJc4XPQK"
+        },
+        {
+          "name": "Josu Sosa",
+          "url": "https://open.spotify.com/artist/5BZXALXJjLqR5OyHsByxcX"
+        },
+        {
+          "name": "Forajido",
+          "url": "https://open.spotify.com/artist/37uKI8IYCtk1WmwjSIFVsC"
+        }
+      ],
+      "duration_ms": 223965,
+      "name": "Nuestro Dios",
+      "url": "https://open.spotify.com/track/5bHgl1rDw7eHoJVLq3gBXf"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Hasta ver",
+        "url": "https://open.spotify.com/album/7tfGqs4xRa63Qxb4fhyZjM"
+      },
+      "artists": [
+        {
+          "name": "Emi Cant\u00fa",
+          "url": "https://open.spotify.com/artist/0ylFwnceqgOCxLj84Iiv1T"
+        }
+      ],
+      "duration_ms": 306500,
+      "name": "Hasta ver",
+      "url": "https://open.spotify.com/track/0TiHWaAeqp4QUDAW5C32di"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "House of God",
+        "url": "https://open.spotify.com/album/2u9OFKqD6UADRH5tMYD0LQ"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 182271,
+      "name": "House of God - English / Spanish",
+      "url": "https://open.spotify.com/track/4xGxopy9t2492t83WE4sOu"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "KALLAH",
+        "url": "https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup"
+      },
+      "artists": [
+        {
+          "name": "Camila Sof\u00eda",
+          "url": "https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8"
+        }
+      ],
+      "duration_ms": 186517,
+      "name": "KALLAH",
+      "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Realidad",
+        "url": "https://open.spotify.com/album/1T5ZIeFm8kGwdtIcSykUda"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "duration_ms": 287850,
+      "name": "Realidad",
+      "url": "https://open.spotify.com/track/2BX2wtmjuxKkzRAzdgzz4V"
+    },
+    {
+      "added_at": "2026-07-17 04:02:11",
+      "album": {
+        "name": "Voz de Mi Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KWh6PwrweclrxQdZnAIDH"
+      },
+      "artists": [
+        {
+          "name": "El Consejero21",
+          "url": "https://open.spotify.com/artist/51KWqZLiXMaVYwDOnyjEUW"
+        },
+        {
+          "name": "Kanelo Pro",
+          "url": "https://open.spotify.com/artist/5ol4JUQHjUIq4dLjnOxjbm"
+        }
+      ],
+      "duration_ms": 184194,
+      "name": "Voz de Mi Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/682gLDmxEjbxtVQiH3z66W"
+    },
     {
       "added_at": "2026-07-10 13:12:31",
       "album": {
@@ -1551,314 +1835,6 @@
       "duration_ms": 123676,
       "name": "Calma",
       "url": "https://open.spotify.com/track/47vkBfWIEAahlxsl4beOg5"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Peleando En Mi Mente",
-        "url": "https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "Peleando En Mi Mente",
-      "url": "https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Eternamente Te Amo",
-        "url": "https://open.spotify.com/album/0S3AGOVB8VrMiOoRiFfcZr"
-      },
-      "artists": [
-        {
-          "name": "Jafet",
-          "url": "https://open.spotify.com/artist/3YAiKUSNK1LP783Hj7uejr"
-        },
-        {
-          "name": "Melody Joyce",
-          "url": "https://open.spotify.com/artist/3lExw272fnVkuxcdXaNk95"
-        }
-      ],
-      "duration_ms": 261461,
-      "name": "Eternamente Te Amo",
-      "url": "https://open.spotify.com/track/4zTnpoUAXZG7ka7IDdjaWL"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "LOLA",
-        "url": "https://open.spotify.com/album/4ZdZLysXfYEac1cQ31sOew"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "LOLA",
-      "url": "https://open.spotify.com/track/7pEIuEVEV1Hx9qZipz1dxg"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Aleluya",
-        "url": "https://open.spotify.com/album/3YdRfqiRJegnQ51A6GXbOZ"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 197361,
-      "name": "Aleluya",
-      "url": "https://open.spotify.com/track/4ev4Iiff5CVXkiWSYgaqrO"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Reggaeton Diferente",
-        "url": "https://open.spotify.com/album/21BhRhajg9u7D3KPviCq4O"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Diamnd El Cientifico",
-          "url": "https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe"
-        },
-        {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Reggaeton Diferente",
-      "url": "https://open.spotify.com/track/7lgw1SHenoHhvj8eidwMak"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Altavoz (15 Aniversario)",
-        "url": "https://open.spotify.com/album/6W34HuXAifXztChvSSXXSQ"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro L\u00f3pez",
-          "url": "https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv"
-        },
-        {
-          "name": "Resq Band",
-          "url": "https://open.spotify.com/artist/4Jlicahon7H3brjY6BqI1W"
-        }
-      ],
-      "duration_ms": 349488,
-      "name": "Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/45H1CuoFIkR3EJpelbYTgE"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Mis Mejores A\u00f1os",
-        "url": "https://open.spotify.com/album/0FqIqFIwbqbtP7x85iSJuF"
-      },
-      "artists": [
-        {
-          "name": "S1 AFTER",
-          "url": "https://open.spotify.com/artist/6Z9dBS0QmfD5fep8lh17VF"
-        },
-        {
-          "name": "Somos Uno Worship",
-          "url": "https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        },
-        {
-          "name": "Emmanuel Ramos",
-          "url": "https://open.spotify.com/artist/5FCcawRIGPKiPMkKMaH1LQ"
-        }
-      ],
-      "duration_ms": 213323,
-      "name": "Mis Mejores A\u00f1os",
-      "url": "https://open.spotify.com/track/0gwuGguhOW2zQmmU17yqP3"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "\u00bfQu\u00e9 Buscas De M\u00ed?",
-        "url": "https://open.spotify.com/album/5ibuLixLobhyVi1XCMqce5"
-      },
-      "artists": [
-        {
-          "name": "Follow",
-          "url": "https://open.spotify.com/artist/4gDVAbxwoSAocV2U383e7m"
-        },
-        {
-          "name": "Ian Carlo",
-          "url": "https://open.spotify.com/artist/1RZwvXInmHwr0YXJCe6sq8"
-        },
-        {
-          "name": "Barajas",
-          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\u00bfQu\u00e9 Buscas De M\u00ed?",
-      "url": "https://open.spotify.com/track/5US3AhBW0RYu4JtLJrcZ9B"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Tocando Tu Puerta",
-        "url": "https://open.spotify.com/album/1uWvgq5W3xOCmDn4xcb5G1"
-      },
-      "artists": [
-        {
-          "name": "Itala & Juanjo",
-          "url": "https://open.spotify.com/artist/3sSYhB0dqTSQoe76KnAgvK"
-        },
-        {
-          "name": "Itala Rodriguez",
-          "url": "https://open.spotify.com/artist/75e1ThT3wnK7zWhUi7vY3w"
-        },
-        {
-          "name": "Paola Pablo",
-          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Tocando Tu Puerta",
-      "url": "https://open.spotify.com/track/0nhM7kxnbSaIc8fD2EHyTs"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Mi Mano Est\u00e1 Llena de Su Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/4vPgFStSS50aFpOBi7gmcY"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Ortiz",
-          "url": "https://open.spotify.com/artist/1wulBpQiF80m6u0jp9MLU7"
-        },
-        {
-          "name": "Jonatan Narv\u00e1ez",
-          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
-        }
-      ],
-      "duration_ms": 169083,
-      "name": "Mi Mano Est\u00e1 Llena de Su Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/6641kIg81saCyScUbB4SMe"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Como Nuestro Dios?",
-        "url": "https://open.spotify.com/album/4LE0GAAyXjoBLXo26yaUbs"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Isaque",
-          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
-        },
-        {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
-        }
-      ],
-      "duration_ms": 333913,
-      "name": "\u00bfQui\u00e9n Es Como Nuestro Dios?",
-      "url": "https://open.spotify.com/track/3zjJBrWZ7ntkyTnnzLkYeu"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Horno de Amor Divino",
-        "url": "https://open.spotify.com/album/7t4ZitNbCDyTm1jKAYGDUT"
-      },
-      "artists": [
-        {
-          "name": "Jesse Demara",
-          "url": "https://open.spotify.com/artist/3VsCGZxvxw9mqEhoHrMoML"
-        }
-      ],
-      "duration_ms": 254941,
-      "name": "Horno de Amor Divino",
-      "url": "https://open.spotify.com/track/4rShLTZ7kUfsPoi1qiut6d"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Solo Hay Uno",
-        "url": "https://open.spotify.com/album/0SAxQSg5t1FDx7XaviwkpJ"
-      },
-      "artists": [
-        {
-          "name": "Joel Rocco",
-          "url": "https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        }
-      ],
-      "duration_ms": 703551,
-      "name": "Solo Hay Uno",
-      "url": "https://open.spotify.com/track/4fDCyStKB2X6Apq2bZa8fk"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Vertical (Live)",
-        "url": "https://open.spotify.com/album/66jL2YCV8TXNb5ygcJCyOj"
-      },
-      "artists": [
-        {
-          "name": "Cales Louima",
-          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 616875,
-      "name": "Mi Necesidad - Live",
-      "url": "https://open.spotify.com/track/6zq2J8s65G74OOLm7CQeej"
-    },
-    {
-      "added_at": "2026-07-10 13:12:31",
-      "album": {
-        "name": "Agradecido Estoy",
-        "url": "https://open.spotify.com/album/5eM1qkrHgqfp9LEDFzx64P"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Intimidad Worship",
-          "url": "https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Agradecido Estoy",
-      "url": "https://open.spotify.com/track/685UVMXJp4Ne1Veo8S88wN"
     }
   ],
   "unique_name": "Todas Novedades Cristianas",

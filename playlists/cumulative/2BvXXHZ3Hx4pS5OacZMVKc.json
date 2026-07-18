@@ -8067,6 +8067,24 @@
     },
     {
       "album": {
+        "name": "SUFFOCATE",
+        "url": "https://open.spotify.com/album/3gTj7zWhpgrFO625d1gZ0e"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "SUFFOCATE",
+      "url": "https://open.spotify.com/track/6RUHWfhCcQih0sF2COlKyl"
+    },
+    {
+      "album": {
         "name": "Summer's End",
         "url": "https://open.spotify.com/album/35KlhjYtPv9XtEIAUzNXVn"
       },

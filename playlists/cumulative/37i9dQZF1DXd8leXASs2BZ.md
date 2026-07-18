@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Nust B
 
-1,683 songs - 3 day 5 hr 8 min
+1,684 songs - 3 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1289,6 +1289,7 @@
 | [SOWAKA](https://open.spotify.com/track/0BjfrrzoaOWfg227ee6BTS) | [DONA JEEZY](https://open.spotify.com/artist/1e3IpSaBNTqQeryaTgk5UK) | [BAKUCHI](https://open.spotify.com/album/3oPcNZAR3AGaCIxMypec42) | 2:48 | 2024-04-24 | 2024-05-15 |
 | [SPACE](https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPACE](https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR) | 3:06 | 2024-05-15 | 2024-06-12 |
 | [Space Shuttle](https://open.spotify.com/track/4M7fcBijG0G1vtByU0Vk9d) | [Draw4](https://open.spotify.com/artist/2Lk6pnfYeQvoEWoQ4Hdq6l) | [17ROOM](https://open.spotify.com/album/46ZhMgl0zPIymQCtKRdho2) | 2:50 | 2024-06-11 | 2024-07-17 |
+| [SPACESHIP](https://open.spotify.com/track/6dmL1iz7P5wUzEAqNcUgOI) | [Hanemii](https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny) | [SPACESHIP](https://open.spotify.com/album/3Lb0w1dnd1aclWc5sq1oXu) | 1:54 | 2026-07-15 |  |
 | [SPEND MY TIME](https://open.spotify.com/track/3F9VGQmXajdFHOLOJ4eHHs) | [AMY McFLY](https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG), [Y2](https://open.spotify.com/artist/71oYGYgvAWdULjk3ffj1oy) | [SPEND MY TIME](https://open.spotify.com/album/5kahTU9HMIBriBysTGKZtG) | 2:37 | 2025-03-04 | 2025-04-02 |
 | [Sprout](https://open.spotify.com/track/6vdog9i5UMjUgAqPQzzJ2g) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Sprout](https://open.spotify.com/album/5pKgbmooevdS8vyErrchIV) | 2:17 | 2026-03-24 | 2026-05-08 |
 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 | 2026-02-10 | 2026-06-24 |

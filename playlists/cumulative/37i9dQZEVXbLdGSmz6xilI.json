@@ -5744,7 +5744,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 206461,
       "name": "Come My Way (softer version)",
       "url": "https://open.spotify.com/track/331pu1rdL2Yn7Z3F1RNXBR"
@@ -6459,6 +6459,40 @@
     },
     {
       "album": {
+        "name": "TINH H\u00c0 \"SAY HI\", T\u1eacP 2",
+        "url": "https://open.spotify.com/album/03GZcmJ7G6H1zPZin5rQcX"
+      },
+      "artists": [
+        {
+          "name": "TINH H\u00c0 \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh"
+        },
+        {
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+        },
+        {
+          "name": "KIMLONG",
+          "url": "https://open.spotify.com/artist/26GpU9jkhwkZCyWBw6Prbf"
+        },
+        {
+          "name": "Xu\u00e2n \u0110\u1ecbnh K.Y",
+          "url": "https://open.spotify.com/artist/7G5AEkY5idIoHytk72GGyf"
+        },
+        {
+          "name": "DILLAN",
+          "url": "https://open.spotify.com/artist/1PR1ZkCybfd7U1TXvjglNq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350421,
+      "name": "C\u00d4 \u0110\u01a0N ANH C\u0168NG VUI",
+      "url": "https://open.spotify.com/track/3bmqUlen7AJeTh3EKCEPHe"
+    },
+    {
+      "album": {
         "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
         "url": "https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5"
       },
@@ -6886,7 +6920,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 227458,
       "name": "DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/3x7Hh3zsE1wcXCU2G8l5tP"
@@ -8610,6 +8644,24 @@
       "duration_ms": 197333,
       "name": "Em L\u00e0",
       "url": "https://open.spotify.com/track/6A1IbMKwjvXibcrU1sdqKH"
+    },
+    {
+      "album": {
+        "name": "Em M\u1edbi L\u00e0 Ng\u01b0\u1eddi Y\u00eau Anh",
+        "url": "https://open.spotify.com/album/2v1M0V54sIs5Ee6x5NL8dE"
+      },
+      "artists": [
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228979,
+      "name": "Em M\u1edbi L\u00e0 Ng\u01b0\u1eddi Y\u00eau Anh",
+      "url": "https://open.spotify.com/track/1zvL2X6HPrLfvtSY4DpopE"
     },
     {
       "album": {
@@ -11378,7 +11430,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 204137,
       "name": "ho\u00e1 ra\u2026",
       "url": "https://open.spotify.com/track/0EGwksIbRx7VflNBzuIBvc"
@@ -17252,7 +17304,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -17598,7 +17650,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 242144,
       "name": "Nguy\u1ec5n V\u0103n M\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/1ap1uhhvWmyZDJZ0HBWpvo"
@@ -18262,7 +18314,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 215901,
       "name": "Ng\u01b0\u1eddi \u0110\u1ea7u Ti\u00ean",
       "url": "https://open.spotify.com/track/3dbfL7nHOZlM4adzLHNnB3"
@@ -22848,7 +22900,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -24154,7 +24206,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
@@ -27624,7 +27676,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
@@ -27890,7 +27942,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"

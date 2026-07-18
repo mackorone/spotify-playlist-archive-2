@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ☀️Christopher & Thomas Helmig☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,549 likes - 63 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,806 likes - 64 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 3 | [Good Times](https://open.spotify.com/track/2bpxHht751EzvYMtshniQb) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/4DQ02ewBv77utFJEC7uXZX) | 3:04 |
 | 4 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 |
 | 5 | [Napoli](https://open.spotify.com/track/4UyUTjExsdAUJ8ze9AtyYb) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Napoli](https://open.spotify.com/album/1evSQF3LMP5BblYEfLPs72) | 2:42 |
-| 6 | [Track 23](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 0:00 |
+| 6 | [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 |
 | 7 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 | 8 | [Gimme Dat Ting](https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Gimme Dat Ting](https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc) | 4:03 |
 | 9 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 38 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
 | 39 | [Sunpetal](https://open.spotify.com/track/4eZ86BB6u2BZXj7ilo1mk4) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [SAGA004](https://open.spotify.com/album/5ggTXqpDKZIemTJHM9mEis) | 3:29 |
 | 40 | [Easy Street](https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Easy Street](https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n) | 3:51 |
-| 41 | [Track 3](https://open.spotify.com/track/6DcJN0iH30RsirkMMd1JLO) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD) | [off center](https://open.spotify.com/album/3lNo4FMllv6xyCwaznfjvg) | 0:00 |
+| 41 | [indecisive](https://open.spotify.com/track/6DcJN0iH30RsirkMMd1JLO) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [off center](https://open.spotify.com/album/3lNo4FMllv6xyCwaznfjvg) | 2:30 |
 | 42 | [Knight In Shining Prada](https://open.spotify.com/track/3liYWWSuD0zcytDMrUqsEq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [John Joseph Holt](https://open.spotify.com/artist/3unwE3gwoHwyvsUnSUAGVC) | [Knight In Shining Prada](https://open.spotify.com/album/1nGTvi4XveHqEitXJHfOiQ) | 4:17 |
 | 43 | [Forever as Her Friend](https://open.spotify.com/track/3fKXP7MREctCw36vrb2EPF) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Forever as Her Friend](https://open.spotify.com/album/3zCtDFUPgJYLUAqE2ASziL) | 3:48 |
 | 44 | [Dig](https://open.spotify.com/track/6GtHiksYtjSmNfad56R7W3) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Dig](https://open.spotify.com/album/6GTsGyBPdo5UQHGd4YADFK) | 2:06 |
@@ -62,14 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 52 | [sONG aBOUT nOTHIN](https://open.spotify.com/track/4Cy9cLQu4CWtGh6sEQ9YMh) | [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [sONG aBOUT nOTHIN](https://open.spotify.com/album/7nQxQgTB3JpK62N6wKbdLc) | 2:01 |
 | 53 | [SAD HAPPY BIRTHDAY](https://open.spotify.com/track/21PPFDegzMYGBBc6bIvls6) | [BABY B](https://open.spotify.com/artist/4zYjNfiqFyPOpoQg7m83Fc), [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [SAD HAPPY BIRTHDAY](https://open.spotify.com/album/20lp4fiy7CNy9xmKxPI1xq) | 2:33 |
 | 54 | [Crash](https://open.spotify.com/track/6Jwfxh9OqMsqD6SEMwEmj1) | [Hedda Mae](https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4) | [Crash](https://open.spotify.com/album/5EIrd3al1ojWDLC1SRPYIK) | 2:55 |
-| 55 | [Track 1](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 0:00 |
+| 55 | [Lady](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 2:31 |
 | 56 | [Electrified](https://open.spotify.com/track/5XuizbY6zjpAjpuljymNbT) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Electrified](https://open.spotify.com/album/3Shzbb73nojCdjelhN9WDJ) | 2:43 |
 | 57 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
 | 58 | [Lullaby](https://open.spotify.com/track/0Qz2JUhkKc6ENzbFtFY50R) | [MIIA](https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL) | [Huldra](https://open.spotify.com/album/42IcjzVptnLKshD9cmNB61) | 3:42 |
 | 59 | [For The Moment \- Edit](https://open.spotify.com/track/5KlfRylOxBetSsKv9x01ko) | [Filip Grönlund](https://open.spotify.com/artist/1u5org9Dl98ijRbdFzX3Om) | [For The Moment](https://open.spotify.com/album/39g4CHTC84iOOUcDWKPNg4) | 3:22 |
 | 60 | [I Know, I Was Wrong](https://open.spotify.com/track/5222GmoioO5SAXaRcsPw1k) | [Blue Age](https://open.spotify.com/artist/3butzKx7PzQ5u549zqHaTc) | [I Know, I Was Wrong](https://open.spotify.com/album/6qGvTnHMKSLXaoDyM7HYD0) | 4:23 |
 | 61 | [In My Victoria's Secret](https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [In My Victoria's Secret](https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF) | 2:40 |
-| 62 | [Best I Could](https://open.spotify.com/track/2ggWI43mwIIWxkVsBMiMgA) | [Pleasant Flow](https://open.spotify.com/artist/7N2MrVVNI0qj7MrhfNXsaj) | [Best I Could](https://open.spotify.com/album/6Qlc9186BYlRqiLrxFBJum) | 3:30 |
-| 63 | [Headfirst](https://open.spotify.com/track/1pBiGqXUOVRrCxP44nonG2) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Headfirst](https://open.spotify.com/album/0UeCgZQsDJTmdPMAQRKHkc) | 2:38 |
+| 62 | [Hit The Ground](https://open.spotify.com/track/19IwvJllzzMUQvSnEvJkuJ) | [Fake Moss](https://open.spotify.com/artist/0fjoXhNfoZOgQn3Tg42pwQ) | [Hit The Ground](https://open.spotify.com/album/6dddG0DjVsyiq5gt04KbY3) | 3:03 |
+| 63 | [Best I Could](https://open.spotify.com/track/2ggWI43mwIIWxkVsBMiMgA) | [Pleasant Flow](https://open.spotify.com/artist/7N2MrVVNI0qj7MrhfNXsaj) | [Best I Could](https://open.spotify.com/album/6Qlc9186BYlRqiLrxFBJum) | 3:30 |
+| 64 | [Headfirst](https://open.spotify.com/track/1pBiGqXUOVRrCxP44nonG2) | [Nina Winder\-Lind](https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j) | [Headfirst](https://open.spotify.com/album/0UeCgZQsDJTmdPMAQRKHkc) | 2:38 |
 
 Snapshot ID: `AAAAAKhzLFxC0R5WMnRYX5GqOXV4JAoi`

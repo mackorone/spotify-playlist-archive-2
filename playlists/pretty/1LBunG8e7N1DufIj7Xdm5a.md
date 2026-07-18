@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,602 songs - 10 day 6 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,605 songs - 10 day 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4610,5 +4610,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4600 | [Luz extinta](https://open.spotify.com/track/0uQvoYk6lRd0gkFdoNTn43) | [ENHEBRA](https://open.spotify.com/artist/4RGE7zTPz7t3P19jlljmHQ) | [Luz extinta](https://open.spotify.com/album/1o8ntDzfYLGFETA9hIZodc) | 5:45 |
 | 4601 | [Try Again](https://open.spotify.com/track/7zZH4I44iimTISzvkvZHmQ) | [CR0WN](https://open.spotify.com/artist/4t4Eu8jCaR3osTxu4hIGjV) | [Try Again](https://open.spotify.com/album/2qZpY5vs73qZj1HkHfU6kf) | 3:28 |
 | 4602 | [Death To The Fleshless](https://open.spotify.com/track/6aD20EMBpgClg8icXxzBiD) | [Glitch Kill](https://open.spotify.com/artist/50oWkslmqWWcUrVxKOfL4m) | [Death To The Fleshless](https://open.spotify.com/album/3QwkBQWWndUuBo6GoctMVA) | 4:37 |
+| 4603 | [Rumors](https://open.spotify.com/track/7s8Muzy74MwG6bAWzn4UaS) | [Scarlet Tantrum](https://open.spotify.com/artist/68krtGioZxrKpiidxfFxcY) | [Rumors](https://open.spotify.com/album/1OJNVVc41xZXVdSBUJkJw5) | 3:45 |
+| 4604 | [Sunless morning](https://open.spotify.com/track/6ZjdaZYsd2KaV0Cq7C55mq) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 3:45 |
+| 4605 | [Heavy Wrong](https://open.spotify.com/track/3Zj1z0bcN8bAG0MozSgLUP) | [INSTINTO IML](https://open.spotify.com/artist/1cE9VQZkQq3Dc5ejH2X5YN) | [Heavy Wrong](https://open.spotify.com/album/6kjZ6qsbJZbzghbYOLa5vv) | 3:38 |
 
-Snapshot ID: `AAAJN63rI3j+yUw8WvMvURF65k1kgmfU`
+Snapshot ID: `AAAJOpcl9K6NwoRFAjNAHBjvwRxrqrXz`

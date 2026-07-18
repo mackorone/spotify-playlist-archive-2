@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/4C0WSusIXBcumZ5xPw5Dxx"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295416,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/4kFMVLqDB9FiT2Rj9mA6x0"
+    },
+    {
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -760,6 +778,24 @@
       "duration_ms": 257360,
       "name": "Honky Tonk Women",
       "url": "https://open.spotify.com/track/6gcAlkX0YVDlHtKIYY9a25"
+    },
+    {
+      "album": {
+        "name": "How To Get Away With Murder",
+        "url": "https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "How To Get Away With Murder",
+      "url": "https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1"
     },
     {
       "album": {
@@ -1935,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Think I'm in Love",
+        "url": "https://open.spotify.com/album/1pBwNKwoohrgvuOTeQLPJh"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "Think I'm in Love",
+      "url": "https://open.spotify.com/track/3xeC425dYUQNIlT6LeyUn7"
+    },
+    {
+      "album": {
         "name": "Think I\u2019m In Love With You",
         "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
@@ -2062,6 +2116,24 @@
       "duration_ms": 215439,
       "name": "Two Trains (feat. Marcus King)",
       "url": "https://open.spotify.com/track/23cBxlsY43hiuiLwXn5Xkn"
+    },
+    {
+      "album": {
+        "name": "Weekend Lover & Used To It",
+        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
     },
     {
       "album": {
@@ -2258,7 +2330,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180733,
       "name": "You Don't Miss Your Water - Extended",
       "url": "https://open.spotify.com/track/6pYvB2TQO7oGLw6oNV40jm"
@@ -2312,7 +2384,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 302013,
       "name": "You Must Go",
       "url": "https://open.spotify.com/track/7zb4BpYdR26dSTGSWkGM6f"
@@ -2334,7 +2406,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 239173,
       "name": "You Never Cross My Mind",
       "url": "https://open.spotify.com/track/1lSDTozfsRZd7qjhZL2sUg"

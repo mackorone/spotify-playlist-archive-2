@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47530,
+  "num_followers": 47535,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAD87VZW7XwF9B5p7jE1xrx3",
+  "snapshot_id": "algfAAAAAABnQumidGhKLqZU6EAqM1ef",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras Bonitas",
-        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "Mentiras Bonitas",
-      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Regalo La Lluvia",
         "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mentiras Bonitas",
+        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "Mentiras Bonitas",
+      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nadie Me Vera Llorar (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 183500,
       "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Enga\u00f1ada",
+      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 213812,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Enga\u00f1ada",
-      "url": "https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Amor y Veneno",
-      "url": "https://open.spotify.com/track/1abOezww4bOklPZsAGgvqT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 271466,
       "name": "Mala",
       "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Amor y Veneno",
+      "url": "https://open.spotify.com/track/1abOezww4bOklPZsAGgvqT"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Perdida",
-        "url": "https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 235180,
-      "name": "Alma perdida",
-      "url": "https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 213173,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma Perdida",
+        "url": "https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 235180,
+      "name": "Alma perdida",
+      "url": "https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA"
     },
     {
       "added_at": null,

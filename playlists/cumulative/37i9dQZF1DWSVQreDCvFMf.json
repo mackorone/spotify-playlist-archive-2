@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: John Roa, Dash Calzado",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: This Band, Yuridope",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Abot Langit",
+        "url": "https://open.spotify.com/album/1suU5Eqx34iDlXhIBR1fIV"
+      },
+      "artists": [
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY"
+        },
+        {
+          "name": "dana paulene",
+          "url": "https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245647,
+      "name": "Abot Langit",
+      "url": "https://open.spotify.com/track/7hgEWxSiTgod64zHBdaJGd"
+    },
+    {
+      "album": {
         "name": "Action!",
         "url": "https://open.spotify.com/album/1OaJC4PzvYhnEMVm8qmImz"
       },
@@ -602,6 +624,24 @@
       "duration_ms": 184173,
       "name": "ako naman muna",
       "url": "https://open.spotify.com/track/5A8SptsfoUXm7VG9SKYq2c"
+    },
+    {
+      "album": {
+        "name": "Ako'y ako",
+        "url": "https://open.spotify.com/album/7Kb2r7x1DOZUeiP5eipeeu"
+      },
+      "artists": [
+        {
+          "name": "Patrick Kristoffer",
+          "url": "https://open.spotify.com/artist/35WK3gcFIjOhmYF3AK6ZyL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Ako'y ako",
+      "url": "https://open.spotify.com/track/727QxwtTQva7xPqBZuqoeZ"
     },
     {
       "album": {
@@ -1312,7 +1352,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 236454,
       "name": "Autumn (Reimagined)",
       "url": "https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl"
@@ -2620,7 +2660,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164133,
       "name": "CHANGES",
       "url": "https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0"
@@ -3171,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Delikado",
+        "url": "https://open.spotify.com/album/67MgYExrsnq9DMi9Q6lMPc"
+      },
+      "artists": [
+        {
+          "name": "The Nomads",
+          "url": "https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Delikado",
+      "url": "https://open.spotify.com/track/7DLY0iWhYVKTuXewK8oNCY"
+    },
+    {
+      "album": {
         "name": "Delikado, Baby",
         "url": "https://open.spotify.com/album/314uI5ZQOrE5VpiWdFjRlY"
       },
@@ -3218,7 +3276,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198688,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT"
@@ -4852,6 +4910,24 @@
       "duration_ms": 258414,
       "name": "Gulong-gulo",
       "url": "https://open.spotify.com/track/14phQAoWo0yZy4EcseAHof"
+    },
+    {
+      "album": {
+        "name": "Guni-guni",
+        "url": "https://open.spotify.com/album/66AxLZbYq4EYNdXLABWH9Y"
+      },
+      "artists": [
+        {
+          "name": "Jayda",
+          "url": "https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Guni-guni",
+      "url": "https://open.spotify.com/track/2iEB1zMYmN0KZUjuSIymB9"
     },
     {
       "album": {
@@ -6992,7 +7068,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 240000,
       "name": "Kailan Ka Uuwi (feat. Flow G)",
       "url": "https://open.spotify.com/track/5INJWPDC31rn7ebGRQ0rN9"
@@ -11144,7 +11220,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 220800,
       "name": "No/Know",
       "url": "https://open.spotify.com/track/7MTVOkC5fhnvC4VlmwbtbB"
@@ -11238,6 +11314,24 @@
       "duration_ms": 314102,
       "name": "Obviously",
       "url": "https://open.spotify.com/track/0Grd8iSitiuFvG5TAhDTby"
+    },
+    {
+      "album": {
+        "name": "In Other Words",
+        "url": "https://open.spotify.com/album/0t1iffAumjQ64OXKgiwMeQ"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "Oh Babe",
+      "url": "https://open.spotify.com/track/1dfi7lRgBdS5jRk1zoo5zt"
     },
     {
       "album": {
@@ -12268,7 +12362,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 229403,
       "name": "Panatag",
       "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
@@ -13547,6 +13641,24 @@
     },
     {
       "album": {
+        "name": "Reminders",
+        "url": "https://open.spotify.com/album/4WH6iBGmZP0MRe3DRxkchd"
+      },
+      "artists": [
+        {
+          "name": "Jason Marvin",
+          "url": "https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278461,
+      "name": "Reminders",
+      "url": "https://open.spotify.com/track/0cCZyOqH3fmRnTlhrSk8ul"
+    },
+    {
+      "album": {
         "name": "Until I Reach the Sun",
         "url": "https://open.spotify.com/album/6DIbQuEnLYGSitTVx5Sga2"
       },
@@ -13887,6 +13999,28 @@
     },
     {
       "album": {
+        "name": "Sa Isip Na Lang",
+        "url": "https://open.spotify.com/album/78QtZ5hOfs3TuMQoAwHc3A"
+      },
+      "artists": [
+        {
+          "name": "This Band",
+          "url": "https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282428,
+      "name": "Sa Isip Na Lang",
+      "url": "https://open.spotify.com/track/6mVStviIlLI5EtnLXv8BOw"
+    },
+    {
+      "album": {
         "name": "Sa Kapwa Ko Ay Alay",
         "url": "https://open.spotify.com/album/30TTzRYxVEhPpi1Rokp5T3"
       },
@@ -14190,7 +14324,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 196255,
       "name": "Salamin",
       "url": "https://open.spotify.com/track/3aA8EVc3Wn4fFhPWpVaFGM"
@@ -14699,6 +14833,28 @@
     },
     {
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq"
+      },
+      "artists": [
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Kael Guerrero",
+          "url": "https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Sayang",
+      "url": "https://open.spotify.com/track/2zL2rMvXqOoPpabiBcjKjX"
+    },
+    {
+      "album": {
         "name": "Sayo",
         "url": "https://open.spotify.com/album/3nlJpk1BYKsKLC1j4xD7rU"
       },
@@ -15086,7 +15242,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 213307,
       "name": "simula ngayon.",
       "url": "https://open.spotify.com/track/0kLXjivW4YUO9vvBj5pZc7"
@@ -16374,7 +16530,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195095,
       "name": "TamaMali",
       "url": "https://open.spotify.com/track/7DSAJUlMnz4cRCON5EX9jO"
@@ -17387,6 +17543,24 @@
     },
     {
       "album": {
+        "name": "Tunay Na Ligaya (From \"Sigabo\")",
+        "url": "https://open.spotify.com/album/3QuYyV3fvKK2nUwDViERr2"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Tunay Na Ligaya - From \"Sigabo\"",
+      "url": "https://open.spotify.com/track/11JxOUnlMPHYc5isWCprB2"
+    },
+    {
+      "album": {
         "name": "Tungo",
         "url": "https://open.spotify.com/album/4MPcLwldS79h2yL76EY032"
       },
@@ -17772,6 +17946,24 @@
       "duration_ms": 248135,
       "name": "Usad",
       "url": "https://open.spotify.com/track/2bOxIrFLLniNEsog54cXU9"
+    },
+    {
+      "album": {
+        "name": "USAD",
+        "url": "https://open.spotify.com/album/6D9f3VmaNomBQ46OyatntQ"
+      },
+      "artists": [
+        {
+          "name": "PABLO",
+          "url": "https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252923,
+      "name": "USAD",
+      "url": "https://open.spotify.com/track/5TeM0uxDT663mth1LMOqPg"
     },
     {
       "album": {
@@ -18338,7 +18530,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 169911,
       "name": "Woman Like Me",
       "url": "https://open.spotify.com/track/4BVIcaAlgFblOH6X5NOub9"

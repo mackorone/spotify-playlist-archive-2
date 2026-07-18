@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 898224,
+  "num_followers": 898515,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "What Did You Come For ?",
+        "url": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 221535,
+      "name": "Trapped - Radio-Edit",
+      "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 205975,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "What Did You Come For ?",
-        "url": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 221535,
-      "name": "Trapped - Radio-Edit",
-      "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -510,10 +510,14 @@
         {
           "name": "jonty",
           "url": "https://open.spotify.com/artist/6YJHE94iyYJhyxsg8QKXT2"
+        },
+        {
+          "name": "Emzy",
+          "url": "https://open.spotify.com/artist/2XEUZ5boV40xbKDn1bidp0"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 204500,
+      "name": "Said I Would",
       "url": "https://open.spotify.com/track/2Deav3NoHx3M7OG2sNZnop"
     },
     {
@@ -555,6 +559,30 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "Party Time (feat. Aatig)",
+        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 199072,
+      "name": "Party Time (feat. Aatig)",
+      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
         "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
       },
@@ -591,6 +619,22 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "Coastal Transmissions EP",
+        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 220168,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "My Temptations",
         "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
       },
@@ -607,22 +651,6 @@
       "duration_ms": 191657,
       "name": "My Temptations",
       "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "Coastal Transmissions EP",
-        "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
-      },
-      "artists": [
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "duration_ms": 220168,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -655,30 +683,6 @@
       "duration_ms": 155538,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "Party Time (feat. Aatig)",
-        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 199072,
-      "name": "Party Time (feat. Aatig)",
-      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -983,6 +987,26 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge",
+          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
       },
@@ -1003,26 +1027,6 @@
       "duration_ms": 189374,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
-      },
-      "artists": [
-        {
-          "name": "Amine Edge",
-          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1079,22 +1083,6 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
-        "name": "make your move",
-        "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 221439,
-      "name": "make your move",
-      "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
         "name": "Next Life",
         "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
       },
@@ -1135,6 +1123,22 @@
       "duration_ms": 336567,
       "name": "I See You Baby (feat. Gramma Funk) - DJ BORING Remix",
       "url": "https://open.spotify.com/track/3RaOSNfKdHUMfrbBpzcnJ6"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
+        "name": "make your move",
+        "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 221439,
+      "name": "make your move",
+      "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1291,6 +1295,22 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "Close 2 U",
         "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
       },
@@ -1303,22 +1323,6 @@
       "duration_ms": 129097,
       "name": "Close 2 U",
       "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
-        "name": "Back in the Streets",
-        "url": "https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz"
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
       },
       "artists": [
         {
-          "name": "Hotboxx",
-          "url": "https://open.spotify.com/artist/2xnJfZkR6JiCoWz3e2B5zD"
-        },
-        {
-          "name": "Justin Garcia",
-          "url": "https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 298023,
-      "name": "Back in the Streets",
-      "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "Back in the Streets",
+        "url": "https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz"
+      },
+      "artists": [
+        {
+          "name": "Hotboxx",
+          "url": "https://open.spotify.com/artist/2xnJfZkR6JiCoWz3e2B5zD"
+        },
+        {
+          "name": "Justin Garcia",
+          "url": "https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x"
+        }
+      ],
+      "duration_ms": 298023,
+      "name": "Back in the Streets",
+      "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "Lease Of Life",
         "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
       },
@@ -1395,22 +1415,6 @@
       "duration_ms": 166073,
       "name": "Lease Of Life",
       "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 239246,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
+        "name": "And When Love Speaks",
+        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        },
-        {
-          "name": "Charlie Shell",
-          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 192272,
-      "name": "People Like Us",
-      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
+      "duration_ms": 212177,
+      "name": "And When Love Speaks",
+      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1475,38 +1475,22 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
-        "name": "And When Love Speaks",
-        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 212177,
-      "name": "And When Love Speaks",
-      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "Drums Keep Calling",
-        "url": "https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
         },
         {
-          "name": "Flagrant Drvms",
-          "url": "https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb"
+          "name": "Charlie Shell",
+          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
         }
       ],
-      "duration_ms": 227812,
-      "name": "Drums Keep Calling",
-      "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
+      "duration_ms": 192272,
+      "name": "People Like Us",
+      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1527,6 +1511,26 @@
       "duration_ms": 141309,
       "name": "Gator Boots",
       "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
+        "name": "Drums Keep Calling",
+        "url": "https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Flagrant Drvms",
+          "url": "https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Drums Keep Calling",
+      "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1759,6 +1763,22 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "Harlem",
+        "url": "https://open.spotify.com/album/1nNExKkBtpDwr7wcuKsetm"
+      },
+      "artists": [
+        {
+          "name": "Ary Sya",
+          "url": "https://open.spotify.com/artist/1BwQgYtqEnAUQI3RrbsMbC"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Harlem",
+      "url": "https://open.spotify.com/track/2sokwKQyCPBVhNfozoghyi"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/215WZfNf9jqBg9SDX0secV"
       },
@@ -1779,6 +1799,22 @@
     {
       "added_at": "2026-07-16 23:00:14",
       "album": {
+        "name": "Blowin' Up The Spot",
+        "url": "https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Blowin' Up The Spot",
+      "url": "https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/19mVyPaqtpi7RXLHz8xS6v"
       },
@@ -1795,22 +1831,6 @@
       "duration_ms": 194545,
       "name": "Home",
       "url": "https://open.spotify.com/track/6jRnVj43WWW3rsDa5iIsjM"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "Harlem",
-        "url": "https://open.spotify.com/album/1nNExKkBtpDwr7wcuKsetm"
-      },
-      "artists": [
-        {
-          "name": "Ary Sya",
-          "url": "https://open.spotify.com/artist/1BwQgYtqEnAUQI3RrbsMbC"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Harlem",
-      "url": "https://open.spotify.com/track/2sokwKQyCPBVhNfozoghyi"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1847,6 +1867,22 @@
       "duration_ms": 186914,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/7iTXHv9a0jDLxSC1v38Wff"
+    },
+    {
+      "added_at": "2026-07-16 23:00:14",
+      "album": {
+        "name": "Soul Makossa",
+        "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "duration_ms": 237084,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
     },
     {
       "added_at": "2026-07-16 23:00:14",
@@ -1911,42 +1947,6 @@
       "duration_ms": 228448,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/0UHlwUPHTAfWOMn0b87Rek"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/69hh2tQ34vrWH6VnbOJ7OP"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "THELMA",
-          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/6NGgmMjUaqD8dAM2lszTPI"
-    },
-    {
-      "added_at": "2026-07-16 23:00:14",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/75IwgNsbTf2zWuhhOXI480"
-      },
-      "artists": [
-        {
-          "name": "Strath",
-          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
-        }
-      ],
-      "duration_ms": 227419,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/26EARfSu4b4dUhNDkfCRbP"
     }
   ],
   "unique_name": "Ibiza 2026",

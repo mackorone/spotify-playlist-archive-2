@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 224210,
+  "num_followers": 224310,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Mi Muchacho",
+      "url": "https://open.spotify.com/track/4p25pvhFydFona4Oe03WEL"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "30 Grandes Exitos",
         "url": "https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 252600,
       "name": "La Gemela",
       "url": "https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
-        "name": "Volver A Vivir",
-        "url": "https://open.spotify.com/album/3YcKNLwwpEl9sUpJsNMCEX"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Ivan Zuleta",
-          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
-        }
-      ],
-      "duration_ms": 278466,
-      "name": "Puro Amor",
-      "url": "https://open.spotify.com/track/25ptCY34kvpkfucDUpqhPH"
     },
     {
       "added_at": "2026-05-04 04:59:11",

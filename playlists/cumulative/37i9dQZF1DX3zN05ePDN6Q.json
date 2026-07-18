@@ -4019,6 +4019,28 @@
     },
     {
       "album": {
+        "name": "Corredor da Morte",
+        "url": "https://open.spotify.com/album/2NsekLDIwW9ZnyrDYYcCDa"
+      },
+      "artists": [
+        {
+          "name": "iann guxtavo",
+          "url": "https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3"
+        },
+        {
+          "name": "bigel",
+          "url": "https://open.spotify.com/artist/6oSW1AGGUjhNryNvdmYZWx"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110874,
+      "name": "Corredor da Morte",
+      "url": "https://open.spotify.com/track/4rQXcrYQn7nz9dLYoKJxW2"
+    },
+    {
+      "album": {
         "name": "Correria",
         "url": "https://open.spotify.com/album/3bR57Lscy4QXmCfXyGN3ho"
       },
@@ -12688,7 +12710,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180000,
       "name": "Pelas Verdes, Pelas Rosas",
       "url": "https://open.spotify.com/track/7zNoGiJJhREM5zWb7nTPhW"
@@ -18474,6 +18496,28 @@
       "duration_ms": 212210,
       "name": "Virgil",
       "url": "https://open.spotify.com/track/6hJgtVG4N4yqn8crt8C5iW"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/6k6GuREvPpGAqtjapoprXP"
+      },
+      "artists": [
+        {
+          "name": "DENI",
+          "url": "https://open.spotify.com/artist/3lV2AlHBLg7PlxnmR2D6BJ"
+        },
+        {
+          "name": "mayksoundsystem",
+          "url": "https://open.spotify.com/artist/4Fe8FRX4IS2EluuU5J0Gd5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Vis\u00e3o",
+      "url": "https://open.spotify.com/track/7DjoXdHlrEbVFursvIQr9l"
     },
     {
       "album": {

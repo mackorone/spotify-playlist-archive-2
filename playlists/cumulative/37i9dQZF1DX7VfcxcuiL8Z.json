@@ -5949,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Naked At Your Door",
+        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
+      },
+      "artists": [
+        {
+          "name": "Day We Ran",
+          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
+    },
+    {
+      "album": {
         "name": "Online 24/7",
         "url": "https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC"
       },
@@ -11298,24 +11316,6 @@
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
-    },
-    {
-      "album": {
-        "name": "Naked At Your Door",
-        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
-      },
-      "artists": [
-        {
-          "name": "Day We Ran",
-          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
-        }
-      ],
-      "date_added": "2026-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
     },
     {
       "album": {

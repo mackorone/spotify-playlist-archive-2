@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "i will be dead",
+        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
+      },
+      "artists": [
+        {
+          "name": "sura sol",
+          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "dance & giggle",
+      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
+    },
+    {
+      "album": {
         "name": "Dissolve",
         "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 199000,
       "name": "Eight",
       "url": "https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 203000,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T"
@@ -1214,6 +1232,42 @@
       "duration_ms": 223973,
       "name": "Mr. Beckett",
       "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
+    },
+    {
+      "album": {
+        "name": "Mr. Beckett (Alternate Version)",
+        "url": "https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi"
+      },
+      "artists": [
+        {
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227605,
+      "name": "Mr. Beckett - Alternate Version",
+      "url": "https://open.spotify.com/track/4OrpNXuXJ3ppL1MqY326ht"
+    },
+    {
+      "album": {
+        "name": "Muddy Water",
+        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
+      },
+      "artists": [
+        {
+          "name": "DeNohr",
+          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160031,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
     },
     {
       "album": {
@@ -1706,6 +1760,42 @@
       "duration_ms": 193445,
       "name": "Shape Of The Dunes",
       "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
+    },
+    {
+      "album": {
+        "name": "Silver Linings (Unplugged)",
+        "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
+      },
+      "artists": [
+        {
+          "name": "Roufaida",
+          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "Silver Linings - Unplugged",
+      "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
+    },
+    {
+      "album": {
+        "name": "So do I",
+        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128326,
+      "name": "So do I",
+      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
     },
     {
       "album": {

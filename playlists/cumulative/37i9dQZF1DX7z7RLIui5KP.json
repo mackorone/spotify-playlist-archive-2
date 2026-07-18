@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks. Cover: Buruklyn Boyz",
+  "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks. Cover: Coster Ojwang",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 225159,
       "name": "Rihanna (Sawa Salama)",
       "url": "https://open.spotify.com/track/6XqgKeEGF6owIGJhrCMf0u"
@@ -4834,6 +4834,24 @@
       "duration_ms": 192000,
       "name": "Visa",
       "url": "https://open.spotify.com/track/1l68hLsUbeIyDhq80fCH91"
+    },
+    {
+      "album": {
+        "name": "ISNM (Imposter Syndrome No More)",
+        "url": "https://open.spotify.com/album/4mcNJXnbaNYwheFmJCKI49"
+      },
+      "artists": [
+        {
+          "name": "Coster Ojwang",
+          "url": "https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291558,
+      "name": "Wabiro",
+      "url": "https://open.spotify.com/track/4RneAf75iXjdzjsIkggQTx"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: William McDowell
+> Spread the Good News with the best Gospel songs of the moment\. Cover: ANTHNY & Naomi Raine
 
-819 songs - 2 day 22 hr 2 min
+820 songs - 2 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [Praise The Lord \- Live](https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [New Wine \(Live\)](https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT) | 14:48 | 2026-04-03 |  |
 | [Praise Through](https://open.spotify.com/track/3qh8F96Y1HVLlOdOY3k1em) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Praise Through](https://open.spotify.com/album/7fxipbdMsE7qHTbvWv3irw) | 7:23 | 2023-02-10 | 2023-02-25 |
 | [Pray for Me](https://open.spotify.com/track/7AiabojYVisnAHVr1JwDev) | [Tina Campbell](https://open.spotify.com/artist/3dipd1qrih3c6oRdUzyfpP) | [Pray for Me](https://open.spotify.com/album/0LgQdHzargtBVzslyPzy8F) | 3:16 | 2025-03-07 | 2026-06-27 |
+| [prepare me](https://open.spotify.com/track/0j3gqn5IhxOXXEJ7DhB87N) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [prepare me](https://open.spotify.com/album/593zGbVhuYiZWaXC0n0awv) | 4:00 | 2026-07-17 |  |
 | [Prodigal Savior](https://open.spotify.com/track/7M6Hi977QBDMKUON0SWkho) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [Prodigal Savior](https://open.spotify.com/album/5KACVmGq3DafhRnVBiyeUl) | 3:18 | 2024-11-01 | 2025-01-11 |
 | [Promise Keeper](https://open.spotify.com/track/1bMjLziHSeLBZ4wuAsCfcx) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Promise Keeper](https://open.spotify.com/album/0GRtoCgh0GL3kUgxHxuVtv) | 4:17 | 2022-02-18 | 2022-03-18 |
 | [Promise Keeper](https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Promise Keeper](https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb) | 15:53 | 2026-07-03 |  |
@@ -773,7 +774,7 @@
 | [When the Praises Go Up \(The Blessings Come Down\) \- Remix](https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Maya Marchelle](https://open.spotify.com/artist/76o8Rrk9uKYx52z9JoS31k) | [When the Praises Go Up \(The Blessings Come Down\) \[Remix\]](https://open.spotify.com/album/5YB1uVKX7VrQiY67hBvxDL) | 2:41 | 2025-01-24 | 2025-05-24 |
 | [When Will We Overcome?](https://open.spotify.com/track/1GCe21Wv46xuhJvSt1Z9iU) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9), [The Aeolians](https://open.spotify.com/artist/4kwid0FRiHxsFAeYPvEF7y) | [When Will We Overcome?](https://open.spotify.com/album/7IEgpmaYrmdhYabdctmOCA) | 4:22 | 2026-01-09 |  |
 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 | 2025-08-16 |
-| [Who Do You Love](https://open.spotify.com/track/2V7EY8WTG5Z3pxT7RbZtC1) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Who Do You Love](https://open.spotify.com/album/1nBzuAVRJNEKPHUvZ8YO17) | 2:28 | 2024-11-22 |  |
+| [Who Do You Love](https://open.spotify.com/track/2V7EY8WTG5Z3pxT7RbZtC1) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Who Do You Love](https://open.spotify.com/album/1nBzuAVRJNEKPHUvZ8YO17) | 2:28 | 2024-11-22 | 2026-07-18 |
 | [Whole World In His Hands \- Radio Edit](https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Whole World In His Hands \(Radio Edit\)](https://open.spotify.com/album/7oCXdcThzsGBimJDimAyKw) | 3:39 | 2022-06-03 | 2022-10-08 |
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-02 | 2024-01-27 |
 | [With God \- Live](https://open.spotify.com/track/5t3Y3f6dXnuznrjA5Q9f2C) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Restore: Live in London](https://open.spotify.com/album/7LzEcOSf8GOcO0lH0qD3Im) | 3:03 | 2026-01-30 |  |

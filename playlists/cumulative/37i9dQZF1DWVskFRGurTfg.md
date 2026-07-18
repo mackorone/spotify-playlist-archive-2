@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Maisak, Feid y Maluma.
 
-1,226 songs - 2 day 18 hr 57 min
+1,227 songs - 2 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1013,6 +1013,7 @@
 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-09-02 | 2022-10-04 |
 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-29 | 2023-04-21 |
 | [Sin Tanto Visaje](https://open.spotify.com/track/36IKCXv76JFmwH4Ud5ZZAP) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Sin Tanto Visaje](https://open.spotify.com/album/01Xj3ZB8X0i8ZFL6vYZL7B) | 2:08 | 2026-04-16 | 2026-05-14 |
+| [SINALOKA](https://open.spotify.com/track/70rz1FP7aeqzadpgMFwr55) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [MÚSICA EN MI JETSKI](https://open.spotify.com/album/3gOkaoPt3W4C27CoVkU3je) | 2:36 | 2026-07-17 |  |
 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2023-11-17 | 2023-12-23 |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-01-28 | 2022-04-19 |
 | [SISAS NADA \(feat\. Kris R.\) \- Remix](https://open.spotify.com/track/7jkNUCqYvmgWe8JxhE6C98) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [SISAS NADA \(feat\. Kris R.\) \[Remix\]](https://open.spotify.com/album/33S0hfrYHHOq1QVHIH8y44) | 5:22 | 2025-02-18 | 2025-05-08 |

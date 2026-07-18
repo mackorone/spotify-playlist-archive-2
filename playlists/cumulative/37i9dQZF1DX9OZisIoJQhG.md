@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-114 songs - 7 hr 25 min
+115 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Sleeping Lotus](https://open.spotify.com/track/6c7uYlmHJtZPnenPjqG7Ir) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 2:32 | 2024-09-05 |  |
 | [Solísima](https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Solísima](https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh) | 3:43 | 2026-07-03 |  |
 | [Stars of Sand \- From "Trigun"](https://open.spotify.com/track/601dCT51AL4c6JdlRQYaRr) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Stars of Sand \(From "Trigun"\)](https://open.spotify.com/album/3WgUeU8tkVAPokG4h62H2s) | 3:29 | 2024-04-12 |  |
+| [Still Hope](https://open.spotify.com/track/47xbAcUvVQ22xg12aCbD97) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Still Hope](https://open.spotify.com/album/1OS0EEEiH1cqFuwxhKTyEd) | 2:20 | 2026-07-17 |  |
 | [Suite bergamasque, CD 82: III\. Clair de lune \- Recorded 2017](https://open.spotify.com/track/26KykHLogeIep4OrurliDS) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Debussy: Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O) | 4:23 | 2022-02-04 |  |
 | [Symphony No\. 2 in E Minor, Op\. 27: III\. Adagio](https://open.spotify.com/track/5zTWkWlF7rkHOiE7sI6AA6) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Rachmaninoff: Symphonies Nos\. 2 & 3; Isle of the Dead](https://open.spotify.com/album/2kmcu9Pz6PfNN6BpXxcBKf) | 16:12 | 2023-06-30 |  |
 | [Symphony No\. 6 in F Major, Op\. 68, "Pastorale": I\. Allegro ma non troppo, "Awakening of cheerful feelings on arriving in the countryside"](https://open.spotify.com/track/6Ye4niSXscwpj4smkb5ioO) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn) | [Beethoven for Three: Symphony No\. 6 "Pastorale" and Op\. 1, No\. 3](https://open.spotify.com/album/5ezojM5Z8lU0RPyS52MTlV) | 11:51 | 2022-11-11 |  |

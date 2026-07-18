@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-208 songs - 8 hr 38 min
+210 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Fjord](https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fjord](https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs) | 2:37 | 2024-07-30 |  |
 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 | 2025-02-18 |  |
 | [Fleurs de cerisier](https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [Fleurs de cerisier](https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS) | 2:40 | 2023-05-09 | 2025-04-26 |
+| [Flowing river](https://open.spotify.com/track/1C1C4TUrjybBiR8RdE45Ib) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Flowing river](https://open.spotify.com/album/1G8DBVZWNG6frQaNz5OGkZ) | 1:48 | 2026-07-17 |  |
 | [For Asher](https://open.spotify.com/track/3HJImjLAcnltzIkexQIsJR) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [For Asher](https://open.spotify.com/album/5yA2uWvERbCRbJj8xOK42m) | 3:13 | 2024-09-09 | 2026-05-09 |
 | [For Peace](https://open.spotify.com/track/1FiGodE7QpV6yXRtDGSuKO) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [For Peace](https://open.spotify.com/album/3eKtNhAo1QB2slYY1A6P85) | 2:16 | 2023-05-09 | 2025-04-26 |
 | [frozen kiss](https://open.spotify.com/track/6R1H9Z89KDuRtt8h9PvKeu) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [frozen kiss & imperfect love](https://open.spotify.com/album/1ec1G9tjJMC8GjBQMtge5N) | 2:41 | 2024-07-16 | 2025-05-14 |
@@ -156,6 +157,7 @@
 | [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 | 2024-12-03 |  |
 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 | 2025-07-07 |  |
 | [Silent Steps in the Snow](https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Silent Steps in the Snow](https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz) | 2:24 | 2024-11-12 |  |
+| [Silken Drifts](https://open.spotify.com/track/67ZLlnntU1AOKiOwPkyZuz) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Silken Drifts](https://open.spotify.com/album/0Dcym9tmQNEBI9Kh8QAJHS) | 2:30 | 2026-07-17 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 | 2025-04-26 |
 | [Sleeper](https://open.spotify.com/track/0iBbGki63rW9UuSZYghy6R) | [M\. Lapis](https://open.spotify.com/artist/7yapVPB4FRlHJJ3IsOpbaO) | [Sleeper](https://open.spotify.com/album/5vVTSM53W8XLV7NByXhKPa) | 2:17 | 2025-12-09 |  |
 | [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-22 |  |

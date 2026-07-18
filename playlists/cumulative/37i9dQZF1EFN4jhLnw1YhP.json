@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Chromatic",
+        "url": "https://open.spotify.com/album/5MNSUiIcRSdUhiyumzPDB3"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288780,
+      "name": "Marooned",
+      "url": "https://open.spotify.com/track/3Bj2emVtkUtYlA6roLBuTp"
+    },
+    {
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE"
       },

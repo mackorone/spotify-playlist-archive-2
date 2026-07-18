@@ -6,8 +6,28 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAawRwtWfo05r1+Zu1mbx0XCAn0Oe3Z",
+  "snapshot_id": "AAAaw2WDA8PoUgubKv2QQkc6lF2TUUsC",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:12:27",
+      "album": {
+        "name": "Illuminate Me",
+        "url": "https://open.spotify.com/album/4GDbny8PiEaVTetogHpmnq"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Illuminate Me",
+      "url": "https://open.spotify.com/track/5muNBA2TfDmtkrXmXUqEB5"
+    },
     {
       "added_at": "2026-07-10 04:38:50",
       "album": {

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-540 songs - 1 day 6 hr 36 min
+542 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Boîte Magique](https://open.spotify.com/track/04GosWc3UkHFGxivdwVbmY) | [Nathalie Weider](https://open.spotify.com/artist/3Yxh2UfFmtitygOFD1eizB) | [Boîte Magique](https://open.spotify.com/album/2ScT2BrgRbnIiIaPVd0jj9) | 4:34 | 2025-12-25 | 2026-01-15 |
 | [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 | 2026-05-13 | 2026-06-14 |
 | [Break These Chains](https://open.spotify.com/track/3axpdtLJYG1k7lIXCTBWzK) | [Mícheál Hillen](https://open.spotify.com/artist/7fMUnhujgqoUxpLolw4uhG) | [Break These Chains](https://open.spotify.com/album/1ardTUvHlmUNtTOgApTwog) | 2:59 | 2025-11-05 | 2025-12-01 |
+| [Breathe](https://open.spotify.com/track/2gSkYHCtONOOIX4ukgAYx0) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 | 2026-07-17 |  |
 | [Brian and Old Tom](https://open.spotify.com/track/7yyrFEH3eQQK2pL4ynhsge) | [MORRS](https://open.spotify.com/artist/62gqmfoVxMEKTdB426eb4I) | [Brian and Old Tom](https://open.spotify.com/album/1Mcn2OsWWMIvtAdlxNOStf) | 3:57 | 2025-11-17 | 2026-01-05 |
 | [BTC \- Live](https://open.spotify.com/track/2mSsTajIROCRN8Ffri2ZjF) | [Gal\_or](https://open.spotify.com/artist/0j0hVZhTBQrmQNMjyzI0QM), [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Tal Michles](https://open.spotify.com/artist/5qMmNcUwmq0QNJCulxMTQO), [Yair Samoylov](https://open.spotify.com/artist/6lYlIZdEaIKjrhAmwCgZse) | [BTC \(Live\)](https://open.spotify.com/album/3wkU4WU6EXuuAFvGEFWlbc) | 5:19 | 2025-12-20 | 2026-01-15 |
 | [Burn It Faster](https://open.spotify.com/track/3boHJrQo46C772vzvsWXyf) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:45 | 2026-06-29 |  |
@@ -350,6 +351,7 @@
 | [Once](https://open.spotify.com/track/6dcxUyu84kv5PMl3IEbZOx) | [Eddie Bowers](https://open.spotify.com/artist/269LsjukFfnnXjShOB2iiU) | [Once](https://open.spotify.com/album/6OBF7DsCR7Hu7tkUHsjWEj) | 2:45 | 2026-01-01 | 2026-01-25 |
 | [ONE BODY](https://open.spotify.com/track/7bNPlDONCuxL5E0wwOwnhI) | [Stickz](https://open.spotify.com/artist/1L5SQPV7d93Xrr0f1pRy1D) | [ONE BODY](https://open.spotify.com/album/6u2jgWebuvICCnUnkZTbiK) | 2:25 | 2025-11-17 | 2026-01-05 |
 | [One Stop Shop](https://open.spotify.com/track/1QKElGLbQn31oYe2vTtngF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 4:38 | 2025-11-01 | 2025-12-01 |
+| [One Way Out](https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [One Way Out](https://open.spotify.com/album/34LOAm5Emkw1jlx8OTOiGW) | 3:07 | 2026-07-17 |  |
 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 | 2025-11-22 | 2026-01-05 |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2025-12-22 | 2026-01-15 |
 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-12-09 | 2026-01-05 |

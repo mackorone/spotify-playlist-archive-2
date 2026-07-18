@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Eli Brown",
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Alok",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -1476,6 +1476,24 @@
       "duration_ms": 187285,
       "name": "Actin' Tough",
       "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
+    },
+    {
+      "album": {
+        "name": "Activator",
+        "url": "https://open.spotify.com/album/4Q1rIDmjXVlhDA3IxYTlbm"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193242,
+      "name": "Activator",
+      "url": "https://open.spotify.com/track/5eoHZcjgBe03LEYBNGX7f7"
     },
     {
       "album": {
@@ -5209,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "Rave The World EP",
+        "url": "https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233192,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
+    },
+    {
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA"
       },
@@ -6570,7 +6606,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
@@ -7178,6 +7214,24 @@
       "duration_ms": 232413,
       "name": "Bansby",
       "url": "https://open.spotify.com/track/1tROysfzUEsGLlTKtcyqqk"
+    },
+    {
+      "album": {
+        "name": "Barthelona",
+        "url": "https://open.spotify.com/album/0RQfxB3rNoZ8zFJhBUPoLM"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160949,
+      "name": "Barthelona",
+      "url": "https://open.spotify.com/track/0SYOYm0e54czc1wHToxLBh"
     },
     {
       "album": {
@@ -8718,6 +8772,10 @@
         {
           "name": "Novah",
           "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "KIMI",
+          "url": "https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4"
         }
       ],
       "date_added": "2026-07-10",
@@ -13473,6 +13531,28 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207764,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
+    },
+    {
+      "album": {
         "name": "Change / Take My Time",
         "url": "https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5"
       },
@@ -15514,6 +15594,28 @@
       "duration_ms": 262170,
       "name": "Comes and Goes",
       "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
+    },
+    {
+      "album": {
+        "name": "Comes and Goes (Dom Dolla Remix)",
+        "url": "https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267272,
+      "name": "Comes and Goes - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3"
     },
     {
       "album": {
@@ -19876,7 +19978,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 163320,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
@@ -21048,7 +21150,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 233794,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
@@ -22702,6 +22804,28 @@
       "duration_ms": 140621,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/3NcLjhT0XNhY6NmMgjFL8P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/0uctQM22xBeaklsxCtOcrk"
     },
     {
       "album": {
@@ -28897,6 +29021,24 @@
     },
     {
       "album": {
+        "name": "Get Buck",
+        "url": "https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "Get Buck",
+      "url": "https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0"
+    },
+    {
+      "album": {
         "name": "Get Close",
         "url": "https://open.spotify.com/album/1TWAGxRY19hXMdJMC6h1Iw"
       },
@@ -31642,7 +31784,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 205012,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/4U4XNkHA99dkqFbOxc8OjL"
@@ -36170,7 +36312,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 184850,
       "name": "I Rhyme Quick",
       "url": "https://open.spotify.com/track/6w9IOQBGiQOjv1J1YWhM3i"
@@ -39848,7 +39990,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195480,
       "name": "Joy Without Sound",
       "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
@@ -44445,6 +44587,24 @@
     },
     {
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/6l1M4X2wod3t8TRskGOtYH"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188115,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/3ctfB7Ia2EONVLQOpMCkRt"
+    },
+    {
+      "album": {
         "name": "Lola's Theme (Tripolism Remix)",
         "url": "https://open.spotify.com/album/75NCYiWBnt9eptrKPv13NX"
       },
@@ -44518,7 +44678,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 182727,
       "name": "London to New York",
       "url": "https://open.spotify.com/track/5Vxmw2Ug0uOf2B9auUQfuq"
@@ -49282,7 +49442,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 205161,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
@@ -49962,7 +50122,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 183771,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/1pK5RQ6j8o2TqGOQSxPAP1"
@@ -57504,7 +57664,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 193653,
       "name": "Party People",
       "url": "https://open.spotify.com/track/4Rbj7CS2UJq6ehpZgiY7Kw"
@@ -68747,6 +68907,24 @@
     },
     {
       "album": {
+        "name": "Soul Makossa",
+        "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237084,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
+    },
+    {
+      "album": {
         "name": "ISOLAT003",
         "url": "https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh"
       },
@@ -73925,6 +74103,32 @@
     },
     {
       "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        },
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        },
+        {
+          "name": "Nate Katz",
+          "url": "https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"
+    },
+    {
+      "album": {
         "name": "The Calling",
         "url": "https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY"
       },
@@ -76168,7 +76372,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 170800,
       "name": "thumbs",
       "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
@@ -81612,6 +81816,28 @@
       "duration_ms": 196895,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153245,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
     },
     {
       "album": {

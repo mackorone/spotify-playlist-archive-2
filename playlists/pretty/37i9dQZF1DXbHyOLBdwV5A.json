@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133536,
+  "num_followers": 133540,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Nisso Eu Vou Acreditar",
-        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Luiz Alves Filho",
-          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Nisso Eu Vou Acreditar",
-      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 247862,
       "name": "Controle",
       "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Nisso Eu Vou Acreditar",
+        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Luiz Alves Filho",
+          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Nisso Eu Vou Acreditar",
+      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
     },
     {
       "added_at": "2026-05-08 03:01:30",

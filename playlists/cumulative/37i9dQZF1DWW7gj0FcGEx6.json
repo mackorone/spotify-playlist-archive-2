@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Avatar: The Last Airbender - Book 3: Fire (Music from the Animated Series)",
+        "url": "https://open.spotify.com/album/1SdGLvyyT9029anEYdexa3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zuckerman",
+          "url": "https://open.spotify.com/artist/1fbkVAnlEb34awQtWEDa6W"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55320,
+      "name": "Avatar: The Last Airbender Main Title - Book 3: Fire",
+      "url": "https://open.spotify.com/track/6STbats1ffxTqhCz6jThWu"
+    },
+    {
+      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/1L9knhxczvNe1TNnOcYoYC"
       },
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 62626,
       "name": "Butterfly (Main Title Theme)",
       "url": "https://open.spotify.com/track/0GzYENQAOCMmdAqNiUmvnd"
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 144331,
       "name": "Cairo, Five Years Ago",
       "url": "https://open.spotify.com/track/2Si6l08jYSNpNw8DygFCVD"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 84106,
       "name": "Chief of War Main Title",
       "url": "https://open.spotify.com/track/2yl62P7cZm5EaourNKSWS9"
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 330000,
       "name": "Double Switch, Double Trouble",
       "url": "https://open.spotify.com/track/4DT1D6Yp5dCFIUtte6gFhv"
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 127090,
       "name": "Exit Game",
       "url": "https://open.spotify.com/track/3vrFnqLRsm0Q0CIsi3Zf4a"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 193657,
       "name": "F1",
       "url": "https://open.spotify.com/track/5UeIwcUIKTVPqBnuXnhmBD"
@@ -4440,7 +4458,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 185693,
       "name": "First Encounter",
       "url": "https://open.spotify.com/track/2aZRNIhaabEozaSCnK1klx"
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 150065,
       "name": "Hero Dad-Uh Oh",
       "url": "https://open.spotify.com/track/2oAk77Cy8up1CwM5ZnliEO"
@@ -5708,7 +5726,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 202619,
       "name": "HUMAN Suite",
       "url": "https://open.spotify.com/track/2650MdzBYaOLwPOPnP69Ga"
@@ -5926,7 +5944,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 269725,
       "name": "I Thought I Wanted To Meet You",
       "url": "https://open.spotify.com/track/33oCDJ85Ednvm0ZVxfpCUc"
@@ -7134,7 +7152,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 85706,
       "name": "L'\u00e9preuve du feu",
       "url": "https://open.spotify.com/track/5JekY6RpOkFHwGWWTRO5lV"
@@ -7246,7 +7264,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 165837,
       "name": "Last Son",
       "url": "https://open.spotify.com/track/6CJHa7KcYR430ei2kATUi7"
@@ -7914,6 +7932,24 @@
       "duration_ms": 102990,
       "name": "Los Ni\u0144os Perdidos",
       "url": "https://open.spotify.com/track/0ShSye63tULDJrTsifdzlE"
+    },
+    {
+      "album": {
+        "name": "Heartstopper Forever (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6oiCMYPBikUzcOJkFMwk9m"
+      },
+      "artists": [
+        {
+          "name": "Adiescar Chase",
+          "url": "https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108822,
+      "name": "Love Is A Choice",
+      "url": "https://open.spotify.com/track/7u2BxpcCCejMilgdjzphy5"
     },
     {
       "album": {
@@ -9266,7 +9302,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 173527,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/0sLORCXBgcg2X4FTW3538D"
@@ -9724,7 +9760,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 200834,
       "name": "Nina\u2019s Theme",
       "url": "https://open.spotify.com/track/11vzrx4D9aunBxK7GuiPR9"
@@ -9898,6 +9934,24 @@
       "duration_ms": 73465,
       "name": "Not Wired the Same Way",
       "url": "https://open.spotify.com/track/7dlCkS8HyjOwYAsHtmlyQX"
+    },
+    {
+      "album": {
+        "name": "Little House on the Prairie, Season 1 (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/6ZMmNzFVcC3Pyr8JX6dL8l"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110840,
+      "name": "Nothing Free About This Land",
+      "url": "https://open.spotify.com/track/2IMbYTlext3SWBUdTZuAdB"
     },
     {
       "album": {
@@ -10209,6 +10263,24 @@
     },
     {
       "album": {
+        "name": "23,000 Leben (Soundtrack des Netflix Films)",
+        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169021,
+      "name": "One Big Step",
+      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
+    },
+    {
+      "album": {
         "name": "One Coin (From Task Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/48nft0TE8c7KWYXDN7izi9"
       },
@@ -10358,7 +10430,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 51400,
       "name": "Opening Titles",
       "url": "https://open.spotify.com/track/5eLxmCdxJdGn98VIO2f5vh"
@@ -11202,7 +11274,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180533,
       "name": "Red Sonja",
       "url": "https://open.spotify.com/track/5EcNLnGeWag79BK15b4IsA"
@@ -11554,7 +11626,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 72389,
       "name": "Return To Nevermore - from \"Wednesday: Season 2\"",
       "url": "https://open.spotify.com/track/1HF04uqv5vSe8drRMO83TT"
@@ -12254,7 +12326,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 131266,
       "name": "She\u2019s Here",
       "url": "https://open.spotify.com/track/1yyEexeKeOiYs2eDxHnhCH"
@@ -13031,6 +13103,24 @@
     },
     {
       "album": {
+        "name": "Suite New Day (from \"Spider-Man: Brand New Day\" Soundtrack)",
+        "url": "https://open.spotify.com/album/0IMLLO3lfSP6lom9RjVXOi"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374760,
+      "name": "Suite New Day - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/244VLFP9M6VzplUHnwgmv5"
+    },
+    {
+      "album": {
         "name": "Splitsville (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/73RXSdfQmEuhuzNbCSn9qC"
       },
@@ -13176,7 +13266,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 162597,
       "name": "Symphony Andres",
       "url": "https://open.spotify.com/track/5xdMFl9zGhsGoQdGta4NwL"
@@ -14298,7 +14388,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 238314,
       "name": "The Julia and Henry Theme",
       "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
@@ -14730,7 +14820,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 184624,
       "name": "The Naked Gun (Gordon Goodwin Remix) [From \"The Naked Gun\"]",
       "url": "https://open.spotify.com/track/0Lw5CpEhnPtxm05QnHMdDB"
@@ -15146,7 +15236,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 127446,
       "name": "The Prize",
       "url": "https://open.spotify.com/track/52OFbGqmiCNV5nPLP11WjV"
@@ -15182,7 +15272,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 226213,
       "name": "The Rainmaker",
       "url": "https://open.spotify.com/track/6iJ4jqghoqrp25uv9JPXte"
@@ -16160,7 +16250,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 111800,
       "name": "Together with Millie",
       "url": "https://open.spotify.com/track/1BCIoSW8OjWcamHdb6sSiJ"
@@ -16454,7 +16544,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 292600,
       "name": "Turtles",
       "url": "https://open.spotify.com/track/4QWFZf3YDxqmNYLnjBJihG"
@@ -16922,7 +17012,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 106426,
       "name": "Water, Earth, Fire, Air",
       "url": "https://open.spotify.com/track/2ODSvWmgOeZV2fgSMvLAEd"
@@ -16998,7 +17088,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 341294,
       "name": "We Got This (Stony Gate 2)",
       "url": "https://open.spotify.com/track/7DuInRWZSdWBkjiF85l16F"
@@ -17620,7 +17710,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 124000,
       "name": "Y'a pas de r\u00e9seau",
       "url": "https://open.spotify.com/track/3F4oQ91Zhy7J5OlF6ewcg6"
@@ -17674,7 +17764,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 150653,
       "name": "Yell Post",
       "url": "https://open.spotify.com/track/1qujDYyUWOykCwbztfDywj"
@@ -17754,7 +17844,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 234265,
       "name": "You Can't Run From Me (from Cyberpunk: Edgerunners Season 2)",
       "url": "https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr"

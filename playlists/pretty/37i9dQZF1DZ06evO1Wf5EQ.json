@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAABQW9nwljslp23wwUix4Unj",
+  "snapshot_id": "algfAAAAAACX4nv0X7MNu1ukE4n8Na7c",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Thirty Horses",
+      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hacks: Seasons 2-5 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 94160,
       "name": "Ava Daniels",
       "url": "https://open.spotify.com/track/1Vf3f7t0NcgmXv5ZY9kApM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Thirty Horses",
-      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+      "duration_ms": 86546,
+      "name": "You Lost Your Shadow, Bill",
+      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 86546,
-      "name": "You Lost Your Shadow, Bill",
-      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
+      "duration_ms": 135493,
+      "name": "Welcome To LaBelle",
+      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 161529,
-      "name": "Last Letter",
-      "url": "https://open.spotify.com/track/04tnxnuNA5FbR2Uzqlabs0"
+      "duration_ms": 162659,
+      "name": "Abiogenisis",
+      "url": "https://open.spotify.com/track/6Uwz5TbIZA5eYZ6dpLhwjp"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

@@ -1,12 +1,12 @@
 {
   "description": "The best dance hits in Africa. Cover: Novex, Born Kxng, MOONLIGHT AFRIQA, S.N.E ",
-  "num_followers": 117925,
+  "num_followers": 117979,
   "original_name": "mint Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADmnbKtqehbhErAw501moNlAh26R",
+  "snapshot_id": "AAAAABCxyorAT+ACNmvQmPFSTliuIVO1",
   "tracks": [
     {
       "added_at": "2026-07-09 22:01:48",
@@ -737,6 +737,34 @@
       "url": "https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x"
     },
     {
+      "added_at": "2026-07-17 14:06:51",
+      "album": {
+        "name": "Tiki Tiki 2.0",
+        "url": "https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Tiki Tiki 2.0",
+      "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
+    },
+    {
       "added_at": "2026-07-09 22:01:48",
       "album": {
         "name": "Izinja Zam: Vol. I",
@@ -1067,34 +1095,6 @@
       "duration_ms": 266731,
       "name": "Ke lekile",
       "url": "https://open.spotify.com/track/5sHXRFxFhwX9geosXPWHQQ"
-    },
-    {
-      "added_at": "2026-07-09 22:01:48",
-      "album": {
-        "name": "Collision Of 2 Worlds",
-        "url": "https://open.spotify.com/album/5dlzVmL8h1MtdGDDbslWYg"
-      },
-      "artists": [
-        {
-          "name": "UNLIMITED SOUL",
-          "url": "https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg"
-        },
-        {
-          "name": "Jimmy Curtis",
-          "url": "https://open.spotify.com/artist/6c8JUB3zWpF3PjIN9ohZSE"
-        },
-        {
-          "name": "Captain Lulaz",
-          "url": "https://open.spotify.com/artist/2QkB7giGM3tR1JMWOd1Cja"
-        },
-        {
-          "name": "Thesiix",
-          "url": "https://open.spotify.com/artist/2x7N5NCXREqzVruOl5ooVD"
-        }
-      ],
-      "duration_ms": 310011,
-      "name": "For This Life (feat. Captain Lulaz & Thesiix)",
-      "url": "https://open.spotify.com/track/29DvrwKC8TrJ0eTq3uGWZM"
     },
     {
       "added_at": "2026-07-09 22:01:48",

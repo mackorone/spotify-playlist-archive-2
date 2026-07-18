@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137310,
+  "num_followers": 137305,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Amei Te Ver",
-        "url": "https://open.spotify.com/album/5JUSZHdRxEsBV5QX6qqz8c"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 217735,
-      "name": "Amei Te Ver",
-      "url": "https://open.spotify.com/track/4xWcf3di6eJqTmmaYk5oNe"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 252793,
       "name": "I\u00f4i\u00f4",
       "url": "https://open.spotify.com/track/6robaBYVAygXynNhcjP74Q"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Amei Te Ver",
+        "url": "https://open.spotify.com/album/5JUSZHdRxEsBV5QX6qqz8c"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 217735,
+      "name": "Amei Te Ver",
+      "url": "https://open.spotify.com/track/4xWcf3di6eJqTmmaYk5oNe"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Tim Maia",
-        "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 199944,
-      "name": "Brother, Father, Sister And Mother",
-      "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Curyman",
         "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+        "name": "Tim Maia",
+        "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+      "duration_ms": 199944,
+      "name": "Brother, Father, Sister And Mother",
+      "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -499,6 +483,22 @@
       "duration_ms": 259453,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -731,26 +731,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "T\u00c1 FELIZ?!",
-        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
+        "name": "Estragar a Amizade",
+        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
       },
       "artists": [
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
         }
       ],
-      "duration_ms": 191093,
-      "name": "SAMBA DE CRIA",
-      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+      "duration_ms": 201937,
+      "name": "Estragar a Amizade",
+      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -783,22 +779,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Estragar a Amizade",
-        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
+        "name": "T\u00c1 FELIZ?!",
+        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
       "artists": [
         {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         },
         {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 201937,
-      "name": "Estragar a Amizade",
-      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
+      "duration_ms": 191093,
+      "name": "SAMBA DE CRIA",
+      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -1079,18 +1079,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Garota do Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
+        "name": "Me Leva Tambor",
+        "url": "https://open.spotify.com/album/0PiLCVHU6Wllg7h4vjvn5x"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Afrocidade",
+          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
+        },
+        {
+          "name": "Il\u00ea Aiy\u00ea",
+          "url": "https://open.spotify.com/artist/7ntfJVmjXJqHALQ89SVmLY"
+        },
+        {
+          "name": "Evandro Ok\u00e0n",
+          "url": "https://open.spotify.com/artist/2O9wSWxUTwQX2yV0GIRYwr"
         }
       ],
-      "duration_ms": 172618,
-      "name": "Garota do Fant\u00e1stico",
-      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
+      "duration_ms": 261178,
+      "name": "Me Leva Tambor",
+      "url": "https://open.spotify.com/track/4zzm4hkV2JY18nhxVQbiY9"
     }
   ],
   "unique_name": "Cozinhando a Ceia",

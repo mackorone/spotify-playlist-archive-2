@@ -4,7 +4,7 @@
 
 > Sarah Julia kiezen 20 mooie liedjes voor zomer ID 📵 mindful genieters\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-321 songs - 19 hr 12 min
+324 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,12 @@
 | [A Place](https://open.spotify.com/track/4HuPUvkzorcinSQZmq3Hnx) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [A Place](https://open.spotify.com/album/7krLfGUGw4QuyzxXHa8rax) | 3:45 | 2024-06-27 | 2024-07-05 |
 | [A Tree Falls](https://open.spotify.com/track/7g3fTRxdHc8AEzwPeiZTv6) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Live From Mother Earth](https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g) | 3:13 | 2025-07-03 | 2025-09-20 |
 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 | 2025-03-20 | 2026-07-08 |
-| [Against The Dying Of The Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 | 2026-01-15 |  |
+| [Against The Dying Of The Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 | 2026-01-15 | 2026-07-18 |
 | [Aisle 6](https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Aisle 6](https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve) | 3:05 | 2024-06-27 | 2025-01-24 |
 | [Alabaster](https://open.spotify.com/track/7LqMpswiEeZAnqNTkcLiGY) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Alabaster](https://open.spotify.com/album/3Dplc4wrcPMcKtGMMDfEAs) | 4:15 | 2025-09-19 | 2025-10-10 |
 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 | 2025-07-03 | 2025-09-20 |
 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 | 2025-09-19 | 2026-05-02 |
+| [Alma](https://open.spotify.com/track/2RT0xRtzULmymzIYh2puLl) | [NAÉ](https://open.spotify.com/artist/0EyUhdpBF22OrhzmTd40p5) | [Alma](https://open.spotify.com/album/6KUjgZ5vfFIaH8EHf8AJKG) | 3:46 | 2026-07-17 |  |
 | [Always Lost](https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Always Lost](https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA) | 3:19 | 2025-11-20 |  |
 | [Angel](https://open.spotify.com/track/3Gcv4rM0wTDu0E4q5AcSC1) | [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [Big Tear](https://open.spotify.com/album/0bQAHBoEYWuDCbw4CAc21P) | 2:57 | 2025-07-03 | 2025-09-20 |
 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 | 2025-10-31 |  |
@@ -84,6 +85,7 @@
 | [Fairy in a Bottle](https://open.spotify.com/track/21Juy1OozXucoOIhpYElsA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Fairy in a Bottle](https://open.spotify.com/album/3ior6hLixuoy4tUF0TnAN6) | 5:16 | 2025-07-03 | 2025-09-20 |
 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 | 2025-07-03 |  |
 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 | 2025-09-25 |  |
+| [Figure Me Out](https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Figure Me Out](https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb) | 2:46 | 2026-07-17 |  |
 | [First Day of My Life](https://open.spotify.com/track/6sxyiXfowOhyn28LCCjsey) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [First Day of My Life](https://open.spotify.com/album/0pb8WY5eoapyCR3QA2W9hq) | 3:05 | 2024-06-27 | 2024-07-27 |
 | [Flowers Grow in the Saddest Parts](https://open.spotify.com/track/6g3ZkK2Rkn1Nhbyf0uUCte) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [Flowers Grow In The Saddest Parts](https://open.spotify.com/album/4fVmTL6baDtBeZokzEULTU) | 2:58 | 2025-07-03 | 2025-09-20 |
 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 | 2025-01-23 | 2026-07-08 |
@@ -93,6 +95,7 @@
 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 | 2025-02-20 |  |
 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 | 2025-01-23 | 2025-04-05 |
 | [garden green eyes](https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [garden green eyes](https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn) | 2:58 | 2026-01-22 |  |
+| [Gentle Love](https://open.spotify.com/track/5adzqxkfPcRr3lEmoZvxgN) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Gentle Love / Frog](https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK) | 1:31 | 2026-07-17 |  |
 | [getting used to](https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [getting used to](https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y) | 3:47 | 2024-12-18 | 2025-01-24 |
 | [Ghazal](https://open.spotify.com/track/1UeVhgHhkh9wtBJgNVw64H) | [Myrthe van de Weetering](https://open.spotify.com/artist/7qUsU9xkEpbdImTvJGfB99) | [Ghazal](https://open.spotify.com/album/4cTQWNH3OnrSAFHQRPLyfx) | 4:20 | 2024-06-27 | 2024-11-14 |
 | [Glad You Did](https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glad You Did](https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR) | 3:11 | 2024-06-27 | 2025-01-24 |
@@ -168,7 +171,7 @@
 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 | 2025-07-03 | 2025-09-20 |
 | [Lullabye For Losers](https://open.spotify.com/track/7GGwiBcQbfTWnYx2ZK3Byk) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Rock Bottom Ballads](https://open.spotify.com/album/47fvZIFsSRHdYQW378dNlZ) | 4:29 | 2024-06-27 | 2024-07-19 |
 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 | 2026-07-07 |  |
-| [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 | 2026-03-30 |  |
+| [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 | 2026-03-30 | 2026-07-18 |
 | [Miffed It](https://open.spotify.com/track/4wmnvRtZ4BNmXQ4sRrUbpg) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly) | 4:06 | 2026-07-07 |  |
 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-10-23 | 2026-07-08 |
 | [Mine](https://open.spotify.com/track/3UQhGFxNjCN2DjnEzYXfRi) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:08 | 2025-07-03 | 2025-09-20 |
@@ -210,7 +213,7 @@
 | [old friend](https://open.spotify.com/track/1qUeRctJ195WEm4fqVwBHQ) | [Roofman](https://open.spotify.com/artist/1OHs0NYmF2L7fL2ELOIvPu) | [old friend](https://open.spotify.com/album/0LX7BbebfFHpKPcp3Ky6ET) | 3:42 | 2024-06-27 | 2025-01-24 |
 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 | 2024-09-19 | 2025-02-04 |
 | [Our Kingdom](https://open.spotify.com/track/6hNK2xLiAZ139KFu8oRDFV) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Morphosis](https://open.spotify.com/album/0lG4NpIgDXIStDeC0Q0MLE) | 3:01 | 2024-06-27 | 2024-11-23 |
-| [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 | 2025-01-23 |  |
+| [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 | 2025-01-23 | 2026-07-18 |
 | [Paper Paradise](https://open.spotify.com/track/3wjAjh8IjfBN8haVy0UOXf) | [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [Paper Paradise](https://open.spotify.com/album/6zqEscbgAAXrUNBxzW4K82) | 3:02 | 2024-06-27 | 2025-01-24 |
 | [Patterns](https://open.spotify.com/track/6CP9LzE18KTX5FnvUnwXpc) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 4:20 | 2025-07-03 | 2025-09-20 |
 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 | 2025-02-27 | 2025-10-23 |

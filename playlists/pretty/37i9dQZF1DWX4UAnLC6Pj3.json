@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! To\u00f1o Lizarraga \ud83d\udcf8",
-  "num_followers": 1302597,
+  "num_followers": 1302598,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEg9N6CATroKWKwI7qeG3HPy7clz",
+  "snapshot_id": "AAAAAP6r7TsBa9cp7bGyqMADbFtUq5Hm",
   "tracks": [
     {
       "added_at": "2026-07-10 06:00:44",
@@ -491,6 +491,26 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "Sabor A Sonora (En Vivo)",
+        "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        }
+      ],
+      "duration_ms": 143445,
+      "name": "Sabor A Sonora - En Vivo",
+      "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
       },
@@ -527,38 +547,18 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Sabor A Sonora (En Vivo)",
-        "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
+        "name": "Aunque me duela",
+        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
       "artists": [
         {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los Pikadientes De Caborca",
-          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 143445,
-      "name": "Sabor A Sonora - En Vivo",
-      "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "Vete, Vete",
-        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Vete, Vete",
-      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
+      "duration_ms": 228017,
+      "name": "Aunque me duela",
+      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Aunque me duela",
-        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
+        "name": "Vete, Vete",
+        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 228017,
-      "name": "Aunque me duela",
-      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+      "duration_ms": 218426,
+      "name": "Vete, Vete",
+      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -635,54 +635,18 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Tequila y Guaro",
-        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
+        "name": "Me Vas a Perder",
+        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Todo Que Ver",
-      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "Se Busca Plebita",
-        "url": "https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 153085,
-      "name": "Se Busca Plebita",
-      "url": "https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "Fuiste Mi Todo",
-        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152908,
-      "name": "Fuiste Mi Todo",
-      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
+      "duration_ms": 151168,
+      "name": "Me Vas a Perder",
+      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -707,18 +671,38 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Me Vas a Perder",
-        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
+        "name": "Tequila y Guaro",
+        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 151168,
-      "name": "Me Vas a Perder",
-      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
+      "duration_ms": 182306,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Fuiste Mi Todo",
+        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152908,
+      "name": "Fuiste Mi Todo",
+      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -735,6 +719,22 @@
       "duration_ms": 170468,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Se Busca Plebita",
+        "url": "https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 153085,
+      "name": "Se Busca Plebita",
+      "url": "https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "El Mandil",
-        "url": "https://open.spotify.com/album/1jbdYNmAejdY9VhWC1VQ9C"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 171025,
-      "name": "El Mandil",
-      "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Mente Ocupada",
         "url": "https://open.spotify.com/album/0YO7qC8td87EZJA2VX8547"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
+        "name": "El Mandil",
+        "url": "https://open.spotify.com/album/1jbdYNmAejdY9VhWC1VQ9C"
       },
       "artists": [
         {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 215068,
-      "name": "Como Este Loco",
-      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
+      "duration_ms": 171025,
+      "name": "El Mandil",
+      "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -839,6 +819,26 @@
       "duration_ms": 165075,
       "name": "Primero Ens\u00e9\u00f1ate A Querer",
       "url": "https://open.spotify.com/track/7CPmZLF2rJUxxE85S011rf"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 215068,
+      "name": "Como Este Loco",
+      "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "Mujeres Livianas",
+        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "A La Luz Del Dia",
+      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Mary Es Mi Amor",
         "url": "https://open.spotify.com/album/6obM8NwXf7JiCO4F7nRy3n"
       },
@@ -907,6 +923,26 @@
       "duration_ms": 185250,
       "name": "Lo Pasado Pisado",
       "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "\u00a1Que Viva Antonio Aguilar!",
+        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176481,
+      "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
+      "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -959,38 +995,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Mujeres Livianas",
-        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
+        "name": "Si Por Casualidad",
+        "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
       "artists": [
         {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "A La Luz Del Dia",
-      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "\u00a1Que Viva Antonio Aguilar!",
-        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Banda Tradicion Sinaloense",
+          "url": "https://open.spotify.com/artist/54FjAqCo2f6s9k9oUvtAC8"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 176481,
-      "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
-      "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+      "duration_ms": 156990,
+      "name": "Si Por Casualidad",
+      "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Si Por Casualidad",
-        "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
-      },
-      "artists": [
-        {
-          "name": "Banda Tradicion Sinaloense",
-          "url": "https://open.spotify.com/artist/54FjAqCo2f6s9k9oUvtAC8"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 156990,
-      "name": "Si Por Casualidad",
-      "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Parece Chiste",
         "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
       },
@@ -1059,6 +1059,26 @@
       "duration_ms": 175337,
       "name": "Parece Chiste",
       "url": "https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1099,26 +1119,6 @@
       "duration_ms": 235091,
       "name": "Ya Se Muri\u00f3",
       "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Se Nos Acab\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
-      },
-      "artists": [
-        {
-          "name": "Banda Playa Grande",
-          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Se Nos Acab\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "ME DERRITO (Banda)",
         "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 179000,
       "name": "ME DERRITO - Banda",
       "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Se Nos Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
+      },
+      "artists": [
+        {
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Se Nos Acab\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Mujer mujer",
-        "url": "https://open.spotify.com/album/2ub82N7JQuCwHWwTv20tlt"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 167787,
-      "name": "Mujer mujer",
-      "url": "https://open.spotify.com/track/0esS2QSGeZK4gPB0DKlUWo"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Lo Pongo En Tus Manos",
         "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 194291,
       "name": "Lo Pongo En Tus Manos",
       "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Mujer mujer",
+        "url": "https://open.spotify.com/album/2ub82N7JQuCwHWwTv20tlt"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 167787,
+      "name": "Mujer mujer",
+      "url": "https://open.spotify.com/track/0esS2QSGeZK4gPB0DKlUWo"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Reproches Al Viento",
-        "url": "https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj"
-      },
-      "artists": [
-        {
-          "name": "Los Ex de la Banda",
-          "url": "https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND"
-        }
-      ],
-      "duration_ms": 213777,
-      "name": "Reproches Al Viento",
-      "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Reproches Al Viento",
+        "url": "https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj"
+      },
+      "artists": [
+        {
+          "name": "Los Ex de la Banda",
+          "url": "https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND"
+        }
+      ],
+      "duration_ms": 213777,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
     },
     {
       "added_at": "2026-07-10 06:00:44",

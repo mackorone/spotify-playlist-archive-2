@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\. Cover: Buruklyn Boyz
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\. Cover: Coster Ojwang
 
-245 songs - 13 hr 44 min
+246 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Pombe Kidogo](https://open.spotify.com/track/6AAbRA7KT6kklXLBrpIatZ) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Rockstar](https://open.spotify.com/album/17yI0MjQVUsqKlx5fkfFaM) | 3:28 | 2025-10-23 | 2025-11-15 |
 | [Pretty Whine](https://open.spotify.com/track/4vbcjVBD0JrwndFVxcOmFV) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Lafayette Pwaguzi](https://open.spotify.com/artist/6TiZKAvTyNttA4DDKbEZQG) | [Pretty Whine](https://open.spotify.com/album/4WEK0bhve3Sf5TSoCXtq63) | 3:18 | 2026-03-26 | 2026-07-16 |
 | [Relax](https://open.spotify.com/track/3UDmYYUAqUVaPRJ6Dni0qS) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:20 | 2025-11-21 | 2025-11-28 |
-| [Rihanna \(Sawa Salama\)](https://open.spotify.com/track/6XqgKeEGF6owIGJhrCMf0u) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:45 | 2026-07-15 |  |
+| [Rihanna \(Sawa Salama\)](https://open.spotify.com/track/6XqgKeEGF6owIGJhrCMf0u) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:45 | 2026-07-15 | 2026-07-18 |
 | [Safari](https://open.spotify.com/track/1UeizRSFPFkLC9ho5lfeay) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Suldaan Seeraar](https://open.spotify.com/artist/6tcoSz1XIgKoKJntydamls) | [Safari](https://open.spotify.com/album/2RUebih46jHBpq7cubYj7U) | 3:22 | 2025-11-21 | 2025-11-28 |
 | [Sambo Party](https://open.spotify.com/track/073WSviNyXfAaETHxkHl4m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:39 | 2025-11-21 | 2025-11-28 |
 | [Say Less](https://open.spotify.com/track/4S2o7FjB1gEVmTMn8K4dha) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Say Less](https://open.spotify.com/album/4UkmYiMpl16FcfW88B7TZO) | 3:15 | 2025-10-23 | 2026-01-24 |
@@ -238,6 +238,7 @@
 | [VILE NAPENDA](https://open.spotify.com/track/0Vk40kxmCtIMQ8FssrmGF8) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO) | [VILE NAPENDA](https://open.spotify.com/album/3wh9gwEfffqVanEN9bKgUm) | 2:35 | 2025-11-27 | 2026-06-12 |
 | [Vile Unataka](https://open.spotify.com/track/6SQO8fWYQGuY6pShsrrWSF) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Vile Unataka](https://open.spotify.com/album/6dNl9UpbtKjVExRqO6utao) | 2:46 | 2026-04-09 | 2026-06-20 |
 | [Visa](https://open.spotify.com/track/1l68hLsUbeIyDhq80fCH91) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Juacali](https://open.spotify.com/artist/5EcQLJLOc9AiB2fc6ljaus) | [Visa](https://open.spotify.com/album/0e2VEvBtJCMqRJSFh3Ux5j) | 3:12 | 2025-10-23 | 2026-01-16 |
+| [Wabiro](https://open.spotify.com/track/4RneAf75iXjdzjsIkggQTx) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [ISNM \(Imposter Syndrome No More\)](https://open.spotify.com/album/4mcNJXnbaNYwheFmJCKI49) | 4:51 | 2026-07-17 |  |
 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 | 2026-07-15 |  |
 | [Wakiuliza](https://open.spotify.com/track/5PwIntzpWGvyRJUMBbfELj) | [Collo Blue](https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Wakiuliza](https://open.spotify.com/album/0pppQDjsW6DLWxkxsVUu68) | 3:11 | 2026-03-05 | 2026-06-20 |
 | [Wape Wape](https://open.spotify.com/track/1goWbbSPQu0t83oP9C1zSp) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j) | [Wape Wape](https://open.spotify.com/album/5HjwHkM3XugNia4VQOe3ef) | 3:29 | 2026-05-07 | 2026-06-20 |

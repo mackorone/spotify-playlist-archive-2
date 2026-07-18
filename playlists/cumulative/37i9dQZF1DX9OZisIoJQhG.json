@@ -2215,6 +2215,28 @@
     },
     {
       "album": {
+        "name": "Still Hope",
+        "url": "https://open.spotify.com/album/1OS0EEEiH1cqFuwxhKTyEd"
+      },
+      "artists": [
+        {
+          "name": "Justus R\u00fcmenapp",
+          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
+        },
+        {
+          "name": "Deutsches Filmorchester Babelsberg",
+          "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Still Hope",
+      "url": "https://open.spotify.com/track/47xbAcUvVQ22xg12aCbD97"
+    },
+    {
+      "album": {
         "name": "Debussy: Suite bergamasque, L. 75: III. Clair de lune",
         "url": "https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O"
       },

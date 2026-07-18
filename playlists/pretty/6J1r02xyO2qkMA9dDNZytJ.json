@@ -1,13 +1,57 @@
 {
   "description": "All the biggest House &amp; Tech House anthems of right now! Follow us on <a href=\"https://www.instagram.com/toolroomrecords/\">Instagram</a> ",
-  "num_followers": 63402,
+  "num_followers": 63399,
   "original_name": "Toolroom House 2026",
   "owner": {
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAApjn0JcfmO0aUBaQDn9Gt0V1pNV19J",
+  "snapshot_id": "AAApraNz3AX4KEmhOITtRuOlcqN9phWe",
   "tracks": [
+    {
+      "added_at": "2026-07-17 10:05:04",
+      "album": {
+        "name": "Cash On Cash",
+        "url": "https://open.spotify.com/album/5xyl70wiAv4AAtWYmNheQW"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "No One Knows",
+          "url": "https://open.spotify.com/artist/0CsrD49IvI8cUEEZMLkwc4"
+        },
+        {
+          "name": "SARRIA",
+          "url": "https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Cash On Cash",
+      "url": "https://open.spotify.com/track/47jJPapQVVa28JRx6SzYR9"
+    },
+    {
+      "added_at": "2026-07-17 10:07:14",
+      "album": {
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        }
+      ],
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
+    },
     {
       "added_at": "2026-07-10 12:51:15",
       "album": {
@@ -29,6 +73,22 @@
       "url": "https://open.spotify.com/track/5rVIjomTZ8KdqC6o5F4qsF"
     },
     {
+      "added_at": "2026-07-17 10:07:37",
+      "album": {
+        "name": "Thinking Of You",
+        "url": "https://open.spotify.com/album/7wbasNkC4JkxGiVu22KMPc"
+      },
+      "artists": [
+        {
+          "name": "Illyus Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 176357,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/0QVgULBiWoVwl1gNItl057"
+    },
+    {
       "added_at": "2026-07-10 08:53:39",
       "album": {
         "name": "Touch Me",
@@ -47,6 +107,38 @@
       "duration_ms": 162187,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/7pdnrLzhnwtEAdlcIPpAwe"
+    },
+    {
+      "added_at": "2026-07-17 10:10:39",
+      "album": {
+        "name": "Red Room",
+        "url": "https://open.spotify.com/album/4BCb342oVUJIwStg3l26Cp"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 135486,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/18o8InV501O1NhjQAstfOw"
+    },
+    {
+      "added_at": "2026-07-03 09:22:38",
+      "album": {
+        "name": "Lost At The End",
+        "url": "https://open.spotify.com/album/39CghkcH7i9AsOLbu7ozMz"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "duration_ms": 181289,
+      "name": "Lost At The End",
+      "url": "https://open.spotify.com/track/0pO2cOA50glGKqVAOc6lqE"
     },
     {
       "added_at": "2026-07-10 12:53:27",
@@ -71,22 +163,6 @@
       "duration_ms": 199072,
       "name": "Party Time (feat. Aatig)",
       "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
-    },
-    {
-      "added_at": "2026-07-03 09:22:38",
-      "album": {
-        "name": "Lost At The End",
-        "url": "https://open.spotify.com/album/39CghkcH7i9AsOLbu7ozMz"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        }
-      ],
-      "duration_ms": 181289,
-      "name": "Lost At The End",
-      "url": "https://open.spotify.com/track/0pO2cOA50glGKqVAOc6lqE"
     },
     {
       "added_at": "2026-07-10 12:55:11",
@@ -127,7 +203,7 @@
     {
       "added_at": "2026-07-10 12:56:30",
       "album": {
-        "name": "State Of Mind (with Camden Cox)",
+        "name": "State Of Mind",
         "url": "https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe"
       },
       "artists": [
@@ -141,8 +217,44 @@
         }
       ],
       "duration_ms": 184320,
-      "name": "State Of Mind (with Camden Cox)",
+      "name": "State Of Mind",
       "url": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s"
+    },
+    {
+      "added_at": "2026-06-19 14:52:48",
+      "album": {
+        "name": "Jump N' Shout (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "Jump N' Shout - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
+    },
+    {
+      "added_at": "2026-07-17 08:17:05",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1RaFTWxSish12beRqKbsrG"
+      },
+      "artists": [
+        {
+          "name": "Alex Pizzuti",
+          "url": "https://open.spotify.com/artist/6eRFrSBTRTDCfNs6WqUWGE"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/0FWGt6JGeKbE059deaWocm"
     },
     {
       "added_at": "2026-07-03 09:24:59",
@@ -165,24 +277,20 @@
       "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
-      "added_at": "2026-06-19 14:52:48",
+      "added_at": "2026-07-17 08:17:18",
       "album": {
-        "name": "Jump N' Shout (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR"
+        "name": "Rude Boi",
+        "url": "https://open.spotify.com/album/7MU7ZSxNeIRSibEMNSlx6p"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Loz Seka",
+          "url": "https://open.spotify.com/artist/4VFvWNZM0BKFz8F9S5OYHL"
         }
       ],
-      "duration_ms": 237022,
-      "name": "Jump N' Shout - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
+      "duration_ms": 186562,
+      "name": "Rude Boi",
+      "url": "https://open.spotify.com/track/5U0r6jbUXigdXFHMRfU9dD"
     },
     {
       "added_at": "2026-07-03 09:23:15",
@@ -295,6 +403,22 @@
       "duration_ms": 188726,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5kYqVDT652SAo1jYhsYSu3"
+    },
+    {
+      "added_at": "2026-07-17 12:32:53",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2dpKUdhyvFmTDyoSkVLCIU"
+      },
+      "artists": [
+        {
+          "name": "NS Boulevard",
+          "url": "https://open.spotify.com/artist/4bw61r0pM5rg5pBLZd8N5a"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/0JBtzTsdQX31XtEcgj14nV"
     },
     {
       "added_at": "2026-07-03 08:59:01",
@@ -1677,22 +1801,6 @@
       "url": "https://open.spotify.com/track/43F50TSS1rcnteYoyp7YCy"
     },
     {
-      "added_at": "2026-02-27 13:40:23",
-      "album": {
-        "name": "GMSTDT",
-        "url": "https://open.spotify.com/album/5R87B3FYaeFdFq1afzoPJG"
-      },
-      "artists": [
-        {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "GMSTDT",
-      "url": "https://open.spotify.com/track/3ZU1JAvYASw5y2aLfJG7Pp"
-    },
-    {
       "added_at": "2026-03-06 14:55:03",
       "album": {
         "name": "On A Wave",
@@ -1713,22 +1821,6 @@
       "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
     },
     {
-      "added_at": "2026-02-27 13:39:27",
-      "album": {
-        "name": "House Rules EP",
-        "url": "https://open.spotify.com/album/53UJivhLy1OxyonfZGQpm7"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "House Rules",
-      "url": "https://open.spotify.com/track/6BFDOq9B9Cng4QI4YUxeU8"
-    },
-    {
       "added_at": "2026-03-06 09:36:02",
       "album": {
         "name": "Chemistry",
@@ -1743,82 +1835,6 @@
       "duration_ms": 203232,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/7kF0hYHCa1j5AyiJeMQuvf"
-    },
-    {
-      "added_at": "2026-02-06 11:10:50",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7JQkC9K96HeCQuBfReRgHD"
-      },
-      "artists": [
-        {
-          "name": "Jimi Polo",
-          "url": "https://open.spotify.com/artist/2LF3qYISOPgRfBywG1lWw9"
-        },
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        }
-      ],
-      "duration_ms": 185375,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/462XncSZQqphAVXMwDY3Yp"
-    },
-    {
-      "added_at": "2026-02-06 11:11:07",
-      "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Illyus Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 181476,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/1Jy0KzjB5zXPR0Mq50unST"
-    },
-    {
-      "added_at": "2026-01-30 13:10:32",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
-    },
-    {
-      "added_at": "2026-02-06 11:11:33",
-      "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
       "added_at": "2026-02-06 11:14:20",
@@ -1837,46 +1853,6 @@
       "url": "https://open.spotify.com/track/3IRzG2YlLaOpHU9ehv7jsk"
     },
     {
-      "added_at": "2026-03-06 14:53:53",
-      "album": {
-        "name": "Raise Them",
-        "url": "https://open.spotify.com/album/1nzJTHFCJW2uR6I32bWS3l"
-      },
-      "artists": [
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        }
-      ],
-      "duration_ms": 174247,
-      "name": "Raise Them",
-      "url": "https://open.spotify.com/track/230rSVr4xpk5eTDX6yXILb"
-    },
-    {
-      "added_at": "2026-02-27 09:07:47",
-      "album": {
-        "name": "Makin\u2019 My Move",
-        "url": "https://open.spotify.com/album/3ZV4ERw1iQxyBWmNa12Buc"
-      },
-      "artists": [
-        {
-          "name": "Maezbi",
-          "url": "https://open.spotify.com/artist/71Wxz6fSM7vVImYxBfZ8xG"
-        },
-        {
-          "name": "Cocho",
-          "url": "https://open.spotify.com/artist/6bL4pO0TGo8umUn9e8WkNa"
-        }
-      ],
-      "duration_ms": 166998,
-      "name": "Makin\u2019 My Move",
-      "url": "https://open.spotify.com/track/2jGwRQDrcMfz4Kl92hgSPT"
-    },
-    {
       "added_at": "2026-01-23 14:07:47",
       "album": {
         "name": "Can\u2019t Stop",
@@ -1891,58 +1867,6 @@
       "duration_ms": 219212,
       "name": "Can\u2019t Stop",
       "url": "https://open.spotify.com/track/2PHTL1d8V2UmnVcIDebjQY"
-    },
-    {
-      "added_at": "2026-02-23 12:56:02",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/2VJw8W5aV5JS8wGD0xGnP5"
-      },
-      "artists": [
-        {
-          "name": "Siege",
-          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
-        }
-      ],
-      "duration_ms": 201958,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/32vZyHNd3xbgFMYr37K2tu"
-    },
-    {
-      "added_at": "2025-11-25 10:57:51",
-      "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/1Vej6ZvPbYQxZckYTLYO9B"
-      },
-      "artists": [
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "Good To Go",
-      "url": "https://open.spotify.com/track/3XndZgN7LIjUPjgjvF89dc"
-    },
-    {
-      "added_at": "2026-02-13 16:00:36",
-      "album": {
-        "name": "Disco Behaviour",
-        "url": "https://open.spotify.com/album/2Vd8g2lvXtujfrdL2mGMza"
-      },
-      "artists": [
-        {
-          "name": "Lewis John",
-          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
-        }
-      ],
-      "duration_ms": 159492,
-      "name": "Disco Behaviour",
-      "url": "https://open.spotify.com/track/2o8dGb8mPyM4ZIsHCZzqTd"
     },
     {
       "added_at": "2025-07-04 15:03:53",

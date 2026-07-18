@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear con Mon Laferte",
-  "num_followers": 29024,
+  "num_followers": 29028,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 152566,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 152566,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Un Mont\u00f3n de Estrellas",
-        "url": "https://open.spotify.com/album/6GktQHOWaYrgv2ksUaeUx7"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Un Mont\u00f3n de Estrellas",
-      "url": "https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "mil veces mas",
         "url": "https://open.spotify.com/album/2HfOkfxmNSbTFG0huGbTR9"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 141250,
       "name": "mil veces mas",
       "url": "https://open.spotify.com/track/0Cs5I3C3Ob7ig7voahUUzO"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Un Mont\u00f3n de Estrellas",
+        "url": "https://open.spotify.com/album/6GktQHOWaYrgv2ksUaeUx7"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
-      },
-      "artists": [
-        {
-          "name": "Oriana",
-          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "no llames lo m\u00edo nuestro",
         "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1043,6 +1043,38 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "El Verdadero",
         "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
       },
@@ -1063,22 +1095,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "Loquero Viejo",
         "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 211460,
       "name": "Loquero Viejo",
       "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "escapar de m\u00ed",
-        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "escapar de m\u00ed",
-      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "pesimista",
+        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "Hasta Que Llegue El Verano",
         "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "pesimista",
-        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 234453,
-      "name": "pesimista",
-      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1211,22 +1227,6 @@
       "duration_ms": 182325,
       "name": "Es por Amor",
       "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "Te Lo Voy a Decir",
-        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Te Lo Voy a Decir",
-      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "AWCH (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 196004,
       "name": "AWCH - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "Agradezco Haberme Equivocado",
+        "url": "https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa"
+      },
+      "artists": [
+        {
+          "name": "Chule",
+          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
+        }
+      ],
+      "duration_ms": 177911,
+      "name": "Agradezco Haberme Equivocado",
+      "url": "https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "Intacto",
         "url": "https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 159285,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "Agradezco Haberme Equivocado",
-        "url": "https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa"
-      },
-      "artists": [
-        {
-          "name": "Chule",
-          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
-        }
-      ],
-      "duration_ms": 177911,
-      "name": "Agradezco Haberme Equivocado",
-      "url": "https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Guardar",
-        "url": "https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj"
-      },
-      "artists": [
-        {
-          "name": "Ine G\u00fcemes",
-          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
-        }
-      ],
-      "duration_ms": 179121,
-      "name": "Chimenea",
-      "url": "https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "a todo el mundo le pasa",
         "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 211000,
       "name": "a todo el mundo le pasa",
       "url": "https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Guardar",
+        "url": "https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj"
+      },
+      "artists": [
+        {
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        }
+      ],
+      "duration_ms": 179121,
+      "name": "Chimenea",
+      "url": "https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "En la Moto",
+        "url": "https://open.spotify.com/album/2IKdzeh2FO1aelXzus5Yyj"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 173003,
+      "name": "En la Moto",
+      "url": "https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "Lejos De Todo",
         "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 215647,
       "name": "Una Persona",
       "url": "https://open.spotify.com/track/0i01P3ZURjQ7kGTFLrpv28"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "En la Moto",
-        "url": "https://open.spotify.com/album/2IKdzeh2FO1aelXzus5Yyj"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 173003,
-      "name": "En la Moto",
-      "url": "https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA"
     },
     {
       "added_at": "2026-07-03 03:00:43",

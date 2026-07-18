@@ -4,7 +4,7 @@
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Mikha Tambayong, Rayi Putra
 
-274 songs - 16 hr 4 min
+274 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [MENU](https://open.spotify.com/track/3Vn8GxxDb2RVsKXccq8C5l) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A) | [MENU](https://open.spotify.com/album/0lag32AUNO5cQXh6JAQ1Ra) | 3:01 | 2025-10-16 | 2026-04-10 |
 | [Merindu](https://open.spotify.com/track/1yaH4YIzZre7gjREX18dxD) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Romansa](https://open.spotify.com/album/65KdItMclPJytUzzNuI8eJ) | 3:18 | 2025-05-08 | 2025-11-21 |
 | [Miliki Aku](https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Miliki Aku](https://open.spotify.com/album/3OFKmugE12oDluNxHELmry) | 3:11 | 2025-02-06 | 2025-08-29 |
+| [Million Different Reasons](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 4:06 | 2026-07-16 |  |
 | [More Than](https://open.spotify.com/track/0GXBlgsie2IjuhNOoJFE5H) | [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [More Than](https://open.spotify.com/album/68Ur2E6rm3KMSmPPpUi9Qn) | 4:13 | 2025-07-10 | 2025-10-24 |
 | [Mulai](https://open.spotify.com/track/2gfuoYUfvZwcolvIcpV0ic) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Mulai](https://open.spotify.com/album/2YKI1MqW9OCXphZCF7qWc4) | 3:26 | 2025-10-16 | 2026-03-13 |
 | [My Bad](https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [CTRL+N](https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc) | 3:09 | 2025-06-12 | 2025-10-03 |
@@ -267,7 +268,6 @@
 | [Thing I Desire](https://open.spotify.com/track/0S7dD8zNVFIWOyoi06MNEQ) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/5pQjlI6nRKo113Opt38Oiy) | 3:51 | 2024-10-03 | 2025-05-02 |
 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-20 | 2026-05-01 |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-08-29 |
-| [Track 9](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 0:00 | 2026-07-16 |  |
 | [Tunggu Aku](https://open.spotify.com/track/0jCDcmdQ4IjqLNH8qv9x5U) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [MAKO.](https://open.spotify.com/artist/0gGCPbJs9MmaHJHGebWAOH), [REDROSE](https://open.spotify.com/artist/4zZfILWPssf3GfmXmqg7xo) | [Tunggu Aku](https://open.spotify.com/album/3RPlamzxsRSD73Y3QVkBVf) | 3:38 | 2026-02-19 |  |
 | [Under the Silver Moon](https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Under the Silver Moon](https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT) | 3:27 | 2026-03-12 |  |
 | [Untukmu](https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH) | [Rafi Muhammad](https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Untukmu](https://open.spotify.com/album/0z7axBDnepbUZ9l6Q318mp) | 3:59 | 2025-09-25 | 2026-05-01 |

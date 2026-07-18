@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc39\uae40\ud584\ucc0c\uc640 \ud568\uaed8 \uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.)",
-  "num_followers": 26384,
+  "num_followers": 26390,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-03 07:19:05",
       "album": {
-        "name": "TIKI TAKA",
-        "url": "https://open.spotify.com/album/18Z30FBuoIx0U1xICFeS17"
-      },
-      "artists": [
-        {
-          "name": "Chamsom",
-          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "Oh my love",
-      "url": "https://open.spotify.com/track/4XVXQ6kCi9ME5LnLQKlVx0"
-    },
-    {
-      "added_at": "2026-07-03 07:19:05",
-      "album": {
         "name": "summerless",
         "url": "https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL"
       },
@@ -759,6 +743,26 @@
     {
       "added_at": "2026-07-03 07:19:05",
       "album": {
+        "name": "Stay (Feat. Youlakk)",
+        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        },
+        {
+          "name": "\uc5ec\ub77d\uc774\ub4e4",
+          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
+        }
+      ],
+      "duration_ms": 208771,
+      "name": "Stay (Feat. Youlakk)",
+      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+    },
+    {
+      "added_at": "2026-07-03 07:19:05",
+      "album": {
         "name": "Echo (feat .JUKJAE)",
         "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
@@ -779,22 +783,18 @@
     {
       "added_at": "2026-07-03 07:19:05",
       "album": {
-        "name": "Stay (Feat. Youlakk)",
-        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
+        "name": "TIKI TAKA",
+        "url": "https://open.spotify.com/album/18Z30FBuoIx0U1xICFeS17"
       },
       "artists": [
         {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        },
-        {
-          "name": "\uc5ec\ub77d\uc774\ub4e4",
-          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
+          "name": "Chamsom",
+          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
         }
       ],
-      "duration_ms": 208771,
-      "name": "Stay (Feat. Youlakk)",
-      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+      "duration_ms": 233960,
+      "name": "Oh my love",
+      "url": "https://open.spotify.com/track/4XVXQ6kCi9ME5LnLQKlVx0"
     },
     {
       "added_at": "2026-07-03 07:19:05",

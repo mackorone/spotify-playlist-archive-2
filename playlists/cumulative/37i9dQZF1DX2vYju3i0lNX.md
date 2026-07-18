@@ -4,7 +4,7 @@
 
 > Mellow jazz for focus or unwinding.
 
-1,372 songs - 3 day 8 hr 42 min
+1,376 songs - 3 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [A Silent Place](https://open.spotify.com/track/1LarksQOfjXTKovfdYa6pd) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [A Silent Place](https://open.spotify.com/album/3N1vEv9Nnwcm76KePlour5) | 4:29 | 2024-08-26 | 2025-11-19 |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 | 2025-11-19 |
 | [A Swim in Pine Lake](https://open.spotify.com/track/0jufuLT8UYZLQu2yaaS52B) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [A Swim in Pine Lake](https://open.spotify.com/album/7qlQWrxfurEmYnOt8ITdjK) | 3:21 | 2024-03-08 | 2026-01-27 |
-| [A Thousand Candles](https://open.spotify.com/track/2LQF9MV2AXRoEO7wuMeMU9) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [A Thousand Candles](https://open.spotify.com/album/7lgKtuU9h7UDlYJzvcUzb4) | 3:35 | 2025-09-03 |  |
+| [A Thousand Candles](https://open.spotify.com/track/2LQF9MV2AXRoEO7wuMeMU9) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [A Thousand Candles](https://open.spotify.com/album/7lgKtuU9h7UDlYJzvcUzb4) | 3:35 | 2025-09-03 | 2026-07-18 |
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-02-23 | 2025-11-19 |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2021-12-07 | 2023-01-20 |
 | [A touch of breeze](https://open.spotify.com/track/2TLs12hBiOrB7XwZIxpqgQ) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [A touch of breeze](https://open.spotify.com/album/4EVtn1yAwCjczMVJQclqzV) | 3:09 | 2026-01-09 |  |
@@ -129,6 +129,7 @@
 | [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 | 2025-05-06 |
 | [Arrive in the Morning](https://open.spotify.com/track/51pzfmhBytdo03qWM35vri) | [Brilliant Supervision](https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo) | [Arrive in the Morning](https://open.spotify.com/album/4lctJgeUffFBoughhpR8wG) | 2:59 | 2025-01-20 |  |
 | [As I Ponder](https://open.spotify.com/track/6khM5DGF44SpKPh0Wb0lQI) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [As I Ponder](https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5) | 3:19 | 2023-08-17 | 2024-07-09 |
+| [As It Falls](https://open.spotify.com/track/5E2Ek6AU8gOPlCJjd813Io) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [As It Falls](https://open.spotify.com/album/0ZoQBsYZdTqaZUtO93HLRR) | 4:04 | 2026-07-17 |  |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-01-05 | 2025-11-19 |
 | [As the Earth Turns](https://open.spotify.com/track/03GcLxStYDuBNhfY87Fgrt) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [As the Earth Turns](https://open.spotify.com/album/2pgcXh5cmiCpnZGRL15JK6) | 3:00 | 2025-03-24 |  |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-12-07 | 2022-12-02 |
@@ -175,6 +176,7 @@
 | [Bitterly](https://open.spotify.com/track/5Xm41ptJQvE3seHAInytkr) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Bitterly](https://open.spotify.com/album/55X0WHP3z9QVch5wKWtskZ) | 4:08 | 2024-03-22 | 2024-09-03 |
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-20 | 2025-11-19 |
 | [Blossom Serenade](https://open.spotify.com/track/3RNUosA5iDTNwMOKHS6XIu) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [Blossom Serenade](https://open.spotify.com/album/4FltVNUNqldemwRB2XnBP4) | 3:16 | 2024-10-14 |  |
+| [Blue Eyes](https://open.spotify.com/track/3pD0feYnlhlGudk14U0a8s) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Blue Eyes](https://open.spotify.com/album/2m1gssiOoE3sfylf1U90BU) | 2:47 | 2026-07-17 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 | 2025-11-19 |
 | [Blue Horizon](https://open.spotify.com/track/2pHPlwdaOGwvgptwg1QwHO) | [The Blue Alley](https://open.spotify.com/artist/2OqSm9mH0el2YOy4V6gG6w) | [Blue Horizon](https://open.spotify.com/album/0ZVNAJ0QUMyKnHJTTPNc2Z) | 3:09 | 2026-06-30 |  |
 | [Blue in Green](https://open.spotify.com/track/0tmvTbghnS5H7tXxPJ6xfJ) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [Blue in Green](https://open.spotify.com/album/3SMIAAqsvbkX66BD4pezPm) | 3:08 | 2024-06-11 | 2026-01-27 |
@@ -886,6 +888,7 @@
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 | 2023-03-31 |
 | [Once In A While](https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Once In A While](https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg) | 3:53 | 2023-01-19 | 2025-11-19 |
 | [Once Knowing](https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 3:14 | 2023-02-23 | 2023-06-02 |
+| [One Favorite Day](https://open.spotify.com/track/38q15FDDmSmSDmv2S5SAv9) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [One Favorite Day](https://open.spotify.com/album/02IeZQsDoA8PbJwoEUnFmX) | 2:38 | 2026-07-17 |  |
 | [One Last Drink](https://open.spotify.com/track/5AcCZOaMKpm91wrnzhmPRA) | [Dave Gordon Trio](https://open.spotify.com/artist/2vQ0rZrPfwWwg0ntFYJzfe) | [One Last Drink](https://open.spotify.com/album/5wpEbq9Qwt1MAxY1HbEwMv) | 2:40 | 2024-05-10 | 2026-01-27 |
 | [One More Promise](https://open.spotify.com/track/3qBfwvNVNvn1wblk4aQSeD) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [One More Promise](https://open.spotify.com/album/3OIAR8zXKT7x7wrNitZyan) | 2:52 | 2024-10-21 |  |
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2021-12-07 | 2023-05-12 |
@@ -1196,6 +1199,7 @@
 | [Think Forward](https://open.spotify.com/track/3cEhU0ReeaaccJ4R17xUlg) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Paris in the Rain](https://open.spotify.com/album/02n3H8PMcmrFzjgvG5cUc2) | 4:30 | 2021-12-07 | 2023-02-24 |
 | [Think of refusing](https://open.spotify.com/track/0xczcAK509NavYmwkard4Q) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Think of refusing](https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ) | 3:51 | 2023-04-20 | 2024-11-26 |
 | [Thinking About Your Smile](https://open.spotify.com/track/2Ou3LQxtrah2CKhkZWN3R8) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Thinking About Your Smile](https://open.spotify.com/album/79GcQDczzpvaYL6Ibx2GeT) | 3:42 | 2024-08-26 | 2026-01-24 |
+| [Thinking Twice](https://open.spotify.com/track/1SiItypWxPxbRVkYE9EL8z) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Thinking Twice](https://open.spotify.com/album/0fjtSYTWa46AcJeNzPfnkv) | 3:30 | 2026-07-17 |  |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 | 2023-08-11 |
 | [This Could Be Love](https://open.spotify.com/track/3AXc6LSwjRJaZ9UgY7sOj4) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [This Could Be Love](https://open.spotify.com/album/5cy0MEnK22TLYbVuKdWAfQ) | 3:26 | 2024-03-22 | 2024-07-23 |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2021-12-07 | 2024-10-08 |

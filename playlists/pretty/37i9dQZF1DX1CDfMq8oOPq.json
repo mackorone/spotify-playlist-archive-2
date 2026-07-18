@@ -1,6 +1,6 @@
 {
   "description": "tuuudo conspirando a favor  \ud83c\udf13//  Amanda Sarmento",
-  "num_followers": 102366,
+  "num_followers": 102412,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
-    },
-    {
-      "added_at": "2026-07-03 20:55:51",
-      "album": {
         "name": "Preta.Foda.Quente",
         "url": "https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ"
       },
@@ -655,18 +639,38 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "QUEBREI SUA CASA",
-        "url": "https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD"
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
       },
       "artists": [
         {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
         }
       ],
-      "duration_ms": 148000,
-      "name": "QUEBREI SUA CASA",
-      "url": "https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8"
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
+    },
+    {
+      "added_at": "2026-07-03 20:55:51",
+      "album": {
+        "name": "FORA DA CAIXA",
+        "url": "https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Zstudios",
+          "url": "https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "FORA DA CAIXA",
+      "url": "https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ"
     },
     {
       "added_at": "2026-07-03 20:55:51",
@@ -711,22 +715,18 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "FORA DA CAIXA",
-        "url": "https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl"
+        "name": "QUEBREI SUA CASA",
+        "url": "https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD"
       },
       "artists": [
         {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "Zstudios",
-          "url": "https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9"
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         }
       ],
-      "duration_ms": 114893,
-      "name": "FORA DA CAIXA",
-      "url": "https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ"
+      "duration_ms": 148000,
+      "name": "QUEBREI SUA CASA",
+      "url": "https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8"
     },
     {
       "added_at": "2026-07-03 20:55:51",
@@ -747,6 +747,26 @@
       "duration_ms": 174607,
       "name": "tropa do espanca sub",
       "url": "https://open.spotify.com/track/3RJJAT1dCpGU2h6ovjSlVS"
+    },
+    {
+      "added_at": "2026-07-03 20:55:51",
+      "album": {
+        "name": "BPP",
+        "url": "https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Maff",
+          "url": "https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "BPP",
+      "url": "https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F"
     },
     {
       "added_at": "2026-07-03 20:55:51",
@@ -807,26 +827,6 @@
       "duration_ms": 122834,
       "name": "Milimetricamente",
       "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
-    },
-    {
-      "added_at": "2026-07-03 20:55:51",
-      "album": {
-        "name": "BPP",
-        "url": "https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O"
-      },
-      "artists": [
-        {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "Maff",
-          "url": "https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL"
-        }
-      ],
-      "duration_ms": 153880,
-      "name": "BPP",
-      "url": "https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F"
     },
     {
       "added_at": "2026-07-03 20:55:51",

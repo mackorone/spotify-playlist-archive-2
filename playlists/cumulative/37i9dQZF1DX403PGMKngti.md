@@ -4,7 +4,7 @@
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Criss y Ronny
 
-132 songs - 8 hr 13 min
+133 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Borracho Bailando Champeta](https://open.spotify.com/track/6MJjmHFqdjkzNqWAoydcdT) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Borracho Bailando Champeta](https://open.spotify.com/album/16n2wbAJnQrBBRrptMG47v) | 3:39 | 2023-12-15 | 2024-04-19 |
 | [Busco Alguien Que Me Quiera](https://open.spotify.com/track/1IHSUlfPjNiixMcoG1P8f2) | [El Afinaito](https://open.spotify.com/artist/2n3i5T3VD5GwwjlQCnT51Z) | [Se Pegó la Champeta en Cartagena, Vol\. 2](https://open.spotify.com/album/0BKQRH2gMvlBcPbpNJpwOF) | 4:25 | 2023-12-15 |  |
 | [Busco Alguien Que Me Quiera](https://open.spotify.com/track/0rsbcvPse062LU0mgn2ZNq) | [El Afinaito](https://open.spotify.com/artist/2n3i5T3VD5GwwjlQCnT51Z) | [Un Beso Desde Cartagena Con las Mejores Champetas](https://open.spotify.com/album/7wCOQCnvCyDveEtobfM9q9) | 4:27 | 2023-12-15 | 2024-04-19 |
+| [Cafe](https://open.spotify.com/track/3277TAKAv27ewlf3pueeXl) | [Keyvin Ce](https://open.spotify.com/artist/59ELR8A5JHmUK402NRjbOE) | [MI VIDA, MI TEATRO](https://open.spotify.com/album/64LomvWP5zkCkPhDUsFKrv) | 3:45 | 2026-07-17 |  |
 | [Catalina](https://open.spotify.com/track/3kjbxc3euQmgQT177qNWPa) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Catalina](https://open.spotify.com/album/7k5rbjZiJou8AOmkZrxo00) | 3:18 | 2023-12-15 | 2024-04-19 |
 | [Catalina](https://open.spotify.com/track/46W0RhOuD4nUPCCc6Gjsg7) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Catalina](https://open.spotify.com/album/5EWHECPipXWnr60afW3Rf8) | 3:18 | 2023-12-15 |  |
 | [Champeta con Dancehall](https://open.spotify.com/track/5ALJKghizrQpTuCHXSQc5J) | [Rey Three Latino](https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50) | [Champeta con Dancehall](https://open.spotify.com/album/1QnQ1wwtxwIOMS2Wp3354x) | 3:58 | 2023-12-15 | 2024-04-19 |

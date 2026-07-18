@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-388 songs - 1 day 0 hr 45 min
+390 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Strength](https://open.spotify.com/track/0nnocliX58UkQQf0Ayl2kU) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/4Huxzz9yjgdsDS0V2zQS19) | 4:38 | 2021-12-13 | 2022-07-29 |
 | [Strength](https://open.spotify.com/track/4MTmD97M3KIAWLnwJbVwbp) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/3iObboZ4jyfu1RWLzeCAqx) | 4:38 | 2022-07-05 | 2024-02-24 |
 | [Summer Rain](https://open.spotify.com/track/5DNBQFAFA45nQ9csxnTm2o) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Summer Rain](https://open.spotify.com/album/7BshfS2Wmmf5yKmkbIF6j4) | 3:27 | 2025-02-10 | 2026-02-21 |
+| [Sunday Afternoon](https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sunday Afternoon](https://open.spotify.com/album/1dQeY1B5fEGOpY8f6heGWY) | 3:33 | 2026-07-17 |  |
 | [SUNLIGHT](https://open.spotify.com/track/5YsdarH0He9NVsoATnLxII) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SUNLIGHT](https://open.spotify.com/album/1ndKXr9Z4VPa6Ji7lwxfIe) | 3:14 | 2023-05-18 | 2024-06-29 |
 | [Sunrise](https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Sunrise](https://open.spotify.com/album/1zKmFpEW0oj8qy5mvnUyBb) | 3:18 | 2022-09-30 | 2025-02-11 |
 | [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 | 2025-05-19 |  |
@@ -394,6 +395,7 @@
 | [You Got to Feel It](https://open.spotify.com/track/5soaQgOH24Vu24Okl5WM18) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [You Got to Feel It](https://open.spotify.com/album/6Z3ClVmovq0NLwwRgPW4ge) | 3:33 | 2026-03-19 |  |
 | [You Know I'm No Good](https://open.spotify.com/track/4SyowQi18ym4zJGJDBnsTj) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc) | 4:16 | 2024-04-11 | 2024-06-29 |
 | [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 | 2022-12-05 | 2024-04-19 |
+| [Your Love \(What I'm Dying From\)](https://open.spotify.com/track/0jg5fwPdpm5n1lfyMkrC1D) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [Your Love \(What I'm Dying From\)](https://open.spotify.com/album/0Z1nSosP9Oq9Dfh6ni54wF) | 2:51 | 2026-07-17 |  |
 | [You’ve Got A Hard Head](https://open.spotify.com/track/0A9CYocZJ8JZc3erLTyzuh) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Listen](https://open.spotify.com/album/0zzVpVWRl3nKQppBGzfV0d) | 4:33 | 2022-06-16 | 2022-12-03 |
 | [Yèkèrmo Sèw](https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Plays Mulatu](https://open.spotify.com/album/7p6BngLDdLeAeY38yptAjc) | 8:03 | 2025-10-08 |  |
 

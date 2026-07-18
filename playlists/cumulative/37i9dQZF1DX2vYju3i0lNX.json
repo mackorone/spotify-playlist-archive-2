@@ -906,7 +906,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 215278,
       "name": "A Thousand Candles",
       "url": "https://open.spotify.com/track/2LQF9MV2AXRoEO7wuMeMU9"
@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "As It Falls",
+        "url": "https://open.spotify.com/album/0ZoQBsYZdTqaZUtO93HLRR"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244383,
+      "name": "As It Falls",
+      "url": "https://open.spotify.com/track/5E2Ek6AU8gOPlCJjd813Io"
+    },
+    {
+      "album": {
         "name": "In Your Own Sweet Way",
         "url": "https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6"
       },
@@ -3024,6 +3042,24 @@
       "duration_ms": 196834,
       "name": "Blossom Serenade",
       "url": "https://open.spotify.com/track/3RNUosA5iDTNwMOKHS6XIu"
+    },
+    {
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/2m1gssiOoE3sfylf1U90BU"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167477,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/3pD0feYnlhlGudk14U0a8s"
     },
     {
       "album": {
@@ -15845,6 +15881,24 @@
     },
     {
       "album": {
+        "name": "One Favorite Day",
+        "url": "https://open.spotify.com/album/02IeZQsDoA8PbJwoEUnFmX"
+      },
+      "artists": [
+        {
+          "name": "Downtown Caf\u00e9",
+          "url": "https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "One Favorite Day",
+      "url": "https://open.spotify.com/track/38q15FDDmSmSDmv2S5SAv9"
+    },
+    {
+      "album": {
         "name": "One Last Drink",
         "url": "https://open.spotify.com/album/5wpEbq9Qwt1MAxY1HbEwMv"
       },
@@ -21430,6 +21484,24 @@
       "duration_ms": 222167,
       "name": "Thinking About Your Smile",
       "url": "https://open.spotify.com/track/2Ou3LQxtrah2CKhkZWN3R8"
+    },
+    {
+      "album": {
+        "name": "Thinking Twice",
+        "url": "https://open.spotify.com/album/0fjtSYTWa46AcJeNzPfnkv"
+      },
+      "artists": [
+        {
+          "name": "John B\u00fclow",
+          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210631,
+      "name": "Thinking Twice",
+      "url": "https://open.spotify.com/track/1SiItypWxPxbRVkYE9EL8z"
     },
     {
       "album": {

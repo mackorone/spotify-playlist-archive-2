@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-646 songs - 1 day 19 hr 27 min
+647 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Joy](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:26 | 2026-02-13 | 2026-03-13 |
 | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/track/1DAUHWoF0BRWT0wyES0I9W) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/album/6ugfSSCMX9r5cesyyAxw9l) | 2:57 | 2024-10-18 | 2025-02-07 |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2024-09-27 | 2025-02-28 |
+| [K'OSENI](https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP) | [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ) | [K'OSENI](https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq) | 3:07 | 2026-07-10 |  |
 | [Kaunar Allah](https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Kaunar Allah](https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y) | 3:18 | 2026-06-12 | 2026-07-12 |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-07-25 |
 | [Lai Lai](https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Lai Lai](https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn) | 2:47 | 2024-09-27 | 2025-02-07 |
@@ -432,7 +433,7 @@
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2024-09-27 | 2025-02-28 |
 | [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 | 2026-06-26 |  |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-09-27 |  |
-| [Nara Ekele \- Remix](https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Nara Ekele \(Remix\)](https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9) | 6:32 | 2026-05-22 |  |
+| [Nara Ekele \- Remix](https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Nara Ekele \(Remix\)](https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9) | 6:32 | 2026-05-22 | 2026-07-18 |
 | [Narekele](https://open.spotify.com/track/3aL0swlBPcBfUHatzrn9n8) | [Exouxia Wilson](https://open.spotify.com/artist/2OsGK8NBce8Tmx6Cyuc974) | [Narekele](https://open.spotify.com/album/5gyBvRvXbbelbUEPBg7QCm) | 6:24 | 2025-06-20 | 2025-07-11 |
 | [Ndichatarisa](https://open.spotify.com/track/70ZBUNVFSHZSmZqLPDKAzx) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Ndichatarisa](https://open.spotify.com/album/10MaqFUzBYnSznaeJhkTDP) | 3:25 | 2024-09-30 | 2025-02-07 |
 | [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 | 2025-06-06 | 2025-07-25 |

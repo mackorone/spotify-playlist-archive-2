@@ -709,6 +709,32 @@
     },
     {
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "KIMI",
+          "url": "https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211928,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
+    },
+    {
+      "album": {
         "name": "Bhavani Ashtakam",
         "url": "https://open.spotify.com/album/57hEMnVxLUCPdcRt2vL3js"
       },
@@ -1468,7 +1494,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 335834,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
@@ -1916,7 +1942,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 231269,
       "name": "Extra-Terra",
       "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
@@ -5520,6 +5546,28 @@
       "duration_ms": 445714,
       "name": "Speak from the heart",
       "url": "https://open.spotify.com/track/1GP9Xys1uOqkjPnAGhWNvu"
+    },
+    {
+      "album": {
+        "name": "Spiritual Beings",
+        "url": "https://open.spotify.com/album/5PwDH8VpgVr7qoFJt6HfGH"
+      },
+      "artists": [
+        {
+          "name": "Ace Ventura",
+          "url": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
+        },
+        {
+          "name": "Asgard",
+          "url": "https://open.spotify.com/artist/5jDnYezjdwwpupSK8De19e"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554366,
+      "name": "Spritual Beings - Original mix",
+      "url": "https://open.spotify.com/track/0AjMJnKWAuSR70M2VmFRsU"
     },
     {
       "album": {

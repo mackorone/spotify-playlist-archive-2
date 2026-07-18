@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Ladipoe",
-  "num_followers": 192175,
+  "num_followers": 192341,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -58,10 +58,14 @@
         {
           "name": "LADIPOE",
           "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 240301,
+      "name": "No Level",
       "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
     },
     {
@@ -247,6 +251,26 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
+        "name": "Major League",
+        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Major League",
+      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
@@ -267,34 +291,6 @@
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
-        "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
-        "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
-      "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -335,8 +331,36 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "Major League",
-        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
+        "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
+        "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 184682,
+      "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
+      "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
+        "name": "ODO PA",
+        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
       "artists": [
         {
@@ -344,33 +368,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Major League",
-      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Saint Edrah",
-          "url": "https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "PAIN III",
-      "url": "https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt"
+      "duration_ms": 156000,
+      "name": "ODO PA",
+      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -395,22 +399,22 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Saint Edrah",
+          "url": "https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG"
         }
       ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
+      "duration_ms": 167090,
+      "name": "PAIN III",
+      "url": "https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -431,22 +435,22 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "ODO PA",
-        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         },
         {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 156000,
-      "name": "ODO PA",
-      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -599,6 +603,22 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -619,22 +639,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
     },
     {
       "added_at": "2026-07-17 00:01:33",

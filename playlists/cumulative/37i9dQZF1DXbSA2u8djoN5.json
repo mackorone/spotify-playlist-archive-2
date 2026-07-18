@@ -3693,6 +3693,32 @@
     },
     {
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/23x3PN8zT0WXc7e8hqumN7"
+      },
+      "artists": [
+        {
+          "name": "Keri",
+          "url": "https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l"
+        },
+        {
+          "name": "Rusu",
+          "url": "https://open.spotify.com/artist/1Sv7lDvguOrZI37FulYZ9Q"
+        },
+        {
+          "name": "ARG",
+          "url": "https://open.spotify.com/artist/3xKYlqzRMv6TKZvhHOzw9O"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222125,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4aK1zeqgOwUel3T5xpVhyQ"
+    },
+    {
+      "album": {
         "name": "Ne vedem acas\u0103",
         "url": "https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Roosevelt Stewart & Naomi Raine",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Planetshakers",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1030,6 +1030,28 @@
       "duration_ms": 253337,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
+    },
+    {
+      "album": {
+        "name": "WASHED",
+        "url": "https://open.spotify.com/album/5ADw2IQlPkheuMun7AuYBc"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262935,
+      "name": "AMAZING!",
+      "url": "https://open.spotify.com/track/6sBqTPsiudzkESXDpPI6t5"
     },
     {
       "album": {
@@ -4932,7 +4954,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 360173,
       "name": "FATHER'S HOUSE",
       "url": "https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN"
@@ -7510,7 +7532,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 271520,
       "name": "Holy God",
       "url": "https://open.spotify.com/track/6Z7sDhExaQlgV3GKRWccf2"
@@ -9002,7 +9024,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 249003,
       "name": "I Will Go - Live",
       "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
@@ -9360,7 +9382,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 455400,
       "name": "In The Name of Jesus (Jesus Is The Way Spontaneous) (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/7fkWuneCeC7VIcjXsLjF5r"
@@ -10902,6 +10924,24 @@
       "duration_ms": 476599,
       "name": "Leaning - Live",
       "url": "https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH"
+    },
+    {
+      "album": {
+        "name": "Mighty God (Live)",
+        "url": "https://open.spotify.com/album/2cK4A2pD9at2Ozrzc6SyYC"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454768,
+      "name": "Less Of Me, More Of You - Live",
+      "url": "https://open.spotify.com/track/72XVeL0IFIDNrMGYoNPqqw"
     },
     {
       "album": {
@@ -13969,6 +14009,24 @@
     },
     {
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
+    },
+    {
+      "album": {
         "name": "Only Hope",
         "url": "https://open.spotify.com/album/173lNAuB8323MMGklHDy87"
       },
@@ -16709,6 +16767,24 @@
     },
     {
       "album": {
+        "name": "Spirit Of The Living God",
+        "url": "https://open.spotify.com/album/13xnzlysbkbPkvD0OgfoYx"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271346,
+      "name": "Spirit Of The Living God",
+      "url": "https://open.spotify.com/track/4DsRVDm6Hid9Pp7m5dlfBf"
+    },
+    {
+      "album": {
         "name": "Stacking Stones (Reimagined)",
         "url": "https://open.spotify.com/album/6jQyS9Yk5FruVLnUDrZj0j"
       },
@@ -19163,6 +19239,24 @@
     },
     {
       "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/7u5QmS8MY4vimEpmb1fPui"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "There Is One",
+      "url": "https://open.spotify.com/track/7408Z8PcclJd61xyyYHv9I"
+    },
+    {
+      "album": {
         "name": "Family Nights, Vol. 2: Day For Singing (Live)",
         "url": "https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew"
       },
@@ -21042,7 +21136,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 213291,
       "name": "Who Else",
       "url": "https://open.spotify.com/track/1bZbXxbxS2yIpmHNVYKJE9"

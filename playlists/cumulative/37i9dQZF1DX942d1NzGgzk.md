@@ -4,7 +4,7 @@
 
 > The latest of R&B rising in the UK\. Cover: Javán
 
-641 songs - 1 day 9 hr 8 min
+643 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Don't Let Me Fall](https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:39 | 2022-07-17 | 2023-09-23 |
 | [Don't Play The Fool](https://open.spotify.com/track/2a3FBmnHFLJ3dxB7QUHlgh) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Don't Play The Fool](https://open.spotify.com/album/6eDHUSZ3qKX6vwDxWYSC9z) | 3:39 | 2025-07-24 | 2026-02-27 |
 | [Don't Say It](https://open.spotify.com/track/6ltghPpgP522rAJvYuplke) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Don't Say It](https://open.spotify.com/album/6qvPhhzet4eeMYzrOwY4HR) | 2:43 | 2023-07-21 | 2023-08-19 |
-| [Don't Take My Lover Away](https://open.spotify.com/track/3fKmOOqhIF7M9nU4mqe1yV) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Don't Take My Lover Away](https://open.spotify.com/album/572gZYJdYvplPqnMJTbzqJ) | 5:23 | 2026-02-20 |  |
+| [Don't Take My Lover Away](https://open.spotify.com/track/3fKmOOqhIF7M9nU4mqe1yV) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Don't Take My Lover Away](https://open.spotify.com/album/572gZYJdYvplPqnMJTbzqJ) | 5:23 | 2026-02-20 | 2026-07-18 |
 | [Don't You Forget](https://open.spotify.com/track/0zICr7muWD6myHzUFEXc3p) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Monét](https://open.spotify.com/artist/1GrIhEF7bfChhCO6M4CSn8), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Don't You Forget](https://open.spotify.com/album/5le0ov0FPMgmPJdfum9AOa) | 4:09 | 2025-07-24 | 2025-09-05 |
 | [Dopamine](https://open.spotify.com/track/4MDm7umVv7bBPgqRnl9ZT5) | [Tara Mills](https://open.spotify.com/artist/096XAqfX0njIKt8ULAWWht), [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm) | [Dopamine](https://open.spotify.com/album/50LuQZFgtZoocaDsH7AwQ4) | 2:25 | 2025-07-24 | 2025-12-11 |
 | [Down](https://open.spotify.com/track/2yZ23sMHy3Mr0ngR4eRr8R) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Down](https://open.spotify.com/album/5Blo6YBsMmFCkgP1uw340k) | 3:17 | 2025-07-24 | 2025-09-05 |
@@ -169,6 +169,7 @@
 | [Eighteen](https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Eighteen](https://open.spotify.com/album/29DLEk1PoZBbEDBgjPAj6Y) | 2:35 | 2022-07-17 | 2023-05-09 |
 | [EMILIA](https://open.spotify.com/track/68B5H1EYzsjhBJtGd62VyY) | [Isaiah St Jean](https://open.spotify.com/artist/14rchXSv5I3gxgE6qNuMN2) | [BRITISH BOGOTÁ BOY](https://open.spotify.com/album/5Ne9zTgzSScFDIBXrtyLPH) | 3:03 | 2025-09-18 | 2026-02-13 |
 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-24 | 2024-09-13 |
+| [Energy](https://open.spotify.com/track/05emgoB0Fg2DhOGrfTRTY2) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Energy](https://open.spotify.com/album/6Y3iRo05ckfykXYtjxX2sk) | 3:13 | 2026-07-17 |  |
 | [Enough](https://open.spotify.com/track/4JKa7E11MKyZrFQBzFaTij) | [Marika](https://open.spotify.com/artist/4FmPYAalf626cq25ZfwbG4) | [Enough](https://open.spotify.com/album/1aTjBoDqG06Ra9eLYDVIrA) | 3:47 | 2026-02-06 | 2026-06-27 |
 | [Escape Plan](https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Escape Plan](https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy) | 3:35 | 2024-02-02 | 2024-11-12 |
 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 | 2022-07-17 | 2023-10-20 |
@@ -252,7 +253,7 @@
 | [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 | 2025-07-24 | 2025-08-09 |
 | [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 | 2025-11-07 | 2026-06-26 |
 | [Help Me Fight a Losing Battle](https://open.spotify.com/track/29Dpkv9ruNKicm9Xhx4mYL) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Help Me Fight a Losing Battle](https://open.spotify.com/album/6kBvVJERDoMx7Ec7L3BjOT) | 3:34 | 2023-03-10 | 2023-05-15 |
-| [Helpless](https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Helpless](https://open.spotify.com/album/1kIQcleL75BNtXifuJi7uX) | 3:26 | 2026-02-13 |  |
+| [Helpless](https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Helpless](https://open.spotify.com/album/1kIQcleL75BNtXifuJi7uX) | 3:26 | 2026-02-13 | 2026-07-18 |
 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 | 2023-11-17 | 2024-11-15 |
 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 | 2022-07-17 | 2023-06-22 |
 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 | 2024-08-06 | 2025-04-25 |
@@ -418,6 +419,7 @@
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-07-21 | 2023-10-08 |
 | [Nobody Else](https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Nobody Else](https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW) | 2:11 | 2025-01-24 | 2025-07-25 |
 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 | 2022-07-17 | 2024-09-13 |
+| [Not Mine](https://open.spotify.com/track/30IaXTyro4Zrv7DjwvxyzT) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd) | [Not Mine](https://open.spotify.com/album/0Fhj5asb25TbbWqdhSFRx8) | 2:25 | 2026-07-17 |  |
 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 | 2022-10-23 | 2024-09-13 |
 | [Not Us](https://open.spotify.com/track/5J2XkHNffLaVS3usFYQDWk) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Not Us](https://open.spotify.com/album/1n1hwtUmUMLu0ZTuTXZeLe) | 4:19 | 2023-03-10 | 2023-05-15 |
 | [Nothing On You](https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Nothing On You](https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV) | 3:45 | 2024-02-16 | 2024-11-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61152,
+  "num_followers": 61168,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH0XyCCHp8jOPPm05kGyg9JjuEp5",
+  "snapshot_id": "AAAAAL879AKLjxguEczm31TUV8oBj77n",
   "tracks": [
     {
       "added_at": "2026-07-09 22:01:19",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
+        "name": "Fr\u00fchjahrsputz auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        }
+      ],
+      "duration_ms": 118532,
+      "name": "No Problama",
+      "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
         "name": "Mango, Kiwi, Banana",
         "url": "https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 142105,
       "name": "Mango, Kiwi, Banana",
       "url": "https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
-        "name": "Fr\u00fchjahrsputz auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN"
-      },
-      "artists": [
-        {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        }
-      ],
-      "duration_ms": 118532,
-      "name": "No Problama",
-      "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -567,8 +567,8 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+      "duration_ms": 114258,
+      "name": "Plitsch, plitsch, platsch",
+      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -667,8 +667,8 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 114258,
-      "name": "Plitsch, plitsch, platsch",
-      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -743,18 +743,30 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+        "name": "Sommer",
+        "url": "https://open.spotify.com/album/07lh3EusxSMocrboK796JF"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Kinders",
+          "url": "https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        },
+        {
+          "name": "Remmi Demmi",
+          "url": "https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW"
+        },
+        {
+          "name": "Matti MC",
+          "url": "https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE"
         }
       ],
-      "duration_ms": 167090,
-      "name": "Baller mit meinem Rad",
-      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
+      "duration_ms": 185840,
+      "name": "Sommer",
+      "url": "https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -783,6 +795,22 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "Baller mit meinem Rad",
+      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
         "name": "Lern- und Spa\u00dflieder",
         "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
@@ -799,30 +827,22 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Sommer",
-        "url": "https://open.spotify.com/album/07lh3EusxSMocrboK796JF"
+        "name": "Sommer-Hits zum Tanzen",
+        "url": "https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk"
       },
       "artists": [
         {
-          "name": "Kinders",
-          "url": "https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN"
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
         },
         {
-          "name": "Gentleman",
-          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
-        },
-        {
-          "name": "Remmi Demmi",
-          "url": "https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW"
-        },
-        {
-          "name": "Matti MC",
-          "url": "https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE"
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
         }
       ],
-      "duration_ms": 185840,
-      "name": "Sommer",
-      "url": "https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc"
+      "duration_ms": 174403,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -895,22 +915,6 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
-      },
-      "artists": [
-        {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
         "name": "HIGHFIVE!",
         "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
@@ -923,6 +927,22 @@
       "duration_ms": 116826,
       "name": "Das Lied Vom Sommer",
       "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
+        "name": "Das Sommertier",
+        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
+      },
+      "artists": [
+        {
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 147571,
+      "name": "Das Sommertier",
+      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -943,26 +963,6 @@
       "duration_ms": 215400,
       "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
       "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
-        "name": "Sommer-Hits zum Tanzen",
-        "url": "https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk"
-      },
-      "artists": [
-        {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 174403,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG"
     },
     {
       "added_at": "2026-07-09 22:01:19",

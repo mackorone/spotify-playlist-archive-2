@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "copos pro alto, cada um com o seu. Foto: MD Chefe, Maru2D, NandaTsunami\n",
+  "description": "copos pro alto, cada um com o seu. Foto: MC Vinny, MC Leozinho ZS, Ryu, the Runner, Bomfino\n",
   "name": "Cop\u00e3o na M\u00e3o",
   "tracks": [
     {
@@ -6111,6 +6111,36 @@
     },
     {
       "album": {
+        "name": "Giro de Gang",
+        "url": "https://open.spotify.com/album/0AuGPauITZ7Sj9VN6SsTqu"
+      },
+      "artists": [
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC RBL",
+          "url": "https://open.spotify.com/artist/0ZzPhUnRky9vfQp3nGXqy2"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "DJ PADILHA",
+          "url": "https://open.spotify.com/artist/7Lg5dD0Tr4jjAe2EwrG3q9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164217,
+      "name": "Giro de Gang",
+      "url": "https://open.spotify.com/track/1fRDjy3Ovdv3prvNFMFJ1b"
+    },
+    {
+      "album": {
         "name": "TREM ASTRO, VOL. 1",
         "url": "https://open.spotify.com/album/5YiQzfty0RY8JAB4bx7pHK"
       },
@@ -6212,7 +6242,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 96000,
       "name": "Grana Ameniza",
       "url": "https://open.spotify.com/track/0Z4cCOQdn9RI49pZkLE5ip"
@@ -6372,7 +6402,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 149176,
       "name": "Hiphop X Funk",
       "url": "https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84"
@@ -11094,6 +11124,36 @@
       "duration_ms": 175652,
       "name": "Perigo e Adrenalina",
       "url": "https://open.spotify.com/track/0SjJA0HfTrNLu2qWQfHbbM"
+    },
+    {
+      "album": {
+        "name": "Rugal & Bomfino",
+        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204562,
+      "name": "Pique B.I.G",
+      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
     },
     {
       "album": {

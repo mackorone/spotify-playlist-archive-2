@@ -7093,6 +7093,32 @@
     },
     {
       "album": {
+        "name": "Would U Still Love Me (Lost Frequencies Remix)",
+        "url": "https://open.spotify.com/album/75WuhFSrO6zwF3qoOo7BY1"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210117,
+      "name": "Would U Still Love Me - Lost Frequencies Remix",
+      "url": "https://open.spotify.com/track/5lOWfc1NK658UODwiHde9m"
+    },
+    {
+      "album": {
         "name": "XENA",
         "url": "https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA"
       },

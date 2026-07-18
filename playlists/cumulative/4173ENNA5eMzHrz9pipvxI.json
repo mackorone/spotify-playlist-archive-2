@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Joel Corry",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lucas &amp; Steve",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/5QojSpPbS1dTNb5HjGXtdR"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173561,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/2W69oGQSekiLskq5xBnDMa"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
       },
@@ -1714,6 +1732,28 @@
       "duration_ms": 202857,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6t4KvBSTG8J4u50RZiEob6"
+    },
+    {
+      "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178112,
+      "name": "Allein",
+      "url": "https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI"
     },
     {
       "album": {
@@ -11180,6 +11220,28 @@
       "duration_ms": 141562,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/7CGhmBhly2zi3uonHCJNvy"
+    },
+    {
+      "album": {
+        "name": "Echo Sax Finale",
+        "url": "https://open.spotify.com/album/7gGVmp0etPwdJO0KRfWxpn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Caleb Arredondo",
+          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Echo Sax Finale",
+      "url": "https://open.spotify.com/track/5r87pH2ofTqx375POjVKtc"
     },
     {
       "album": {
@@ -21312,6 +21374,28 @@
       "duration_ms": 205161,
       "name": "La Piedra (feat. Courage)",
       "url": "https://open.spotify.com/track/4n2CTCUbAO1GNyaoE5tjRu"
+    },
+    {
+      "album": {
+        "name": "La R\u00e9volution",
+        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132492,
+      "name": "La R\u00e9volution",
+      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
     },
     {
       "album": {

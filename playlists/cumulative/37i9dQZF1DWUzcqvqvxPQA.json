@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "WASHED",
+        "url": "https://open.spotify.com/album/5ADw2IQlPkheuMun7AuYBc"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262935,
+      "name": "AMAZING!",
+      "url": "https://open.spotify.com/track/6sBqTPsiudzkESXDpPI6t5"
+    },
+    {
+      "album": {
         "name": "BRKNHRT.",
         "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
       },
@@ -4302,7 +4324,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 154743,
       "name": "Joy Is Coming",
       "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
@@ -4788,7 +4810,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 199698,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
@@ -6526,6 +6548,24 @@
       "duration_ms": 168011,
       "name": "PRAISES",
       "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
+    },
+    {
+      "album": {
+        "name": "PRAISES",
+        "url": "https://open.spotify.com/album/3ptV9Yg8clueXDRPg9UbJi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118235,
+      "name": "PRAISES",
+      "url": "https://open.spotify.com/track/34t0ep5VWvXuXr3NhqHXQC"
     },
     {
       "album": {

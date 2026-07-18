@@ -38767,6 +38767,28 @@
     },
     {
       "album": {
+        "name": "Yen Ennai Edho Seidhai",
+        "url": "https://open.spotify.com/album/0HJlaSJPNC8vX2eDDZtxgB"
+      },
+      "artists": [
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao"
+        },
+        {
+          "name": "Ashok Sridharan",
+          "url": "https://open.spotify.com/artist/2tHuAUFm3F7JiRYLwWfAJn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259024,
+      "name": "Oru Kannil Dhooram",
+      "url": "https://open.spotify.com/track/45rRp1aewHjKqTRUEioB9a"
+    },
+    {
+      "album": {
         "name": "Oru Kozhi Mutta (From \"Kalvan\")",
         "url": "https://open.spotify.com/album/060SXl1UEg5E2e1Wj4vipd"
       },
@@ -47280,6 +47302,24 @@
       "duration_ms": 283989,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/6Bpw8uOJh6NrZLDki344F0"
+    },
+    {
+      "album": {
+        "name": "See U First Sight (From \"See U\")",
+        "url": "https://open.spotify.com/album/5yHpRilL1dOJseZOkoDi5K"
+      },
+      "artists": [
+        {
+          "name": "Zenem",
+          "url": "https://open.spotify.com/artist/1DGpNBpczneCeevnI1h9Ve"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96623,
+      "name": "See U First Sight (From \"See U\")",
+      "url": "https://open.spotify.com/track/0WZE2SS49o7Wt1cw9TwmIJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Love was never part of the deal\. Listen to the music from and inspired by Off Campus, now streaming on Prime Video.
 
-91 songs - 4 hr 42 min
+93 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Caviar](https://open.spotify.com/track/4KUlGVSH4RA2CfWSPSjdBT) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Caviar](https://open.spotify.com/album/4rF8JsfE10joSqpODoMChx) | 2:58 | 2026-05-13 |  |
 | [Chain of Need](https://open.spotify.com/track/08x3rjtv6vftWUnrtlrNYt) | [Benjamin Jaffe](https://open.spotify.com/artist/0K4xABO3tH5Z7QgQknJekh), [A Gifted Community](https://open.spotify.com/artist/49YfhdEgdVxVLdJSAPVn5z) | [Enlightenment with Bill.E](https://open.spotify.com/album/7ICwZW9IZ8uyxAulTGv8AD) | 4:17 | 2026-05-13 |  |
 | [Chaos](https://open.spotify.com/track/6buCW8HCS0xXRNB0INx5Le) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [What You Expect](https://open.spotify.com/album/6aLBUWVN4WcBAJeJ7nI6j1) | 3:00 | 2026-05-13 |  |
+| [Cherry Pie](https://open.spotify.com/track/0AGI7TpDj9MvEbmdU0py0p) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Cherry Pie](https://open.spotify.com/album/0KYNPQBnu83NxDeob6XpwB) | 3:13 | 2026-07-17 |  |
 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 | 2026-05-13 |  |
 | [Cinderella](https://open.spotify.com/track/46clCWv55EyW1ZlOl796It) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 4:03 | 2026-05-13 |  |
 | [Convent Walls](https://open.spotify.com/track/3JanPyBox7YLT5oxeaxH3d) | [The Pretty Flowers](https://open.spotify.com/artist/7sGS3BzfNKOjZLM2rFrAbM) | [Never Felt Bitter](https://open.spotify.com/album/10QYmkGQ0Lqqpic4uP6iIV) | 4:26 | 2026-05-13 |  |
@@ -81,6 +82,7 @@
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2026-05-13 |  |
 | [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 | 2026-05-13 |  |
 | [Take Me Home Country Roads](https://open.spotify.com/track/6ALdFWIeMAd0BKUMBIuuxo) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1PI3JjctHVS3Z1WyXwCuvI) | 2:09 | 2026-05-13 |  |
+| [The Bitch Is Back](https://open.spotify.com/track/5B1ovpM35BYEZSQwspYl0W) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [The Bitch Is Back](https://open.spotify.com/album/0TVdBd2Un1ASEDWL1qbaH8) | 3:23 | 2026-07-17 |  |
 | [The Bitch Is Back](https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 3:44 | 2026-05-13 |  |
 | [The Ghost is Me](https://open.spotify.com/track/0Nt924JpLD9cHmL6st1cf0) | [Flora from Kansas](https://open.spotify.com/artist/7iFI9hPXE5wlU7vnxo9e48) | [The Ghost is Me](https://open.spotify.com/album/1YAWTvhlbmzk5sfyC7gMtn) | 2:20 | 2026-05-13 |  |
 | [This Too Shall Pass](https://open.spotify.com/track/0cRWZO0X3gsEgKUeX3NUic) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Twelve Remixes of Four Songs](https://open.spotify.com/album/4ZLeBjaeqwJegAL9IHe6Ng) | 3:08 | 2026-05-13 |  |

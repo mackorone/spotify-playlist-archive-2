@@ -1805,6 +1805,32 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3Qabx7eEI7BWPv7OXonGZa"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "Kindrid",
+          "url": "https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277636,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/3elQqKon4DoPytJDJLDNnG"
+    },
+    {
+      "album": {
         "name": "Hear Me Out (Hel:sl\u00f8wed Remix)",
         "url": "https://open.spotify.com/album/4oqPBZ0tn7Toj5CtOJZJk1"
       },

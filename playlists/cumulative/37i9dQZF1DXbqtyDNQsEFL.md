@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Anna Makula
 
-783 songs - 2 day 19 hr 49 min
+783 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,7 +681,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2024-07-19 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-07-07 |  |
 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 | 2025-05-30 |  |
-| [Track 1](https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Love at Home \(Vol\. 2\)](https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI) | 0:00 | 2026-07-17 |  |
 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 | 2023-07-28 | 2024-07-27 |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-10 |
 | [Trust You](https://open.spotify.com/track/0NKi8ZMlifzwbQq2IyK8jx) | [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP) | [Trust You](https://open.spotify.com/album/1w3dJc5Uyfnmyc4UOlSVVM) | 5:13 | 2023-11-17 | 2023-12-09 |
@@ -784,6 +783,7 @@
 | [Your Name \(Jesus\)](https://open.spotify.com/track/0fT8IVJIw3zwTW8TnAcBpQ) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Breathe](https://open.spotify.com/album/254N1MBygkKvBoWrKToJ0K) | 4:27 | 2023-12-05 | 2023-12-11 |
 | [Your Presence](https://open.spotify.com/track/6aqzwVVsawK5WSmlqleua4) | [Israel Odebode](https://open.spotify.com/artist/5OI7lbxEo6Aful1qsoBlnk), [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Your Presence](https://open.spotify.com/album/4jvUvzmRzwUWu74HtHYrLW) | 8:55 | 2022-10-14 | 2022-11-05 |
 | [Your Presence](https://open.spotify.com/track/1ltbxXZhq2pdWcOmo8HXL6) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Your Presence](https://open.spotify.com/album/3M4GSnoWcAoeHA1Ubo6UJP) | 4:55 | 2026-02-27 | 2026-05-22 |
+| [Your Way](https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Love at Home \(Vol\. 2\)](https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI) | 2:26 | 2026-07-17 |  |
 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 | 2025-03-07 | 2025-05-31 |
 | [Yours Truly](https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb), [Ugoaelo](https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT) | [Yours Truly](https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2) | 2:53 | 2026-07-17 |  |
 | [You’re Not There \- SizzlePro Remix](https://open.spotify.com/track/7I1qDDCR26tH726SRnipaN) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [SizzlePRO](https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf) | [You’re Not There \(SizzlePro Remix\)](https://open.spotify.com/album/3bdhLYbdEa6eZAWBhZK17p) | 4:44 | 2025-08-15 | 2025-09-06 |

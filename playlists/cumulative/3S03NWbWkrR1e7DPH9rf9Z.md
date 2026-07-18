@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-254 songs - 12 hr 24 min
+255 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Powerhouse](https://open.spotify.com/track/44qhkWQvfoSVJ8Aa4EPtUs) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Powerhouse](https://open.spotify.com/album/7lIbGOvM7puHbyLssuCB7c) | 2:55 | 2026-04-24 |  |
 | [Prominent](https://open.spotify.com/track/4pms9OjqQ5FdU4dXjPEm8r) | [Alex Ender](https://open.spotify.com/artist/4tVEnDtBhp4mjGvkgXlp1d), [Joop](https://open.spotify.com/artist/787pjl8QjVnQzg7GgINf9r) | [Prominent](https://open.spotify.com/album/0sBSi2fL73hHfLfUMNdXQy) | 2:00 | 2025-07-04 |  |
 | [Pyro Wasp](https://open.spotify.com/track/3S6ZiAgiBiIdCFOHuLUKw8) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Pyro Wasp](https://open.spotify.com/album/67UTLWI6WChtcUtqUKdzoH) | 2:55 | 2026-05-21 |  |
+| [Rave It](https://open.spotify.com/track/7i7St3C83Y4x0ZGRCeBPVw) | [Ian Redman](https://open.spotify.com/artist/1ZWdwbBleF8o1Pyrq46dBa) | [Rave It](https://open.spotify.com/album/5P9aENKuMJtZUjFJkXvukM) | 3:15 | 2026-07-17 |  |
 | [Ravers Of The Night](https://open.spotify.com/track/2MhVERzSRYyWlyuCnQbQ6H) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [ALEJANDRO](https://open.spotify.com/artist/04qwzk49excRTxwyOJ66KR) | [Ravers Of The Night](https://open.spotify.com/album/0qiOQ5yVlLsBegEmeVUvFv) | 2:52 | 2025-07-04 | 2025-10-30 |
 | [Ready To The Grave](https://open.spotify.com/track/4jVl7BfcMfesbi3fT2utk2) | [Prilho](https://open.spotify.com/artist/1F1MraLAdnpa7Pqg5K3Eg8), [D4NIM](https://open.spotify.com/artist/1TtbViLPtFWt264Ym5g3Ci) | [Ready To The Grave](https://open.spotify.com/album/4UVsQRXrd48sk1HoQzzPBz) | 2:58 | 2025-07-04 | 2026-06-26 |
 | [Reality](https://open.spotify.com/track/3zelZrqVfNqt2YQU0bGrNk) | [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Reality](https://open.spotify.com/album/3waoqzcmu9L04AUQa3koe2) | 3:20 | 2025-07-04 | 2026-01-23 |

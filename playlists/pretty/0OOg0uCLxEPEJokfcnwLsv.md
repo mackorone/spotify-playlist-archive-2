@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,163 likes - 124 songs - 7 hr 41 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,168 likes - 128 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 122 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 |
 | 123 | [Night Souls.](https://open.spotify.com/track/17ZiSP3MD7bGbjigAWDuuR) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Unfinished Dreams.](https://open.spotify.com/album/5QJ89klD5afW3F1u0G5HQt) | 4:31 |
 | 124 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 |
+| 125 | [The Squeeze](https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [The Squeeze](https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ) | 4:01 |
+| 126 | [Apothecary](https://open.spotify.com/track/7hj1rSYzSvd6Fl1QoWhdr3) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Rebel Heart](https://open.spotify.com/album/4ntykUJB1DDCEa6PKHFh84) | 3:52 |
+| 127 | [My Rebirth](https://open.spotify.com/track/37PjHfN79hZxX1BWZbeEdQ) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:27 |
+| 128 | [Garden](https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4E9KtAlL6nobcjWgvidsY3) | 3:36 |
 
-Snapshot ID: `AAAGomRsLZI9mIdZksE4dSIl/YaAja9k`
+Snapshot ID: `AAAGpsGI4rvYAO8sh8FUaaQCKAE3RV4C`

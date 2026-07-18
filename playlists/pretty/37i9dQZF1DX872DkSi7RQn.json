@@ -1,6 +1,6 @@
 {
   "description": "The IDs that got us here. #Spotify20",
-  "num_followers": 5973,
+  "num_followers": 5977,
   "original_name": "Our Favorite IDs from the Last 20 Years",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 287440,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/0NtySRW0yZHYPyRlt1pP7q"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Justin99, Pcee, EeQue, & Chley)",
       "url": "https://open.spotify.com/track/0c5uvxHB8Fhy9YmnO4KOHk"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 222407,
-      "name": "I <3 U SO",
-      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "Prayer (Edit)",
+        "url": "https://open.spotify.com/album/4fW8eARlhtdJkC2b3IeolF"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 226341,
+      "name": "Prayer - Edit",
+      "url": "https://open.spotify.com/track/4Gd5Cxw7V4JCM9Uj6VpiwL"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "Freedom 2",
         "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Prayer (Edit)",
-        "url": "https://open.spotify.com/album/4fW8eARlhtdJkC2b3IeolF"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 226341,
-      "name": "Prayer - Edit",
-      "url": "https://open.spotify.com/track/4Gd5Cxw7V4JCM9Uj6VpiwL"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "It's the Arps",
         "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 400751,
       "name": "Inspector Norse",
       "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Bad Kingdom",
-      "url": "https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -787,6 +771,22 @@
       "duration_ms": 327138,
       "name": "Brighter Days - Dajae- Underground Mix '93",
       "url": "https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Bad Kingdom",
+      "url": "https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Paradise Garage: Inspirations",
-        "url": "https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC"
-      },
-      "artists": [
-        {
-          "name": "Rolando",
-          "url": "https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Knights of the Jaguar",
-      "url": "https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "Paradise Garage: Inspirations",
+        "url": "https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC"
+      },
+      "artists": [
+        {
+          "name": "Rolando",
+          "url": "https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Knights of the Jaguar",
+      "url": "https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "2012 - 2017",
-        "url": "https://open.spotify.com/album/66MpVM5Cdjt3Vglq83gIzf"
-      },
-      "artists": [
-        {
-          "name": "Against All Logic",
-          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
-        }
-      ],
-      "duration_ms": 218959,
-      "name": "This Old House Is All I Have",
-      "url": "https://open.spotify.com/track/1C1cqpQ9UP24fQVHJPrEGA"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Boxed Off",
         "url": "https://open.spotify.com/album/6KlT5wd8PMU5j2bzQ7L4bp"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 366829,
       "name": "Forget",
       "url": "https://open.spotify.com/track/7aBOeUzDz8JIhBYYgKZJih"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "2012 - 2017",
+        "url": "https://open.spotify.com/album/66MpVM5Cdjt3Vglq83gIzf"
+      },
+      "artists": [
+        {
+          "name": "Against All Logic",
+          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
+        }
+      ],
+      "duration_ms": 218959,
+      "name": "This Old House Is All I Have",
+      "url": "https://open.spotify.com/track/1C1cqpQ9UP24fQVHJPrEGA"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "acts of rebellion",
-        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 261590,
-      "name": "el cielo no es de nadie",
-      "url": "https://open.spotify.com/track/6ZJdW1sZg4zATn9EKih013"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "HYBRID: A Decade Of Dubfire",
         "url": "https://open.spotify.com/album/6XMKjGOdmOQBAs1ogp4B0Y"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 496000,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/70bNn1Q83HtKuySvCTOh7M"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "acts of rebellion",
+        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 261590,
+      "name": "el cielo no es de nadie",
+      "url": "https://open.spotify.com/track/6ZJdW1sZg4zATn9EKih013"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1739,22 +1739,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Diary Of An Afro Warrior (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K"
+        "name": "Beg",
+        "url": "https://open.spotify.com/album/00Pe7GWhQLFpqv6Ir1zW86"
       },
       "artists": [
         {
-          "name": "Benga",
-          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+          "name": "Yousef",
+          "url": "https://open.spotify.com/artist/6qIx4vKCCV9aW1CvTR3GES"
         },
         {
-          "name": "Coki",
-          "url": "https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 356693,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/2ST4rHwfdfkuArUKvdGn8a"
+      "duration_ms": 410730,
+      "name": "Beg - Hot Since 82 Future Mix",
+      "url": "https://open.spotify.com/track/4RjnbnZ6xGHDYFbywiiQ3I"
     }
   ],
   "unique_name": "Our Favorite IDs from the Last 20 Years",

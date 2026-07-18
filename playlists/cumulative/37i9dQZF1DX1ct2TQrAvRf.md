@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- Yo Yo Honey Singh
+> India's Rap Scene\. Cover \- SMG
 
-412 songs - 22 hr 5 min
+413 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2023-03-27 | 2024-07-06 |
 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 | 2023-03-27 | 2024-07-06 |
 | [Entha Kaalam?](https://open.spotify.com/track/0jXUL8IVFv5ZNYxBKcmko4) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Entha Kaalam?](https://open.spotify.com/album/1BP62JNr9MjtpOX0g0f4Ab) | 2:35 | 2023-06-01 | 2023-06-09 |
+| [EX\-FILES](https://open.spotify.com/track/4pFgcMU0LSo73Df61Cge6U) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [EX\-FILES](https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U) | 3:16 | 2026-07-17 |  |
 | [Eyes on Me](https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Eyes on Me](https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW) | 2:34 | 2026-05-15 |  |
 | [F\*CK WHAT THEY SAY](https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 4:52 | 2024-08-02 | 2025-02-15 |
 | [F16](https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:29 | 2023-03-27 | 2023-06-09 |
@@ -150,7 +151,7 @@
 | [Goat Dekho](https://open.spotify.com/track/0rpcam9O6KfmWqSYp4q8PM) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Goat Dekho](https://open.spotify.com/album/4IvljiJx9k9Vuog309ll8r) | 3:33 | 2023-03-27 | 2023-06-02 |
 | [GOAT SHIT](https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [GOAT SHIT](https://open.spotify.com/album/6VpwWq8ScclabGnlL6JqJT) | 3:51 | 2024-05-31 | 2025-02-15 |
 | [God Bless](https://open.spotify.com/track/1lP0yP0eN5Btj0zjFX72r6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y), [Ranbir Singh](https://open.spotify.com/artist/4tLqy17NOYpoJKW8Tdpwtl) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:05 | 2025-10-24 | 2026-02-28 |
-| [GOD STYLE](https://open.spotify.com/track/1vC0cqMXGJGtkevc8VkwFh) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GOD STYLE](https://open.spotify.com/album/5logHeMLdBwiVTiQuIkA5g) | 2:16 | 2026-06-26 |  |
+| [GOD STYLE](https://open.spotify.com/track/1vC0cqMXGJGtkevc8VkwFh) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GOD STYLE](https://open.spotify.com/album/5logHeMLdBwiVTiQuIkA5g) | 2:16 | 2026-06-26 | 2026-07-18 |
 | [Google Pay](https://open.spotify.com/track/4jqdTjX083euOxkKqJu0O2) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Google Pay](https://open.spotify.com/album/0T9gW7u5hAO5U15nFDlaxn) | 3:51 | 2023-03-27 | 2023-04-20 |
 | [Gourmet Shit!](https://open.spotify.com/track/5J9a8TXC2zF4KuUdm7CgT6) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 3:30 | 2024-12-20 | 2025-02-01 |
 | [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2023-03-27 | 2024-07-06 |

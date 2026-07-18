@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Alternative indie music etc. Cover: Magi Merlin",
+  "description": "Alternative indie music etc. Cover: Oxis",
   "name": "anti pop",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 159506,
       "name": "12 Feet Deep (feat. Gallant)",
       "url": "https://open.spotify.com/track/2Q1DukoAb4McJagqq4wqli"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 124458,
       "name": "6YRS",
       "url": "https://open.spotify.com/track/58jQYefzDe8XR3MSfC7nT7"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 134070,
       "name": "All in My Head",
       "url": "https://open.spotify.com/track/5dWGLHS64oakLuzPJ7MIua"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 146312,
       "name": "AppleBottomCigarets",
       "url": "https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 170026,
       "name": "Big Dog",
       "url": "https://open.spotify.com/track/6PEqJY7YoICdN1lI7y2bwd"
@@ -4806,7 +4806,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 204266,
       "name": "buttons",
       "url": "https://open.spotify.com/track/0LFNBiDtOFKhSWWPUi0avw"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 184023,
       "name": "Camouflage",
       "url": "https://open.spotify.com/track/45ybqd2Egw9NyJeCRYjMx4"
@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 123499,
       "name": "chicken shop date",
       "url": "https://open.spotify.com/track/1VphQQ238vWd0vsrDdmlxo"
@@ -8823,6 +8823,24 @@
     },
     {
       "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292780,
+      "name": "doom",
+      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
+    },
+    {
+      "album": {
         "name": "double standard",
         "url": "https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4"
       },
@@ -8906,7 +8924,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 178823,
       "name": "Down The River",
       "url": "https://open.spotify.com/track/1zsXogZn4g53dK57TA5k2Q"
@@ -9192,7 +9210,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 95000,
       "name": "DUMB SHIT",
       "url": "https://open.spotify.com/track/4irpRlIMiV8QWyJuvGKfJP"
@@ -9464,7 +9482,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 207046,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0"
@@ -9544,6 +9562,24 @@
       "duration_ms": 202605,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU"
+    },
+    {
+      "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166809,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6"
     },
     {
       "album": {
@@ -9750,7 +9786,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 108504,
       "name": "Everglades",
       "url": "https://open.spotify.com/track/02FkZqM5go6FyrOS85qzAa"
@@ -10780,7 +10816,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 135000,
       "name": "FIGURE IT OUT",
       "url": "https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1"
@@ -11098,7 +11134,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 134000,
       "name": "For The Both Of Us",
       "url": "https://open.spotify.com/track/3LoZzlKzoQWeWgOkzAwygl"
@@ -13008,7 +13044,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 122449,
       "name": "Gore",
       "url": "https://open.spotify.com/track/06BR8msPSDY6juODU1FdhE"
@@ -15309,6 +15345,24 @@
     },
     {
       "album": {
+        "name": "1331",
+        "url": "https://open.spotify.com/album/5z015dWdJkUF0ngJM9s1O4"
+      },
+      "artists": [
+        {
+          "name": "Sad13",
+          "url": "https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90053,
+      "name": "I Am Now Completely Invisible",
+      "url": "https://open.spotify.com/track/7N2UFnHc6SoOobPdHwPDZx"
+    },
+    {
+      "album": {
         "name": "I Am Yours (Blister)",
         "url": "https://open.spotify.com/album/4UFJaAPFXI8J9ywCCdfK12"
       },
@@ -15632,7 +15686,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 210866,
       "name": "I Know What Everyone Says About Me",
       "url": "https://open.spotify.com/track/2VWb5h4WeuNgd54p7pk7ay"
@@ -15798,7 +15852,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 251294,
       "name": "i used to live in england",
       "url": "https://open.spotify.com/track/0uuZQzCl0bTKxhhDWahC5F"
@@ -15972,7 +16026,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 160223,
       "name": "I'm Here Now",
       "url": "https://open.spotify.com/track/55a14ZhAFXUbdNIKTT1b4N"
@@ -16652,7 +16706,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 123428,
       "name": "In The City, Outta Town (Dance)",
       "url": "https://open.spotify.com/track/3ghoPalyReJD1MmBTNeR4Q"
@@ -17090,7 +17144,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 246000,
       "name": "Jinx!",
       "url": "https://open.spotify.com/track/3w1ucTrSOwo6XHmYUbTCyo"
@@ -20500,7 +20554,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 170000,
       "name": "Milkman",
       "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
@@ -22048,7 +22102,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 235390,
       "name": "No One Cares",
       "url": "https://open.spotify.com/track/2cy0X5lmmob7Orr6HvDEWt"
@@ -22164,7 +22218,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156572,
       "name": "No Sudden Movements",
       "url": "https://open.spotify.com/track/3JE3FICmxG25cuwblbIeaz"
@@ -22836,6 +22890,24 @@
       "duration_ms": 244720,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4g83PCfbuS7n8QqOGnhGTC"
+    },
+    {
+      "album": {
+        "name": "On Site",
+        "url": "https://open.spotify.com/album/0GnuMypcXChTFmwaL0Sct0"
+      },
+      "artists": [
+        {
+          "name": "WHATMORE",
+          "url": "https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "On Site",
+      "url": "https://open.spotify.com/track/6RF0m3BWCgNhDbmwFsTwLi"
     },
     {
       "album": {
@@ -24154,6 +24226,24 @@
       "duration_ms": 265263,
       "name": "Photo ID",
       "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
+    },
+    {
+      "album": {
+        "name": "PHYSICAL WORLD",
+        "url": "https://open.spotify.com/album/2CyhN1rQnwRHWbpMs7Xylw"
+      },
+      "artists": [
+        {
+          "name": "MUTTLEE",
+          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "PHYSICAL WORLD",
+      "url": "https://open.spotify.com/track/1MQNwaGaRnSGh3FlHHF2X1"
     },
     {
       "album": {
@@ -25520,7 +25610,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 134769,
       "name": "quiet pain",
       "url": "https://open.spotify.com/track/5jhucekXJa0ayu6qDSBIHu"
@@ -25850,7 +25940,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 181894,
       "name": "REAL ONES NEVER DIE",
       "url": "https://open.spotify.com/track/1o15Kj7F3nlLaZNIbjFb4r"
@@ -28714,7 +28804,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 191880,
       "name": "Smugglers & Scholars",
       "url": "https://open.spotify.com/track/0cQjawSUdvCmCjJDeqPkt1"
@@ -29434,7 +29524,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 155043,
       "name": "Spiderwick",
       "url": "https://open.spotify.com/track/4UCqjBmojNNvJdS0ASVPY5"
@@ -31181,6 +31271,24 @@
     },
     {
       "album": {
+        "name": "TAKE ME FOR A SPIN",
+        "url": "https://open.spotify.com/album/2Ly9qjbIxjYWbREJ8HY9Og"
+      },
+      "artists": [
+        {
+          "name": "Runway the Catwalker",
+          "url": "https://open.spotify.com/artist/0v7OXAWuYuTZJGeHKwGhkQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185085,
+      "name": "TAKE ME FOR A SPIN",
+      "url": "https://open.spotify.com/track/6dfZnxUgnju0wQ0CWTUEyu"
+    },
+    {
+      "album": {
         "name": "take me to the moon",
         "url": "https://open.spotify.com/album/6WZfKL7Lhhyqb84wMeejQJ"
       },
@@ -32490,10 +32598,28 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 150957,
       "name": "THERAPIST",
       "url": "https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow"
+    },
+    {
+      "album": {
+        "name": "Emotional Junglist",
+        "url": "https://open.spotify.com/album/0Q7HPYmrJWTXUnf3QqRx3W"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156054,
+      "name": "There Goes Ma Head",
+      "url": "https://open.spotify.com/track/0ceKqpXrrC3CtFwFiLJeoY"
     },
     {
       "album": {
@@ -32862,6 +32988,24 @@
       "duration_ms": 107264,
       "name": "tijuana freestyle",
       "url": "https://open.spotify.com/track/65QPUGmU2k5XgW4KBQvrds"
+    },
+    {
+      "album": {
+        "name": "Oxis 9",
+        "url": "https://open.spotify.com/album/5awexwsI3WGjVeU5TmhG7p"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134444,
+      "name": "Tilapia",
+      "url": "https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n"
     },
     {
       "album": {
@@ -34008,7 +34152,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 145945,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/2h19ZQ4kVsnTDj4yw9cXrL"
@@ -35072,7 +35216,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 133270,
       "name": "wasted time",
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
@@ -35455,6 +35599,32 @@
     },
     {
       "album": {
+        "name": "The Odyssey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326909,
+      "name": "When I\u2019m Home",
+      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
+    },
+    {
+      "album": {
         "name": "When Will This Body Be Mine?",
         "url": "https://open.spotify.com/album/239Ck9S3prFwGDTSdxdLxN"
       },
@@ -35746,6 +35916,24 @@
       "duration_ms": 164467,
       "name": "WHY WAIT? (feat. Cisco Swank)",
       "url": "https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65"
+    },
+    {
+      "album": {
+        "name": "WHY'D YOU HAVE TO GO THERE",
+        "url": "https://open.spotify.com/album/0tfeRWFqNW5MmyUZ7ltotv"
+      },
+      "artists": [
+        {
+          "name": "ZIG MENTALITY",
+          "url": "https://open.spotify.com/artist/3LlnfJdyvokTn7n9yHIAsX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177285,
+      "name": "WHY'D YOU HAVE TO GO THERE",
+      "url": "https://open.spotify.com/track/4PElKeEniFFnlYceryQUhB"
     },
     {
       "album": {
@@ -36402,7 +36590,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 150898,
       "name": "You Look Good",
       "url": "https://open.spotify.com/track/0emfAytOoEUXLiKvk38ENU"

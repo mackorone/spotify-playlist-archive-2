@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Paula Pera y el fin de los Tiempos",
+  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Lido Pimienta",
   "name": "Indie Colombia",
   "tracks": [
     {
@@ -1656,6 +1656,24 @@
       "duration_ms": 236707,
       "name": "Marchito",
       "url": "https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb"
+    },
+    {
+      "album": {
+        "name": "Marea",
+        "url": "https://open.spotify.com/album/1CxXV7NN4SXRWua4esjSu3"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188363,
+      "name": "Marea",
+      "url": "https://open.spotify.com/track/7l4pU3dvBHZ4Lwj39L4M6q"
     },
     {
       "album": {

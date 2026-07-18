@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002 Gracie Abrams, Steve Lacy, beabadoobee, M!LK and more!",
-  "num_followers": 165031,
+  "num_followers": 165438,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -398,6 +398,14 @@
         {
           "name": "Powfu",
           "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        },
+        {
+          "name": "evertree",
+          "url": "https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6"
         }
       ],
       "duration_ms": 162750,
@@ -551,6 +559,22 @@
     {
       "added_at": "2026-07-17 01:44:39",
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0qRG44VeY94sZsFg29SeEy"
+      },
+      "artists": [
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "A New Life",
+      "url": "https://open.spotify.com/track/4myZPKVB0IB56ALzlBUEvt"
+    },
+    {
+      "added_at": "2026-07-17 01:44:39",
+      "album": {
         "name": "Dead Fresh",
         "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136"
       },
@@ -594,10 +618,14 @@
         {
           "name": "Rick Ross",
           "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 148547,
+      "name": "Living Large",
       "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
     },
     {
@@ -891,6 +919,22 @@
       "duration_ms": 171172,
       "name": "Pop Sound",
       "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
+    },
+    {
+      "added_at": "2026-07-17 01:44:39",
+      "album": {
+        "name": "CHAT",
+        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "CHAT",
+      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
     },
     {
       "added_at": "2026-07-17 01:44:39",

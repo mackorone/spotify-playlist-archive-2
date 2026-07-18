@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Mind of Its Own",
+        "url": "https://open.spotify.com/album/5FK5O8blw0mx2TNF9pbNoh"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136824,
+      "name": "A Mind of Its Own",
+      "url": "https://open.spotify.com/track/35mQEXxPjLE7bRqATxNPRR"
+    },
+    {
+      "album": {
         "name": "A New Way",
         "url": "https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 152903,
       "name": "adieu",
       "url": "https://open.spotify.com/track/6nDr6kqqRDetH1G6kDooNJ"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/3lkr1Ixrz5udnpZvHtabNX"
+      },
+      "artists": [
+        {
+          "name": "Thiago Hernan",
+          "url": "https://open.spotify.com/artist/2HbMVXQwDL2R3QfZIIMXfv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167473,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7aJQ078GzZGqewi2oyPKGS"
     },
     {
       "album": {
@@ -430,7 +466,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 120941,
       "name": "Astray",
       "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
@@ -524,6 +560,24 @@
       "duration_ms": 150514,
       "name": "Autumn Song",
       "url": "https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq"
+    },
+    {
+      "album": {
+        "name": "Away We Shine",
+        "url": "https://open.spotify.com/album/0Fl2xCLRulc6kYi7knljGB"
+      },
+      "artists": [
+        {
+          "name": "Sierra Loves the Moon",
+          "url": "https://open.spotify.com/artist/4yDeKWRVpzrrzuqxX5bxgV"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231810,
+      "name": "Away We Shine",
+      "url": "https://open.spotify.com/track/522nNFGt0Z1Wg2VJHDoyws"
     },
     {
       "album": {
@@ -833,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Come to fade",
+        "url": "https://open.spotify.com/album/5OF7aI2BRyRuz3Xayh66Gt"
+      },
+      "artists": [
+        {
+          "name": "Vochey",
+          "url": "https://open.spotify.com/artist/02z03d6JvUT8uGF4ssw7B9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Come to fade",
+      "url": "https://open.spotify.com/track/3JKpdXh2zXmnzyfhLR6zwf"
+    },
+    {
+      "album": {
         "name": "Connemara",
         "url": "https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND"
       },
@@ -870,7 +942,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 147830,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/65lddH3h121XMhXaVkazVG"
@@ -1090,6 +1162,24 @@
       "duration_ms": 167124,
       "name": "Don't Ever Say Goodbye",
       "url": "https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5"
+    },
+    {
+      "album": {
+        "name": "Dos Miradas",
+        "url": "https://open.spotify.com/album/2rE19S7ZByiSPYecR3Ptrj"
+      },
+      "artists": [
+        {
+          "name": "Leddei",
+          "url": "https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Dos Miradas",
+      "url": "https://open.spotify.com/track/16FcTxjtqiRFkVxSj4PjEp"
     },
     {
       "album": {
@@ -1338,7 +1428,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 155321,
       "name": "Emollient",
       "url": "https://open.spotify.com/track/3Dq9w7HbtqlVHzTCQebVcl"
@@ -1446,7 +1536,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 152500,
       "name": "Eridani",
       "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
@@ -1724,6 +1814,24 @@
       "duration_ms": 131994,
       "name": "Flowing Waters",
       "url": "https://open.spotify.com/track/6zXzSvrHmAidhosXqhvX7S"
+    },
+    {
+      "album": {
+        "name": "Fontainebleu",
+        "url": "https://open.spotify.com/album/3SgvwBumL4Yybsl9fnxBow"
+      },
+      "artists": [
+        {
+          "name": "Tom Feldt",
+          "url": "https://open.spotify.com/artist/6zsJJhawunqJOVpD7kpoib"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176033,
+      "name": "Fontainebleu",
+      "url": "https://open.spotify.com/track/0FwukZR6e0QeBf2rQxUlHp"
     },
     {
       "album": {
@@ -2174,6 +2282,24 @@
       "duration_ms": 179000,
       "name": "I'll Be There (In Time)",
       "url": "https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf"
+    },
+    {
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2KlrA2OvclIcTUcIcsXDVc"
+      },
+      "artists": [
+        {
+          "name": "Mariuga",
+          "url": "https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155823,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/2n2l6v9ef666X9fbzq2qjS"
     },
     {
       "album": {
@@ -2765,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Lit the Walk",
+        "url": "https://open.spotify.com/album/74KFDmNM3KuASMTh0B6fGu"
+      },
+      "artists": [
+        {
+          "name": "Ella Davies",
+          "url": "https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144250,
+      "name": "Lit the Walk",
+      "url": "https://open.spotify.com/track/7hI11vA2Q5cnWf4hVZRheD"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/0h87saU9QWMWYSTx3SxB1S"
       },
@@ -3089,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Mist Over Pass",
+        "url": "https://open.spotify.com/album/4pE5Ik6bK6wsUanuipHD0X"
+      },
+      "artists": [
+        {
+          "name": "Bastiaan van Rijk",
+          "url": "https://open.spotify.com/artist/75K1yGA3RFqRaNtt7pIeUV"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Mist Over Pass",
+      "url": "https://open.spotify.com/track/381SvgI4NPIdXyrWDGE5Y9"
+    },
+    {
+      "album": {
         "name": "Moment of Solace",
         "url": "https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1"
       },
@@ -3100,7 +3262,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 138000,
       "name": "Moment of Solace",
       "url": "https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW"
@@ -3136,7 +3298,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164461,
       "name": "Morning Stroll",
       "url": "https://open.spotify.com/track/4RojRunkpA8Hmk4hJHCeZw"
@@ -3161,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/1ulCvykIEYR1q9IokuQ2OR"
+      },
+      "artists": [
+        {
+          "name": "Riku Arai",
+          "url": "https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158630,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/3i9OZUooDHrkAwOxCWUmOG"
+    },
+    {
+      "album": {
         "name": "Mystic Rivers",
         "url": "https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej"
       },
@@ -3176,6 +3356,24 @@
       "duration_ms": 191250,
       "name": "Mystic Rivers",
       "url": "https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO"
+    },
+    {
+      "album": {
+        "name": "Napping In Blue",
+        "url": "https://open.spotify.com/album/2ncCMhZvxCHt3jjkg7Q7WH"
+      },
+      "artists": [
+        {
+          "name": "Mariuga",
+          "url": "https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162690,
+      "name": "Napping In Blue",
+      "url": "https://open.spotify.com/track/6wyL37s81I4Q8IRfIVe6o8"
     },
     {
       "album": {
@@ -3215,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "Neue Mode",
+        "url": "https://open.spotify.com/album/19Y8rP5wDFdkNssisT47gJ"
+      },
+      "artists": [
+        {
+          "name": "Sander Von",
+          "url": "https://open.spotify.com/artist/0RVOnkqRPANxZjA0PWhY6t"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144240,
+      "name": "Neue Mode",
+      "url": "https://open.spotify.com/track/0KVy4i0BTHUElC6HCGJVyf"
+    },
+    {
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl"
       },
@@ -3226,7 +3442,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 171000,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R"
@@ -3370,7 +3586,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 158500,
       "name": "On The Fields",
       "url": "https://open.spotify.com/track/3VDtQne6yzambbjKODbcxW"
@@ -3503,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/2nMbRi30M7zELmZwAcC63m"
+      },
+      "artists": [
+        {
+          "name": "Atmosponder",
+          "url": "https://open.spotify.com/artist/2tf17PKeYRzoOqZK0Szono"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115078,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/0JL0F9nurHxdLwtUw0UXQR"
+    },
+    {
+      "album": {
         "name": "Pauls Way",
         "url": "https://open.spotify.com/album/3EdXQv7enzxPkCR5LKS8Sa"
       },
@@ -3550,7 +3784,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 148439,
       "name": "Perfect Harmony",
       "url": "https://open.spotify.com/track/7laFvA0QhxAeJhRRqzFWTg"
@@ -3658,7 +3892,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 120000,
       "name": "Reach",
       "url": "https://open.spotify.com/track/7atqhP3DGCPfVBFK3YVMA7"
@@ -3766,7 +4000,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 123344,
       "name": "Romanzo",
       "url": "https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC"
@@ -4108,7 +4342,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 141974,
       "name": "Shu\u01d0",
       "url": "https://open.spotify.com/track/0JkStI9AnkeDIniaKn2akO"
@@ -4162,7 +4396,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 218593,
       "name": "Silent Kiss",
       "url": "https://open.spotify.com/track/34QC0mNCUdBuEooRIq6fVi"
@@ -4475,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/4SEWwKpSJutByuepk1Oqzk"
+      },
+      "artists": [
+        {
+          "name": "Galen Rise",
+          "url": "https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/1tIQyfinoLja3OM6ngi6SX"
+    },
+    {
+      "album": {
         "name": "Synchronicity",
         "url": "https://open.spotify.com/album/3K5o4pXNsxdxW8MEn2jtel"
       },
@@ -4709,6 +4961,24 @@
     },
     {
       "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/1hsX37r8P3KEPxbUZOrWCs"
+      },
+      "artists": [
+        {
+          "name": "Sorellien",
+          "url": "https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178165,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/2MygM00yPHVeWaEtFfV2F1"
+    },
+    {
+      "album": {
         "name": "The Whitening Fields",
         "url": "https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2"
       },
@@ -4835,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "Time Whispers",
+        "url": "https://open.spotify.com/album/2GW0sfCzlS8GlNjdktIuac"
+      },
+      "artists": [
+        {
+          "name": "Gregory Velvet",
+          "url": "https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Time Whispers",
+      "url": "https://open.spotify.com/track/0WIxBG4QomMOu9JpXg36vr"
+    },
+    {
+      "album": {
         "name": "Time will tell",
         "url": "https://open.spotify.com/album/7nuVnZlSnAZiStLDcWITWM"
       },
@@ -4882,7 +5170,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 150000,
       "name": "to be better again",
       "url": "https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu"
@@ -5138,7 +5426,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 181799,
       "name": "Vertical Seas",
       "url": "https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH"
@@ -5294,6 +5582,24 @@
       "duration_ms": 264052,
       "name": "We Contain Multitudes \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
+    },
+    {
+      "album": {
+        "name": "When the Sun Sets",
+        "url": "https://open.spotify.com/album/0ZiNZgw5RcvmJeogtjf6mD"
+      },
+      "artists": [
+        {
+          "name": "Anna Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127624,
+      "name": "When the Sun Sets",
+      "url": "https://open.spotify.com/track/0eVoQp4aWYl3wOWoq6WAXu"
     },
     {
       "album": {

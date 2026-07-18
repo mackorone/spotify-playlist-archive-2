@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alta Consigna\ud83d\udcf8",
-  "num_followers": 368301,
+  "num_followers": 368322,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,38 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Ley De La Atracci\u00f3n",
+        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 163354,
+      "name": "Ley De La Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "D\u00f3nde y Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "D\u00f3nde y Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN"
       },
@@ -339,38 +371,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "D\u00f3nde y Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "D\u00f3nde y Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Ley De La Atracci\u00f3n",
-        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 163354,
-      "name": "Ley De La Atracci\u00f3n",
-      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 182064,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Una Limosna",
         "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Angelito Sin Alas",
-        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
       },
       "artists": [
         {
-          "name": "Las Posada",
-          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 168238,
-      "name": "Angelito Sin Alas",
-      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
+      "duration_ms": 209920,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+        "name": "Angelito Sin Alas",
+        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
       },
       "artists": [
         {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
         }
       ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
+      "duration_ms": 168238,
+      "name": "Angelito Sin Alas",
+      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1007,6 +991,22 @@
       "duration_ms": 217735,
       "name": "Monarca",
       "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+      },
+      "artists": [
+        {
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
-          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
-        }
-      ],
-      "duration_ms": 227338,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+        }
+      ],
+      "duration_ms": 227338,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Los Amigos Asi",
         "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 207830,
       "name": "Los Amigos Asi",
       "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Pagar\u00e9 Condena",
-        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Tostado",
-          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Pagar\u00e9 Condena",
-      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1139,6 +1123,22 @@
       "duration_ms": 164117,
       "name": "Me Nace Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Pagar\u00e9 Condena",
+        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Tostado",
+          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Pagar\u00e9 Condena",
+      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Cuando Ama Una Mujer",
-        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
-      },
-      "artists": [
-        {
-          "name": "Diana Hoyos",
-          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Cuando Ama Una Mujer",
-      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 195245,
       "name": "\u00bfQui\u00e9n Es Usted?",
       "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Cuando Ama Una Mujer",
+        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
+      },
+      "artists": [
+        {
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Cuando Ama Una Mujer",
+      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
-      },
-      "artists": [
-        {
-          "name": "Eddy Y Samu",
-          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
-        }
-      ],
-      "duration_ms": 169287,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Mi M\u00e9xico Mestizo",
         "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Se\u00f1or Dios",
-        "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
       },
       "artists": [
         {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+          "name": "Eddy Y Samu",
+          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
         }
       ],
-      "duration_ms": 189162,
-      "name": "Se\u00f1or Dios",
-      "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
+      "duration_ms": 169287,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1347,8 +1331,24 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Porque la vida fue tan injusta",
-        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
+        "name": "Se\u00f1or Dios",
+        "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 189162,
+      "name": "Se\u00f1or Dios",
+      "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Pintando sue\u00f1os",
+        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
         }
       ],
-      "duration_ms": 182424,
-      "name": "Porque la vida fue tan injusta",
-      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
+      "duration_ms": 222080,
+      "name": "Pintando sue\u00f1os",
+      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        }
+      ],
+      "duration_ms": 168622,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Diente De Le\u00f3n",
         "url": "https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo"
       },
@@ -1415,24 +1431,8 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        }
-      ],
-      "duration_ms": 168622,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Pintando sue\u00f1os",
-        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
+        "name": "Porque la vida fue tan injusta",
+        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
         }
       ],
-      "duration_ms": 222080,
-      "name": "Pintando sue\u00f1os",
-      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
+      "duration_ms": 182424,
+      "name": "Porque la vida fue tan injusta",
+      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
     },
     {
       "added_at": "2026-07-03 06:00:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,665 likes - 590 songs - 1 day 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,667 likes - 590 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 78 | [She’s Fire](https://open.spotify.com/track/0hP4n7XV0olkYL8mwB9GXZ) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:33 |
 | 79 | [Blue Eyes Blue](https://open.spotify.com/track/4SCNNnrJtgPpEFGy4Gyumt) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 4:42 |
 | 80 | [Christmas Through Your Eyes](https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 5:00 |
-| 81 | [Reach \(NBC Olympic Version\)](https://open.spotify.com/track/0i00AL9toLfJeb4VlWLvSi) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [DESTINY](https://open.spotify.com/album/6D7RaPGKDvgn2s6uairNRI) | 3:50 |
-| 82 | [From the Heart](https://open.spotify.com/track/2ovVVoQebTbrCxCsKf3gxe) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Another Level](https://open.spotify.com/album/5vQ2cx4pXDgECirZymrMnD) | 4:52 |
+| 81 | [From the Heart](https://open.spotify.com/track/2ovVVoQebTbrCxCsKf3gxe) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Another Level](https://open.spotify.com/album/5vQ2cx4pXDgECirZymrMnD) | 4:52 |
+| 82 | [Reach \(NBC Olympic Version\)](https://open.spotify.com/track/0i00AL9toLfJeb4VlWLvSi) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [DESTINY](https://open.spotify.com/album/6D7RaPGKDvgn2s6uairNRI) | 3:50 |
 | 83 | [Show Me The Way Back To Your Heart](https://open.spotify.com/track/4YcXc551uqE3IpHf3iZiYM) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 3:55 |
 | 84 | [By the Time This Night Is Over \(with Peabo Bryson\)](https://open.spotify.com/track/0dbx8qCvWgnlTZoj8a5gC7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:20 |
 | 85 | [Some Hearts](https://open.spotify.com/track/4VsMvUldyABTPUodYRI6uX) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:48 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 589 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 590 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcXCvAAAAAC7BlLgWNdPRRXTvMUZ9Pvq`
+Snapshot ID: `AcXIIAAAAABTlgAukAbIatAGcPE2z+Nz`

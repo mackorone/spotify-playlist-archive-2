@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,373 likes - 183 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,379 likes - 183 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 182 | [Summer 1987.](https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Summer 1987.](https://open.spotify.com/album/4DXELJ6zegvkSUFDmYKKRv) | 2:59 |
 | 183 | [Dono Per un Addio](https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#001 Coordinate](https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ) | 4:21 |
 
-Snapshot ID: `AAAAAFgIvqIZhSGulcOm63FAsBqkxiyY`
+Snapshot ID: `AAAAAP+rPr3KVYveBXAtVXtkHgsvdkah`

@@ -4,7 +4,7 @@
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-192 songs - 10 hr 32 min
+193 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 | 2025-03-18 |  |
 | [حكمة الايام \- من مسلسل ريفو](https://open.spotify.com/track/2xJ0wrRkWDi6XxQsiYbO3T) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 3:02 | 2026-07-10 |  |
 | [حلوين \- من مسلسل حد أقصى](https://open.spotify.com/track/7hKeE3R65MTyoY7YTQcI0F) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [حلوين \(من مسلسل حد أقصى\)](https://open.spotify.com/album/309j0JUufa9eqAgaIagUab) | 2:36 | 2026-03-06 |  |
+| [حنيت للبيت \- من مسلسل راجعين ياهوى](https://open.spotify.com/track/4EyB1zNZwqaUbRpzCVCPrC) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [حنيت للبيت \(من مسلسل راجعين ياهوى\)](https://open.spotify.com/album/0x5CSZOdayLdRDmNs8aYrr) | 4:22 | 2026-07-10 |  |
 | [خفي حبه \- تتر مسلسل محارب](https://open.spotify.com/track/4F8Rmt52rz2pCtmN8vfryD) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [خفي حبه \(تتر مسلسل محارب\)](https://open.spotify.com/album/1BgEemXrbEZFJkV0bIh1bz) | 3:36 | 2026-07-10 |  |
 | [خلصانه \- من مسلسل فراوله](https://open.spotify.com/track/3YZwHqngxGBWAgmji4VGRY) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub), [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo), [Nelly Karim](https://open.spotify.com/artist/1gLtm4UDve4ZIJ8keqUq9G) | [خلصانه \(من مسلسل فراوله\)](https://open.spotify.com/album/5NuSjuJJmjZFS8W6t3Wb1t) | 2:33 | 2024-04-05 | 2025-02-28 |
 | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/track/6HJVfj3VeFOcAkPNpYx7G7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/album/0kWVuEQEr1CJeuiHWzdl15) | 2:42 | 2026-02-16 |  |
@@ -167,7 +168,7 @@
 | [صحبي يا صحبي](https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي](https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw) | 2:13 | 2025-03-03 |  |
 | [ضاع القلب](https://open.spotify.com/track/3rr70YcGOv7PabTK6Qji2K) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [ضاع القلب](https://open.spotify.com/album/4L0ai6SrfVLXrSr4Y32dMT) | 3:40 | 2024-03-10 | 2025-03-04 |
 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 | 2024-03-10 | 2024-03-28 |
-| [ضمّة \- Damma](https://open.spotify.com/track/7kZHFpC8CJ8wIjIpqWVWs1) | [Yasmina El\-Abd](https://open.spotify.com/artist/4z71gJaej5bwz8daBocQjW), [Aley Eldin Omar](https://open.spotify.com/artist/6HTbN3mkTm41r7uge5epli), [WRST Studio](https://open.spotify.com/artist/7ls8m2y6ibVx54vYHyReXk) | [ضمّة \- Damma](https://open.spotify.com/album/6FaZSmqlGAApT0HfyP7lQw) | 2:33 | 2026-07-10 |  |
+| [ضمّة \- Damma](https://open.spotify.com/track/7kZHFpC8CJ8wIjIpqWVWs1) | [Yasmina El\-Abd](https://open.spotify.com/artist/4z71gJaej5bwz8daBocQjW), [Aley Eldin Omar](https://open.spotify.com/artist/6HTbN3mkTm41r7uge5epli) | [ضمّة \- Damma](https://open.spotify.com/album/6FaZSmqlGAApT0HfyP7lQw) | 2:33 | 2026-07-10 |  |
 | [ع العادي](https://open.spotify.com/track/478xj2yjNOXK5PUq8vEekd) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [WRST Studio](https://open.spotify.com/artist/7ls8m2y6ibVx54vYHyReXk) | [ع العادي](https://open.spotify.com/album/3VS1LQoHQHTQtZNslaKK0B) | 2:58 | 2026-07-10 |  |
 | [عقبال عندكوا \- أغنية المسلسل](https://open.spotify.com/track/3nmtcMWkzlzpkDY60o39e0) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [عقبال عندكوا \(أغنية المسلسل\)](https://open.spotify.com/album/5OMfoYz6nnLrdxtji38nvW) | 2:56 | 2025-03-03 | 2025-03-11 |
 | [على قد الحب](https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [على قد الحب](https://open.spotify.com/album/22DrlBN2ME6ESMMLt7eMLH) | 3:24 | 2026-02-16 |  |
@@ -182,7 +183,7 @@
 | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/track/5hztYzxeTKZgmq5krcKGFx) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/album/2ntWWRrrjnhW43sw74bnTP) | 2:30 | 2024-03-29 | 2025-03-04 |
 | [كسبنا أيه \- تتر مسلسل رضا البحراوي](https://open.spotify.com/track/35PnrT6mRKSIfUwAw9j1gE) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [كسبنا أيه \(تتر مسلسل رضا البحراوي\)](https://open.spotify.com/album/3EzfDryvpT3OCFVXAlzbSE) | 3:05 | 2026-07-10 |  |
 | [كلكوا خاينين](https://open.spotify.com/track/5CxPmDlf5OyhaRbuh09tWj) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [كلكوا خاينين](https://open.spotify.com/album/53UzZGVZBY21TAdvcG4kZl) | 4:01 | 2026-02-18 |  |
-| [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-03-26 |  |
+| [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-03-26 | 2026-07-18 |
 | [لقيناك حابس \- من مسلسل المداح, أسطورة العودة](https://open.spotify.com/track/3ZIr4yzxi06m9r1ZsXLV28) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z), [Henna](https://open.spotify.com/artist/0hBrkpgGQqYEbPX8BRpB41) | [لقيناك حابس \(من مسلسل المداح, أسطورة العودة\)](https://open.spotify.com/album/1IznaH2Mfz14uZ4ii4VXTg) | 3:41 | 2026-07-10 |  |
 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 | 2025-03-20 | 2026-02-11 |
 | [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 | 2026-02-13 |  |

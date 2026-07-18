@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AFROJACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,844 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,938 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 67 | [Dopamine Symphony](https://open.spotify.com/track/2Pw8y0hoVVr2QebHlEanY1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Dopamine Symphony](https://open.spotify.com/album/6EKefZrVarOU6sEhHsB5zu) | 2:04 |
 | 68 | [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 |
 | 69 | [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 |
-| 70 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
+| 70 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [KIMI](https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
 | 71 | [Get Loud](https://open.spotify.com/track/6bitCi6CIFME8JUBCmMO4o) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Redline EP](https://open.spotify.com/album/1yAu62pcvyMfzJe4Splsel) | 2:21 |
 | 72 | [Keep On Rising](https://open.spotify.com/track/4Kq1i2YSGxOR44UUQXC4yU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Mkaya](https://open.spotify.com/artist/7aGisCZDmLFh8SkDAheuBu), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Keep On Rising](https://open.spotify.com/album/4CrCdEBtv4WLbE6ax7EMCE) | 2:38 |
 | 73 | [Mina Loca](https://open.spotify.com/track/5GaMXeguJikI3iPGCDRFGc) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Rave Therapy EP](https://open.spotify.com/album/5N9VpXOMeh0BJSWbRXPuM6) | 2:48 |

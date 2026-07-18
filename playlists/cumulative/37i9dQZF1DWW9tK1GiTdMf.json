@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni per un'estate non proprio felice \ud83e\udd40 TELLMEWISE in cover",
+  "description": "musica per un'estate non proprio felice (rob in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -602,6 +602,36 @@
       "duration_ms": 163575,
       "name": "20 Anni (Andale)",
       "url": "https://open.spotify.com/track/5F9qPcOEMVaeFJYpTGckAS"
+    },
+    {
+      "album": {
+        "name": "20 ANNI X SEMPRE (feat. Scaglia, Quarzo Blu & Baggy)",
+        "url": "https://open.spotify.com/album/3DAE9ppryu0ytHLE5o05q9"
+      },
+      "artists": [
+        {
+          "name": "SlumpthinIdle",
+          "url": "https://open.spotify.com/artist/334vU7FVVjO5qblDXvcnfq"
+        },
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        },
+        {
+          "name": "Quarzo Blu",
+          "url": "https://open.spotify.com/artist/1Z06Rc5TWBWnYL2WKoQheu"
+        },
+        {
+          "name": "Baggy",
+          "url": "https://open.spotify.com/artist/6hN269hbm8QyCMruvoGyz2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170186,
+      "name": "20 ANNI X SEMPRE (feat. Scaglia, Quarzo Blu & Baggy)",
+      "url": "https://open.spotify.com/track/3c0OuGbQzeLXBlL0oQEh2o"
     },
     {
       "album": {
@@ -1768,7 +1798,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164312,
       "name": "Alien Boy",
       "url": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
@@ -2470,6 +2500,24 @@
       "duration_ms": 203916,
       "name": "anedonia",
       "url": "https://open.spotify.com/track/0bs9DFxBrKvOd6VEsC2p6W"
+    },
+    {
+      "album": {
+        "name": "Anfibi",
+        "url": "https://open.spotify.com/album/0Xh5kuUHbCl5BQISCT7jvG"
+      },
+      "artists": [
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126199,
+      "name": "Anfibi",
+      "url": "https://open.spotify.com/track/3xT0afxmfhw1zMAkaYo3Eu"
     },
     {
       "album": {
@@ -6028,7 +6076,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 174285,
       "name": "cI\u00d2 chE Mi uccidE",
       "url": "https://open.spotify.com/track/4L1v8taFH3vARQwp0FaVhj"
@@ -8458,7 +8506,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 124701,
       "name": "DIPENDENZA",
       "url": "https://open.spotify.com/track/7338uQtmHnGh5vFfHR80kC"
@@ -10116,7 +10164,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 196688,
       "name": "EPICENTRO",
       "url": "https://open.spotify.com/track/3gsitvruZvQUti5ZyPSwd3"
@@ -10313,6 +10361,24 @@
     },
     {
       "album": {
+        "name": "estate//periferia",
+        "url": "https://open.spotify.com/album/1Cy1ohOkcEd0NJXLNHeMXE"
+      },
+      "artists": [
+        {
+          "name": "Jaroslav",
+          "url": "https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "estate//periferia",
+      "url": "https://open.spotify.com/track/41SXX7eKbYOJR5aLXrsUIv"
+    },
+    {
+      "album": {
         "name": "Estranei",
         "url": "https://open.spotify.com/album/5tL8W7fnVBt3KoPS2E7wvH"
       },
@@ -10382,7 +10448,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156444,
       "name": "EUFORIA X SEMPRE",
       "url": "https://open.spotify.com/track/3N71nzozIIXSfJEmhFCy2s"
@@ -11622,7 +11688,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 131892,
       "name": "Fo Love",
       "url": "https://open.spotify.com/track/3YecG7Zvk9EMxZheKcxnNW"
@@ -12682,7 +12748,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 150250,
       "name": "giornate perse",
       "url": "https://open.spotify.com/track/0F6y4H8xU4cjYzeeKXYxdV"
@@ -18201,6 +18267,24 @@
     },
     {
       "album": {
+        "name": "mammamidicesempre",
+        "url": "https://open.spotify.com/album/4gJf9OnJ1pK2k6JVMJyauw"
+      },
+      "artists": [
+        {
+          "name": "brughi",
+          "url": "https://open.spotify.com/artist/6iVwwj422EoKV03q5JCKXT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216410,
+      "name": "mammamidicesempre",
+      "url": "https://open.spotify.com/track/3YIubuSWUY5uX5SO8wt9SI"
+    },
+    {
+      "album": {
         "name": "Man Made of Meat",
         "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
       },
@@ -18832,7 +18916,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 147272,
       "name": "MI RATTRISTA (feat. Yele)",
       "url": "https://open.spotify.com/track/0zW5vTVqjWX0JKyb5i5sWs"
@@ -20861,6 +20945,24 @@
     },
     {
       "album": {
+        "name": "NON PENSARCI :)",
+        "url": "https://open.spotify.com/album/6Nda8FXKFThFN1m9gKVtVS"
+      },
+      "artists": [
+        {
+          "name": "NXFEIT",
+          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "NON PENSARCI :)",
+      "url": "https://open.spotify.com/track/3Jj9aTD6U7ciETwt4dmfh2"
+    },
+    {
+      "album": {
         "name": "Non Piangere",
         "url": "https://open.spotify.com/album/0leAdGkv75n8mgSd2VDgV9"
       },
@@ -21234,6 +21336,24 @@
       "duration_ms": 202592,
       "name": "Nonno con Smartphone",
       "url": "https://open.spotify.com/track/1anieUR5j5vUfLoQv9U4zn"
+    },
+    {
+      "album": {
+        "name": "NonVoglio+Sanguinare",
+        "url": "https://open.spotify.com/album/1mKR6U8tmZZzoBBCmOfHdt"
+      },
+      "artists": [
+        {
+          "name": "ermy",
+          "url": "https://open.spotify.com/artist/0xKVLyEPa3ElqShm3PHEEK"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191126,
+      "name": "NonVoglio+Sanguinare",
+      "url": "https://open.spotify.com/track/0oqpqu9dbxvOibwfK17pOo"
     },
     {
       "album": {
@@ -22198,7 +22318,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 191714,
       "name": "ossessione",
       "url": "https://open.spotify.com/track/7bUxWAFWleeooOv22uWg5f"
@@ -22762,7 +22882,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 143863,
       "name": "PENSAMI + FORTE",
       "url": "https://open.spotify.com/track/68YhFfjXOORniqsSL1wCPT"
@@ -25808,7 +25928,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 144827,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/2y2sZHSs2g7rEF8YhJnaym"
@@ -28267,6 +28387,24 @@
     },
     {
       "album": {
+        "name": "SOLE DI NOTTE",
+        "url": "https://open.spotify.com/album/6rmNeARnDfZlTOhpjS1xuo"
+      },
+      "artists": [
+        {
+          "name": "Dominogodd",
+          "url": "https://open.spotify.com/artist/0cdloSKiB2wHOyKDPCZ7QN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "SOLE DI NOTTE",
+      "url": "https://open.spotify.com/track/6uRX6prGSg9UubfL4BOGnM"
+    },
+    {
+      "album": {
         "name": "Sole sulla pelle",
         "url": "https://open.spotify.com/album/63mjUjh1BXqhNrysvuuPMI"
       },
@@ -29132,7 +29270,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 177000,
       "name": "Squali bianchi",
       "url": "https://open.spotify.com/track/3cuzd5nlEXlzzbFuCM9XtJ"
@@ -34548,7 +34686,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198000,
       "name": "X SEMPRE",
       "url": "https://open.spotify.com/track/1Ts84WlBQO2nqgl0in7XZU"

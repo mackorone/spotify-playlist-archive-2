@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Kelela
 
-914 songs - 2 day 4 hr 45 min
+915 songs - 2 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Cows Come Home](https://open.spotify.com/track/7D7XVolNtIMUZbJdf76BwY) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Duppy Gun](https://open.spotify.com/album/3afz4ORD26X2AkSM5BPIsW) | 2:52 | 2024-06-27 | 2024-08-09 |
 | [Crazy World](https://open.spotify.com/track/6PPqDI67fz24aIBB4EMfPs) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Crazy World](https://open.spotify.com/album/04BXSpQ5QdkXwqL8Bzr1Mm) | 3:05 | 2026-01-16 | 2026-02-06 |
 | [Crown for you](https://open.spotify.com/track/6bS0BXuDlONBV3L3OTOsQ0) | [Andrew Aged](https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG) | [crown](https://open.spotify.com/album/4I66uDblwwE9jw4jqSR3VQ) | 2:43 | 2025-12-05 | 2026-02-14 |
-| [Crown Jewel](https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Crown Jewel](https://open.spotify.com/album/4pNYHMMs5C1lQwyCA4COEH) | 4:01 | 2026-06-12 |  |
+| [Crown Jewel](https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Crown Jewel](https://open.spotify.com/album/4pNYHMMs5C1lQwyCA4COEH) | 4:01 | 2026-06-12 | 2026-07-18 |
 | [Crying Out For Love](https://open.spotify.com/track/04g8JIcLIEeaKhJC0UHnmP) | [Tom Vek](https://open.spotify.com/artist/4dGVRIf2xj0JhawVheLiOI) | [Crying Out For Love](https://open.spotify.com/album/3ee2pERWiIBRX2aPPW2DzZ) | 4:01 | 2024-09-05 | 2024-09-21 |
 | [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 | 2025-10-23 | 2026-01-16 |
 | [Cupid](https://open.spotify.com/track/3QIhVvfoBWr4X85530IMeB) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Cupid](https://open.spotify.com/album/45f61grQtozDIhG3xFZ3Oo) | 1:57 | 2024-10-24 | 2025-02-14 |
@@ -178,6 +178,7 @@
 | [DANCING LIKE WE'LL NEVER DIE](https://open.spotify.com/track/35dwjl1Zr9N6z4zwYdvNfS) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [HOTEL HEAVEN \- Extended](https://open.spotify.com/album/5AndgFVIQlZ4XyTKsQ6GPH) | 5:10 | 2024-08-08 | 2024-09-28 |
 | [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 | 2024-12-13 | 2025-03-21 |
 | [Danger](https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Danger](https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH) | 2:19 | 2026-03-27 |  |
+| [Dark](https://open.spotify.com/track/3FdBiirVbp5ZhCjcdGd5JV) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Dark](https://open.spotify.com/album/3Fx91CeRbgsDaehf9LS0j3) | 3:12 | 2026-07-16 |  |
 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 | 2024-10-24 | 2025-02-21 |
 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 | 2025-06-26 | 2026-01-23 |
 | [Dawn](https://open.spotify.com/track/4YUw1UYxRwhNeKuK2N088o) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Gramarye](https://open.spotify.com/album/4pb1CggtOYd2EAko22VJ6C) | 5:00 | 2024-10-17 | 2025-02-21 |

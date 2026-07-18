@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-180 songs - 10 hr 21 min
+182 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 | 2025-06-27 |  |
 | [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 | 2025-09-10 |  |
 | [Never Fall In Love Again](https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Never Fall In Love Again](https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o) | 2:48 | 2025-06-27 | 2026-03-03 |
+| [Never Felt The Rain \(feat\. FENNE\)](https://open.spotify.com/track/3X9RJFvBRpfiHrWeB3iE9V) | [Cas Heim](https://open.spotify.com/artist/0yXP3FUiGEKpLAXV1czUIE), [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Never Felt The Rain \(feat\. FENNE\)](https://open.spotify.com/album/5l1lpfVQcauzbECuyD5BxQ) | 4:29 | 2026-07-17 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2025-06-27 | 2026-04-21 |
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2025-06-27 | 2025-09-04 |
 | [Nomad](https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A) | 3:26 | 2025-12-05 |  |
@@ -137,7 +138,7 @@
 | [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 | 2025-06-27 |  |
 | [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 | 2025-06-27 |  |
 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 | 2025-06-27 |  |
-| [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-06-27 |  |
+| [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-06-27 | 2026-07-18 |
 | [Roller Coaster](https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Roller Coaster](https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd) | 2:35 | 2025-06-27 |  |
 | [Romeo & Julia](https://open.spotify.com/track/4HSLqHcwaj5clHCrXfmp0B) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Romeo & Julia](https://open.spotify.com/album/3xuoSZmnVBiW2ZrIt3DuF4) | 2:29 | 2025-11-11 | 2025-12-16 |
 | [Same Heart](https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Same Heart](https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8) | 3:39 | 2025-10-09 |  |
@@ -147,7 +148,7 @@
 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 | 2025-09-25 |  |
 | [skipping stone](https://open.spotify.com/track/6gD86nnXjZPG6bMoJdPEu8) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [skipping stone](https://open.spotify.com/album/6iEIEFKB1OShW5ImoSZEFs) | 3:09 | 2025-06-27 | 2025-09-26 |
 | [Solastalgia](https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Dark Harvest, Pt\. 1](https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW) | 4:52 | 2025-09-03 |  |
-| [Someone To Lose](https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Someone To Lose](https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ) | 2:40 | 2025-12-05 |  |
+| [Someone To Lose](https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Someone To Lose](https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ) | 2:40 | 2025-12-05 | 2026-07-18 |
 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2025-06-27 | 2025-12-12 |
 | [Something I Can't Fake](https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [something i can't fake](https://open.spotify.com/album/2AdKGAN4yidTdY2HU9kFRQ) | 3:38 | 2025-09-03 | 2026-03-03 |
 | [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 | 2025-06-27 |  |
@@ -182,6 +183,7 @@
 | [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 | 2025-10-09 |  |
 | [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 | 2025-06-27 | 2026-04-13 |
 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 | 2026-07-16 |  |
+| [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 | 2026-07-17 |  |
 | [Woman](https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Woman](https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV) | 4:08 | 2026-04-20 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2025-06-27 | 2025-10-03 |
 | [You Give Me Something \(Refreshed\)](https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You Give Me Something \(Refreshed\)](https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV) | 4:03 | 2025-06-27 | 2026-03-03 |

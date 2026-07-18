@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "19 Tones",
+        "url": "https://open.spotify.com/album/6x64KBfsz7dgrOWKIwbK8E"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266197,
+      "name": "19 Tones",
+      "url": "https://open.spotify.com/track/3V00BjlVRWZVwQlO9pNtql"
+    },
+    {
+      "album": {
         "name": "Northern Skies",
         "url": "https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0"
       },
@@ -2971,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "MOURLY",
+        "url": "https://open.spotify.com/album/0nXZVfzFs7vLU74LonB4ux"
+      },
+      "artists": [
+        {
+          "name": "Transgresorcorruptor",
+          "url": "https://open.spotify.com/artist/4eUhfPvLLg3W6H8n8uRnd3"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "ARMOUNIUM",
+      "url": "https://open.spotify.com/track/1dO5K2NVmlxbCXMGwPUq2y"
+    },
+    {
+      "album": {
         "name": "Around the Lake, as Time Slows",
         "url": "https://open.spotify.com/album/7s1ctdWxLmTAl6jKI45tqZ"
       },
@@ -3004,7 +3040,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 362366,
       "name": "Arp Angels",
       "url": "https://open.spotify.com/track/0yHU14vhz98spCJzaKHdK7"
@@ -3124,7 +3160,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 279981,
       "name": "Ar\u00eate",
       "url": "https://open.spotify.com/track/2sM6gzlZXWsOkp2NPkEn0y"
@@ -4004,7 +4040,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 118260,
       "name": "Be easy",
       "url": "https://open.spotify.com/track/75XD2IlEQDWRyQzL1VVo7O"
@@ -4188,7 +4224,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 290000,
       "name": "Been here 02 - Rain at Aoso",
       "url": "https://open.spotify.com/track/694G8ZcV18WrCh7MlykIE0"
@@ -6253,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "chaleur (fluere ami v)",
+        "url": "https://open.spotify.com/album/5CgFABCdVqYMCFqxLd8mbT"
+      },
+      "artists": [
+        {
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "chaleur (fluere ami v)",
+      "url": "https://open.spotify.com/track/3Dblf4XNqkcf58y6aJubW2"
+    },
+    {
+      "album": {
         "name": "The Notional Pastures Of Imaginary Softwoods",
         "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
       },
@@ -7811,6 +7865,28 @@
     },
     {
       "album": {
+        "name": "Conversation 3",
+        "url": "https://open.spotify.com/album/2k5HAjy3uCMwKkWWs5nu9Z"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353278,
+      "name": "Conversation 3",
+      "url": "https://open.spotify.com/track/0nIbSZ4o2L2gtwWtKwmnZP"
+    },
+    {
+      "album": {
         "name": "Twin Color (Extended Play No. 2)",
         "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
       },
@@ -8168,6 +8244,24 @@
       "duration_ms": 174461,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/7mf0RPciPBlMazFOxIaKbI"
+    },
+    {
+      "album": {
+        "name": "Dangerous Man (From \"The Six Billion Dollar Man\")",
+        "url": "https://open.spotify.com/album/1ADNNYgphy68rbl3ts4VIf"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211767,
+      "name": "Dangerous Man - From \"The Six Billion Dollar Man\"",
+      "url": "https://open.spotify.com/track/2Phx3JTv7BrRW9crlEZmkw"
     },
     {
       "album": {
@@ -12198,7 +12292,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 97983,
       "name": "Float",
       "url": "https://open.spotify.com/track/6dg1ihQ3Ev02yTqwdxA9OH"
@@ -14156,7 +14250,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 186391,
       "name": "Gone Before Us (In Remembrance Of Chris)",
       "url": "https://open.spotify.com/track/1fyARgr2gRDyOQRBpqjP8y"
@@ -14648,7 +14742,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 295000,
       "name": "Halo - Day",
       "url": "https://open.spotify.com/track/62sroioKap0cQsqL5acpbm"
@@ -16017,6 +16111,24 @@
     },
     {
       "album": {
+        "name": "I'm Writing a New Song Every Month from One Birthday til the Next: July",
+        "url": "https://open.spotify.com/album/00IX7jrKZfPyk7XfH5OnO3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212783,
+      "name": "I'm Writing a New Song Every Month from One Birthday til the Next: July",
+      "url": "https://open.spotify.com/track/2zVVm738JTdjncCZoLFYL8"
+    },
+    {
+      "album": {
         "name": "SUNDAYS",
         "url": "https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K"
       },
@@ -16854,6 +16966,24 @@
       "duration_ms": 185314,
       "name": "Infinity Loop I",
       "url": "https://open.spotify.com/track/0YEOXNAQsXrwkf0AMi7saB"
+    },
+    {
+      "album": {
+        "name": "Inflorescence",
+        "url": "https://open.spotify.com/album/1xzkI9ZoRUqb48C8HKzvl3"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309254,
+      "name": "Inflorescence",
+      "url": "https://open.spotify.com/track/1K8QtTQoUU8FdvwFwCe0jS"
     },
     {
       "album": {
@@ -21054,6 +21184,28 @@
       "duration_ms": 196539,
       "name": "mirabel",
       "url": "https://open.spotify.com/track/1uZRybiAMTkhhpxaG0Ajfr"
+    },
+    {
+      "album": {
+        "name": "tesoros",
+        "url": "https://open.spotify.com/album/74hZtmbbExrhsa6Ac0cJLi"
+      },
+      "artists": [
+        {
+          "name": "Lumtz",
+          "url": "https://open.spotify.com/artist/1EJ7eVmYftASdbBbOzLfQQ"
+        },
+        {
+          "name": "MAQ",
+          "url": "https://open.spotify.com/artist/6sMwNqltT78pmobEIPp3kJ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161746,
+      "name": "mirada brillante",
+      "url": "https://open.spotify.com/track/27X5DcBfODxhUIifleMa3E"
     },
     {
       "album": {
@@ -27988,7 +28140,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 207952,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/2hyGsHnOcpTauzzq4k3oPV"
@@ -28318,7 +28470,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 106176,
       "name": "sand castle",
       "url": "https://open.spotify.com/track/5goFuk3dUnvars4cWWLSoX"
@@ -29756,6 +29908,24 @@
       "duration_ms": 213357,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/6oDoN0p3hXIb4LLZ8MhKFj"
+    },
+    {
+      "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/4VVrOJGndI99nNkFrZRSis"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/7npFQpoVFC5Cgt0MjkZ4kd"
     },
     {
       "album": {
@@ -37981,6 +38151,32 @@
     },
     {
       "album": {
+        "name": "While Seeing In Ultraviolet",
+        "url": "https://open.spotify.com/album/5a7XaOOYbQsBCfznuREV2b"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        },
+        {
+          "name": "\u00c2stra",
+          "url": "https://open.spotify.com/artist/0Br7Es1U70JYeOaAwi56z9"
+        },
+        {
+          "name": "Echoes of Starlight",
+          "url": "https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "While Seeing In Ultraviolet",
+      "url": "https://open.spotify.com/track/0zk5CpStq7IELCQOLQJP8o"
+    },
+    {
+      "album": {
         "name": "Interwoven",
         "url": "https://open.spotify.com/album/0T9fsB9gx7gTBrAzkyZ4Uc"
       },
@@ -38476,7 +38672,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 186000,
       "name": "Woodlands",
       "url": "https://open.spotify.com/track/3VYa88tVOi1b0MCDQgoXKq"
@@ -38628,6 +38824,24 @@
       "duration_ms": 271000,
       "name": "XII",
       "url": "https://open.spotify.com/track/7bwAQCGcbEGPPxO5FofTyg"
+    },
+    {
+      "album": {
+        "name": "Yakushima",
+        "url": "https://open.spotify.com/album/450V2W2MHpf5bD0xHte40P"
+      },
+      "artists": [
+        {
+          "name": "Le Motel",
+          "url": "https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174707,
+      "name": "Yakushima",
+      "url": "https://open.spotify.com/track/2i8qPYZ3vRuLFEgkQB10SD"
     },
     {
       "album": {
@@ -39198,7 +39412,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 251226,
       "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
       "url": "https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR"

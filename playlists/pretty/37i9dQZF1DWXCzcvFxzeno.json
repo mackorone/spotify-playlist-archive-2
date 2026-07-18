@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
-  "num_followers": 516400,
+  "num_followers": 516726,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Novah",
           "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "KIMI",
+          "url": "https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4"
         }
       ],
       "duration_ms": 211928,
@@ -911,6 +915,30 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Stisema",
+          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
+        },
+        {
+          "name": "Lulu Voxx",
+          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+        }
+      ],
+      "duration_ms": 168124,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "10.000 Flores",
         "url": "https://open.spotify.com/album/3ELIXvH1tbobCKO3skL9sV"
       },
@@ -923,26 +951,6 @@
       "duration_ms": 263874,
       "name": "10.000 Flores",
       "url": "https://open.spotify.com/track/543rnl651yHWLNP41A5D1t"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "You Make Me Horny",
-        "url": "https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Laren",
-          "url": "https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS"
-        }
-      ],
-      "duration_ms": 294321,
-      "name": "You Make Me Horny",
-      "url": "https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -967,26 +975,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+        "name": "You Make Me Horny",
+        "url": "https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv"
       },
       "artists": [
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         },
         {
-          "name": "Stisema",
-          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
-        },
-        {
-          "name": "Lulu Voxx",
-          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+          "name": "Laren",
+          "url": "https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS"
         }
       ],
-      "duration_ms": 168124,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+      "duration_ms": 294321,
+      "name": "You Make Me Horny",
+      "url": "https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1099,22 +1103,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Turn The Music Down",
-        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Turn The Music Down",
-      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "DANCE NOW",
         "url": "https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr"
       },
@@ -1131,6 +1119,22 @@
       "duration_ms": 240020,
       "name": "DANCE NOW",
       "url": "https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Turn The Music Down",
+        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Turn The Music Down",
+      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1183,6 +1187,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Purple Widow (Original & Remix Versions)",
+        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        }
+      ],
+      "duration_ms": 381118,
+      "name": "Purple Widow",
+      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "4 Da Ravers",
         "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
@@ -1195,6 +1215,22 @@
       "duration_ms": 153290,
       "name": "4 Da Ravers",
       "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/4BIygQShBWiPBdGAXt5TBp"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1219,38 +1255,6 @@
       "duration_ms": 143264,
       "name": "HEAR THIZ MF",
       "url": "https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg"
-      },
-      "artists": [
-        {
-          "name": "Conrad Taylor",
-          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/4BIygQShBWiPBdGAXt5TBp"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Purple Widow (Original & Remix Versions)",
-        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        }
-      ],
-      "duration_ms": 381118,
-      "name": "Purple Widow",
-      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1287,6 +1291,42 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Weisse Nase",
+        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Weisse Nase",
+      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "EUROCLUB",
+        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
+      },
+      "artists": [
+        {
+          "name": "EUROCLUB",
+          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/05sPKbE10KPJ2kUVHZGYY9"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "PULL THE TRIGGER",
         "url": "https://open.spotify.com/album/3Tbwxw3wJTu1z2i5OjpZL8"
       },
@@ -1315,58 +1355,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "EUROCLUB",
-        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
-      },
-      "artists": [
-        {
-          "name": "EUROCLUB",
-          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "TEMPO",
-      "url": "https://open.spotify.com/track/05sPKbE10KPJ2kUVHZGYY9"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "TUTU",
-        "url": "https://open.spotify.com/album/1smTJCY58D39nQZjW5NHgf"
-      },
-      "artists": [
-        {
-          "name": "KX CHR",
-          "url": "https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU"
-        }
-      ],
-      "duration_ms": 153004,
-      "name": "TUTU",
-      "url": "https://open.spotify.com/track/5J9zv1zII2LyICvUe3jyo0"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Weisse Nase",
-        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Weisse Nase",
-      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Keep Me High",
         "url": "https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia"
       },
@@ -1391,6 +1379,22 @@
       "duration_ms": 147695,
       "name": "Keep Me High",
       "url": "https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/1smTJCY58D39nQZjW5NHgf"
+      },
+      "artists": [
+        {
+          "name": "KX CHR",
+          "url": "https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU"
+        }
+      ],
+      "duration_ms": 153004,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/5J9zv1zII2LyICvUe3jyo0"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1515,26 +1519,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "The Ultimate Acid Track",
-        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240532,
-      "name": "The Ultimate Acid Track",
-      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "CRACK!",
         "url": "https://open.spotify.com/album/0yLUtDg4hNz7cwrfi4GsU3"
       },
@@ -1551,6 +1535,26 @@
       "duration_ms": 133500,
       "name": "CRACK!",
       "url": "https://open.spotify.com/track/13qXoC2AyxfGXpV9yx5HOA"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "The Ultimate Acid Track",
+        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240532,
+      "name": "The Ultimate Acid Track",
+      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1623,6 +1627,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "H\u00d6LLE IM HERZ",
+        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "H\u00d6LLE IM HERZ",
+      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "Alte Keks",
         "url": "https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C"
       },
@@ -1659,22 +1679,6 @@
       "duration_ms": 202838,
       "name": "Shivaya - Remix",
       "url": "https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "H\u00d6LLE IM HERZ",
-        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
-      },
-      "artists": [
-        {
-          "name": "Michael Klotz",
-          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "H\u00d6LLE IM HERZ",
-      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1851,30 +1855,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "NEVER STOP",
-        "url": "https://open.spotify.com/album/62bT2QRBas9WTZ6wIJo3PM"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        },
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "NEVER STOP",
-      "url": "https://open.spotify.com/track/3NV8bjW1TNXpjFbixuo1xm"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge"
       },
@@ -1899,22 +1879,42 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "GOD_MODE",
-        "url": "https://open.spotify.com/album/5Kb2yX0CH8oLDLnfZRtunT"
+        "name": "NEVER STOP",
+        "url": "https://open.spotify.com/album/62bT2QRBas9WTZ6wIJo3PM"
       },
       "artists": [
         {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         },
         {
-          "name": "SLVL",
-          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
         }
       ],
-      "duration_ms": 210003,
-      "name": "GOD_MODE",
-      "url": "https://open.spotify.com/track/4w7jPxQ0KOEKPXSNRlt3hX"
+      "duration_ms": 225750,
+      "name": "NEVER STOP",
+      "url": "https://open.spotify.com/track/3NV8bjW1TNXpjFbixuo1xm"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Mystical Energy EP",
+        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "Mystical Energy",
+      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
     }
   ],
   "unique_name": "Hard Techno",

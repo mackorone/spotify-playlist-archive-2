@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Chris Tomlin",
-  "num_followers": 424680,
+  "num_followers": 424829,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,26 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Endless Years",
+        "url": "https://open.spotify.com/album/4UVvmClozVCOUjQ89uKdaP"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 304828,
+      "name": "Set a Fire",
+      "url": "https://open.spotify.com/track/3LSna6W1dRf2QbsUgmRoFf"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "Run To The Father",
         "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
       },
@@ -555,22 +575,6 @@
       "duration_ms": 393200,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Voice of Truth",
-      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -591,22 +595,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Endless Years",
-        "url": "https://open.spotify.com/album/4UVvmClozVCOUjQ89uKdaP"
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
       "artists": [
         {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 304828,
-      "name": "Set a Fire",
-      "url": "https://open.spotify.com/track/3LSna6W1dRf2QbsUgmRoFf"
+      "duration_ms": 323866,
+      "name": "Voice of Truth",
+      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Still Believe (Live)",
         "url": "https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 382573,
       "name": "Spirit Break Out - Live",
       "url": "https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1443,42 +1443,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "Love Revolution",
-        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 361413,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "The Power of Your Name",
         "url": "https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb"
       },
@@ -1499,6 +1463,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Love Revolution",
+        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 361413,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "You Reign (Live)",
         "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 390800,
       "name": "You Reign - Live",
       "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "YOUR NAME IS POWER",
+        "url": "https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "YOUR NAME IS POWER",
+      "url": "https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "House of Worship",
         "url": "https://open.spotify.com/album/2g898epfc1d7Rkq2MYlt2s"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 370239,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3AcKLIYxqwVMtkVCtH3Dhr"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "YOUR NAME IS POWER",
-        "url": "https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "YOUR NAME IS POWER",
-      "url": "https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Project",
         "url": "https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 174760,
       "name": "Great Is The Lord",
       "url": "https://open.spotify.com/track/22bkzEa4BFafq0KrxqOTCG"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2391,18 +2391,26 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+        "name": "Maverick City Vol. 3 Part 1",
+        "url": "https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+      "duration_ms": 646239,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2423,8 +2431,8 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
       "artists": [
         {
@@ -2432,29 +2440,29 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         }
       ],
-      "duration_ms": 265133,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
+      "duration_ms": 401760,
+      "name": "This I Believe (The Creed) - Live",
+      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
     },
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2483,26 +2491,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Maverick City Vol. 3 Part 1",
-        "url": "https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n"
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 646239,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm"
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2527,8 +2527,8 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
       "artists": [
         {
@@ -2536,13 +2536,13 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 401760,
-      "name": "This I Believe (The Creed) - Live",
-      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
+      "duration_ms": 265133,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2635,6 +2635,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Today Is the Day",
+        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 276746,
+      "name": "Today Is the Day",
+      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
       },
@@ -2655,22 +2671,6 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "This Is a Move",
-        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "This Is a Move",
-      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
     }
   ],
   "unique_name": "Worship Classics",

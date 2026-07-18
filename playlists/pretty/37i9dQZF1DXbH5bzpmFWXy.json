@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 310691,
+  "num_followers": 310682,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Un Pacto",
-        "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 146896,
-      "name": "Un Pacto",
-      "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "Bootlegs And B-Sides",
         "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 273106,
       "name": "Check Yo Self - Remix",
       "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "Un Pacto",
+        "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 146896,
+      "name": "Un Pacto",
+      "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -995,30 +995,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "De Fresa y Coco",
-        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 165447,
-      "name": "De Fresa y Coco",
-      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "Mexican Invasion",
         "url": "https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 288156,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "De Fresa y Coco",
+        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 165447,
+      "name": "De Fresa y Coco",
+      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Ay Dieguito",
-        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 170284,
-      "name": "Ay Dieguito",
-      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "Everythangs Corrupt",
         "url": "https://open.spotify.com/album/0EVgPaKOC8o9JFVpKLMSoz"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 206053,
       "name": "Ain't Got No Haters (feat. Too Short)",
       "url": "https://open.spotify.com/track/3C2BKKKa7xrz2uWqIN1Mnh"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
+        "name": "Campeones",
+        "url": "https://open.spotify.com/album/07RvDCTEmwPoC0YTMmbuyv"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Mellow Man Ace",
+          "url": "https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Campeones",
+      "url": "https://open.spotify.com/track/3wNcQrEtxl9bR3VXnw8WwR"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 253560,
       "name": "Bitch Niggaz",
       "url": "https://open.spotify.com/track/5XkeTGKcCkGF8l6fA9YpsS"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
-        "name": "Campeones",
-        "url": "https://open.spotify.com/album/07RvDCTEmwPoC0YTMmbuyv"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "Mellow Man Ace",
-          "url": "https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Campeones",
-      "url": "https://open.spotify.com/track/3wNcQrEtxl9bR3VXnw8WwR"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
+        "name": "The Essential Cypress Hill",
+        "url": "https://open.spotify.com/album/2WPS1YnbXiaX1Ekr1HNICt"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 276413,
+      "name": "Lowrider",
+      "url": "https://open.spotify.com/track/0JFBf2PloRfMkPg5DjXhDx"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
-        "name": "The Essential Cypress Hill",
-        "url": "https://open.spotify.com/album/2WPS1YnbXiaX1Ekr1HNICt"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Lowrider",
-      "url": "https://open.spotify.com/track/0JFBf2PloRfMkPg5DjXhDx"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
+        "name": "Abnormal",
+        "url": "https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
         "name": "Bad Company (feat. BlocBoy JB)",
         "url": "https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp"
       },
@@ -1963,26 +1983,6 @@
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
-        "name": "Abnormal",
-        "url": "https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA"
-      },
-      "artists": [
-        {
-          "name": "Moreno X4",
-          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
-        },
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
     }
   ],
   "unique_name": "El Barrio MP3 ",

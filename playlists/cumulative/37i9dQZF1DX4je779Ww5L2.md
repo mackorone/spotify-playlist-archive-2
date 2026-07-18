@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-127 songs - 8 hr 6 min
+132 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,11 @@
 | [Catch You](https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Catch You](https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8) | 3:17 | 2026-04-02 |  |
 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 | 2025-08-08 | 2025-09-27 |
 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 | 2025-08-08 | 2026-04-21 |
+| [dance & giggle](https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4) | [sura sol](https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1) | [i will be dead](https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt) | 2:50 | 2026-07-17 |  |
 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 | 2025-08-08 |  |
 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 | 2025-08-08 |  |
 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 | 2025-08-08 |  |
-| [Eight](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [August Parker](https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX) | 3:19 | 2026-01-30 |  |
+| [Eight](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [August Parker](https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX) | 3:19 | 2026-01-30 | 2026-07-18 |
 | [EMBERS](https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [AT LEAST SOMETHING IS PROTECTING YOU](https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0) | 3:37 | 2025-08-08 |  |
 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 | 2025-08-08 |  |
 | [Every Dawn's a Mountain](https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 4:07 | 2025-08-08 | 2026-03-24 |
@@ -65,7 +66,7 @@
 | [love so blind \- night tapes](https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [love so blind \(night tapes\)](https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT) | 4:05 | 2026-04-20 |  |
 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 | 2025-08-08 |  |
 | [Make It Rain \- 27 Tapes](https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Make It Rain \(27 Tapes\)](https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G) | 6:35 | 2026-05-26 |  |
-| [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 | 2025-08-08 |  |
+| [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 | 2025-08-08 | 2026-07-18 |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-10-21 | 2025-12-05 |
 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 | 2026-04-23 |  |
 | [Moonlit Parade](https://open.spotify.com/track/1NL10e7NLz2eODtCieADly) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Moonlit Parade](https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat) | 3:05 | 2025-08-08 | 2026-04-21 |
@@ -74,6 +75,8 @@
 | [Morning Star](https://open.spotify.com/track/0qsxV8lNQcWc3idC2sk9d2) | [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [Morning Star](https://open.spotify.com/album/089sojnCen4IGYJvT6GEQT) | 4:54 | 2026-03-02 |  |
 | [Mother](https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Mother](https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy) | 3:14 | 2025-08-08 | 2026-04-21 |
 | [Mr\. Beckett](https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe) | [Agnès Botty](https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC) | [Mr\. Beckett](https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh) | 3:43 | 2026-05-26 |  |
+| [Mr\. Beckett \- Alternate Version](https://open.spotify.com/track/4OrpNXuXJ3ppL1MqY326ht) | [Agnès Botty](https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC) | [Mr\. Beckett \(Alternate Version\)](https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi) | 3:47 | 2026-07-17 |  |
+| [Muddy Water](https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94) | [DeNohr](https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E) | [Muddy Water](https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl) | 2:40 | 2026-07-17 |  |
 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 | 2025-08-08 |  |
 | [My Hands](https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P) | [Christopher Green](https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL) | [My Hands](https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD) | 3:38 | 2026-03-23 |  |
 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 | 2025-08-08 |  |
@@ -100,6 +103,8 @@
 | [Seven Lonely Nights](https://open.spotify.com/track/4KWwyQtWCtO04TWelNBbe2) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69), [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [A Soundtrack to a Never\-Ending Story](https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp) | 4:13 | 2025-08-08 |  |
 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 | 2025-08-08 |  |
 | [Shape Of The Dunes](https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9) | [Liza Weald](https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C) | [Shape Of The Dunes](https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe) | 3:13 | 2025-08-08 | 2026-04-21 |
+| [Silver Linings \- Unplugged](https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Silver Linings \(Unplugged\)](https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb) | 3:03 | 2026-07-17 |  |
+| [So do I](https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [So do I](https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI) | 2:08 | 2026-07-17 |  |
 | [Something Ain't Right \- Acoustic](https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Something Ain't Right \(Acoustic\)](https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx) | 2:40 | 2026-03-02 |  |
 | [Stonewall Riots Forever](https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Stonewall Riots Forever](https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P) | 3:58 | 2025-08-29 | 2026-03-24 |
 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 | 2025-08-08 |  |

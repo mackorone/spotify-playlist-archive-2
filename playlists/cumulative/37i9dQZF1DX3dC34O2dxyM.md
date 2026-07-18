@@ -4,7 +4,7 @@
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-354 songs - 10 hr 45 min
+357 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,9 @@
 | [Born To Be Yours](https://open.spotify.com/track/0JTSi51ekyjFA32HI0QfQW) | [Camilla Bergman](https://open.spotify.com/artist/5UzLH4NmnDOyOrawKWcB0a) | [Harp](https://open.spotify.com/album/5FF67Wj7LCfgoQrHTwST64) | 2:05 | 2021-10-29 | 2024-05-17 |
 | [Brahms Lullaby](https://open.spotify.com/track/7t8PsNEmlbLAHHDOtlHmuQ) | [Eva Blázquez](https://open.spotify.com/artist/3uhc1JfzKzRdtm3L10LYjn) | [Brahms Lullaby](https://open.spotify.com/album/0HgiTvn9NsAu9mjo6VARMu) | 1:30 | 2024-05-16 | 2025-06-12 |
 | [Brahms Lullaby](https://open.spotify.com/track/3F9MddqpygKDUUkIqcydsT) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Bedtime Stories](https://open.spotify.com/album/475sNo7ki5mekQ8eOsyepB) | 1:25 | 2021-10-29 | 2024-05-17 |
+| [Breathe Quietly](https://open.spotify.com/track/3694RP9gisGgpDuaUumaDN) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Breathe Quietly](https://open.spotify.com/album/3TOSktl40SxsjD4wezmjnM) | 1:39 | 2026-07-17 |  |
 | [Brother John](https://open.spotify.com/track/3TSnUM2wLJNfYDMpF4pWt1) | [Rita Chakri](https://open.spotify.com/artist/0TKHLPAO8QyX0pcrEDgAk3) | [Brother John](https://open.spotify.com/album/4BEZbayY8HSO5fgFqzFJSX) | 1:25 | 2021-10-29 | 2024-05-17 |
+| [Bubble Bath](https://open.spotify.com/track/2qD4j1WDN2O1irJuDHUbxb) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [Bubble Bath](https://open.spotify.com/album/4JnYIALqFXRPKbevwj9z6k) | 1:53 | 2026-07-17 |  |
 | [Bundle Of Joy](https://open.spotify.com/track/0uMbCB0ub2cGxgOf7fmiUj) | [Lola Fuentes](https://open.spotify.com/artist/5KLHjKxR9I5LuvQJ5xju6u) | [Bundle Of Joy](https://open.spotify.com/album/0DcXoQBIWV143wjNJHjKAo) | 1:08 | 2024-05-16 | 2025-06-12 |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2021-10-29 | 2024-05-17 |
 | [Bye Baby Bunting](https://open.spotify.com/track/5T9nGchAgWtiRhvUJYLcn0) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Bye Baby Bunting](https://open.spotify.com/album/5BQjsw7XhxeAhNctk6ZAYT) | 1:45 | 2024-05-16 | 2025-06-12 |
@@ -95,6 +97,7 @@
 | [Do You Know How Many Stars There Are?](https://open.spotify.com/track/63uUcdVFFBPHnBOcOxUijY) | [Michael Kolmstetter](https://open.spotify.com/artist/3AZEqZQrbhVYSO254o3y2L) | [Childhood Memories & Lullabies on Guitar](https://open.spotify.com/album/2cGfYsy7PrcUkRVZEgjfV1) | 2:01 | 2021-10-29 | 2024-05-17 |
 | [Doodle Day I Say Hey](https://open.spotify.com/track/2lCbRburWRvoWoJ7ax2hI4) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Doodle Day I Say Hey](https://open.spotify.com/album/1ksilsIko18Ctjf6iEvfy5) | 3:22 | 2021-10-29 | 2024-05-17 |
 | [Down by the Salley Gardens \- Guitar Instrumental](https://open.spotify.com/track/4Snme5oNjpZp0IujKRtodX) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Guitar Lullabies: Music for Babies](https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj) | 2:02 | 2021-10-29 | 2024-05-17 |
+| [Dream Brother](https://open.spotify.com/track/1jl9yUkX41DLROyHEjtmzB) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Dream Brother](https://open.spotify.com/album/0k5MnSYLxmwlpAOx4AOz7F) | 1:20 | 2026-07-17 |  |
 | [Dream on](https://open.spotify.com/track/7sQbfao3cpLqbJ2MyvOJkg) | [Reed Chadwick](https://open.spotify.com/artist/1p4pqcv2Qjkb4ZTxDH9uYW) | [Dream on](https://open.spotify.com/album/48DbdI1HyN7XtUlor7IIM8) | 1:19 | 2021-10-29 | 2024-05-17 |
 | [Dreaming with the Stars](https://open.spotify.com/track/761zhbmbvFRs6hflkBqW37) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreaming with the Stars](https://open.spotify.com/album/2SfA10rr2QVAAxa5j1SVEW) | 2:47 | 2024-05-16 | 2025-06-12 |
 | [Dreamland's Song](https://open.spotify.com/track/6ruIhWb5MUGmahxV1fa4wY) | [Becca Lopez](https://open.spotify.com/artist/2mRiC2nopm5eEUJASCovKj) | [Dreamland's Song](https://open.spotify.com/album/6jKdF5s4iemCCfwaGA1AT5) | 1:31 | 2024-05-16 | 2025-06-12 |

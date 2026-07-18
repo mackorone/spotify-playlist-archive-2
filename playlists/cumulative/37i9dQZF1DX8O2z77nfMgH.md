@@ -4,7 +4,7 @@
 
 > Lo nuevo de toda Iberoamérica\. Foto: Lido Pimienta
 
-13,913 songs - 30 day 14 hr 50 min
+13,914 songs - 30 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1648,6 +1648,7 @@
 | [Bonitas](https://open.spotify.com/track/3U3iXbquUH5IB52lJw5pPl) | [Hendrix](https://open.spotify.com/artist/04HAdZKSG8bBWGJ9Yo9hfh), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Bonitas](https://open.spotify.com/album/5vA7AbW70qBkPnZDr5PJFy) | 4:04 | 2023-02-10 | 2023-02-18 |
 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 | 2022-02-25 | 2022-03-05 |
 | [Bonito](https://open.spotify.com/track/6D0oLnRc8CqyFv4AiZMMOG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bonito](https://open.spotify.com/album/0D4zEm1XB5OMiHClgor4Ba) | 3:38 | 2025-04-11 | 2025-04-19 |
+| [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 | 2026-07-17 |  |
 | [Bonnie and Clyde](https://open.spotify.com/track/6G0lnO2v5doc5qPFPBbeMj) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Bonnie and Clyde](https://open.spotify.com/album/1e2LKI1Aog4ivFzgj3mNMR) | 3:07 | 2024-07-05 | 2024-07-13 |
 | [BONSAI](https://open.spotify.com/track/6pTDI0xC9njboSOZoiMgU5) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [En La Nota Records](https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2) | [BONSAI](https://open.spotify.com/album/015nwEsUaD2okzr62ieqSm) | 2:13 | 2025-02-07 | 2025-02-15 |
 | [Bonus Track](https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Bonus Track](https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc) | 3:11 | 2024-07-12 | 2024-07-19 |

@@ -5077,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "Chil\u00f3lo",
+        "url": "https://open.spotify.com/album/3D4zOJWAtuuflXFWyY03j9"
+      },
+      "artists": [
+        {
+          "name": "Keven Santos",
+          "url": "https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4"
+        },
+        {
+          "name": "Dolce",
+          "url": "https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Dona Do Meu Mundo",
+      "url": "https://open.spotify.com/track/48EoaMVhlBUIxeSyoa3mVf"
+    },
+    {
+      "album": {
         "name": "Done Playing",
         "url": "https://open.spotify.com/album/7sPwClLJWJOaN5tapv58AL"
       },
@@ -16882,24 +16904,6 @@
       "duration_ms": 142000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo"
-    },
-    {
-      "album": {
-        "name": "Chil\u00f3lo",
-        "url": "https://open.spotify.com/album/3D4zOJWAtuuflXFWyY03j9"
-      },
-      "artists": [
-        {
-          "name": "Keven Santos",
-          "url": "https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4"
-        }
-      ],
-      "date_added": "2026-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/48EoaMVhlBUIxeSyoa3mVf"
     },
     {
       "album": {

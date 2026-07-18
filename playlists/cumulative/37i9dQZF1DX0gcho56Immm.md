@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-310 songs - 17 hr 57 min
+311 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [The Future \(Fig Tape Remix\)](https://open.spotify.com/track/1jA6V9HI58GarsaDX6k7Gj) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [The Future \(Fig Tape Remix\)](https://open.spotify.com/album/4lv9qQYlWxHto8vJhjpeye) | 4:14 | 2026-02-19 |  |
 | [The Herd](https://open.spotify.com/track/27gXW1CtTnd7Z2nSjnns8b) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [The Herd](https://open.spotify.com/album/6VgsgIhrtd52qND0NEI1fY) | 4:03 | 2026-05-29 |  |
 | [The Longest Sleep](https://open.spotify.com/track/0rKK8Xj27S7L4tAB9EBYHX) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [I'm the One with No Soul](https://open.spotify.com/album/0yZpBY7dvRB4cUHtuvB0uQ) | 3:53 | 2025-07-15 | 2026-03-20 |
+| [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 | 2026-07-17 |  |
 | [The One in Front of the Sun](https://open.spotify.com/track/2axEsEvh4uIfPNgPrhxew5) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Violences](https://open.spotify.com/album/50fGBMmPLU994MXKGDUQN1) | 4:47 | 2025-03-13 | 2026-01-24 |
 | [The tangible participant](https://open.spotify.com/track/1TpSk3O5QjHL0swwHCEk3W) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Light weight](https://open.spotify.com/album/46pIzmIhR5egQRNxf1KCtC) | 2:41 | 2025-11-21 | 2026-03-20 |
 | [The Turning Ground](https://open.spotify.com/track/6F7j171ZkccR3gA57cLqRR) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [On The Turning Ground](https://open.spotify.com/album/7GAK47rAg2VuMb47HOXdK2) | 4:25 | 2025-05-08 | 2026-03-07 |

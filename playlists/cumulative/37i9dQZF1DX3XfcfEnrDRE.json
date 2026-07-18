@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Acts 29 / Sing Your Praise (The Rock Music Rising)",
+        "url": "https://open.spotify.com/album/06piHD75l3JIyzCIhqBaI1"
+      },
+      "artists": [
+        {
+          "name": "The Rock Music",
+          "url": "https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271694,
+      "name": "Acts 29 (The Rock Music Rising)",
+      "url": "https://open.spotify.com/track/1O49MACwqfLQ6ADLbQoGus"
+    },
+    {
+      "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/1LuDlIroOgn4sONjZIF3OP"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 206727,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/4tTHSkuwvOuTsdRQeQ92bn"
@@ -280,6 +298,24 @@
       "duration_ms": 215440,
       "name": "ALWAYS (You Should Know)",
       "url": "https://open.spotify.com/track/1mDFQrM8qnCnaLe1CLcdaJ"
+    },
+    {
+      "album": {
+        "name": "Analog",
+        "url": "https://open.spotify.com/album/7gkTDBRzY1N0zjm5VBe3fq"
+      },
+      "artists": [
+        {
+          "name": "Pomegranate",
+          "url": "https://open.spotify.com/artist/2RvMqUM9s4y0pUT80BIGdc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189574,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/5Ym1jjJAGLwjEsn0h6cnY5"
     },
     {
       "album": {
@@ -1728,7 +1764,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 237257,
       "name": "Emmaus",
       "url": "https://open.spotify.com/track/1ZtVGvGRzpEHlEwEgLgyh0"
@@ -1876,7 +1912,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 266155,
       "name": "Eternity Unfolding",
       "url": "https://open.spotify.com/track/0ybx41l6tR0FDRCBPqgWMz"
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 192002,
       "name": "eyes on Him",
       "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
@@ -2100,7 +2136,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198000,
       "name": "FALLING 4 U",
       "url": "https://open.spotify.com/track/1joPWc6Zq4AxHTdPjaymx7"
@@ -2382,6 +2418,28 @@
       "duration_ms": 215373,
       "name": "fluorescent",
       "url": "https://open.spotify.com/track/6OjhCRoM2jDikj2mFfRRrW"
+    },
+    {
+      "album": {
+        "name": "Not For Nothing",
+        "url": "https://open.spotify.com/album/3t4jeHoOlorl3UD51Q1wsk"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        },
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205811,
+      "name": "Follow Me Down",
+      "url": "https://open.spotify.com/track/6CpymmOsn2sphJ8PIsGgxE"
     },
     {
       "album": {
@@ -3372,7 +3430,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 163038,
       "name": "How The Story Goes",
       "url": "https://open.spotify.com/track/4NAsqMOlrIhWwDMHh3PL5m"
@@ -3934,7 +3992,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 254637,
       "name": "In All, Sustain All",
       "url": "https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic"
@@ -4804,7 +4862,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 199698,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
@@ -4858,7 +4916,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 169204,
       "name": "Love Me Still",
       "url": "https://open.spotify.com/track/4MojCu7yzaGXL2J3cswgN8"
@@ -5108,7 +5166,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 210839,
       "name": "misguided*",
       "url": "https://open.spotify.com/track/7rXtKzAhAKsjbH488ucXBZ"
@@ -5591,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "nothing to lose!",
+        "url": "https://open.spotify.com/album/1vdWPHf8B2sXr8HcLS9w5b"
+      },
+      "artists": [
+        {
+          "name": "HOMECOMING",
+          "url": "https://open.spotify.com/artist/4HNKPi9snti1H0ISjcTslT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "nothing to lose!",
+      "url": "https://open.spotify.com/track/27bAyGhdqELvShC9xNDMJP"
+    },
+    {
+      "album": {
         "name": "oasis for my soul",
         "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
       },
@@ -5804,6 +5880,28 @@
       "duration_ms": 248347,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"
+    },
+    {
+      "album": {
+        "name": "Only One That Matters",
+        "url": "https://open.spotify.com/album/7HhahFU4VcDw0bQqsdK4qs"
+      },
+      "artists": [
+        {
+          "name": "Ethan Beer",
+          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Only One That Matters",
+      "url": "https://open.spotify.com/track/0NaFnPszXIlEyXLrWcuKo3"
     },
     {
       "album": {
@@ -6064,7 +6162,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 235384,
       "name": "Psalm 23",
       "url": "https://open.spotify.com/track/3hS5LrC0fxNpnGi7K5bues"
@@ -6086,6 +6184,24 @@
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+    },
+    {
+      "album": {
+        "name": "Push Away",
+        "url": "https://open.spotify.com/album/3CR9aPiKFEtEHOky4P4vvH"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "Push Away",
+      "url": "https://open.spotify.com/track/2X5ogUNvOzNyk4SpjhnuLh"
     },
     {
       "album": {
@@ -6892,7 +7008,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 229250,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/62Hv5THS0foe6h4W5Nlmuf"
@@ -7048,6 +7164,24 @@
       "duration_ms": 207471,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
+    },
+    {
+      "album": {
+        "name": "Talking Like Friends",
+        "url": "https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292857,
+      "name": "Talking Like Friends",
+      "url": "https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht"
     },
     {
       "album": {
@@ -7791,6 +7925,28 @@
     },
     {
       "album": {
+        "name": "Waiting On The Weekends",
+        "url": "https://open.spotify.com/album/6fD2t84TN3EHrfhJhlgpos"
+      },
+      "artists": [
+        {
+          "name": "Maddie Moon",
+          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
+        },
+        {
+          "name": "THE ONE HE LOVED",
+          "url": "https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Waiting On The Weekends",
+      "url": "https://open.spotify.com/track/1Ar5pOrp2x5LdZ1U0lqPFZ"
+    },
+    {
+      "album": {
         "name": "Baptized Imagination",
         "url": "https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE"
       },
@@ -8040,7 +8196,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 254285,
       "name": "When Wind Meets Fire - Almost Acapella",
       "url": "https://open.spotify.com/track/05L730nbEVOh2fIqNq4xQx"
@@ -8290,6 +8446,24 @@
       "duration_ms": 136941,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/5JRj8BdNDnBQLWHF9Vurtw"
+    },
+    {
+      "album": {
+        "name": "Woke Up",
+        "url": "https://open.spotify.com/album/1Yfmg2d9nIcaeZNRjjJdzX"
+      },
+      "artists": [
+        {
+          "name": "Beach Chapel",
+          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226253,
+      "name": "Woke Up",
+      "url": "https://open.spotify.com/track/0AZCy3fFvxFh3RENipwxvK"
     },
     {
       "album": {
@@ -8650,7 +8824,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 168000,
       "name": "Yung4ever",
       "url": "https://open.spotify.com/track/7yYy3d76J7gSObU7lCJ3VI"

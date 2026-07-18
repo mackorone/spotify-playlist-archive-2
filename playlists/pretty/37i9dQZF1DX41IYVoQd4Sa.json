@@ -679,22 +679,6 @@
     {
       "added_at": "2026-07-16 21:00:25",
       "album": {
-        "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
-        "url": "https://open.spotify.com/album/1aIxpfJMLpgiPtnYZibNbt"
-      },
-      "artists": [
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
-      "url": "https://open.spotify.com/track/7IvjKMzyMgfJIEO1cBn2ze"
-    },
-    {
-      "added_at": "2026-07-16 21:00:25",
-      "album": {
         "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
         "url": "https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J"
       },
@@ -711,34 +695,18 @@
     {
       "added_at": "2026-07-16 21:00:25",
       "album": {
-        "name": "\u05d0\u05d9",
-        "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
+        "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
+        "url": "https://open.spotify.com/album/1aIxpfJMLpgiPtnYZibNbt"
       },
       "artists": [
         {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 194040,
-      "name": "\u05de\u05d7\u05d1\u05e8\u05ea \u05db\u05d0\u05d1",
-      "url": "https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j"
-    },
-    {
-      "added_at": "2026-07-16 21:00:25",
-      "album": {
-        "name": "\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05dc \u05e1\u05d5\u05e1 \u05e4\u05e8\u05d0",
-        "url": "https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx"
-      },
-      "artists": [
-        {
-          "name": "Shae",
-          "url": "https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "\u05e0\u05d9\u05d2\u05d5\u05df \u05e2\u05ea\u05d9\u05e7",
-      "url": "https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI"
+      "duration_ms": 222000,
+      "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
+      "url": "https://open.spotify.com/track/7IvjKMzyMgfJIEO1cBn2ze"
     },
     {
       "added_at": "2026-07-16 21:00:25",
@@ -767,6 +735,38 @@
       "duration_ms": 182638,
       "name": "African Coast",
       "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
+    },
+    {
+      "added_at": "2026-07-16 21:00:25",
+      "album": {
+        "name": "\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05dc \u05e1\u05d5\u05e1 \u05e4\u05e8\u05d0",
+        "url": "https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx"
+      },
+      "artists": [
+        {
+          "name": "Shae",
+          "url": "https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "\u05e0\u05d9\u05d2\u05d5\u05df \u05e2\u05ea\u05d9\u05e7",
+      "url": "https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI"
+    },
+    {
+      "added_at": "2026-07-16 21:00:25",
+      "album": {
+        "name": "\u05d0\u05d9",
+        "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "\u05de\u05d7\u05d1\u05e8\u05ea \u05db\u05d0\u05d1",
+      "url": "https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j"
     },
     {
       "added_at": "2026-07-16 21:00:25",

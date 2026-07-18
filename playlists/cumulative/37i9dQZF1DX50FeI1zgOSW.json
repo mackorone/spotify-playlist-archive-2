@@ -1181,6 +1181,32 @@
     },
     {
       "album": {
+        "name": "Atti Poda Vaa Mame",
+        "url": "https://open.spotify.com/album/0vZUP0HDUcApozVoAxZS2a"
+      },
+      "artists": [
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        },
+        {
+          "name": "Swathi",
+          "url": "https://open.spotify.com/artist/72S4mb0MZM5unEBKWzqRP3"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189928,
+      "name": "Atti Poda Vaa Mame",
+      "url": "https://open.spotify.com/track/35jglKbFFjw0CoGTnjWvVY"
+    },
+    {
+      "album": {
         "name": "Aval",
         "url": "https://open.spotify.com/album/2mtmYPIe6T0m0e1MlkpvQI"
       },
@@ -1490,7 +1516,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 182769,
       "name": "Azhakiye",
       "url": "https://open.spotify.com/track/4K5lsr5a16XtOuoVxg6JeZ"
@@ -1828,7 +1854,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 264309,
       "name": "Bloom (From \"Loopd\")",
       "url": "https://open.spotify.com/track/71EPZfwovhyjD3Goi3Ns5x"
@@ -6168,7 +6194,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 198400,
       "name": "Kanakku",
       "url": "https://open.spotify.com/track/0xUQbI9pa7XwByX1iNH7j6"
@@ -6676,7 +6702,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 193333,
       "name": "Kannala Thakatha",
       "url": "https://open.spotify.com/track/3cCGoJrXV5LAS2uuV8CvEh"
@@ -8604,6 +8630,24 @@
       "duration_ms": 64864,
       "name": "Mayangi Porene",
       "url": "https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su"
+    },
+    {
+      "album": {
+        "name": "Mayile Mantharame",
+        "url": "https://open.spotify.com/album/2LiCtE6U5MGRESXJlMm2cn"
+      },
+      "artists": [
+        {
+          "name": "Anthakudi Ilayaraja",
+          "url": "https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Mayile Mantharame",
+      "url": "https://open.spotify.com/track/0PqDmBZcOVk31wRtlPFVuq"
     },
     {
       "album": {
@@ -15036,7 +15080,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 165000,
       "name": "Therukoothu",
       "url": "https://open.spotify.com/track/0vGYgdsbjZTDwrlNJofjuz"

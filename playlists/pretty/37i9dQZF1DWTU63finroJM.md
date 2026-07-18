@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JBABE
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,258 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,256 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 17 | [Could've Been](https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Could've Been](https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT) | 2:45 |
 | 18 | [Cries in Crocodile](https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa) | [JBABE](https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby) | [A Little Larger Than The Entire Universe](https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2) | 3:01 |
 | 19 | [Antipatica](https://open.spotify.com/track/3DRoZ6h54bS2JfWd8bAmvJ) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:16 |
-| 20 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
-| 21 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 |
+| 20 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 |
+| 21 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
 | 22 | [Bİ DAHA DÖNMEM](https://open.spotify.com/track/4HzcajLTN9Nr0Bml0coNbv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [Bİ DAHA DÖNMEM](https://open.spotify.com/album/1TKonbiCF4nE7pW7AVfC2w) | 2:31 |
-| 23 | [Sesquicentennial](https://open.spotify.com/track/2mL6kQBqh3uy8RqYftposl) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sesquicentennial](https://open.spotify.com/album/6oA7RFLJEdoJBlRWrsIb0a) | 3:12 |
-| 24 | [IOIO](https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [IOIO](https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30) | 2:49 |
+| 23 | [IOIO](https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [IOIO](https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30) | 2:49 |
+| 24 | [Sesquicentennial](https://open.spotify.com/track/2mL6kQBqh3uy8RqYftposl) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sesquicentennial](https://open.spotify.com/album/6oA7RFLJEdoJBlRWrsIb0a) | 3:12 |
 | 25 | [MR\. SMILE](https://open.spotify.com/track/3ez7xQy4UKDqnCPz0q6cxc) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [MR\. SMILE](https://open.spotify.com/album/66P2RDdsOcRXDrDLVW5rhR) | 3:48 |
 | 26 | [Argentina Is Daing](https://open.spotify.com/track/1J9ZUpfmloiO4cKPJqhak3) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [Argentina Is Daing](https://open.spotify.com/album/4BHZFzDdF6HLHWrrKILekF) | 2:28 |
 | 27 | [girlhood](https://open.spotify.com/track/4Fx0LtLzhMvxSGSyfPIQeK) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:51 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Karen Jonz, Fernanda Takai",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Carmino",
   "name": "alt BR",
   "tracks": [
     {
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 230772,
       "name": "Descansad\u00e3o",
       "url": "https://open.spotify.com/track/74rzS1YhGpXzqb00TF1BjS"
@@ -6101,6 +6101,24 @@
     },
     {
       "album": {
+        "name": "quero ir pra casa",
+        "url": "https://open.spotify.com/album/6q4od1wo4vEx4ykGSTJpHu"
+      },
+      "artists": [
+        {
+          "name": "ursamenor",
+          "url": "https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192105,
+      "name": "eu sei muito bem",
+      "url": "https://open.spotify.com/track/0Q5HcBX5eqM6ciNMdIxlP3"
+    },
+    {
+      "album": {
         "name": "Eu Sinto Falta de Voc\u00ea",
         "url": "https://open.spotify.com/album/2O1LO8PS7qlmPZH1VZCTtg"
       },
@@ -6334,6 +6352,24 @@
       "duration_ms": 181209,
       "name": "Experimento de Observa\u00e7\u00e3o 5353",
       "url": "https://open.spotify.com/track/5Y9LpbRCeLibZyaYlPTC0H"
+    },
+    {
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/6zdZyXRycmRScvnimJkSNj"
+      },
+      "artists": [
+        {
+          "name": "Erro Cora\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/128k4zZvKWQ43qw2KJsNKA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/6Dqp3yGMW9Ieenpra36Quz"
     },
     {
       "album": {
@@ -11044,7 +11080,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 213920,
       "name": "N\u00c3O VOU DAN\u00c7AR NA SUA PISTA - JoJo Version",
       "url": "https://open.spotify.com/track/5UCgxzdH4aiE84j2k8qMge"
@@ -12878,7 +12914,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 237500,
       "name": "Presente",
       "url": "https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY"
@@ -13034,6 +13070,24 @@
       "duration_ms": 256625,
       "name": "p\u00e9 na areia",
       "url": "https://open.spotify.com/track/2n2NLaRHgCUNIK6vQIyVEu"
+    },
+    {
+      "album": {
+        "name": "P\u00e9gaso",
+        "url": "https://open.spotify.com/album/2WLLocXOrTbqRvCKpxMPRh"
+      },
+      "artists": [
+        {
+          "name": "Carmino",
+          "url": "https://open.spotify.com/artist/2q4wKrkDhx0s9zhcZxlIX2"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249398,
+      "name": "P\u00e9gaso",
+      "url": "https://open.spotify.com/track/6Tz4qXP09rIOhYFhht69xy"
     },
     {
       "album": {
@@ -13854,7 +13908,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 485226,
       "name": "Sabo",
       "url": "https://open.spotify.com/track/0ABwGonw1WbL4BouDlRgeO"
@@ -14676,6 +14730,24 @@
       "duration_ms": 272673,
       "name": "slow down / vc me disse",
       "url": "https://open.spotify.com/track/2GVOf10WzZfkAUYJL4CYL8"
+    },
+    {
+      "album": {
+        "name": "Slowdancing",
+        "url": "https://open.spotify.com/album/2esz0fEXPbuLkodnlHPkbU"
+      },
+      "artists": [
+        {
+          "name": "Marina Mole",
+          "url": "https://open.spotify.com/artist/2NfeWZIShKTCykmRDr3HWv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Slowdancing",
+      "url": "https://open.spotify.com/track/1KQpLRKz2pFNcW321SMrXK"
     },
     {
       "album": {
@@ -17399,6 +17471,28 @@
     },
     {
       "album": {
+        "name": "voc\u00ea flutua?",
+        "url": "https://open.spotify.com/album/3TSmJYVVVEa7WKeoIahNNd"
+      },
+      "artists": [
+        {
+          "name": "Cecilia j\u00e1 n\u00e3o \u00e9 + a mesma",
+          "url": "https://open.spotify.com/artist/6VW3jkSMQuIxnWOiUkXrmQ"
+        },
+        {
+          "name": "Niery",
+          "url": "https://open.spotify.com/artist/6lHHStJk0BXXjCUZQ4kGM6"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251371,
+      "name": "voc\u00ea flutua?",
+      "url": "https://open.spotify.com/track/0aG28IoMrqCTZv9Santu0R"
+    },
+    {
+      "album": {
         "name": "Sem Fronteiras",
         "url": "https://open.spotify.com/album/6JXjV8CKdndWGknRTAZsR9"
       },
@@ -17542,7 +17636,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 206669,
       "name": "Voc\u00ea \u00c9 Marcante - Rock Doido Mix",
       "url": "https://open.spotify.com/track/4zrCqMzFIkW5e9dletNJBZ"

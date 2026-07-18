@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Wincent Weiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,564 likes - 90 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,594 likes - 90 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

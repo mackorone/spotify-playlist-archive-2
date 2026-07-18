@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 375402,
+  "num_followers": 375422,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAACdF7SmZ6gpgx1Ot0aiYqx3",
+  "snapshot_id": "algfAAAAAADBvA7kscDrbCj1JaiQB48L",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 197026,
-      "name": "Un Viejo Amor",
-      "url": "https://open.spotify.com/track/3DReAwTPRU1HNKEhLK09iU"
+      "duration_ms": 189893,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 189893,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp"
+      "duration_ms": 197026,
+      "name": "Un Viejo Amor",
+      "url": "https://open.spotify.com/track/3DReAwTPRU1HNKEhLK09iU"
     },
     {
       "added_at": null,

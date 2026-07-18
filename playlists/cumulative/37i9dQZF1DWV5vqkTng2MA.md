@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Luke Tyler Shelton
 
-342 songs - 20 hr 24 min
+343 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [It Must Change](https://open.spotify.com/track/2rmZqNkj6fD8ZLWJaKmv4F) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/2nPZjmyFTEHMN9L9fvHtSw) | 4:55 | 2023-05-19 | 2023-06-22 |
 | [It Must Change](https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz) | 4:55 | 2023-05-19 | 2024-03-10 |
 | [It Must Change](https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk) | 4:55 | 2024-03-01 |  |
-| [It's A Joy To Be Alive](https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [It's A Joy To Be Alive](https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw) | 4:20 | 2026-06-05 |  |
+| [It's A Joy To Be Alive](https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [It's A Joy To Be Alive](https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw) | 4:20 | 2026-06-05 | 2026-07-18 |
 | [It's Been Too Long \(Since I've Loved Someone\)](https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [It's Been Too Long \(Since I've Loved Someone\)](https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv) | 2:58 | 2025-06-13 |  |
 | [Jack of Fools](https://open.spotify.com/track/1Fx7t6OvcoswWDtOlh1NcL) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Jack of Fools](https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR) | 4:48 | 2021-10-01 | 2022-07-29 |
 | [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 | 2022-08-02 | 2022-10-11 |
@@ -277,6 +277,7 @@
 | [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 |  |
 | [Sold My Soul](https://open.spotify.com/track/07YRWfNwH15kXCAz9E6GBR) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/1GvCetmOWQbkkmG6fpXWgu) | 6:11 | 2021-10-01 | 2022-07-29 |
 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 | 2022-06-01 | 2024-04-19 |
+| [Someday We Will Dream About Today](https://open.spotify.com/track/6uP0VxENeujP2hrFTXjodu) | [The Sways](https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3) | [Someday We Will Dream About Today](https://open.spotify.com/album/717YXqrCFiFsP2tpDHQaDZ) | 3:00 | 2026-07-17 |  |
 | [someone to you](https://open.spotify.com/track/7uk0hE1Wa4QaFHzEbLPhwt) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [someone to you](https://open.spotify.com/album/4WcXbD9aj2KAajoRnHK20p) | 3:19 | 2026-04-10 |  |
 | [Something In The Water](https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Something In The Water](https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM) | 3:23 | 2021-10-01 |  |
 | [Songs About You](https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Songs About You](https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc) | 3:37 | 2026-06-12 |  |

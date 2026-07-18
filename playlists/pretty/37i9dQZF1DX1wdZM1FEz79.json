@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: 10CM) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 298449,
+  "num_followers": 298461,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIOFRMeAI+uU75KJLW3B9RUtjbq",
+  "snapshot_id": "AAAAAJBbbfAow4LyXqItzrsEYRTuUUdD",
   "tracks": [
     {
       "added_at": "2026-07-08 04:10:08",
@@ -327,18 +327,18 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "Find You",
-        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+      "duration_ms": 175000,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "Hello, goodbye.",
-        "url": "https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja"
+        "name": "Mutualism",
+        "url": "https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1"
       },
       "artists": [
         {
-          "name": "Isaac Hong",
-          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Hello, goodbye.",
-      "url": "https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX"
+      "duration_ms": 201000,
+      "name": "seesaw",
+      "url": "https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -643,6 +643,22 @@
       "duration_ms": 182013,
       "name": "Yours Sincerely",
       "url": "https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I"
+    },
+    {
+      "added_at": "2026-07-08 04:10:08",
+      "album": {
+        "name": "Hello, goodbye.",
+        "url": "https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hello, goodbye.",
+      "url": "https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -667,22 +683,6 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "friend to lover",
-        "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 187946,
-      "name": "friend to lover",
-      "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
-    },
-    {
-      "added_at": "2026-07-08 04:10:08",
-      "album": {
         "name": "You're My Pretty Star",
         "url": "https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf"
       },
@@ -699,34 +699,18 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
+        "name": "friend to lover",
+        "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
       },
       "artists": [
         {
-          "name": "Isaac Hong",
-          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 226986,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
-    },
-    {
-      "added_at": "2026-07-08 04:10:08",
-      "album": {
-        "name": "Mutualism",
-        "url": "https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1"
-      },
-      "artists": [
-        {
-          "name": "MRCH",
-          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "seesaw",
-      "url": "https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd"
+      "duration_ms": 187946,
+      "name": "friend to lover",
+      "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -743,6 +727,22 @@
       "duration_ms": 223933,
       "name": "Life goes on",
       "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
+    },
+    {
+      "added_at": "2026-07-08 04:10:08",
+      "album": {
+        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "What can I do",
-        "url": "https://open.spotify.com/album/4eV349LplmfXn5COoDAriG"
+        "name": "Album 0",
+        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
       },
       "artists": [
         {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
         }
       ],
-      "duration_ms": 207788,
-      "name": "What can I do",
-      "url": "https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv"
+      "duration_ms": 173000,
+      "name": "I\u2019m No Astronomer, But",
+      "url": "https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

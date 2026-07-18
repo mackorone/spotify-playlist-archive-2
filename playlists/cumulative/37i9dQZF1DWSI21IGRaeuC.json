@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 222829,
       "name": "Back Pressure",
       "url": "https://open.spotify.com/track/4UAQbIQNigCfJx4fCv4gCY"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 214564,
       "name": "Bass Jump",
       "url": "https://open.spotify.com/track/4yeL38PURk2TrKQw2WC1Zo"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 225454,
       "name": "Bass Rider",
       "url": "https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N"
@@ -2856,6 +2856,24 @@
       "duration_ms": 186666,
       "name": "Burndown",
       "url": "https://open.spotify.com/track/0nWX5MYxTp2z0bCPfqdahA"
+    },
+    {
+      "album": {
+        "name": "Burnin' (2026 Remix)",
+        "url": "https://open.spotify.com/album/42baliS0uXFcYAYFdsggDq"
+      },
+      "artists": [
+        {
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149552,
+      "name": "Burnin' (2026 Remix)",
+      "url": "https://open.spotify.com/track/7LWHF6fHELXfQ4Z45BZdSN"
     },
     {
       "album": {
@@ -6736,7 +6754,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 176144,
       "name": "Freak Like Me - Ben Kim Remix",
       "url": "https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6"
@@ -7488,7 +7506,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 384155,
       "name": "Get Loose",
       "url": "https://open.spotify.com/track/4tsOLecIcXkaOdSBMRxFlq"
@@ -8689,6 +8707,24 @@
     },
     {
       "album": {
+        "name": "Hey Everybody (Back In The Dance)",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156498,
+      "name": "Hey Everybody (Back In The Dance)",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "album": {
         "name": "High For You",
         "url": "https://open.spotify.com/album/3fu36fH3ZLGbo6kzSL6VXD"
       },
@@ -9425,6 +9461,24 @@
     },
     {
       "album": {
+        "name": "I Just Need You",
+        "url": "https://open.spotify.com/album/4DvmM8xYBgAvjUS1bDbQvy"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "I Just Need You",
+      "url": "https://open.spotify.com/track/1DKmvYdvympuinKv3bXhev"
+    },
+    {
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6ywoB9hVatWArPteOqzH1a"
       },
@@ -9712,7 +9766,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 169218,
       "name": "In Love With My 909",
       "url": "https://open.spotify.com/track/17uV2PyLB4lRGIMnsI3WHy"
@@ -10220,6 +10274,28 @@
       "duration_ms": 226976,
       "name": "Jam Is Pumping",
       "url": "https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW"
+    },
+    {
+      "album": {
+        "name": "Jammin'",
+        "url": "https://open.spotify.com/album/1WTjMMgwk5HEzpvwuw2NBy"
+      },
+      "artists": [
+        {
+          "name": "Simon Kidzoo",
+          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
+        },
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181648,
+      "name": "Jammin",
+      "url": "https://open.spotify.com/track/73HI3WuwM7W12t1X3x12Vr"
     },
     {
       "album": {
@@ -11840,6 +11916,24 @@
       "duration_ms": 193605,
       "name": "Louder",
       "url": "https://open.spotify.com/track/6Gk16Y5baO26U4hmIfQ5F2"
+    },
+    {
+      "album": {
+        "name": "Satellite Phase EP",
+        "url": "https://open.spotify.com/album/6VHGzqMNRNzuMxuBlloyBt"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186568,
+      "name": "Love Games",
+      "url": "https://open.spotify.com/track/07G7jbxZhIH0Y6YXe0XnV5"
     },
     {
       "album": {
@@ -17395,6 +17489,28 @@
     },
     {
       "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/2dIF1VlTdYgJxZ2tvElVgr"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226259,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/1Q24Vs2ynPhDpg4XCuxdR4"
+    },
+    {
+      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -19742,6 +19858,32 @@
       "duration_ms": 208659,
       "name": "The Bag",
       "url": "https://open.spotify.com/track/0m5nAnFPuQb6KZsiNPyMT3"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        },
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        },
+        {
+          "name": "Nate Katz",
+          "url": "https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"
     },
     {
       "album": {
@@ -22156,7 +22298,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 220168,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt"

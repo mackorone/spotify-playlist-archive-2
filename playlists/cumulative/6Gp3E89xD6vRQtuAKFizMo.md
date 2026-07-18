@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-569 songs - 1 day 3 hr 10 min
+570 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/track/7M58XwtXlqzuRvf25OnWy7) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Sai Sen](https://open.spotify.com/artist/0ObVSKfdMjPuYydCBG4TX3), [Iamsbf](https://open.spotify.com/artist/21vmR8ceieOHaiCvuwlLpI) | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y) | 2:57 | 2022-06-03 | 2022-10-29 |
 | [I'm 2 Weak](https://open.spotify.com/track/2n30tiywW1DNklDW943X4p) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [I'm 2 Weak](https://open.spotify.com/album/1fdcVT2k3bpnryBwbAZrb0) | 2:54 | 2025-09-19 |  |
 | [IDGAF](https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [IDGAF](https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i) | 3:21 | 2025-02-14 |  |
+| [Illuminate Me](https://open.spotify.com/track/5muNBA2TfDmtkrXmXUqEB5) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Illuminate Me](https://open.spotify.com/album/4GDbny8PiEaVTetogHpmnq) | 3:31 | 2026-07-17 |  |
 | [Illusion](https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Illusion](https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW) | 3:27 | 2022-10-27 | 2023-02-04 |
 | [Impeccable](https://open.spotify.com/track/5QLYGIPM6a5ZikKcn6hj48) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Impeccable](https://open.spotify.com/album/0ZBPGCXv01PeTM6kCMBjyi) | 2:21 | 2024-08-30 | 2025-04-27 |
 | [In Da Booth](https://open.spotify.com/track/6IuEVi1CUswoTeTe5dXGfB) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [In Da Booth](https://open.spotify.com/album/1a3UzxhZGc8tzNQPvEg8XY) | 2:29 | 2026-07-10 |  |

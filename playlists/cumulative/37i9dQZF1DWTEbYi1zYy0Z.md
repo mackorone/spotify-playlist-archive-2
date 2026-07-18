@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-553 songs - 1 day 15 hr 8 min
+555 songs - 1 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Dirty Dozen](https://open.spotify.com/track/6xAwvLnRA9QcxdZNNEIsx8) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Dirty Dozen](https://open.spotify.com/album/6ePyOueklnKrmRG3H3PVrs) | 5:08 | 2021-01-22 | 2022-03-17 |
 | [Dirty Martini](https://open.spotify.com/track/5SM7Y1qawtGkIVqjqHNZrM) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds) | [Dirty Martini](https://open.spotify.com/album/5D69NbhIWwxFa3bHYMkS6K) | 3:35 | 2022-09-30 | 2024-02-17 |
 | [Do I Do](https://open.spotify.com/track/6Hb966XHYqgzBW701zsJMX) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Do I Do](https://open.spotify.com/album/6TZE2Yv5CjiHYlyxdHkNYQ) | 4:11 | 2022-05-20 | 2023-10-14 |
-| [Do You Really Trust Yourself](https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Lukas Thoeni](https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9) | [Do You Really Trust Yourself](https://open.spotify.com/album/3FIGKThoaQz1jLMcK2rap9) | 2:16 | 2023-07-07 |  |
+| [Do You Really Trust Yourself](https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Lukas Thoeni](https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9) | [Do You Really Trust Yourself](https://open.spotify.com/album/3FIGKThoaQz1jLMcK2rap9) | 2:16 | 2023-07-07 | 2026-07-18 |
 | [Don't Dance Just Groove](https://open.spotify.com/track/3dsXfrmwFbFDIVonEmffrD) | [Brien Andrews](https://open.spotify.com/artist/0xQmAh1v4k0K5fydCXzC2v), [Mike Burton](https://open.spotify.com/artist/22tMPEnDoxqZCe1K0e8Bgf), [Rick Watford](https://open.spotify.com/artist/7kQ3e3lxm8YZZOxJRTFVlS) | [Don't Dance Just Groove](https://open.spotify.com/album/4VzSPapYMrZZ8jDInirxmc) | 4:00 | 2020-10-30 | 2022-03-17 |
 | [Donut Jam](https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs) | [Peet Project](https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD) | [Donut Jam](https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ) | 3:36 | 2022-09-02 | 2024-02-17 |
 | [Double Trouble](https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr) | [Greg Chambers](https://open.spotify.com/artist/0oj9oLaApiDmqUbY0Q6WnN) | [No Looking Back](https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j) | 4:21 | 2021-10-01 | 2022-09-17 |
@@ -214,6 +214,7 @@
 | [Happy Hour](https://open.spotify.com/track/3iZDt8tUUKq5KblXWZGXiL) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Happy Hour](https://open.spotify.com/album/0OVp7l61NtLRuQauGUSoLJ) | 4:03 | 2024-08-23 |  |
 | [Happy Smooth Jazz](https://open.spotify.com/track/1aKkIqj3xTy2p41Le9uThV) | [Little Mary](https://open.spotify.com/artist/71hy1MirADf5VEb3BqgmKz), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Happy Smooth Jazz](https://open.spotify.com/album/3HRdOUQrnMrSrvhbSzEJx5) | 2:23 | 2024-08-02 |  |
 | [Hear At Last](https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E) | [Hear at Last](https://open.spotify.com/album/3QWI2FECarl04d4WF2COUe) | 3:56 | 2021-07-23 | 2022-07-24 |
+| [Heart Of Gold](https://open.spotify.com/track/7LTjvG0l6UrXGMdl5Efh9U) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [The Phoenix](https://open.spotify.com/album/0RkCLagJCR15B421nm6KZv) | 4:57 | 2026-07-17 |  |
 | [Heart To Heart](https://open.spotify.com/track/3BB10qk3KvJ5dfUYpIG3yU) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 4:11 | 2020-10-30 | 2022-03-18 |
 | [Heartwood](https://open.spotify.com/track/2v3nj34zNc1gt2cySA9992) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [Heartwood](https://open.spotify.com/album/5v508FMhSlWdwqg5kUXqsX) | 5:14 | 2023-05-19 | 2025-08-02 |
 | [Heat](https://open.spotify.com/track/3a7zmPCdfzu6JKwTpPPoNP) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Heat](https://open.spotify.com/album/6rFoUDFCO3v0HqXUlxlsGB) | 3:53 | 2021-01-08 | 2022-03-18 |
@@ -379,7 +380,7 @@
 | [Pirate's Cove \- Alternate Version](https://open.spotify.com/track/0mX1zEA5rPyFDYXfoST0N5) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Dan Fornero](https://open.spotify.com/artist/6qjRjodgORE8NHVMK71Mc7) | [Pirate's Cove](https://open.spotify.com/album/000gHk5TtVLp7LLAWsSlhm) | 4:37 | 2020-10-30 | 2022-02-18 |
 | [Planet Smooth](https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z) | [Dean James](https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu) | [GroovySax](https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3) | 4:11 | 2021-08-20 | 2022-09-17 |
 | [Play the Groove](https://open.spotify.com/track/63wbDskogH4H0hjk3jvR3r) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [Play the Groove](https://open.spotify.com/album/0iVAQAJOgbwXHQSXnx50jq) | 4:21 | 2020-10-30 | 2022-03-18 |
-| [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 | 2023-08-25 |  |
+| [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 | 2023-08-25 | 2026-07-18 |
 | [Pocket Change](https://open.spotify.com/track/20snJJndKSSbLElgCXgdIe) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Pocket Change](https://open.spotify.com/album/5TSjBEXc9N8wFHUigfIjxx) | 4:03 | 2024-01-05 |  |
 | [Poolside](https://open.spotify.com/track/6VaD7LbQO6OekSsynIgmrd) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [SHINE!](https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL) | 5:14 | 2022-02-07 | 2023-04-09 |
 | [Prime Time](https://open.spotify.com/track/3B9f8Piyib9RZsl4ikNhjK) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Prime Time](https://open.spotify.com/album/4xJ1NsoqjtwRuubt32onWm) | 4:00 | 2021-10-01 | 2022-07-29 |
@@ -456,6 +457,7 @@
 | [Strasbourg / St\. Denis \(feat\. Dr Derek Scott\)](https://open.spotify.com/track/0YD0deFXaCmwJEtZxgjUHf) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Dr Derek Scott](https://open.spotify.com/artist/2miOGhYr50EB1eY2Sm0uii) | [Going Home](https://open.spotify.com/album/26iW490GVru2pH1WWU2Lln) | 4:41 | 2020-10-30 | 2022-03-18 |
 | [Stratosphere](https://open.spotify.com/track/2W540AXgdQY51tgniBvmIo) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Poetry In Motion](https://open.spotify.com/album/3HUr0DgkXGWecERNILMjg9) | 4:40 | 2020-10-30 | 2022-03-15 |
 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 | 2022-07-01 | 2024-01-27 |
+| [Strollin'](https://open.spotify.com/track/5qD4Zm5ttUXOAsW18xfAki) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Strollin'](https://open.spotify.com/album/7ntJSSAKg3nPnad334iGjv) | 4:30 | 2026-07-17 |  |
 | [Stuck On You](https://open.spotify.com/track/28pRJ88lbv2cHjUCfVDl7F) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Stuck On You](https://open.spotify.com/album/5N6JYfH9qeP3YCr97dmkKX) | 3:59 | 2026-03-13 |  |
 | [Style and Elegance](https://open.spotify.com/track/28ShD9XejF8Eaxauf6pNkM) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Style and Elegance](https://open.spotify.com/album/66IorYIoY6dmiJLbJfBfGx) | 4:11 | 2020-10-30 | 2022-03-14 |
 | [Summer Cool](https://open.spotify.com/track/6NNomm02RjhU5I87qcegN1) | [Gary Honor](https://open.spotify.com/artist/3aqXxbZKJl9CRFZABtpXdp) | [Summer Cool](https://open.spotify.com/album/4CEKyxig8BDRyuMz2DOJks) | 4:10 | 2021-08-06 | 2022-07-28 |

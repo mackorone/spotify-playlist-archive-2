@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: Keith Ape\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: untell\)
 
-1,937 songs - 4 day 7 hr 19 min
+1,939 songs - 4 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [BEAT THE CASE](https://open.spotify.com/track/5yFccytHVcHeeI6pUhGUkb) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [KCTAPE, Vol\. 1](https://open.spotify.com/album/5HOAYUSRwCgV0SVxcug4l3) | 2:30 | 2024-05-24 | 2024-09-20 |
 | [Beautiful \(feat\. B.I\)](https://open.spotify.com/track/1ge1KSTMkRr6xLL3xjiLmx) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Beautiful \(feat\. B.I\)](https://open.spotify.com/album/2UaXHvolN0TrODffdIxHs5) | 2:43 | 2024-04-11 | 2024-06-29 |
 | [Because man](https://open.spotify.com/track/41kg31XSv43evUv1KJjmTp) | [Potty Monkey](https://open.spotify.com/artist/4vy6l0BczucI2I2ax6tPhO) | [Stairs](https://open.spotify.com/album/1NtradPmzhPl0R4mlnWbqk) | 2:36 | 2025-06-11 | 2025-09-09 |
+| [Bedroom Trip](https://open.spotify.com/track/7IgqalEZ1xisip3UudYGtC) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [Bedroom Trip](https://open.spotify.com/album/1HDyIVnpOFHK3tRUWjdnKQ) | 2:00 | 2026-07-17 |  |
 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2021-12-18 | 2022-07-05 |
 | [Bentley](https://open.spotify.com/track/2LLLwm6I3SMEBbs32llNlM) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [1 Life 2 Live](https://open.spotify.com/album/6r9mSEE0PzpUPlHITEXddP) | 3:51 | 2024-04-05 | 2024-04-12 |
 | [BENTLEY 2](https://open.spotify.com/track/3Lye9n9zKVuJyB51jmp8EL) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 2](https://open.spotify.com/album/4fSn71IKAOVVu5ujvYG46a) | 4:13 | 2022-12-27 | 2026-02-12 |
@@ -502,6 +503,7 @@
 | [FAST CAR](https://open.spotify.com/track/0TQaONVVeqCZo3jxPIPcVl) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [FAST CAR](https://open.spotify.com/album/3SQ7gbz9AkWT751cyw0IPx) | 3:01 | 2022-09-06 | 2022-12-20 |
 | [Fax \(Prod\. GroovyRoom\)](https://open.spotify.com/track/5nwoUaZyXHWb0J11gznm4v) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 2:53 | 2022-07-24 | 2022-12-20 |
 | [FEEL LIKE THAT \(Feat\. BLASÉ, Wuuslime\)](https://open.spotify.com/track/1PrpLX3txL6egXhwSNuQCL) | [Kimmy gone](https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm) | [SPAZ](https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT) | 2:47 | 2025-09-17 | 2025-12-31 |
+| [Fever](https://open.spotify.com/track/3sBQLcmO7FDs9Mg73YuYXI) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [ILLSAMGONGGONG](https://open.spotify.com/album/0zKDd0987mzYkz7k8Dnn9K) | 3:09 | 2026-07-17 |  |
 | [Film](https://open.spotify.com/track/7qxpSOYNnPTKsyjRUt4kX3) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [Film with KozyPop](https://open.spotify.com/album/34exZFJvVsxJx9iraXXgYE) | 3:16 | 2021-12-21 | 2022-07-06 |
 | [fine! \(Feat\. Kid Milli\)](https://open.spotify.com/track/7gxi8TAbdZaG0DYKv05237) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [fine!](https://open.spotify.com/album/0PS4f64PLmmhCAwFvscJIl) | 3:15 | 2021-12-18 | 2022-07-08 |
 | [First date](https://open.spotify.com/track/4Nhx2WeOEfyk7wdBemVkwr) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd) | [I S2 MY WONDERFUL DAYS \(Prod\. Vangdale\)\(Feat\. Paper Brick\)](https://open.spotify.com/album/3YCrPC7iWGlFtGfnUev1uX) | 2:43 | 2022-01-04 | 2022-06-25 |

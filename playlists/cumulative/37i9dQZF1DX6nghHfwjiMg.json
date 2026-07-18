@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 158811,
       "name": "Ajo y agua",
       "url": "https://open.spotify.com/track/56n6vTGk13eRUimIfcN8Ue"
@@ -2657,6 +2657,28 @@
     },
     {
       "album": {
+        "name": "Justo Hoy No.",
+        "url": "https://open.spotify.com/album/3G7ji8qFTQAEA35dLze9Dc"
+      },
+      "artists": [
+        {
+          "name": "Joako Garcia",
+          "url": "https://open.spotify.com/artist/0UDzdnndviQU4dtzQ47zqz"
+        },
+        {
+          "name": "Martin Valci",
+          "url": "https://open.spotify.com/artist/1eIoP0JCz8NYNJE1oDgtN0"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203014,
+      "name": "Justo Hoy No.",
+      "url": "https://open.spotify.com/track/0FOvZffkeGBjIHnNJsdYRb"
+    },
+    {
+      "album": {
         "name": "KIDZ - Spotify Singles",
         "url": "https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv"
       },
@@ -3366,6 +3388,24 @@
       "duration_ms": 232000,
       "name": "Me Arrepent\u00ed",
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"
+    },
+    {
+      "album": {
+        "name": "Me Cans\u00e9",
+        "url": "https://open.spotify.com/album/5mj2wDiIMRrgIGPQTW321O"
+      },
+      "artists": [
+        {
+          "name": "Poci\u00f3n Sirena",
+          "url": "https://open.spotify.com/artist/2CMR1PGwgGgrCsRvXx0Bdn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328095,
+      "name": "Me Cans\u00e9",
+      "url": "https://open.spotify.com/track/3mHGTb4UbOOlrMZqdDmTSL"
     },
     {
       "album": {
@@ -5336,6 +5376,24 @@
       "duration_ms": 223625,
       "name": "Se Corre la Bola",
       "url": "https://open.spotify.com/track/7MIdTXBR5xOjxl8SOV4XAf"
+    },
+    {
+      "album": {
+        "name": "SERIA PERFECTO",
+        "url": "https://open.spotify.com/album/1GmDfUDMuVi8vLdb9x30tM"
+      },
+      "artists": [
+        {
+          "name": "Sasha Conte",
+          "url": "https://open.spotify.com/artist/7a462ezlVb2hNIZnslEKGI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226569,
+      "name": "SERIA PERFECTO",
+      "url": "https://open.spotify.com/track/2WitdWfBBsy1sldJM9Jt39"
     },
     {
       "album": {

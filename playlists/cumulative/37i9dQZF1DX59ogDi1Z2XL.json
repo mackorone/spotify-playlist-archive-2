@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Devont\u00e9e",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: SadBoi",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 193136,
       "name": "17 Days Of Hell",
       "url": "https://open.spotify.com/track/0FOK0bqVi73Kuzm6xvrsah"
@@ -10403,6 +10403,32 @@
     },
     {
       "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Savv4x",
+          "url": "https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Did That",
+      "url": "https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU"
+    },
+    {
+      "album": {
         "name": "Didn't Go Through",
         "url": "https://open.spotify.com/album/6IAa69javTG45LyjFwsNNn"
       },
@@ -19638,7 +19664,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 139200,
       "name": "iPRAY",
       "url": "https://open.spotify.com/track/1b6a5ZHeaf5DF37mblAJZ7"
@@ -20726,6 +20752,24 @@
       "duration_ms": 155555,
       "name": "Keys and P's",
       "url": "https://open.spotify.com/track/3z443ZiQ8WNf41HQL4KCMz"
+    },
+    {
+      "album": {
+        "name": "KGB (Kill Get Back)",
+        "url": "https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133546,
+      "name": "KGB (Kill Get Back)",
+      "url": "https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh"
     },
     {
       "album": {
@@ -22486,6 +22530,24 @@
       "duration_ms": 160833,
       "name": "Live This Life Again",
       "url": "https://open.spotify.com/track/64tLXJtVYZO6aucXfRXeCc"
+    },
+    {
+      "album": {
+        "name": "LiveFromTheBoonies.",
+        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105974,
+      "name": "LiveFromTheBoonies.",
+      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
     },
     {
       "album": {
@@ -24406,7 +24468,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 142809,
       "name": "Miu Miu",
       "url": "https://open.spotify.com/track/4hoMBBRWlEAf2oPvxyj8tJ"
@@ -25787,6 +25849,32 @@
     },
     {
       "album": {
+        "name": "Patio Season 2",
+        "url": "https://open.spotify.com/album/3yO7WKW6PlDzanAHlvXsRB"
+      },
+      "artists": [
+        {
+          "name": "Quake Matthews",
+          "url": "https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "PsycThaPrince",
+          "url": "https://open.spotify.com/artist/0yWLKsiRFLSduWv8JXrj4N"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229071,
+      "name": "Mystique",
+      "url": "https://open.spotify.com/track/2jSkJ6giy5f424JvGBYVIn"
+    },
+    {
+      "album": {
         "name": "N64",
         "url": "https://open.spotify.com/album/2R3UbtP5fupUgsf1maILAR"
       },
@@ -26274,6 +26362,24 @@
       "duration_ms": 128457,
       "name": "Nicky Nine Door",
       "url": "https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8"
+    },
+    {
+      "album": {
+        "name": "Night End to Night End",
+        "url": "https://open.spotify.com/album/4Pt0EDQIQReMaxJQaTrdkU"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Night End to Night End",
+      "url": "https://open.spotify.com/track/40F3KAyti484tCAVudJL3i"
     },
     {
       "album": {
@@ -36832,7 +36938,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 166736,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/55QzC9uM3522gBl1UUGr3B"
@@ -39210,7 +39316,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167040,
       "name": "THE MONEY",
       "url": "https://open.spotify.com/track/7DaB2vjQRjAZKBaHFBuZo9"
@@ -39764,7 +39870,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 227271,
       "name": "Think They Know Me (Remix) [feat. Haviah Mighty, Charmaine, TAAYLEE G & DvblM]",
       "url": "https://open.spotify.com/track/2yWquzDBIZtn3lPt9QPb1E"
@@ -40849,6 +40955,24 @@
     },
     {
       "album": {
+        "name": "Trap 4 a Year II",
+        "url": "https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Trap 4 a Year II",
+      "url": "https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF"
+    },
+    {
+      "album": {
         "name": "Trapstar",
         "url": "https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya"
       },
@@ -41530,7 +41654,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 228000,
       "name": "TWO.FIVE",
       "url": "https://open.spotify.com/track/6DgJB4B4Z5GhKfUuK1uiLN"
@@ -42316,6 +42440,24 @@
       "duration_ms": 143684,
       "name": "vintage.",
       "url": "https://open.spotify.com/track/0yvc2gWf7Wdq0GmCghJWIm"
+    },
+    {
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/4JPt4zTTjScLVPUGsW0j7w"
+      },
+      "artists": [
+        {
+          "name": "TVGUCCI",
+          "url": "https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107056,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/1fH9Fzw09gVNX5zsA07spE"
     },
     {
       "album": {

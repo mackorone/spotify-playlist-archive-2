@@ -10996,6 +10996,14 @@
         {
           "name": "Powfu",
           "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        },
+        {
+          "name": "evertree",
+          "url": "https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6"
         }
       ],
       "date_added": "2026-07-16",
@@ -97318,6 +97326,24 @@
       "duration_ms": 181714,
       "name": "Chasing_(Demo)",
       "url": "https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT"
+    },
+    {
+      "album": {
+        "name": "CHAT",
+        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "CHAT",
+      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
     },
     {
       "album": {
@@ -321682,7 +321708,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 204201,
       "name": "Love In Reverse - Unwound",
       "url": "https://open.spotify.com/track/4mbe9NU1iZ3JW6KAUYMDug"
@@ -351356,6 +351382,24 @@
       "duration_ms": 181687,
       "name": "Millennium",
       "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
+    },
+    {
+      "album": {
+        "name": "Million Different Reasons",
+        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246803,
+      "name": "Million Different Reasons",
+      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
     },
     {
       "album": {
@@ -441653,6 +441697,28 @@
     },
     {
       "album": {
+        "name": "Rhythm Inside",
+        "url": "https://open.spotify.com/album/6w9zeitvnCK4UCzMWrEfy3"
+      },
+      "artists": [
+        {
+          "name": "Marthin Siahaan",
+          "url": "https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD"
+        },
+        {
+          "name": "Albert Fakdawer",
+          "url": "https://open.spotify.com/artist/1mEija09kczZccE9j1k7mv"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183188,
+      "name": "Rhythm Inside",
+      "url": "https://open.spotify.com/track/2dcCM2xkGXFzjPaVCjnqEu"
+    },
+    {
+      "album": {
         "name": "riBBon",
         "url": "https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw"
       },
@@ -500282,6 +500348,24 @@
       "duration_ms": 164013,
       "name": "Spring Summer Autumn Winter",
       "url": "https://open.spotify.com/track/57Qgh8evQBroL4BmZP4EsQ"
+    },
+    {
+      "album": {
+        "name": "Spring, Summer, Fall, Winter",
+        "url": "https://open.spotify.com/album/1b5bGCxyUEKi27oSXRCwSw"
+      },
+      "artists": [
+        {
+          "name": "WONWOO",
+          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Spring, Summer, Fall, Winter (Korean Ver.)",
+      "url": "https://open.spotify.com/track/4KDr3ViGsomHd9cZJsgZDh"
     },
     {
       "album": {
@@ -563108,24 +563192,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "Million Different Reasons",
-        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
-      },
-      "artists": [
-        {
-          "name": "Jordan Susanto",
-          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
-        }
-      ],
-      "date_added": "2026-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
     },
     {
       "album": {

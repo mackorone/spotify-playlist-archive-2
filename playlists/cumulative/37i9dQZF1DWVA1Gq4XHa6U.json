@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Big Pimpin'",
+        "url": "https://open.spotify.com/album/432Y4gBMyqxIlG9wuuDo08"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/1yLiJYG0i5FpcwS0aBx9XQ"
+    },
+    {
+      "album": {
         "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5yoEl5CSaLRR8UkkmkgygQ"
       },
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 275640,
       "name": "Brooklyn's Finest",
       "url": "https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe"
@@ -1464,7 +1486,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 241400,
       "name": "Childs Play",
       "url": "https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc"
@@ -4034,6 +4056,24 @@
       "duration_ms": 240626,
       "name": "Izzo (H.O.V.A.)",
       "url": "https://open.spotify.com/track/10EGxvr4fSE42ABWZeJ3K3"
+    },
+    {
+      "album": {
+        "name": "Izzo (H.O.V.A)",
+        "url": "https://open.spotify.com/album/6c4PIdR6KT9Sg95VV78u7c"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240626,
+      "name": "Izzo (H.O.V.A.)",
+      "url": "https://open.spotify.com/track/3HTk4CafRTQltK9XQ91cdx"
     },
     {
       "album": {

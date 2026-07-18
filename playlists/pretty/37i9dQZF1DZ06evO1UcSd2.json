@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 87800,
+  "num_followers": 87841,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAAgPRpiIlMFQN/HgY4LGZyu",
+  "snapshot_id": "algfAAAAAABkMDyb7PK5AWdHt9IphySt",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Tres Veladoras",
+      "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La M\u00e1s Chula",
+        "url": "https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 159994,
+      "name": "La M\u00e1s Chula",
+      "url": "https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Titular",
         "url": "https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC"
       },
@@ -535,22 +571,6 @@
       "duration_ms": 163200,
       "name": "Titular",
       "url": "https://open.spotify.com/track/6coDVmtstHCQJLknlcCuUF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Aroma a Alcohol",
-        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Tres Veladoras",
-      "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
     },
     {
       "added_at": null,
@@ -599,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuiste Mi Todo",
-        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152908,
-      "name": "Fuiste Mi Todo",
-      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 167439,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuiste Mi Todo",
+        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152908,
+      "name": "Fuiste Mi Todo",
+      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
     },
     {
       "added_at": null,
@@ -695,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La M\u00e1s Chula",
-        "url": "https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
-        {
-          "name": "Los Ejemplares del Rancho",
-          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 159994,
-      "name": "La M\u00e1s Chula",
-      "url": "https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi"
+      "duration_ms": 152000,
+      "name": "La Fuga del Jefe",
+      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 171146,
       "name": "Con Aroma A Alcohol - Version Banda",
       "url": "https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "La Fuga del Jefe",
-      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
     },
     {
       "added_at": null,
@@ -903,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Aroma a Alcohol",
-        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
+        "name": "Vida y Libertad",
+        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
       },
       "artists": [
+        {
+          "name": "Omar Cardenas",
+          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 181674,
-      "name": "No Fue Suficiente",
-      "url": "https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P"
+      "duration_ms": 157500,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
     },
     {
       "added_at": null,
@@ -939,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida y Libertad",
-        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
       "artists": [
-        {
-          "name": "Omar Cardenas",
-          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 157500,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
+      "duration_ms": 181674,
+      "name": "No Fue Suficiente",
+      "url": "https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 172767,
       "name": "A Fila Anda - Ao Vivo",
       "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 170112,
       "name": "Ainda Tem Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/5QAtGmW5vPU3Pgmf99wktb"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 219466,
       "name": "Amantes - Ao Vivo",
       "url": "https://open.spotify.com/track/1YcaW1jBsTb6eUn9olYtOS"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 172779,
       "name": "BARRIL DOBRADO - Spotify Sessions",
       "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 157258,
       "name": "Eu Lembro de Tudo - Ao Vivo",
       "url": "https://open.spotify.com/track/1GWS7lkOa3kPRMBGTaPVuV"
@@ -6522,7 +6522,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 167925,
       "name": "Fiz Quase Tudo - Ao Vivo",
       "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
@@ -9422,7 +9422,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Malandro TouchScreen",
       "url": "https://open.spotify.com/track/5weTYPqLyxPP2zqzoLWep3"
@@ -10388,7 +10388,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-09",
+      "date_removed": null,
       "duration_ms": 151889,
       "name": "MINA QUENTE",
       "url": "https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW"
@@ -10780,7 +10780,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "Mulher Adulta Faz Assim",
       "url": "https://open.spotify.com/track/0LlMMbD5ma9XJMyJcUZnZo"
@@ -11242,7 +11242,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 117954,
       "name": "No Meu Club",
       "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"
@@ -11368,7 +11368,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 165525,
       "name": "NOITES TRAI\u00c7OEIRAS",
       "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
@@ -11662,7 +11662,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 263281,
       "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
       "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
@@ -13400,6 +13400,36 @@
       "duration_ms": 206068,
       "name": "Pe\u00e7as De Griffe",
       "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
+    },
+    {
+      "album": {
+        "name": "Rugal & Bomfino",
+        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204562,
+      "name": "Pique B.I.G",
+      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
     },
     {
       "album": {
@@ -17202,7 +17232,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 197650,
       "name": "Teu Jeitinho - Spotify Singles",
       "url": "https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs"

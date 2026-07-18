@@ -1737,6 +1737,28 @@
     },
     {
       "album": {
+        "name": "Dirty Beat",
+        "url": "https://open.spotify.com/album/2uZkvxbfbloSSWoST9x1IP"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "MC Flipside",
+          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Dirty Beat",
+      "url": "https://open.spotify.com/track/3DSY7B0roAopGKkCQGut3K"
+    },
+    {
+      "album": {
         "name": "New Electronic Folk and the Floor",
         "url": "https://open.spotify.com/album/5pROYlIuHsXwxFV6PWRtnW"
       },

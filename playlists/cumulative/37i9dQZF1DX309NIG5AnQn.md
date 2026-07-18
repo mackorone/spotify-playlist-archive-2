@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 MUGRE
+> rock alternativo argentino\. <br/>📷 Mis peores enemigos
 
-353 songs - 20 hr 1 min
+359 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [AMIS](https://open.spotify.com/track/24tAh2Rn9gkk5aEl5DCElD) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [Fermín Irigoyen](https://open.spotify.com/artist/6iUCARgUPYbGD3sUSzxr9b) | [AMIS](https://open.spotify.com/album/7tBfRXD5UjkaIudtpTFhPo) | 2:00 | 2026-04-17 | 2026-05-29 |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 | 2025-10-25 |
 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 | 2024-11-15 |  |
+| [Antes de dejarme ir](https://open.spotify.com/track/0e4bxeAf8jtBQJD4Rgi4QX) | [Ciruelo](https://open.spotify.com/artist/5CO9M2qdkLeY8cBAgS1xMf) | [La larga risa de todos estos años](https://open.spotify.com/album/3HLmq1A0Q8tTJDnWVt0Z76) | 3:04 | 2026-07-17 |  |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 | 2025-11-21 |
 | [armadura](https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [relicario](https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD) | 2:42 | 2025-10-10 | 2026-04-04 |
 | [Astro](https://open.spotify.com/track/3QNSSw8L95xww3RAuirmIf) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Extrañamente](https://open.spotify.com/album/6I8NDFSZvbbuClrWCfzeIs) | 3:30 | 2026-04-03 |  |
@@ -99,6 +100,7 @@
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-03-25 | 2023-03-25 |
 | [Devenir Paisaje](https://open.spotify.com/track/3Ar4CsbxPja3kJBem7J3de) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 3:36 | 2024-10-22 | 2026-04-04 |
 | [Diablo Que Soy](https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Diablo Que Soy](https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ) | 2:47 | 2026-06-26 |  |
+| [Diciembre](https://open.spotify.com/track/2ps6sbjou7eucY1qcVU0Vc) | [Mis peores enemigos](https://open.spotify.com/artist/22LHabWSUjUAg3UP4PPjN4) | [Segundo lugar](https://open.spotify.com/album/3rfWRLU3mMkvVjn4y6ZCU9) | 4:27 | 2026-07-17 |  |
 | [Dirty Donna](https://open.spotify.com/track/41PlwW2LwnJQCHa3c2L1Qf) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Dirty Donna](https://open.spotify.com/album/6Y8jks0IRkAjXlHvcgDyX3) | 4:24 | 2026-04-03 |  |
 | [Distante](https://open.spotify.com/track/7yhQlwY8Yjnbzf1NqAL0Md) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Surfista Nocturno](https://open.spotify.com/album/27hZtuTwWgy62WlAVqFVo2) | 6:00 | 2022-03-25 | 2023-03-25 |
 | [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 | 2023-05-12 | 2023-08-19 |
@@ -116,6 +118,7 @@
 | [El Festejo](https://open.spotify.com/track/6jIwfnFqOCPlv7u8YizGpy) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC), [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Festejo](https://open.spotify.com/album/0KluUJ3EAbghN32vEO7l7S) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-12 | 2024-04-19 |
 | [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 | 2024-04-19 | 2026-02-28 |
+| [El francés](https://open.spotify.com/track/0KZ8DDam010QbzM2t3G5Xz) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [SUBIDOS AL PONY](https://open.spotify.com/album/46rFn3rJ8c4kvk8gSsLaI0) | 2:17 | 2026-07-17 |  |
 | [El francés](https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [El francés](https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA) | 2:17 | 2025-06-20 | 2026-04-04 |
 | [El Fuego que es mi Casa](https://open.spotify.com/track/7tv6opdWPW8BOeaypmw0Lw) | [Alter Vu](https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU) | [El Fuego que es mi Casa](https://open.spotify.com/album/492TkgIoHxqfBvYmyLnVUZ) | 4:08 | 2026-04-10 |  |
 | [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-21 | 2026-04-04 |
@@ -207,6 +210,7 @@
 | [Manos](https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 3:31 | 2023-04-11 | 2025-11-14 |
 | [Matufia](https://open.spotify.com/track/0EDLiGilKGEOs1yOhIjnUU) | [Tomson Olson](https://open.spotify.com/artist/0MLtB9n8HZBReh3njxUn84) | [Matufia](https://open.spotify.com/album/4HVZpKfksOZdTKWx0Rl6d5) | 3:36 | 2026-01-23 |  |
 | [Mañana Voy](https://open.spotify.com/track/2XdnhbxTaMdqNwgw3joWfk) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Ida, Atajo y Vuelta](https://open.spotify.com/album/5f2pZrmIEq76zaDmi4wKsU) | 3:34 | 2023-03-31 | 2023-08-12 |
+| [Me Cansé](https://open.spotify.com/track/3mHGTb4UbOOlrMZqdDmTSL) | [Poción Sirena](https://open.spotify.com/artist/2CMR1PGwgGgrCsRvXx0Bdn) | [Me Cansé](https://open.spotify.com/album/5mj2wDiIMRrgIGPQTW321O) | 5:28 | 2026-07-17 |  |
 | [Me Tiré](https://open.spotify.com/track/0ApZq70y3QiAZIVFeXkXP7) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Me Tiré](https://open.spotify.com/album/2qphEdvWd6vCJWQsI4Q99m) | 5:16 | 2025-03-07 |  |
 | [Mejor Persona](https://open.spotify.com/track/1kEFulsxY6K8PekfjAFvaK) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 6:11 | 2023-06-16 | 2026-04-04 |
 | [Mentiroso Miente](https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Mentiroso Miente](https://open.spotify.com/album/6fr6AARElMTnBKHTziuWPK) | 2:46 | 2023-03-23 | 2025-10-25 |
@@ -231,6 +235,7 @@
 | [No está todo tan mal](https://open.spotify.com/track/2O7CqCcjia8Sus1TktG17o) | [Mis peores enemigos](https://open.spotify.com/artist/22LHabWSUjUAg3UP4PPjN4) | [Tiempos mejores](https://open.spotify.com/album/5nryhGFH7mema081Q4ahda) | 3:46 | 2026-04-03 |  |
 | [No hay amor que nos salve](https://open.spotify.com/track/1kqUmSQ2uc8EEpuw532wun) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [No hay amor que nos salve](https://open.spotify.com/album/5UUpnZzBLF3J6GAbXbfu4l) | 2:52 | 2026-06-12 |  |
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-04-19 |  |
+| [No Me Mires Así](https://open.spotify.com/track/38YGSV2DmrIz7CxmwfOn12) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6), [Bob Crous](https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE) | [No Me Mires Así](https://open.spotify.com/album/3aKxGCf3sq1NLqAeAisAR1) | 2:50 | 2026-07-17 |  |
 | [No Pares \(Sí, sí\)](https://open.spotify.com/track/1Q7Gq9wfgvEiQr5ErcD0Ks) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Lady Garrón](https://open.spotify.com/album/5GpowTlDdjO8288epvUtWK) | 3:17 | 2025-12-05 | 2026-04-04 |
 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 | 2022-03-25 | 2023-03-25 |
 | [no soy yo](https://open.spotify.com/track/7JpafHngaHpQopW3fkr7IG) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [relicario](https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD) | 3:05 | 2026-04-03 |  |
@@ -255,7 +260,7 @@
 | [Para Renacer \(Lado V\)](https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0xUtJQzRNWrQurHiYzXLF7) | 3:35 | 2022-03-25 | 2022-07-29 |
 | [Para Renacer \- Lado V](https://open.spotify.com/track/4W1ejw0Xun7o8eIjFm5dWg) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Superstar / Para Renacer](https://open.spotify.com/album/0H0L15hX6vsMEJSKWfP0JU) | 3:35 | 2022-03-25 | 2023-03-25 |
 | [paredes](https://open.spotify.com/track/7x3jLfAF7sN5C8dDLD4V6b) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Paco Leiva](https://open.spotify.com/artist/2UQJDHNI1VGBhkHfbjeco3) | [paredes](https://open.spotify.com/album/0PBkxpGOXvB24zc9fXE6HU) | 3:17 | 2022-03-25 | 2023-03-25 |
-| [parásito \- live session](https://open.spotify.com/track/4KFVDyGi9aQjzSU6xlWNh8) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [dvlp \(live session\)](https://open.spotify.com/album/5fUgJoEeP2CZdGVrW5fuhM) | 4:17 | 2025-11-21 |  |
+| [parásito \- live session](https://open.spotify.com/track/4KFVDyGi9aQjzSU6xlWNh8) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [dvlp \(live session\)](https://open.spotify.com/album/5fUgJoEeP2CZdGVrW5fuhM) | 4:17 | 2025-11-21 | 2026-07-18 |
 | [Paseo](https://open.spotify.com/track/7HeeBo0KDEZhP5nnybrtTQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Paseo](https://open.spotify.com/album/7LNPDZZwdAavuSpfEgvuat) | 4:22 | 2026-05-29 |  |
 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 | 2022-03-25 | 2023-03-25 |
 | [Penso a te](https://open.spotify.com/track/0aKzj1pp5jtEUPf7uV0cvB) | [Las Cosas Que Pasan](https://open.spotify.com/artist/1ZqvJubgvceHoBn0ccE5oO), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Penso a te](https://open.spotify.com/album/5v0doOxorR4wQe3QU2ax6j) | 3:35 | 2022-03-25 | 2023-03-25 |
@@ -267,6 +272,7 @@
 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 | 2025-11-14 | 2026-04-04 |
 | [piso 20](https://open.spotify.com/track/41IgY1X91cTDj1qwlvKiqS) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [piso 20](https://open.spotify.com/album/2NGY5QHTcAjg68I9XkiBJ1) | 2:21 | 2025-07-25 | 2026-04-04 |
 | [PITER \- Versión Hardcore](https://open.spotify.com/track/74BsstrLSfPxh7xZ9a3kQL) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [PITER \(Versión Hardcore\)](https://open.spotify.com/album/28idG6EmqHFGcD5R7syB4O) | 2:27 | 2023-03-23 | 2023-06-17 |
+| [Poción](https://open.spotify.com/track/1X6zLUZvZHKk8pYSIk2mqn) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [La Pena](https://open.spotify.com/album/6t8JRhxboKvuNmqh3WRv64) | 3:21 | 2026-07-17 |  |
 | [Policía](https://open.spotify.com/track/24tXfp5lQntaiVWmXcT9W9) | [No Me Toques](https://open.spotify.com/artist/31uqDrkWjG36pNZU0QSoqi) | [Policía](https://open.spotify.com/album/5LalWac9RmUSyEpJiChsOd) | 3:08 | 2024-02-09 | 2026-05-23 |
 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 | 2022-03-25 | 2023-03-25 |
 | [Premature Rejection](https://open.spotify.com/track/4baFbLyq7I0mZvBeeFKOiF) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Premature Rejection](https://open.spotify.com/album/17vMJptfwmp0Y7DebBK42Q) | 2:32 | 2023-07-21 | 2024-03-16 |

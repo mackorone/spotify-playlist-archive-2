@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,762 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,795 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 49 | [Still Learning](https://open.spotify.com/track/24B8hFiK8oH1Bb33DrS2Fm) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Still Learning](https://open.spotify.com/album/48nAu7t2n8T3YXJLvgj6l0) | 3:32 |
 | 50 | [超常現象を信んじてみる。](https://open.spotify.com/track/2OHFPkN0QscT2R6EL6tDm1) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [VS Tairiku Ondo](https://open.spotify.com/album/7rwrDS4LF3SZ0ikQ5e6oXv) | 3:31 |
 
-Snapshot ID: `AAAAAK0Ldo39qPc+SrK5jwkIUllrS/Yw`
+Snapshot ID: `AAAAAPsdbacEK1T1gxVjQKUhwaJUEzX9`

@@ -948,6 +948,10 @@
         {
           "name": "Novah",
           "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "KIMI",
+          "url": "https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4"
         }
       ],
       "date_added": "2026-07-10",
@@ -3276,7 +3280,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 210003,
       "name": "GOD_MODE",
       "url": "https://open.spotify.com/track/4w7jPxQ0KOEKPXSNRlt3hX"
@@ -5006,7 +5010,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 320093,
       "name": "Mystical Energy",
       "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"

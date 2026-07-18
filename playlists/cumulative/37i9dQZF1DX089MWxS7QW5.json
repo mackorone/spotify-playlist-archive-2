@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: BIG Naughty (\ube45\ub098\ud2f0))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: G.Nine)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -980,7 +980,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 145000,
       "name": "Baby, Honey",
       "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
@@ -8730,6 +8730,28 @@
       "duration_ms": 156572,
       "name": "Plus n Minus",
       "url": "https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu"
+    },
+    {
+      "album": {
+        "name": "POSE",
+        "url": "https://open.spotify.com/album/29pBCwnwfAtxq4vcsOYPTk"
+      },
+      "artists": [
+        {
+          "name": "G. Nine",
+          "url": "https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa"
+        },
+        {
+          "name": "Chloe Kim",
+          "url": "https://open.spotify.com/artist/6RyDv3qEgsPkLBvcLiKn3E"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160199,
+      "name": "POSE (with. Chloe Kim)",
+      "url": "https://open.spotify.com/track/6sTslEqIBZq9G3pzYeuMpF"
     },
     {
       "album": {

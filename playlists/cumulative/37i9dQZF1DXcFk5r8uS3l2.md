@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-500 songs - 1 day 7 hr 17 min
+501 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 | 2022-07-23 |
 | [All on Me](https://open.spotify.com/track/01AQQxjgUOsRJGiif0rzNj) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [All on Me](https://open.spotify.com/album/2UzbI0MwhBpd9DyIC62qk2) | 3:49 | 2022-07-22 | 2022-08-31 |
 | [All Our Love](https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [All Our Love](https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR) | 4:29 | 2022-05-20 | 2022-06-11 |
-| [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 | 2024-10-04 |  |
+| [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 | 2024-10-04 | 2026-07-18 |
 | [All The Way From America](https://open.spotify.com/track/6JWQ0fdstDeqtBzuUOrdFC) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Way From America](https://open.spotify.com/album/3tbtc5K4J1vsGnVGaLFg8I) | 4:19 | 2023-12-15 | 2024-10-05 |
 | [ALLIIGATOR TEARS](https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:59 | 2024-03-29 |  |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 | 2023-02-25 |
@@ -106,7 +106,7 @@
 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 | 2024-02-16 | 2026-03-05 |
 | [Days of Mellow](https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Days of Mellow](https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu) | 2:34 | 2024-07-19 |  |
 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 | 2026-02-13 |  |
-| [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 | 2026-02-13 |  |
+| [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 | 2026-02-13 | 2026-07-18 |
 | [Demons In Your Choir](https://open.spotify.com/track/39Ra5S4b4srNRbPScFDKo7) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Demons In Your Choir](https://open.spotify.com/album/1dAKuCI09fY46OiAzjTlHz) | 4:16 | 2026-05-01 |  |
 | [Devil and the Deep Blue](https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Devil and the Deep Blue](https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1) | 3:07 | 2023-01-06 | 2023-04-01 |
 | [Devil Claims His Prize](https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Devil Claims His Prize](https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI) | 2:42 | 2023-07-14 | 2024-02-10 |
@@ -461,6 +461,7 @@
 | [Trouble](https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Trouble](https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb) | 2:32 | 2026-02-13 |  |
 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 | 2024-04-19 | 2025-05-03 |
 | [True Blue](https://open.spotify.com/track/5Z6HBuy8X9MPFq5pIhrEvA) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [True Blue](https://open.spotify.com/album/5xcqjv8Qm0h5r7PqIROYyF) | 4:11 | 2023-08-11 | 2023-09-09 |
+| [Turn Me In](https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Turn Me In](https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW) | 3:27 | 2026-07-17 |  |
 | [Twist Your Arm](https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Roll Mega](https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l) | 4:42 | 2025-05-09 |  |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 | 2023-03-11 |
 | [Unchange](https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 3:24 | 2022-04-29 | 2024-06-15 |

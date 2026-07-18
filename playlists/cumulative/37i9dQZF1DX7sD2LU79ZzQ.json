@@ -17983,6 +17983,24 @@
     },
     {
       "album": {
+        "name": "Million Different Reasons",
+        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246803,
+      "name": "Million Different Reasons",
+      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT"
       },
@@ -29756,24 +29774,6 @@
       "duration_ms": 256521,
       "name": "Torang Indonesia",
       "url": "https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv"
-    },
-    {
-      "album": {
-        "name": "Million Different Reasons",
-        "url": "https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R"
-      },
-      "artists": [
-        {
-          "name": "Jordan Susanto",
-          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
-        }
-      ],
-      "date_added": "2026-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
     },
     {
       "album": {

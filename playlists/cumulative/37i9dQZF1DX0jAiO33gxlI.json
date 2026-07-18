@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Rashid",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Cassol",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 175423,
       "name": "\"MIC VIDA\"",
       "url": "https://open.spotify.com/track/1fu6ootjbYy8xdgh1Ox4GF"
@@ -2213,6 +2213,28 @@
     },
     {
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/4ACtY34Pl1FI17U7z3nskX"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        },
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "ALPHA",
+      "url": "https://open.spotify.com/track/3FEFoD95hvRqtXzACABki0"
+    },
+    {
+      "album": {
         "name": "Alvo",
         "url": "https://open.spotify.com/album/63o4YpqI95GazC5ah5B3Iu"
       },
@@ -2324,7 +2346,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 123221,
       "name": "AMANHECER",
       "url": "https://open.spotify.com/track/1eIzmXf0rdCrjjUeUcMLrj"
@@ -5010,7 +5032,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 168302,
       "name": "Bons Bandidos",
       "url": "https://open.spotify.com/track/5DsKVpxH8qmRSF0th80PL2"
@@ -5516,6 +5538,36 @@
       "duration_ms": 164589,
       "name": "bumbum",
       "url": "https://open.spotify.com/track/3eDUyh00ahBwG9UQb7d20R"
+    },
+    {
+      "album": {
+        "name": "Bungee Jump",
+        "url": "https://open.spotify.com/album/6SIKq1CsQRXqIAomcyn6Po"
+      },
+      "artists": [
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Heitor Gomes",
+          "url": "https://open.spotify.com/artist/3aAnnSl8dwEO2UvxptirhZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bungee Jump",
+      "url": "https://open.spotify.com/track/4MR4cil2SSrNnTCWBLNnyu"
     },
     {
       "album": {
@@ -7508,6 +7560,28 @@
       "duration_ms": 165378,
       "name": "Comunista Elegante",
       "url": "https://open.spotify.com/track/07WWwzmVHoEMgcbuDo8P0N"
+    },
+    {
+      "album": {
+        "name": "COMUT\u00c1",
+        "url": "https://open.spotify.com/album/005nCldXgNGPpQKYGWeHSY"
+      },
+      "artists": [
+        {
+          "name": "Luccas Folha",
+          "url": "https://open.spotify.com/artist/05o0a0JoBQXx7wXOnvin01"
+        },
+        {
+          "name": "Nyatta",
+          "url": "https://open.spotify.com/artist/0GDNdKt0ZHjwbG5UsxUHqv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161127,
+      "name": "COMUT\u00c1",
+      "url": "https://open.spotify.com/track/6NTBgipUaYIpNJpiCmkWPq"
     },
     {
       "album": {
@@ -15578,7 +15652,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 313170,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/5o1oz6uCFvQqhXauqZ2Dls"
@@ -16032,7 +16106,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 216315,
       "name": "Intelig\u00eancia Marginal #2 - The Boys",
       "url": "https://open.spotify.com/track/7tlWLn7YReFqH0dw9Ht51C"
@@ -17904,7 +17978,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 136421,
       "name": "LONGE DE B.O",
       "url": "https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez"
@@ -22743,6 +22817,28 @@
     },
     {
       "album": {
+        "name": "BR Wave - Vol. 2",
+        "url": "https://open.spotify.com/album/2Hpt6nIZ9apGwhSJq7sMVU"
+      },
+      "artists": [
+        {
+          "name": "Renan Samam",
+          "url": "https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve"
+        },
+        {
+          "name": "Subverse Club",
+          "url": "https://open.spotify.com/artist/58y8qlSnLzaW8bkKyrFNYQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98141,
+      "name": "Nosso Brilho",
+      "url": "https://open.spotify.com/track/0eKKHpdAGTaKYy2150ihb4"
+    },
+    {
+      "album": {
         "name": "Nota 10",
         "url": "https://open.spotify.com/album/48hSYcjmxMyU1SzWRfm8n0"
       },
@@ -22856,7 +22952,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 89250,
       "name": "NOVA: Fala meu Nome",
       "url": "https://open.spotify.com/track/0yvtCcfvcD6LkMUPbqI6TX"
@@ -25500,6 +25596,28 @@
       "duration_ms": 112984,
       "name": "Palpite",
       "url": "https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1"
+    },
+    {
+      "album": {
+        "name": "Nova Na\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1u44r0yeeS3XbouXted2Y2"
+      },
+      "artists": [
+        {
+          "name": "Caio Ocean",
+          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
+        },
+        {
+          "name": "OuvidoPai",
+          "url": "https://open.spotify.com/artist/7vyLneQV1sSHosxOpl4Nq8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248470,
+      "name": "Papagaios e Canh\u00f5es / Total 12",
+      "url": "https://open.spotify.com/track/0hUlT5ZkMq3ypEan5Ai1yr"
     },
     {
       "album": {
@@ -28159,6 +28277,36 @@
     },
     {
       "album": {
+        "name": "Porre do Cip\u00f3",
+        "url": "https://open.spotify.com/album/4RmCZw065sdJWZbxx2x7ss"
+      },
+      "artists": [
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        },
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209836,
+      "name": "Porre do Cip\u00f3",
+      "url": "https://open.spotify.com/track/48nD0RRkyiNFFyQagsRE4U"
+    },
+    {
+      "album": {
         "name": "porta aberta",
         "url": "https://open.spotify.com/album/3bc6Ft7oP542JfOInlMDmh"
       },
@@ -28806,6 +28954,40 @@
       "duration_ms": 140822,
       "name": "Purgat\u00f3rio 2",
       "url": "https://open.spotify.com/track/3KZfi5f201iIzmnfvPMCXx"
+    },
+    {
+      "album": {
+        "name": "BASE: Mandel\u00e3o Futurista",
+        "url": "https://open.spotify.com/album/6U1cBGt0r6IPJKbL9DSH3j"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "MC Lob\u00e3o",
+          "url": "https://open.spotify.com/artist/4UsXonEelicgeKAD7MTN7F"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240103,
+      "name": "Putaria no Boombap",
+      "url": "https://open.spotify.com/track/7vddjt22PeLxiU54BGXOQJ"
     },
     {
       "album": {
@@ -29776,7 +29958,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 459487,
       "name": "Rap News: Mar\u00e7o",
       "url": "https://open.spotify.com/track/2OL0ZEC569q3qx1Dk52eS2"
@@ -30562,6 +30744,32 @@
       "duration_ms": 207640,
       "name": "Revoada",
       "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/0B1cCh61xTE9E64Z5lWM0o"
+      },
+      "artists": [
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/662AR0cLZ2ME9V0nK59y2r"
     },
     {
       "album": {
@@ -32140,7 +32348,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 233733,
       "name": "Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/5QkCMDL3fqLHfeIHWixLS5"
@@ -33902,7 +34110,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 153191,
       "name": "SUA FAVORITA",
       "url": "https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA"
@@ -35213,6 +35421,28 @@
     },
     {
       "album": {
+        "name": "Tiny Desk",
+        "url": "https://open.spotify.com/album/4oaQqg69bVaHEztjUXC2oV"
+      },
+      "artists": [
+        {
+          "name": "Cassol",
+          "url": "https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu"
+        },
+        {
+          "name": "dubbeatzz",
+          "url": "https://open.spotify.com/artist/6OfJeWc6M66ubUsQHNrhMt"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Tiny Desk",
+      "url": "https://open.spotify.com/track/1MnZGiADbnKN4qDjcBw3AU"
+    },
+    {
+      "album": {
         "name": "Tipo Breckboys",
         "url": "https://open.spotify.com/album/6eoqekxTbTrmKyfmNtndow"
       },
@@ -36470,6 +36700,28 @@
       "duration_ms": 131200,
       "name": "Uma Palavra",
       "url": "https://open.spotify.com/track/6Xr7f68EcpVcBvSdsf6chq"
+    },
+    {
+      "album": {
+        "name": "Uma Rapper Gangster",
+        "url": "https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Chris Silva",
+          "url": "https://open.spotify.com/artist/7eAe2m8z7Nkl8SLafzqunq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Uma Rapper Gangster",
+      "url": "https://open.spotify.com/track/5woiLYYNtgLJHI9ij3l3BY"
     },
     {
       "album": {

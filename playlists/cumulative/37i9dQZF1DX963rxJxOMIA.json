@@ -4077,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/3US50V3VCPozqqyMVb6Psw"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Isla Bonita",
+      "url": "https://open.spotify.com/track/52I53kGSl3G6uoR1Xk6HzX"
+    },
+    {
+      "album": {
         "name": "Jack el farro",
         "url": "https://open.spotify.com/album/1L0y6neTGvhUeeZZTvmvCj"
       },

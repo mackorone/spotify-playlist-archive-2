@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-609 songs - 2 day 0 hr 44 min
+611 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Blobject](https://open.spotify.com/track/2fo83TJRtbirzVwANgZvTo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [SoulCity EP](https://open.spotify.com/album/1u8OYI31zSwRKa8uzjAEvI) | 5:56 | 2021-10-06 | 2022-09-10 |
 | [Blobject](https://open.spotify.com/track/4R49HTqdoT2EkLHrFOODYf) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Blobject](https://open.spotify.com/album/5rtc7nqGQrjHG7aQwZmRf2) | 5:56 | 2021-10-06 | 2022-07-27 |
 | [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 | 2021-10-06 | 2025-07-17 |
-| [Blowtorch Thimble](https://open.spotify.com/track/7dVwOXJpWMLFa3JZEOprye) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Blowtorch Thimble](https://open.spotify.com/album/0LunYm6Mr5jjjxsiat3ziP) | 3:30 | 2025-09-05 |  |
+| [Blowtorch Thimble](https://open.spotify.com/track/7dVwOXJpWMLFa3JZEOprye) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Blowtorch Thimble](https://open.spotify.com/album/0LunYm6Mr5jjjxsiat3ziP) | 3:30 | 2025-09-05 | 2026-07-18 |
 | [BLUE](https://open.spotify.com/track/6kAtLKUnOMn3zcVkPkc0V8) | [ALL OF THE WORLD](https://open.spotify.com/artist/7fLaa02J09xp33ucEoQQUE) | [BLUE](https://open.spotify.com/album/7cdbK0qiDoS6pf4Dx9343l) | 4:30 | 2022-08-31 | 2022-11-17 |
 | [Blue Hell](https://open.spotify.com/track/7Ljz601jXqVCvrpMOcJEgy) | [Hiver](https://open.spotify.com/artist/5bbog2TKLmx1kqzNER54ZI) | [Blue Hell](https://open.spotify.com/album/514Qc8HRpNhQkAWDDXntZM) | 5:52 | 2025-11-21 | 2026-06-13 |
 | [Blush](https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:57 | 2021-10-06 | 2025-07-17 |
@@ -156,7 +156,7 @@
 | [Divine Interference](https://open.spotify.com/track/6fmx1B2AdJi1Nu7m6cVRnN) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Singulacra](https://open.spotify.com/album/1SyVmG5FoRitDCJKzxIssB) | 5:33 | 2021-10-06 | 2025-07-17 |
 | [Do Lixo Ouriço Ganha](https://open.spotify.com/track/5v9aevluGi1W5ti4hLOuEg) | [Raar](https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO) | [Do Lixo Ouriço Ganha](https://open.spotify.com/album/31f68bZVdnBFx6nhjkzwQZ) | 2:58 | 2024-10-16 | 2024-11-16 |
 | [Don't Fall](https://open.spotify.com/track/1bfTxMMFjPjHQVuHVCUIYm) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [We Orbit EP](https://open.spotify.com/album/6DWLg1fxEiiyOak6AeqJAv) | 7:08 | 2025-11-28 | 2026-06-13 |
-| [Donut Plains](https://open.spotify.com/track/4W21omcedBTZvgKPjghuRC) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Anchor Songs](https://open.spotify.com/album/25V9EwThcJmExQHojvnxvI) | 6:34 | 2026-01-30 |  |
+| [Donut Plains](https://open.spotify.com/track/4W21omcedBTZvgKPjghuRC) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Anchor Songs](https://open.spotify.com/album/25V9EwThcJmExQHojvnxvI) | 6:34 | 2026-01-30 | 2026-07-18 |
 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 | 2021-10-06 | 2025-06-07 |
 | [Drangsville Drowns](https://open.spotify.com/track/0osIAWdFisbIUvKNvoI46q) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 5:06 | 2022-04-06 | 2022-07-29 |
 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 | 2021-10-06 | 2025-07-17 |
@@ -208,6 +208,7 @@
 | [Flicker](https://open.spotify.com/track/4OlmBjwcjlj5swE6Q1RIEQ) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr), [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Exhale](https://open.spotify.com/album/22jowoaOweuYui1WgFZvvB) | 6:03 | 2026-07-03 |  |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2025-07-17 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2025-07-17 |
+| [flow, out](https://open.spotify.com/track/3s7hc0XqsNWTfaAYD0Xbdf) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [IN TALES BETWEEN](https://open.spotify.com/album/0oM6Fr3h4DcMlUlTebLHv1) | 4:57 | 2026-07-17 |  |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 | 2025-07-17 |
 | [Fly In Amber](https://open.spotify.com/track/54SfhFjcoqB5dwXVuIfbOi) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:40 | 2025-11-07 | 2026-04-22 |
 | [Fly radio](https://open.spotify.com/track/5uIG2YlinVJWNPuKTIeWGx) | [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [Fly radio](https://open.spotify.com/album/6pOJdm1TdXuJWV0u3Nbrmd) | 2:35 | 2026-01-23 | 2026-06-13 |
@@ -588,6 +589,7 @@
 | [What Came First And Why Does It Matter](https://open.spotify.com/track/1X7kDbXEPCJYYp376yqFbD) | [DJ Chrysalis](https://open.spotify.com/artist/3h07CvDZJ8MLsl8tAIMzvy) | [What Came First And Why Does It Matter](https://open.spotify.com/album/1uir3TdZvumqFzKcMKsavV) | 4:05 | 2022-06-08 | 2025-07-17 |
 | [Whatcomesup96 \- Mixed](https://open.spotify.com/track/2XnbmppKbtdRDNojRPyjM5) | [Zebrablood](https://open.spotify.com/artist/6YzavuXwWlGoDfXEZ7qnsb) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 0:58 | 2022-04-06 | 2022-07-29 |
 | [Whipping Spree](https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Journey into Mr Re](https://open.spotify.com/album/0hnTDDS4cjavAkrdGHCStC) | 6:51 | 2023-06-01 | 2023-08-09 |
+| [Whistling On A Tuesday](https://open.spotify.com/track/3Tynu2rLZGil2f49F4aqCa) | [dgoHn](https://open.spotify.com/artist/7niTXistKYVF29W4Bo0cUt) | [Tessares](https://open.spotify.com/album/5cVhwY4xBaFrX06wn41rjK) | 5:30 | 2026-07-17 |  |
 | [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 | 2023-10-28 | 2025-08-23 |
 | [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 | 2023-11-15 | 2025-08-12 |
 | [Workaround Four](https://open.spotify.com/track/4T9tdiYQ583ngVEyUGfDge) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Kuljit Bhamra](https://open.spotify.com/artist/6MPSPUcWWZsIVbFiw35Ygg) | [Workaround](https://open.spotify.com/album/1kGLxIjski3cSPhXBJRnw9) | 5:50 | 2021-10-06 | 2022-07-27 |

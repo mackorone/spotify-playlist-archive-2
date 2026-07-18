@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,398 songs - 5 day 21 hr 28 min
+2,402 songs - 5 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [Garden Of Eden](https://open.spotify.com/track/04EBNQslSK2Eu5ls4RSqyF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 1:25 | 2026-02-05 |  |
 | [Garden Of Flowers](https://open.spotify.com/track/04kofz7JttcQMzxFZyEuhb) | [Gottxi](https://open.spotify.com/artist/3Zl1jPBV7BkOtPhsk908CO) | [Garden Of Flowers](https://open.spotify.com/album/5ye4ECA6eFPlGqaOXRJcRT) | 3:14 | 2026-06-16 |  |
 | [Gas Mask](https://open.spotify.com/track/6GRqJrOgXBuCA8wUOffUml) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Gas Mask](https://open.spotify.com/album/0ADqdsyZgdIKGTdPFqw1ax) | 3:14 | 2024-03-04 |  |
+| [Gaslight](https://open.spotify.com/track/64Cz7y89nR5IHv3gnhTRnk) | [Pilgrim's Fire](https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn) | [Field Report](https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1) | 4:42 | 2026-07-17 |  |
 | [Gaultier](https://open.spotify.com/track/5vBWbJdN1xKGbVK2QbA1CA) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Gaultier](https://open.spotify.com/album/4sC9W1suc1UrMw76nE2Q65) | 2:26 | 2024-06-05 |  |
 | [Gayatri Dub](https://open.spotify.com/track/62GbdANS3wVk8Lp0gadFDq) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Groove Of Meditation](https://open.spotify.com/album/08YRGkqUUqKxOmijsGj271) | 4:49 | 2024-03-25 |  |
 | [Gdzieś...](https://open.spotify.com/track/30ELVY2B6ybG3vlVp3rACF) | [Dzidzius i gwiazdy](https://open.spotify.com/artist/2Ug6OoWjv6bisPajn9UoN5) | [Gdzieś...](https://open.spotify.com/album/08TIHvUFF58wZjR216oXAW) | 4:43 | 2026-06-19 |  |
@@ -1297,6 +1298,7 @@
 | [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 | 2026-04-12 |  |
 | [Message Man](https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 4:00 | 2024-03-04 |  |
 | [Metro Melodies](https://open.spotify.com/track/48hQq8H1xFlzzfJwhjojq7) | [Mister BoO](https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu), [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0) | [Metro Melodies](https://open.spotify.com/album/2LBQhg9d5SnhkZ3yf2CKuU) | 2:52 | 2026-05-05 |  |
+| [Mexican \- Big Reunion Remix Edit](https://open.spotify.com/track/3wwT9XEHYzBXYVNdAOedVc) | [CARUSO](https://open.spotify.com/artist/4gPWSjh9OJolHoeTQ995Tw), [VALENZIANO](https://open.spotify.com/artist/6ZRVg1mv3nhx6METtSYaVj), [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [Mexican](https://open.spotify.com/album/2LVsQk43OoVpE0OXapxrNy) | 2:10 | 2026-07-17 |  |
 | [Mi manca \(feat\. Ermal Meta\)](https://open.spotify.com/track/14QmYMPcfpIbOH1k7EmqNq) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Cristian Bugatti](https://open.spotify.com/album/3NX7t2LAvYFjf5GwA1MOCJ) | 4:07 | 2023-03-15 |  |
 | [Mi Mejor Yo](https://open.spotify.com/track/4uJI4ReR3zkM1Rc0RPt4f7) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Mi Mejor Yo](https://open.spotify.com/album/0wDhgjnA5voHYiWqi84ZF0) | 2:18 | 2026-01-18 |  |
 | [Mi Mundo Entero](https://open.spotify.com/track/1ZxKhZJyhexk0BZWPw0vPM) | [R A U](https://open.spotify.com/artist/1dymQTdVtx6SWGFLg0Vi8z) | [Mi Mundo Entero](https://open.spotify.com/album/67zO4G01EisEJsHX4NGFKC) | 4:18 | 2025-08-20 |  |
@@ -1952,6 +1954,7 @@
 | [Summer Rain](https://open.spotify.com/track/6KdmlljQVKULvy3GQmZRCH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summer Rain](https://open.spotify.com/album/1iQUHaUbjh5cVtAHf0lz5e) | 1:50 | 2026-02-05 |  |
 | [SUMMERTIME](https://open.spotify.com/track/085CtRz2vrCJnU622dRzWb) | [DONTListen](https://open.spotify.com/artist/6it7KWGoNjdIR2AOTzqMGW) | [SUMMERTIME](https://open.spotify.com/album/74xHUDyXEjognp7jcTHbW5) | 3:20 | 2025-03-13 |  |
 | [Summertime](https://open.spotify.com/track/1ZFp8VqkVqtoDyHN2DqG8U) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summertime](https://open.spotify.com/album/5lvXKEIhhOFJdskGf6BlEf) | 4:47 | 2026-02-05 |  |
+| [Sun Halo](https://open.spotify.com/track/5CorUGns21UoE4FgC8WoGg) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Look Up II](https://open.spotify.com/album/2FwRGEgXRI02BA1DcSJTkI) | 2:18 | 2026-07-17 |  |
 | [Sun On My Brain](https://open.spotify.com/track/29e37aHLtIb6LJBx1doeWC) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:30 | 2025-07-02 |  |
 | [Sun Shines on You](https://open.spotify.com/track/0iADGid50eV9CWd44Ez8xb) | [Ashtech](https://open.spotify.com/artist/34gRkptPjYd3uVN9igS75S) | [Walkin' Target](https://open.spotify.com/album/3P1Vu9Dl3jXRXYjvPVBesp) | 6:06 | 2025-06-22 |  |
 | [Sunday Riddim](https://open.spotify.com/track/3yvvSei94ywKLdTn3HI63j) | [E.R.S.](https://open.spotify.com/artist/78q8u6KVkHcu9jK1RYWG82) | [Dubconscious](https://open.spotify.com/album/6KWDSRmHzwkQfCBAVZiR0b) | 7:34 | 2025-10-04 |  |
@@ -2251,6 +2254,7 @@
 | [Walking Wounded](https://open.spotify.com/track/66NLINlhNK80uIiw03XSGP) | [Solar Twin](https://open.spotify.com/artist/50Ekd3KAzVMWwInjY87Gaj) | [Pink Noise](https://open.spotify.com/album/5J06ZzjwMI5FUOiWaaTgux) | 4:13 | 2025-07-02 |  |
 | [Wanna Battle](https://open.spotify.com/track/7kB0WkR3tCYpNN6vs8d8l4) | [Breakin' DJ Planet](https://open.spotify.com/artist/2tIa7SlJJjIqhcW7m6yQjD), [Battle of the Year](https://open.spotify.com/artist/05vRRmMD2Yx0dFvZYVbyRM) | [Battle Of The Year 2025 \- The Soundtrack](https://open.spotify.com/album/3SkiEuhfqD0q76GaqFNKwW) | 3:24 | 2026-02-07 |  |
 | [War Chant](https://open.spotify.com/track/3Zp8A92zIyZs6v0gSvzaWa) | [O.L.M.](https://open.spotify.com/artist/5ILLxboYauCyB25YEmfWor) | [Book Of Daniel](https://open.spotify.com/album/2XzXT3GWKksLTxcaCoQc6I) | 4:07 | 2024-03-25 |  |
+| [Warehouse Warriors](https://open.spotify.com/track/2sXCKcmCbwAIWeIIxGYkk0) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Warehouse Warriors](https://open.spotify.com/album/5tzKvbtHmvpsX48kQwpoB7) | 2:01 | 2026-07-18 |  |
 | [Warning](https://open.spotify.com/track/7klOJejCcDotE1mMKEbn9l) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [MKD](https://open.spotify.com/album/6JpOy0NsksNvyMAiqIHri3) | 5:58 | 2024-03-10 |  |
 | [Warning \- Micronomade Remix](https://open.spotify.com/track/3Yk03gaR9TkTFxS2XOMmZD) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE), [Micronomade](https://open.spotify.com/artist/0pSqI0rE5UF7zviRWrkmAf) | [Warning \(Micronomade Remix\)](https://open.spotify.com/album/4OpItgA73V6NBArSqCcJgM) | 4:14 | 2025-01-24 |  |
 | [Warrior Dub](https://open.spotify.com/track/0MF0rFPKo8l985uFLgQpmL) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:28 | 2024-05-01 |  |

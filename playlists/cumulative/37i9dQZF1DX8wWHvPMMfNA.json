@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/2m1gssiOoE3sfylf1U90BU"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167477,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/3pD0feYnlhlGudk14U0a8s"
+    },
+    {
+      "album": {
         "name": "Blue Eyes Crying In The Rain",
         "url": "https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq"
       },
@@ -6078,7 +6096,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 325428,
       "name": "I Get Along Without You Very Well",
       "url": "https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS"
@@ -7903,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Last Chance",
+        "url": "https://open.spotify.com/album/61OIldzu1u7sE1R9ilwBGU"
+      },
+      "artists": [
+        {
+          "name": "Trio Lexington",
+          "url": "https://open.spotify.com/artist/6XobE9ul7DXzvuaXpVhlsR"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206032,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/4jnEKDjB6fB1qQmiOPDQBy"
+    },
+    {
+      "album": {
         "name": "Rue Saint-Rustique",
         "url": "https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB"
       },
@@ -9322,6 +9358,24 @@
       "duration_ms": 179661,
       "name": "Midnight Moods",
       "url": "https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd"
+    },
+    {
+      "album": {
+        "name": "Midnight Motion",
+        "url": "https://open.spotify.com/album/3lcsRFg4qE9pT3OL36fCqM"
+      },
+      "artists": [
+        {
+          "name": "Autumn Steps",
+          "url": "https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193404,
+      "name": "Midnight Motion",
+      "url": "https://open.spotify.com/track/6Ab1NXPbk8wnddaAR10LZm"
     },
     {
       "album": {
@@ -13668,6 +13722,24 @@
       "duration_ms": 235455,
       "name": "Swingin' Skylines",
       "url": "https://open.spotify.com/track/11mlMYGexF7TeSK7AXtVmH"
+    },
+    {
+      "album": {
+        "name": "Table For Two Please",
+        "url": "https://open.spotify.com/album/5OvfX9BMCN1bKlDpI029Cn"
+      },
+      "artists": [
+        {
+          "name": "Walker Green Band",
+          "url": "https://open.spotify.com/artist/2kjYQGTeWG9pl8YLUsLOwg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Table For Two Please",
+      "url": "https://open.spotify.com/track/0q6eQ32MAZyFv831XUrR8E"
     },
     {
       "album": {

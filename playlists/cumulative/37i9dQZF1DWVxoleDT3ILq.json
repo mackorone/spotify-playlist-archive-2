@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Club de Carta Inglesa",
+        "url": "https://open.spotify.com/album/77WA0ERzMhakzO0lg2oeyh"
+      },
+      "artists": [
+        {
+          "name": "Club de Carta Inglesa",
+          "url": "https://open.spotify.com/artist/6gGtEXY6tO1XmTgJ3jl05n"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252745,
+      "name": "El Malo de la Pel\u00edcula",
+      "url": "https://open.spotify.com/track/1yTVAvYxt7Y4ucUmgT9Nx6"
+    },
+    {
+      "album": {
         "name": "El Mapa de Tu Viaje (En Vivo)",
         "url": "https://open.spotify.com/album/20Pqm1Q6e17GhS5Ym9H7I1"
       },
@@ -5495,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "Morir Saltando",
+        "url": "https://open.spotify.com/album/4kjGLSRCXMMy6sCnz4bwpL"
+      },
+      "artists": [
+        {
+          "name": "Hesse Kassel",
+          "url": "https://open.spotify.com/artist/5H88ECGf9hb6CqElLAKgld"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363910,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/2E6V7cwXI10QywIhZfpev9"
+    },
+    {
+      "album": {
         "name": "Me Asusta Amar Tanto la Soledad",
         "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
       },
@@ -5734,6 +5770,24 @@
       "duration_ms": 198891,
       "name": "Mi Camino Es Apenas Una Huella",
       "url": "https://open.spotify.com/track/5wnn9v60XXqJIdP2e7yPHK"
+    },
+    {
+      "album": {
+        "name": "Espero podamos ver un ovni juntxs",
+        "url": "https://open.spotify.com/album/26zRJsRXT7Svk3SdPk9phT"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167236,
+      "name": "Mi Chica",
+      "url": "https://open.spotify.com/track/3kloO0cxNbUHSvC0oTY9Uc"
     },
     {
       "album": {
@@ -6518,7 +6572,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 210434,
       "name": "Obsesi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN"
@@ -7520,7 +7574,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 233528,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/3OrnisN6iubVnRmhNlmQ5g"
@@ -7730,7 +7784,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
@@ -8154,6 +8208,28 @@
       "duration_ms": 277434,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP"
+    },
+    {
+      "album": {
+        "name": "Ruido Blanco",
+        "url": "https://open.spotify.com/album/2AcaYnD7Ux5ptSttYs6MRI"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Ruido Blanco",
+      "url": "https://open.spotify.com/track/6eslpkMyIGm2JQLK2aArUm"
     },
     {
       "album": {
@@ -8632,7 +8708,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 174654,
       "name": "SIN TI",
       "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"

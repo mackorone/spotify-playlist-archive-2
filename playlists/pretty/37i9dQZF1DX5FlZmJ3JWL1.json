@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 772579,
+  "num_followers": 772577,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -851,30 +851,6 @@
     {
       "added_at": "2026-07-01 13:45:36",
       "album": {
-        "name": "Lay All Your Love On Me",
-        "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
-      },
-      "artists": [
-        {
-          "name": "Lietru",
-          "url": "https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ"
-        },
-        {
-          "name": "YAMAS",
-          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Lay All Your Love On Me",
-      "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
-    },
-    {
-      "added_at": "2026-07-01 13:45:36",
-      "album": {
         "name": "Freak (Tricky Disco)",
         "url": "https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu"
       },
@@ -899,6 +875,30 @@
     {
       "added_at": "2026-07-01 13:45:36",
       "album": {
+        "name": "Lay All Your Love On Me",
+        "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
+      },
+      "artists": [
+        {
+          "name": "Lietru",
+          "url": "https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ"
+        },
+        {
+          "name": "YAMAS",
+          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Lay All Your Love On Me",
+      "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2026-07-01 13:45:36",
+      "album": {
         "name": "It's My Life (Techno Remix)",
         "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-07-01 13:45:36",
       "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
-    },
-    {
-      "added_at": "2026-07-01 13:45:36",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
+    },
+    {
+      "added_at": "2026-07-01 13:45:36",
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
     },
     {
       "added_at": "2026-07-01 13:45:36",

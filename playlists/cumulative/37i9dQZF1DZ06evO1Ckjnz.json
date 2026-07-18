@@ -1692,10 +1692,32 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 146133,
       "name": "What",
       "url": "https://open.spotify.com/track/05gV5VWzzvDULZSFrT5h2S"
+    },
+    {
+      "album": {
+        "name": "#HEAVENSGATE VOL. 2",
+        "url": "https://open.spotify.com/album/2LYhQj0pILisvLgBrtHWrZ"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "What",
+      "url": "https://open.spotify.com/track/1G1AErONPBT62zGMOyxuM5"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Mikha Tambayong, Rayi Putra
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,354 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,355 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jalan Tengah](https://open.spotify.com/track/0q0LEdCPlGvIj8gqZIQ1R1) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Jalan Tengah](https://open.spotify.com/album/2YhQm90EHX7YgBD2XlhVot) | 3:37 |
 | 2 | [FACE CARD](https://open.spotify.com/track/3eA5suAsHBAjwtsjcNCNmA) | [Salon RnB](https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7), [Madukina](https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ), [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FACE CARD](https://open.spotify.com/album/5MtHZ2HiS8NoqhqD1x4JMe) | 4:43 |
 | 3 | [wyd tonight?](https://open.spotify.com/track/7b34OKhZyLSX1w97bKhKup) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07) | [wyd tonight?](https://open.spotify.com/album/0YaKSXavmL2DDi0K08guuz) | 2:35 |
-| 4 | [Track 9](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 0:00 |
+| 4 | [Million Different Reasons](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 4:06 |
 | 5 | [Gerilya Cinta](https://open.spotify.com/track/3KY5EGVVpbacFw79dpricc) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Gerilya Cinta](https://open.spotify.com/album/03BZzhN6nhvK2mHB8Bjmtf) | 3:08 |
 | 6 | [Masih Aku Yang Sama](https://open.spotify.com/track/6BknzjfEY84uqrtoXuocZe) | [Raka](https://open.spotify.com/artist/4RhPQsKW0Aa8vsKFNNuGpt), [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [Cinta & Derita](https://open.spotify.com/album/4vUUs8KefGN9peEWkHGOwF) | 2:55 |
 | 7 | [24/7](https://open.spotify.com/track/6Sxc16RahhmIrVsN34uPUm) | [Romaria](https://open.spotify.com/artist/0SA5cjTKYZqmXdgIH9IeE6) | [24/7](https://open.spotify.com/album/4Aobf2Roz9dxfaA2Vsj88X) | 3:15 |

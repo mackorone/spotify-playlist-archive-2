@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,168 songs - 2 day 12 hr 12 min
+1,169 songs - 2 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,6 +874,7 @@
 | [Samsara](https://open.spotify.com/track/4U91micKPBG76g9oKoICVk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Samsara / Hangover](https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo) | 2:58 | 2023-04-14 | 2023-05-02 |
 | [Santa Fe](https://open.spotify.com/track/2NzPRuDzDp2Kff1t1mKHse) | [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K), [Paul Jockey](https://open.spotify.com/artist/3gHmqk6LjPNWjuPNIfMbYB), [Ada Reina](https://open.spotify.com/artist/1bvmzwGUg8BtagMUQLAkdw) | [Santa Fe](https://open.spotify.com/album/4ASoD8FFSJnuqzXMPdUUCd) | 2:50 | 2023-07-14 | 2023-08-02 |
 | [Sara Tonin feat\. James Cole](https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [zuezeu](https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ), [James Cole](https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb) | [Sara Thing EP](https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw) | 2:20 | 2024-04-05 | 2024-04-26 |
+| [Sarà Perché Ti Amo](https://open.spotify.com/track/0NGoKCfVbzFXL5sJdOF0QO) | [Joyliana](https://open.spotify.com/artist/1KbLQNIJpixxUKAf8D3aDn) | [Sarà Perché Ti Amo](https://open.spotify.com/album/7sOCohPVda9IeNyuzXsj1w) | 2:16 | 2026-07-17 |  |
 | [Satisfaction \(with KASIA, Moonphazes, Majewski\) \- Remix](https://open.spotify.com/track/2G1nZCvN2y3qhjcQR9S2ki) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV), [Moonphazes](https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm) | [Satisfaction \(with KASIA, Moonphazes, Majewski\) \[Remix\]](https://open.spotify.com/album/6R8XewqCot8PEvbAv67rXk) | 3:02 | 2026-01-29 |  |
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-04-12 | 2023-05-02 |
 | [Saviour](https://open.spotify.com/track/0T8VMb5jV2XeNJvXG4wWr4) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Saviour](https://open.spotify.com/album/4NpfiBoBzu80w4eTDhJCD6) | 3:14 | 2023-04-14 | 2023-05-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Neutro Shorty
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,621 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,663 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 60 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 |
 | 61 | [Amaneciendo Con Zaperoko](https://open.spotify.com/track/2RLpgwLVfI5duKhbE2H04d) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Amaneciendo Con Zaperoko](https://open.spotify.com/album/0PH2f6w39bBN4dPH0TkB3E) | 5:08 |
 | 62 | [Sin Ti](https://open.spotify.com/track/60Lkn19mTVKexNrbIvqgos) | [La Perú Salsa All Star](https://open.spotify.com/artist/6LraR5S4VeqSQ5NflpY0GI) | [Juntos en Lo Mejor](https://open.spotify.com/album/4QYksnq4JOQhxeOCQCiffK) | 5:27 |
-| 63 | [Con Mi Amiga](https://open.spotify.com/track/2bIIQIXgi5blVkSZ7Y2uTh) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 3:49 |
+| 63 | [Con Mi Amiga](https://open.spotify.com/track/2bIIQIXgi5blVkSZ7Y2uTh) | [Daniela Darcourt](https://open.spotify.com/artist/33W2Anjc2fFt0FV6iTEUyn) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 3:49 |
 | 64 | [Lo Que Tengo Yo](https://open.spotify.com/track/3Af6NLEVmK2mKyLyGEavu2) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Así Somos](https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF) | 4:49 |
 | 65 | [Tu Falta de Querer](https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/4BBYd00knrYeFnPDSwQ23l) | 5:01 |
 | 66 | [No Sé](https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ) | 4:06 |

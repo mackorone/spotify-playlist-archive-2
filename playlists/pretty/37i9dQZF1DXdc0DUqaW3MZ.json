@@ -1,12 +1,12 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376930,
+  "num_followers": 376941,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwhoDyRmtfnatx7wE/733sTu3EY",
+  "snapshot_id": "AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo",
   "tracks": [
     {
       "added_at": "2026-07-09 16:18:31",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 227358,
-      "name": "Elm",
-      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -727,46 +727,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "WHODIS",
-        "url": "https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 133356,
-      "name": "WHODIS",
-      "url": "https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 174562,
-      "name": "More Than A Little Bit (feat. Tinashe)",
-      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -791,6 +751,26 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "More Than A Little Bit (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+        "name": "WHODIS",
+        "url": "https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L"
       },
       "artists": [
         {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+      "duration_ms": 133356,
+      "name": "WHODIS",
+      "url": "https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -847,6 +831,22 @@
       "duration_ms": 186500,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Static on My Tongue",
-        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Static on My Tongue",
-      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "Static on My Tongue",
+        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Static on My Tongue",
+      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/6lMuIxKOuMJHzJ5aivcvge"
       },
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
       },
       "artists": [
         {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
         }
       ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+      "duration_ms": 154735,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
         }
       ],
-      "duration_ms": 154735,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "UP DOWN BOUNCE",
         "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 188571,
       "name": "UP DOWN BOUNCE",
       "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Set My Sun",
-        "url": "https://open.spotify.com/album/3ouohDROreSNrFfJKGLcvH"
-      },
-      "artists": [
-        {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
-        },
-        {
-          "name": "Eva Lazarus",
-          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Set My Sun",
-      "url": "https://open.spotify.com/track/1JIyH1ZTYPifq22XZuSme4"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Dancing While Falling",
         "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
       },
@@ -1375,18 +1355,42 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "How Many Nights",
-        "url": "https://open.spotify.com/album/6nx9Yb3zNbus9uU2odXjdq"
+        "name": "Set My Sun",
+        "url": "https://open.spotify.com/album/3ouohDROreSNrFfJKGLcvH"
       },
       "artists": [
         {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        },
+        {
+          "name": "Eva Lazarus",
+          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
         }
       ],
-      "duration_ms": 184273,
-      "name": "How Many Nights",
-      "url": "https://open.spotify.com/track/3ValHbxPjEd6UuTPQKpj7p"
+      "duration_ms": 220952,
+      "name": "Set My Sun",
+      "url": "https://open.spotify.com/track/1JIyH1ZTYPifq22XZuSme4"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     }
   ],
   "unique_name": "Soultronic",

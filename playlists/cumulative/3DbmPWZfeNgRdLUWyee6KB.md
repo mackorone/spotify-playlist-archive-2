@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,305 songs - 3 day 3 hr 48 min
+1,308 songs - 3 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Clock Won't Fix Us](https://open.spotify.com/track/5IHk26pRARBqre0j3qW4us) | [Zaara](https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd) | [Clock Won't Fix Us](https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK) | 4:27 | 2026-04-23 | 2026-06-05 |
 | [Closed Circle](https://open.spotify.com/track/3kOiYnhygbL1DDuKFf6DgS) | [Chris Mark Mickey](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Spotlight From The Shadows](https://open.spotify.com/album/4eTjld5f8cjfYX00rFYO2j) | 3:30 | 2025-11-21 | 2026-01-05 |
 | [Closer than the sky](https://open.spotify.com/track/3yeC1HoVGJxk5KGAX4595T) | [ChrisGCol](https://open.spotify.com/artist/0w5xIHnOStrQPWy6BNWIFL), [Paula B](https://open.spotify.com/artist/6Ir0G4hBaP4gT5Y2ritrnx) | [Closer than the sky](https://open.spotify.com/album/7k6BcY2jbUrVOhWF4E2ltd) | 3:21 | 2026-02-01 | 2026-02-28 |
+| [Clowns without Crowns](https://open.spotify.com/track/7J7kX0fWq92ecC29PTPFQC) | [Supertrendt](https://open.spotify.com/artist/4K5O7XpUvQx0S3YAFMHO8w) | [Clowns without Crowns](https://open.spotify.com/album/12RrZUaOOx3zfGkQNWV05F) | 3:57 | 2026-07-17 |  |
 | [Coastline](https://open.spotify.com/track/1RxAKnCromdMCDZcIv4ohk) | [M Official](https://open.spotify.com/artist/4jveQgGPqSFjYWxjNrZhkY) | [Golden Coast](https://open.spotify.com/album/0eAyfwqQjt4qpLZhEcXyMx) | 3:19 | 2026-01-26 | 2026-02-28 |
 | [Cocci ri rina](https://open.spotify.com/track/2v5I9alBtaqUF8Lsy8cG2E) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 4:05 | 2023-04-20 | 2025-11-29 |
 | [Cold Nights](https://open.spotify.com/track/7uXaMOhjnwNTx4ylOIdywo) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [Cold Nights](https://open.spotify.com/album/43tDQTW7UkOdO0Zg1RYfwh) | 3:44 | 2025-12-18 | 2026-01-15 |
@@ -257,6 +258,7 @@
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-03-16 | 2026-04-12 |
 | [Deserto](https://open.spotify.com/track/6YfGhcZt630Z9apjzFf6M7) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [Deserto](https://open.spotify.com/album/0QmnOchxMOfWY8IcXq6D3C) | 3:11 | 2026-06-07 | 2026-07-03 |
 | [Desnudos](https://open.spotify.com/track/0YhRvQRdUPS5CTTr271yxK) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Desnudos](https://open.spotify.com/album/7xZRApMEokpFziQCuMdchm) | 4:40 | 2026-03-20 | 2026-04-22 |
+| [Desperfección](https://open.spotify.com/track/7HlFYB6p95JOQKs62BLy4H) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Desperfección](https://open.spotify.com/album/0H0XpGvk9I3TvqWc8CCdyl) | 3:13 | 2026-07-17 |  |
 | [Destinazione sera](https://open.spotify.com/track/0JUuaYQuZfk3xiCVjIlVlh) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:56 | 2026-06-15 |  |
 | [DETACHMENT](https://open.spotify.com/track/7EIDxaAt1Li1bBfX9z0S8v) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC), [JBAKED](https://open.spotify.com/artist/0iSctIGKWqT03q6XCFuJVF) | [DETACHMENT](https://open.spotify.com/album/7vgPzGMN5Ziydt016iM72w) | 2:36 | 2026-05-14 | 2026-07-03 |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 | 2026-04-12 |
@@ -626,6 +628,7 @@
 | [Long Time](https://open.spotify.com/track/2UKdtw1iNzsx2gmuYbQaKu) | [Eddus](https://open.spotify.com/artist/6iFNqjfucW5tG2WUK0nSxR) | [Long Time](https://open.spotify.com/album/3B3on9GGaYMjfyQpgVOnLa) | 3:32 | 2026-05-28 | 2026-07-03 |
 | [Look to the Left, Look to the Right](https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Look to the Left, Look to the Right](https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB) | 1:52 | 2026-04-23 | 2026-06-05 |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2026-04-06 | 2026-05-03 |
+| [Losing Who I Used to Be](https://open.spotify.com/track/3oyt3P5sKEthWeTl5Dmxut) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Losing Who I Used to Be](https://open.spotify.com/album/1dGWdvcUV5brX9x6t7s3Qe) | 3:11 | 2026-07-17 |  |
 | [Lost](https://open.spotify.com/track/5PK3kBmEfUPJ4Ht1Nb8czJ) | [Chucky Cat](https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL), [Lil Innocent](https://open.spotify.com/artist/4f4elwDrvecNEfivB6fKS7), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [Lost](https://open.spotify.com/album/1hZdhASC93ZnXSjx6abGrN) | 3:12 | 2026-02-03 | 2026-03-07 |
 | [Lost Generation](https://open.spotify.com/track/2ZXAZ3PXzi5LDOSo3BLUlo) | [Claude Spalding](https://open.spotify.com/artist/5Xz9IhXW8lIxOCQKoVFzV6) | [Lost Generation](https://open.spotify.com/album/697CdK65kmfBIFZ3eLMhQQ) | 2:16 | 2025-09-29 | 2025-11-29 |
 | [lost in dubai](https://open.spotify.com/track/7ezHb4mmQ7gvyT46TCf1vm) | [silent duet](https://open.spotify.com/artist/08ieivkr0pXVZustc3w0LU) | [lost in dubai](https://open.spotify.com/album/0CIitpCxcaAHotbGNrI5x3) | 2:12 | 2026-06-15 |  |

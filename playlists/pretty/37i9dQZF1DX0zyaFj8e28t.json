@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 406480,
+  "num_followers": 406514,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
+        "name": "Tropique",
+        "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
+      },
+      "artists": [
+        {
+          "name": "Muriel Dacq",
+          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
+        }
+      ],
+      "duration_ms": 212002,
+      "name": "Tropique",
+      "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
         "name": "Two Feldman",
         "url": "https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 251026,
       "name": "Joue pas",
       "url": "https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
-        "name": "Tropique",
-        "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
-      },
-      "artists": [
-        {
-          "name": "Muriel Dacq",
-          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
-        }
-      ],
-      "duration_ms": 212002,
-      "name": "Tropique",
-      "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
     },
     {
       "added_at": "2026-05-19 09:20:45",

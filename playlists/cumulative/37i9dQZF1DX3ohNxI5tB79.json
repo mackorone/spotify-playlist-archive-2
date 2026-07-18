@@ -5829,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/1dQeY1B5fEGOpY8f6heGWY"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213375,
+      "name": "Sunday Afternoon",
+      "url": "https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq"
+    },
+    {
+      "album": {
         "name": "SUNLIGHT",
         "url": "https://open.spotify.com/album/1ndKXr9Z4VPa6Ji7lwxfIe"
       },
@@ -7602,6 +7620,24 @@
       "duration_ms": 257186,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
+    },
+    {
+      "album": {
+        "name": "Your Love (What I'm Dying From)",
+        "url": "https://open.spotify.com/album/0Z1nSosP9Oq9Dfh6ni54wF"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171508,
+      "name": "Your Love (What I'm Dying From)",
+      "url": "https://open.spotify.com/track/0jg5fwPdpm5n1lfyMkrC1D"
     },
     {
       "album": {

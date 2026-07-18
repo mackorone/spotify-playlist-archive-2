@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Magi Merlin from Montr\u00e9al, QC.",
+  "description": "Your guide to R&B in Canada, with Samant from Montr\u00e9al, QC.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 221307,
       "name": "AMPM - Remix",
       "url": "https://open.spotify.com/track/6kv7aJRMbGCrKoQPx4ieEp"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 191381,
       "name": "BENJAMINS",
       "url": "https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB"
@@ -4123,6 +4123,24 @@
     },
     {
       "album": {
+        "name": "Brunch",
+        "url": "https://open.spotify.com/album/0FOUc0eNZPZkBLYkYI2eWk"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134577,
+      "name": "Brunch",
+      "url": "https://open.spotify.com/track/2kNfvDTTZOFcDoPTyKoAdT"
+    },
+    {
+      "album": {
         "name": "Buh Bye II",
         "url": "https://open.spotify.com/album/4HOVDeY2X4hB5dt6pfqz4l"
       },
@@ -4160,6 +4178,32 @@
       "duration_ms": 216953,
       "name": "BULLSEYE",
       "url": "https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k"
+    },
+    {
+      "album": {
+        "name": "ATMANS",
+        "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128634,
+      "name": "BURN LIKE FYA",
+      "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
     },
     {
       "album": {
@@ -9522,7 +9566,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 160034,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/7m9M5YdkVYaGveDumEBwLd"
@@ -12923,6 +12967,28 @@
     },
     {
       "album": {
+        "name": "I Like It",
+        "url": "https://open.spotify.com/album/0kobuTWXZAe2LoxuiE0xJ9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        },
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204303,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH"
+    },
+    {
+      "album": {
         "name": "I LO<3 MY EX",
         "url": "https://open.spotify.com/album/5qvwNc0eA0wUE1q5K3F0vK"
       },
@@ -14482,7 +14548,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 174222,
       "name": "just busiNESS (feat. Kalisway)",
       "url": "https://open.spotify.com/track/00VNNaPRpJCGiV4T1LRuyL"
@@ -15388,6 +15454,24 @@
       "duration_ms": 141036,
       "name": "LEGENDS",
       "url": "https://open.spotify.com/track/032oUMA2dBNHRdok1erlDq"
+    },
+    {
+      "album": {
+        "name": "Lemme Luh U BB",
+        "url": "https://open.spotify.com/album/04dzgtuet4DWJfdaca01Y6"
+      },
+      "artists": [
+        {
+          "name": "Jhyve",
+          "url": "https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176171,
+      "name": "Lemme Luh U BB",
+      "url": "https://open.spotify.com/track/7hGNXxL8Y39eBYgAkVd9vu"
     },
     {
       "album": {
@@ -17756,6 +17840,24 @@
       "duration_ms": 271725,
       "name": "MITTOS",
       "url": "https://open.spotify.com/track/1JhgSsikli5jwcmxqocVF6"
+    },
+    {
+      "album": {
+        "name": "Moment Of Silence",
+        "url": "https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187427,
+      "name": "Moment Of Silence",
+      "url": "https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc"
     },
     {
       "album": {
@@ -30152,7 +30254,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 173379,
       "name": "Trust and Believe",
       "url": "https://open.spotify.com/track/6hZNetGru859NdFTrzVq2l"

@@ -1,13 +1,49 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Manisha Eerabathini",
-  "num_followers": 44556,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Oliver Kim",
+  "num_followers": 44573,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+NuSSjMXE8+dhwm5xf8YYZE2S1",
+  "snapshot_id": "AAAAAGv/64xs/U6/Mo4WfbTtph5ENEBz",
   "tracks": [
+    {
+      "added_at": "2026-07-17 05:26:21",
+      "album": {
+        "name": "Mudhugumma",
+        "url": "https://open.spotify.com/album/7zsLUiPZL2Ldt0BTNwGRxA"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kim",
+          "url": "https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs"
+        }
+      ],
+      "duration_ms": 134718,
+      "name": "Mudhugumma",
+      "url": "https://open.spotify.com/track/7yMMBZ5Rx6M42NgbMX0EHj"
+    },
+    {
+      "added_at": "2026-07-08 10:24:51",
+      "album": {
+        "name": "Take It Light",
+        "url": "https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5"
+      },
+      "artists": [
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Shashank Alamuru",
+          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Take It Light",
+      "url": "https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59"
+    },
     {
       "added_at": "2026-07-10 11:11:11",
       "album": {
@@ -31,26 +67,6 @@
       "duration_ms": 216521,
       "name": "Neeve Neeve",
       "url": "https://open.spotify.com/track/2ZphKloOHELMlyj38FnwhN"
-    },
-    {
-      "added_at": "2026-07-08 10:24:51",
-      "album": {
-        "name": "Take It Light",
-        "url": "https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5"
-      },
-      "artists": [
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        },
-        {
-          "name": "Shashank Alamuru",
-          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Take It Light",
-      "url": "https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59"
     },
     {
       "added_at": "2026-07-10 11:11:11",
@@ -551,6 +567,22 @@
       "duration_ms": 179220,
       "name": "Pain",
       "url": "https://open.spotify.com/track/26aldfYelYvLKf23rh4NE0"
+    },
+    {
+      "added_at": "2026-07-17 05:26:21",
+      "album": {
+        "name": "Red Flower (Erra Puvvu)",
+        "url": "https://open.spotify.com/album/2vFGHO9MyKTe1pntPSs7MC"
+      },
+      "artists": [
+        {
+          "name": "Hyderabadi Chora",
+          "url": "https://open.spotify.com/artist/4wU2EE3uFSZXdNim67tKSI"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Red Flower (Erra Puvvu)",
+      "url": "https://open.spotify.com/track/7cfGuk9jnkts1y6PozHrgL"
     },
     {
       "added_at": "2026-05-15 06:15:24",
@@ -1675,42 +1707,6 @@
       "duration_ms": 195231,
       "name": "Vasanthakaalam",
       "url": "https://open.spotify.com/track/4uG8FKVfBaZ7AqK7z3gmEu"
-    },
-    {
-      "added_at": "2026-01-16 18:30:21",
-      "album": {
-        "name": "Jabili Nene (Rewind)",
-        "url": "https://open.spotify.com/album/64WVeE4sircWPTBo0NCM11"
-      },
-      "artists": [
-        {
-          "name": "Arpita Mukherjee",
-          "url": "https://open.spotify.com/artist/5ncTuEg7Nr4mL0SqlXLy8P"
-        },
-        {
-          "name": "Avishek Majumder",
-          "url": "https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO"
-        }
-      ],
-      "duration_ms": 262285,
-      "name": "Jabili Nene (Rewind)",
-      "url": "https://open.spotify.com/track/5cIp2aZ1Jb89FwAdPv3NcV"
-    },
-    {
-      "added_at": "2026-01-20 05:55:26",
-      "album": {
-        "name": "Sankranthi Pandaga",
-        "url": "https://open.spotify.com/album/3jVoOQlKYgumXupusYvi6p"
-      },
-      "artists": [
-        {
-          "name": "M3 sai",
-          "url": "https://open.spotify.com/artist/6XZcFI5DpzxjKDIV2tJtgi"
-        }
-      ],
-      "duration_ms": 240538,
-      "name": "Sankranthi Pandaga",
-      "url": "https://open.spotify.com/track/6Y1J251mtyh4o8LzSiW8D0"
     },
     {
       "added_at": "2026-02-06 13:18:20",

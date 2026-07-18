@@ -4,7 +4,7 @@
 
 > Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium.
 
-33 songs - 1 hr 28 min
+37 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Caitie Says](https://open.spotify.com/track/1vUBasmo2RUADuaTlua4Ju) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Caitie Says](https://open.spotify.com/album/3LOTuISLRqduomyWLrGaSY) | 3:04 | 2026-05-22 |  |
 | [Colors Rap](https://open.spotify.com/track/1lKMWgLjn7WzLCG3BwqV6A) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY), [Go Buster](https://open.spotify.com/artist/2PeKKRZrvBC2pDjMf3JtKx) | [Learning Colours in the Classroom](https://open.spotify.com/album/0IZ8auAE2fEdnoPFNBSDuG) | 2:00 | 2026-05-22 |  |
 | [Dinosaur Song](https://open.spotify.com/track/6B1rvaRgpIAqjyIOZK9TNC) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Animal Friends](https://open.spotify.com/album/4B3LWH0pMwMss4nyXAJRwl) | 3:04 | 2026-05-22 |  |
+| [drop dead](https://open.spotify.com/track/6bUCROtu78ifRgxj0PeBT4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [drop dead](https://open.spotify.com/album/7IIGaEFyIvyiXfAoze8PsF) | 3:28 | 2026-07-17 |  |
 | [Five Little Dinosaurs Jumping On The Bed](https://open.spotify.com/track/1f45Dwk7O4Xub78YVAQhAD) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Five Little Dinosaurs Jumping On The Bed](https://open.spotify.com/album/0iu5RcG2cRjZBiDWwntcSn) | 3:00 | 2026-06-05 |  |
 | [Five Little Ducks](https://open.spotify.com/track/4u70QgRBLFgexLKdcgP3GW) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Kind Be You](https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV) | 2:49 | 2026-05-22 |  |
 | [Five Little Monkeys](https://open.spotify.com/track/5GgU04WdyhVSYA6DJe8Fiw) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Let's Have Fun! 20 Playtime Songs for Kids](https://open.spotify.com/album/7AtnBnrdRCmgrqxfogQfQV) | 1:45 | 2026-05-22 |  |
@@ -24,6 +25,7 @@
 | [Have a Good Time feat\. Charlie Wilson](https://open.spotify.com/track/5nYqe53a9DEkr2vrkTLPq2) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Have a Good Time feat\. Charlie Wilson](https://open.spotify.com/album/45IKvh11lgznevrIUftT6H) | 2:48 | 2026-05-22 |  |
 | [Hop Little Bunnies](https://open.spotify.com/track/4Bxxo0D2H1gBlcWzXdg1kx) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Animals On The Farm And More Lah\-Lah Sing And Dance Songs](https://open.spotify.com/album/4D4jgeLd74Zrec9MJPRWVI) | 2:09 | 2026-05-22 |  |
 | [I Love Eating Vegetables](https://open.spotify.com/track/1ozlVbbbq8KvZd0lrEim19) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Love Eating Vegetables](https://open.spotify.com/album/5UaeWRpbOxBhTfG4kmPLYd) | 2:02 | 2026-05-22 |  |
+| [I'm Going On a Trip](https://open.spotify.com/track/7EioBHFV3JEgZ1Q6GPqLFf) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I'm Going On a Trip](https://open.spotify.com/album/6fM8LoKbojj1EQjAcMgn7P) | 3:10 | 2026-07-17 |  |
 | [If You Love to Dance & Move](https://open.spotify.com/track/6sWc6IeS6ImN1Yr6Nfe2oG) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [If You Love to Dance & Move](https://open.spotify.com/album/5JHP855ISqCfxzUeHoNENq) | 3:29 | 2026-05-22 |  |
 | [Learn Numbers and Colours Song \- Bus, Cars and Trucks](https://open.spotify.com/track/2L8Q1XArhm968SXREBLeMb) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & More Vehicle Songs!](https://open.spotify.com/album/5rMGKINa45CmYXC7y7EQni) | 1:53 | 2026-05-22 |  |
 | [Llama Song](https://open.spotify.com/track/7j2wiqoy9i0ZV97yibRYYy) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Songs About Stuff Vol\. 2](https://open.spotify.com/album/1QL6VpmUQKaxDRkvOOkqNk) | 1:50 | 2026-05-22 |  |
@@ -33,6 +35,7 @@
 | [Sports](https://open.spotify.com/track/7nZMHop22wTDbaoDkaP9x9) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Sports](https://open.spotify.com/album/0Hx7DbcJrotDRRDAMvkOnZ) | 2:37 | 2026-06-19 |  |
 | [The Elephant](https://open.spotify.com/track/7aFRFQA17hIsuQ18y3cfFy) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [The Elephant](https://open.spotify.com/album/1qBkdeuJDb3D8VVpeMN3PG) | 1:47 | 2026-05-22 |  |
 | [The Family Tree](https://open.spotify.com/track/0G9R4kEYVT4yLINMrm5n8v) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Family Tree](https://open.spotify.com/album/0p4n9kgPdm2OiLajjBxXZs) | 2:02 | 2026-05-22 |  |
+| [The First Day of School](https://open.spotify.com/track/1F0GS50NFBIeYks6sUGIU6) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Finny the Shark](https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i) | [The First Day of School](https://open.spotify.com/album/1gAFgQV7YKtapi6sPBCBTc) | 2:07 | 2026-07-17 |  |
 | [The Floor is Lava](https://open.spotify.com/track/6BqXhU86SP3j0Kx3DrOidQ) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Floor is Lava Dance Songs](https://open.spotify.com/album/70pLKHI7qVRsvgjCGgYJ9G) | 3:30 | 2026-05-22 |  |
 | [The Goldfish](https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:34 | 2026-05-22 |  |
 | [The People in My Family](https://open.spotify.com/track/0xTBpgabw9HXyrsm2ZImoN) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The People in My Family](https://open.spotify.com/album/4fvKJxqRLX58tTUt4yv7VS) | 2:20 | 2026-05-22 |  |
@@ -40,6 +43,7 @@
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/2qh9jofrjR07k14LloVUYY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/1QgyWzZGQgeNaUB5nCZG8j) | 2:40 | 2026-05-22 |  |
 | [Wally & the Bears Monster Hunt](https://open.spotify.com/track/6OOQaZZafEfS3VF0Yt30VG) | [Mister Kipley](https://open.spotify.com/artist/3xV0Tc4SeREEWHNrxd9M9Y) | [Wally & the Bears Monster Hunt](https://open.spotify.com/album/2ERwh7qFBGY9ZaksJo8ljH) | 4:07 | 2026-06-19 |  |
 | [Wheels on the Bus](https://open.spotify.com/track/0oWkON7g41NVb5gmZpD2p2) | [Nursery Rhymes ABC](https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum) | [Nursery Rhymes : The World's Best](https://open.spotify.com/album/5fCSEG9XtiPtRy28YTXq8k) | 2:22 | 2026-05-22 |  |
+| [When the Band Comes Marching In](https://open.spotify.com/track/3WeBc31M5VEJk8IAFEH9vG) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [When the Band Comes Marching In](https://open.spotify.com/album/6UNVnsrzvj5ggQ5jkga8Az) | 3:16 | 2026-07-17 |  |
 | [Working Out at the Zoo](https://open.spotify.com/track/2YZFI6nXasmLNqGjHtQg4K) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Working Out at the Zoo](https://open.spotify.com/album/0Y2zDFFVrkSU9I5yFM82wz) | 3:34 | 2026-05-22 |  |
 
 \*This playlist was first scraped on 2026-05-24. Prior content cannot be recovered.

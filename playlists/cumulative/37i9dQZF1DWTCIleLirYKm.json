@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "How To Get Away With Murder",
+        "url": "https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "How To Get Away With Murder",
+      "url": "https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1"
+    },
+    {
+      "album": {
         "name": "Top Hat Crown & the Clapmaster's Son",
         "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 275520,
       "name": "Keep The Wolves Away",
       "url": "https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV"

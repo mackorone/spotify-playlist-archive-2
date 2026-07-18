@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 76093,
+  "num_followers": 76108,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "Goose Chase",
+        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "duration_ms": 180344,
+      "name": "Goose Chase",
+      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 203720,
       "name": "Step Back (Break Remix)",
       "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Goose Chase",
-        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 180344,
-      "name": "Goose Chase",
-      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Go Hard / Wednesday",
-        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
-      },
-      "artists": [
-        {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Outta Order",
         "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+      },
+      "artists": [
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "Posra",
         "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 205714,
       "name": "Posra",
       "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Axiom / Intuition",
-        "url": "https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4"
-      },
-      "artists": [
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        },
-        {
-          "name": "Kasra",
-          "url": "https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Axiom",
-      "url": "https://open.spotify.com/track/0mfWwsSnGt4mED2vz3CBUB"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -1019,6 +999,26 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "Axiom / Intuition",
+        "url": "https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        },
+        {
+          "name": "Kasra",
+          "url": "https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Axiom",
+      "url": "https://open.spotify.com/track/0mfWwsSnGt4mED2vz3CBUB"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "There In 10",
         "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 246896,
       "name": "There In 10",
       "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -1055,42 +1071,18 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+        "name": "Come With It",
+        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
       },
       "artists": [
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
         }
       ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Thriller / Good Ol' Days",
-        "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Logan D",
-          "url": "https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA"
-        },
-        {
-          "name": "Jakes",
-          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
+      "duration_ms": 200228,
+      "name": "Come With It",
+      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
     }
   ],
   "unique_name": "Jump Up!",

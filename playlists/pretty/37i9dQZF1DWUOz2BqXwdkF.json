@@ -1,12 +1,12 @@
 {
   "description": "Love was never part of the deal. Listen to the music from and inspired by Off Campus, now streaming on Prime Video.",
-  "num_followers": 883360,
+  "num_followers": 886113,
   "original_name": "Off Campus Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHa6UsQVdVM3Xma8802omsdEp5bO",
+  "snapshot_id": "AAAAAAF4f19jaqX6pYyUIUgRt2QLSTfg",
   "tracks": [
     {
       "added_at": "2026-05-13 13:00:30",
@@ -1491,6 +1491,38 @@
       "duration_ms": 133509,
       "name": "Bad Thing Rush",
       "url": "https://open.spotify.com/track/1yyyDdy8KflIYwCSTbs0bU"
+    },
+    {
+      "added_at": "2026-07-17 13:22:44",
+      "album": {
+        "name": "The Bitch Is Back",
+        "url": "https://open.spotify.com/album/0TVdBd2Un1ASEDWL1qbaH8"
+      },
+      "artists": [
+        {
+          "name": "Ella Bright",
+          "url": "https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr"
+        }
+      ],
+      "duration_ms": 203607,
+      "name": "The Bitch Is Back",
+      "url": "https://open.spotify.com/track/5B1ovpM35BYEZSQwspYl0W"
+    },
+    {
+      "added_at": "2026-07-17 13:22:44",
+      "album": {
+        "name": "Cherry Pie",
+        "url": "https://open.spotify.com/album/0KYNPQBnu83NxDeob6XpwB"
+      },
+      "artists": [
+        {
+          "name": "Ella Bright",
+          "url": "https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr"
+        }
+      ],
+      "duration_ms": 193686,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/0AGI7TpDj9MvEbmdU0py0p"
     },
     {
       "added_at": "2026-05-15 16:44:13",

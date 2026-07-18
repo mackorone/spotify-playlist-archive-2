@@ -1,12 +1,12 @@
 {
   "description": "Beware laser beams \ud83d\udc9e ",
-  "num_followers": 233056,
+  "num_followers": 233181,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDG5yy8cVarj31Q6zYttC3ezwWg",
+  "snapshot_id": "AAAAAA1pyaT9fmyXKTqJTPgM1ow+71vq",
   "tracks": [
     {
       "added_at": "2026-07-03 04:16:51",
@@ -23,6 +23,30 @@
       "duration_ms": 235771,
       "name": "Danceteria",
       "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "added_at": "2026-06-26 04:00:32",
+      "album": {
+        "name": "Dancing Without You",
+        "url": "https://open.spotify.com/album/4u5hIHqpNIYQeZnKaEpLnH"
+      },
+      "artists": [
+        {
+          "name": "Disco Bambino",
+          "url": "https://open.spotify.com/artist/3Kd4HaFQtYahGHGqYjIQ93"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 208958,
+      "name": "Dancing Without You (feat. Sophie Ellis-Bextor)",
+      "url": "https://open.spotify.com/track/2vggUfAlL6HqfFR3wOWrDM"
     },
     {
       "added_at": "2026-07-10 04:36:42",
@@ -43,6 +67,38 @@
       "duration_ms": 114105,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/7dX72nBWi8thmjq0JI8EBk"
+    },
+    {
+      "added_at": "2026-07-17 04:18:44",
+      "album": {
+        "name": "Club To Your Arms / Just Be Bodies",
+        "url": "https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 207173,
+      "name": "Just Be Bodies",
+      "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
+    },
+    {
+      "added_at": "2026-07-17 04:18:44",
+      "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
     },
     {
       "added_at": "2026-07-03 05:02:16",
@@ -81,6 +137,22 @@
       "url": "https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi"
     },
     {
+      "added_at": "2026-07-17 04:18:44",
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 252185,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ"
+    },
+    {
       "added_at": "2026-07-10 04:36:42",
       "album": {
         "name": "DJ-Kicks: TEED",
@@ -111,30 +183,6 @@
       "duration_ms": 259706,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/6NPZtCGtJmfsgb5FrVKedJ"
-    },
-    {
-      "added_at": "2026-06-26 04:00:32",
-      "album": {
-        "name": "Dancing Without You",
-        "url": "https://open.spotify.com/album/4u5hIHqpNIYQeZnKaEpLnH"
-      },
-      "artists": [
-        {
-          "name": "Disco Bambino",
-          "url": "https://open.spotify.com/artist/3Kd4HaFQtYahGHGqYjIQ93"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 208958,
-      "name": "Dancing Without You (feat. Sophie Ellis-Bextor)",
-      "url": "https://open.spotify.com/track/2vggUfAlL6HqfFR3wOWrDM"
     },
     {
       "added_at": "2026-07-10 04:36:42",
@@ -203,6 +251,22 @@
       "duration_ms": 191596,
       "name": "Club To Your Arms",
       "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-07-17 04:18:44",
+      "album": {
+        "name": "Love Love (Love Love)",
+        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Love Love (Love Love)",
+      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
     },
     {
       "added_at": "2026-07-10 04:36:42",
@@ -667,22 +731,6 @@
       "duration_ms": 210783,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/6PH8uO0RpimMOU5pMmgi7D"
-    },
-    {
-      "added_at": "2026-05-29 04:19:09",
-      "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 194450,
-      "name": "101",
-      "url": "https://open.spotify.com/track/2X8lHTavqDJoPr6GqbUEgf"
     },
     {
       "added_at": "2026-06-26 04:00:32",
@@ -1197,26 +1245,6 @@
       "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
     },
     {
-      "added_at": "2026-05-01 04:02:23",
-      "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/3SJU0Tncb0yXItHnxRWzY6"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 185721,
-      "name": "Puss Puss - Girls Trip",
-      "url": "https://open.spotify.com/track/3SI1ESntI5Fv9BtXShVtZQ"
-    },
-    {
       "added_at": "2026-05-08 04:02:45",
       "album": {
         "name": "Limbo",
@@ -1385,22 +1413,6 @@
       "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
     },
     {
-      "added_at": "2026-04-10 04:17:23",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "EVERYTHING I'VE EVER WANTED",
-      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
-    },
-    {
       "added_at": "2026-04-24 04:01:24",
       "album": {
         "name": "Midnight Sun",
@@ -1415,22 +1427,6 @@
       "duration_ms": 172864,
       "name": "Eurosummer",
       "url": "https://open.spotify.com/track/2EhJHJV7itLmFGH1CQoK3i"
-    },
-    {
-      "added_at": "2026-04-24 04:01:24",
-      "album": {
-        "name": "Camilla",
-        "url": "https://open.spotify.com/album/014mbn2oZiArZavmho6hog"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Camilla",
-      "url": "https://open.spotify.com/track/6fsVL2HeSgQrciFJg4gkqT"
     },
     {
       "added_at": "2026-04-17 04:01:28",
@@ -1489,22 +1485,6 @@
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
-      "added_at": "2026-04-17 04:01:28",
-      "album": {
-        "name": "DON'T ASK!",
-        "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 182395,
-      "name": "DON'T ASK!",
-      "url": "https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA"
-    },
-    {
       "added_at": "2026-04-10 04:04:00",
       "album": {
         "name": "Big Disgrace",
@@ -1519,22 +1499,6 @@
       "duration_ms": 187658,
       "name": "Shy Girl",
       "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
-    },
-    {
-      "added_at": "2026-04-17 04:01:28",
-      "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc"
     },
     {
       "added_at": "2026-04-10 04:04:00",
@@ -1583,58 +1547,6 @@
       "duration_ms": 248506,
       "name": "COMING OF AGE",
       "url": "https://open.spotify.com/track/7nAguwk4MKZQL6dvQOEUdH"
-    },
-    {
-      "added_at": "2026-04-17 04:01:28",
-      "album": {
-        "name": "001",
-        "url": "https://open.spotify.com/album/5c9FP6mRrhRbCNLrP3NqBC"
-      },
-      "artists": [
-        {
-          "name": "mra",
-          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
-        }
-      ],
-      "duration_ms": 220655,
-      "name": "Critical",
-      "url": "https://open.spotify.com/track/4TYZUb95asPHvyT5mfrJ2y"
-    },
-    {
-      "added_at": "2026-04-03 04:50:38",
-      "album": {
-        "name": "My Mouth Is Lonely For You",
-        "url": "https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy"
-      },
-      "artists": [
-        {
-          "name": "Anne Hathaway",
-          "url": "https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x"
-        }
-      ],
-      "duration_ms": 244962,
-      "name": "My Mouth Is Lonely For You",
-      "url": "https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o"
-    },
-    {
-      "added_at": "2026-04-10 04:29:47",
-      "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
-      },
-      "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 146738,
-      "name": "Oops",
-      "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
     },
     {
       "added_at": "2026-04-17 04:01:28",
@@ -1717,22 +1629,6 @@
       "url": "https://open.spotify.com/track/0FnvAn6pU9CjIUaBH82tCO"
     },
     {
-      "added_at": "2026-04-03 04:50:38",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/3kL5C1jmhxaXsveehx1S79"
-      },
-      "artists": [
-        {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/0J0s3wgpcUAsrszrr0vfb9"
-    },
-    {
       "added_at": "2026-03-20 04:00:57",
       "album": {
         "name": "Light as a Feather",
@@ -1747,22 +1643,6 @@
       "duration_ms": 216637,
       "name": "Light as a Feather",
       "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
-    },
-    {
-      "added_at": "2026-03-13 04:00:45",
-      "album": {
-        "name": "Club Song",
-        "url": "https://open.spotify.com/album/4w2Nx0U9Ujf83ZrcjIoaLg"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 147706,
-      "name": "Club Song",
-      "url": "https://open.spotify.com/track/5XzS5QmnzhAyYkVndZro5Y"
     },
     {
       "added_at": "2026-03-13 04:00:45",
@@ -1799,22 +1679,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178046,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
     }
   ],
   "unique_name": "OBSESSED",

@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 245186,
       "name": "De Ruydoso a San Francisco",
       "url": "https://open.spotify.com/track/3WRS2tG22y3fZjlm6mdFwY"
@@ -8006,10 +8006,32 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 208543,
       "name": "I Hate The Way I Look Today.",
       "url": "https://open.spotify.com/track/0siNev9lCrz3vs8ep4Gh94"
+    },
+    {
+      "album": {
+        "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
+        "url": "https://open.spotify.com/album/5vNvLZS3LJyT7dHs3bDmya"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286306,
+      "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g"
     },
     {
       "album": {
@@ -9884,7 +9906,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 212000,
       "name": "LAS TROMPETAS DE NAEL",
       "url": "https://open.spotify.com/track/333HTubjaxlX6lrTHytGS8"
@@ -16989,6 +17011,24 @@
     },
     {
       "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/24uo5KRoLMnZUSlCSlDGdw"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/12pMtgGiB879imf4fnQj1I"
       },
@@ -20578,6 +20618,24 @@
       "duration_ms": 285658,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/6EhFiHD4n3JIfrLzS11dn6"
+    },
+    {
+      "album": {
+        "name": "Where moments wait",
+        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204198,
+      "name": "Where moments wait",
+      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
       "album": {

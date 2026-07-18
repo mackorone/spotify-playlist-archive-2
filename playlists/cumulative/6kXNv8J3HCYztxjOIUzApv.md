@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-331 songs - 20 hr 32 min
+332 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Clockwork](https://open.spotify.com/track/0W9ZFdjumKClsj0UhYYnP3) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Obsidian](https://open.spotify.com/album/6QRURYmqe56BojUuWgTpX6) | 3:58 | 2022-07-25 | 2023-01-04 |
 | [Comatose \(feat\. Jonathan Dörr of Ego Kill Talent\)](https://open.spotify.com/track/0XvQKoZ3fUON7hFU6ldFlm) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ego Kill Talent](https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i) | [Comatose \(feat\. Jonathan Dörr of Ego Kill Talent\)](https://open.spotify.com/album/4y3GxLOfzWRP4DWbaF7ALO) | 3:15 | 2021-09-11 | 2023-01-04 |
 | [Cops Are Here](https://open.spotify.com/track/1RDi8CZD2v7XvQOBvNYsSP) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 2:09 | 2022-09-21 | 2023-01-04 |
+| [Crawl](https://open.spotify.com/track/3UgwgUdUwaye5nMThMbPyA) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Crawl](https://open.spotify.com/album/3uQg2GyVbEcegEaGdt4KJa) | 3:51 | 2026-07-17 |  |
 | [Crazy](https://open.spotify.com/track/2MIbaL6JQjKHINyx7OcaQd) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Crazy](https://open.spotify.com/album/3H0DSnXRz8fjEewSLlo5fO) | 3:05 | 2021-08-20 |  |
 | [Creatures of Chaos](https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Creatures of Chaos](https://open.spotify.com/album/417069DxvdXoov1vxICCNs) | 3:19 | 2025-03-28 |  |
 | [Creep](https://open.spotify.com/track/2DQEXYIC5S43ndVkGX2VtO) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Creep](https://open.spotify.com/album/666PaTHfkHzBjNI7KYIVLM) | 3:21 | 2023-06-16 |  |

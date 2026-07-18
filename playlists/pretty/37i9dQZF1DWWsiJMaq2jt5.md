@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:3YFGEKxRqRSBCW6sSv2FJH">Kasia Sienkiewicz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,693 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,694 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
+| 1 | [To nie o mnie](https://open.spotify.com/track/5StvojAq9eoTAKZQQLQ2a9) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:01 |
 | 2 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
 | 3 | [Nie bój się](https://open.spotify.com/track/1B4R1yfB2rqGru4YDQVPZ9) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M), [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [Nie bój się](https://open.spotify.com/album/0riiszmps6IRpfJwXOBWmO) | 3:30 |
 | 4 | [Dom](https://open.spotify.com/track/7GI44CEvgkTfS0lDPxnVQW) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/1OrS5Jer8uVMVOFWUy9pJJ) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Niebieskie oczy](https://open.spotify.com/track/1g1myS7l5x8ZPBqBHzlGBL) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Niebieskie oczy](https://open.spotify.com/album/6G5kCHlJa1rwTmPkSZYmXL) | 2:55 |
 | 50 | [sobota](https://open.spotify.com/track/4ZzlT57hHelvRqmYd3Fyo8) | [microdawka](https://open.spotify.com/artist/01LgAoYLLXrA67ELEhKF3y) | [byepolar](https://open.spotify.com/album/2ddgk7GbfEBEk9BsMM08iD) | 4:12 |
 
-Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`
+Snapshot ID: `AAAAAJDkzPdjdcEpWInWG7Rnk4F6Y3Zx`

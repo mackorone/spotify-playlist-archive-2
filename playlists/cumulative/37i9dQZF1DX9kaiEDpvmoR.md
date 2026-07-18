@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-599 songs - 1 day 11 hr 27 min
+600 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Balladen om Joe Hill](https://open.spotify.com/track/17fA4aBflCSjovdCUPMvG7) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Balladen om Joe Hill](https://open.spotify.com/album/2H8Yypx0nDNWLYnRZhNdig) | 3:16 | 2025-04-24 | 2025-06-06 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [Bara kom](https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Du & jag & mera tid](https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6) | 2:54 | 2026-01-08 | 2026-07-13 |
-| [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 | 2026-04-02 |  |
+| [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 | 2026-04-02 | 2026-07-18 |
 | [Bara om min älskade väntar \- Akustiskversion Dust](https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Skebokvarnsv\. 209 \(Deluxe Version\)](https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd) | 3:33 | 2025-11-27 | 2026-05-08 |
 | [Bara trummor kvar](https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Bara trummor kvar](https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd) | 3:38 | 2026-04-23 |  |
 | [Bara vara mig själv](https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Eljest](https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG) | 4:06 | 2025-03-10 | 2025-06-06 |
@@ -261,7 +261,8 @@
 | [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 | 2024-09-26 | 2025-04-25 |
 | [If You Lose Her, You're A Loser](https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I'm Not Dead Yet](https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM) | 3:19 | 2024-08-22 | 2024-10-11 |
 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-02 |  |
-| [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-07 |  |
+| [In The Stars](https://open.spotify.com/track/2NxvINbGnBMtcphlpX3UDE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:13 | 2026-07-16 |  |
+| [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-07 | 2026-07-18 |
 | [In Your Grace](https://open.spotify.com/track/6mpZzSwKvQxgYtQ0cEBvtx) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [In Your Grace](https://open.spotify.com/album/6VV7zn9Bjb1jqUFWZkvsmN) | 5:27 | 2026-02-12 | 2026-04-10 |
 | [Inga ärliga människor säljer sina känslor](https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Inga ärliga människor säljer sina känslor](https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn) | 4:11 | 2026-05-08 |  |
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 | 2025-04-25 |
@@ -271,7 +272,7 @@
 | [Ingenting är efter oss](https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Ingenting är efter oss](https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ) | 3:01 | 2026-02-19 |  |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-27 | 2024-08-23 |
 | [Inget är förlåtet](https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD) | [Joakim Åhlund & Jockum Nordström](https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy) | [Sköldpaddsön](https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9) | 4:15 | 2026-02-12 | 2026-03-06 |
-| [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ) | 3:49 | 2025-11-20 | 2026-07-17 |
+| [Inner City Ghosts](https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ) | 3:49 | 2025-11-20 |  |
 | [Inte bra i grupp](https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 2:51 | 2026-04-02 |  |
 | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD) | 4:30 | 2025-05-15 | 2026-02-13 |
 | [Isn’t That Enough](https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:44 | 2024-08-08 | 2025-04-04 |

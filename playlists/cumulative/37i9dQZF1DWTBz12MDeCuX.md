@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-3,594 songs - 6 day 23 hr 13 min
+3,595 songs - 6 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1546,6 +1546,7 @@
 | [If You Died Today](https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X) | 2:42 | 2023-11-16 | 2023-12-01 |
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2025-11-27 | 2026-01-23 |
 | [Igotthisfeeling](https://open.spotify.com/track/4NsxdiQTYkcWdBb7N8A5m2) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Igotthisfeeling](https://open.spotify.com/album/5rtjiwTezMkrXEPV702Xrk) | 2:35 | 2025-12-18 | 2026-02-13 |
+| [Ikkimel die Geile](https://open.spotify.com/track/5M9YGWs77ZXuHJ9WEDJ5Xx) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Ikkimel die Geile EP](https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN) | 1:55 | 2026-07-17 |  |
 | [Ikone](https://open.spotify.com/track/5SC81CAbZ7VeJuHztT6Esh) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Ikone](https://open.spotify.com/album/1PHuRrCZawR79gh3KErzQf) | 3:40 | 2023-09-28 | 2023-10-06 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-06-19 | 2025-09-19 |
 | [ILMB](https://open.spotify.com/track/3nr3oHUp1yTHnjgarY8KX0) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-17 | 2025-08-01 |

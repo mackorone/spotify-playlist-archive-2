@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,270 songs - 3 day 6 hr 16 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,274 songs - 3 day 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1278,5 +1278,9 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1268 | [PREACHER MAN](https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:01 |
 | 1269 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
 | 1270 | [Baby Steps](https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Baby Steps](https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP) | 3:58 |
+| 1271 | [show you me](https://open.spotify.com/track/4f50UTC41M2Ah5itifSGE5) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 3:22 |
+| 1272 | [lovesexdrugbomb \(feat\. Cecile Believe\)](https://open.spotify.com/track/4cPmWicSiYsqRQAzBey7h3) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 3:56 |
+| 1273 | [nice shoes / in your world](https://open.spotify.com/track/3HiQJBnNtDkugJdUasvFl9) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 9:03 |
+| 1274 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
 
-Snapshot ID: `AAAJ+y5kh4t3eWsfr9T5Lofxn6TwN8xz`
+Snapshot ID: `AAAJ/ykBvMHcca26HYuSjCInx1l6wQax`

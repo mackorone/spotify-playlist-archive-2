@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 130250,
+  "num_followers": 130243,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "The Lightning I, II",
-        "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "The Lightning II",
-      "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "The Lightning I, II",
+        "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "The Lightning II",
+      "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Reaching Out To You",
         "url": "https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 210026,
       "name": "Reaching Out To You",
       "url": "https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Play It Strange",
-        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
+        "name": "Dare Me",
+        "url": "https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk"
       },
       "artists": [
         {
-          "name": "The Fresh & Onlys",
-          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
         }
       ],
-      "duration_ms": 192186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
+      "duration_ms": 145059,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Dare Me",
-        "url": "https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk"
+        "name": "Play It Strange",
+        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
       },
       "artists": [
         {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+          "name": "The Fresh & Onlys",
+          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
         }
       ],
-      "duration_ms": 145059,
-      "name": "Dare Me",
-      "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
+      "duration_ms": 192186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Sinking Feeling",
-        "url": "https://open.spotify.com/album/4FkSkBf3iQKjV9PLZPAQVr"
-      },
-      "artists": [
-        {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "Sinking Feeling",
-      "url": "https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "A Hero's Death",
         "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Prisoners",
-        "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/4FkSkBf3iQKjV9PLZPAQVr"
       },
       "artists": [
         {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
         }
       ],
-      "duration_ms": 266586,
-      "name": "Prisoners",
-      "url": "https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0"
+      "duration_ms": 213042,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1047,6 +1031,22 @@
       "duration_ms": 244533,
       "name": "Strong Feelings",
       "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Prisoners",
+        "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 266586,
+      "name": "Prisoners",
+      "url": "https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Lost Day",
-        "url": "https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG"
-      },
-      "artists": [
-        {
-          "name": "Other Lives",
-          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Lost Day",
-      "url": "https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Sand On The Beach",
         "url": "https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 136510,
       "name": "Sand On The Beach",
       "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Lost Day",
+        "url": "https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG"
+      },
+      "artists": [
+        {
+          "name": "Other Lives",
+          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Lost Day",
+      "url": "https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY"
     },
     {
       "added_at": "2024-07-12 23:20:36",

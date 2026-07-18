@@ -368,7 +368,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 111225,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/3ioiZNGTg5pO9TutzubAu6"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I"
@@ -3721,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Don't Stress",
+        "url": "https://open.spotify.com/album/2fUvUX3rs7maYOQPTaBKZq"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Don't Stress",
+      "url": "https://open.spotify.com/track/6lQ88V0PuV1zkNRO1502X0"
+    },
+    {
+      "album": {
         "name": "Doomed",
         "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
       },
@@ -3776,6 +3794,24 @@
       "duration_ms": 117600,
       "name": "Downstairs",
       "url": "https://open.spotify.com/track/62W8LAP58Qlh21HK95e6OP"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/4o5wO9KDEa9OPqAjKWcztB"
+      },
+      "artists": [
+        {
+          "name": "Konteks",
+          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99512,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4t257bvrSvudVCeJg2q672"
     },
     {
       "album": {
@@ -4484,7 +4520,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 100000,
       "name": "Faded",
       "url": "https://open.spotify.com/track/6gqLnznfn6IhzAVP10Fap7"
@@ -6526,7 +6562,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 114285,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/7cRHttCOKV8JZPnA0PE2kd"
@@ -7446,7 +7482,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 104096,
       "name": "Kater",
       "url": "https://open.spotify.com/track/2ouSd5eDDawCVxFHXEPGUd"
@@ -7626,6 +7662,28 @@
       "duration_ms": 137142,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/145yNxsDqrlai3CzO2ynzT"
+    },
+    {
+      "album": {
+        "name": "L.A. Jazz",
+        "url": "https://open.spotify.com/album/4X0AQO5eM3vu1MTGoWC8TH"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "L.A. Jazz",
+      "url": "https://open.spotify.com/track/1lL98z4v4RDxEjg3gt3Q8X"
     },
     {
       "album": {
@@ -9502,6 +9560,24 @@
       "duration_ms": 112531,
       "name": "Milan",
       "url": "https://open.spotify.com/track/6xPcweC9D2b71oNuDKHaGX"
+    },
+    {
+      "album": {
+        "name": "miles away",
+        "url": "https://open.spotify.com/album/3vEAzgIvStGoKvf4tvdtJF"
+      },
+      "artists": [
+        {
+          "name": "iamkosmos",
+          "url": "https://open.spotify.com/artist/6Fwz7z7P6QfQA6mNW5Nze5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133678,
+      "name": "miles away",
+      "url": "https://open.spotify.com/track/5Cgi5C1dNDy9NYzXC6dAH9"
     },
     {
       "album": {
@@ -12434,7 +12510,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 112405,
       "name": "Quiet Evening",
       "url": "https://open.spotify.com/track/4VBexCSgXWOelb45A3uY4A"
@@ -13428,6 +13504,24 @@
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
+    },
+    {
+      "album": {
+        "name": "Simple Piano",
+        "url": "https://open.spotify.com/album/4eUyA7AXp7Iu1qyvn7kvO6"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Simple Piano",
+      "url": "https://open.spotify.com/track/20JUIjKhJbamCE1tohhkIx"
     },
     {
       "album": {
@@ -15085,6 +15179,28 @@
     },
     {
       "album": {
+        "name": "Sunflowers",
+        "url": "https://open.spotify.com/album/18gWfBWvhGR9a8Hl6IEhcd"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/5bGk03Cs40RgBKGllGg01R"
+    },
+    {
+      "album": {
         "name": "Sunflowers (Instrumental)",
         "url": "https://open.spotify.com/album/4zXbaFi87STWtKMS4bAuXo"
       },
@@ -15750,7 +15866,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 110344,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/4FPBQgnSmEgAwZcwa2rSER"
@@ -17738,6 +17854,28 @@
       "duration_ms": 123624,
       "name": "Waning Glow",
       "url": "https://open.spotify.com/track/1Mpe795FO9J9eYskmyYOnZ"
+    },
+    {
+      "album": {
+        "name": "Warm Day",
+        "url": "https://open.spotify.com/album/0q3Wu5H6LhAa8R3XkEpA5X"
+      },
+      "artists": [
+        {
+          "name": "Hopmax",
+          "url": "https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7"
+        },
+        {
+          "name": "terrarium.",
+          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121732,
+      "name": "Warm Day",
+      "url": "https://open.spotify.com/track/4PfRAfAy56Z1mZuGZSCk5T"
     },
     {
       "album": {

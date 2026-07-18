@@ -7556,7 +7556,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1JgSGfLxgwJ76ht70nWNuu"
@@ -8784,6 +8784,28 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1bvOMSoHE7ly1rG4T3ImPf"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        },
+        {
+          "name": "Rachael Price",
+          "url": "https://open.spotify.com/artist/16DCAsQD7G0pEy29pbjGwa"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6HajoWBzBoTmiFhnIaISXi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,331 songs - 2 day 2 hr 53 min
+1,333 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [5am in cairo](https://open.spotify.com/track/1HO5CGNK9d9zGUXpDAxigN) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:57 | 2022-10-07 | 2022-10-15 |
 | [5am in cairo](https://open.spotify.com/track/21NHuCeoEJ76SVggMgNsNw) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [5am in cairo](https://open.spotify.com/album/1roCs0WmQH30We3HBrCvOn) | 2:57 | 2021-11-10 | 2022-07-29 |
 | [5am in cairo](https://open.spotify.com/track/3yxuDfGZluYOjzdFlxBI7M) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:57 | 2022-07-29 | 2022-10-13 |
-| [6pm](https://open.spotify.com/track/6K0u6O2AuT5YDL19hwD7dj) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [6pm](https://open.spotify.com/album/3PPf3xP52A0riQ1fQU1ubU) | 2:14 | 2026-02-06 |  |
+| [6pm](https://open.spotify.com/track/6K0u6O2AuT5YDL19hwD7dj) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [6pm](https://open.spotify.com/album/3PPf3xP52A0riQ1fQU1ubU) | 2:14 | 2026-02-06 | 2026-07-18 |
 | [7 o'clock](https://open.spotify.com/track/6KPm7sTpDFaFGKn8nIJe1y) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [7 o'clock](https://open.spotify.com/album/4fof8WgryM4FgYnAXg3OSB) | 2:02 | 2022-11-11 | 2023-04-12 |
 | [A better day](https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [A better day](https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA) | 2:26 | 2023-02-17 |  |
 | [A Guide To Daydreaming](https://open.spotify.com/track/0BxpuhfkdRBY2SxPxw8piy) | [Miilano](https://open.spotify.com/artist/4BRU7LmeFQZ8JGbNc3LdZ9) | [A Guide To Daydreaming](https://open.spotify.com/album/2YjHTbrgym2wZBtTiHDCZl) | 2:09 | 2022-06-10 | 2022-07-22 |
@@ -112,6 +112,7 @@
 | [Beats And Beans](https://open.spotify.com/track/0u4KFxbNWmwT7FIEtB0R8Q) | [Jamie Von Chill](https://open.spotify.com/artist/02cAa2Hlx1rHiBoam4mAO2) | [Beats And Beans](https://open.spotify.com/album/29cgS7jJjMZcr0ITswfeR3) | 2:25 | 2021-11-10 | 2023-03-02 |
 | [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 | 2023-12-22 | 2025-11-26 |
 | [Behind The Clouds](https://open.spotify.com/track/49JMDxOAInoWDdBTgA8DyQ) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Behind The Clouds](https://open.spotify.com/album/1DWaUM467ivFKwNqaRozjv) | 2:28 | 2022-10-28 | 2023-04-28 |
+| [beneath](https://open.spotify.com/track/42pIoyICzBcN4iS6vtVpOr) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [beneath](https://open.spotify.com/album/6wv2ocQnKCuPRd4PLpuNKy) | 2:31 | 2026-07-17 |  |
 | [Besaid](https://open.spotify.com/track/7wQMIeoDBRvCFfKX2a7ruz) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Besaid](https://open.spotify.com/album/0bD1udBhFNA9vVUBfI0J3x) | 3:08 | 2022-11-11 | 2023-08-04 |
 | [best friend](https://open.spotify.com/track/2LInrKUW2wKbcSybdChB93) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [best friend](https://open.spotify.com/album/3moQBGVpto8XjCzyMTCPTc) | 1:58 | 2022-07-22 | 2025-09-05 |
 | [between the trees](https://open.spotify.com/track/1jAziLFQqnz5804pr0agi3) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [between the trees](https://open.spotify.com/album/3YVyZ9daxnsJpNY8EJtylR) | 2:56 | 2022-04-22 | 2023-09-16 |
@@ -1106,7 +1107,7 @@
 | [Street Window](https://open.spotify.com/track/5OnOCfUbfMAgilTGZUPabd) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Street Window](https://open.spotify.com/album/0zxr1wsSAjkmvie0QHATuo) | 2:06 | 2025-11-05 |  |
 | [Strictly Loose](https://open.spotify.com/track/2U4r3gFf9R0hLDts0580Qx) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Strictly Loose](https://open.spotify.com/album/2PcjZfTCPyXwlUGohddzCA) | 2:16 | 2023-04-27 | 2025-07-16 |
 | [Stupendo](https://open.spotify.com/track/2gnWPEE1fkJ0xBgAbQVeZs) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Stupendo](https://open.spotify.com/album/5O8Ex4wTyJqWyDzyH83wbD) | 2:05 | 2026-04-24 | 2026-07-09 |
-| [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 | 2022-12-23 |  |
+| [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 | 2022-12-23 | 2026-07-18 |
 | [Suburbia Drive](https://open.spotify.com/track/57P3uC190Yc9VYmaHeMEqO) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [Suburbia Drive](https://open.spotify.com/album/34uScT0otY4ovm3BLlYeTC) | 1:18 | 2021-11-10 | 2022-06-10 |
 | [Sudden Change](https://open.spotify.com/track/5Afsgt5QEt2aKPRplLfr6T) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [A Bit of Colour](https://open.spotify.com/album/0crbtKJilhMawp13NZej5d) | 1:53 | 2023-09-29 | 2025-07-16 |
 | [Sudden Life](https://open.spotify.com/track/7LpiKAJpwzbVqPNBhincPD) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [Sudden Life](https://open.spotify.com/album/3X2HohLNj0aC0U37cCrrq6) | 2:17 | 2021-11-10 | 2023-05-20 |
@@ -1149,6 +1150,7 @@
 | [Take the Last Train](https://open.spotify.com/track/5cUC6PSmzWvOxeL6amUt9d) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Take the Last Train](https://open.spotify.com/album/5ESdOIvqhOJcoXTvRZKsEo) | 1:39 | 2022-04-15 | 2022-12-10 |
 | [Tangerine](https://open.spotify.com/track/2sTEN0K3qAICTqiFzJy8rl) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Tangerine](https://open.spotify.com/album/1QL9vwb63nlAIrkRSMfIfl) | 2:24 | 2023-02-07 | 2023-09-22 |
 | [Tarde Da Noite](https://open.spotify.com/track/2LHq3ILYoERfMBXe6cdv83) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Tarde Da Noite](https://open.spotify.com/album/2styrIyXsgWOLUInOWOAe3) | 2:51 | 2022-05-27 | 2023-09-22 |
+| [Tatami Haze](https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Tatami Haze](https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT) | 2:04 | 2026-07-17 |  |
 | [Teakwood](https://open.spotify.com/track/1xW9riep92zpGZAW0HgmXJ) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Lazy Sunday](https://open.spotify.com/album/5jwXN0zduPh7pYUiIn1kCD) | 2:24 | 2021-11-10 | 2022-07-29 |
 | [Teardrops](https://open.spotify.com/track/595azR8qp2Igyd8YashsEv) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Belonging](https://open.spotify.com/album/4Vcaz8PUgRuo0BR36zKeLU) | 2:20 | 2021-11-10 | 2022-07-29 |
 | [Temperphone](https://open.spotify.com/track/74KyvOZlIKdTdgvAwvFoXr) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI) | [Shalehouse](https://open.spotify.com/album/2WvAvojUeK4Y52hXmARCXY) | 2:47 | 2021-11-10 | 2022-07-22 |

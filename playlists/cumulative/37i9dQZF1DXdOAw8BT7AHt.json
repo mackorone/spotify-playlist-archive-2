@@ -2103,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Bring On The Psychics",
+        "url": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Bring On The Psychics",
+      "url": "https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq"
+    },
+    {
+      "album": {
         "name": "Broken Words",
         "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
       },
@@ -2172,6 +2190,24 @@
       "duration_ms": 194657,
       "name": "Burn",
       "url": "https://open.spotify.com/track/061YzXs5MzqCO0LnNyelrn"
+    },
+    {
+      "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191010,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
     },
     {
       "album": {
@@ -3132,7 +3168,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 138000,
       "name": "Crystallize",
       "url": "https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz"
@@ -3280,6 +3316,24 @@
       "duration_ms": 179809,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "album": {
+        "name": "Dark Summer",
+        "url": "https://open.spotify.com/album/1Z9i2afJULwMsP7Ot0ZNHL"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235253,
+      "name": "Dark Summer",
+      "url": "https://open.spotify.com/track/2IBMljVB5JsAE4jd6mIVZ7"
     },
     {
       "album": {
@@ -5120,7 +5174,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 167904,
       "name": "Funny Face",
       "url": "https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV"
@@ -7169,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "King Death",
+        "url": "https://open.spotify.com/album/2sNL2WTsQLcZZ4NtO70uKZ"
+      },
+      "artists": [
+        {
+          "name": "Evil Island",
+          "url": "https://open.spotify.com/artist/1ZqAGxTUQNbBh00YLuuQoP"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "King Death",
+      "url": "https://open.spotify.com/track/5Pf7ntYm3W0iQnnOrvCliz"
+    },
+    {
+      "album": {
         "name": "Kingbreaker",
         "url": "https://open.spotify.com/album/3YikGzdMlbMEUNmRu3bPrF"
       },
@@ -7234,7 +7306,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 135569,
       "name": "Knowledge",
       "url": "https://open.spotify.com/track/1V5ySfK71RkfAsDVf4IOPV"
@@ -7270,7 +7342,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 110758,
       "name": "Last Breath",
       "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
@@ -7440,7 +7512,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 124648,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0e025R7ZIG6QEQYq3aDWZ5"
@@ -8332,7 +8404,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 133320,
       "name": "Melted Heart",
       "url": "https://open.spotify.com/track/0dUo5PVIXQPdj1B6o4Ojal"
@@ -8848,7 +8920,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 184780,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/5hEx9Ws13eMrgt8ocXnwmf"
@@ -9624,7 +9696,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 126453,
       "name": "Other Hells",
       "url": "https://open.spotify.com/track/3kgXEm4V8tfoMyXdmPMeKi"
@@ -10995,6 +11067,24 @@
     },
     {
       "album": {
+        "name": "Serve",
+        "url": "https://open.spotify.com/album/3fOD04IuUoLFup35SC54WK"
+      },
+      "artists": [
+        {
+          "name": "War On Women",
+          "url": "https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257431,
+      "name": "Serve",
+      "url": "https://open.spotify.com/track/4CTsTWO9qFlLXl778u0aZJ"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
       },
@@ -11792,6 +11882,24 @@
       "duration_ms": 236000,
       "name": "Starting Over Again",
       "url": "https://open.spotify.com/track/34VjbHxkXXjl7iv7df3rDt"
+    },
+    {
+      "album": {
+        "name": "Stay Stuck",
+        "url": "https://open.spotify.com/album/4Pq7sRvP2KuwXt2Gjj5xbX"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "Stay Stuck",
+      "url": "https://open.spotify.com/track/5sq7fOX3enj1ww39nag6o5"
     },
     {
       "album": {
@@ -12870,7 +12978,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161979,
       "name": "There's Still Tonight",
       "url": "https://open.spotify.com/track/3UGfNbrYAi9Ix3YinvsAn3"
@@ -13512,7 +13620,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 102428,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/60S5PkSy66iff4gPTOEiUx"

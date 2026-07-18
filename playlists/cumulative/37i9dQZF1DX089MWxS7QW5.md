@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: BIG Naughty \(빅나티\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: G.Nine\)
 
-656 songs - 1 day 11 hr 7 min
+657 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 | 2024-08-16 | 2024-10-15 |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-05-01 |
 | [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 | 2025-06-25 | 2025-11-26 |
-| [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 | 2026-03-20 |  |
+| [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 | 2026-03-20 | 2026-07-18 |
 | [Back and forth](https://open.spotify.com/track/7s6NmtSMMwoHDYCTgFsqD7) | [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Back and forth](https://open.spotify.com/album/1asKs3DCbn3dKd7RYcKnIY) | 2:44 | 2025-03-13 | 2025-07-09 |
 | [backroom 2025](https://open.spotify.com/track/31rLxCWKdplzfFR2UQq9wn) | [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj) | [FREE MYSELF](https://open.spotify.com/album/3csmdF5kqdquJHIb6yjRkY) | 2:04 | 2025-04-02 | 2025-07-17 |
 | [Backstage Singer](https://open.spotify.com/track/2dNYJJalVImtpa07cGKmqv) | [Park Se Jung](https://open.spotify.com/artist/4NegBbNnbzZqSOWOKpRpyx) | [Step to Dream](https://open.spotify.com/album/2mUVvRFw9QabFerpyCaKIf) | 2:44 | 2025-01-24 | 2025-05-21 |
@@ -450,6 +450,7 @@
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-10-27 | 2024-01-09 |
 | [PLOP! \(feat\. Ja Mezz\)](https://open.spotify.com/track/1oAHZbOqxuObwQDBpEM028) | [YOUS](https://open.spotify.com/artist/2QqoL1AFpV7fyOMBuVmITB), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [PLOP!](https://open.spotify.com/album/56jnNGjXaeqKayetMZrute) | 2:52 | 2025-08-05 | 2026-01-23 |
 | [Plus n Minus](https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Plus n Minus](https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc) | 2:36 | 2022-05-28 | 2022-07-28 |
+| [POSE \(with\. Chloe Kim\)](https://open.spotify.com/track/6sTslEqIBZq9G3pzYeuMpF) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa), [Chloe Kim](https://open.spotify.com/artist/6RyDv3qEgsPkLBvcLiKn3E) | [POSE](https://open.spotify.com/album/29pBCwnwfAtxq4vcsOYPTk) | 2:40 | 2026-07-17 |  |
 | [Power](https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Power](https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX) | 2:49 | 2024-03-19 | 2024-07-11 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-05-28 | 2022-07-28 |
 | [prod by Ra.D 5 \(Vocal\. Do yeon\)](https://open.spotify.com/track/3EVL3dbvpgMmHwgPJmCgkI) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S), [Do yeon](https://open.spotify.com/artist/3US4SsYFOQPaIdmwc3Rzxr) | [prod by Ra.D 5](https://open.spotify.com/album/08sxEQNkKHyLWbhjHGU5mb) | 2:27 | 2022-05-28 | 2022-07-28 |

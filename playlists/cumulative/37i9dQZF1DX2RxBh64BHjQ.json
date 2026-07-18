@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 123428,
       "name": "BAD",
       "url": "https://open.spotify.com/track/3di0UtVKULuReBrAbma5HO"
@@ -5506,6 +5506,24 @@
       "duration_ms": 115927,
       "name": "Bentley Bentayga!",
       "url": "https://open.spotify.com/track/34eGc2hu8Ye6AuRJWvq0ES"
+    },
+    {
+      "album": {
+        "name": "Benz or Mazda",
+        "url": "https://open.spotify.com/album/5BlTfuG9yGm6op5ShDXWqY"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136981,
+      "name": "Benz or Mazda",
+      "url": "https://open.spotify.com/track/5bh26aWpTNp2GY8JdRTWKz"
     },
     {
       "album": {
@@ -9290,7 +9308,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 148235,
       "name": "Can't Touch This",
       "url": "https://open.spotify.com/track/04B7iuFOZSGr0zyMP3PFkQ"
@@ -9906,7 +9924,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 255741,
       "name": "Champions (WC 26)",
       "url": "https://open.spotify.com/track/6V6QUm9LvLoAGTQ2uJemdc"
@@ -10468,6 +10486,24 @@
       "duration_ms": 170000,
       "name": "Choppa, Cock It, Pop It",
       "url": "https://open.spotify.com/track/1pqDDkeuiRFfxr2JdaidMT"
+    },
+    {
+      "album": {
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/63fJKzCKpdSYf7OZnJf8Jk"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149424,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/4yEWV861jihGw7JuQJRu3h"
     },
     {
       "album": {
@@ -13255,6 +13291,32 @@
     },
     {
       "album": {
+        "name": "God Forbid I Have Fun.",
+        "url": "https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Savv4x",
+          "url": "https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Did That",
+      "url": "https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU"
+    },
+    {
+      "album": {
         "name": "Didn't Come To Play (with Quavo)",
         "url": "https://open.spotify.com/album/6FdFMoizXJxTepfoVOdHrN"
       },
@@ -14528,7 +14590,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 101893,
       "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
       "url": "https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ"
@@ -17128,7 +17190,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 157977,
       "name": "Feeling On My Body",
       "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
@@ -20551,6 +20613,24 @@
     },
     {
       "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1LsmeBhzyMmWnwyaxz7UuT"
+      },
+      "artists": [
+        {
+          "name": "Zillionaire Doe",
+          "url": "https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176029,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/0GwdNR7aAuSBkfI4Jx4qRu"
+    },
+    {
+      "album": {
         "name": "Dennis Daughter (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
       },
@@ -21422,7 +21502,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 158659,
       "name": "Grind (feat. JP On Tha Track)",
       "url": "https://open.spotify.com/track/1IFpsjTi37PgJdwJ9RK2PI"
@@ -28068,7 +28148,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 123076,
       "name": "Lamb Chop",
       "url": "https://open.spotify.com/track/5XrmCMLpTflQPvYjnEZXEh"
@@ -31192,7 +31272,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 120928,
       "name": "Mari Glock",
       "url": "https://open.spotify.com/track/4m7EDGGEHYhAGz53ZixF2Y"
@@ -35618,7 +35698,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 133683,
       "name": "No Mileage",
       "url": "https://open.spotify.com/track/5bu3osUhTayJQfo4J0MWAf"
@@ -37666,6 +37746,24 @@
       "duration_ms": 105360,
       "name": "oncam",
       "url": "https://open.spotify.com/track/5GkGInIqn2RFKkKWZHaWjR"
+    },
+    {
+      "album": {
+        "name": "Late Checkout",
+        "url": "https://open.spotify.com/album/2n8idjIOTS7EMerreZZEC4"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168947,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/5RvGk2xEeHYB4VtrIbaQpk"
     },
     {
       "album": {
@@ -41918,7 +42016,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161142,
       "name": "Putting Ya Dine - Remix",
       "url": "https://open.spotify.com/track/4NsCEJ4hSmWZ4iyJi9ERp3"
@@ -42652,6 +42750,24 @@
       "duration_ms": 217411,
       "name": "Realer and Realer (feat. Jackboy)",
       "url": "https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP"
+    },
+    {
+      "album": {
+        "name": "REALEST NIGGA I KNOW",
+        "url": "https://open.spotify.com/album/2XmDtkWa3i6HLZ7GEtHn0q"
+      },
+      "artists": [
+        {
+          "name": "Trey Bands",
+          "url": "https://open.spotify.com/artist/1rf5bMBJol4wwmT0yiAooD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "REALEST NIGGA I KNOW",
+      "url": "https://open.spotify.com/track/4SBNULhf4cQdul9fE9bzg3"
     },
     {
       "album": {
@@ -44996,6 +45112,32 @@
       "duration_ms": 170661,
       "name": "Sandcastles",
       "url": "https://open.spotify.com/track/4Pbygk2v96q46GcpkFXsPy"
+    },
+    {
+      "album": {
+        "name": "SATELLITE HIGH",
+        "url": "https://open.spotify.com/album/5sDs8MwD2pt5E2Giqiyerw"
+      },
+      "artists": [
+        {
+          "name": "MCVERTT",
+          "url": "https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132148,
+      "name": "SATELLITE HIGH",
+      "url": "https://open.spotify.com/track/4yB1UflFgktqx3BsDmcvwL"
     },
     {
       "album": {
@@ -49234,7 +49376,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195941,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5WjRUyqpHrj2DuTOVdDg2d"
@@ -49336,7 +49478,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 173714,
       "name": "Strut",
       "url": "https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc"
@@ -54953,6 +55095,28 @@
     },
     {
       "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/5gGaJNyI8ZVmVbC4akUS22"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        },
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164607,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/21YzNNA7kj7KRIVa1Wxrvf"
+    },
+    {
+      "album": {
         "name": "WALKED IN",
         "url": "https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn"
       },
@@ -55344,7 +55508,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 135000,
       "name": "Watch Me Now! (with NLE Choppa)",
       "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
@@ -58968,6 +59132,24 @@
       "duration_ms": 275520,
       "name": "Yucky Blucky Fruitcake",
       "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
+    },
+    {
+      "album": {
+        "name": "Out The Mud",
+        "url": "https://open.spotify.com/album/3MKsDAsoYP3JqLati9Jk4V"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138450,
+      "name": "Yumz",
+      "url": "https://open.spotify.com/track/5dJKRbRDT4nyFUeZqQgPm5"
     },
     {
       "album": {

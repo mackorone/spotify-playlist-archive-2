@@ -1,15 +1,167 @@
 {
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 237800,
+  "num_followers": 237894,
   "original_name": "Boris Brejcha's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwyO/hDEZcCrmkfEys3ae8dWv6o",
+  "snapshot_id": "AAAAAPwZ8ANQR3v/97JRf847NDgaWRYm",
   "tracks": [
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Dirty Beat",
+        "url": "https://open.spotify.com/album/2uZkvxbfbloSSWoST9x1IP"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "MC Flipside",
+          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Dirty Beat",
+      "url": "https://open.spotify.com/track/3DSY7B0roAopGKkCQGut3K"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "DIGITAL ANIMAL",
+        "url": "https://open.spotify.com/album/2i0XXFCLY4I7YOgxVYRKIN"
+      },
+      "artists": [
+        {
+          "name": "DONT BLINK",
+          "url": "https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "DIGITAL ANIMAL",
+      "url": "https://open.spotify.com/track/009NVh13DVQlXjkodfkdRW"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/6EufZIjDDVTzobqywsT4rE"
+      },
+      "artists": [
+        {
+          "name": "mcfly",
+          "url": "https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/7EQB5hIiHPTWdQIdq6aq8q"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/0H1m383h7W9lZnenfZamU3"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "duration_ms": 178140,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/6Pxp1y5hMM9a82GqkFaL4T"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4cHYUcFMJlapi74Qk5cYdF"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 154979,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/41oLjXkDavyLPTIuaaRYMl"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Certified Original",
+        "url": "https://open.spotify.com/album/3EOjKhjmKd3eSm4BvF2fQW"
+      },
+      "artists": [
+        {
+          "name": "Frieder & Jakob",
+          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
+        }
+      ],
+      "duration_ms": 185003,
+      "name": "Certified Original",
+      "url": "https://open.spotify.com/track/6bOCU2u20snODY1fMYrFpP"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "All Smiles",
+        "url": "https://open.spotify.com/album/03vjP0kuneZzx4dblhQGIX"
+      },
+      "artists": [
+        {
+          "name": "Nick Curly",
+          "url": "https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2"
+        }
+      ],
+      "duration_ms": 224102,
+      "name": "All Smiles",
+      "url": "https://open.spotify.com/track/1VZGcjxTvnGIEcX46BH3aw"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "no cash",
+        "url": "https://open.spotify.com/album/1c5Rfb4ZXGxQ687ogtmcCG"
+      },
+      "artists": [
+        {
+          "name": "shot by stanley",
+          "url": "https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ"
+        }
+      ],
+      "duration_ms": 200617,
+      "name": "no cash",
+      "url": "https://open.spotify.com/track/4uiNlx5Bcs11EFfm25Gg1h"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Busy Ants (Olympe Remix)",
+        "url": "https://open.spotify.com/album/4INzqG4iTeaZUcFKPhhYaV"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        },
+        {
+          "name": "Olympe",
+          "url": "https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF"
+        }
+      ],
+      "duration_ms": 301500,
+      "name": "Busy Ants - Olympe Remix",
+      "url": "https://open.spotify.com/track/0Ec9enRBb3T7PxWKBx1AgP"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Red In The Desert (Joseph Capriati Remix)",
         "url": "https://open.spotify.com/album/08zh77lOlw5plQeNs8tAz9"
@@ -33,159 +185,7 @@
       "url": "https://open.spotify.com/track/2s65MIW86O3HQqMSisJUe6"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "DIGITAL ANIMAL",
-        "url": "https://open.spotify.com/album/2i0XXFCLY4I7YOgxVYRKIN"
-      },
-      "artists": [
-        {
-          "name": "DONT BLINK",
-          "url": "https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "DIGITAL ANIMAL",
-      "url": "https://open.spotify.com/track/009NVh13DVQlXjkodfkdRW"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/6EufZIjDDVTzobqywsT4rE"
-      },
-      "artists": [
-        {
-          "name": "mcfly",
-          "url": "https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/7EQB5hIiHPTWdQIdq6aq8q"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/0H1m383h7W9lZnenfZamU3"
-      },
-      "artists": [
-        {
-          "name": "Julian Wassermann",
-          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
-        }
-      ],
-      "duration_ms": 178140,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/6Pxp1y5hMM9a82GqkFaL4T"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4cHYUcFMJlapi74Qk5cYdF"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 154979,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/41oLjXkDavyLPTIuaaRYMl"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Certified Original",
-        "url": "https://open.spotify.com/album/3EOjKhjmKd3eSm4BvF2fQW"
-      },
-      "artists": [
-        {
-          "name": "Frieder & Jakob",
-          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
-        }
-      ],
-      "duration_ms": 185003,
-      "name": "Certified Original",
-      "url": "https://open.spotify.com/track/6bOCU2u20snODY1fMYrFpP"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "All Smiles",
-        "url": "https://open.spotify.com/album/03vjP0kuneZzx4dblhQGIX"
-      },
-      "artists": [
-        {
-          "name": "Nick Curly",
-          "url": "https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2"
-        }
-      ],
-      "duration_ms": 224102,
-      "name": "All Smiles",
-      "url": "https://open.spotify.com/track/1VZGcjxTvnGIEcX46BH3aw"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "no cash",
-        "url": "https://open.spotify.com/album/1c5Rfb4ZXGxQ687ogtmcCG"
-      },
-      "artists": [
-        {
-          "name": "shot by stanley",
-          "url": "https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ"
-        }
-      ],
-      "duration_ms": 200617,
-      "name": "no cash",
-      "url": "https://open.spotify.com/track/4uiNlx5Bcs11EFfm25Gg1h"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Busy Ants (Olympe Remix)",
-        "url": "https://open.spotify.com/album/4INzqG4iTeaZUcFKPhhYaV"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        },
-        {
-          "name": "Olympe",
-          "url": "https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF"
-        }
-      ],
-      "duration_ms": 301500,
-      "name": "Busy Ants - Olympe Remix",
-      "url": "https://open.spotify.com/track/0Ec9enRBb3T7PxWKBx1AgP"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Alicante",
-        "url": "https://open.spotify.com/album/7uZGkI9g5kylbcmc0ksZx2"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Chemutai Sage",
-          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Alicante",
-      "url": "https://open.spotify.com/track/5IEOhfUcuMHfhEeiReQOcH"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Bravado",
         "url": "https://open.spotify.com/album/6q2n9sjPo2MMhXh0HsQ8kD"
@@ -201,27 +201,7 @@
       "url": "https://open.spotify.com/track/6creN9PWg3V2rCPuRhpphR"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Be OK",
-        "url": "https://open.spotify.com/album/48fu5AK77F4tovPGX5bFJH"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Be OK",
-      "url": "https://open.spotify.com/track/6GlkUBDTFpwp8dkFTA6yR9"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "I Wanna Feel Alive",
         "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
@@ -237,7 +217,7 @@
       "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Stop Go",
         "url": "https://open.spotify.com/album/3csLY843ytZcfqXEvAaVNW"
@@ -253,7 +233,7 @@
       "url": "https://open.spotify.com/track/6RauiAfExVUKA7pM1JxHJE"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Into The Night (Lamp\u00e9 Remix)",
         "url": "https://open.spotify.com/album/10IIS1iE6gOClIGvJAtIZ1"
@@ -273,7 +253,7 @@
       "url": "https://open.spotify.com/track/5X07fzcBs1JArbajZWfc62"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/2hUsXPSXrPv7CAMtHJ8sbV"
@@ -289,7 +269,7 @@
       "url": "https://open.spotify.com/track/3Dsbv1PVJDBJsnaOAzfBfl"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Panic Button",
         "url": "https://open.spotify.com/album/6CihRTnhzAUZ6X1J91RoKR"
@@ -305,7 +285,7 @@
       "url": "https://open.spotify.com/track/5Xo4XgeiUo3ZbfXdDnUBoC"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Rock Like This EP",
         "url": "https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt"
@@ -321,7 +301,7 @@
       "url": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/4OIyRyrayU5OT9IAhMdP0f"
@@ -337,7 +317,27 @@
       "url": "https://open.spotify.com/track/1jzElKXBVolMOycrSKsYAD"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/7uZGkI9g5kylbcmc0ksZx2"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Chemutai Sage",
+          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/5IEOhfUcuMHfhEeiReQOcH"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Fast Forward",
         "url": "https://open.spotify.com/album/59amXgOK1IMmFQneRPIX4b"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/5C9u6uyJUb88y2gSCJ3k1T"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Phase Sequence",
         "url": "https://open.spotify.com/album/3VEIRPOIkUhz4IxPyp8gSt"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/2hwCzpILG4FdyZMseL6gg1"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Two Hearts",
         "url": "https://open.spotify.com/album/2MWbLLsWgqEGo9fVSWxWux"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/66hMR6bDcRdG7LLdLA287n"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Hey BRO!",
         "url": "https://open.spotify.com/album/6zpJxCK9GtDiY2m35MuPyX"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/1q4EnQMHWETtzdWcaffOaF"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Afrasia",
         "url": "https://open.spotify.com/album/4VmmvpZZisupRwK4Wyl9zV"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/3XlR81zJ5Xe7ymqOmCe8Kp"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "44024",
         "url": "https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "\u00a1NO PASAR\u00c1N!",
         "url": "https://open.spotify.com/album/0LO6huSYt7RLUeTuTfIsdT"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/20Ff1P4bKUtrNrQXRLUgo8"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Freaky 1",
         "url": "https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Give Me (Bonus version)",
         "url": "https://open.spotify.com/album/4sN833SNRVqdYHez7QIzOy"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/6M6VKcXTKXEOiiHOWHdzvI"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/365zphzquUancMmfLCH0ud"
@@ -513,7 +513,27 @@
       "url": "https://open.spotify.com/track/3Na1OqTOAg8rlxzhDx3x3q"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Be OK",
+        "url": "https://open.spotify.com/album/48fu5AK77F4tovPGX5bFJH"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Be OK",
+      "url": "https://open.spotify.com/track/6GlkUBDTFpwp8dkFTA6yR9"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/1UrpdDBbmDLgiCNOHNRVS2"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/6ElUISUJNU2wDTYBJ14qEU"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Stand Or Fight",
         "url": "https://open.spotify.com/album/2qANqFJfDVsh5rACK7JyFq"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/4pgaQDpFGr1efxsLT0GwF2"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Sauna",
         "url": "https://open.spotify.com/album/3HjL5kQqOBCqTTLfiRfMNK"
@@ -565,23 +585,7 @@
       "url": "https://open.spotify.com/track/2Vmj3rizpizIu6pBrmj6GC"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Flockentanz Remixes",
-        "url": "https://open.spotify.com/album/3yF9V62Qh45yKNX416mef3"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Flockentanz - 2024 Remake",
-      "url": "https://open.spotify.com/track/07iPWNVMyNWK9LF5tT6LWO"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "The Unreleased Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/0exX6L0mEtWcfdrvW3TwyT"
@@ -605,7 +609,7 @@
       "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "GoGoGo! (VIP Intro Mix)",
         "url": "https://open.spotify.com/album/0W9qcgJ7rpEs34eAhEKMAR"
@@ -621,7 +625,7 @@
       "url": "https://open.spotify.com/track/3WTRRyTuMWqVCbBsNy4oMC"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/7LnmVCMcb4eIPRYWctTzRM"
@@ -637,7 +641,7 @@
       "url": "https://open.spotify.com/track/2tHWfJzKknUb1bLCabCUp2"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Brutalga Square (Edit)",
         "url": "https://open.spotify.com/album/3j6u5hsi727OzNCMio48Ye"
@@ -653,7 +657,7 @@
       "url": "https://open.spotify.com/track/1ywtEXS4hRwOVBj6fcGzTP"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/0rVfUBomZINxAxffvoSOCi"
@@ -677,7 +681,7 @@
       "url": "https://open.spotify.com/track/1Pf8x4VO66NuliT2EFwhep"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2k57CNwLoKbtycIR2x4w3s"
@@ -693,7 +697,23 @@
       "url": "https://open.spotify.com/track/2LTmm5xRkc9nn84QgJgjHU"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Flockentanz Remixes",
+        "url": "https://open.spotify.com/album/3yF9V62Qh45yKNX416mef3"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Flockentanz - 2024 Remake",
+      "url": "https://open.spotify.com/track/07iPWNVMyNWK9LF5tT6LWO"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Desolate Lands",
         "url": "https://open.spotify.com/album/2KLiLQvguVwRpcLqL74Huc"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Loops & Tings 2025",
         "url": "https://open.spotify.com/album/0xJtvLoJkPD2KjZaDmN2SA"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/43FEfefyXyK4SHeW6eCDBX"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Brushcutter",
         "url": "https://open.spotify.com/album/4OifWWoACaTzqafzSDBm5y"
@@ -753,23 +773,7 @@
       "url": "https://open.spotify.com/track/35ddVA9CFv9ko3v2KZQfBp"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
-      "album": {
-        "name": "Engine",
-        "url": "https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Engine",
-      "url": "https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1"
-    },
-    {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
@@ -785,7 +789,7 @@
       "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/4ZxJonyYAqmrqTBa2FFRUt"
@@ -801,7 +805,7 @@
       "url": "https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Distant Love",
         "url": "https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Anna Lunoe & Friends",
         "url": "https://open.spotify.com/album/1fkBEw5SFrj3sfWpsiSyQJ"
@@ -841,7 +845,7 @@
       "url": "https://open.spotify.com/track/629HSbjd4gpnrDQXvVbbHH"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "6 A.M. / Marauder",
         "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
@@ -857,7 +861,7 @@
       "url": "https://open.spotify.com/track/13lcPOVnZlUOHDlfwqhdhl"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N"
@@ -873,7 +877,23 @@
       "url": "https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
+      "album": {
+        "name": "Engine",
+        "url": "https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Engine",
+      "url": "https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1"
+    },
+    {
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "30 Years EP",
         "url": "https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "Typerope EP",
         "url": "https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42"
     },
     {
-      "added_at": "2026-07-10 01:34:44",
+      "added_at": "2026-07-17 15:23:44",
       "album": {
         "name": "20 Years Bonzai",
         "url": "https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx"

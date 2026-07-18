@@ -1,13 +1,37 @@
 {
-  "description": "Check out the Latest Romance Tracks.\nCover : Youth",
-  "num_followers": 210507,
+  "description": "Check out the Latest Romance Tracks.\nCover : Idhayam Murali",
+  "num_followers": 210736,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXhFAEVV3tpUlsLDZYPkJEVQR9S",
+  "snapshot_id": "AAAAABzSwjcES7K9uk60UYYDMDSzvy02",
   "tracks": [
+    {
+      "added_at": "2026-07-17 07:56:05",
+      "album": {
+        "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1f4mJpk8E74sM9tTtj6Xby"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+        }
+      ],
+      "duration_ms": 262577,
+      "name": "Vaama Vaama",
+      "url": "https://open.spotify.com/track/4udWFyZi8TIPmMSYhgfC8E"
+    },
     {
       "added_at": "2026-02-08 09:48:17",
       "album": {
@@ -109,10 +133,10 @@
       "url": "https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J"
     },
     {
-      "added_at": "2026-01-29 07:07:59",
+      "added_at": "2026-07-17 07:56:05",
       "album": {
-        "name": "Thangame Thangame (From \"Idhayam Murali\")",
-        "url": "https://open.spotify.com/album/4Gp64jrwZJikEEMx0DKHCP"
+        "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1f4mJpk8E74sM9tTtj6Xby"
       },
       "artists": [
         {
@@ -129,8 +153,8 @@
         }
       ],
       "duration_ms": 303055,
-      "name": "Thangame Thangame - From \"Idhayam Murali\"",
-      "url": "https://open.spotify.com/track/6KmTMjHQ6fpBilsfH43EHV"
+      "name": "Thangame Thangame",
+      "url": "https://open.spotify.com/track/39WC47tKMREDYR05LVBQKV"
     },
     {
       "added_at": "2026-07-06 15:39:22",
@@ -201,32 +225,28 @@
       "url": "https://open.spotify.com/track/7B5cRMFpi32kh7fpty0sJx"
     },
     {
-      "added_at": "2026-06-30 11:34:08",
+      "added_at": "2026-07-17 07:56:05",
       "album": {
-        "name": "Pere Illa (From \"Sing Geetham\")",
-        "url": "https://open.spotify.com/album/48Hhu4itEVOd8MYmGD2Ptd"
+        "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1f4mJpk8E74sM9tTtj6Xby"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Imayavaramban Barani",
-          "url": "https://open.spotify.com/artist/1ZTHsXjREz2tgRVhjxCpDH"
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
         },
         {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/5pwaucWh69kuiQA2xdbY5d"
-        },
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 115022,
-      "name": "Pere Illa (From \"Sing Geetham\")",
-      "url": "https://open.spotify.com/track/2BE4jPjayJDCIT6WokulaT"
+      "duration_ms": 277439,
+      "name": "Vaan Vaan",
+      "url": "https://open.spotify.com/track/2xKiL3qAfV32DAoESq3MYg"
     },
     {
       "added_at": "2026-03-25 16:07:31",
@@ -283,6 +303,30 @@
       "duration_ms": 199132,
       "name": "Yaar Yaarival - From \"Ram in Leela\"",
       "url": "https://open.spotify.com/track/3c2yNVENVB9jgDuFZzxRXs"
+    },
+    {
+      "added_at": "2026-07-17 07:56:05",
+      "album": {
+        "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1f4mJpk8E74sM9tTtj6Xby"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Idhayaa - Extended",
+      "url": "https://open.spotify.com/track/37m2El0eIgXO2cz2BndvOU"
     },
     {
       "added_at": "2026-06-30 11:34:08",
@@ -389,6 +433,26 @@
       "url": "https://open.spotify.com/track/7Hmv5XZkmvtW3q52Im5PSo"
     },
     {
+      "added_at": "2026-07-17 07:56:05",
+      "album": {
+        "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1f4mJpk8E74sM9tTtj6Xby"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 247894,
+      "name": "Kattazhagi",
+      "url": "https://open.spotify.com/track/38qzMjXlHzHHYw4q2V6f7R"
+    },
+    {
       "added_at": "2026-06-10 11:34:39",
       "album": {
         "name": "Parimala and Co (Original Motion Picture Soundtrack)",
@@ -411,30 +475,6 @@
       "duration_ms": 165000,
       "name": "Doki Doki",
       "url": "https://open.spotify.com/track/4ayZ2o7iS1DkkkGnvTpJpc"
-    },
-    {
-      "added_at": "2026-06-17 05:41:46",
-      "album": {
-        "name": "Vaama Vaama (From \"Idhayam Murali\")",
-        "url": "https://open.spotify.com/album/6L4KkVP4sd6U7kUOWfZ1nz"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Adesh Krishna",
-          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
-        }
-      ],
-      "duration_ms": 262577,
-      "name": "Vaama Vaama - From \"Idhayam Murali\"",
-      "url": "https://open.spotify.com/track/7H6yeSuj5N1rKD1243xjbA"
     },
     {
       "added_at": "2026-06-10 11:49:47",
@@ -901,30 +941,6 @@
       "url": "https://open.spotify.com/track/13xOVzImUS6QDlHlAH2czt"
     },
     {
-      "added_at": "2026-02-14 04:33:39",
-      "album": {
-        "name": "Vaan Vaan (From \"Idhayam Murali\")",
-        "url": "https://open.spotify.com/album/4pgdlmDeJNfuDsc8quKbNQ"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 277439,
-      "name": "Vaan Vaan - From \"Idhayam Murali\"",
-      "url": "https://open.spotify.com/track/5N2Z9rGyhSfUgTQ1eI3lPT"
-    },
-    {
       "added_at": "2026-02-17 10:23:37",
       "album": {
         "name": "Couple Friendly (Tamil)",
@@ -999,34 +1015,6 @@
       "duration_ms": 207157,
       "name": "Uyir Pathikaama",
       "url": "https://open.spotify.com/track/6FVez3nE3sUD6Crs4pZQmV"
-    },
-    {
-      "added_at": "2026-01-29 07:07:59",
-      "album": {
-        "name": "Yetho Yetho (From \"Gandhi Talks\") (Tamil)",
-        "url": "https://open.spotify.com/album/430nX1MFMrR6M6pnr05T9i"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Amina Rafiq",
-          "url": "https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu"
-        },
-        {
-          "name": "Shridhar Ramesh",
-          "url": "https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y"
-        },
-        {
-          "name": "Pa. Vijay",
-          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
-        }
-      ],
-      "duration_ms": 254354,
-      "name": "Yetho Yetho (From \"Gandhi Talks\") (Tamil)",
-      "url": "https://open.spotify.com/track/1G3bz6YER5qTKxcAu2N4j0"
     },
     {
       "added_at": "2026-02-17 10:23:37",

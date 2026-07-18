@@ -2071,6 +2071,36 @@
     },
     {
       "album": {
+        "name": "Duas Vezes",
+        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160784,
+      "name": "Duas Vezes",
+      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "album": {
         "name": "D\u00f3i Tanto",
         "url": "https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s"
       },
@@ -2374,7 +2404,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187733,
       "name": "Falar De Amor - Remix",
       "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
@@ -4835,6 +4865,32 @@
     },
     {
       "album": {
+        "name": "Papinho Ambicioso",
+        "url": "https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Gondim",
+          "url": "https://open.spotify.com/artist/068QRjfyjDlcjIIBrf61is"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Papinho Ambicioso",
+      "url": "https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj"
+    },
+    {
+      "album": {
         "name": "Para De Dizer Que N\u00e3o Me Ama (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC"
       },
@@ -7070,7 +7126,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 195169,
       "name": "Tenta a Sorte",
       "url": "https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg"

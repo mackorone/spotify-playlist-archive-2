@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 125875,
       "name": "ALO ALO",
       "url": "https://open.spotify.com/track/7j6umYO9NnWXiG3NL5LsMa"
@@ -3877,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Bana Ne Bu Sevdalardan",
+        "url": "https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137512,
+      "name": "Bana Ne Bu Sevdalardan",
+      "url": "https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR"
+    },
+    {
+      "album": {
         "name": "Bana Sor",
         "url": "https://open.spotify.com/album/6JIR1x7plodkrgW87LZPzJ"
       },
@@ -5106,7 +5124,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 270602,
       "name": "Beyaz",
       "url": "https://open.spotify.com/track/01BIEhvSOowecScRovMFll"
@@ -5834,7 +5852,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
@@ -8390,7 +8408,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 155024,
       "name": "De\u011fi\u015ftiremezsin Yaz\u0131lm\u0131\u015fsa",
       "url": "https://open.spotify.com/track/49a0nrWtmWU78F0itzjDJh"
@@ -8629,6 +8647,24 @@
     },
     {
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V"
+    },
+    {
+      "album": {
         "name": "Diva Yorgun",
         "url": "https://open.spotify.com/album/1CmMKVtTFW7yG4k6PlfWzQ"
       },
@@ -8738,7 +8774,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 177733,
       "name": "Di\u011fer Yar\u0131m",
       "url": "https://open.spotify.com/track/1bnFgbm6n4r8dOfeYiXlgV"
@@ -18314,7 +18350,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 200512,
       "name": "K\u00fc\u00e7\u00fck Bir Yol - Red Bull Track Takeover",
       "url": "https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i"
@@ -19334,7 +19370,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 149823,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP"
@@ -26146,6 +26182,24 @@
       "duration_ms": 206426,
       "name": "Son Arzum",
       "url": "https://open.spotify.com/track/4C2BEVMCOoTRYLQdxumczm"
+    },
+    {
+      "album": {
+        "name": "Ellerine Sa\u011fl\u0131k (Remastered)",
+        "url": "https://open.spotify.com/album/17B4G01GdNjU3OPimzPkXE"
+      },
+      "artists": [
+        {
+          "name": "Yal\u0131n",
+          "url": "https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291866,
+      "name": "Son A\u015fk\u0131m - Remastered",
+      "url": "https://open.spotify.com/track/1GGBucUcIOxXZ208i3jNGT"
     },
     {
       "album": {

@@ -1,13 +1,125 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udca8 featuring MPH",
-  "num_followers": 844698,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \u2728 featuring Jkyl & Hyde",
+  "num_followers": 844720,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOvaeua/219WY9jY4YCZKozCq8y",
+  "snapshot_id": "AAAAAMc3tIJU/S39ldula+6EKCYn6uNe",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:01:39",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/4iEHPWf90D0ZEUHzd3Mv5a"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "\"Not Found\" (EP)",
+        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "Gloss (feat. y3kfae)",
+        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "y3kfae",
+          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+        }
+      ],
+      "duration_ms": 112325,
+      "name": "Gloss (feat. y3kfae)",
+      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
+    },
+    {
+      "added_at": "2026-07-17 04:01:39",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5RZNVQ3qznAJXt4iy5qK5U"
+      },
+      "artists": [
+        {
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
+        },
+        {
+          "name": "Ogasawara",
+          "url": "https://open.spotify.com/artist/6mTSdS8yN21WFsI7oDbeP6"
+        }
+      ],
+      "duration_ms": 180437,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4ikdOTIV0RlhbSkJFBx2mE"
+    },
+    {
+      "added_at": "2026-06-12 15:55:15",
+      "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "added_at": "2026-07-17 04:01:39",
+      "album": {
+        "name": "CEREMONY",
+        "url": "https://open.spotify.com/album/4WTo0sqiVQXFSzQYqgSkPm"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 153079,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/450o2Q2eGFkjIPZCx7oU28"
+    },
     {
       "added_at": "2026-07-10 04:02:04",
       "album": {
@@ -35,22 +147,6 @@
       "duration_ms": 186857,
       "name": "DID IT AGAIN - MPH Remix",
       "url": "https://open.spotify.com/track/3AX5uNN5flZ8fnNZlMXNpT"
-    },
-    {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "\"Not Found\" (EP)",
-        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
-      },
-      "artists": [
-        {
-          "name": "eric404",
-          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
     },
     {
       "added_at": "2026-06-12 15:55:15",
@@ -83,26 +179,6 @@
       "duration_ms": 155543,
       "name": "be with me",
       "url": "https://open.spotify.com/track/13iSspPHQg1cDyUl55ItRg"
-    },
-    {
-      "added_at": "2026-05-01 04:02:39",
-      "album": {
-        "name": "Gloss (feat. y3kfae)",
-        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "y3kfae",
-          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
-        }
-      ],
-      "duration_ms": 112325,
-      "name": "Gloss (feat. y3kfae)",
-      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
     },
     {
       "added_at": "2026-07-06 22:09:49",
@@ -139,26 +215,6 @@
       "duration_ms": 197624,
       "name": "uniti/separati",
       "url": "https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC"
-    },
-    {
-      "added_at": "2026-06-12 15:55:15",
-      "album": {
-        "name": "thumbs",
-        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "thumbs",
-      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
       "added_at": "2026-06-19 04:02:07",
@@ -233,6 +289,26 @@
       "url": "https://open.spotify.com/track/0Rq1qly0j85jDxYTXkmNrI"
     },
     {
+      "added_at": "2026-07-17 04:01:39",
+      "album": {
+        "name": "FOR A NIGHT",
+        "url": "https://open.spotify.com/album/10Ai80biOw6lQa9JK96abb"
+      },
+      "artists": [
+        {
+          "name": "Ryan Case",
+          "url": "https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn"
+        },
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        }
+      ],
+      "duration_ms": 142357,
+      "name": "PRETTY BABY",
+      "url": "https://open.spotify.com/track/1Jxuw4c15iYivyNfY38u11"
+    },
+    {
       "added_at": "2026-06-12 15:55:15",
       "album": {
         "name": "LIVE FAST",
@@ -267,6 +343,22 @@
       "duration_ms": 260625,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/2Ed8PLm1CGGcHqJYj8H8nl"
+    },
+    {
+      "added_at": "2026-07-17 17:37:02",
+      "album": {
+        "name": "WASTINGTIME",
+        "url": "https://open.spotify.com/album/64KN2Nf2UWkSwxvYrDniXc"
+      },
+      "artists": [
+        {
+          "name": "That Franco",
+          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "WASTINGTIME",
+      "url": "https://open.spotify.com/track/00x4LHrD6sxltEHSLCh6uY"
     },
     {
       "added_at": "2026-07-10 04:02:04",
@@ -321,10 +413,10 @@
       "url": "https://open.spotify.com/track/1sR7wY8HpZYHTKafDLFpEL"
     },
     {
-      "added_at": "2026-05-29 04:02:39",
+      "added_at": "2026-07-17 04:01:39",
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/57GNwR8r5HpFA4rEVC86iB"
+        "name": "Candy Flipping",
+        "url": "https://open.spotify.com/album/3Vc6DBRbV0wxMokCFwCaPu"
       },
       "artists": [
         {
@@ -332,13 +424,21 @@
           "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
+          "name": "Jack Blom",
+          "url": "https://open.spotify.com/artist/2bo9YinKaf9AODdIQ93G9m"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
           "name": "Alina Pash",
           "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
         }
       ],
-      "duration_ms": 182450,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/0L9hLpaILakNHtwvgNeMjA"
+      "duration_ms": 212228,
+      "name": "Candy Flipping",
+      "url": "https://open.spotify.com/track/0ZrkXUzjbmmNO8mrqK6Kc2"
     },
     {
       "added_at": "2026-07-13 17:06:11",
@@ -487,6 +587,26 @@
       "duration_ms": 161363,
       "name": "Visions",
       "url": "https://open.spotify.com/track/7jMHu4cwTP8iCmmNvQnqOG"
+    },
+    {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/57GNwR8r5HpFA4rEVC86iB"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Alina Pash",
+          "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/0L9hLpaILakNHtwvgNeMjA"
     },
     {
       "added_at": "2026-05-22 04:01:03",
@@ -781,22 +901,6 @@
       "url": "https://open.spotify.com/track/3qKmaSnePGCYCfybNDuxG1"
     },
     {
-      "added_at": "2026-05-29 04:02:39",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1EfHBprhrWg6BDa4SOnTof"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        }
-      ],
-      "duration_ms": 125070,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6mzfxppGNFic87PquwtGuT"
-    },
-    {
       "added_at": "2026-05-08 04:04:13",
       "album": {
         "name": "turbine / frog",
@@ -1075,22 +1179,6 @@
     {
       "added_at": "2026-05-15 04:02:26",
       "album": {
-        "name": "Not Ready For This Love",
-        "url": "https://open.spotify.com/album/0O9uSsvRFrp54f3s48cTLZ"
-      },
-      "artists": [
-        {
-          "name": "Swoush",
-          "url": "https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Not Ready For This Love",
-      "url": "https://open.spotify.com/track/3QOxwuNQHpLjJZLROh71yh"
-    },
-    {
-      "added_at": "2026-05-15 04:02:26",
-      "album": {
         "name": "Run Out",
         "url": "https://open.spotify.com/album/37Skhupq12eVbkUqBQkuf1"
       },
@@ -1103,58 +1191,6 @@
       "duration_ms": 192380,
       "name": "Run Out",
       "url": "https://open.spotify.com/track/5ILUHEnUMvQVLAq6aBksPR"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "Shining",
-        "url": "https://open.spotify.com/album/6RumgBLwYYkCUQ9DRpop1S"
-      },
-      "artists": [
-        {
-          "name": "Atura",
-          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/3Jfh9DydVhNpob2rYxbtOD"
-    },
-    {
-      "added_at": "2026-04-10 04:03:08",
-      "album": {
-        "name": "fun 2.",
-        "url": "https://open.spotify.com/album/3ofQ0qdi2jIyjKNep5n1Kk"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 114777,
-      "name": "save me",
-      "url": "https://open.spotify.com/track/4lOz7B6WFBewHeRMcMBTX6"
-    },
-    {
-      "added_at": "2026-04-17 04:04:00",
-      "album": {
-        "name": "Break of Dawn",
-        "url": "https://open.spotify.com/album/1CNauoaze1UJqMobWAr592"
-      },
-      "artists": [
-        {
-          "name": "G Jones",
-          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
-        },
-        {
-          "name": "Eprom",
-          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
-        }
-      ],
-      "duration_ms": 250990,
-      "name": "Break of Dawn",
-      "url": "https://open.spotify.com/track/5AfVFCqMKLgjAOrNsDZjsZ"
     },
     {
       "added_at": "2026-05-15 04:02:26",
@@ -1511,30 +1547,6 @@
       "duration_ms": 202105,
       "name": "i go hard",
       "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
-    },
-    {
-      "added_at": "2026-03-27 04:00:17",
-      "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/17WI9aMbKTPCfoyzK5qb7L"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "The Upbeats",
-          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
-        },
-        {
-          "name": "Stace Cadet",
-          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
-        }
-      ],
-      "duration_ms": 216976,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/5QGbeS1xV5JGXv8VPAy0rL"
     },
     {
       "added_at": "2026-03-06 05:00:25",

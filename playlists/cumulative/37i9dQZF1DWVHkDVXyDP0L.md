@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Stand Atlantic
 
-1,031 songs - 2 day 9 hr 50 min
+1,031 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Kiss the Rain](https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk) | [THIRST TRAP](https://open.spotify.com/artist/6igX8KxCATg98x9uBHMytV) | [Kiss the Rain](https://open.spotify.com/album/6FK8wwxb2hLpVt7n87co0p) | 3:45 | 2025-11-13 | 2026-01-15 |
 | [Knots](https://open.spotify.com/track/6F7AAiq2bShJHqXjlcJzVs) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Knots](https://open.spotify.com/album/1BWGJiO5tP0HI4RK2U8Lcw) | 3:10 | 2026-04-09 | 2026-07-10 |
 | [l8tely](https://open.spotify.com/track/605xSDYczz0yXWHkuYlldD) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [l8tely](https://open.spotify.com/album/2m8IBDHZaJXiJbMxgCAaYM) | 3:03 | 2024-07-11 | 2024-09-10 |
+| [Lady](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 2:31 | 2026-07-16 |  |
 | [Lady Beetle](https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Lady Beetle](https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb) | 3:32 | 2025-08-21 | 2025-11-28 |
 | [Ladybug](https://open.spotify.com/track/0YFz0UbJQT2TvWldHHQGcx) | [Death by Denim](https://open.spotify.com/artist/1OXpN0Unpw1Xrpws4tIpUF) | [Ladybug](https://open.spotify.com/album/5l9ZwnqPM6QfUP0gTEDQEq) | 3:11 | 2026-03-05 | 2026-05-08 |
 | [Last Amour](https://open.spotify.com/track/2eHn2iYwPwXCAVVmGep6Hu) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [I Feel It All At Once](https://open.spotify.com/album/4qAF52zLREmgy3D2IrCzlG) | 3:55 | 2024-09-26 | 2024-10-25 |
@@ -954,7 +955,6 @@
 | [Tonight, I](https://open.spotify.com/track/699mnYsUGvnx3hP5WfcRRA) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [The Novel](https://open.spotify.com/album/0wrWV4wYGC2QXcp3wIDpus) | 3:47 | 2024-05-24 | 2024-07-12 |
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 1](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 0:00 | 2026-07-16 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 | 2026-01-23 |
 | [Trip Hazard](https://open.spotify.com/track/5vmbouG8UIOoKQYKrnTc55) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Trip Hazard](https://open.spotify.com/album/0fgoHh6b6b8SDeaYBK068h) | 2:49 | 2024-05-24 | 2024-07-27 |

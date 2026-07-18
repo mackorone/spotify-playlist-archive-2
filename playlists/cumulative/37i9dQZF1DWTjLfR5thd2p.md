@@ -4,7 +4,7 @@
 
 > Unwind and enjoy the long summer evenings
 
-463 songs - 20 hr 12 min
+469 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-05-20 | 2025-04-17 |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-05-20 | 2025-04-17 |
 | [Arabesca](https://open.spotify.com/track/2fnmga0QCLLsPW8Es5o29r) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [Arabesca](https://open.spotify.com/album/3PPAPtSQVgEtl06ev5gUea) | 3:14 | 2022-05-20 | 2025-04-17 |
+| [As Evening Falls](https://open.spotify.com/track/1X70oGyQvjztS9VuVWSjCJ) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [As Evening Falls](https://open.spotify.com/album/3pR9j0dw7CsUo92QNJmyT1) | 2:38 | 2026-07-17 |  |
 | [As Silence Falls](https://open.spotify.com/track/016jV0p2FhrHscjW9pq8eN) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [As Silence Falls](https://open.spotify.com/album/13CI80Wu8xoSXlG0a8vdHz) | 2:31 | 2025-08-04 |  |
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2022-05-20 | 2024-03-26 |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2022-05-20 | 2024-04-10 |
@@ -48,6 +49,7 @@
 | [Aurora](https://open.spotify.com/track/2BtlvjGVA4mDDhj6VoCDho) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Caritas](https://open.spotify.com/album/052uIw2Psurx5buzGCcrDH) | 2:22 | 2022-05-20 | 2024-04-10 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2022-05-20 | 2025-05-03 |
 | [Back to Begin](https://open.spotify.com/track/648XpoeyPdVOTXukyczd8J) | [Mark Fanning](https://open.spotify.com/artist/6l1IhAl77yDLlYVBXMM5Av) | [Back to Begin](https://open.spotify.com/album/5QbM1wsUshWIEjksukWQts) | 2:57 | 2022-05-20 | 2025-04-17 |
+| [Barley Hint](https://open.spotify.com/track/00rodzT0IpvK1AEPGeB7GX) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Barley Hint](https://open.spotify.com/album/4fmR7pBlMbN5doNLRpCUAP) | 2:32 | 2026-07-17 |  |
 | [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [C\. Schumann](https://open.spotify.com/artist/6DCx3VYkpg9rqycY67aZCx) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 | 2024-07-16 |  |
 | [Before the War](https://open.spotify.com/track/0paObwS131dDajVtwORiYq) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:59 | 2022-05-20 | 2024-03-26 |
 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 | 2022-05-20 | 2025-04-17 |
@@ -153,6 +155,7 @@
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-05-20 | 2026-05-23 |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2022-05-20 | 2025-04-17 |
 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-05-20 | 2025-04-17 |
+| [Gazebo](https://open.spotify.com/track/2mjD4jDgfOtjtlUUQ99vup) | [Nikolai Hawthorne](https://open.spotify.com/artist/2HoCd4cQaTWNWbIFEXi4hG) | [Gazebo](https://open.spotify.com/album/3S2ZFDKnAM7t1wNesfGei6) | 2:05 | 2026-07-17 |  |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2022-05-20 | 2025-04-17 |
 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 | 2025-05-02 |  |
 | [Golden Hour](https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Golden Hour](https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64) | 2:21 | 2025-08-12 |  |
@@ -178,6 +181,7 @@
 | [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-20 | 2024-03-26 |
 | [I Will Travel the Earth to Find You](https://open.spotify.com/track/6afEJtnbZmuMvOfPoGjwkC) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Stranded Without You](https://open.spotify.com/album/2HTI0iQPoJimFyPy2yTmwB) | 3:38 | 2022-05-20 | 2025-04-17 |
 | [If](https://open.spotify.com/track/3NBh0kuILgsP4Xy5OrBM4T) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [If](https://open.spotify.com/album/7j4ImaaunpB75Mkq29sITw) | 2:08 | 2025-07-21 |  |
+| [If only](https://open.spotify.com/track/3t2B45BV5RGLsNLEIVbHjL) | [Jasper Avelline](https://open.spotify.com/artist/4pPV1eWRWDUYofcp8oxQg1) | [If only](https://open.spotify.com/album/3H1t97RmnrLhHsnqRwDrk6) | 2:31 | 2026-07-17 |  |
 | [If We Knew, We Would](https://open.spotify.com/track/4RLfOYC8qDeAkKbkII4pOy) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [If We Knew, We Would](https://open.spotify.com/album/35mWkmrwgBuwFUKkBIHOYG) | 3:04 | 2025-08-12 |  |
 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 | 2022-05-20 | 2026-05-23 |
 | [Imagery Noir](https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Imagery Noir](https://open.spotify.com/album/1AuorWIwxQ0oM0S3G4skZG) | 2:39 | 2022-05-20 | 2026-05-23 |
@@ -349,6 +353,7 @@
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-05-20 |  |
 | [Simple Beauty](https://open.spotify.com/track/2TAIbjpQTCZPkqB40Z8xA3) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Friendship](https://open.spotify.com/album/2l3vynWg9pdRYluf2AGaET) | 2:00 | 2022-05-20 | 2026-05-23 |
 | [Sioux](https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:06 | 2022-05-20 | 2025-05-03 |
+| [Slow Ornament](https://open.spotify.com/track/3cpjoDYt3kd19J0GxrrIm5) | [Evren Calder](https://open.spotify.com/artist/3UQfhTZxIT81OntthwCHTe) | [Slow Ornament](https://open.spotify.com/album/7aGuUAg0wB54n8xBMQgKP7) | 2:38 | 2026-07-17 |  |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2022-05-20 | 2026-05-30 |
 | [Small windows](https://open.spotify.com/track/54PMgKkErM6O1QUgV3Nk3Q) | [Lyla Lyons](https://open.spotify.com/artist/1QwrYOufNq8cKYVIs8ATy1) | [Small windows](https://open.spotify.com/album/2mNM2ui2bPCfElAWPlvl9U) | 2:49 | 2022-05-20 | 2025-05-03 |
 | [Soft Mallets](https://open.spotify.com/track/33UpGvF0qYuVgZRt6g1Gv4) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Soft Mallets](https://open.spotify.com/album/6C3wCA6fepDNa4wfcnP7ro) | 3:39 | 2022-05-20 | 2024-04-10 |
@@ -372,6 +377,7 @@
 | [Stay The Night](https://open.spotify.com/track/5GuS3tJuRwbdNObPdCEVfI) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stay The Night](https://open.spotify.com/album/4vYZPIYks7WPspZHdcwvdG) | 2:02 | 2022-05-20 | 2026-05-23 |
 | [Still](https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Still](https://open.spotify.com/album/3Ko0u1P4mxYYrCHKgx5OdE) | 2:16 | 2022-05-20 | 2025-05-03 |
 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2022-05-20 |  |
+| [Still Blooming](https://open.spotify.com/track/3Kih6668x8yOm9nHr6sg0t) | [Niamh Shona](https://open.spotify.com/artist/2ILFSwtF4RJgfzeKMbOJft) | [Still Blooming](https://open.spotify.com/album/3N8T8VRlE0l74m6gXKGyuC) | 2:38 | 2026-07-17 |  |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2022-05-20 | 2026-05-23 |
 | [Sui](https://open.spotify.com/track/3CNyikzIjzTLdcMSriulrg) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sui](https://open.spotify.com/album/1pxpKat9HD0bN45GWhgKSZ) | 2:34 | 2022-05-20 | 2026-05-23 |
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-05-20 | 2026-05-30 |

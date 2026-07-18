@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,530 songs - 10 day 2 hr 58 min
+4,533 songs - 10 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1790,6 +1790,7 @@
 | [Heavy Candy Dreams](https://open.spotify.com/track/7LqjTYlvMzvZDgaUoVV2Vr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 2:54 | 2025-09-19 |  |
 | [Heavy Covenant](https://open.spotify.com/track/4rPoZaxNvA0vmNg2CN0GHY) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Open Door Policy](https://open.spotify.com/album/3wW4dsaL7EVVdAfu9aIU1M) | 4:39 | 2025-11-05 |  |
 | [Heavy rotation](https://open.spotify.com/track/3w5HwOS8yI6LNRyyozLTmR) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn), [This Is The Foo](https://open.spotify.com/artist/16m07khUclQ389ERyc1Sj8) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:18 | 2025-06-06 |  |
+| [Heavy Wrong](https://open.spotify.com/track/3Zj1z0bcN8bAG0MozSgLUP) | [INSTINTO IML](https://open.spotify.com/artist/1cE9VQZkQq3Dc5ejH2X5YN) | [Heavy Wrong](https://open.spotify.com/album/6kjZ6qsbJZbzghbYOLa5vv) | 3:38 | 2026-07-18 |  |
 | [Hellbound](https://open.spotify.com/track/2GWalOSix9H9UgsDJRiQNS) | [Couching Distance](https://open.spotify.com/artist/6jGzXAWsNR1ylxmLK2z4G1) | [Hellbound](https://open.spotify.com/album/1Ff628nCaqhnmWgsfyAQzA) | 2:51 | 2025-05-23 |  |
 | [hello](https://open.spotify.com/track/5JUw6DpaNvb1BRf0q6XHJ5) | [sage archive](https://open.spotify.com/artist/01nW0iYcg0NGbfZYgbuvfh) | [Riotti](https://open.spotify.com/album/0QHCeUqW5y9MXDNFKNnRH9) | 1:40 | 2026-04-29 |  |
 | [Hello My Past](https://open.spotify.com/track/1BBuJShNH2aIaZr8b2Y1wy) | [A.G.S](https://open.spotify.com/artist/0ugmYHUqz52xFstzJELWOu) | [Hello My Past](https://open.spotify.com/album/0OsQCln9enQM9DlWGFGbfV) | 3:49 | 2025-01-28 |  |
@@ -3272,6 +3273,7 @@
 | [Ruggine e Fuoco \(another\)](https://open.spotify.com/track/4JSwxpXxsr1MkJHYus1VSH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:54 | 2025-09-18 |  |
 | [RUIN MY MOOD](https://open.spotify.com/track/1O8Ptr7EsEVwwcFB9Cb1cW) | [GoVanni](https://open.spotify.com/artist/5CixTI3FXT2FHjc3Uq05sB) | [RUIN MY MOOD](https://open.spotify.com/album/6vchkJRl2FQ3TuJlXmwrLf) | 2:11 | 2025-07-28 |  |
 | [Rumore l'Amore](https://open.spotify.com/track/4kF8lwOoEwFZ3Aj0vE9jAZ) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Rumore l'Amore](https://open.spotify.com/album/4aXdBaQT4oCD4V3klbz5kL) | 3:35 | 2025-10-17 |  |
+| [Rumors](https://open.spotify.com/track/7s8Muzy74MwG6bAWzn4UaS) | [Scarlet Tantrum](https://open.spotify.com/artist/68krtGioZxrKpiidxfFxcY) | [Rumors](https://open.spotify.com/album/1OJNVVc41xZXVdSBUJkJw5) | 3:45 | 2026-07-17 |  |
 | [run away](https://open.spotify.com/track/50JeCLOYeGSkZ1BfZVhDlW) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 4:00 | 2026-02-01 |  |
 | [RUNAROUND](https://open.spotify.com/track/7vIeWjMRYqgkJZBalVs6Dj) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [TuffLuckKid](https://open.spotify.com/artist/35Z9ISGpsxeonwsS63zNVN) | [RUNAROUND](https://open.spotify.com/album/1Oui1eGT7UEc8D3IMoLSfh) | 2:00 | 2025-07-28 |  |
 | [Runaway](https://open.spotify.com/track/12P912FtE9X2dWtZkhhs9z) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Runaway](https://open.spotify.com/album/6uN8P6tJ391RjfL1g7qaLi) | 2:26 | 2025-05-27 |  |
@@ -3764,6 +3766,7 @@
 | [sun&moon](https://open.spotify.com/track/1gmOkIOhtOu0NYfJ2NOJiB) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 3:41 | 2026-02-01 |  |
 | [Sunburn](https://open.spotify.com/track/0SFsQqSAU2FzW7h8ZLe7qv) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Sunburn](https://open.spotify.com/album/7D3U1gc3zT2RaPWGGniSEA) | 4:47 | 2026-07-03 |  |
 | [Sunday](https://open.spotify.com/track/1rBSCtZ1wkeFATpnZ9bTKL) | [Myqwan](https://open.spotify.com/artist/6Gnc30gwlxqy5XcHKAAdYW) | [Sunday](https://open.spotify.com/album/1KSuUHadYkDa2ofZWbQvjU) | 2:04 | 2025-10-07 |  |
+| [Sunless morning](https://open.spotify.com/track/6ZjdaZYsd2KaV0Cq7C55mq) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 3:45 | 2026-07-17 |  |
 | [Sunny Laxx \- Instrumental Version](https://open.spotify.com/track/4YsBNrob4b0iJqiEjKfZMj) | [Bryte London](https://open.spotify.com/artist/65cvaHkkZKLwKf59Iek0Z2) | [Can't please everyone \(Instrumental Versions\)](https://open.spotify.com/album/7cmbPn2zMRLL1gJf3UlTle) | 3:52 | 2025-07-02 |  |
 | [Sunrise](https://open.spotify.com/track/2s7VCqMcb8QGrV0EibS9Zn) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Sunrise](https://open.spotify.com/album/60QAGbK2rS6skUvNkOtyi1) | 2:00 | 2026-02-16 |  |
 | [Sunrise](https://open.spotify.com/track/7tl6dTehSZtwoaEVywqDUF) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:34 | 2025-09-26 |  |

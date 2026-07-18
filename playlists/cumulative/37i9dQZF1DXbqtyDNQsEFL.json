@@ -13911,24 +13911,6 @@
     },
     {
       "album": {
-        "name": "Love at Home (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI"
-      },
-      "artists": [
-        {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
-        }
-      ],
-      "date_added": "2026-07-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ"
-    },
-    {
-      "album": {
         "name": "Trust In God (Radio Version)",
         "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
       },
@@ -16054,6 +16036,24 @@
       "duration_ms": 295687,
       "name": "Your Presence",
       "url": "https://open.spotify.com/track/1ltbxXZhq2pdWcOmo8HXL6"
+    },
+    {
+      "album": {
+        "name": "Love at Home (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ol7Jkn0jCF53eT9ppXUzI"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ"
     },
     {
       "album": {

@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Mara",
+        "url": "https://open.spotify.com/album/7w0AHYLQo2xI7fPZ0JX9x4"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130718,
+      "name": "Fine by Me",
+      "url": "https://open.spotify.com/track/536ZOMd9Wevj5MnLuaYVKr"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3916RvUXnF5pTl3awG2yGM"
       },
@@ -5388,7 +5406,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 284784,
       "name": "Jump",
       "url": "https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr"
@@ -6410,6 +6428,24 @@
       "duration_ms": 248000,
       "name": "Make Your Move - TWO LANES Remix",
       "url": "https://open.spotify.com/track/1fI9rduG8LvIRmxu7d1hiN"
+    },
+    {
+      "album": {
+        "name": "Mara",
+        "url": "https://open.spotify.com/album/7w0AHYLQo2xI7fPZ0JX9x4"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179801,
+      "name": "Mara",
+      "url": "https://open.spotify.com/track/74yE8KUKjYd65ZaXOMc04B"
     },
     {
       "album": {
@@ -9578,7 +9614,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 191428,
       "name": "stay",
       "url": "https://open.spotify.com/track/1QLJZ0k0nRDlbKoTGtyKJQ"
@@ -10651,6 +10687,24 @@
     },
     {
       "album": {
+        "name": "Mara",
+        "url": "https://open.spotify.com/album/7w0AHYLQo2xI7fPZ0JX9x4"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158932,
+      "name": "Time Lock",
+      "url": "https://open.spotify.com/track/7aq5CiRtfio9wg0aaeTEr9"
+    },
+    {
+      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/4YGTju8vgSfd7unczk8PsE"
       },
@@ -11656,7 +11710,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 122509,
       "name": "White Flag Down",
       "url": "https://open.spotify.com/track/2lRP0VwAcpM25NJS1CCOUV"

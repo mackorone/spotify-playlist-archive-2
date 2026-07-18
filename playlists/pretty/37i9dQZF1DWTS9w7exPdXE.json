@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 167830,
+  "num_followers": 167929,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Adem",
-        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Het Regent Zonnestralen",
-      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Maak Me Gek",
         "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 182000,
       "name": "Maak Me Gek",
       "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Adem",
+        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Het Regent Zonnestralen",
+      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Ik Spaar Geen Centen",
-        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
-      },
-      "artists": [
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 166923,
-      "name": "Ik Spaar Geen Centen",
-      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 186799,
       "name": "(Die Man Is) Verliefd",
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Ik Spaar Geen Centen",
+        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 166923,
+      "name": "Ik Spaar Geen Centen",
+      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Drink Rode Wijn",
-        "url": "https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R"
-      },
-      "artists": [
-        {
-          "name": "Donny Ponsen",
-          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
-        }
-      ],
-      "duration_ms": 210530,
-      "name": "Drink Rode Wijn",
-      "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Geen Twijfel",
         "url": "https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 248093,
       "name": "Ik Heb De Hele Nacht Liggen Dromen",
       "url": "https://open.spotify.com/track/424Blek9ClYC97FV3muHqV"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Drink Rode Wijn",
+        "url": "https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R"
+      },
+      "artists": [
+        {
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+        }
+      ],
+      "duration_ms": 210530,
+      "name": "Drink Rode Wijn",
+      "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -927,22 +927,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Liever Te Dik In De Kist",
-        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
+        "name": "Gewoon Jannes",
+        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
       },
       "artists": [
         {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        },
-        {
-          "name": "Rene Karst",
-          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Liever Te Dik In De Kist",
-      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
+      "duration_ms": 207546,
+      "name": "Adio Amore Adio",
+      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -963,18 +959,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Gewoon Jannes",
-        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
+        "name": "Liever Te Dik In De Kist",
+        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
       },
       "artists": [
         {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Adio Amore Adio",
-      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
+      "duration_ms": 238000,
+      "name": "Liever Te Dik In De Kist",
+      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "'n Koffer Vol Met Dromen",
-        "url": "https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "De Woonboot",
-      "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Danny de Munk",
         "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 190553,
       "name": "Mijn Stad",
       "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "'n Koffer Vol Met Dromen",
+        "url": "https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "De Woonboot",
+      "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Haal Alles Uit Het Leven",
-        "url": "https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a"
-      },
-      "artists": [
-        {
-          "name": "Wolter Kroes",
-          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
-        }
-      ],
-      "duration_ms": 178868,
-      "name": "Haal Alles Uit Het Leven",
-      "url": "https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Want Jij",
         "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 182000,
       "name": "Want Jij",
       "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Haal Alles Uit Het Leven",
+        "url": "https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "duration_ms": 178868,
+      "name": "Haal Alles Uit Het Leven",
+      "url": "https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Zo Ben Ik Mezelf",
-        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
-      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Automatisch",
         "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Zo Ben Ik Mezelf",
+        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
+      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
     },
     {
       "added_at": "2026-06-17 07:46:41",

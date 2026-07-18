@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Fran Palermo",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Jazzbois",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -154,6 +154,28 @@
       "duration_ms": 216053,
       "name": "A Kertben",
       "url": "https://open.spotify.com/track/7jDj1BdFIde0uqufxQtqPV"
+    },
+    {
+      "album": {
+        "name": "A konyh\u00e1mban",
+        "url": "https://open.spotify.com/album/5t4Qe4MCYcrmV2K8i1xkzQ"
+      },
+      "artists": [
+        {
+          "name": "Heaven Street Seven",
+          "url": "https://open.spotify.com/artist/2NfoORdBTho3Y6Adi6VL5N"
+        },
+        {
+          "name": "Lovasi Andr\u00e1s",
+          "url": "https://open.spotify.com/artist/6a3d91IgC7l4A9JD9FQ6Ee"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "A konyh\u00e1mban",
+      "url": "https://open.spotify.com/track/0th4AC6L9rAw77BKpywev8"
     },
     {
       "album": {
@@ -372,7 +394,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
@@ -1194,7 +1216,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 171034,
       "name": "chill cheez brgr",
       "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
@@ -1983,6 +2005,28 @@
     },
     {
       "album": {
+        "name": "Jazzbois Around The World",
+        "url": "https://open.spotify.com/album/0NckwWyCO69wyU3JM7v3PN"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        },
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152984,
+      "name": "Escondites",
+      "url": "https://open.spotify.com/track/3eaTbDqn8wAbKvhbK2j0Nd"
+    },
+    {
+      "album": {
         "name": "SZ\u00c9THULLIKAVIL\u00c1G",
         "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
       },
@@ -2294,6 +2338,24 @@
       "duration_ms": 154000,
       "name": "Fordul\u00f3",
       "url": "https://open.spotify.com/track/0NkGd1MWU8TBL0jFB8TLz2"
+    },
+    {
+      "album": {
+        "name": "MURMUR",
+        "url": "https://open.spotify.com/album/5bjkk1xSQxpdLwkJQzfrKE"
+      },
+      "artists": [
+        {
+          "name": "Fran Palermo",
+          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216305,
+      "name": "FORK",
+      "url": "https://open.spotify.com/track/7Jajx3prPObBng9VqlIDAg"
     },
     {
       "album": {
@@ -2799,6 +2861,28 @@
     },
     {
       "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/0O2F6kshfznW7l4lyF0CCe"
+      },
+      "artists": [
+        {
+          "name": "Mark Zentai\u0308 ",
+          "url": "https://open.spotify.com/artist/0h3a2a9FOPPUEA5TaOfBHO"
+        },
+        {
+          "name": "Gege",
+          "url": "https://open.spotify.com/artist/38EesGcG4R51X2wGLcb9sd"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211116,
+      "name": "Hard",
+      "url": "https://open.spotify.com/track/7dWbFqGPNPcmRonNSiJXNq"
+    },
+    {
+      "album": {
         "name": "HARD TIMES",
         "url": "https://open.spotify.com/album/3OjnXHEZWMHZGha2zdEefx"
       },
@@ -2822,6 +2906,24 @@
       "duration_ms": 157073,
       "name": "HARD TIMES",
       "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
+    },
+    {
+      "album": {
+        "name": "Harmincvalah\u00e1ny",
+        "url": "https://open.spotify.com/album/48NeJ5HjTPHbp56HwP9dYW"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186021,
+      "name": "Harmincvalah\u00e1ny",
+      "url": "https://open.spotify.com/track/1YcmGlWobFYsT03A4I0kmE"
     },
     {
       "album": {
@@ -3212,7 +3314,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 164561,
       "name": "Itt vagyok",
       "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
@@ -5052,7 +5154,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 237525,
       "name": "M\u00daLT",
       "url": "https://open.spotify.com/track/0Q5YKaEMCIRVCseNxnrTKi"
@@ -5702,7 +5804,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 209449,
       "name": "plusz egy (+1)",
       "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
@@ -5914,7 +6016,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 205364,
       "name": "P\u00f6rg\u00f6k",
       "url": "https://open.spotify.com/track/4hpuAO8BvfGXZncYz6jobB"
@@ -7356,7 +7458,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161280,
       "name": "T\u00e9lbe \u00e1t",
       "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
@@ -7551,6 +7653,28 @@
     },
     {
       "album": {
+        "name": "Vadvir\u00e1g",
+        "url": "https://open.spotify.com/album/1Gw3DCeIDdhIBPv3TtRdFV"
+      },
+      "artists": [
+        {
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        },
+        {
+          "name": "UTAZ\u00d8",
+          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225203,
+      "name": "Vadvir\u00e1g",
+      "url": "https://open.spotify.com/track/3KH2XUm2Zybsd5Nt1l6vjW"
+    },
+    {
+      "album": {
         "name": "Vakrep\u00fcl\u00e9s",
         "url": "https://open.spotify.com/album/3tOAQIYf5zHRuxvg6qaIZ1"
       },
@@ -7562,7 +7686,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 155000,
       "name": "Vakrep\u00fcl\u00e9s",
       "url": "https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs"

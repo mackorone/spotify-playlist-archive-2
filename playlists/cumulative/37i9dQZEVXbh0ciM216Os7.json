@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 185770,
       "name": "2 Many Days",
       "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
@@ -4111,6 +4111,28 @@
     },
     {
       "album": {
+        "name": "Beard",
+        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/6GmUxZzoAdxuZBcVWq2Gpk"
+    },
+    {
+      "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
       },
@@ -6852,6 +6874,48 @@
       "duration_ms": 341233,
       "name": "Beyond Spiritual (feat. Wiz Khalifa, Big K.R.I.T. & Curren$y)",
       "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
+    },
+    {
+      "album": {
+        "name": "BHBC Roll Call (with Damn Skippy, Jarv, Wax, Nahte Renmus, Loser Chris, & DJ Hoppa)",
+        "url": "https://open.spotify.com/album/5Cbd7q9whHxCyODdJkESNE"
+      },
+      "artists": [
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        },
+        {
+          "name": "Damn Skippy",
+          "url": "https://open.spotify.com/artist/2uVoa0d4dequ0RVIR77R1h"
+        },
+        {
+          "name": "Jarv",
+          "url": "https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Nahte Renmus",
+          "url": "https://open.spotify.com/artist/2VsWY1RBuxyAR9VQmQTYH7"
+        },
+        {
+          "name": "Loser Chris",
+          "url": "https://open.spotify.com/artist/4nZfnh9MHwTbNsOoK0pqJg"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191847,
+      "name": "BHBC Roll Call (with Damn Skippy, Jarv, Wax, Nahte Renmus, Loser Chris, & DJ Hoppa)",
+      "url": "https://open.spotify.com/track/2JlqPVavOrsLol7HWN7wDR"
     },
     {
       "album": {
@@ -33871,6 +33935,52 @@
     },
     {
       "album": {
+        "name": "In a Silent Way Reimagined (Live at Big Ears)",
+        "url": "https://open.spotify.com/album/2c8PslweUITteZc6hbOsNm"
+      },
+      "artists": [
+        {
+          "name": "Joel Harrison",
+          "url": "https://open.spotify.com/artist/6BXA5FDonefcAe2hg4T7K5"
+        },
+        {
+          "name": "Brandon Seabrook",
+          "url": "https://open.spotify.com/artist/4ifJc3icwlell38NYGXpOb"
+        },
+        {
+          "name": "Sam Sadigursky",
+          "url": "https://open.spotify.com/artist/1rpWIEpiSSEibIl6pviQQp"
+        },
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        },
+        {
+          "name": "Jerome Harris",
+          "url": "https://open.spotify.com/artist/0BLhUsMlOfOupCibR5w3PE"
+        },
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Tim Keiper",
+          "url": "https://open.spotify.com/artist/1stHHjOFTWBdAsEUNRkWEu"
+        },
+        {
+          "name": "Silas the Soundmaker",
+          "url": "https://open.spotify.com/artist/1jer5VAaJCHrOdxtYpcGqX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2218040,
+      "name": "In a Silent Way / What About Time - Live at Big Ears",
+      "url": "https://open.spotify.com/track/15VTTCmsGg3eT5lszhYiQq"
+    },
+    {
+      "album": {
         "name": "In Case You Missed It",
         "url": "https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1"
       },
@@ -38272,7 +38382,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 177514,
       "name": "LAST BREATH (feat. Peso Pluma)",
       "url": "https://open.spotify.com/track/1ci8ZFaGfVbN8bgLhJwLad"
@@ -38624,6 +38734,24 @@
       "duration_ms": 168680,
       "name": "Learn The Hard Way",
       "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
+    },
+    {
+      "album": {
+        "name": "Leave (Get Out)",
+        "url": "https://open.spotify.com/album/1my8gamil8Wif5N92EeMkv"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201551,
+      "name": "Leave (Get Out)",
+      "url": "https://open.spotify.com/track/6Lue9MrOY1bv852jhqjwF7"
     },
     {
       "album": {
@@ -39032,6 +39160,24 @@
       "duration_ms": 199540,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/237yGWGEvX2phAuOgf7HHx"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222847,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
     },
     {
       "album": {
@@ -48980,7 +49126,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 158193,
       "name": "OK (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
@@ -54683,6 +54829,28 @@
     },
     {
       "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "pure colour (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/4BgZNZ8hKrfyU4jiCKoAIg"
+    },
+    {
+      "album": {
         "name": "Pure Sticker Shock",
         "url": "https://open.spotify.com/album/2jO64nIFS2PcB8YEw1P3I3"
       },
@@ -58462,6 +58630,28 @@
       "duration_ms": 191303,
       "name": "Satisfy - James Poole Remix",
       "url": "https://open.spotify.com/track/2HddjdBF8NcXFCfWmfvWZo"
+    },
+    {
+      "album": {
+        "name": "Too Too Bad",
+        "url": "https://open.spotify.com/album/5PHqWQBqM7GO5kVUKy0lZj"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160998,
+      "name": "Satisfy Me (feat. Ari Lennox)",
+      "url": "https://open.spotify.com/track/1K0xROvNycpdtPL8aynDAJ"
     },
     {
       "album": {
@@ -62448,7 +62638,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 366613,
       "name": "spacetime",
       "url": "https://open.spotify.com/track/4zqIZAE6tIaMT8duNWOG6F"
@@ -73406,7 +73596,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 222900,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/6l0InYggDci03fO4F4YMhX"
@@ -75950,6 +76140,28 @@
       "duration_ms": 227577,
       "name": "Weird Science (Metal Version)",
       "url": "https://open.spotify.com/track/37WT6TjrstrFC9T3To5zWU"
+    },
+    {
+      "album": {
+        "name": "Welcome the End",
+        "url": "https://open.spotify.com/album/4ai4El3CBrFkRXROwRumXA"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        },
+        {
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "Welcome the End",
+      "url": "https://open.spotify.com/track/4QaeezfKQ7M4EZvd44jvKb"
     },
     {
       "album": {

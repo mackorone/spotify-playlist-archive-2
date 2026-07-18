@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-145 songs - 10 hr 40 min
+146 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ave verum corpus](https://open.spotify.com/track/2EKkHZWiKLfR8IkMIBusia) | [Imant Raminsh](https://open.spotify.com/artist/1mlQZ15Ln9H92MBZKkR55p), [Toronto Mendelssohn Choir](https://open.spotify.com/artist/5XeUJAVEm6UfS2NXBFYP3c), [Jean\-Sébastien Vallée](https://open.spotify.com/artist/0eR1CZrl8eAm2YA7ITQzs9) | [Remember: 130 Years of Canadian Choral Music](https://open.spotify.com/album/2DBAywviAO72zZ0Gq2Eigq) | 6:39 | 2024-11-15 |  |
 | [Ave verum corpus, T\. 92](https://open.spotify.com/track/1T0oNhaeeEVAteA8qEQr3k) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Owain Park](https://open.spotify.com/artist/3sOOPbHn8MPZMvCvGDQnsQ), [The Gesualdo Six](https://open.spotify.com/artist/2z846SqjChnjieVgTfRq3X) | [Byrd: Mass for Five Voices; Ave verum corpus; Lamentations & Other Works](https://open.spotify.com/album/430CoEr5dr3N7cpcj0U2k1) | 4:28 | 2023-08-04 |  |
 | [Avinu Malkeinu \(Arr\. Clements for Cello & Vocal Ensemble\)](https://open.spotify.com/track/5VJ22a5qHT1G8l6cvkTcp3) | [Max Janowski](https://open.spotify.com/artist/14KCjJWz3Y7wrFNLqJeokA), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Janowski: Avinu Malkeinu \(Arr\. Clements for Cello & Vocal Ensemble\)](https://open.spotify.com/album/2R1DiKT7QzrJL9ZuAYXnx9) | 3:53 | 2024-11-15 |  |
+| [Bedrock \- choir version](https://open.spotify.com/track/2K463DEqOzEiOg2leYIgfX) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc), [Kliður](https://open.spotify.com/artist/3XOAKplBa51UQ75xsW918A) | [A Dawning \- choir versions](https://open.spotify.com/album/4j7w91k7htc0kTU7uSPm99) | 5:00 | 2026-07-17 |  |
 | [Behold, How Good and Joyful a Thing It Is](https://open.spotify.com/track/5Kxzfs48fcUr8UAiVx0Eno) | [Thomas Wilson](https://open.spotify.com/artist/0RAmhjC4kqohryWk0TrRhu), [The Choir of Peterhouse, Cambridge](https://open.spotify.com/artist/17SD2cyupoYCu6n5DzlzGw), [Simon Jackson](https://open.spotify.com/artist/2fg4bl3wS1zwWkSfhniJcn) | [Music from the Peterhouse Partbooks](https://open.spotify.com/album/3EWD1qdXOTjiKqcfMU7yzy) | 1:55 | 2025-09-12 |  |
 | [Benedictus](https://open.spotify.com/track/16EpFmtDYyQkaOXbDA4V8g) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ) | [Eventide](https://open.spotify.com/album/4rqufRRxh12mfN1K8IUxV8) | 3:10 | 2021-07-21 |  |
 | [Benedictus](https://open.spotify.com/track/26SmzgTzdqFjLbSm5BpKL4) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ) | [Work from Home with Chilled Choir](https://open.spotify.com/album/3k5bWKITwAZF4dsbG5Zi2E) | 3:10 | 2022-11-10 | 2022-11-13 |

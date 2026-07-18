@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX24CU0CSht4f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24CU0CSht4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX24CU0CSht4f)
 
-### [Sgt\. Frog](https://open.spotify.com/playlist/37i9dQZF1DX24CU0CSht4f)
+### [KERORO](https://open.spotify.com/playlist/37i9dQZF1DX24CU0CSht4f)
 
-> Enjoy the world of “Sgt\. Frog”!
+> Enjoy the world of “Sgt\. Frog”!　©吉崎観音／KADOKAWA・劇場版ケロロ軍曹製作委員会
 
 64 songs - 4 hr 16 min
 

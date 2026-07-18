@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 262345,
       "name": "Almahzala",
       "url": "https://open.spotify.com/track/6U8KgbZQ57P7cpzkOLL7va"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8772,7 +8772,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -15490,7 +15490,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 153923,
       "name": "La Cheyenne",
       "url": "https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd"
@@ -18130,7 +18130,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 235368,
       "name": "Maool",
       "url": "https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ"
@@ -33001,6 +33001,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0628\u0648\u0633 \u0627\u064a\u062f\u0643",
+        "url": "https://open.spotify.com/album/5iceaCiLdG8OUwYpopYnqW"
+      },
+      "artists": [
+        {
+          "name": "\u0642\u0627\u0626\u062f \u062d\u0644\u0645\u064a",
+          "url": "https://open.spotify.com/artist/0eQXS2LJu1Y0bADkIyzkS8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377393,
+      "name": "\u0627\u0628\u0648\u0633 \u0627\u064a\u062f\u0643",
+      "url": "https://open.spotify.com/track/50ZKfaD2FGJrZsVAp2wBt8"
+    },
+    {
+      "album": {
         "name": "\u0627\u062e\u062a\u064a\u0627\u0631\u0627\u062a\u064a (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0645\u0633\u062a\u0631 \u0625\u0643\u0633)",
         "url": "https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT"
       },
@@ -37568,7 +37586,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 348003,
       "name": "\u0648\u064a\u0646 \u0635\u0631\u062a\u064a",
       "url": "https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw"
@@ -37770,7 +37788,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 301055,
       "name": "\u064a\u0627 \u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/0w5rkuD14HJGWmoXu60WgN"

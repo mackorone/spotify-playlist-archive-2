@@ -1,13 +1,41 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123514,
+  "num_followers": 123503,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVlC+BV4GUc5atI9v34OK5u/vYajof",
+  "snapshot_id": "AAAVlfbkARlzXF1S6jz+4A+MyaoggM4X",
   "tracks": [
+    {
+      "added_at": "2026-07-17 15:01:24",
+      "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/1HbxyMY0nIc5irTOpPXYU2"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/2XvCUARbXSwjGRcnZcae8n"
+    },
     {
       "added_at": "2026-07-16 14:59:14",
       "album": {

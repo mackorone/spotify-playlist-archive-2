@@ -1,12 +1,12 @@
 {
   "description": "New music from Gracie Abrams, beabadoobee, Eric Chou, Ismail Izzani, Noh Salleh, Aina Abdul , \u8521\u6069\u96e8 Priscilla Abby, and more!",
-  "num_followers": 75452,
+  "num_followers": 75550,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtHr+53rFMapSAtanxtV2LHabMe",
+  "snapshot_id": "AAAAAOLh6DWRBpmN/stActyW9LygBEXH",
   "tracks": [
     {
       "added_at": "2026-07-16 16:14:44",
@@ -267,6 +267,22 @@
       "duration_ms": 252185,
       "name": "After All",
       "url": "https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ"
+    },
+    {
+      "added_at": "2026-07-16 16:14:44",
+      "album": {
+        "name": "CHAT",
+        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "CHAT",
+      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
     },
     {
       "added_at": "2026-07-16 16:14:44",
@@ -901,6 +917,22 @@
       "url": "https://open.spotify.com/track/5pqh7t3u55buLeYgE9eXgz"
     },
     {
+      "added_at": "2026-07-17 09:05:20",
+      "album": {
+        "name": "Spring, Summer, Fall, Winter",
+        "url": "https://open.spotify.com/album/1b5bGCxyUEKi27oSXRCwSw"
+      },
+      "artists": [
+        {
+          "name": "WONWOO",
+          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Spring, Summer, Fall, Winter (Korean Ver.)",
+      "url": "https://open.spotify.com/track/4KDr3ViGsomHd9cZJsgZDh"
+    },
+    {
       "added_at": "2026-07-16 16:14:44",
       "album": {
         "name": "Love Sick (narr. Lee Moon Sae)",
@@ -1012,8 +1044,8 @@
           "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 246803,
+      "name": "Million Different Reasons",
       "url": "https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM"
     },
     {
@@ -1215,22 +1247,6 @@
     {
       "added_at": "2026-07-16 16:14:44",
       "album": {
-        "name": "Love In Reverse (Unwound)",
-        "url": "https://open.spotify.com/album/3sioAiA4LogZ0efvQ9zTsD"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 204201,
-      "name": "Love In Reverse - Unwound",
-      "url": "https://open.spotify.com/track/4mbe9NU1iZ3JW6KAUYMDug"
-    },
-    {
-      "added_at": "2026-07-16 16:14:44",
-      "album": {
         "name": "Tomorrow the sun won't rise",
         "url": "https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7"
       },
@@ -1238,6 +1254,14 @@
         {
           "name": "Powfu",
           "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        },
+        {
+          "name": "evertree",
+          "url": "https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6"
         }
       ],
       "duration_ms": 162750,

@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
@@ -3136,6 +3136,24 @@
       "duration_ms": 183183,
       "name": "Garde le nord",
       "url": "https://open.spotify.com/track/4TAMqukJfBGUI2KEkc3HSu"
+    },
+    {
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129204,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
     },
     {
       "album": {
@@ -8486,7 +8504,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 225998,
       "name": "Quand vient le soir",
       "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
@@ -8812,6 +8830,24 @@
       "duration_ms": 270924,
       "name": "Rivi\u00e8res",
       "url": "https://open.spotify.com/track/626wM6eSCWmJZFHWpG2d1o"
+    },
+    {
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/0Sq4am2UiAqBgdCZLDlrBb"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289733,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/3DbBNZvZ4diIcuUimNEkbQ"
     },
     {
       "album": {
@@ -9492,6 +9528,24 @@
       "duration_ms": 250747,
       "name": "Sun and Time",
       "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
+    },
+    {
+      "album": {
+        "name": "Sunday in New York",
+        "url": "https://open.spotify.com/album/6HuzewiESaNDYpetEp7iN4"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213065,
+      "name": "Sunday in New York",
+      "url": "https://open.spotify.com/track/41T2v6LbMi2D4ah3dgt9hI"
     },
     {
       "album": {
@@ -11324,7 +11378,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 223689,
       "name": "Ya s\u00e9 ya s\u00e9",
       "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"

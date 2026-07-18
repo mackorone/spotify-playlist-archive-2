@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 10391,
+  "num_followers": 10401,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAAPnNDjzfA0vyVQkOdpc+wR",
+  "snapshot_id": "algfAAAAAAAMSVDpe0KQb7PSK66LglFn",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "YEARNALISM",
+        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/5jMgUW0jGeKT5Jzm8rqf9R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honour / I Want In",
         "url": "https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli"
       },
@@ -227,22 +247,6 @@
       "duration_ms": 246491,
       "name": "I Want In",
       "url": "https://open.spotify.com/track/58OYkYalN6lTulISeBYz64"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sounds for someone",
-        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 169171,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/0WAFfVSUu7ynXpg8zM5aUw"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "YEARNALISM",
-        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
       },
       "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 196821,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/5jMgUW0jGeKT5Jzm8rqf9R"
+      "duration_ms": 169171,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0WAFfVSUu7ynXpg8zM5aUw"
     },
     {
       "added_at": null,
@@ -303,42 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "sounds for someone",
-        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 234469,
-      "name": "Light By The Window",
-      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 165431,
-      "name": "Different Too",
-      "url": "https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marking My Time (BADBADNOTGOOD Edit)",
         "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
       },
@@ -359,6 +323,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 165431,
+      "name": "Different Too",
+      "url": "https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 234469,
+      "name": "Light By The Window",
+      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Deported",
         "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
@@ -371,38 +371,6 @@
       "duration_ms": 167240,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sounds for someone",
-        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 165703,
-      "name": "Time Doesn\u2019t Heal",
-      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 144672,
-      "name": "Dull Jewellery",
-      "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
     },
     {
       "added_at": null,
@@ -423,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From 525",
-        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
       "artists": [
         {
@@ -432,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 241546,
-      "name": "Over You By Now - Live From 525",
-      "url": "https://open.spotify.com/track/5l5C8OH7yxyCvUVlAJIZvi"
+      "duration_ms": 144672,
+      "name": "Dull Jewellery",
+      "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
     },
     {
       "added_at": null,
@@ -448,15 +416,15 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 180734,
-      "name": "Saviour",
-      "url": "https://open.spotify.com/track/181XIyJMPKxgFkSIs0lboa"
+      "duration_ms": 165703,
+      "name": "Time Doesn\u2019t Heal",
+      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+        "name": "Live From 525",
+        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
       },
       "artists": [
         {
@@ -464,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 237431,
-      "name": "Give Me A Smile",
-      "url": "https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl"
+      "duration_ms": 241546,
+      "name": "Over You By Now - Live From 525",
+      "url": "https://open.spotify.com/track/5l5C8OH7yxyCvUVlAJIZvi"
     },
     {
       "added_at": null,
@@ -487,6 +455,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 237431,
+      "name": "Give Me A Smile",
+      "url": "https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 180734,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/181XIyJMPKxgFkSIs0lboa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAROLD",
         "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 274400,
       "name": "Pool (feat. Elmiene)",
       "url": "https://open.spotify.com/track/0csHRGsK3gKsERufowurNK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 247480,
+      "name": "Ode To Win",
+      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 247480,
-      "name": "Ode To Win",
-      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anyways",
         "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anyway I Can",
         "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 115680,
       "name": "Dark Out (Season of Thieves)",
       "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
     },
     {
       "added_at": null,

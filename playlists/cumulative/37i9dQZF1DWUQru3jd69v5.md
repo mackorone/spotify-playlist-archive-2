@@ -4,7 +4,7 @@
 
 > 10k watt e rooc lee in cover della playlist con il futuro del rap italiano 📈
 
-2,542 songs - 4 day 11 hr 17 min
+2,544 songs - 4 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1138,6 +1138,7 @@
 | [Killas](https://open.spotify.com/track/77tDrwfL69KzqnpmwASI06) | [Datkid](https://open.spotify.com/artist/0mrS7wImQSucxAJWj22pe2) | [Killas](https://open.spotify.com/album/0gIc2XkMBCnlp47ZY5x2oZ) | 2:04 | 2026-05-21 | 2026-06-26 |
 | [KILLER](https://open.spotify.com/track/6UHiMQV7R6N9GHFKpYIiw3) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [KILLER](https://open.spotify.com/album/0TcilQFUp2BCdr7c4wwpsa) | 2:40 | 2025-02-06 | 2025-02-21 |
 | [Killshot](https://open.spotify.com/track/7MvItCGlJ217NPmGUZv0Yd) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx) | [Killshot](https://open.spotify.com/album/4oLnUt41zlJjNA3wRJzX8n) | 2:05 | 2023-02-23 | 2023-03-10 |
+| [KILO](https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [KILO](https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji) | 1:49 | 2026-07-17 |  |
 | [King Lear \(feat\. Sosa Priority\)](https://open.spotify.com/track/3a0vrvEAGekzkhOOSThSXf) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc) | [King Lear \(feat\. Sosa Priority\)](https://open.spotify.com/album/55W4E57GDqaj230a2TFqXP) | 2:31 | 2022-06-16 | 2022-08-24 |
 | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/track/7bFnwrQazGOL4vvabrlbEJ) | [Lenny Delicious](https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/album/0aNQyscRPmeCuZ21vzppOM) | 2:34 | 2025-06-19 | 2025-07-18 |
 | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/track/6cMM2WlzIRklPTWgyzMlQx) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [KISS KISS \(feat\. Ghali, Tony Boy\)](https://open.spotify.com/album/4dGzzSFdxg0hNp4QG1JrmC) | 2:32 | 2024-03-07 | 2024-05-03 |
@@ -1540,6 +1541,7 @@
 | [Night](https://open.spotify.com/track/2Bvyca0aDAMdryhprXWLtb) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [HOOD LOVE EP](https://open.spotify.com/album/6Kfl6xvN8rcTKcZdlz2z5T) | 2:38 | 2024-03-07 | 2024-04-04 |
 | [NIKE \(feat\. Tony Boy, Digital Astro\)](https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 2:40 | 2023-05-11 | 2023-07-21 |
 | [Nike e Gucci II \(feat\. Promessa\)](https://open.spotify.com/track/0TBfNWCVIhcW33CeahKjYF) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [Lounge Music](https://open.spotify.com/album/5aVWqLmy2pzgI0OYfwefKs) | 2:44 | 2026-05-28 |  |
+| [NIKE SPORCHE](https://open.spotify.com/track/1Xuf4POjUz46D0BtZIaTUn) | [3XVM](https://open.spotify.com/artist/2Tom8bB9e1wKSx3CUNDJWe) | [NIKE SPORCHE](https://open.spotify.com/album/0LMOcsBMe5BtF4n0xJI0Uw) | 3:04 | 2026-07-17 |  |
 | [Nme](https://open.spotify.com/track/6VrAWtlbVpcbDTfvnqDDE2) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [Ngaaka Blinde](https://open.spotify.com/artist/6JBweZ5NTBmZ8rJhDrb902) | [Nme](https://open.spotify.com/album/1zciW0jZ81O6sslkqDkkNb) | 3:32 | 2023-07-06 | 2023-07-27 |
 | [Nn è un gioco](https://open.spotify.com/track/2w8ejXsrVLaPDNvICPPqN4) | [tretreaura](https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN), [Olli](https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi) | [Nn è un gioco](https://open.spotify.com/album/5FZJHTqQMII1mkUbZ0ToT5) | 1:45 | 2026-01-01 | 2026-01-23 |
 | [NO $KIP \(feat\. Cimo\)](https://open.spotify.com/track/1QKed6RGn5Z8JhhBBW89ms) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [NO $KIP \(feat\. Cimo\)](https://open.spotify.com/album/1I5V2Hw4Aeww8nnmmdIXTq) | 2:09 | 2024-03-07 | 2024-03-19 |

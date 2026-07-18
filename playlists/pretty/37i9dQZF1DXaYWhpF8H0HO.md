@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Jordan Susanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,633 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,647 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 9](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 0:00 |
+| 1 | [Million Different Reasons](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 4:06 |
 | 2 | [facing the unknown](https://open.spotify.com/track/2RvGG1EHGxj5Cggdnbedue) | [remi the duo](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [facing the unknown](https://open.spotify.com/album/5nmJA0zYQkJfv2Cc9ANsyP) | 3:21 |
 | 3 | [good alone](https://open.spotify.com/track/3HVYuqKJkSrLuYOFJo1lZl) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [good alone](https://open.spotify.com/album/0SejVi1GrnIliqjp32Dpmb) | 2:43 |
 | 4 | [Have You Ever?](https://open.spotify.com/track/6CWqqGSSyQ2dGBcLmgJj70) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Have You Ever?](https://open.spotify.com/album/3UAXaCH6xU9reI2CYwVcYK) | 5:02 |

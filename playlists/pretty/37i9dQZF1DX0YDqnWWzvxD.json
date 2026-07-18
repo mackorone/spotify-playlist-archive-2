@@ -1,6 +1,6 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 297560,
+  "num_followers": 297672,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
     },
     {
-      "added_at": "2023-12-01 09:10:43",
-      "album": {
-        "name": "Core Of The Truth",
-        "url": "https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS"
-      },
-      "artists": [
-        {
-          "name": "Dhyaan Sangeet",
-          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
-        }
-      ],
-      "duration_ms": 206184,
-      "name": "Core Of The Truth",
-      "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "The Healing Process",
@@ -235,6 +219,22 @@
       "duration_ms": 161442,
       "name": "The Healing Process",
       "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
+    },
+    {
+      "added_at": "2023-12-01 09:10:43",
+      "album": {
+        "name": "Core Of The Truth",
+        "url": "https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS"
+      },
+      "artists": [
+        {
+          "name": "Dhyaan Sangeet",
+          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
+        }
+      ],
+      "duration_ms": 206184,
+      "name": "Core Of The Truth",
+      "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Endless Nights",
+        "url": "https://open.spotify.com/album/39G4Sh25irfylUiwli0abu"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Endless Nights",
+      "url": "https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Benny Bernstein",
         "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Endless Nights",
-        "url": "https://open.spotify.com/album/39G4Sh25irfylUiwli0abu"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Endless Nights",
-      "url": "https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pads of Redemption",
         "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
       },
       "artists": [
         {
-          "name": "Steve Gorn",
-          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
         }
       ],
-      "duration_ms": 332333,
-      "name": "At Ease",
-      "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
+      },
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "At Ease",
+      "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Surya Namaskar",
         "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 918750,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Dawn Dusk Divinity",
-      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
     },
     {
       "added_at": "2023-12-01 09:10:43",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 165920,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Savasana",
         "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 131284,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 165920,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "E T",
-        "url": "https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd"
-      },
-      "artists": [
-        {
-          "name": "Intentional Vibes",
-          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
-        }
-      ],
-      "duration_ms": 226363,
-      "name": "...There You Are!",
-      "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
-    },
-    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "Sacred Breath",
@@ -811,6 +795,38 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "E T",
+        "url": "https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "duration_ms": 226363,
+      "name": "...There You Are!",
+      "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Indian Equanimous Repose",
+        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
+      },
+      "artists": [
+        {
+          "name": "Selene Noor",
+          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
+        }
+      ],
+      "duration_ms": 221799,
+      "name": "Soft Native Flute",
+      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Breathing Space",
         "url": "https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 571453,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Moon Descent Introspection",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
-      },
-      "artists": [
-        {
-          "name": "Selene Noor",
-          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
-        }
-      ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep The Slow Fade",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -891,6 +891,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Moon Descent Introspection",
+        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+      },
+      "artists": [
+        {
+          "name": "Selene Noor",
+          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
+        }
+      ],
+      "duration_ms": 229927,
+      "name": "Breath Exercises for Deep The Slow Fade",
+      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Bedside Angels",
         "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 134504,
       "name": "Bedside Angels",
       "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Indian Equanimous Repose",
-        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
-      },
-      "artists": [
-        {
-          "name": "Selene Noor",
-          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
-        }
-      ],
-      "duration_ms": 221799,
-      "name": "Soft Native Flute",
-      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Jupiter Grains",
-        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Meditation: Soft Mindfulness",
-      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Yoga Music",
         "url": "https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 335766,
       "name": "Healing",
       "url": "https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Jupiter Grains",
+        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "Meditation: Soft Mindfulness",
+      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Hyper Focus",
-        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 203555,
-      "name": "Attention Caller",
-      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
-    },
-    {
       "added_at": "2025-02-06 10:03:27",
       "album": {
         "name": "Trinity",
@@ -1247,6 +1231,22 @@
       "duration_ms": 330000,
       "name": "Swasa",
       "url": "https://open.spotify.com/track/5W8G3QUUFXMhe1RpYR40ms"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Hyper Focus",
+        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 203555,
+      "name": "Attention Caller",
+      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms"
     },
     {
-      "added_at": "2023-06-27 05:36:24",
-      "album": {
-        "name": "Beauty of Hope",
-        "url": "https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Ramos",
-          "url": "https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz"
-        }
-      ],
-      "duration_ms": 160374,
-      "name": "Beauty of Hope",
-      "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
-    },
-    {
       "added_at": "2025-02-06 10:03:27",
       "album": {
         "name": "Trinity",
@@ -1331,6 +1315,22 @@
       "duration_ms": 304000,
       "name": "Poornam",
       "url": "https://open.spotify.com/track/7JRb8YV4LFbRv0ULSw1Qjs"
+    },
+    {
+      "added_at": "2023-06-27 05:36:24",
+      "album": {
+        "name": "Beauty of Hope",
+        "url": "https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Ramos",
+          "url": "https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz"
+        }
+      ],
+      "duration_ms": 160374,
+      "name": "Beauty of Hope",
+      "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
     },
     {
       "added_at": "2021-06-15 08:38:14",

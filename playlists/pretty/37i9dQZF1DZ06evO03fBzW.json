@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 122232,
+  "num_followers": 122247,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAADG7lYsU8zSH3jopkqJFK+v",
+  "snapshot_id": "algfAAAAAAAzgiT72O/gv/U7sFX06k3N",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/5ECMRJbRlj0FZRg9cRg94m"
+      "duration_ms": 242800,
+      "name": "Bathwater",
+      "url": "https://open.spotify.com/track/3xbZU7KENdHZrX99VDNGwx"
     },
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 242800,
-      "name": "Bathwater",
-      "url": "https://open.spotify.com/track/3xbZU7KENdHZrX99VDNGwx"
+      "duration_ms": 212400,
+      "name": "Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/5ECMRJbRlj0FZRg9cRg94m"
     },
     {
       "added_at": null,

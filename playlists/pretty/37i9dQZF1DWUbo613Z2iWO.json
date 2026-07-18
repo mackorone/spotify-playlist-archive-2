@@ -1,29 +1,13 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: nomi.",
-  "num_followers": 59720,
+  "description": "R&B of the moment by the artists of the future. Cover: Amaria",
+  "num_followers": 59728,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGuXmrryJm3kurNBGiF1CzUEw8nv",
+  "snapshot_id": "AAAAAHH2ZYNWeHVviQ9vpmyEztK7fbJ3",
   "tracks": [
-    {
-      "added_at": "2026-07-10 05:29:33",
-      "album": {
-        "name": "what u want",
-        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 165652,
-      "name": "what u want",
-      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
-    },
     {
       "added_at": "2026-07-10 05:29:33",
       "album": {
@@ -41,6 +25,38 @@
       "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
     },
     {
+      "added_at": "2026-07-10 05:29:33",
+      "album": {
+        "name": "what u want",
+        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 165652,
+      "name": "what u want",
+      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/3rhEkxqugYGVqkiGapPZ7N"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 148178,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y"
+    },
+    {
       "added_at": "2026-06-26 05:40:08",
       "album": {
         "name": "Miss Mango",
@@ -55,6 +71,38 @@
       "duration_ms": 228387,
       "name": "Miss Mango",
       "url": "https://open.spotify.com/track/01Oj3UlTK3YAuJwf1AY3qV"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "duration_ms": 130068,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
     },
     {
       "added_at": "2026-06-19 04:01:58",
@@ -95,6 +143,46 @@
       "duration_ms": 212221,
       "name": "Coming Home (with G Herbo)",
       "url": "https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "I Like It",
+        "url": "https://open.spotify.com/album/0kobuTWXZAe2LoxuiE0xJ9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        },
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 204303,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "DUMBCRAZYSTUPID (Deluxe)",
+        "url": "https://open.spotify.com/album/4nxDOlPHCqcgrIvYksn12N"
+      },
+      "artists": [
+        {
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+        },
+        {
+          "name": "Landstrip Chip",
+          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
+        }
+      ],
+      "duration_ms": 162023,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm"
     },
     {
       "added_at": "2026-07-10 05:29:33",
@@ -153,6 +241,38 @@
       "url": "https://open.spotify.com/track/7ulFPy4VMUEYnC0c2vYlZm"
     },
     {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "COMMUNICATION",
+        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "COMMUNICATION",
+      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "Tit 4 Tat",
+        "url": "https://open.spotify.com/album/39xXEZ6T8Tcl2bsnd92MMR"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Tit 4 Tat",
+      "url": "https://open.spotify.com/track/1A51S6aWOo0yjkU8U7RwzO"
+    },
+    {
       "added_at": "2026-07-10 05:29:33",
       "album": {
         "name": "Twenty Something",
@@ -167,6 +287,38 @@
       "duration_ms": 171400,
       "name": "Stuck In Sixteen",
       "url": "https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 154754,
+      "name": "LEMONS",
+      "url": "https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/7v8HsW73eimpHbkFajmNzV"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA"
     },
     {
       "added_at": "2026-06-26 05:40:08",
@@ -199,6 +351,54 @@
       "duration_ms": 174287,
       "name": "RAX",
       "url": "https://open.spotify.com/track/0G6tAQnK1t8EWKCBZYYRph"
+    },
+    {
+      "added_at": "2026-06-12 05:12:18",
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
+    },
+    {
+      "added_at": "2026-07-10 05:29:33",
+      "album": {
+        "name": "Sweet n\u2019 Sour",
+        "url": "https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 157683,
+      "name": "Sweet n\u2019 Sour",
+      "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "Champagne & Lace",
+        "url": "https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 158816,
+      "name": "Champagne & Lace",
+      "url": "https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn"
     },
     {
       "added_at": "2026-06-26 05:40:08",
@@ -241,6 +441,22 @@
       "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
     },
     {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "if i'm being honest",
+        "url": "https://open.spotify.com/album/5n84sWXzuClhbDcJzydleo"
+      },
+      "artists": [
+        {
+          "name": "Dame Atlas",
+          "url": "https://open.spotify.com/artist/6KzA7YJ7DBDzaQMT9eq0xR"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "high horse",
+      "url": "https://open.spotify.com/track/25Fgryvfcz82BzMZrviqbU"
+    },
+    {
       "added_at": "2026-06-26 05:40:08",
       "album": {
         "name": "PushPlay",
@@ -255,38 +471,6 @@
       "duration_ms": 169630,
       "name": "PushPlay",
       "url": "https://open.spotify.com/track/6ziVvzCJejkyZ75nncyvel"
-    },
-    {
-      "added_at": "2026-06-12 05:12:18",
-      "album": {
-        "name": "FIRE BURNIN' THRU THE RAIN",
-        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167394,
-      "name": "FIRE BURNIN' THRU THE RAIN",
-      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
-    },
-    {
-      "added_at": "2026-07-10 05:29:33",
-      "album": {
-        "name": "Sweet n\u2019 Sour",
-        "url": "https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 157683,
-      "name": "Sweet n\u2019 Sour",
-      "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
     },
     {
       "added_at": "2026-06-05 04:01:54",
@@ -551,22 +735,6 @@
       "duration_ms": 232320,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
-    },
-    {
-      "added_at": "2026-06-26 05:40:08",
-      "album": {
-        "name": "So Close",
-        "url": "https://open.spotify.com/album/15uNXPTHlPpVGvP9eOtlDc"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 168669,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/44kxg6qcq8kOSE7D888zGD"
     },
     {
       "added_at": "2026-06-19 04:01:58",
@@ -2239,22 +2407,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/7asQi6ABuMJaubEiykeq3l"
-      },
-      "artists": [
-        {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/1ukZdmbOo4MeK64kvpT3Gh"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Love or a Lesson",
         "url": "https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH"
       },
@@ -2555,22 +2707,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "The Fix",
-        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "The Fix",
-      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Gemini Eyes",
         "url": "https://open.spotify.com/album/6v9iRVS2E9epoj2xr1c2tL"
       },
@@ -2711,22 +2847,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "911!",
-        "url": "https://open.spotify.com/album/0795ydA0SHGE3tgsCPPdOQ"
-      },
-      "artists": [
-        {
-          "name": "We The Band",
-          "url": "https://open.spotify.com/artist/4DLWXl0N5JnZRnMu7gddI0"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "911!",
-      "url": "https://open.spotify.com/track/05PnaWvrK404HXfHiVi6P3"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Ordinary Feelings",
         "url": "https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb"
       },
@@ -2755,22 +2875,6 @@
       "duration_ms": 176316,
       "name": "Miss That",
       "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "FLAMED UP",
-        "url": "https://open.spotify.com/album/6CcPRqZ6Od7auN3pIvyzmX"
-      },
-      "artists": [
-        {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "FLAMED UP",
-      "url": "https://open.spotify.com/track/32fiJGuNuLRkBv7s3jyr2o"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2923,22 +3027,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/1ch8qxU1pN8ntH9y3WN82x"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/3BCcONCqfKFuF2RtRLZj0V"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
       },
@@ -2987,22 +3075,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/2fyeGCncCmMTDjbjxWOag9"
-      },
-      "artists": [
-        {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
-        }
-      ],
-      "duration_ms": 152020,
-      "name": "No Sikes, No Tradesies",
-      "url": "https://open.spotify.com/track/2jxhMpIYepmo5asrPxTOcQ"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Show You Right",
         "url": "https://open.spotify.com/album/24d2ySFBxwZdMOoLBoktPV"
       },
@@ -3047,22 +3119,6 @@
       "duration_ms": 179146,
       "name": "Things We Do",
       "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Bet",
-        "url": "https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 122033,
-      "name": "Bet",
-      "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3135,22 +3191,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Walking Dead",
-        "url": "https://open.spotify.com/album/7LLHzHDkDDTjqukNhjaE3d"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/7oIRCIarI1IXl3DXjLeYRy"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "keepsake",
         "url": "https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS"
       },
@@ -3207,38 +3247,6 @@
       "duration_ms": 123412,
       "name": "CAN'T FIND HER",
       "url": "https://open.spotify.com/track/2lOgVpqPPfaK4I0ukHByzr"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 186716,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/1sOuWg2UVd11bVykUCDQ0E"
-      },
-      "artists": [
-        {
-          "name": "Qui",
-          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
-        }
-      ],
-      "duration_ms": 104020,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/5oPmBiPFQWgQmMdKDoojS2"
     },
     {
       "added_at": "2026-05-29 04:02:53",

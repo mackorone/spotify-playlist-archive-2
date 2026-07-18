@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 64283,
+  "num_followers": 64278,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
+        "name": "Bucks Fizz",
+        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
+      },
+      "artists": [
+        {
+          "name": "Bucks Fizz",
+          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "Making Your Mind Up",
+      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
-        "name": "Bucks Fizz",
-        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
-      },
-      "artists": [
-        {
-          "name": "Bucks Fizz",
-          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
-        }
-      ],
-      "duration_ms": 158440,
-      "name": "Making Your Mind Up",
-      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "Grand Prix - Greatest Hits",
-        "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
-      },
-      "artists": [
-        {
-          "name": "The Eurosingers",
-          "url": "https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb"
-        }
-      ],
-      "duration_ms": 181355,
-      "name": "A-Ba-Ni-Bi - 1978, Israel",
-      "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Echoes (International Special Edition)",
         "url": "https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 183520,
       "name": "Echo (You and I)",
       "url": "https://open.spotify.com/track/1iqnkBWge47Yhboceuceas"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "Grand Prix - Greatest Hits",
+        "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
+      },
+      "artists": [
+        {
+          "name": "The Eurosingers",
+          "url": "https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb"
+        }
+      ],
+      "duration_ms": 181355,
+      "name": "A-Ba-Ni-Bi - 1978, Israel",
+      "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
     },
     {
       "added_at": "2025-03-14 16:58:53",

@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110008,
+  "num_followers": 110035,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -367,30 +367,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Ondernemer",
-        "url": "https://open.spotify.com/album/2gybXUjEyAWl79Nb1vbj4v"
+        "name": "Jonathan",
+        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
       },
       "artists": [
         {
-          "name": "WAWA",
-          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         },
         {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Ondernemer",
-      "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
+      "duration_ms": 205243,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -431,22 +423,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Jonathan",
-        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
+        "name": "Ondernemer",
+        "url": "https://open.spotify.com/album/2gybXUjEyAWl79Nb1vbj4v"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "WAWA",
+          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
         }
       ],
-      "duration_ms": 205243,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
+      "duration_ms": 173400,
+      "name": "Ondernemer",
+      "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "HIT-SIG",
-        "url": "https://open.spotify.com/album/0d3bCQl6iYxeKQAomdJnZp"
-      },
-      "artists": [
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        },
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        },
-        {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Ai",
-      "url": "https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gimma",
         "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 148428,
       "name": "Waarom Zoeken Naar Liefde",
       "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "HIT-SIG",
+        "url": "https://open.spotify.com/album/0d3bCQl6iYxeKQAomdJnZp"
+      },
+      "artists": [
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        }
+      ],
+      "duration_ms": 179277,
+      "name": "Ai",
+      "url": "https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "501",
-        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
-      },
-      "artists": [
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 127592,
-      "name": "501",
-      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Dashawn",
         "url": "https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 167184,
       "name": "Chemistry (feat. Mula B)",
       "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "501",
+        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 127592,
+      "name": "501",
+      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "We Doen Ons Best",
+        "url": "https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Niet Zo",
+      "url": "https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Paper Zien (Remix)",
         "url": "https://open.spotify.com/album/6a8CFoI8oEjQB78dDryCF3"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 248823,
       "name": "Paper Zien - Remix",
       "url": "https://open.spotify.com/track/1YnCInissFkmQTfZv3k2mT"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "We Doen Ons Best",
-        "url": "https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Niet Zo",
-      "url": "https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 243024,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Reloaded",
         "url": "https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu"
       },
@@ -1579,6 +1555,30 @@
       "duration_ms": 184421,
       "name": "Op De Weg (feat. Adje & CHO)",
       "url": "https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 243024,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Give Dem",
-        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 189757,
-      "name": "Give Dem",
-      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Op en Neer",
         "url": "https://open.spotify.com/album/2K2Jya77c2tHXPMRNuT8bl"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 187470,
       "name": "Op en Neer",
       "url": "https://open.spotify.com/track/6ASXDkfwJWkwfIUvXVXP5s"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Give Dem",
+        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 189757,
+      "name": "Give Dem",
+      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",

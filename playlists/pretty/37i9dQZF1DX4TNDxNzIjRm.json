@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1282786,
+  "num_followers": 1282630,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
-        "name": "La Vida Era M\u00e1s Corta",
-        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Gil",
-      "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Gil",
+      "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "/Turistico",
-      "url": "https://open.spotify.com/track/2vzf4z67gX8v7MntugFLXx"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
         "name": "TUCHAT",
         "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221224,
       "name": "TUCHAT",
       "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "/Turistico",
+      "url": "https://open.spotify.com/track/2vzf4z67gX8v7MntugFLXx"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/3P5a4yDyIT6q8ZsX7z2Qid"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 210576,
       "name": "Pasajero",
       "url": "https://open.spotify.com/track/5wPTk2TCDDuQRfqkZukWnk"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
       },
       "artists": [
         {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -1415,22 +1411,6 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
         "name": "0%",
         "url": "https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 173666,
       "name": "0%",
       "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
+        "name": "SCORPIO",
+        "url": "https://open.spotify.com/album/63lPDlkhYUJdGIfInXAosy"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 227956,
+      "name": "SCORPIO",
+      "url": "https://open.spotify.com/track/4in4IMI3h8LIwawCha3JAv"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
         "name": "LOS CACORROS USAN KLEIMOND",
         "url": "https://open.spotify.com/album/2cwKNb3KXIcndDJeEzBi1N"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 135998,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
-        "name": "SCORPIO",
-        "url": "https://open.spotify.com/album/63lPDlkhYUJdGIfInXAosy"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 227956,
-      "name": "SCORPIO",
-      "url": "https://open.spotify.com/track/4in4IMI3h8LIwawCha3JAv"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
+        "name": "Cosas de Enamorao",
+        "url": "https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 159663,
+      "name": "Cosas de Enamorao",
+      "url": "https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
         "name": "AMIMA",
         "url": "https://open.spotify.com/album/3N1xTZlEDsLJb5egIrOJ6M"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 139971,
       "name": "AMIMA",
       "url": "https://open.spotify.com/track/3QUT04HjzHWo2kWMNuT6EM"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
-        "name": "Cosas de Enamorao",
-        "url": "https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 159663,
-      "name": "Cosas de Enamorao",
-      "url": "https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -2255,34 +2255,6 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
-        "name": "LAS XII",
-        "url": "https://open.spotify.com/album/3X6IJzx82bE6uwmF1Mpcgb"
-      },
-      "artists": [
-        {
-          "name": "Fresh Bodden",
-          "url": "https://open.spotify.com/artist/7blu0IsZ2zyetdLEQdLVUO"
-        },
-        {
-          "name": "Lion Fiah",
-          "url": "https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN"
-        },
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "LAS XII",
-      "url": "https://open.spotify.com/track/040CeSVj4n3aDCEsscMvJL"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
         "name": "CU\u00c9NTAME",
         "url": "https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh"
       },
@@ -2315,6 +2287,34 @@
       "duration_ms": 192075,
       "name": "White Wine",
       "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
+        "name": "LAS XII",
+        "url": "https://open.spotify.com/album/3X6IJzx82bE6uwmF1Mpcgb"
+      },
+      "artists": [
+        {
+          "name": "Fresh Bodden",
+          "url": "https://open.spotify.com/artist/7blu0IsZ2zyetdLEQdLVUO"
+        },
+        {
+          "name": "Lion Fiah",
+          "url": "https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "LAS XII",
+      "url": "https://open.spotify.com/track/040CeSVj4n3aDCEsscMvJL"
     }
   ],
   "unique_name": "Jangueo",

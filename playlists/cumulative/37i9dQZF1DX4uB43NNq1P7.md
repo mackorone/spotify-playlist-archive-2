@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-156 songs - 6 hr 59 min
+157 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [One last call](https://open.spotify.com/track/5NJyS0aFGLhFW35NmEnnS8) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:14 | 2023-03-13 |  |
 | [One Step Closer \- Rain Version](https://open.spotify.com/track/1CqQ5ess43IRjD0zpGD8O3) | [Jeick Abrego](https://open.spotify.com/artist/6mKCZrIwfOeiBv3YOAl8Nj) | [One Step Closer \(Rain Version\)](https://open.spotify.com/album/7HlxAPOOZTcS4km3W7skge) | 2:14 | 2023-03-13 | 2023-04-25 |
 | [Open the Door](https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Open the Door](https://open.spotify.com/album/2HE7TjvxZHCN2LrMUB9egD) | 2:46 | 2023-04-24 |  |
-| [Open Window](https://open.spotify.com/track/0AWrCqvm6javtNp3BlAdgF) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [Open Window](https://open.spotify.com/album/13LpsqjK2jvMFWAatRdrNU) | 2:42 | 2024-01-09 | 2026-07-04 |
+| [Open Window](https://open.spotify.com/track/0AWrCqvm6javtNp3BlAdgF) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [Open Window](https://open.spotify.com/album/13LpsqjK2jvMFWAatRdrNU) | 2:42 | 2024-01-09 |  |
 | [Outside your window](https://open.spotify.com/track/2WvDamw9w5qkA7IcoPPWcn) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Outside your window](https://open.spotify.com/album/3MiUva5NWt51EzvXvNm9l2) | 2:37 | 2025-02-19 |  |
 | [Over Blue Hills](https://open.spotify.com/track/1H37OB8lPFyCiRpPlsphjF) | [Anthony Ashley\-Jones](https://open.spotify.com/artist/0TzCuBsid1h1aj7ZRSa8JX) | [Good Morning World](https://open.spotify.com/album/5e3dQZEGHwwoZJ4gmaVBiU) | 2:20 | 2023-03-13 |  |
 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 | 2023-03-13 |  |
@@ -106,6 +106,7 @@
 | [Princess Tree](https://open.spotify.com/track/73DDIXHsJa18Z4u1WaFcuT) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 2:40 | 2023-03-13 | 2023-10-20 |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-13 | 2025-04-16 |
 | [Rain outside my window](https://open.spotify.com/track/1jd741WLDBuMsSaZzm7GjA) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Rain outside my window](https://open.spotify.com/album/2cFAabHGPlsXqzHcuwKYSB) | 2:20 | 2025-11-05 |  |
+| [Rain Without End](https://open.spotify.com/track/53jhRxRviXotxxsNuYeXPK) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Rain Without End](https://open.spotify.com/album/51aj7uZVYFK4suPqXvQGIT) | 2:35 | 2026-07-17 |  |
 | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/track/3zfT07rguWfRXdaRFKYsgs) | [Enid Fergus](https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA) | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/album/4ZmHYU7lAJr1ygK5KXk7Dp) | 2:37 | 2024-04-17 | 2025-08-23 |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-13 |  |
 | [Rainy Sunday at the Cottage](https://open.spotify.com/track/1nyzEH2nN9UfL3PNVsxQZz) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:45 | 2023-03-13 |  |

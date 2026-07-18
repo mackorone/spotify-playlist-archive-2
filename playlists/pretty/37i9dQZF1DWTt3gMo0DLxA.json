@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Lenin",
-  "num_followers": 629109,
+  "num_followers": 629412,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGtmQ6fvKA5yMb3qTGmYLH6g1Xtn",
+  "snapshot_id": "AAAAACsQ11UPfGUWPPzU9VF3+Jq4NYvS",
   "tracks": [
     {
       "added_at": "2026-07-01 07:43:32",
@@ -59,6 +59,50 @@
       "duration_ms": 273072,
       "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
       "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
+    },
+    {
+      "added_at": "2026-07-17 10:21:27",
+      "album": {
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/0nFYfFsOiWq3731a62VmJ6"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Siddharth",
+          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
+        },
+        {
+          "name": "Prashanthini",
+          "url": "https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx"
+        }
+      ],
+      "duration_ms": 282426,
+      "name": "Oy..Oy..",
+      "url": "https://open.spotify.com/track/5lsvlmLn5dcXeCOFjq95vL"
+    },
+    {
+      "added_at": "2026-04-09 09:26:01",
+      "album": {
+        "name": "Darling (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Neeve",
+      "url": "https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf"
     },
     {
       "added_at": "2026-07-01 07:43:32",
@@ -165,6 +209,30 @@
       "url": "https://open.spotify.com/track/7yfBat6kf9vOPNSWbYyeHp"
     },
     {
+      "added_at": "2026-07-17 10:21:27",
+      "album": {
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/0nFYfFsOiWq3731a62VmJ6"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Thoshi",
+          "url": "https://open.spotify.com/artist/6JTjs71TL7qvv1KjObqOLC"
+        },
+        {
+          "name": "Priya Hemesh",
+          "url": "https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Sehari Sehari",
+      "url": "https://open.spotify.com/track/7CLHccpmQ2McY7vj6gmSGP"
+    },
+    {
       "added_at": "2026-07-08 13:57:25",
       "album": {
         "name": "Awaara (Original Motion Picture Soundtrack)",
@@ -217,26 +285,6 @@
       "url": "https://open.spotify.com/track/4F0uq09fKad99msF2x3BQm"
     },
     {
-      "added_at": "2026-04-09 09:26:01",
-      "album": {
-        "name": "Darling (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Neeve",
-      "url": "https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf"
-    },
-    {
       "added_at": "2026-06-09 10:15:39",
       "album": {
         "name": "Peddi (TELUGU)",
@@ -259,22 +307,6 @@
       "duration_ms": 222122,
       "name": "Massa Massa (TELUGU)",
       "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
-    },
-    {
-      "added_at": "2026-07-08 13:57:25",
-      "album": {
-        "name": "Lagare Sound Saala",
-        "url": "https://open.spotify.com/album/2podM2DUHLoYNXz0mXnnxC"
-      },
-      "artists": [
-        {
-          "name": "Mamatha Ramesh",
-          "url": "https://open.spotify.com/artist/6mAwVufM5NvlkXnGEg8kJv"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Lagare Sound Saala",
-      "url": "https://open.spotify.com/track/5gcNhrUCd1f4GYtUVtYnjf"
     },
     {
       "added_at": "2026-06-23 17:48:08",
@@ -399,38 +431,6 @@
       "duration_ms": 267675,
       "name": "Varsham Munduga",
       "url": "https://open.spotify.com/track/0LZVBuMjBypnzwHLNQVSnv"
-    },
-    {
-      "added_at": "2026-07-01 07:43:32",
-      "album": {
-        "name": "Namo Re (From \"Nagabandham\") (Telugu) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lryavIXyPjIo0ZfP9piNM"
-      },
-      "artists": [
-        {
-          "name": "Sindhuja Srinivasan",
-          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
-        },
-        {
-          "name": "Aishwarya Daruri",
-          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
-        },
-        {
-          "name": "Junaid Kumar",
-          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
-        },
-        {
-          "name": "ABHE",
-          "url": "https://open.spotify.com/artist/7cOdkD4TZCEah13yslDdW7"
-        },
-        {
-          "name": "Sri Harsha Emani",
-          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
-        }
-      ],
-      "duration_ms": 257565,
-      "name": "Namo Re (From \"Nagabandham\") (Telugu) (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/4OwOfBCM9vTGCGHBoP8EkR"
     },
     {
       "added_at": "2026-06-16 09:12:52",

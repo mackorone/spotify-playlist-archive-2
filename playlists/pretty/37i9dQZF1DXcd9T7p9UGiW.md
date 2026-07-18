@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Frenna, Odeal & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,546 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,566 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 0:00 |
+| 1 | [No Level](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 4:00 |
 | 2 | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/track/3Sv5trzGlBMLYFJGpuOBxG) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/album/6aXV5Mr0bKAIUtqGUgdKvy) | 3:13 |
 | 3 | [Fall](https://open.spotify.com/track/3i6IBV2KcWadZOmPNkOEas) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Fall](https://open.spotify.com/album/0frPraxEiU1pQkmPY1hyZa) | 2:25 |
 | 4 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |

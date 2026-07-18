@@ -905,6 +905,36 @@
     },
     {
       "album": {
+        "name": "Eu Vou Mostrar o Meu Talento",
+        "url": "https://open.spotify.com/album/48C9gdLxel4qFP428mr0io"
+      },
+      "artists": [
+        {
+          "name": "O Esmaga",
+          "url": "https://open.spotify.com/artist/6ZLR8vyiWvfGuspFa02mQ7"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        },
+        {
+          "name": "FLAVIN NO BEAT",
+          "url": "https://open.spotify.com/artist/2fjkjXSmWFaR4PgHEYK7HO"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Eu Vou Mostrar o Meu Talento",
+      "url": "https://open.spotify.com/track/5USZcjuU8S0s0uvJlkseID"
+    },
+    {
+      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -1536,7 +1566,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 130212,
       "name": "Macetada Forte",
       "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"

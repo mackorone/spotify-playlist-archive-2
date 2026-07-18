@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 196897,
       "name": "Aduh",
       "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -736,6 +736,24 @@
       "duration_ms": 176304,
       "name": "Beban",
       "url": "https://open.spotify.com/track/0J5U0PNiGsg7nS3UvoaHJF"
+    },
+    {
+      "album": {
+        "name": "Bebas",
+        "url": "https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG"
+      },
+      "artists": [
+        {
+          "name": "Mierul Hazly",
+          "url": "https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Bebas",
+      "url": "https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA"
     },
     {
       "album": {
@@ -1326,10 +1344,32 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 232880,
       "name": "Bukan Untukku",
       "url": "https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe"
+    },
+    {
+      "album": {
+        "name": "Bulir Darahku",
+        "url": "https://open.spotify.com/album/2FuyBLdxesK5yNvShgUeJq"
+      },
+      "artists": [
+        {
+          "name": "Amira Othman",
+          "url": "https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi"
+        },
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Bulir Darahku",
+      "url": "https://open.spotify.com/track/1tWbWg7ZEoTJt0JV0mawgs"
     },
     {
       "album": {
@@ -1366,7 +1406,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn"
@@ -1630,7 +1670,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 253043,
       "name": "Cuba Jadi Aku",
       "url": "https://open.spotify.com/track/30zVgttK8R9wmnyXbtrXZm"
@@ -2168,7 +2208,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 187000,
       "name": "Gara Gara",
       "url": "https://open.spotify.com/track/7kcXgnVbzINLV01fnoai6P"
@@ -2374,7 +2414,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 185753,
       "name": "Haru Biru",
       "url": "https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy"
@@ -2584,7 +2624,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 242432,
       "name": "Izinkan Aku",
       "url": "https://open.spotify.com/track/7DgZh4LMYYpj9p2Tg5ZIKh"
@@ -2656,7 +2696,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 243620,
       "name": "Jangan Buang Aku - From \"Jangan Buang Ibu\"",
       "url": "https://open.spotify.com/track/6301hTQ5Nfhslz9nuwTY44"
@@ -2678,7 +2718,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 216315,
       "name": "Jangan Lupa Jaga Dirimu",
       "url": "https://open.spotify.com/track/2OEs5AyI7Dsqbnh7OLbiZh"
@@ -2952,7 +2992,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 248490,
       "name": "Jiwa & Raga",
       "url": "https://open.spotify.com/track/7KWjo769GnbUpY2IcfYUcb"
@@ -2988,7 +3028,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 212444,
       "name": "Jurang Derita",
       "url": "https://open.spotify.com/track/6Cdqka0eVVbM7G0JEvEi6U"
@@ -3136,7 +3176,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 236202,
       "name": "Katakan Saja",
       "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
@@ -3172,7 +3212,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 223819,
       "name": "Kau Dan Aku Kita Kekal",
       "url": "https://open.spotify.com/track/7K3fB5uHV99QfximYJXWVo"
@@ -3198,7 +3238,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 251091,
       "name": "Kau Selalu Di Hati",
       "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
@@ -3780,7 +3820,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 256990,
       "name": "Mahkota Cinta",
       "url": "https://open.spotify.com/track/7bIJHmQrQxTrmuCwB3PL5U"
@@ -4229,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "Menjauh",
+        "url": "https://open.spotify.com/album/22jxLMpdCp52jKX71rAZTk"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zee",
+          "url": "https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Menjauh",
+      "url": "https://open.spotify.com/track/31s9c4onUYoRas5RDOnDoR"
+    },
+    {
+      "album": {
         "name": "Menunggumu Sampai Akhir Hidup",
         "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
       },
@@ -4288,7 +4346,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 209642,
       "name": "Merelakanmu",
       "url": "https://open.spotify.com/track/69SeeuCnbc7wRFehEKQoGQ"
@@ -4328,6 +4386,24 @@
       "duration_ms": 239073,
       "name": "Musnah",
       "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
+    },
+    {
+      "album": {
+        "name": "Nama Yang Tersimpan",
+        "url": "https://open.spotify.com/album/2iLDC6mZCEiZnifKMVMviL"
+      },
+      "artists": [
+        {
+          "name": "Erika Foo",
+          "url": "https://open.spotify.com/artist/6TMspzuKPj0zCY0yTXTxn3"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Nama Yang Tersimpan",
+      "url": "https://open.spotify.com/track/0dYxzNxXYHKGMQarCg1IaM"
     },
     {
       "album": {
@@ -4743,6 +4819,42 @@
     },
     {
       "album": {
+        "name": "Pugar",
+        "url": "https://open.spotify.com/album/3sTxFKkv1lfHDNQPEGWywH"
+      },
+      "artists": [
+        {
+          "name": "Umairah",
+          "url": "https://open.spotify.com/artist/6qIDCzCk27YtmOVGAllzpa"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244015,
+      "name": "Pugar",
+      "url": "https://open.spotify.com/track/3eo26uAD9G5raiXXXpABFQ"
+    },
+    {
+      "album": {
+        "name": "Pura-Pura Hidup Lagi",
+        "url": "https://open.spotify.com/album/215cM6ZcDght6io5oZflQZ"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200738,
+      "name": "Pura-Pura Hidup Lagi",
+      "url": "https://open.spotify.com/track/0ZMycZdRRy0k621iSxOJgC"
+    },
+    {
+      "album": {
         "name": "P.U.S.P.A.",
         "url": "https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE"
       },
@@ -5014,7 +5126,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 232407,
       "name": "Sadis",
       "url": "https://open.spotify.com/track/71glSZUO4wGGGCrLvLPXaq"
@@ -5036,7 +5148,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 228055,
       "name": "SAH",
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
@@ -5516,7 +5628,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 277300,
       "name": "Sembuh Tanpaku",
       "url": "https://open.spotify.com/track/77cyLF8OxRJxbdQ5Pb9lST"
@@ -6050,7 +6162,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 244347,
       "name": "Surat",
       "url": "https://open.spotify.com/track/6j8RydwEuVXo6sm37vzsKn"
@@ -6140,7 +6252,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 213237,
       "name": "Tak Berlagu - Original Soundtrack From Khadam",
       "url": "https://open.spotify.com/track/1lONjBeiQZ0KtAglTkmvqy"

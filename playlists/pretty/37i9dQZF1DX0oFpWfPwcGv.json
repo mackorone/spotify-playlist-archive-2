@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 74114,
+  "num_followers": 74120,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Put Your Body In It",
-      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Twelve Inch Classics from the 70s, Vol. 2",
         "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 407800,
       "name": "Lady America",
       "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Put Your Body In It",
+      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Reddy",
-        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
-      },
-      "artists": [
-        {
-          "name": "Helen Reddy",
-          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
-        }
-      ],
-      "duration_ms": 399200,
-      "name": "Make Love To Me",
-      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 199293,
       "name": "I'll Bake Me A Man",
       "url": "https://open.spotify.com/track/4YG1dGmuVc3akaUEKknn5x"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Reddy",
+        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "duration_ms": 399200,
+      "name": "Make Love To Me",
+      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Tommy Stewart",
-        "url": "https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG"
-      },
-      "artists": [
-        {
-          "name": "Tommy Stewart",
-          "url": "https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "Fulton County Line",
-      "url": "https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/0y1GuBD52TFARX9e4EOJeD"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 405293,
       "name": "Haven't You Heard",
       "url": "https://open.spotify.com/track/3Kf0nJpV3AMRWRTL1SEqUl"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Tommy Stewart",
+        "url": "https://open.spotify.com/album/46fNP3GBxPcKJnbUXydeuG"
+      },
+      "artists": [
+        {
+          "name": "Tommy Stewart",
+          "url": "https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Fulton County Line",
+      "url": "https://open.spotify.com/track/6DNGubEO3jpZE1osALeEkn"
     }
   ],
   "unique_name": "Disco Decadence",

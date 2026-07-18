@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81564,
+  "num_followers": 81565,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alV8AAAAAABtQymUBdk88eG2acWt7pzM",
+  "snapshot_id": "algfAAAAAABKuOBlytX01hqHA77B5vYO",
   "tracks": [
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 334960,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
+      "duration_ms": 255586,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
       "artists": [
         {
@@ -336,9 +336,41 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 255586,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
+      "duration_ms": 334960,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 406373,
+      "name": "Feel so Different",
+      "url": "https://open.spotify.com/track/0oH9dKhwNOVLbJ9zoe6jIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Made Me The Thief Of Your Heart",
+        "url": "https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "You Made Me The Thief Of Your Heart",
+      "url": "https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1"
     },
     {
       "added_at": null,
@@ -367,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Made Me The Thief Of Your Heart",
-        "url": "https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8"
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
       "artists": [
         {
@@ -376,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 381373,
-      "name": "You Made Me The Thief Of Your Heart",
-      "url": "https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1"
+      "duration_ms": 190960,
+      "name": "In This Heart",
+      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
     },
     {
       "added_at": null,
@@ -392,25 +424,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 406373,
-      "name": "Feel so Different",
-      "url": "https://open.spotify.com/track/0oH9dKhwNOVLbJ9zoe6jIW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "In This Heart",
-      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
+      "duration_ms": 283546,
+      "name": "Three Babies",
+      "url": "https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
       "duration_ms": 278906,
       "name": "I Want Your (Hands on Me)",
       "url": "https://open.spotify.com/track/3FwJ6vxxKhhvet3DM042p9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 283546,
-      "name": "Three Babies",
-      "url": "https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 295040,
       "name": "1000 Mirrors",
       "url": "https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
     },
     {
       "added_at": null,
@@ -711,54 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "8 Good Reasons",
-      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Emma's Song",
-      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Scorn Not His Simplicity",
-      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Across The Borderline",
         "url": "https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp"
       },
@@ -779,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
       "artists": [
         {
@@ -788,9 +740,25 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 215587,
-      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
-      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+      "duration_ms": 206880,
+      "name": "8 Good Reasons",
+      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Scorn Not His Simplicity",
+      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
     },
     {
       "added_at": null,
@@ -804,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 179266,
-      "name": "Daddy I'm Fine",
-      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
+      "duration_ms": 201826,
+      "name": "Emma's Song",
+      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
     },
     {
       "added_at": null,
@@ -835,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 215587,
+      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
+      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Am I Not Your Girl?",
         "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 267360,
       "name": "Success Has Made a Failure of Our Home",
       "url": "https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Daddy I'm Fine",
+      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
     },
     {
       "added_at": null,
@@ -871,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+        "name": "Goodbye Jumbo",
+        "url": "https://open.spotify.com/album/0NHOAAAuzEglpm88igZi1a"
       },
       "artists": [
+        {
+          "name": "World Party",
+          "url": "https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE"
+        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 367973,
-      "name": "'Til I Whisper U Something",
-      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
+      "duration_ms": 279600,
+      "name": "Sweet Soul Dream",
+      "url": "https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd"
     }
   ],
   "unique_name": "This Is Sin\u00e9ad O'Connor",

@@ -1,6 +1,6 @@
 {
   "description": "Tristeza latina ",
-  "num_followers": 39046,
+  "num_followers": 39062,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "El mejor verano de mi vida",
-        "url": "https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2"
-      },
-      "artists": [
-        {
-          "name": "El mejor verano de mi vida",
-          "url": "https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n"
-        }
-      ],
-      "duration_ms": 146629,
-      "name": "Emo Mid Windows",
-      "url": "https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Nossos Amigos e os Lugares Que Visitamos",
         "url": "https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 381335,
       "name": "Anivers\u00e1rios S\u00e3o Dif\u00edceis",
       "url": "https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "El mejor verano de mi vida",
+        "url": "https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2"
+      },
+      "artists": [
+        {
+          "name": "El mejor verano de mi vida",
+          "url": "https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n"
+        }
+      ],
+      "duration_ms": 146629,
+      "name": "Emo Mid Windows",
+      "url": "https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs"
     },
     {
       "added_at": "2026-06-19 06:00:24",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Y Si un D\u00eda Explota el Planeta Quiero Tenerte Cerca",
-        "url": "https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "El Club Internacional de Astronautas Fracasados",
-      "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Otro Verano Campe\u00f3n",
         "url": "https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 186136,
       "name": "Otro Verano Campe\u00f3n",
       "url": "https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Y Si un D\u00eda Explota el Planeta Quiero Tenerte Cerca",
+        "url": "https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "El Club Internacional de Astronautas Fracasados",
+      "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
     },
     {
       "added_at": "2026-06-19 06:00:24",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Est\u00e1 Nublado y Tengo Calor",
-        "url": "https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "Est\u00e1 Nublado y Tengo Calor",
-      "url": "https://open.spotify.com/track/788chCGIQr4PgMByHndKyH"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Fantasmas en Casa",
         "url": "https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 180000,
       "name": "Fantasmas en Casa",
       "url": "https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Est\u00e1 Nublado y Tengo Calor",
+        "url": "https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Est\u00e1 Nublado y Tengo Calor",
+      "url": "https://open.spotify.com/track/788chCGIQr4PgMByHndKyH"
     },
     {
       "added_at": "2026-06-19 06:00:24",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Todo Lo Que Siempre Quise Decirte",
-        "url": "https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro"
-      },
-      "artists": [
-        {
-          "name": "Local Champion",
-          "url": "https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "\u00bfD\u00f3nde Est\u00e1s?",
-      "url": "https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "lo \u00fanico inc\u00f3modo (es) que nos vamos a encontrar",
         "url": "https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 104383,
       "name": "3k",
       "url": "https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Todo Lo Que Siempre Quise Decirte",
+        "url": "https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro"
+      },
+      "artists": [
+        {
+          "name": "Local Champion",
+          "url": "https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "\u00bfD\u00f3nde Est\u00e1s?",
+      "url": "https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p"
     },
     {
       "added_at": "2026-06-19 06:00:24",

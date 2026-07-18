@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 140729,
+  "num_followers": 140783,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Dancing In Wonderland (Remastered)",
-        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "My Way Of Music",
         "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 150666,
       "name": "Les papillons",
       "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Dancing In Wonderland (Remastered)",
+        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Three O'Clock In The Morning",
-      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 171520,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Three O'Clock In The Morning",
+      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "With Compliments",
-        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Paris When It Sizzles",
         "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 166706,
       "name": "Gabrielle",
       "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "With Compliments",
+        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Poor Butterfly",
-      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Hatari!",
         "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 207380,
       "name": "Night Side",
       "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "The Romantic Moods Of Jackie Gleason",
         "url": "https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 210266,
       "name": "I'm In The Mood For Love - Remastered/1996",
       "url": "https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
-      },
-      "artists": [
-        {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Islands In The Sky",
-      "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Charade",
         "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183460,
       "name": "Megeve",
       "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+      },
+      "artists": [
+        {
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Islands In The Sky",
+      "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
+        "name": "Somewhere My Love",
+        "url": "https://open.spotify.com/album/78gVi3Fi9URUyuhhIn1KVe"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 150892,
+      "name": "Somewhere My Love",
+      "url": "https://open.spotify.com/track/5EBErlypzVhE3THcBf2j0r"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
         "name": "My Parade of Golden Favorites",
         "url": "https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 172973,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
-        "name": "Ros on Broadway",
-        "url": "https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 151124,
-      "name": "I Could Have Danced All Night (From \"My Fair Lady\")",
-      "url": "https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Somewhere My Love",
-        "url": "https://open.spotify.com/album/78gVi3Fi9URUyuhhIn1KVe"
+        "name": "Ros on Broadway",
+        "url": "https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V"
       },
       "artists": [
         {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
         }
       ],
-      "duration_ms": 150892,
-      "name": "Somewhere My Love",
-      "url": "https://open.spotify.com/track/5EBErlypzVhE3THcBf2j0r"
+      "duration_ms": 151124,
+      "name": "I Could Have Danced All Night (From \"My Fair Lady\")",
+      "url": "https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU"
     },
     {
       "added_at": "2026-07-03 07:47:02",

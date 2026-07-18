@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 149894,
       "name": "1.6.18",
       "url": "https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 145019,
       "name": "Drystem",
       "url": "https://open.spotify.com/track/3yJciXYbUbfPFnYFtkUEkT"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 177500,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6Hrlsgrkf3xNM1kIdPAnXX"
@@ -3119,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Sainted Haze",
+        "url": "https://open.spotify.com/album/1LArRNZxy6b4KqdI21ObtT"
+      },
+      "artists": [
+        {
+          "name": "Ben Moldau",
+          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Sainted Haze",
+      "url": "https://open.spotify.com/track/19sWpV3j496TLYcctAz4NR"
+    },
+    {
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf"
       },
@@ -3206,6 +3224,24 @@
       "duration_ms": 127624,
       "name": "Secret Admirer",
       "url": "https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4"
+    },
+    {
+      "album": {
+        "name": "Seraphine",
+        "url": "https://open.spotify.com/album/5MuHGnIj46ga3xOmhP8VQI"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya",
+          "url": "https://open.spotify.com/artist/4XBctiZfMg9kgOPlqfLgFA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157773,
+      "name": "Seraphine",
+      "url": "https://open.spotify.com/track/1N3PTgf9qyKxCH3DwgEuKG"
     },
     {
       "album": {

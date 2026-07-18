@@ -4,7 +4,7 @@
 
 > old asl
 
-664 songs - 1 day 12 hr 33 min
+664 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Get Silly \(Freestyle\)](https://open.spotify.com/track/5406W9dnqLGImP1e5Uc89v) | [16marley](https://open.spotify.com/artist/3vtH9rp0jCfQHayfUZ0S98), [28hassal](https://open.spotify.com/artist/7yY7a7bOc05S6V31KOtrbW), [marreley](https://open.spotify.com/artist/1N0jn3PXw87YXELCPgHAQl) | [Get Silly \(Freestyle\)](https://open.spotify.com/album/0aHOOFcJqS3bT7pcrdmn3k) | 2:05 | 2023-12-20 |  |
 | [ghost boy](https://open.spotify.com/track/19LvG1Uqsk9KyRRYhLC8Ib) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [ghost boy](https://open.spotify.com/album/3Dj0FGMTvrHnxr4iajMDpK) | 2:10 | 2022-02-02 |  |
 | [Ghosts](https://open.spotify.com/track/2jlmSvi1vkJuabSwrEf6X0) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Ghosts](https://open.spotify.com/album/6nY9jfbpvXD9Y4hfBIm0Cn) | 1:53 | 2023-06-20 |  |
-| [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-17 |  |
+| [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Kadeem France](https://open.spotify.com/artist/0iTTqvrA0fKaon2z2pwLcp), [Erik Bickerstaffe](https://open.spotify.com/artist/746V8evFcsneB6PPnphpax), [Sean Radcliffe](https://open.spotify.com/artist/7eoMmi4eVjqyZDFubXelK9), [Feisal El\-Khazragi](https://open.spotify.com/artist/770uDInKHWzUvTQV74P7ef) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 7:48 | 2025-05-17 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-07 |  |
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2022-03-17 |  |
 | [Girlfriend](https://open.spotify.com/track/0ByMEtOAATIdWkuYMIYnTv) | [Heavy Weight](https://open.spotify.com/artist/5a93v7K0tRAdG6e0qGz38J) | [Girlfriend](https://open.spotify.com/album/5TIMTrEuwMp8siTWFIlYLd) | 3:56 | 2024-03-20 |  |

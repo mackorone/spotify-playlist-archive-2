@@ -1461,6 +1461,28 @@
     },
     {
       "album": {
+        "name": "Felix Mendelssohn: Song Without Word, Op. 19b No. 1 \"Sweet Remembrance\"",
+        "url": "https://open.spotify.com/album/7w5R9jm8iYJoA92NCYOa2n"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200906,
+      "name": "Mendelssohn: Songs Without Words, Book I, Op. 19b: No. 1, Andante con moto, MWV U86 \"Sweet Remembrance\"",
+      "url": "https://open.spotify.com/track/0fM7xI47J4bzkRGfayIDQE"
+    },
+    {
+      "album": {
         "name": "Mozart: Clarinet Concerto & Piano Concerto No. 25",
         "url": "https://open.spotify.com/album/1KP7j2LWS67KxDKVO51Yvp"
       },
@@ -2838,6 +2860,32 @@
       "duration_ms": 93840,
       "name": "Touch Her Soft Lips and Part (From \"Henry V\")",
       "url": "https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ"
+    },
+    {
+      "album": {
+        "name": "Trenet & Eiger: En avril \u00e0 Paris",
+        "url": "https://open.spotify.com/album/7780kt0BpqI0h14WsOylEj"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        },
+        {
+          "name": "Walter Eiger",
+          "url": "https://open.spotify.com/artist/4Xn9ScC6D14GWO2bGc75w7"
+        },
+        {
+          "name": "Saehyun Kim",
+          "url": "https://open.spotify.com/artist/1JiZGgjMlMtfpKeSgMN7YQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222981,
+      "name": "Trenet: En avril \u00e0 Paris (Arr. Weissenberg for Piano Solo)",
+      "url": "https://open.spotify.com/track/2jAgACFmGydTmXnwPyw2GZ"
     },
     {
       "album": {

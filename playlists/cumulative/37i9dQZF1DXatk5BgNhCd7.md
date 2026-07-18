@@ -4,7 +4,7 @@
 
 > Todo lo nuevo de música tropical 📸  Q´Lokura & Angela Leiva
 
-4,975 songs - 11 day 23 hr 11 min
+4,975 songs - 11 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2650,6 +2650,7 @@
 | [Me Sobrabas Tú](https://open.spotify.com/track/4dcuxjWUy2QGhF36vKiOEP) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Me Sobrabas Tú](https://open.spotify.com/album/0mfh4oJ9ROwOwQ3cBdh9Et) | 3:06 | 2022-09-23 | 2022-10-15 |
 | [Me Sobrabas Tú \- En Vivo](https://open.spotify.com/track/03kUKWdfKHlNN7fh5ZZO5L) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Me Sobrabas Tú \(En Vivo\)](https://open.spotify.com/album/2h0rPzd10rXCSQ1n3lmphQ) | 3:10 | 2024-01-12 | 2024-01-27 |
 | [Me Tienes Loco](https://open.spotify.com/track/2LMr2artKkKnV4RPOAmOr8) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Me Tienes Loco](https://open.spotify.com/album/6R06aMvsrUFRQYAupTwDq5) | 2:37 | 2022-10-07 | 2022-10-15 |
+| [Me Tienes Sin Cuidado](https://open.spotify.com/track/1IfAofeT93fy4lgpsgkkmW) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS), [Kiko Ruiz](https://open.spotify.com/artist/753PsoHY5ZWmRF0UjvcN5R) | [América!](https://open.spotify.com/album/0chPyqe4UGP3ty0e7jt1bE) | 4:01 | 2026-07-17 |  |
 | [Me Tiraste al Mar / Sin Ti / Corazón de Miel](https://open.spotify.com/track/7cr9z8VcA4DNchPS1RIQGH) | [La Roca Callejera](https://open.spotify.com/artist/4vacbFDLabmeOOXlSAP6uc) | [Enganchado En Vivo](https://open.spotify.com/album/0iWufTaSvIdZkVd4Ag8auR) | 5:42 | 2024-05-10 | 2024-05-18 |
 | [Me Toca A Mi \- En Vivo](https://open.spotify.com/track/4NrHQJyxGSqxQLBs56VaV1) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [De Party](https://open.spotify.com/artist/75d1kLfUu4Te53l5CqvPdw) | [Me Toca A Mi \(En Vivo\)](https://open.spotify.com/album/0wi02jtKteTrZ65Am1EbNP) | 2:23 | 2025-10-03 | 2025-11-08 |
 | [Me Toco Verte Brillar \- Bachata Version](https://open.spotify.com/track/2SLBq5fK75eLYH7OYKPAWZ) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DjGlass El Internacional](https://open.spotify.com/artist/7uzzUWT8M4j5L8vTuiihRO), [Yeisidy](https://open.spotify.com/artist/5oECRXicD4tCDerdvx1IVD) | [Me Toco Verte Brillar \(Bachata Version\)](https://open.spotify.com/album/1wyxQX65ULlIfUOyaK3Nim) | 3:33 | 2026-05-04 | 2026-05-15 |
@@ -4381,7 +4382,6 @@
 | [Totona](https://open.spotify.com/track/3PZ6unz84QLZExL3HEHNnW) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Totona](https://open.spotify.com/album/2Z5CUiR6Irh7MnnOWligNY) | 3:25 | 2023-09-22 | 2023-09-30 |
 | [TOUCH & GO](https://open.spotify.com/track/3cZJv1QBNqlPVewsUGR7Lk) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [TOUCH & GO](https://open.spotify.com/album/0DaH1E2DayeOWT1XWbE8lt) | 2:50 | 2024-04-12 | 2024-04-19 |
 | [Tqg](https://open.spotify.com/track/2ss4k10PdYJQTyxIucJX7n) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Tqg](https://open.spotify.com/album/1IKAdLi3ydjJY063vYGNDO) | 4:43 | 2023-11-24 | 2023-12-02 |
-| [Track 5](https://open.spotify.com/track/1IfAofeT93fy4lgpsgkkmW) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [América!](https://open.spotify.com/album/0chPyqe4UGP3ty0e7jt1bE) | 0:00 | 2026-07-17 |  |
 | [Traemos Alegría](https://open.spotify.com/track/6TA2MBNAjNslTfth8ht143) | [Barreto el Show](https://open.spotify.com/artist/2tZTRbJlPaHYjXRBMIrKaN), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Traemos Alegría](https://open.spotify.com/album/5XETq4o7BJAOsIUai2bN6L) | 3:39 | 2024-11-01 | 2024-11-09 |
 | [Traficando Cumbia](https://open.spotify.com/track/3rX0nXzioBhff6neZ4mgdb) | [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Traficando Cumbia](https://open.spotify.com/album/1ElZRslDT3uuMMH9bLzkYt) | 3:16 | 2022-06-03 | 2022-07-02 |
 | [Trago de whisky](https://open.spotify.com/track/1nrCDK71KYEJZgXt2IdWZA) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [El Kuko Esta En La Kalle](https://open.spotify.com/album/6oldAaJRR8kCE1o0wJ8aBL) | 3:49 | 2023-06-02 | 2023-06-10 |

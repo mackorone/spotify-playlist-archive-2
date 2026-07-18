@@ -30645,6 +30645,28 @@
     },
     {
       "album": {
+        "name": "Ikkimel die Geile EP",
+        "url": "https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN"
+      },
+      "artists": [
+        {
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115575,
+      "name": "Ikkimel die Geile",
+      "url": "https://open.spotify.com/track/5M9YGWs77ZXuHJ9WEDJ5Xx"
+    },
+    {
+      "album": {
         "name": "Ikone",
         "url": "https://open.spotify.com/album/1PHuRrCZawR79gh3KErzQf"
       },

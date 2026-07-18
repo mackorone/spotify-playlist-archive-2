@@ -2649,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "\u062d\u0646\u064a\u062a \u0644\u0644\u0628\u064a\u062a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u0627\u062c\u0639\u064a\u0646 \u064a\u0627\u0647\u0648\u0649)",
+        "url": "https://open.spotify.com/album/0x5CSZOdayLdRDmNs8aYrr"
+      },
+      "artists": [
+        {
+          "name": "Medhat Saleh",
+          "url": "https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262956,
+      "name": "\u062d\u0646\u064a\u062a \u0644\u0644\u0628\u064a\u062a - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u0627\u062c\u0639\u064a\u0646 \u064a\u0627\u0647\u0648\u0649",
+      "url": "https://open.spotify.com/track/4EyB1zNZwqaUbRpzCVCPrC"
+    },
+    {
+      "album": {
         "name": "\u062e\u0641\u064a \u062d\u0628\u0647 (\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0645\u062d\u0627\u0631\u0628)",
         "url": "https://open.spotify.com/album/1BgEemXrbEZFJkV0bIh1bz"
       },
@@ -2998,10 +3016,6 @@
         {
           "name": "Aley Eldin Omar",
           "url": "https://open.spotify.com/artist/6HTbN3mkTm41r7uge5epli"
-        },
-        {
-          "name": "WRST Studio",
-          "url": "https://open.spotify.com/artist/7ls8m2y6ibVx54vYHyReXk"
         }
       ],
       "date_added": "2026-07-10",
@@ -3296,7 +3310,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 173831,
       "name": "\u0644\u0630\u0627\u0630\u0629 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0628\u0627\u0628\u0627 \u062c\u0647",
       "url": "https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d"

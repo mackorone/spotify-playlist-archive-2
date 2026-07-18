@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,892 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,904 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 5 | [Incendiou](https://open.spotify.com/track/4j8PnRPIqTtVUbmzrTt5CR) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B) | [Incendiou](https://open.spotify.com/album/212x208bT4Npyzr1clH471) | 3:49 |
 | 6 | [SOLAR](https://open.spotify.com/track/1SaZdSpmHnGd0ITlNxkabM) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [SOLAR](https://open.spotify.com/album/0CYvaMIOeGih9LMBwac4uf) | 3:49 |
 | 7 | [Poeira](https://open.spotify.com/track/0NBEUOXcxAYhirxbC8ibuX) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Poeira](https://open.spotify.com/album/1xi2xzHZgoXx4aujl8bbmD) | 2:59 |
-| 8 | [Poeira](https://open.spotify.com/track/2PUfG9mvqzlOGFhWMvWJId) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda \(Deluxe Edition\)](https://open.spotify.com/album/5xuuiA832dBS56jqzYAqw5) | 2:59 |
+| 8 | [Disco Tropical](https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Disco Tropical](https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR) | 3:07 |
 | 9 | [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 |
 | 10 | [É No Balanço](https://open.spotify.com/track/7hjwcHZM5EbFvuZYQrbHbH) | [Wes Ventura](https://open.spotify.com/artist/451ImG1QyVqRysU0hQOqTv), [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe), [Laboratório Tropical](https://open.spotify.com/artist/1ndfKW0rJ3vHyXhYhXGB2Y) | [É No Balanço](https://open.spotify.com/album/0sFyfTYG3cJsSkcSQ3pLNM) | 3:56 |
 | 11 | [Baunilha](https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk) | [Sofia Oliveira](https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC) | [Baunilha](https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Vadiagem](https://open.spotify.com/track/2jJh9rkFfCYxkjtfbNdv0l) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Sabor de amor](https://open.spotify.com/album/7ujzNhKq8tpx14MXkTLNBW) | 3:22 |
 | 75 | [Luzes e Flashes](https://open.spotify.com/track/3KdtQeQ70qqCijTLlpbiBv) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Luzes e Flashes](https://open.spotify.com/album/06NOcxlBI6V5SkuRdQGItH) | 3:31 |
 
-Snapshot ID: `AAAAAA5FB/tR+uVjH9z6Z92wjXv1labh`
+Snapshot ID: `AAAAAGot3/6k9pQD0TauFbocEctjQVpJ`

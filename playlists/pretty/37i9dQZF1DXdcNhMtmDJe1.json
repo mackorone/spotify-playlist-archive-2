@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 95390,
+  "num_followers": 95397,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -407,30 +407,6 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Gershwin: An American in Paris - Porgy and Bess Suite",
-        "url": "https://open.spotify.com/album/1w0tXMlnaJvGPElqwhgxkx"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "New Zealand Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
-        },
-        {
-          "name": "James Judd",
-          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
-        }
-      ],
-      "duration_ms": 642240,
-      "name": "Cuban Overture",
-      "url": "https://open.spotify.com/track/3RNmP7uugYhKZGzCEmXt8E"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
         "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
         "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
       },
@@ -587,6 +563,30 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 426866,
+      "name": "Oh, Kay!: Overture",
+      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
         "name": "Icon: Menuhin and Grappelli",
         "url": "https://open.spotify.com/album/7pKyZXyyF4ikG7UPG5YDUr"
       },
@@ -631,30 +631,6 @@
       "duration_ms": 139626,
       "name": "Gershwin / Arr. Harris: Fascinatin' Rhythm",
       "url": "https://open.spotify.com/track/7hEmaEBReUuhaskdorVGRq"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 426866,
-      "name": "Oh, Kay!: Overture",
-      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
     },
     {
       "added_at": "2025-12-15 11:57:31",
@@ -903,6 +879,30 @@
       "duration_ms": 86000,
       "name": "3 Preludes: No. 1 in B-Flat Major: Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/3FFcTeH4i8JLlyCbOvkd5R"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
+        "name": "Gershwin: An American in Paris - Porgy and Bess Suite",
+        "url": "https://open.spotify.com/album/1w0tXMlnaJvGPElqwhgxkx"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "duration_ms": 642240,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/3RNmP7uugYhKZGzCEmXt8E"
     },
     {
       "added_at": "2025-12-15 11:57:31",

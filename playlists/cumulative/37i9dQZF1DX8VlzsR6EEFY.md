@@ -2,9 +2,9 @@
 
 ### [La Miscelánea](https://open.spotify.com/playlist/37i9dQZF1DX8VlzsR6EEFY)
 
-> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. NXNNI en portada 🌹
+> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Mosmo y Maximo Grado en portada 🌹
 
-433 songs - 22 hr 27 min
+437 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Desvelado](https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Pensando En Ti](https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac) | 3:34 | 2025-03-07 | 2025-05-10 |
 | [Diablos](https://open.spotify.com/track/6sSXi0TxT2Mnz3IfH8ACxu) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis Pablo Lopez](https://open.spotify.com/artist/242y3NutnWpdBORlwQnbDP), [Mike Mejia](https://open.spotify.com/artist/3kSS4tP1eMfKE1Z7MZJZYR) | [Diablos](https://open.spotify.com/album/04Vo5Ym1DvutxZm8PuVj4G) | 3:10 | 2024-11-29 | 2025-02-22 |
 | [Dile al Amor](https://open.spotify.com/track/2hPsnHCGBAdT23UujS0HF7) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Dile al Amor](https://open.spotify.com/album/6dDWFO1TnRUrO3Jf5nLMVx) | 2:54 | 2024-03-08 | 2024-03-23 |
+| [Dirty Money](https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Dirty Money](https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo) | 2:34 | 2026-07-17 |  |
 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 | 2024-08-30 | 2025-01-11 |
 | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS) | 3:12 | 2024-03-08 | 2024-04-13 |
 | [Dudaste](https://open.spotify.com/track/4X5MTSMbxLCbFxSKK9ACip) | [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Dudaste](https://open.spotify.com/album/47l9Y4sAIlcrGBMqPijRyW) | 2:56 | 2024-04-19 | 2024-07-06 |
@@ -190,6 +191,7 @@
 | [La Gata Bajo La Lluvia](https://open.spotify.com/track/27OujXCUklJnWraJabmw6W) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Gata Bajo La Lluvia](https://open.spotify.com/album/4K9gu9MHHTufq2MxsRxrsJ) | 3:43 | 2024-07-19 | 2025-05-10 |
 | [La Guerita](https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Guerita](https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct) | 3:04 | 2024-04-26 | 2024-07-19 |
 | [La Güera y La Morena](https://open.spotify.com/track/28c2DNs7tghpQuVZLbaRyb) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Güera y La Morena](https://open.spotify.com/album/3iUNVJ2MkizmsYYeTBxSTx) | 3:22 | 2025-03-07 | 2025-05-17 |
+| [La Llamada De Mi Ex](https://open.spotify.com/track/6SAEl9VLEqkVJ964GYSCWu) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Desde El Patio Western Club Volumen 3](https://open.spotify.com/album/6gbRsyyYZaPTWn4u0NwQ3Y) | 2:57 | 2026-07-17 |  |
 | [La Lleca](https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 3:04 | 2025-10-03 | 2026-04-11 |
 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 | 2024-08-16 | 2024-11-16 |
 | [La Mejor Decisión](https://open.spotify.com/track/1o8tDip84CWVKXmZUYtHOh) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [La Mejor Decisión](https://open.spotify.com/album/4g1hC9fKiZImPBiW04J44C) | 2:53 | 2024-07-12 | 2024-11-16 |
@@ -276,6 +278,7 @@
 | [Niña](https://open.spotify.com/track/4OdL91jpKqrQTg0ONo3xUV) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Niña](https://open.spotify.com/album/0uRoDH07L3tAGGguSjwUQS) | 2:43 | 2025-07-04 | 2026-04-11 |
 | [No Es Que Me Quiera Ir](https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Es Que Me Quiera Ir](https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl) | 4:04 | 2024-03-08 | 2024-03-23 |
 | [No Hay Solución](https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Hay Solución](https://open.spotify.com/album/4XAO6xBCAuwIH1pqrGlCqu) | 2:24 | 2024-04-19 | 2024-09-07 |
+| [No Manches](https://open.spotify.com/track/6K8F823kDw3DxCmKJA1bDN) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [No Manches](https://open.spotify.com/album/2fyDi75HoCA5JM9VdArNhw) | 3:37 | 2026-07-17 |  |
 | [No Me Digas Amor](https://open.spotify.com/track/4N6ptPHdpOhd2ZrCRbUXxt) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Meño Segovia](https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK) | [Obra Maestra](https://open.spotify.com/album/6H5D1HZktbeGJN8iDGNORq) | 3:25 | 2024-07-05 | 2025-11-15 |
 | [No Me Llores](https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [No Me Llores](https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq) | 3:18 | 2024-09-20 | 2025-03-08 |
 | [No Nos Tocaba](https://open.spotify.com/track/4ExNmJ5ng48ZIE5VG4Qdrk) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [No Nos Tocaba](https://open.spotify.com/album/6Oj9y1fLCIlSVRzNZjrFkE) | 3:28 | 2025-10-24 | 2026-02-28 |
@@ -412,6 +415,7 @@
 | [Valió La Pena Equivocarme](https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Valió La Pena Equivocarme](https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc) | 3:41 | 2025-11-07 |  |
 | [Vamos A Vernos](https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vamos A Vernos](https://open.spotify.com/album/015jWFyaGM4BLxtLlI4hjZ) | 3:37 | 2024-03-08 | 2024-04-19 |
 | [Vamos Empezando](https://open.spotify.com/track/2oHLFiokInTqoT9eNHdJXK) | [Osscar Torres](https://open.spotify.com/artist/5On5rfwAI9b3Xzn7Pta4Kw) | [Next Level](https://open.spotify.com/album/1vcNKNHsOB8BOvoie4mhdw) | 2:07 | 2026-01-16 |  |
+| [Vibra Perfecta](https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Entre Besos](https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV) | 3:07 | 2026-07-17 |  |
 | [Vida](https://open.spotify.com/track/09AQH4pekoe8dUmjdDPsDk) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rosa Con Espinas](https://open.spotify.com/album/37TbonLGqmq0MDuU2rySc9) | 4:00 | 2024-06-07 | 2024-08-03 |
 | [Vida No Te Acabes](https://open.spotify.com/track/6IiGUPWQlqGEYj5NmbEZDD) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Vida No Te Acabes](https://open.spotify.com/album/6WucACnQ81KPiu19PT0rPH) | 2:50 | 2024-03-22 | 2024-04-13 |
 | [Volando Sin Capa](https://open.spotify.com/track/2gTxauJGPngojPW39qXxuS) | [Ángel Galván](https://open.spotify.com/artist/6IuOEyhdhzyjHeHmnpofW7), [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [Volando Sin Capa](https://open.spotify.com/album/6ptEJXKI6uWdROG91NWrmV) | 2:57 | 2025-10-17 |  |

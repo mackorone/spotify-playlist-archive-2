@@ -2161,6 +2161,32 @@
     },
     {
       "album": {
+        "name": "La Moral",
+        "url": "https://open.spotify.com/album/3UF7XpIRYoSu5kQtIy1Ia1"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198038,
+      "name": "La Moral",
+      "url": "https://open.spotify.com/track/5pxH6FvlM1VhJLQodQe0da"
+    },
+    {
+      "album": {
         "name": "La Noche y Tu",
         "url": "https://open.spotify.com/album/4z6sD9fI9e7bkzc8tyyIN4"
       },

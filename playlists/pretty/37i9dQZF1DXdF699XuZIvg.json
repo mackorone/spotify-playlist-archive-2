@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 682008,
+  "num_followers": 681994,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 184040,
       "name": "Breed",
       "url": "https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Below The Belt",
-        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Had Enough",
-      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Rated R - Deluxe Edition",
         "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 163266,
       "name": "Feel Good Hit Of The Summer",
       "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Below The Belt",
+        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Death by Rock and Roll",
         "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Four by Four",
-        "url": "https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK"
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
       },
       "artists": [
         {
-          "name": "Backyard Babies",
-          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Th1rt3en or Nothing",
-      "url": "https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO"
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1199,6 +1183,22 @@
       "duration_ms": 160946,
       "name": "Caught in the Middle",
       "url": "https://open.spotify.com/track/5sdighSadfa2o9eqtMqGkC"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Four by Four",
+        "url": "https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK"
+      },
+      "artists": [
+        {
+          "name": "Backyard Babies",
+          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Th1rt3en or Nothing",
+      "url": "https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO"
     },
     {
       "added_at": "2024-11-12 16:18:09",

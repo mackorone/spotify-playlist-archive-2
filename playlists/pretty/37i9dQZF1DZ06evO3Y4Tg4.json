@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 272671,
+  "num_followers": 272719,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "albNgAAAAAAplZlZ8qbQCqq0l+HB1XA9",
+  "snapshot_id": "algfAAAAAABGdtWdqWalYM1/46aAK3A2",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Titanium & Mercury",
+        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 127750,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -283,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
+        "name": "Funky Friday",
+        "url": "https://open.spotify.com/album/1rsazGoWjl4zj4xyASJhJi"
       },
       "artists": [
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
         }
       ],
-      "duration_ms": 127750,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
+      "duration_ms": 182741,
+      "name": "Funky Friday",
+      "url": "https://open.spotify.com/track/7qVMGBe36nf1IpbsyQf1MR"
     },
     {
       "added_at": null,
@@ -315,26 +335,6 @@
       "duration_ms": 197311,
       "name": "Doesn't Just Happen",
       "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funky Friday",
-        "url": "https://open.spotify.com/album/1rsazGoWjl4zj4xyASJhJi"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        }
-      ],
-      "duration_ms": 182741,
-      "name": "Funky Friday",
-      "url": "https://open.spotify.com/track/7qVMGBe36nf1IpbsyQf1MR"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ends, Never Ends",
+        "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Same Emotions (feat. Dave)",
+      "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 323000,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1kVdMi8bWDhjp6NCf7s712"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money Talks (feat. Dave)",
-        "url": "https://open.spotify.com/album/2RPxUxIORttdHmF32D4A4O"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Money Talks (feat. Dave)",
-      "url": "https://open.spotify.com/track/6nvbfM5pVDXHNEHiZwpjkl"
     }
   ],
   "unique_name": "This Is Dave",

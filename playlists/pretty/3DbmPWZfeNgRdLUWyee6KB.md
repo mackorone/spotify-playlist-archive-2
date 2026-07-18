@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,315 likes - 175 songs - 9 hr 49 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,315 likes - 178 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,5 +183,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 173 | [Lugar Nenhum](https://open.spotify.com/track/6t18UJjBI9Ee7QELywUMjH) | [LONES](https://open.spotify.com/artist/4yh7vFViUknQaxgIe23tw0), [Lia Monteiro](https://open.spotify.com/artist/3Z66F0k3qGbKKCclCpQQ1o) | [Lugar Nenhum](https://open.spotify.com/album/0RTIBHXrkj1yDutHJZXwDk) | 3:41 |
 | 174 | [Starò bene](https://open.spotify.com/track/0knNp7uACCOqJSCeHulwyc) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Starò bene](https://open.spotify.com/album/2ealXQVsJPSmMznVRG8W4p) | 3:18 |
 | 175 | [Inno al PC](https://open.spotify.com/track/2p4h5PZvl9pPSpIKyJGotv) | [Leone Marco Bartolo](https://open.spotify.com/artist/4siIwYrFflrWFFxKuYI11J) | [Inno al PC](https://open.spotify.com/album/1f87d1xbqwItZEjgUSaMkg) | 2:51 |
+| 176 | [Clowns without Crowns](https://open.spotify.com/track/7J7kX0fWq92ecC29PTPFQC) | [Supertrendt](https://open.spotify.com/artist/4K5O7XpUvQx0S3YAFMHO8w) | [Clowns without Crowns](https://open.spotify.com/album/12RrZUaOOx3zfGkQNWV05F) | 3:57 |
+| 177 | [Desperfección](https://open.spotify.com/track/7HlFYB6p95JOQKs62BLy4H) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Desperfección](https://open.spotify.com/album/0H0XpGvk9I3TvqWc8CCdyl) | 3:13 |
+| 178 | [Losing Who I Used to Be](https://open.spotify.com/track/3oyt3P5sKEthWeTl5Dmxut) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Losing Who I Used to Be](https://open.spotify.com/album/1dGWdvcUV5brX9x6t7s3Qe) | 3:11 |
 
-Snapshot ID: `AAAWDnbRrL0JAXk5pTJpRwOJnglpM+bl`
+Snapshot ID: `AAAWETvJFn5+lL/RE5PKLI33I+ZuHKqO`

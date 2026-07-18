@@ -2,9 +2,9 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Did you know that the <a href="https://open.spotify.com/genre/section0JQ5IMCbQBLsvaMndZN0To">BTS NORMAL DAY voting </a> is currently underway? Check out the playlists for each member and vote right now! Your votes will shape the official BTS NORMAL playlist\. Also, something huge will be revealed on the 17th!
+> Check out the <a href="https://open.spotify.com/playlist/37i9dQZF1DXc3O66k5Ivui">BTS's NORMAL Day playlist </a>\. This playlist reflects your votes for each member's personal picks.
 
-561 songs - 1 day 8 hr 51 min
+563 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,8 @@
 | [No More Dream](https://open.spotify.com/track/27S8iOXD7Z58yvJtyk2S9j) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:42 | 2022-06-20 | 2022-06-22 |
 | [No\. 29](https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 1:38 | 2026-03-20 |  |
 | [NORMAL](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:01 | 2026-03-20 |  |
+| [NORMAL](https://open.spotify.com/track/5d1adDwusi5l5OsjRuIL2Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL](https://open.spotify.com/album/2eVLSqmG1Yc1XFOIljHCvl) | 3:21 | 2026-07-17 |  |
+| [NORMAL](https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL](https://open.spotify.com/album/5z3P0hbd1B5KDdAmRqeW5W) | 3:21 | 2026-07-17 |  |
 | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C) | 3:11 | 2026-04-07 |  |
 | [Not Today](https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:51 | 2022-05-27 |  |
 | [Not Today](https://open.spotify.com/track/7KlTFTpy7dXLzr2NtLkvG6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [YOU NEVER WALK ALONE](https://open.spotify.com/album/64WayBZ9Mrx8iGOpME5vpI) | 3:51 | 2022-06-10 | 2022-06-18 |

@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Jordan Susanto
 
-674 songs - 1 day 15 hr 27 min
+674 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [MIA](https://open.spotify.com/track/09eXUhQEMNokUW7xqZT3YD) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [MIA](https://open.spotify.com/album/6Uz2Mo5S7QfjoGt4bgTXfD) | 2:49 | 2025-04-10 | 2025-05-09 |
 | [Midnight and Gold](https://open.spotify.com/track/3Ynk6NortYpA8KHYCtDgQB) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Midnight and Gold](https://open.spotify.com/album/6SAihKFiXuTAeogJTUqIPI) | 2:16 | 2024-09-26 | 2024-11-29 |
 | [Mighty Island](https://open.spotify.com/track/4kb4LkXzpvmb8PgbqPRQC6) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [Mighty Island](https://open.spotify.com/album/0ySITSHIav16LX5l16jg3t) | 3:53 | 2025-02-13 | 2025-04-25 |
+| [Million Different Reasons](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 4:06 | 2026-07-16 |  |
 | [Missing You](https://open.spotify.com/track/3lIyZOz2hZLeMD8KK8br7Z) | [DAY](https://open.spotify.com/artist/5wz16QPWwXLAjpGxHaJoUS) | [have a nice DAY](https://open.spotify.com/album/0IjmpdtaR7N8HQeEViTew0) | 4:15 | 2024-12-12 | 2025-04-18 |
 | [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 | 2025-10-04 |
 | [Momentary Pleasure](https://open.spotify.com/track/3uOBIFr4hnyxXdyaHmEwDO) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Momentary Pleasure](https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj) | 3:33 | 2026-06-18 |  |
@@ -618,7 +619,6 @@
 | [TONIGHT](https://open.spotify.com/track/0lioQgT9edE4iwCx4tsHBe) | [CLDGRAY](https://open.spotify.com/artist/0w7Y9t1I6Bxzxsvu4Slpvw) | [TONIGHT](https://open.spotify.com/album/4ID9aUi9LK1oI8eNgCcdyF) | 3:08 | 2024-10-31 | 2024-11-29 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-06-27 | 2025-01-18 |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-07-11 |
-| [Track 9](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 0:00 | 2026-07-16 |  |
 | [Train Ride Home](https://open.spotify.com/track/4KzFWYSUwLYtqBP0wfECID) | [aya](https://open.spotify.com/artist/4CRwvKZuSEGCjntogXqo1N) | [Train Ride Home](https://open.spotify.com/album/51mLBZhsNZY04UPcZSgHj5) | 3:39 | 2025-04-17 | 2025-06-13 |
 | [Transition](https://open.spotify.com/track/77Cm7H3RvqXE9kXvuXjXUA) | [Soul Of Decay](https://open.spotify.com/artist/3OXI7ZdQqQyR9UmB8wExHA) | [Transition](https://open.spotify.com/album/7t2BiD6aTuWb677C2tLm93) | 4:24 | 2024-09-26 | 2025-01-24 |
 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL), [Miyane Soemitro](https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 | 2026-06-18 |  |

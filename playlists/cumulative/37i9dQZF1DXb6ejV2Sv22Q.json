@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Santi Casas en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Miranda Santizo en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "BESOS DE MARIPOSA",
+        "url": "https://open.spotify.com/album/19H94ahggsi46jSVkTC9rc"
+      },
+      "artists": [
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118549,
+      "name": "BESOS DE MARIPOSA",
+      "url": "https://open.spotify.com/track/3tM2miu8CGJUdazAiLw2ic"
+    },
+    {
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 217473,
       "name": "Cuenta mis pasos",
       "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 172304,
       "name": "de nuevo pa' Marte",
       "url": "https://open.spotify.com/track/52Obz4fuhthl4amjcKOeF0"
@@ -9747,6 +9765,24 @@
     },
     {
       "album": {
+        "name": "Se fueron los d\u00edas",
+        "url": "https://open.spotify.com/album/0XlSbGoMBq6shiCftuKMF4"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Se fueron los d\u00edas",
+      "url": "https://open.spotify.com/track/1t42r5zWWDVXKAXZ4wzpiv"
+    },
+    {
+      "album": {
         "name": "SE NOS HIZO TARDE",
         "url": "https://open.spotify.com/album/1kdWrzPf3FBWR0hldmSg0K"
       },
@@ -10517,6 +10553,24 @@
     },
     {
       "album": {
+        "name": "super coqueta",
+        "url": "https://open.spotify.com/album/2OggpSEVHKUbr3rL0Al1e2"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161382,
+      "name": "super coqueta",
+      "url": "https://open.spotify.com/track/2VTPMGKa1ClU0rlhEyxBz8"
+    },
+    {
+      "album": {
         "name": "supercogelona",
         "url": "https://open.spotify.com/album/5r0psa7ewFVoFkXQl8gA5n"
       },
@@ -11212,7 +11266,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 202573,
       "name": "TRRRMOTO",
       "url": "https://open.spotify.com/track/3D3KhQTHUInwrJRlg5Q4PO"

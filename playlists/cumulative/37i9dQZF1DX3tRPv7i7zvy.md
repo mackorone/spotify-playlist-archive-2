@@ -4,7 +4,7 @@
 
 > We Outsideeeee!
 
-137 songs - 6 hr 37 min
+138 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Stranger](https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:55 | 2026-05-01 | 2026-05-22 |
 | [Sunshine](https://open.spotify.com/track/3CZgDqy9Tmt0LOyfKX6Qqt) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Sunshine](https://open.spotify.com/album/3ttyIYcR7OfQn7fzrdLJrM) | 3:39 | 2026-05-15 | 2026-06-28 |
 | [SWAGGA](https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [SWAGGA](https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80) | 2:36 | 2026-07-17 |  |
+| [TARGET](https://open.spotify.com/track/6EsrWgxRfGjmXYwtIIjRcu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [TARGET](https://open.spotify.com/album/0vLMIEdRFpotqEiG1nZWyn) | 1:54 | 2026-07-17 |  |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2025-10-24 | 2026-05-22 |
 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 | 2026-02-06 | 2026-05-22 |
 | [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-10-24 | 2026-04-17 |
@@ -141,7 +142,7 @@
 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 | 2025-10-24 | 2026-05-22 |
 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 | 2025-10-24 |  |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2025-10-24 |  |
-| [Yahooboy](https://open.spotify.com/track/3gxE784U3RHs338iapWwos) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm), [Ngb Muni](https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm) | [Yahooboy](https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG) | 2:09 | 2026-05-22 |  |
+| [Yahooboy](https://open.spotify.com/track/3gxE784U3RHs338iapWwos) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm), [Ngb Muni](https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm) | [Yahooboy](https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG) | 2:09 | 2026-05-22 | 2026-07-18 |
 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 | 2026-04-29 |  |
 | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q) | [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/album/0B4VXn4Ur7AOmpkQLdRySW) | 2:40 | 2026-04-17 | 2026-05-15 |
 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2026-05-22 |  |

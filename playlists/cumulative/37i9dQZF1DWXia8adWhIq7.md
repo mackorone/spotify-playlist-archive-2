@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-210 songs - 12 hr 39 min
+211 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Eu Vou](https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr) | [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Eu Vou](https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp) | 3:29 | 2022-08-05 | 2024-04-19 |
 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh) | 11:25 | 2025-10-24 |  |
 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 | 2022-08-05 | 2023-09-26 |
+| [Exaltado](https://open.spotify.com/track/65syH0P18vj4pWJZyTIYA8) | [Milena](https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Exaltado](https://open.spotify.com/album/4RysOxHBjUxOhxY7CLm8wZ) | 6:31 | 2026-07-17 |  |
 | [Excede o Entendimento \- Live Session](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Live Session\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 | 2026-04-10 |  |
 | [Faltava Você](https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO) | [Samuell Villart](https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw) | [Faltava Você](https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717) | 3:14 | 2024-04-19 |  |
 | [Farol](https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW) | [Temis Handeri](https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [Farol](https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5) | 3:43 | 2024-08-30 | 2024-10-19 |
@@ -108,7 +109,7 @@
 | [Levanto um Aleluia \- Ao Vivo](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 | 2022-08-05 |  |
 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 | 2022-08-05 | 2024-04-19 |
 | [Leve](https://open.spotify.com/track/43PrjY4XPBRPx1ugdHhVPr) | [LAGOINHA ORLANDO MUSIC](https://open.spotify.com/artist/1X2NjbUvZ268C6npB0IF6Z), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/0SUxq8peQ8l86JC3YSXZBf) | 3:24 | 2023-12-22 |  |
-| [Leão de Judá • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá • BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 | 2023-08-04 |  |
+| [Leão de Judá • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá • BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 | 2023-08-04 | 2026-07-18 |
 | [Luz do Mundo](https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW) | 3:13 | 2023-04-15 | 2024-04-20 |
 | [Luz do Mundo](https://open.spotify.com/track/7srf8dPKNtroCHcUoer47G) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/3LoeSZMGFSQANRNBSuAJzL) | 3:13 | 2023-12-22 | 2024-04-19 |
 | [Lázaro](https://open.spotify.com/track/7AXlOtlLv7Ty5ZURrDUSgR) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Lázaro](https://open.spotify.com/album/0FiYmAl3eNisdKUmK3qOea) | 4:25 | 2025-11-30 | 2025-12-16 |

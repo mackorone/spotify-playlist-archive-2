@@ -29677,6 +29677,24 @@
     },
     {
       "album": {
+        "name": "IN YA NECK",
+        "url": "https://open.spotify.com/album/6q9zu5S9XZBLU1UYfxJrwG"
+      },
+      "artists": [
+        {
+          "name": "Suspect",
+          "url": "https://open.spotify.com/artist/1g5TBMBIK1S48I5amyae6u"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121875,
+      "name": "IN YA NECK",
+      "url": "https://open.spotify.com/track/0Iu5rtJB9edP4Xpb81smz7"
+    },
+    {
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/0TC3HdRtPANh2YIUn5MGy9"
       },

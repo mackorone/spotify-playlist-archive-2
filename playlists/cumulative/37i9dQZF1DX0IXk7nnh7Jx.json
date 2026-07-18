@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the best songs from faith-based indie artists.  Cover: Allison Eide",
+  "description": "Listen to the best songs from faith-based indie artists.  Cover: Gable Price without Friends",
   "name": "Indie Spirit",
   "tracks": [
     {
@@ -680,6 +680,24 @@
       "duration_ms": 224388,
       "name": "Are You There, Do You Care",
       "url": "https://open.spotify.com/track/05i5Z4lz4876TjOofZwBq6"
+    },
+    {
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
     },
     {
       "album": {
@@ -2583,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Decay",
+        "url": "https://open.spotify.com/album/3jPDj7pEs0bJsaFuYVlBti"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Torrens",
+          "url": "https://open.spotify.com/artist/44pylNYJsi2kZZNyxruroW"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/0Cg8dILW4Rly10d1Al4Yop"
+    },
+    {
+      "album": {
         "name": "Deconstruction",
         "url": "https://open.spotify.com/album/2GgbtY9mlWdhEoWctT1Qva"
       },
@@ -2805,6 +2841,28 @@
     },
     {
       "album": {
+        "name": "Don't Runaway",
+        "url": "https://open.spotify.com/album/3LlsY3HphvGLJ5OIAygyrn"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205371,
+      "name": "Don't Runaway",
+      "url": "https://open.spotify.com/track/5YkTu7GZrtSNfKfTLDCyJO"
+    },
+    {
+      "album": {
         "name": "Don't Worry 'Bout It",
         "url": "https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv"
       },
@@ -3000,7 +3058,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 208961,
       "name": "Easel",
       "url": "https://open.spotify.com/track/2teuBu0Dl8jHlMIqNVyvrI"
@@ -3285,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Every Tear",
+        "url": "https://open.spotify.com/album/6ePFbb6Oo5DUrlSQspwEr7"
+      },
+      "artists": [
+        {
+          "name": "HERITVGE",
+          "url": "https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139249,
+      "name": "Every Tear",
+      "url": "https://open.spotify.com/track/2m5RTWRcDc5IwdIUfgYxLL"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1yOfZE5fvP1ndI190IrKq1"
       },
@@ -3376,6 +3452,24 @@
       "duration_ms": 196866,
       "name": "Everything Else But Rain (with Lucius)",
       "url": "https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING.",
+        "url": "https://open.spotify.com/album/0o5sVZ3GbbPaqsFNTLcqpH"
+      },
+      "artists": [
+        {
+          "name": "ALTAR POETRY",
+          "url": "https://open.spotify.com/artist/3c1TfhJzB4ZYEiaWQPRNdv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260787,
+      "name": "EVERYTHING.",
+      "url": "https://open.spotify.com/track/002vR3Z3GD2ClHm3LgqIPc"
     },
     {
       "album": {
@@ -5150,7 +5244,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 315392,
       "name": "Heaven Closes Doors (reimagined)",
       "url": "https://open.spotify.com/track/5dJHRM6Z8shJn5y59KM8ND"
@@ -7144,7 +7238,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 136708,
       "name": "Joseph",
       "url": "https://open.spotify.com/track/10tTSoJcfLphfXnpx8gxJb"
@@ -9627,6 +9721,28 @@
     },
     {
       "album": {
+        "name": "ON TO SOMETHING",
+        "url": "https://open.spotify.com/album/3ftjJL73VsYB6oe1kHfSoJ"
+      },
+      "artists": [
+        {
+          "name": "I Project",
+          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
+        },
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202941,
+      "name": "ON TO SOMETHING",
+      "url": "https://open.spotify.com/track/2bG5dFrGm4gofIfoMrzD3u"
+    },
+    {
+      "album": {
         "name": "One God",
         "url": "https://open.spotify.com/album/23l80lzNRGwsOXWKWoXPA0"
       },
@@ -9844,7 +9960,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 176000,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/67GgkBHYX6x3qzXkNqS5oJ"
@@ -11186,7 +11302,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 171586,
       "name": "SACRED HEART",
       "url": "https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1"
@@ -11728,6 +11844,24 @@
       "duration_ms": 253940,
       "name": "Smell The Roses",
       "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
+    },
+    {
+      "album": {
+        "name": "So Far, So Fine",
+        "url": "https://open.spotify.com/album/3R9IvICpmTITQcnCAR7x8j"
+      },
+      "artists": [
+        {
+          "name": "Alvin Love",
+          "url": "https://open.spotify.com/artist/6Hng7qHsjVDwppa6jmwHgk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207919,
+      "name": "So Far, So Fine",
+      "url": "https://open.spotify.com/track/3QmAbaUqmHfj3B7UDSQlPU"
     },
     {
       "album": {
@@ -12953,6 +13087,24 @@
     },
     {
       "album": {
+        "name": "Talking Like Friends",
+        "url": "https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292857,
+      "name": "Talking Like Friends",
+      "url": "https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht"
+    },
+    {
+      "album": {
         "name": "Talking To A Dove",
         "url": "https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb"
       },
@@ -13888,7 +14040,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 190084,
       "name": "together forever",
       "url": "https://open.spotify.com/track/28CX4c59AswgTJgt0BB6m1"
@@ -15202,7 +15354,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 227226,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5s8sOdSoJFcahdaqPjAsD1"
@@ -15720,7 +15872,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 169002,
       "name": "You Started Fires",
       "url": "https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh"

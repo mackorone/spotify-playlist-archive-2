@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - Bella Poarch on the cover",
+  "description": "sweet. sharp. unbothered - Emi Grace on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -1460,6 +1460,24 @@
       "duration_ms": 184421,
       "name": "BAD IDEA",
       "url": "https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u"
+    },
+    {
+      "album": {
+        "name": "Bad Ones",
+        "url": "https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165801,
+      "name": "Bad Ones",
+      "url": "https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6"
     },
     {
       "album": {
@@ -6740,7 +6758,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 135758,
       "name": "Girls Are So Lucky",
       "url": "https://open.spotify.com/track/1iyDMAsVPrn25iGiqjI9Ev"
@@ -12657,6 +12675,24 @@
     },
     {
       "album": {
+        "name": "NINE-ONE-ONE",
+        "url": "https://open.spotify.com/album/50bkgKigPtMZSJNMxhBDO6"
+      },
+      "artists": [
+        {
+          "name": "insha",
+          "url": "https://open.spotify.com/artist/1JK3iEviLgJX7BeMmBnKD9"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101172,
+      "name": "NINE-ONE-ONE",
+      "url": "https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7"
+    },
+    {
+      "album": {
         "name": "No Comma",
         "url": "https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4"
       },
@@ -13416,7 +13452,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 194028,
       "name": "PAPERCUT",
       "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
@@ -16225,6 +16261,24 @@
     },
     {
       "album": {
+        "name": "SMH",
+        "url": "https://open.spotify.com/album/3KUImf8fghGXzP2YpmRWmy"
+      },
+      "artists": [
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133625,
+      "name": "SMH",
+      "url": "https://open.spotify.com/track/07I8k93iDfq3yZMZPyvUJ1"
+    },
+    {
+      "album": {
         "name": "Smoking Weed Alone",
         "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
       },
@@ -18201,6 +18255,24 @@
     },
     {
       "album": {
+        "name": "Too Fast To Live, Too Young To Die",
+        "url": "https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201340,
+      "name": "Too Fast To Live, Too Young To Die",
+      "url": "https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL"
+    },
+    {
+      "album": {
         "name": "young forever",
         "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
       },
@@ -20018,7 +20090,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 196156,
       "name": "Who's That Calling?",
       "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"

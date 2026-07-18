@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with Shenseea.",
+  "description": "The latest in world music. From the continent, to the islands with Buju Banton.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 155428,
       "name": "10 MINUTES",
       "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 148474,
       "name": "ALL NIGHT LONG",
       "url": "https://open.spotify.com/track/5DvdtBY6G6swbOsS1nwhfY"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 176909,
       "name": "Bad",
       "url": "https://open.spotify.com/track/2mYTrNPWiFAritdBxPTMD6"
@@ -8578,7 +8578,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 142574,
       "name": "Don't Jealous Me",
       "url": "https://open.spotify.com/track/0uGh5E6knlnC4VsXXDslp1"
@@ -9139,6 +9139,24 @@
     },
     {
       "album": {
+        "name": "E CLEAR",
+        "url": "https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "E CLEAR",
+      "url": "https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1"
+    },
+    {
+      "album": {
         "name": "E.I.O",
         "url": "https://open.spotify.com/album/4EwLE9yy1GQZSckfnXdBrw"
       },
@@ -9450,7 +9468,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 202027,
       "name": "Emotional High",
       "url": "https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE"
@@ -9688,6 +9706,32 @@
       "duration_ms": 211234,
       "name": "Energy (Remix)",
       "url": "https://open.spotify.com/track/2lNDulvibLbZ1OYA2ZFwL6"
+    },
+    {
+      "album": {
+        "name": "Energy Up",
+        "url": "https://open.spotify.com/album/2ldPMEFvIriZcWHSbHF61k"
+      },
+      "artists": [
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "PoLaBeAtZ",
+          "url": "https://open.spotify.com/artist/6bfOllgTvA3CG8wzEbIJ1s"
+        },
+        {
+          "name": "Epik Jones",
+          "url": "https://open.spotify.com/artist/6kI7MtafHYMtYIjCYpXfMb"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195253,
+      "name": "Energy Up",
+      "url": "https://open.spotify.com/track/0iBa72wWCw4BJBBULuB2tm"
     },
     {
       "album": {
@@ -10454,7 +10498,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 154838,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
@@ -11953,6 +11997,28 @@
     },
     {
       "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+    },
+    {
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -12804,7 +12870,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 118674,
       "name": "Guns",
       "url": "https://open.spotify.com/track/0cD1jhVKlPCkSqdAFMW2vw"
@@ -14096,6 +14162,24 @@
       "duration_ms": 205000,
       "name": "Hotta",
       "url": "https://open.spotify.com/track/5nRbUg6RP7LjGx9gDAxPOO"
+    },
+    {
+      "album": {
+        "name": "Too Too Bad",
+        "url": "https://open.spotify.com/album/0XXkEYOyHM2Lpb09pME4rl"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157107,
+      "name": "House Call",
+      "url": "https://open.spotify.com/track/1P2YMHIhDi0Oszip9SpdtS"
     },
     {
       "album": {
@@ -15886,7 +15970,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 219619,
       "name": "Joy",
       "url": "https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF"
@@ -17680,7 +17764,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 175000,
       "name": "Like We",
       "url": "https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s"
@@ -20260,7 +20344,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 179448,
       "name": "More Life",
       "url": "https://open.spotify.com/track/2RprzGCnXQpLeLnL8JixWd"
@@ -20772,7 +20856,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 157023,
       "name": "MY HEALER",
       "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
@@ -22680,7 +22764,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156428,
       "name": "Omo",
       "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"
@@ -23098,6 +23182,28 @@
       "duration_ms": 200640,
       "name": "ONE TRACK MIND",
       "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
+    },
+    {
+      "album": {
+        "name": "ONE TRACK MIND (feat. Jessie Reyez) [Remix]",
+        "url": "https://open.spotify.com/album/2VDpcuBqKknufqEcuMPjDw"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197493,
+      "name": "ONE TRACK MIND (feat. Jessie Reyez) - Remix",
+      "url": "https://open.spotify.com/track/2EtfjweGDQ7RyD9T6i5Wh0"
     },
     {
       "album": {
@@ -23726,7 +23832,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 126600,
       "name": "Panic",
       "url": "https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8"
@@ -25912,7 +26018,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 130285,
       "name": "Realize",
       "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
@@ -28161,6 +28267,32 @@
     },
     {
       "album": {
+        "name": "Simi Kanje (feat. Focalistic & Mas Musiq)",
+        "url": "https://open.spotify.com/album/1qIf7lGtybdN6RIpNaVFqd"
+      },
+      "artists": [
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334425,
+      "name": "Simi Kanje (feat. Focalistic & Mas Musiq)",
+      "url": "https://open.spotify.com/track/0CpcIsOj97GACTtuOeAwca"
+    },
+    {
+      "album": {
         "name": "Blended",
         "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
       },
@@ -29622,7 +29754,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 163369,
       "name": "Stinkin' Rich",
       "url": "https://open.spotify.com/track/0nUqiL6HY8f73tlHs5eXEE"
@@ -30566,6 +30698,28 @@
       "duration_ms": 170789,
       "name": "TAPE MEASURE",
       "url": "https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp"
+    },
+    {
+      "album": {
+        "name": "TARGET",
+        "url": "https://open.spotify.com/album/0vLMIEdRFpotqEiG1nZWyn"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114545,
+      "name": "TARGET",
+      "url": "https://open.spotify.com/track/6EsrWgxRfGjmXYwtIIjRcu"
     },
     {
       "album": {
@@ -32874,7 +33028,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 192512,
       "name": "Umteen",
       "url": "https://open.spotify.com/track/6dDkNhyawoK4GC1017Sb5K"
@@ -36090,7 +36244,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 308241,
       "name": "ZEP (feat. Uncool MC)",
       "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"

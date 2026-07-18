@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 4612,
+  "num_followers": 4652,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 314772,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -543,18 +543,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 274053,
+      "name": "Sondela (feat. Zano)",
+      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -575,22 +579,18 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
       },
       "artists": [
         {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        },
-        {
-          "name": "ZANO",
-          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
         }
       ],
-      "duration_ms": 274053,
-      "name": "Sondela (feat. Zano)",
-      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
+      "duration_ms": 314772,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
     },
     {
       "added_at": "2026-04-24 07:22:05",

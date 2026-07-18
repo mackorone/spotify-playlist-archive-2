@@ -85575,6 +85575,28 @@
     },
     {
       "album": {
+        "name": "Ikkimel die Geile EP",
+        "url": "https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN"
+      },
+      "artists": [
+        {
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115575,
+      "name": "Ikkimel die Geile",
+      "url": "https://open.spotify.com/track/5M9YGWs77ZXuHJ9WEDJ5Xx"
+    },
+    {
+      "album": {
         "name": "for your validation",
         "url": "https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd"
       },
@@ -101361,6 +101383,24 @@
     },
     {
       "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
+    },
+    {
+      "album": {
         "name": "light up",
         "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
       },
@@ -108908,12 +108948,16 @@
         {
           "name": "Karamel19",
           "url": "https://open.spotify.com/artist/2NKelK5LrcVeYoDdEBVhmm"
+        },
+        {
+          "name": "1019",
+          "url": "https://open.spotify.com/artist/3r82jUxl7ThSdOhB90Qn6u"
         }
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 137142,
+      "duration_ms": 140000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/0M2OTvnCwydLpgA0xBrICT"
     },
@@ -193496,6 +193540,24 @@
       "duration_ms": 153490,
       "name": "Yummy",
       "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"
+    },
+    {
+      "album": {
+        "name": "ZAHA HADID / BETTY BOO",
+        "url": "https://open.spotify.com/album/16UlU7ToiHTxgcCFNzFsmD"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "ZAHA HADID",
+      "url": "https://open.spotify.com/track/2WPEmFV04K6e4h9ewm8eyh"
     },
     {
       "album": {

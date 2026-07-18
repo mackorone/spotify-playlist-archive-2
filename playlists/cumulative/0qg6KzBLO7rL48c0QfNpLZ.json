@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161086,
       "name": "Autumn's End",
       "url": "https://open.spotify.com/track/0mzt5RJDfGnPM9ik7gULaV"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161250,
       "name": "Back To Her",
       "url": "https://open.spotify.com/track/0Q4uYxQsR4UwtGeD0RwE3I"
@@ -2294,6 +2294,32 @@
       "duration_ms": 205086,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "album": {
+        "name": "Bathi",
+        "url": "https://open.spotify.com/album/3Vv81qXsaYrbq8r8NkrSKJ"
+      },
+      "artists": [
+        {
+          "name": "Feel On Eel",
+          "url": "https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL"
+        },
+        {
+          "name": "Samyorai",
+          "url": "https://open.spotify.com/artist/2UXHA2ybF5pQOmjllYoOsE"
+        },
+        {
+          "name": "Black Winter",
+          "url": "https://open.spotify.com/artist/0OI8QP7CaBFEg5IBcvLkWu"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166229,
+      "name": "Bathi",
+      "url": "https://open.spotify.com/track/5rUddYmbSf5pMtedSzIASX"
     },
     {
       "album": {
@@ -3080,6 +3106,24 @@
     {
       "album": {
         "name": "Bloom",
+        "url": "https://open.spotify.com/album/0047qdyGTLygeJRqUHqlqp"
+      },
+      "artists": [
+        {
+          "name": "Leo Chase",
+          "url": "https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1n7LIPe4SBiqKKmvm0yTHY"
+    },
+    {
+      "album": {
+        "name": "Bloom",
         "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
       },
       "artists": [
@@ -3254,6 +3298,32 @@
       "duration_ms": 162418,
       "name": "Body",
       "url": "https://open.spotify.com/track/32ZEpRQ9NSvx5n5cMYxPI6"
+    },
+    {
+      "album": {
+        "name": "Body Lover",
+        "url": "https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "NASHUP",
+          "url": "https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp"
+        },
+        {
+          "name": "Liz Huett",
+          "url": "https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147058,
+      "name": "Body Lover",
+      "url": "https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za"
     },
     {
       "album": {
@@ -4934,7 +5004,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 171724,
       "name": "Chills",
       "url": "https://open.spotify.com/track/7mCz5ly2yn5HEzc34IgUQG"
@@ -6102,7 +6172,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 153846,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/1fmAJ5Z4pzAwq1QzEd7Vkl"
@@ -11461,6 +11531,42 @@
     },
     {
       "album": {
+        "name": "Golden Ticket (runaway)",
+        "url": "https://open.spotify.com/album/3PW6pJ9KoAiLyJUBu9ZueA"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "Golden Ticket (runaway)",
+      "url": "https://open.spotify.com/track/0RZ5f33yE6l3L8RWIDvnyG"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/4jtQjO02OFO5dPA1CqQyZ3"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138383,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/0XYrvLxH7nL9L7T915Si4g"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6Akq8POXXtnSCqrl69v374"
       },
@@ -11648,6 +11754,28 @@
       "duration_ms": 204269,
       "name": "Goodbye Pain",
       "url": "https://open.spotify.com/track/47S9rbFZCpNPIgwsvrraD0"
+    },
+    {
+      "album": {
+        "name": "Got Your Back",
+        "url": "https://open.spotify.com/album/14E1jWCtcBROmq9tXyQMQO"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Got Your Back",
+      "url": "https://open.spotify.com/track/0XhW7zZ6vKJlUoZwZFpCKb"
     },
     {
       "album": {
@@ -12058,7 +12186,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 161666,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/63HuRSLtTHIJJAvbRWnMJe"
@@ -15557,6 +15685,24 @@
     },
     {
       "album": {
+        "name": "it's all about u",
+        "url": "https://open.spotify.com/album/2UdXpP0WFy2Y4Y8bWoQ8K4"
+      },
+      "artists": [
+        {
+          "name": "Dimside",
+          "url": "https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "it's all about u",
+      "url": "https://open.spotify.com/track/5pw9d4UlmCbSoTj32we77r"
+    },
+    {
+      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/5c3CShjHf15owq8IGonpkj"
       },
@@ -17437,6 +17583,24 @@
     },
     {
       "album": {
+        "name": "Listen to Me",
+        "url": "https://open.spotify.com/album/3JL3KezizmBjJXdvoaHmVc"
+      },
+      "artists": [
+        {
+          "name": "littleclos\u00e9r",
+          "url": "https://open.spotify.com/artist/2puYhA9w6zwvK30sZdXAL6"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188610,
+      "name": "Listen to Me",
+      "url": "https://open.spotify.com/track/2vCiNcXV1rnrgjsvYLjK4h"
+    },
+    {
+      "album": {
         "name": "Sticker on My Suitcase",
         "url": "https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy"
       },
@@ -18586,6 +18750,24 @@
       "duration_ms": 137076,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/0Mwie7rYZP4ENgcxNTjRFV"
+    },
+    {
+      "album": {
+        "name": "Loving you is fun",
+        "url": "https://open.spotify.com/album/5PVtNDOnMeOsWhr459TcDT"
+      },
+      "artists": [
+        {
+          "name": "XooFa",
+          "url": "https://open.spotify.com/artist/7jBi5RIIa9LBwZ1n4LhWR5"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Loving you is fun",
+      "url": "https://open.spotify.com/track/4HkUQaDJqUJ23IAYcM1STc"
     },
     {
       "album": {
@@ -25325,6 +25507,28 @@
     },
     {
       "album": {
+        "name": "Seaside",
+        "url": "https://open.spotify.com/album/3QyaHxkBDj98yZrO7L37U5"
+      },
+      "artists": [
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        },
+        {
+          "name": "just here.",
+          "url": "https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/6YES6FctjNb6JA0wuzLd1U"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/6febUrpRVTIdcosvKpnsHO"
       },
@@ -26647,6 +26851,24 @@
     },
     {
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/6joCxji4nHL881MFI3xeot"
+      },
+      "artists": [
+        {
+          "name": "Weltmusik",
+          "url": "https://open.spotify.com/artist/6DAwtEUtTFwWHRj82p5rFC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253750,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/0ErcNBXzUgwgRoPC5qymkb"
+    },
+    {
+      "album": {
         "name": "Something In My Mind",
         "url": "https://open.spotify.com/album/5hynhqWQUPfhWbB1tEfy0f"
       },
@@ -26680,7 +26902,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156388,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/4VAAFEztiLbIxGkmjnGelC"
@@ -29246,6 +29468,32 @@
       "duration_ms": 197000,
       "name": "The King's Child",
       "url": "https://open.spotify.com/track/5iq7dStaD9J8MLs0Ubi6yF"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/1q7ppq8UXKo53EcBpnSFYJ"
+      },
+      "artists": [
+        {
+          "name": "Keymos",
+          "url": "https://open.spotify.com/artist/3jYmochIImw0vubNZp6aBA"
+        },
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "Lighthouse",
+          "url": "https://open.spotify.com/artist/6Q28LLNTnOdjlYJy6gfEHS"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142956,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5tqBlFMWgjNp2k0rhifrcS"
     },
     {
       "album": {
@@ -32626,7 +32874,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 152076,
       "name": "White Dress",
       "url": "https://open.spotify.com/track/4ChDixKsaYzymz7GKC0ntl"
@@ -32850,6 +33098,28 @@
       "duration_ms": 133000,
       "name": "Wish You All the Best",
       "url": "https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX"
+    },
+    {
+      "album": {
+        "name": "Wish You Would",
+        "url": "https://open.spotify.com/album/3ofXMswKeWAWPfSDT4EvMx"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Wish You Would",
+      "url": "https://open.spotify.com/track/13iGkuelmlCB0W8zC78IB2"
     },
     {
       "album": {

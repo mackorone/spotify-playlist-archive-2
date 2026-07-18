@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Q´Lokura & Angela Leiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,078 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,286 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 11 | [Una Lloradita](https://open.spotify.com/track/1smCMVhwmDYPdi8saWC6zE) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Una Lloradita](https://open.spotify.com/album/5XCYg9ErySM1NF7eop7y3P) | 2:38 |
 | 12 | [Puro Teatro](https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL) | [Celeste Sanazi](https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd) | [Puro Teatro](https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E) | 2:17 |
 | 13 | [COSMOS 2000](https://open.spotify.com/track/0hAfKF6J1v8g98On7RsYmB) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [CUMBIAVISION](https://open.spotify.com/album/2cg2FbrRChPS54ri8Uess6) | 3:07 |
-| 14 | [Track 5](https://open.spotify.com/track/1IfAofeT93fy4lgpsgkkmW) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [América!](https://open.spotify.com/album/0chPyqe4UGP3ty0e7jt1bE) | 0:00 |
+| 14 | [Me Tienes Sin Cuidado](https://open.spotify.com/track/1IfAofeT93fy4lgpsgkkmW) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS), [Kiko Ruiz](https://open.spotify.com/artist/753PsoHY5ZWmRF0UjvcN5R) | [América!](https://open.spotify.com/album/0chPyqe4UGP3ty0e7jt1bE) | 4:01 |
 | 15 | [Soukou'e](https://open.spotify.com/track/69AhyaRIKDn8Qg9o7aZBP2) | [Tribu Baharú](https://open.spotify.com/artist/55TyqBcG040D9KPsyhxAb3) | [Soukou'e](https://open.spotify.com/album/5cjX4ZYFvsRHBmP1U0u1Dv) | 2:22 |
 | 16 | [Cumbia De La Pura](https://open.spotify.com/track/6yn1nwvlXunbYmzCOWPk7o) | [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [MEDIA NARANJA / Zapada EN VIVO en UN POCO DE RUIDO !](https://open.spotify.com/album/4GX9be3tcee1TlMPwY6qwi) | 2:09 |
 | 17 | [Sobria No Me Aguanto \- Remix](https://open.spotify.com/track/21WvhIm5nmBJlx8xdFIVz5) | [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Pablo Daniel Rodriguez Medina](https://open.spotify.com/artist/2eVVFvavOtfJ4xry7ly5v9) | [Sobria No Me Aguanto \(Remix\)](https://open.spotify.com/album/5gzsle4fkBaHli6YIJEItD) | 2:33 |

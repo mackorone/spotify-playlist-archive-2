@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-408 songs - 1 day 12 hr 53 min
+409 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Die Maschine auf Diskette 2](https://open.spotify.com/track/4nhnu43OWDMMfu9BeWH7eO) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Die Maschine auf Diskette 2](https://open.spotify.com/album/1MEvGJ9G7CS9CJl5e7QTrq) | 7:33 | 2025-01-17 | 2026-04-18 |
 | [DIGITAL ANIMAL](https://open.spotify.com/track/009NVh13DVQlXjkodfkdRW) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [DIGITAL ANIMAL](https://open.spotify.com/album/2i0XXFCLY4I7YOgxVYRKIN) | 3:01 | 2026-07-10 |  |
 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 | 2023-11-24 | 2024-05-11 |
+| [Dirty Beat](https://open.spotify.com/track/3DSY7B0roAopGKkCQGut3K) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Dirty Beat](https://open.spotify.com/album/2uZkvxbfbloSSWoST9x1IP) | 3:04 | 2026-07-17 |  |
 | [Distance](https://open.spotify.com/track/2c3TM6Zp1IHd3insEzf9ar) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj) | [New Electronic Folk and the Floor](https://open.spotify.com/album/5pROYlIuHsXwxFV6PWRtnW) | 5:38 | 2023-02-10 | 2023-03-04 |
 | [Distant Love](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 | 2023-10-27 |  |
 | [Disturbing Paradise](https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [44024](https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf) | 3:50 | 2026-04-17 |  |

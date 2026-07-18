@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 89480,
+  "num_followers": 89521,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm",
+  "snapshot_id": "AAAAAD6DqzqZl1Y7hHpRaCAoEJO2cLYo",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:00:01",
+      "album": {
+        "name": "The Phoenix",
+        "url": "https://open.spotify.com/album/0RkCLagJCR15B421nm6KZv"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 297240,
+      "name": "Heart Of Gold",
+      "url": "https://open.spotify.com/track/7LTjvG0l6UrXGMdl5Efh9U"
+    },
     {
       "added_at": "2026-07-03 04:00:32",
       "album": {
@@ -43,6 +59,22 @@
       "duration_ms": 250506,
       "name": "As It Stands",
       "url": "https://open.spotify.com/track/5GupsSpPccdnagZTTAfPTQ"
+    },
+    {
+      "added_at": "2026-07-17 04:00:01",
+      "album": {
+        "name": "Strollin'",
+        "url": "https://open.spotify.com/album/7ntJSSAKg3nPnad334iGjv"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 270625,
+      "name": "Strollin'",
+      "url": "https://open.spotify.com/track/5qD4Zm5ttUXOAsW18xfAki"
     },
     {
       "added_at": "2026-06-12 04:00:20",
@@ -1629,22 +1661,6 @@
       "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Comfort Zone",
-        "url": "https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Please Mr. Groove",
-      "url": "https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5"
-    },
-    {
       "added_at": "2023-10-13 04:01:00",
       "album": {
         "name": "On the Up and Up",
@@ -1775,26 +1791,6 @@
       "duration_ms": 179494,
       "name": "Solag",
       "url": "https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Do You Really Trust Yourself",
-        "url": "https://open.spotify.com/album/3FIGKThoaQz1jLMcK2rap9"
-      },
-      "artists": [
-        {
-          "name": "Michael Benedikt",
-          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
-        },
-        {
-          "name": "Lukas Thoeni",
-          "url": "https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Do You Really Trust Yourself",
-      "url": "https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx"
     }
   ],
   "unique_name": "New Smooth Jazz",

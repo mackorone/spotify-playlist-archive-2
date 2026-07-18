@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Truth for Lies",
+        "url": "https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh"
+      },
+      "artists": [
+        {
+          "name": "Remedies",
+          "url": "https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205829,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2gSkYHCtONOOIX4ukgAYx0"
+    },
+    {
+      "album": {
         "name": "Brian and Old Tom",
         "url": "https://open.spotify.com/album/1Mcn2OsWWMIvtAdlxNOStf"
       },
@@ -6342,6 +6360,24 @@
       "duration_ms": 278298,
       "name": "One Stop Shop",
       "url": "https://open.spotify.com/track/1QKElGLbQn31oYe2vTtngF"
+    },
+    {
+      "album": {
+        "name": "One Way Out",
+        "url": "https://open.spotify.com/album/34LOAm5Emkw1jlx8OTOiGW"
+      },
+      "artists": [
+        {
+          "name": "Twin Phase",
+          "url": "https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "One Way Out",
+      "url": "https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas"
     },
     {
       "album": {

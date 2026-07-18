@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2198837,
+  "num_followers": 2199104,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqlPcZMCk0l4uJImAmHANbKuBK7",
+  "snapshot_id": "AAAAAIZk8pVhdSOA2iqstJor2wLhjWTM",
   "tracks": [
     {
       "added_at": "2026-05-25 21:42:21",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
+      "added_at": "2026-07-17 04:02:04",
+      "album": {
+        "name": "Bad Ones",
+        "url": "https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 165801,
+      "name": "Bad Ones",
+      "url": "https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Blonde",
@@ -395,22 +411,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -797,22 +813,6 @@
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
     },
     {
-      "added_at": "2025-08-01 04:00:22",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
       "added_at": "2025-07-03 03:36:52",
       "album": {
         "name": "Dummy",
@@ -827,6 +827,22 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2025-08-01 04:00:22",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1505,22 +1521,6 @@
       "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
     },
     {
-      "added_at": "2026-06-12 04:45:47",
-      "album": {
-        "name": "ENAMORED",
-        "url": "https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 168892,
-      "name": "ENAMORED",
-      "url": "https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b"
-    },
-    {
       "added_at": "2026-02-03 17:00:46",
       "album": {
         "name": "Do I Wanna Know?",
@@ -1535,6 +1535,22 @@
       "duration_ms": 232632,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE"
+    },
+    {
+      "added_at": "2026-06-12 04:45:47",
+      "album": {
+        "name": "ENAMORED",
+        "url": "https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 168892,
+      "name": "ENAMORED",
+      "url": "https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b"
     },
     {
       "added_at": "2026-05-01 04:01:09",
@@ -1585,22 +1601,6 @@
       "url": "https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz"
     },
     {
-      "added_at": "2026-02-20 05:35:55",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 167481,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
-    },
-    {
       "added_at": "2026-05-25 21:42:21",
       "album": {
         "name": "Sex with my Ex",
@@ -1615,6 +1615,22 @@
       "duration_ms": 179726,
       "name": "Sex with my Ex",
       "url": "https://open.spotify.com/track/36LKcafeByy2ybG5783w7e"
+    },
+    {
+      "added_at": "2026-02-20 05:35:55",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 167481,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
     },
     {
       "added_at": "2025-02-14 05:00:31",
@@ -1633,22 +1649,6 @@
       "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
     },
     {
-      "added_at": "2026-05-01 04:01:09",
-      "album": {
-        "name": "PROSTITUTE",
-        "url": "https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 188497,
-      "name": "PROSTITUTE",
-      "url": "https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H"
-    },
-    {
       "added_at": "2026-03-20 04:00:31",
       "album": {
         "name": "more than just a little bit",
@@ -1663,6 +1663,22 @@
       "duration_ms": 160382,
       "name": "more than just a little bit",
       "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
+    },
+    {
+      "added_at": "2026-05-01 04:01:09",
+      "album": {
+        "name": "PROSTITUTE",
+        "url": "https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 188497,
+      "name": "PROSTITUTE",
+      "url": "https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H"
     },
     {
       "added_at": "2025-02-04 01:02:45",
@@ -1683,22 +1699,6 @@
       "duration_ms": 223853,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     }
   ],
   "unique_name": "goosebumps",

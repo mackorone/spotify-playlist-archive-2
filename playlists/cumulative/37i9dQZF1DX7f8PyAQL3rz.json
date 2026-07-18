@@ -10782,7 +10782,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 180923,
       "name": "MUNDO INVERTIDO",
       "url": "https://open.spotify.com/track/0PiKL2Db7LVyKkrGgMgNmt"
@@ -13411,6 +13411,36 @@
     },
     {
       "album": {
+        "name": "Rugal & Bomfino",
+        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204562,
+      "name": "Pique B.I.G",
+      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
+    },
+    {
+      "album": {
         "name": "Piranha",
         "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
       },
@@ -15643,6 +15673,36 @@
     },
     {
       "album": {
+        "name": "SEM PALA",
+        "url": "https://open.spotify.com/album/7ibrH7cF754U6OZWs9APIB"
+      },
+      "artists": [
+        {
+          "name": "Deck9",
+          "url": "https://open.spotify.com/artist/6Rbo9jVwd5k3ZFs6PEBEl9"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214942,
+      "name": "SEM PALA",
+      "url": "https://open.spotify.com/track/4Lm84NyoIXijOHdNoTU5Ma"
+    },
+    {
+      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -16960,7 +17020,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-18",
       "duration_ms": 156000,
       "name": "S\u00f3 Lazer",
       "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
@@ -18676,6 +18736,36 @@
       "duration_ms": 141557,
       "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
+    },
+    {
+      "album": {
+        "name": "Vit\u00f3ria Regia",
+        "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
+      },
+      "artists": [
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/7FGbhQp2Mk48Ik3N93dF6E"
+        },
+        {
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/0AbPEIkqBEiXudoPFPfEDp"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195582,
+      "name": "Vit\u00f3ria Regia",
+      "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
     },
     {
       "album": {

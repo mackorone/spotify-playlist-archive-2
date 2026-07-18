@@ -1,13 +1,61 @@
 {
   "description": "just trying our best",
-  "num_followers": 1541208,
+  "num_followers": 1541022,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIgvNFjBha5DZRB6g+Bq8vktEvlg",
+  "snapshot_id": "AAAAAGrOI7QiWZPSbaxj0CYE+zv/eCi1",
   "tracks": [
+    {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "In My Victoria's Secret",
+        "url": "https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 160287,
+      "name": "In My Victoria's Secret",
+      "url": "https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY"
+    },
+    {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 120340,
+      "name": "Minibar",
+      "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
+    },
+    {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "Lost On The Way To Paradise",
+        "url": "https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "duration_ms": 159709,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL"
+    },
     {
       "added_at": "2026-06-26 04:02:15",
       "album": {
@@ -25,6 +73,70 @@
       "url": "https://open.spotify.com/track/5cKe5uG14ySc9DNb15np2J"
     },
     {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "Love Love (Love Love)",
+        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Love Love (Love Love)",
+      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
+    },
+    {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+    },
+    {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "Isn't it sweeter?",
+        "url": "https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 150901,
+      "name": "A Little More Fun",
+      "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
+    },
+    {
       "added_at": "2026-07-05 15:36:05",
       "album": {
         "name": "born to lose",
@@ -39,6 +151,38 @@
       "duration_ms": 194934,
       "name": "born to lose",
       "url": "https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9"
+    },
+    {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/4UP49Ej1ATTxZ7DLilJAno"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/1BQskN4wN6MEL2qTAhPTkP"
+    },
+    {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "I Wish I Didn't Care",
+        "url": "https://open.spotify.com/album/2fwufOZ2Gyk3Vh3XQZIxnu"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andrea",
+          "url": "https://open.spotify.com/artist/3cxjLPoupULWAW15bgjkgl"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "I Wish I Didn't Care",
+      "url": "https://open.spotify.com/track/3m6ISq59EGnp4fHwxQsR5k"
     },
     {
       "added_at": "2026-07-10 04:04:08",
@@ -89,6 +233,22 @@
       "url": "https://open.spotify.com/track/7Lm7AfLMFfUF2dpBGrO2wW"
     },
     {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "Hometown Letdown",
+        "url": "https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Hometown Letdown",
+      "url": "https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42"
+    },
+    {
       "added_at": "2026-07-13 19:10:57",
       "album": {
         "name": "Angel(s)",
@@ -121,20 +281,20 @@
       "url": "https://open.spotify.com/track/60vroCBYfVR1UijoHFJJIR"
     },
     {
-      "added_at": "2026-05-22 04:55:57",
+      "added_at": "2026-07-17 04:06:21",
       "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+        "name": "Lucky to Be",
+        "url": "https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv"
       },
       "artists": [
         {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+      "duration_ms": 128853,
+      "name": "Sleeping with My Boots On",
+      "url": "https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX"
     },
     {
       "added_at": "2026-06-05 04:06:16",
@@ -167,22 +327,6 @@
       "duration_ms": 216731,
       "name": "Love Makes You Do",
       "url": "https://open.spotify.com/track/5by7y6dIZ6t0OJyxXTl0tA"
-    },
-    {
-      "added_at": "2026-05-22 04:55:57",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-05-22 04:55:57",
@@ -263,22 +407,6 @@
       "duration_ms": 157960,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/5zsaIAuOp3SmeNV3ASmJMs"
-    },
-    {
-      "added_at": "2026-07-05 15:36:05",
-      "album": {
-        "name": "I Wish I Didn't Care",
-        "url": "https://open.spotify.com/album/2fwufOZ2Gyk3Vh3XQZIxnu"
-      },
-      "artists": [
-        {
-          "name": "Jessica Andrea",
-          "url": "https://open.spotify.com/artist/3cxjLPoupULWAW15bgjkgl"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "I Wish I Didn't Care",
-      "url": "https://open.spotify.com/track/3m6ISq59EGnp4fHwxQsR5k"
     },
     {
       "added_at": "2026-06-12 04:17:50",
@@ -827,38 +955,6 @@
     {
       "added_at": "2026-05-22 04:55:57",
       "album": {
-        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
-        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "In Every Lifetime",
-      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
-    },
-    {
-      "added_at": "2026-05-29 04:50:19",
-      "album": {
-        "name": "SE9",
-        "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 155004,
-      "name": "Man of the House",
-      "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
-    },
-    {
-      "added_at": "2026-05-22 04:55:57",
-      "album": {
         "name": "Hard to Find",
         "url": "https://open.spotify.com/album/3fQXXc6eVDocBXywDMDmsu"
       },
@@ -887,22 +983,6 @@
       "duration_ms": 159411,
       "name": "spotless state of mind",
       "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"
-    },
-    {
-      "added_at": "2026-05-29 04:50:19",
-      "album": {
-        "name": "I Just Wanna Be Loved",
-        "url": "https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Rose",
-          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3SwFHgWiPsGEHSBYpCfM1W"
     },
     {
       "added_at": "2026-05-08 04:04:36",
@@ -999,22 +1079,6 @@
       "duration_ms": 166260,
       "name": "HOTLINE",
       "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
-    },
-    {
-      "added_at": "2026-05-22 04:55:57",
-      "album": {
-        "name": "Dull Red",
-        "url": "https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq"
-      },
-      "artists": [
-        {
-          "name": "Michele Lu",
-          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
-        }
-      ],
-      "duration_ms": 213407,
-      "name": "What A Bummer!",
-      "url": "https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp"
     },
     {
       "added_at": "2026-05-22 04:55:57",
@@ -1261,22 +1325,6 @@
       "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
     },
     {
-      "added_at": "2026-04-17 04:11:42",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 195018,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
-    },
-    {
       "added_at": "2026-04-10 05:02:50",
       "album": {
         "name": "A Matter of Time: The Final Hour",
@@ -1327,22 +1375,6 @@
     {
       "added_at": "2026-03-27 05:09:53",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 228764,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
         "name": "WHAT A GIRL WANTS",
         "url": "https://open.spotify.com/album/0MuH1exx9t8ViZW33b7Sui"
       },
@@ -1387,22 +1419,6 @@
       "duration_ms": 148179,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X"
-    },
-    {
-      "added_at": "2026-03-13 04:00:49",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "House Tour",
-      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
     },
     {
       "added_at": "2026-03-13 04:00:49",
@@ -1471,22 +1487,6 @@
       "duration_ms": 179000,
       "name": "Letting Love Die",
       "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
-    },
-    {
-      "added_at": "2026-03-06 05:00:26",
-      "album": {
-        "name": "Words You Can Twist",
-        "url": "https://open.spotify.com/album/7xQ4rymxgoj9PmdcEXlGV1"
-      },
-      "artists": [
-        {
-          "name": "Ryann Barnes",
-          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Words You Can Twist",
-      "url": "https://open.spotify.com/track/6z0lSPxIBSolW21o0BLpIy"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -1599,22 +1599,6 @@
       "duration_ms": 194028,
       "name": "PAPERCUT",
       "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
-    },
-    {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "diva",
-        "url": "https://open.spotify.com/album/4eXW7vxt1U6IZavAfbyLTo"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 159153,
-      "name": "diva",
-      "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
     },
     {
       "added_at": "2025-08-29 04:01:51",
