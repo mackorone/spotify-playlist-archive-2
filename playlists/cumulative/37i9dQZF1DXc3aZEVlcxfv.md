@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-647 songs - 1 day 19 hr 30 min
+648 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Goodness Of The Lord II](https://open.spotify.com/track/3l9LAWKObVbji81BbWT8Ky) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Goodness Of The Lord II](https://open.spotify.com/album/4rJ3UPyCmY7j14LRUCO0Mm) | 3:40 | 2026-05-15 | 2026-05-22 |
 | [Grace](https://open.spotify.com/track/7rgj1XqBc4rfO606H3oKRg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [Grace](https://open.spotify.com/album/5GklgMCajHkEtvTBbD7N4m) | 3:06 | 2025-07-11 | 2025-08-08 |
 | [Grace](https://open.spotify.com/track/5XVmn6b4EvfC8em0H4npoM) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [Grace](https://open.spotify.com/album/09ekn90nArRemGFpxyAdph) | 2:30 | 2026-07-03 |  |
+| [Grace \- Remix](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Remix\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 | 2026-07-10 |  |
 | [Grace found me](https://open.spotify.com/track/4FlUY7iLdtfyHbbGVvpqM5) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU), [Ronald Campbell](https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM) | [Grace found me](https://open.spotify.com/album/1I4ijFE5XwsOzAqRbGQT5x) | 9:06 | 2025-07-18 | 2025-09-12 |
 | [Grace Vibes](https://open.spotify.com/track/7zpYlUQxoYJOzMdXT7fN3G) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Smile More](https://open.spotify.com/album/35A3DFaTm0Iz3pXBBeSA8k) | 2:43 | 2024-11-29 | 2025-02-28 |
 | [Grateful](https://open.spotify.com/track/6LpCFvnMavPbR5mgKIY497) | [Ezekiel Okesola](https://open.spotify.com/artist/1UVWelRHKzIEOm4n6jhTcU), [Wole Isaiah](https://open.spotify.com/artist/7eTXw4sDCHCyWuPVwhmtLp) | [Grateful](https://open.spotify.com/album/2q6qSnyyhcofI7Mqd8I1X3) | 7:20 | 2026-01-16 | 2026-04-03 |
@@ -537,7 +538,7 @@
 | [Surely](https://open.spotify.com/track/4h3nTUfOMq29veNoWzG9OC) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X) | [Artisan](https://open.spotify.com/album/1wAfgl8G6lRRQttdwnbF8v) | 1:54 | 2025-11-21 | 2025-11-28 |
 | [SURELY \- UNVL' 24](https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [SURELY \(UNVL' 24\)](https://open.spotify.com/album/0tzCM41z8QPFzQcLiIpWCX) | 2:05 | 2024-09-30 | 2025-03-07 |
 | [Surely Goodness \(feat\. Phil Thompson\)](https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Surely Goodness](https://open.spotify.com/album/7JPu2axcCxxcXhu3PDVnZY) | 4:48 | 2025-04-25 | 2025-06-13 |
-| [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 | 2026-06-19 |  |
+| [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 | 2026-06-19 | 2026-07-19 |
 | [Synergy](https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Synergy](https://open.spotify.com/album/4xc8SyumGUd12gji9kpWuo) | 2:44 | 2026-02-06 | 2026-02-27 |
 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 | 2026-05-27 |
 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 | 2026-02-27 | 2026-04-18 |

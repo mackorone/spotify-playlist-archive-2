@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.\. Cover: Jason Crabb
 
-1,434 songs - 3 day 15 hr 24 min
+1,435 songs - 3 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [BREAKING NEWS](https://open.spotify.com/track/2iOcI8vtFaBPlBchGZlhKC) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [On My Way](https://open.spotify.com/album/4xryD1sCenNXeluGoEgbEz) | 3:09 | 2025-11-15 | 2026-02-08 |
 | [Breathe On It \- From Austin](https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It \(From Austin\)](https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk) | 4:50 | 2026-07-17 |  |
 | [Brighter Days](https://open.spotify.com/track/1DKD7Nz9XQxzrb0D8t3W65) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/6wHNXMTHl6NaymmeHhJUr8) | 2:44 | 2025-10-06 | 2025-11-16 |
-| [BRIGHTSIDE](https://open.spotify.com/track/4MVtatngW7MKOp8mF3eVYA) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [BRIGHTSIDE](https://open.spotify.com/album/3YW5GQekAtAus55D00IGnb) | 2:21 | 2026-07-17 |  |
+| [BRIGHTSIDE](https://open.spotify.com/track/4MVtatngW7MKOp8mF3eVYA) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [BRIGHTSIDE](https://open.spotify.com/album/3YW5GQekAtAus55D00IGnb) | 2:21 | 2026-07-17 | 2026-07-19 |
 | [Broken](https://open.spotify.com/track/2NMlRXf6lZRBNTLE7BqQ5z) | [ELI GABLE](https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY) | [Broken](https://open.spotify.com/album/5Kk3VRE0OcZhlCM2ZtjsMp) | 3:08 | 2025-09-14 | 2025-10-07 |
 | [BROKEN BUT I RISE](https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm) | [New Path Worship](https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx) | [BROKEN BUT I RISE](https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri) | 3:19 | 2026-01-17 | 2026-02-21 |
 | [Broken Forever](https://open.spotify.com/track/6UrkkGhHr9c95PkoAPwteM) | [MATTHEWS](https://open.spotify.com/artist/6axjcGbkcunMPd8fOZCiDw) | [Broken Forever](https://open.spotify.com/album/089rB9ny40kWwr8Zeffm32) | 4:05 | 2025-10-20 | 2025-11-16 |
@@ -926,6 +926,7 @@
 | [One Day At A Time](https://open.spotify.com/track/3GztbZYcEJ4hNfqd0Fsx4d) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [One Day At A Time](https://open.spotify.com/album/4HNaIUAQzvzWyjEUlDRgN3) | 3:44 | 2026-05-19 | 2026-07-04 |
 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-10-29 | 2024-06-01 |
 | [one step](https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [one step](https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f) | 3:36 | 2025-10-20 | 2025-12-06 |
+| [Only Ever](https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Only Ever](https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar) | 5:27 | 2026-07-17 |  |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-05-27 | 2024-06-08 |
 | [only Idol](https://open.spotify.com/track/10wmU2qw1y71eZr67HewqF) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06) | [only Idol](https://open.spotify.com/album/1AMMkAWHCz5JAyLFB3VSi2) | 3:19 | 2025-02-22 | 2025-04-05 |
 | [Only Time Will Tell](https://open.spotify.com/track/6cCbIjZivdDspvxE6RDud8) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Only Time Will Tell](https://open.spotify.com/album/2oFeIwKr0RM2vew5QScwFn) | 3:13 | 2026-01-17 | 2026-03-22 |

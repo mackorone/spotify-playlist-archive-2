@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Boundaries
 
-11,999 songs - 33 day 2 hr 59 min
+11,999 songs - 33 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5524,7 +5524,7 @@
 | [Intruder](https://open.spotify.com/track/20l246SBgtgHA5xkh5LEfT) | [Rise to Fall](https://open.spotify.com/artist/3xdRLrB6lz0WEh66MUt98U), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [Intruder](https://open.spotify.com/album/6hQoVC7396yNbJ3I2qtJMC) | 4:04 | 2023-03-24 | 2023-04-01 |
 | [Intuition](https://open.spotify.com/track/1OzoPFoPtPZUS4RfOqof8v) | [Jaded Heart](https://open.spotify.com/artist/2T5aannIdmhbbNMF0Eap4u) | [Intuition](https://open.spotify.com/album/6hA6BpTv8pt4UrMpydCSd5) | 4:03 | 2024-08-16 | 2024-08-24 |
 | [Invaders](https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/3BEw4TA7gQa6rmOAYOmkkN) | 4:32 | 2022-04-08 | 2022-04-15 |
-| [Invertebrate](https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [Invertebrate](https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef) | 3:57 | 2026-07-17 |  |
+| [Invertebrate](https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [Invertebrate](https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef) | 3:01 | 2026-07-17 |  |
 | [INVERTED SPEAR OF HEAVEN](https://open.spotify.com/track/1c5WFko3iRB0uCshh5YCjZ) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER](https://open.spotify.com/album/0dHQH04nSGugSUSQOHOUpF) | 3:14 | 2025-07-25 | 2025-08-02 |
 | [Inveterate](https://open.spotify.com/track/7LVVMIu2wDIQfEpaWOgMiB) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Inveterate](https://open.spotify.com/album/0e7xmpQXGT6Nq33uLXJ6Ka) | 3:49 | 2023-02-03 | 2023-02-11 |
 | [Invictus](https://open.spotify.com/track/2CVQmcPkpnGrUgdCrlnuEM) | [Cloak](https://open.spotify.com/artist/44mrDjAyvYUG7wJZB2udrT) | [Invictus](https://open.spotify.com/album/1NhmU9wKxn4Q03AoGjSaCB) | 6:35 | 2023-03-03 | 2023-03-11 |

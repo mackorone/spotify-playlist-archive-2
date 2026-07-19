@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > The musical journey of Awarapan 2 starts with ‘Ve Junoon’\. Listen now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,726 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,823 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 42 | [Fanda](https://open.spotify.com/track/7dZcyOGqEuzialJ5PJsCka) | [PARTYTONYT](https://open.spotify.com/artist/53Ki4wRnZGiDPjBoZbJzpz), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Fanda](https://open.spotify.com/album/056oMfkfjqdtw2nJc4sWml) | 2:13 |
 | 43 | [Khoon](https://open.spotify.com/track/4QHZSpl7IKkaUZQdDRNJjl) | [Forth Sharp](https://open.spotify.com/artist/13rcvJ5miuK4UOtOpGts1C), [DipC](https://open.spotify.com/artist/1Yrs6gSRqxFhryByxzVykW) | [Khoon](https://open.spotify.com/album/7lNMnjLZ8gCDtPuiEQihRN) | 2:23 |
 | 44 | [Ucha Lamba Kad Forever \(From "Welcome To The Jungle"\)](https://open.spotify.com/track/7J9m7Heb1kdSVdqRgSIDGq) | [Anand Raj Anand](https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH), [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Meggha Bali](https://open.spotify.com/artist/7oGJfQzTX3UMsN098bd5mF) | [Ucha Lamba Kad Forever \(From "Welcome To The Jungle"\)](https://open.spotify.com/album/23st64BPk8rlDoC3CfgxqC) | 3:34 |
-| 45 | [Bawari](https://open.spotify.com/track/614p2ertmVVbTvbKPwMQGM) | [Zeeshan Khan](https://open.spotify.com/artist/3Um0W0Z5SJPOThaxwq6Il5), [DAMAN](https://open.spotify.com/artist/35vmrpnx9K7ycuzgG2fxso) | [Bawari](https://open.spotify.com/album/70C6dfYXF7J2fUid991quq) | 3:01 |
+| 45 | [Bawari](https://open.spotify.com/track/614p2ertmVVbTvbKPwMQGM) | [Zeeshan Khan](https://open.spotify.com/artist/3Um0W0Z5SJPOThaxwq6Il5), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Bawari](https://open.spotify.com/album/70C6dfYXF7J2fUid991quq) | 3:01 |
 | 46 | [Leher \- From “Cocktail 2”](https://open.spotify.com/track/4wAqW3EgbbKtBnPxrNaxJh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Leher \(From “Cocktail 2”\)](https://open.spotify.com/album/74iE48Q7Q7VdyrmalQkWRh) | 4:15 |
 | 47 | [Tera Yaar Hoon Main Title Track \- From "Tera Yaar Hoon Main"](https://open.spotify.com/track/7EbEeGxCLas28jD7jFy7bL) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Tera Yaar Hoon Main Title Track \(From "Tera Yaar Hoon Main"\)](https://open.spotify.com/album/5IXInVpmtdQEmZ3lGnp6G2) | 3:38 |
 | 48 | [Dil Pe Zakham](https://open.spotify.com/track/6aTBPgtPLm0lSFf5ugCF6I) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Dil Pe Zakham](https://open.spotify.com/album/2nKocz1AeFbqf23xiG0IDX) | 4:54 |

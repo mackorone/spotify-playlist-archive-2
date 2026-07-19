@@ -1826,10 +1826,28 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 182414,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C"
+    },
+    {
+      "album": {
+        "name": "Mercy & Me",
+        "url": "https://open.spotify.com/album/7B3T1gPdw86bz9obq258Rj"
+      },
+      "artists": [
+        {
+          "name": "Rachel Purcell",
+          "url": "https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182414,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/3geEN1a4mrNshmS2qmuqik"
     },
     {
       "album": {

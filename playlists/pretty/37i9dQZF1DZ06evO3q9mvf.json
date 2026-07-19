@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3262,
+  "num_followers": 3263,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAACZORFDWZyjBM2QOuvjNHEu",
+  "snapshot_id": "allwgAAAAACnawLhRyrPi4cgzBzFm+BD",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skateboard Punk Hits",
-        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Grapevine (Live)",
-      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
+      "duration_ms": 247666,
+      "name": "Kill Them Wtih love",
+      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+        "name": "Skateboard Punk Hits",
+        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Kill Them Wtih love",
-      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
+      "duration_ms": 212506,
+      "name": "Grapevine (Live)",
+      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
     },
     {
       "added_at": null,

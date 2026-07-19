@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Juicy BAE is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,944 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914,913 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

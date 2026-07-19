@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: untell\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,972 likes - 125 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,021 likes - 125 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,918 songs - 5 day 10 hr 9 min
+1,919 songs - 5 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,7 +766,7 @@
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-24 | 2024-03-23 |
 | [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-04-05 | 2024-12-14 |
 | [Hotel Moonlight](https://open.spotify.com/track/4et2maqfvMaZiori5YatgZ) | [Trashlagoon](https://open.spotify.com/artist/2Ceq5nkABzryK0OkaQYtzg), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Hotel Moonlight](https://open.spotify.com/album/3xySt2iiPTbv98AIo1Ug4p) | 4:41 | 2020-03-22 | 2022-04-21 |
-| [Hours](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Hours](https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN) | 4:08 | 2024-12-06 |  |
+| [Hours](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Hours](https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN) | 4:08 | 2024-12-06 | 2026-07-19 |
 | [House Of The Rising Sun](https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [House Of The Rising Sun](https://open.spotify.com/album/4bplLIBUWTi43ZySUAPL0I) | 2:18 | 2022-01-28 | 2023-07-08 |
 | [How Does It Feel](https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [How Does It Feel](https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U) | 4:57 | 2024-04-19 | 2024-08-31 |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2020-11-20 | 2022-12-29 |
@@ -1558,6 +1558,7 @@
 | [St\. Patrick](https://open.spotify.com/track/1chajyFvaLyozRyF5xhlR3) | [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [St\. Patrick](https://open.spotify.com/album/6AhLIQPnq7bpwBuINkZk3p) | 4:04 | 2020-05-18 | 2020-07-03 |
 | [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 | 2023-09-01 | 2023-12-08 |
 | [Stargazing](https://open.spotify.com/track/0gAru4uTKvbE1Bqpv7u2hg) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [DREAM](https://open.spotify.com/album/4kPEribwdNUlPkXJ7PnbwK) | 2:22 | 2020-03-20 | 2020-07-18 |
+| [Staring at the Sun](https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Staring at the Sun](https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC) | 3:32 | 2026-07-17 |  |
 | [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2020-05-18 | 2022-04-21 |
 | [Starlight](https://open.spotify.com/track/7lYGmGag8kjKIhYt6Y65a8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/1f27ATRGBUjd7HxAYWRAs2) | 3:43 | 2020-05-18 | 2020-07-18 |
 | [Stars \(feat\. Haley\)](https://open.spotify.com/track/3CBSazHvVcqFDP9EnOmk5N) | [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Summer Feels \- EP](https://open.spotify.com/album/3uhfuZ398DO04cdnp8ic86) | 3:52 | 2020-05-18 | 2020-07-18 |

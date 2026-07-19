@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Kathleen Ivanka
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,101 likes - 99 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,110 likes - 99 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 98 | [Somebody to Love](https://open.spotify.com/track/7cGivVuKgxzPEncphBHK4F) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Somebody to Love](https://open.spotify.com/album/4Q6vt0pyZkJ0YR3Cx1y9fA) | 3:17 |
 | 99 | [Hiduplah Yang Lama](https://open.spotify.com/track/7JVGsO49BhuRjDcGwk3KqQ) | [Sambadha](https://open.spotify.com/artist/7xKSiJ3Qq4uul4QDeq5cu9) | [Ruang Ruang Sandar](https://open.spotify.com/album/3bbAuyK0lNf5VnoeLPdWg6) | 3:20 |
 
-Snapshot ID: `AAAAAO5QYvHgMZs79u4AgOyONitI+Fl9`
+Snapshot ID: `AAAAAG6vaQ/JQ7EduPKZq9kKAPfiinlU`

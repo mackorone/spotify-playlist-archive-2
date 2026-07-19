@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 284034,
+  "num_followers": 284072,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Dem Not Ready",
-        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+        "name": "Bun It Down",
+        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
       },
       "artists": [
         {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         }
       ],
-      "duration_ms": 277714,
-      "name": "Dem Not Ready",
-      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
+      "duration_ms": 173871,
+      "name": "Bun It Down",
+      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -571,26 +575,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Bun It Down",
-        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
-      },
-      "artists": [
-        {
-          "name": "Lethal Bizzle",
-          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Bun It Down",
-      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "If You Could Be My Sweetheart",
         "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 246857,
       "name": "If You Could Be My Sweetheart",
       "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -627,18 +627,22 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "If You Don't Want This",
-        "url": "https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD"
+        "name": "Badboy Sound",
+        "url": "https://open.spotify.com/album/171953icTQTYTDPCeSeHvM"
       },
       "artists": [
         {
-          "name": "ManLikeTwin",
-          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
         }
       ],
-      "duration_ms": 153218,
-      "name": "If You Don't Want This",
-      "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
+      "duration_ms": 138673,
+      "name": "Badboy Sound",
+      "url": "https://open.spotify.com/track/7sT8kWuG2No88ltkdHnSjC"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -663,22 +667,18 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Badboy Sound",
-        "url": "https://open.spotify.com/album/171953icTQTYTDPCeSeHvM"
+        "name": "If You Don't Want This",
+        "url": "https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD"
       },
       "artists": [
         {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+          "name": "ManLikeTwin",
+          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
         }
       ],
-      "duration_ms": 138673,
-      "name": "Badboy Sound",
-      "url": "https://open.spotify.com/track/7sT8kWuG2No88ltkdHnSjC"
+      "duration_ms": 153218,
+      "name": "If You Don't Want This",
+      "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
-      },
-      "artists": [
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "The Things That We Should Say",
         "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 128394,
       "name": "The Things That We Should Say",
       "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
+      },
+      "artists": [
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "It Wasn't Me",
-        "url": "https://open.spotify.com/album/1qQhcoBUWE0fxcpV3H0sck"
-      },
-      "artists": [
-        {
-          "name": "Mike Jasom",
-          "url": "https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB"
-        }
-      ],
-      "duration_ms": 134673,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/0e0HSHdFdrzGV4wkTiPUv3"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "Big Truck",
         "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 111428,
       "name": "Big Truck",
       "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "It Wasn't Me",
+        "url": "https://open.spotify.com/album/1qQhcoBUWE0fxcpV3H0sck"
+      },
+      "artists": [
+        {
+          "name": "Mike Jasom",
+          "url": "https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB"
+        }
+      ],
+      "duration_ms": 134673,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/0e0HSHdFdrzGV4wkTiPUv3"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Bad Boi Selecta",
-        "url": "https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "JACK MARLOW",
-          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
-        }
-      ],
-      "duration_ms": 168351,
-      "name": "Bad Boi Selecta",
-      "url": "https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "Got 2 Feel",
         "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 154285,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/5EkR9ususo4utxW0hdYjv0"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "Bad Boi Selecta",
+        "url": "https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "JACK MARLOW",
+          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
+        }
+      ],
+      "duration_ms": 168351,
+      "name": "Bad Boi Selecta",
+      "url": "https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt"
     },
     {
       "added_at": "2026-07-02 23:00:09",

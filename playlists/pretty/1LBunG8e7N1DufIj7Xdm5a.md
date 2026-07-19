@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,605 songs - 10 day 6 hr 57 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,609 songs - 10 day 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4613,5 +4613,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4603 | [Rumors](https://open.spotify.com/track/7s8Muzy74MwG6bAWzn4UaS) | [Scarlet Tantrum](https://open.spotify.com/artist/68krtGioZxrKpiidxfFxcY) | [Rumors](https://open.spotify.com/album/1OJNVVc41xZXVdSBUJkJw5) | 3:45 |
 | 4604 | [Sunless morning](https://open.spotify.com/track/6ZjdaZYsd2KaV0Cq7C55mq) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 3:45 |
 | 4605 | [Heavy Wrong](https://open.spotify.com/track/3Zj1z0bcN8bAG0MozSgLUP) | [INSTINTO IML](https://open.spotify.com/artist/1cE9VQZkQq3Dc5ejH2X5YN) | [Heavy Wrong](https://open.spotify.com/album/6kjZ6qsbJZbzghbYOLa5vv) | 3:38 |
+| 4606 | [Baile que se queda](https://open.spotify.com/track/15SMagEaGFr24YneYUn7jW) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:11 |
+| 4607 | [Rain from above](https://open.spotify.com/track/05718WfMl81IkNunWjieWX) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Summer party hits](https://open.spotify.com/album/3kYq7GQwzORjxBoh7Jx23N) | 3:54 |
+| 4608 | [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 |
+| 4609 | [Stupida Malinconia](https://open.spotify.com/track/1L10nxkefiXTsxpJueUtgA) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:52 |
 
-Snapshot ID: `AAAJOpcl9K6NwoRFAjNAHBjvwRxrqrXz`
+Snapshot ID: `AAAJPrkHWC6dzjXuNbPFDKyClQwxfa+A`

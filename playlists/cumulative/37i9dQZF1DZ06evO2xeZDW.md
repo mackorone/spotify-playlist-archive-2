@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 38 min
+57 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Bundle of Joy](https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 2:48 | 2026-07-08 |  |
 | [Can't Fight City Halloween](https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 4:04 | 2026-07-08 |  |
 | [Carl Goes Up](https://open.spotify.com/track/42ZSOGIZ8AuQBFgyyicone) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 3:33 | 2026-07-08 |  |
+| [Cast of Cooks](https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 1:41 | 2026-07-19 |  |
 | [Catwoman](https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 3:03 | 2026-07-08 |  |
-| [Colette Shows Him Le Ropes](https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:56 | 2026-07-08 |  |
+| [Colette Shows Him Le Ropes](https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:56 | 2026-07-08 | 2026-07-19 |
 | [Enterprising Young Men](https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek \(Music From The Motion Picture\)](https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe) | 2:39 | 2026-07-08 |  |
 | [Episode 2](https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 0:50 | 2026-07-13 |  |
 | [Exit Through the Lobby \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 4:15 | 2026-07-08 | 2026-07-18 |

@@ -159,6 +159,28 @@
     },
     {
       "album": {
+        "name": "Avivamiento (En Vivo Desde Per\u00fa)",
+        "url": "https://open.spotify.com/album/3AUHt7xuiteY3gj7SVZloB"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Israel Chaparro",
+          "url": "https://open.spotify.com/artist/1OLRSnF2sTYBx7lSbfgWeK"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319897,
+      "name": "Avivamiento - En Vivo Desde Per\u00fa",
+      "url": "https://open.spotify.com/track/6o6p2jE3RPT1S9FqiLFEvL"
+    },
+    {
+      "album": {
         "name": "Pentecost\u00e9s (En Vivo)",
         "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
       },

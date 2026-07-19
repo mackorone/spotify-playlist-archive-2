@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,587 likes - 1,083 songs - 2 day 20 hr 14 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,587 likes - 1,085 songs - 2 day 20 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1091,5 +1091,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1081 | [Love is Blind](https://open.spotify.com/track/30qfoBmakKoejDlouFQVIn) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Love is Blind](https://open.spotify.com/album/0QNs2g3amfHkqcZYfmk8t8) | 3:24 |
 | 1082 | [A Long Way](https://open.spotify.com/track/3iLdRoMegIcfZNR2YyURno) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [A Long Way](https://open.spotify.com/album/3Z3sEUoHPdl5BUsiccgFuO) | 3:16 |
 | 1083 | [Busca Soluciones](https://open.spotify.com/track/2PRtmCnP8N1gpNJO8sgrEa) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Como Superman](https://open.spotify.com/album/02FyTy7so3qKytEzvm2hoE) | 3:58 |
+| 1084 | [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 |
+| 1085 | [Five Million Ways to Die](https://open.spotify.com/track/1v5995U5wIjCYs2AHkPgEF) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Five Million Ways to Die](https://open.spotify.com/album/0BCu84kJvCDGbHm03cPL6T) | 3:18 |
 
-Snapshot ID: `AAAEZCmiikfxxie5oPrNRdH6wGXi4ujw`
+Snapshot ID: `AAAEZjJzruz14QB/IjSBsq10WAuQcsyH`

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 791,
+  "num_followers": 792,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD0cpeROYzijsUSWlFwvClQN3QDC5d",
+  "snapshot_id": "AAAD0pH/R9zxXeJS0ac6C5mZO7uT4cUq",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1427,6 +1427,22 @@
       "duration_ms": 216750,
       "name": "Garden",
       "url": "https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp"
+    },
+    {
+      "added_at": "2026-07-18 14:30:18",
+      "album": {
+        "name": "Little Demon",
+        "url": "https://open.spotify.com/album/6WUXUmnb4DMvyDKyfRg3W7"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "duration_ms": 227024,
+      "name": "Little Demon",
+      "url": "https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Akki Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,603 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,618 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel](https://open.spotify.com/track/7oRLMVpvURxQs01CRBndfh) | [Akki Singh](https://open.spotify.com/artist/2yBmVcWWS9JMaigPqVkZuu), [Urban Singh](https://open.spotify.com/artist/2RoHJpBTtlOZ891LYhsRqE), [Preet Zayne](https://open.spotify.com/artist/3LOUhtcczFGQg0uNQUxI6c) | [Feel](https://open.spotify.com/album/4VRyT9nOFkdTXSg7N11PaK) | 2:51 |
 | 2 | [Makhmoor \(Beat Version\)](https://open.spotify.com/track/75FD2WuVgfxJT2PS1O4wq9) | [Vishav Dhaliwal](https://open.spotify.com/artist/3x5Xo4hWuDUfawF6qsp0rE), [Navroop Sandhu](https://open.spotify.com/artist/4doAbEEfPYR9VO4vn5Nif1), [RCKLSS](https://open.spotify.com/artist/3N0B8sJkOLExj4rxOGZydR) | [Makhmoor](https://open.spotify.com/album/0zi58ukoCjyfud0ioWbdnM) | 3:24 |
 | 3 | [She Is Love](https://open.spotify.com/track/6GqGP6Kj35O5uTuo9Klj84) | [Gurlxl](https://open.spotify.com/artist/1BZkCWbU5pacK8HFjtebaN), [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [Jind Muzic](https://open.spotify.com/artist/1DLiy2gisbMi1SXyA3aExK) | [She Is Love](https://open.spotify.com/album/2sBT9sdiqzJXQBjCLVgcmR) | 2:54 |
-| 4 | [Kick Off](https://open.spotify.com/track/5v5Onhs8cKFPWluT0nnvsE) | [Ranbir Grewal](https://open.spotify.com/artist/1jKA7rCwqZ23Ud36XwMQRn) | [Kick Off](https://open.spotify.com/album/5Emi4bCmpE0OFiHuBi7L2K) | 3:21 |
+| 4 | [Kick Off](https://open.spotify.com/track/5v5Onhs8cKFPWluT0nnvsE) | [Ranbir Grewal](https://open.spotify.com/artist/1jKA7rCwqZ23Ud36XwMQRn), [Sony Thulewal](https://open.spotify.com/artist/6J2GfkeHencIa7WJP2IN1m), [The Junior](https://open.spotify.com/artist/2mr9HPHNByJwhF8dzfsVRz) | [Kick Off](https://open.spotify.com/album/5Emi4bCmpE0OFiHuBi7L2K) | 3:21 |
 | 5 | [Stay](https://open.spotify.com/track/3UeeNQrMCfYeHMsourGRY1) | [Yara](https://open.spotify.com/artist/0Z0Qg3PkQFKQvP6u6qItC7) | [Stay](https://open.spotify.com/album/3tLXJDIsuvgaNricUDXFng) | 2:37 |
 | 6 | [Lakeeran](https://open.spotify.com/track/1zPKwMzNRuWOlzuSnbgJ1L) | [Parineet Kaur](https://open.spotify.com/artist/06jv05hjCoXyqh11jtoj0N) | [Lakeeran](https://open.spotify.com/album/5BvboK1EiPHPUbwneZs51H) | 2:56 |
 | 7 | [Mountains](https://open.spotify.com/track/2Pp8q61begxaY5Stx5roq6) | [Harry singh](https://open.spotify.com/artist/2ncuMnvUwqEQ5ecV1o90Za), [Avy](https://open.spotify.com/artist/60LOC5YjxUz2giCuSG8vgY) | [Mountains](https://open.spotify.com/album/0AA1Ub8PsJckRLK1P7ZWcc) | 2:06 |

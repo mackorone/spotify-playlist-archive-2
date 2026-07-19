@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Francis Degranpré, Rach, SHAH FRANK, N NAO, Rick Pagano, Obia le Chef, Danyl, Franglish, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,275 likes - 99 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,271 likes - 99 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 15 | [Deux tourtereaux qui s'aiment \- Version Française](https://open.spotify.com/track/4PN3MkDwFWp98fiCjrHkcG) | [Louise Chiasson](https://open.spotify.com/artist/6DfDbAdLy9wTYXTwD4SetH) | [La danse du fromage \(Version Française\)](https://open.spotify.com/album/1fyC16LMRYzYeI0jW14v1Z) | 3:04 |
 | 16 | [Marilouu](https://open.spotify.com/track/6DNAlKetFxMYm8EWwKlhar) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Doomin](https://open.spotify.com/artist/4cPAp5uh4P7OS28y6V01pQ) | [Marilouu](https://open.spotify.com/album/7xKwSliy7AuPxZjf0So8RT) | 2:18 |
 | 17 | [Faux Départ](https://open.spotify.com/track/5Sz7ItXZ0x8SYa065DwDiE) | [GDK TOPLINE](https://open.spotify.com/artist/42ALAq0FwV9PcbhFkBOxie), [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7) | [Faux Départ](https://open.spotify.com/album/3VUWoRnDsVk74MBta2eGtp) | 2:54 |
-| 18 | [PHÉNOMÈNE](https://open.spotify.com/track/004oHSxvlB5SHQqQXi9QQG) | [ET\-N](https://open.spotify.com/artist/2B34AUJhYzd9F7cxB8SUhX), [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [DJ Horg](https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR) | [ADDICTIONNAIRE](https://open.spotify.com/album/7FDF84M0g6Ls9bCyWv5kX3) | 2:52 |
+| 18 | [PHÉNOMÈNE](https://open.spotify.com/track/004oHSxvlB5SHQqQXi9QQG) | [ET\-N](https://open.spotify.com/artist/4GJQGVJsrBW2c6uftvXHnt), [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [DJ Horg](https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR) | [ADDICTIONNAIRE](https://open.spotify.com/album/7FDF84M0g6Ls9bCyWv5kX3) | 2:52 |
 | 19 | [Bing\-a\-bang](https://open.spotify.com/track/5ApHksfVQz8PahixZsUZGz) | [Aubin pi la S.C.B.](https://open.spotify.com/artist/42AwulUoVFEtaeL3eI7k4b) | [Bing\-a\-bang](https://open.spotify.com/album/7Cf3hAAG1PtGL20l6Ej1ke) | 3:11 |
 | 20 | [You'll never see me again](https://open.spotify.com/track/0B4CgM0DAZhUaT705da2HY) | [EL](https://open.spotify.com/artist/0elchtNlINaHFMg32Tq88p) | [You'll never see me again](https://open.spotify.com/album/1Lk5BtVieDRMAd4mWnruV3) | 3:07 |
 | 21 | [Pétasse](https://open.spotify.com/track/6gku3PpAyVijYeot4mSpRn) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c), [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [Pétasse](https://open.spotify.com/album/2rXpqyZu4qdeQKOxaLpeqP) | 2:57 |

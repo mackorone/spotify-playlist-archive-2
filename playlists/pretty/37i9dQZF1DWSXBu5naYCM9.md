@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 
 > feel the breeze
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,923 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,893 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 | 79 | [blade bird](https://open.spotify.com/track/4Imp01XkBi3nquOhX5UGQN) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 3:18 |
 | 80 | [Uppercut](https://open.spotify.com/track/3qfPwRqvft8SFlgt0AJguq) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Pure Chaos](https://open.spotify.com/album/1TzrJotzDwqZ7cWonGNQIe) | 3:10 |
 
-Snapshot ID: `AAAAAKljxs/2PSukIS2nGl1YCMjqePR7`
+Snapshot ID: `AAAAAApBpxJ+Cayw9kSziUynotwR/hjG`

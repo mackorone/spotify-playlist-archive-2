@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Omar Rudberg
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,877 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,850 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 4 | [Song and dance man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 |
 | 5 | [Putinho piru rodado](https://open.spotify.com/track/2xWZoSILC4KIwaoX2Z1xGe) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [DJ CARLOZS](https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU) | [Putinho piru rodado](https://open.spotify.com/album/0GVlkwFO5lmv6xLD7YpqTo) | 3:30 |
 | 6 | [Satisfied](https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 4:04 |
-| 7 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:42 |
+| 7 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 |
 | 8 | [Miliony monet](https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI) | [Kuba Kamik](https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR) | [Greatest Hits: Side A+B](https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze) | 2:01 |
 | 9 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 |
 | 10 | [BIG EGO](https://open.spotify.com/track/0NCUDhC7plQ3PO294m7F8z) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [BIG EGO](https://open.spotify.com/album/0rSqxLqcaZpl380IQ2pnwd) | 3:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1648944,
+  "num_followers": 1648762,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Find Your People",
+      "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "I WANT MY LOVED ONES TO GO WITH ME",
         "url": "https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 169026,
       "name": "Way Of The World (feat. Ella Langley)",
       "url": "https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Find Your People",
-      "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Down The Way",
-        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "High and Dry",
         "url": "https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 153124,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Would It Kill Ya",
-        "url": "https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f"
-      },
-      "artists": [
-        {
-          "name": "Julia Pratt",
-          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Would It Kill Ya",
-      "url": "https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/0EoYsG4MursZcQp8DGp5pH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 317838,
       "name": "Twin",
       "url": "https://open.spotify.com/track/4l7sD2PFNFdeJpQueQR2YK"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Would It Kill Ya",
+        "url": "https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Would It Kill Ya",
+      "url": "https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Copper Changes Color",
-        "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Millions",
-      "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 216586,
       "name": "When We Are Together",
       "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Copper Changes Color",
+        "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
     },
     {
       "added_at": "2026-07-09 23:27:48",

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-825 songs - 2 day 23 hr 12 min
+826 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,7 +656,7 @@
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-09-15 | 2024-02-05 |
 | [Sleeping Giant](https://open.spotify.com/track/1nukUJZ8DeBCekANEmSy1g) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Sleeping Giant](https://open.spotify.com/album/3dXNiiRGJkDlzQFl2ei2Dd) | 7:27 | 2025-06-13 | 2025-06-27 |
 | [So Good](https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [So Good](https://open.spotify.com/album/7d6PpHVB0TjQbogPXJ23Ar) | 3:18 | 2025-09-05 | 2025-11-07 |
-| [So Good Medley](https://open.spotify.com/track/7gI7LeTrGBOJLJi3MeZoOa) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [So Good Medley](https://open.spotify.com/album/2V7t7sTYktdueSQ2g81Km2) | 8:31 | 2025-06-20 |  |
+| [So Good Medley](https://open.spotify.com/track/7gI7LeTrGBOJLJi3MeZoOa) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [So Good Medley](https://open.spotify.com/album/2V7t7sTYktdueSQ2g81Km2) | 8:31 | 2025-06-20 | 2026-07-19 |
 | [So Grateful](https://open.spotify.com/track/4kbqk8gpGdGt5L0oNVQ6fS) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [So Grateful](https://open.spotify.com/album/2s3CMn5sVGIeR4E3gWj2fl) | 2:52 | 2025-06-06 | 2025-06-27 |
 | [So Special](https://open.spotify.com/track/5rlDCAnLjPQEsnag4inqol) | [Micah Charlz](https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1), [Freyama Asham](https://open.spotify.com/artist/5Ob7esJzcooLYAE6CdFa9p) | [So Special](https://open.spotify.com/album/5Ekhn295TjUo3IfekkpZKJ) | 3:38 | 2025-09-12 | 2025-10-31 |
 | [So What](https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Heart of a Human](https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A) | 2:29 | 2024-07-12 | 2025-05-09 |
@@ -705,6 +705,7 @@
 | [The Hand Of God](https://open.spotify.com/track/5bC6PKM9LZlsiuJsE0DZve) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr) | [The Hand Of God](https://open.spotify.com/album/0b0cUqrHPtWDVhsTMbEArz) | 5:28 | 2025-06-27 | 2025-07-14 |
 | [The King Is Coming](https://open.spotify.com/track/7atCNNuitn4dC0FVAcScRS) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [The King Is Coming](https://open.spotify.com/album/7sYNnhV32TJCv3ddPkgwoT) | 8:37 | 2025-11-21 |  |
 | [The Lover](https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [The Lover](https://open.spotify.com/album/3HCRvYPY5SQhWZZBaD8Xkd) | 2:55 | 2025-11-28 | 2026-06-29 |
+| [The Maranatha Song](https://open.spotify.com/track/4C8wVVjL8n3s5i6R3kDhL1) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Julia McMillan\-Lamur](https://open.spotify.com/artist/14ZeV6pqDILQNyr8Q0dCBU), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Maranatha Song](https://open.spotify.com/album/1mmO3D0c9mLQ6JYaSJTW4J) | 6:15 | 2026-07-17 |  |
 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 | 2025-06-13 | 2025-11-18 |
 | [The Shift I Desire](https://open.spotify.com/track/4x2wvX0rA6erPaVLK2mB2c) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i), [Blessing Alfa](https://open.spotify.com/artist/5qe5Di5c3W87AeeXTC3WBk) | [The Shift I Desire](https://open.spotify.com/album/5EkUXsTfcJ4tIz76wdWi0u) | 5:42 | 2025-08-22 | 2025-10-02 |
 | [The Way You Love Me](https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Victoria Olorunsola](https://open.spotify.com/artist/4rvdKOmMiYS5nHMMRLgHp8) | [The Way You Love Me](https://open.spotify.com/album/2DJEtcqkVBBdNK8FRoYObJ) | 6:05 | 2025-02-14 | 2025-03-11 |

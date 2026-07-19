@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Rach
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,068 likes - 86 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,073 likes - 86 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 14 | [MERCO](https://open.spotify.com/track/2YknvwnCh8kCKFw0hbdsVu) | [Puff](https://open.spotify.com/artist/3yYXCHj6B01lmYob7LwyTt) | [MERCO](https://open.spotify.com/album/0fZF0btuHmLsGaWmRfjwxu) | 1:41 |
 | 15 | [sunglasses](https://open.spotify.com/track/03O2Q64T2SH6WFNSmUaomv) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg), [Le Joon](https://open.spotify.com/artist/3HMNky1UaIyf7nzfqsKcuh) | [sunglasses](https://open.spotify.com/album/1TewVFNeDdtbVnOtvZ1uNG) | 3:20 |
 | 16 | [MADURO](https://open.spotify.com/track/35RHNKHvAkBM7ZTZfH6cgL) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [MADURO](https://open.spotify.com/album/35PNhr8jU5kNHpRog1zhXD) | 2:51 |
-| 17 | [PHÉNOMÈNE](https://open.spotify.com/track/004oHSxvlB5SHQqQXi9QQG) | [ET\-N](https://open.spotify.com/artist/2B34AUJhYzd9F7cxB8SUhX), [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [DJ Horg](https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR) | [ADDICTIONNAIRE](https://open.spotify.com/album/7FDF84M0g6Ls9bCyWv5kX3) | 2:52 |
+| 17 | [PHÉNOMÈNE](https://open.spotify.com/track/004oHSxvlB5SHQqQXi9QQG) | [ET\-N](https://open.spotify.com/artist/4GJQGVJsrBW2c6uftvXHnt), [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [DJ Horg](https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR) | [ADDICTIONNAIRE](https://open.spotify.com/album/7FDF84M0g6Ls9bCyWv5kX3) | 2:52 |
 | 18 | [N\-Word](https://open.spotify.com/track/5Sp2Kz9YUiO3IpoO3f58BS) | [Muhoza](https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG) | [N\-Word](https://open.spotify.com/album/7oOAbTt7bHwTdMI2BkzJnt) | 2:35 |
 | 19 | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 |
 | 20 | [Soul, food, alcool, pansements](https://open.spotify.com/track/1xIgqvLZOEBPseCW2RWFOC) | [Stand By Take One](https://open.spotify.com/artist/2PmMsGMWS2Tl6WQrjv8hBz), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Step dans le darkroom](https://open.spotify.com/album/4BwqbmQFhS6MMrfHTkEJks) | 3:19 |
-| 21 | [NEBEL FREESTYLE](https://open.spotify.com/track/4duWpYwyrG0xN1E9hrOLMz) | [ET\-N](https://open.spotify.com/artist/2B34AUJhYzd9F7cxB8SUhX), [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6) | [NEBEL FREESTYLE](https://open.spotify.com/album/3XtvUg2w9cC89j673j7OzV) | 1:46 |
+| 21 | [NEBEL FREESTYLE](https://open.spotify.com/track/4duWpYwyrG0xN1E9hrOLMz) | [ET\-N](https://open.spotify.com/artist/4GJQGVJsrBW2c6uftvXHnt), [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6) | [NEBEL FREESTYLE](https://open.spotify.com/album/3XtvUg2w9cC89j673j7OzV) | 1:46 |
 | 22 | [MURDA](https://open.spotify.com/track/0eZGhUhnRq73yTWM5se93o) | [Jimmy Cena](https://open.spotify.com/artist/3ersXzETV8IbKPBKjjQ5AX), [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [Buckshot](https://open.spotify.com/artist/5Fc4E9FtAoP4UHXWh6oLpS) | [MURDA](https://open.spotify.com/album/4NYWFEH98bEma6JlTPgpww) | 3:50 |
 | 23 | [DÉTOUR](https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [DÉTOUR](https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4) | 3:39 |
 | 24 | [El mizan](https://open.spotify.com/track/08S1bokIS2aFZ8DI7fNSpP) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [El mizan](https://open.spotify.com/album/4JoHHlJmlpSks7EOPSOkel) | 2:44 |

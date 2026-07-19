@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 167070,
+  "num_followers": 167099,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,34 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
+        "name": "El Doctorado (Version Reparto)",
+        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Seikan Anikila",
+          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "duration_ms": 221671,
+      "name": "El Doctorado - Version Reparto",
+      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
       },
@@ -407,34 +435,6 @@
       "duration_ms": 162782,
       "name": "Mi GANA2",
       "url": "https://open.spotify.com/track/06p0dR5xGENHul3ZdawDl6"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "El Doctorado (Version Reparto)",
-        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Seikan Anikila",
-          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        }
-      ],
-      "duration_ms": 221671,
-      "name": "El Doctorado - Version Reparto",
-      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -823,34 +823,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Un Tiempo (Remix)",
-        "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
-      },
-      "artists": [
-        {
-          "name": "Velito el Buf\u00f3n",
-          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
-        },
-        {
-          "name": "Yorshi & Yosan",
-          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        },
-        {
-          "name": "Fernando Produce",
-          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
-        }
-      ],
-      "duration_ms": 163467,
-      "name": "Un Tiempo - Remix",
-      "url": "https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "Hace tiempo que no s\u00e9 de t\u00ed",
         "url": "https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF"
       },
@@ -875,6 +847,34 @@
       "duration_ms": 153200,
       "name": "Hace tiempo que no s\u00e9 de t\u00ed",
       "url": "https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "Un Tiempo (Remix)",
+        "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
+      },
+      "artists": [
+        {
+          "name": "Velito el Buf\u00f3n",
+          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
+        },
+        {
+          "name": "Yorshi & Yosan",
+          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        },
+        {
+          "name": "Fernando Produce",
+          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
+        }
+      ],
+      "duration_ms": 163467,
+      "name": "Un Tiempo - Remix",
+      "url": "https://open.spotify.com/track/4GQ9GqaJgxpoYQdT9XDmys"
     },
     {
       "added_at": "2026-07-17 04:01:27",

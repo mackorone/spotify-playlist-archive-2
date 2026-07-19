@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alta Consigna\ud83d\udcf8",
-  "num_followers": 368322,
+  "num_followers": 368343,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV"
+      },
+      "artists": [
+        {
+          "name": "Osbaldo Lopez",
+          "url": "https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV"
-      },
-      "artists": [
-        {
-          "name": "Osbaldo Lopez",
-          "url": "https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Endeble",
         "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 210471,
-      "name": "Vives En M\u00ed",
-      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 192928,
       "name": "Cas\u00ed 16",
       "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 210471,
+      "name": "Vives En M\u00ed",
+      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Excusa No Es",
-        "url": "https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Barraza",
-          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Excusa No Es",
-      "url": "https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Ebrio de Amor",
         "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 173291,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Excusa No Es",
+        "url": "https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Barraza",
+          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Excusa No Es",
+      "url": "https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Lo Que Se Dice Amor",
         "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
       },
@@ -975,38 +959,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
       },
       "artists": [
         {
-          "name": "Mirla Avila",
-          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
-        },
-        {
-          "name": "Ray El Ingeniero",
-          "url": "https://open.spotify.com/artist/7o4cCOAbQcgEDcAQIN8Knn"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 217735,
-      "name": "Monarca",
-      "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
-      },
-      "artists": [
-        {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1027,6 +991,26 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
+      },
+      "artists": [
+        {
+          "name": "Mirla Avila",
+          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+        },
+        {
+          "name": "Ray El Ingeniero",
+          "url": "https://open.spotify.com/artist/7o4cCOAbQcgEDcAQIN8Knn"
+        }
+      ],
+      "duration_ms": 217735,
+      "name": "Monarca",
+      "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
         "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 773154,
       "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
       "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+      },
+      "artists": [
+        {
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
-      },
-      "artists": [
-        {
-          "name": "Ximena Ocampo",
-          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "\u00bfQui\u00e9n Es Usted?",
-      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Cuando Ama Una Mujer",
         "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "\u00bfQui\u00e9n Es Usted?",
+      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Ya Es Muy Tarde",
-        "url": "https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy"
-      },
-      "artists": [
-        {
-          "name": "Ximena Ocampo",
-          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Se\u00f1or Dios",
         "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 189162,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Ya Es Muy Tarde",
+        "url": "https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p"
     },
     {
       "added_at": "2026-07-03 06:00:19",

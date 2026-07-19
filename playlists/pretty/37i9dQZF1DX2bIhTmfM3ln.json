@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60882,
+  "num_followers": 60898,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Calculate (II)",
-        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate - II",
-      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Calculate (II)",
+        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate - II",
+      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "DEARLY",
-        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "DEARLY",
-      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "Pity My Soul",
         "url": "https://open.spotify.com/album/7KH2FKeF3Py5WuZ93qf3Hz"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 141716,
       "name": "Pity My Soul",
       "url": "https://open.spotify.com/track/1NOw3SULPNXOPxbacxXlUJ"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "DEARLY",
+        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "DEARLY",
+      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Available",
-        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 159444,
-      "name": "Available",
-      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "ITEM VII",
         "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 130515,
       "name": "Greatest Lover",
       "url": "https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Available",
+        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 159444,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "Blame On Me",
         "url": "https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 155972,
       "name": "Blame On Me",
       "url": "https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     },
     {
       "added_at": "2026-06-25 22:33:06",

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 椎名林檎
 
-3,831 songs - 10 day 3 hr 50 min
+3,832 songs - 10 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2344,6 +2344,7 @@
 | [こまっちゃうな](https://open.spotify.com/track/60jYVWTWZYyd83JBaYUAR2) | [山本リンダ](https://open.spotify.com/artist/32nyjVMCElK7RNCzaT57tG) | [こまっちゃうな](https://open.spotify.com/album/2tPp0rtPowoLgoH4mAYkFj) | 2:33 | 2025-04-22 | 2025-04-30 |
 | [これも愛としよう](https://open.spotify.com/track/7nvfTo6GhOD5oMJkmL609b) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [これも愛としよう](https://open.spotify.com/album/57PndiPvkPDWPO95GaBo5A) | 3:46 | 2025-12-02 | 2025-12-10 |
 | [ごみ溜めのバラード \- band](https://open.spotify.com/track/6EWqH6zaPCUTVvAA73RmKv) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Super Legend](https://open.spotify.com/album/545HhduxVVC1BnSMa0cVLm) | 3:53 | 2024-03-12 | 2024-04-17 |
+| [ごめんと、すきと、](https://open.spotify.com/track/7CWq0YtZJ2skGJG0MfzpD3) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [ごめんと、すきと、](https://open.spotify.com/album/4Ue0U8o0J3B7LGLG31g4nZ) | 5:08 | 2026-07-14 |  |
 | [ごめんね](https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [ごめんね](https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj) | 2:55 | 2024-01-16 | 2025-07-09 |
 | [ごらん](https://open.spotify.com/track/3QgiKtomG9JIt3U4hljXJU) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [君に会いたいんだ、とても](https://open.spotify.com/album/4CrzCrLZfXA83j0PUpgWi6) | 2:04 | 2023-02-28 | 2023-03-02 |
 | [さかさまの雨](https://open.spotify.com/track/6RTVMxBRIPazAjbstaVNLY) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [さかさまの雨](https://open.spotify.com/album/3o2p600srbydOzSp4iKaXf) | 4:12 | 2022-06-14 | 2022-07-15 |
@@ -2375,7 +2376,7 @@
 | [ずるい人](https://open.spotify.com/track/15iUxYEJLqCUAmQbWoLiSr) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [ずるい人](https://open.spotify.com/album/2uuQEGZJ9rG524LtsMdLb5) | 4:34 | 2023-10-31 | 2023-11-08 |
 | [せかいいち](https://open.spotify.com/track/6WdpH8jeFyS8wzN4OqkALN) | [Ami Sakaguchi](https://open.spotify.com/artist/4aJOCsyxr9bOooJDwmXUwX) | [URL](https://open.spotify.com/album/4Z3L9cwcj2znLM7bXYDHaM) | 3:26 | 2023-07-25 | 2023-08-02 |
 | [せまいまち](https://open.spotify.com/track/0GsTJVzM3lwS1CLwM0ad23) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [hometown](https://open.spotify.com/album/69WUWZ6LknFCDrP1HM9zuB) | 4:11 | 2022-07-14 | 2022-07-20 |
-| [ぜんぶ可愛いのせい](https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ) | [櫻井優衣](https://open.spotify.com/artist/2aTe9pvRpGDAnqBO1PCDXi) | [ぜんぶ可愛いのせい](https://open.spotify.com/album/73uS2yvzIbEMt94JQsSJao) | 3:37 | 2026-02-11 |  |
+| [ぜんぶ可愛いのせい](https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ) | [櫻井優衣](https://open.spotify.com/artist/2aTe9pvRpGDAnqBO1PCDXi) | [ぜんぶ可愛いのせい](https://open.spotify.com/album/73uS2yvzIbEMt94JQsSJao) | 3:37 | 2026-02-11 | 2026-07-19 |
 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 | 2023-07-07 |
 | [そのままでいいよ](https://open.spotify.com/track/5SDEBD85iBEEqAjIzeRtMD) | [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [そのままでいいよ](https://open.spotify.com/album/6J3yU2qxCvzTNFpwHLJnyz) | 4:45 | 2025-12-09 | 2025-12-17 |
 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 | 2022-11-03 | 2023-09-15 |

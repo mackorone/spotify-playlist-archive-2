@@ -2739,6 +2739,32 @@
     },
     {
       "album": {
+        "name": "Adiye En Poonthene (From \"Jana Nayagan\")",
+        "url": "https://open.spotify.com/album/4NX17DZct0GbVxj0ijKTu0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121200,
+      "name": "Adiye En Poonthene (From \"Jana Nayagan\")",
+      "url": "https://open.spotify.com/track/2ay9nEL0Fkw1ZxZZVTvxju"
+    },
+    {
+      "album": {
         "name": "Adiye Raasaathi (From \"Bommai Nayagi\")",
         "url": "https://open.spotify.com/album/0Mk0Yx0C8DPPqF2XrWP0ms"
       },
@@ -29608,7 +29634,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 200625,
       "name": "Malligai Mottu - From \"Mr. Bhaarath\"",
       "url": "https://open.spotify.com/track/6kwPPGL66EBrZYlkbn9Rhd"

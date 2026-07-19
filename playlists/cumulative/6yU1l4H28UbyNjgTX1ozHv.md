@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-331 songs - 16 hr 56 min
+333 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 | 2019-10-13 |  |
 | [No Scrubs \- Acoustic](https://open.spotify.com/track/4SlvVeLLojqmRT3VpXGNVZ) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [No Scrubs \(Acoustic\)](https://open.spotify.com/album/2eTxGTbHIMKl8ZFzkbgQIT) | 3:11 | 2020-07-24 |  |
 | [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/24RPVHtPO71yC3TPPJlYBs) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/140HsR9epNAx6aHV2S936F) | 3:07 | 2025-03-29 | 2025-06-01 |
+| [Nothing's Gonna Stop Us Now \- Acoustic](https://open.spotify.com/track/6nCkLlvM9qyFWzGMsooYi7) | [Grace\-May](https://open.spotify.com/artist/3TKT52ZSdQhyxelhg2db5d) | [Nothing's Gonna Stop Us Now \(Acoustic\)](https://open.spotify.com/album/50KqUnGw9WgXwJ1Kcfl04a) | 3:01 | 2026-07-18 |  |
 | [Only You \- Acoustic](https://open.spotify.com/track/1VhvvVUUsdvHOg03lGTARR) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Only You \(Acoustic\)](https://open.spotify.com/album/6URklNb6ymA8wmm4J64WJ1) | 3:42 | 2022-01-13 | 2025-02-03 |
 | [Paradise \- Acoustic Version](https://open.spotify.com/track/5IaTbmfClU9YmW9vjZr86l) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Paradise \(Acoustic Version\)](https://open.spotify.com/album/4w20E4lMmjWmApwDb7Iie6) | 3:40 | 2019-10-13 |  |
 | [Perfect \- Acoustic](https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Perfect \(Acoustic\)](https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv) | 4:20 | 2019-10-13 |  |
@@ -279,6 +280,7 @@
 | [This Will Be \(An Everlasting Love\) \- Acoustic](https://open.spotify.com/track/585mlT2Qwq7urXcnPg7dOk) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [This Will Be \(An Everlasting Love\) \[Acoustic\]](https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp) | 2:19 | 2023-08-04 | 2024-03-04 |
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 | 2023-05-10 |
 | [Time After Time \- Acoustic](https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Time After Time \(Acoustic\)](https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq) | 3:04 | 2025-01-10 | 2026-01-06 |
+| [To Love Somebody \- Acoustic](https://open.spotify.com/track/4JpBgEiq7EDH60uBMFfhmu) | [Natalie Johnson](https://open.spotify.com/artist/4J0sVz614kdcEHl3MkKHej) | [To Love Somebody \(Acoustic\)](https://open.spotify.com/album/3TqmGJzTBZXmFZ3PdBFAad) | 2:43 | 2026-07-18 |  |
 | [Together Again](https://open.spotify.com/track/7H1Ruav4MfqFvebiBxCvYp) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Together Again](https://open.spotify.com/album/6Yk8zrEZ8LjXJoCOzpkN19) | 2:47 | 2026-05-08 |  |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 | 2023-06-02 | 2023-12-14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52114,
+  "num_followers": 52120,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAACDT+/ZV6jVBBUkbxawXNC0",
+  "snapshot_id": "allwgAAAAAD2XG5bNTu1ZW7/LZiBIRxd",
   "tracks": [
     {
       "added_at": null,
@@ -96,13 +96,17 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 145986,
-      "name": "Camping",
-      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
     },
     {
       "added_at": null,
@@ -180,17 +184,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+      "duration_ms": 145986,
+      "name": "Camping",
+      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 193938,
-      "name": "Bin Night",
-      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+      "duration_ms": 76443,
+      "name": "Rug Island, Pt. 2",
+      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 76443,
-      "name": "Rug Island, Pt. 2",
-      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
+      "duration_ms": 193938,
+      "name": "Bin Night",
+      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
     },
     {
       "added_at": null,

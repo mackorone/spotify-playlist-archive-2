@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 165587,
+  "num_followers": 165617,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAABF9Fe/FlCTc2yLHRaKlH7s",
+  "snapshot_id": "allwgAAAAADnt8REeyYP5GsFI+aAwT65",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Rupelto Mena",
-      "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realidad-Es",
         "url": "https://open.spotify.com/album/5fjmaIw7FG9xY6COvzqXQC"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 305506,
       "name": "Mi Valle del Cauca",
       "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
     },
     {
       "added_at": null,

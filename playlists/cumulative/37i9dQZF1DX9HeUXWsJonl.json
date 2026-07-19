@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "Darou Bina",
         "url": "https://open.spotify.com/album/0hQXPEP6DmJTNxth8jmgSc"
       },
@@ -1294,6 +1316,24 @@
       "duration_ms": 258163,
       "name": "Ech Sayer",
       "url": "https://open.spotify.com/track/7zmjWzVeM3boUMAXvIeHgS"
+    },
+    {
+      "album": {
+        "name": "ECHEH ECHEH",
+        "url": "https://open.spotify.com/album/4Vxvyeo058ew6ycEhu3Pk8"
+      },
+      "artists": [
+        {
+          "name": "Chirine Lajmi",
+          "url": "https://open.spotify.com/artist/6kVs10yl9l18AtIPuYsdwb"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325365,
+      "name": "ECHEH ECHEH",
+      "url": "https://open.spotify.com/track/1k8NCSuagm0DfuNHB7d4oM"
     },
     {
       "album": {
@@ -3616,7 +3656,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 166427,
       "name": "Nwassik",
       "url": "https://open.spotify.com/track/3qyDA70RsM0zN2ECsBLvcB"
@@ -4936,7 +4976,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 204261,
       "name": "Yamina",
       "url": "https://open.spotify.com/track/0gTUhABQLsXM1l3R0Keuwf"
@@ -5006,7 +5046,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
@@ -5104,6 +5144,24 @@
       "duration_ms": 188502,
       "name": "Zin Ezzin",
       "url": "https://open.spotify.com/track/0d1dGOyQ6IRdMB27pNFSFl"
+    },
+    {
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
+      },
+      "artists": [
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
     },
     {
       "album": {

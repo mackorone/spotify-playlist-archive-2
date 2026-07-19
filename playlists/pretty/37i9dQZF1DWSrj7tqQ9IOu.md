@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Folie's
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,096 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,086 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 18 | [SIREN](https://open.spotify.com/track/0QmBQ3NnZ18hHcemeeQlsP) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WHACK'S MUSEUM](https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i) | 2:18 |
 | 19 | [le village](https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [le village](https://open.spotify.com/album/2PvCytDBc6cEY10ZFDBRAG) | 3:37 |
 | 20 | [MISTRAL EN HIVER](https://open.spotify.com/track/18K1Ho4UzlXHAsgCl9QQ05) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [MISTRAL EN HIVER](https://open.spotify.com/album/6CwGh54TpRCawYWGa5GsYY) | 2:30 |
-| 21 | [Ma mère va me tuer](https://open.spotify.com/track/2ovxLH2PYpesPw1gnBe8lz) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:28 |
-| 22 | [MR\. DJ](https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Luzyqv](https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb) | [MR\. DJ](https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf) | 2:53 |
+| 21 | [MR\. DJ](https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Luzyqv](https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb) | [MR\. DJ](https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf) | 2:53 |
+| 22 | [Ma mère va me tuer](https://open.spotify.com/track/2ovxLH2PYpesPw1gnBe8lz) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:28 |
 | 23 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 |
-| 24 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 |
-| 25 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
+| 24 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
+| 25 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 |
 | 26 | [Offerings](https://open.spotify.com/track/1A2uwr1Zpdd467Vzue8bXV) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offerings](https://open.spotify.com/album/0KKhGegQzdFh8ZWKqXDdiC) | 2:14 |
 | 27 | [Osimhen .OP\_6](https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6) | [Assaf](https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS), [Zeu](https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF) | [Osimhen .OP\_6](https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V) | 3:10 |
 | 28 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 30 | [Les Abeilles](https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Les Abeilles](https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o) | 3:34 |
 | 31 | [Chaque fois](https://open.spotify.com/track/7dclFha2hgMXhxlph3OUQV) | [2TH](https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT) | [Chaque fois](https://open.spotify.com/album/1sxyuQ4ewVOtzOgEfgg4U2) | 2:58 |
 | 32 | [SCLA](https://open.spotify.com/track/5JWBjUhdKMKxkHl1uRkaed) | [Tisma](https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu) | [SEUL COMME LES AUTRES](https://open.spotify.com/album/6bv69bkNcVdOCpSZFpyWTb) | 2:01 |
-| 33 | [Grandir](https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj), [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [Entracte](https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg) | 2:53 |
-| 34 | [Atlas \(Album Version\)](https://open.spotify.com/track/5rbEao908gGxTtMTDQkT72) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Resonance](https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA) | 5:55 |
+| 33 | [Atlas \(Album Version\)](https://open.spotify.com/track/5rbEao908gGxTtMTDQkT72) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Resonance](https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA) | 5:55 |
+| 34 | [Grandir](https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj), [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [Entracte](https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg) | 2:53 |
 | 35 | [Le dico de Charlie](https://open.spotify.com/track/46I0aCTUfyDQku5YpDIAli) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Le dico de Charlie](https://open.spotify.com/album/7eauARELSnK7i01uXtUOq7) | 3:08 |
 | 36 | [Best Cards](https://open.spotify.com/track/1ybF1NglLJBBGDCtG7d1gn) | [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt), [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Best Cards](https://open.spotify.com/album/5SsOljfQig0YmMz0CjMJaS) | 3:18 |
 | 37 | [Janis](https://open.spotify.com/track/52uobAwbP5In7cc0NV677y) | [JANIS](https://open.spotify.com/artist/6yUYZsMTveUZ8yo8wsKSLN) | [Cry With Us](https://open.spotify.com/album/7hnRtt8Z3jckrMwCaOJVMe) | 4:33 |

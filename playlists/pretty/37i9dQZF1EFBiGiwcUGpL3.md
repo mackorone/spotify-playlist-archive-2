@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 25 | ['Til Summer Comes Around](https://open.spotify.com/track/1CKmI1IQjVEVB3F7VmJmM3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 5:31 |
 | 26 | [Good Thing](https://open.spotify.com/track/5Oxgt1m5SMpwM17zByC11n) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:52 |
 | 27 | [I'll Be Your Santa Tonight](https://open.spotify.com/track/3r0jsVshXfshN5B3NszJAc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [I'll Be Your Santa Tonight](https://open.spotify.com/album/5slwTSm2C7fPlwU2d9wqPS) | 4:24 |
-| 28 | [I Told You So](https://open.spotify.com/track/4UTcJuLaHwsPPP1bNnTRDt) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:02 |
-| 29 | [STRAIGHT LINE](https://open.spotify.com/track/1qpYujgQ6kTteozxFdVB2X) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:46 |
+| 28 | [STRAIGHT LINE](https://open.spotify.com/track/1qpYujgQ6kTteozxFdVB2X) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:46 |
+| 29 | [I Told You So](https://open.spotify.com/track/4UTcJuLaHwsPPP1bNnTRDt) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:02 |
 | 30 | [Drop Top](https://open.spotify.com/track/7xUv1Igrk1WG79VfD0xsXS) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:44 |
 | 31 | [Your Body](https://open.spotify.com/track/5ffdMuuGqSLevQL2ILFAXG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 2:45 |
 | 32 | [Even The Stars Fall 4 U](https://open.spotify.com/track/1JEHGggblzBijoYmPoAmf9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:59 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 101 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 102 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `AcXIFgAAAABtaKEPEAs5rGLCdJxptyOj`
+Snapshot ID: `AcXN8gAAAADveS6IKjiK7LtMIOJZ9rzX`

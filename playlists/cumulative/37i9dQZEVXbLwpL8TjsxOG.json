@@ -4910,7 +4910,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -7102,7 +7102,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 209080,
       "name": "Growth!",
       "url": "https://open.spotify.com/track/1jfCV6pcdYBYBDPEkuZfTs"
@@ -12632,7 +12632,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -14584,7 +14584,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -23873,6 +23873,24 @@
     },
     {
       "album": {
+        "name": "\u60b2\u50b7\u7684\u5f8c\u52c1",
+        "url": "https://open.spotify.com/album/6lhEgRmj0k5rJORlb9ibuY"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5065\u5b89",
+          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212444,
+      "name": "\u60b2\u50b7\u7684\u5f8c\u52c1",
+      "url": "https://open.spotify.com/track/2qB7rNM5H6rME6rtaw3yYD"
+    },
+    {
+      "album": {
         "name": "\u60b2\u89c0\u4e3b\u7fa9",
         "url": "https://open.spotify.com/album/7jGpEFCdCYTDVU5VecRfOE"
       },
@@ -29584,6 +29602,24 @@
       "duration_ms": 248382,
       "name": "\u9694\u96e2 - Studio Live Duet",
       "url": "https://open.spotify.com/track/4xL01OuFjqizPDclF8gDpl"
+    },
+    {
+      "album": {
+        "name": "\u9695\u77f3\u8207\u5730\u7403",
+        "url": "https://open.spotify.com/album/2SSbD54MdcBj71DQDA6ti5"
+      },
+      "artists": [
+        {
+          "name": "Sammi Cheng",
+          "url": "https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219634,
+      "name": "\u9695\u77f3\u8207\u5730\u7403",
+      "url": "https://open.spotify.com/track/6rEvFAMHlZc0CulRkgVgn7"
     },
     {
       "album": {

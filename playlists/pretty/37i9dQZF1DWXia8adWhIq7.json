@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112757,
+  "num_followers": 112762,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        }
-      ],
-      "duration_ms": 160050,
-      "name": "Esque\u00e7o At\u00e9 o Tempo",
-      "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 138080,
       "name": "Sonhar",
       "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        }
+      ],
+      "duration_ms": 160050,
+      "name": "Esque\u00e7o At\u00e9 o Tempo",
+      "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Faltava Voc\u00ea",
-        "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
-      },
-      "artists": [
-        {
-          "name": "Samuell Villart",
-          "url": "https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc"
-        },
-        {
-          "name": "Rafael Caff",
-          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
-        }
-      ],
-      "duration_ms": 194643,
-      "name": "Faltava Voc\u00ea",
-      "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 266020,
       "name": "Apenas Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Faltava Voc\u00ea",
+        "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
+      },
+      "artists": [
+        {
+          "name": "Samuell Villart",
+          "url": "https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc"
+        },
+        {
+          "name": "Rafael Caff",
+          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Faltava Voc\u00ea",
+      "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "Corre",
         "url": "https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ"
       },
@@ -1463,26 +1479,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Reconstituir",
-        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
-      },
-      "artists": [
-        {
-          "name": "Igor Felix",
-          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
-        },
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 262019,
-      "name": "Reconstituir",
-      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Agora",
         "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
       },
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+        "name": "Reconstituir",
+        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+        },
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
+      "duration_ms": 262019,
+      "name": "Reconstituir",
+      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
     },
     {
       "added_at": "2026-07-17 17:14:21",

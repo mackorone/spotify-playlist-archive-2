@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 12179,
+  "num_followers": 12180,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAACxJfacB6dk8/vLEnhCe+Ur",
+  "snapshot_id": "allwgAAAAACiueJnLmxwHcGvXmJE/c/Q",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GALLOWS",
         "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 182266,
       "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
       "url": "https://open.spotify.com/track/5580dJLUADgZBviPFLPGD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
+      "duration_ms": 209480,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/7lB6JUMr99cuU1EfSl8yC6"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 209480,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/7lB6JUMr99cuU1EfSl8yC6"
+      "duration_ms": 247893,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
     },
     {
       "added_at": null,

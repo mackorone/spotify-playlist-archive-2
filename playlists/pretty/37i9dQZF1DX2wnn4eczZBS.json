@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11450,
+  "num_followers": 11454,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "GEEN BEEST",
+        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 145536,
+      "name": "GEEN BEEST",
+      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Niks Is zeker",
         "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 165586,
       "name": "Vlammen!",
       "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "GEEN BEEST",
-        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 145536,
-      "name": "GEEN BEEST",
-      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "GEEN TITEL",
-        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
-      },
-      "artists": [
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        }
-      ],
-      "duration_ms": 152413,
-      "name": "CONFLICT",
-      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "In NL Mag Je Een Vrouw Slaan",
         "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 150344,
       "name": "In NL Mag Je Een Vrouw Slaan",
       "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "GEEN TITEL",
+        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 152413,
+      "name": "CONFLICT",
+      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Sneeuw In De Zomer",
+        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
+      },
+      "artists": [
+        {
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
+        }
+      ],
+      "duration_ms": 164794,
+      "name": "Sneeuw In De Zomer",
+      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Sneeuw In De Zomer",
-        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 164794,
-      "name": "Sneeuw In De Zomer",
-      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Maskers",
         "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 201627,
       "name": "Maskers",
       "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -867,30 +883,6 @@
       "duration_ms": 240949,
       "name": "Water",
       "url": "https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "IJSLAND 2",
-        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
-      },
-      "artists": [
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        },
-        {
-          "name": "IJSLAND",
-          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
-        }
-      ],
-      "duration_ms": 199371,
-      "name": "TIJDSGEEST",
-      "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
     }
   ],
   "unique_name": "indie.nl",

@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 105634,
+  "num_followers": 105648,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
+        "name": "Gualero REFF12.31",
+        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Gualero REFF12.31",
+      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 220647,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Gualero REFF12.31",
-        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Gualero REFF12.31",
-      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 184461,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "No te vayas",
         "url": "https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 205200,
       "name": "No te vayas",
       "url": "https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 184461,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "La Mudanza",
+        "url": "https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+      "duration_ms": 223691,
+      "name": "La Mudanza",
+      "url": "https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ"
     }
   ],
   "unique_name": "boleritos",

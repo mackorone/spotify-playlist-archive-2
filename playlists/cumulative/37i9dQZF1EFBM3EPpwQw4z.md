@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 10 hr 1 min
+171 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Getting Dressed Up](https://open.spotify.com/track/2trdxliifJwkiy7Dpy0MiV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:26 | 2023-12-30 |  |
 | [Ghost](https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:45 | 2023-12-30 |  |
 | [Ghost](https://open.spotify.com/track/7EIZQhtO1tX7HxExVhWQ5K) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:45 | 2026-06-12 | 2026-06-14 |
+| [Give You Up](https://open.spotify.com/track/3CopGPtQ4MoD8iyY5ueuFM) | [4ward](https://open.spotify.com/artist/2HJ6cQiyTDeszUJhtYTuL9) | [Give You Up](https://open.spotify.com/album/0kjOXo5OogBVOGwLUqOdVz) | 5:26 | 2026-07-18 |  |
 | [Giver](https://open.spotify.com/track/0bT1k41qDD0fQUhlziToXT) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Dena Amy](https://open.spotify.com/artist/6A1M7uYGABvWsuIPrMaGLM) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:35 | 2023-12-30 |  |
 | [Giver](https://open.spotify.com/track/1KpeSmWFi12oCKumNp6Hm7) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Dena Amy](https://open.spotify.com/artist/6A1M7uYGABvWsuIPrMaGLM) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:35 | 2026-06-12 | 2026-06-14 |
 | [Goh \(feat\. KLP\)](https://open.spotify.com/track/0So66iJESFvaJn4qFqTtbr) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Not All The Beautiful Things](https://open.spotify.com/album/51kMEATKhcubCQXuIetiXk) | 3:35 | 2023-12-30 | 2025-07-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 383068,
+  "num_followers": 383199,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAACpRMMCJ6Zbv3wvaXeZXw3I",
+  "snapshot_id": "allwgAAAAACMLZAxHxCSg8HNDdMbshYm",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+      "duration_ms": 233600,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Too Little, Too Late",
-      "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
     },
     {
       "added_at": null,

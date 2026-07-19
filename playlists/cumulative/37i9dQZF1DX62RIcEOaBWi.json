@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Carta Blanca",
+        "url": "https://open.spotify.com/album/3eKyHfolsaVNEqsQv6hv2X"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187424,
+      "name": "Carta Blanca",
+      "url": "https://open.spotify.com/track/67RcaArJlHxXsvSfbsgl0b"
+    },
+    {
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
       },
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 205546,
       "name": "Juramento eterno de sal",
       "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"

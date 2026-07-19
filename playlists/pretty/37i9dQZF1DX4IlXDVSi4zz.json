@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1026752,
+  "num_followers": 1026883,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
         "name": "CORA\u00c7AO (20th Anniversary Mix)",
         "url": "https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 175714,
       "name": "CORA\u00c7AO - 20th Anniversary Mix",
       "url": "https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
+        "name": "Still Sleepless",
+        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 162879,
+      "name": "Still Sleepless",
+      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Gorah",
-        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Gorah",
-      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
         "name": "Wo, man (Edit)",
         "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 200500,
       "name": "Wo, man - Edit",
       "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
         "name": "Let's Go (Magalenha)",
         "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 163019,
       "name": "Let's Go (Magalenha)",
       "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Sunrise (Remixes)",
-        "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 228870,
-      "name": "Sunrise (Adam Ten Remix)",
-      "url": "https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/6lTtYYVqJCRxc28a6cUK73"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 228633,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/0gbFEO8EcSzbGIf4SJR47P"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
+        "name": "Sunrise (Remixes)",
+        "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 228870,
+      "name": "Sunrise (Adam Ten Remix)",
+      "url": "https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
+        "name": "Take You Home",
+        "url": "https://open.spotify.com/album/09thirEgai7TNZ5jtA1yoK"
+      },
+      "artists": [
+        {
+          "name": "Quliano",
+          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/1bQ9WDieDZNlxJOLPfACmq"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 162684,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
-        "name": "Take You Home",
-        "url": "https://open.spotify.com/album/09thirEgai7TNZ5jtA1yoK"
-      },
-      "artists": [
-        {
-          "name": "Quliano",
-          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Take You Home",
-      "url": "https://open.spotify.com/track/1bQ9WDieDZNlxJOLPfACmq"
     },
     {
       "added_at": "2026-07-10 04:01:19",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2026-07-10 04:01:19",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-07-10 04:01:19",
-      "album": {
         "name": "Music Is The Answer (Dancin' And Prancin')",
         "url": "https://open.spotify.com/album/72IyE66hhtbsWt0Lmxc0tK"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 219939,
       "name": "Music Is The Answer (Dancin' And Prancin') - Edit",
       "url": "https://open.spotify.com/track/6YR1D5tsjAZE1Zn0lnEdEd"
+    },
+    {
+      "added_at": "2026-07-10 04:01:19",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2026-07-10 04:01:19",

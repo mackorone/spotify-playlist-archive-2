@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: MEDUZA &amp; Khalid
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,075 likes - 101 songs - 5 hr 12 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,076 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

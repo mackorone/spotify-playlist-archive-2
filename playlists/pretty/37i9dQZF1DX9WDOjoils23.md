@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,037 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,072 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 10 | [Kadi Aa Mil Sanwal](https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Kadi Aa Mil Sanwal](https://open.spotify.com/album/1FCU1d6a7oTjGpT4zytkAH) | 4:08 |
 | 11 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
 | 12 | [Jaiye Sajana \- Recreated](https://open.spotify.com/track/1geDWIpPN8zwNe0MUJznfr) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jaiye Sajana \- Recreated](https://open.spotify.com/album/1b1dQ1elQ1jCxIFllzHDJX) | 6:47 |
-| 13 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 |
-| 14 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 |
+| 13 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 |
+| 14 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 |
 | 15 | [KHED ISHQE DI](https://open.spotify.com/track/6mfsnDVuZ7XP66s2FJqrz9) | [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN), [Sandeep Kaur Sidhu](https://open.spotify.com/artist/32fW3RBYZcC0FxXQC1NiY5) | [KHED ISHQE DI](https://open.spotify.com/album/2DB1lIB9Eorc4Mw1T60GzT) | 4:27 |
 | 16 | [Waris Shah Nu](https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX), [Preeti Uttam](https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU) | [Pinjar](https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa) | 9:03 |
 | 17 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 |

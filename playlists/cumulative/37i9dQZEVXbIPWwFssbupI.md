@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,753 songs - 6 day 0 hr 3 min
+2,754 songs - 6 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Aquarius](https://open.spotify.com/track/0w6sV1wehw4dwGpliIQMRV) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 3:38 | 2022-11-05 | 2022-11-07 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-04-20 | 2021-04-30 |
 | [Arena de Cuba](https://open.spotify.com/track/00C1tjhavZt9cTW9lWGihn) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Arena de Cuba](https://open.spotify.com/album/3fpzfOFiNQSisghQW3ZTQx) | 2:30 | 2026-05-11 | 2026-05-31 |
-| [Arena de Cuba](https://open.spotify.com/track/5aIp2IBhStp31hkyLG6ssZ) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:30 | 2026-06-08 |  |
+| [Arena de Cuba](https://open.spotify.com/track/5aIp2IBhStp31hkyLG6ssZ) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:30 | 2026-06-08 | 2026-07-19 |
 | [Argent noir part\. 3](https://open.spotify.com/track/7xZglzTyyvra7Egv1Q3Gcb) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 2:57 | 2023-09-12 | 2023-09-21 |
 | [Argent sal](https://open.spotify.com/track/4Jr3bWulhjhWAP3UlY3AdI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:14 | 2021-11-28 | 2021-12-02 |
 | [Argent Sale \- A COLORS SHOW](https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Argent Sale \- A COLORS SHOW](https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE) | 2:44 | 2026-02-18 |  |
@@ -426,7 +426,7 @@
 | [C'est dur d'aimer](https://open.spotify.com/track/1a2dh2wtCzMZedHpUjplzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Oubliez\-moi](https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C) | 3:10 | 2026-05-16 | 2026-05-18 |
 | [C'est Eux Contre Nous](https://open.spotify.com/track/1nf8RBV6HA2CcGeyfCwMZF) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:23 | 2021-07-18 | 2021-07-19 |
 | [C'est la cité](https://open.spotify.com/track/0PBLRJSxoXpxWRsKjXQw24) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:44 | 2021-06-27 | 2021-07-18 |
-| [C'est la cité](https://open.spotify.com/track/787pJlm5f43sODotPcNfNp) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Demain ça ira](https://open.spotify.com/album/49zVMlJ8SB2udhD6uMXoF9) | 3:44 | 2026-05-21 |  |
+| [C'est la cité](https://open.spotify.com/track/787pJlm5f43sODotPcNfNp) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Demain ça ira](https://open.spotify.com/album/49zVMlJ8SB2udhD6uMXoF9) | 3:44 | 2026-05-21 | 2026-07-19 |
 | [C'est non](https://open.spotify.com/track/2wpGkDZlLo9CQYEEFrpg1K) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:36 | 2024-01-27 | 2024-01-29 |
 | [C'est nous les O.G](https://open.spotify.com/track/15WohOh6HPF4H4rxgtsElD) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:47 | 2022-01-29 | 2022-02-01 |
 | [C'est pas facile](https://open.spotify.com/track/4xuuEQsFZhxZRn6ZdVOn2k) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:06 | 2023-12-09 | 2023-12-11 |
@@ -1959,7 +1959,7 @@
 | [Phénoménal](https://open.spotify.com/track/78Y0EwVQ9kdQFTIOzr7lUd) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:24 | 2025-04-26 | 2025-09-17 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-05-03 | 2025-11-25 |
 | [Pic et pic, alcool et drame](https://open.spotify.com/track/14M6BbiHt2w9KHVvoIUIUF) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:16 | 2021-06-27 | 2022-01-30 |
-| [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 | 2026-03-17 | 2026-03-19 |
+| [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 | 2026-03-17 |  |
 | [Picasso](https://open.spotify.com/track/58oi1CSV51rrMXjFth6KB3) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:29 | 2024-02-17 | 2024-02-19 |
 | [Pichichi](https://open.spotify.com/track/6eyghhEYVokzeUZnYmCxjI) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/4yqsxc2ITcS7kG8dFhe58E) | 2:58 | 2025-04-03 | 2025-06-21 |
 | [Pichichi Anderson](https://open.spotify.com/track/0RwNWOrgD7nrpf1xaboLcU) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 1:48 | 2022-11-05 | 2022-11-18 |
@@ -2636,6 +2636,7 @@
 | [Virginia Beach](https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:11 | 2023-10-07 | 2023-10-10 |
 | [Vision](https://open.spotify.com/track/69WMiCz57nWMET9vtwaKBf) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Vision](https://open.spotify.com/album/31NjjQ6b7gHS3mBC0HEVQ3) | 2:52 | 2026-01-17 | 2026-01-26 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-07-02 | 2024-07-05 |
+| [VIVE LA MONNAIE](https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [VIVE LA MONNAIE](https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An) | 3:04 | 2026-07-18 |  |
 | [Vive le gang](https://open.spotify.com/track/4DNBYLhpqCL1Yxboo2aUcO) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 2:33 | 2023-05-13 | 2023-05-15 |
 | [Vive le vent](https://open.spotify.com/track/7lf8oysCLLfzKOKfeow3Sv) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Vive le vent](https://open.spotify.com/album/4IlbkgkWXPEdUcuo7dtQTO) | 2:35 | 2023-12-25 | 2025-12-28 |
 | [Vive le vent](https://open.spotify.com/track/5MitajCMVXLMcL6FANJxY8) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/1E3hwBbWidYL9ngKGlBpWE) | 2:36 | 2022-12-25 | 2022-12-28 |

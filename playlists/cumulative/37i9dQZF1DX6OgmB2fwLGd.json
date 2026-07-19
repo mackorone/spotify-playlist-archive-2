@@ -4098,6 +4098,24 @@
     {
       "album": {
         "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/5QCsD6oD7L2Bmn9mdIGG7Z"
+      },
+      "artists": [
+        {
+          "name": "Jesse June",
+          "url": "https://open.spotify.com/artist/1jTbHx4wIRpp5mbVc35lLu"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/5W9GYaW9EHNUGgPPLjlK9f"
+    },
+    {
+      "album": {
+        "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
       "artists": [
@@ -5581,6 +5599,28 @@
     },
     {
       "album": {
+        "name": "I Love Lucky",
+        "url": "https://open.spotify.com/album/6fZTsOGDF4A6VoqM8YBeCd"
+      },
+      "artists": [
+        {
+          "name": "To Oscar",
+          "url": "https://open.spotify.com/artist/6LNNnLy26u0dMlmU29Kgqq"
+        },
+        {
+          "name": "fyoum",
+          "url": "https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Curb Your Enthusiasm",
+      "url": "https://open.spotify.com/track/63Pscrd4JYXWiHNSMIptnF"
+    },
+    {
+      "album": {
         "name": "cycles",
         "url": "https://open.spotify.com/album/2S6OuS278oXvsVjb6h0T8f"
       },
@@ -5876,7 +5916,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 135211,
       "name": "DEAD INSIDE",
       "url": "https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV"
@@ -7626,7 +7666,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 122710,
       "name": "everything",
       "url": "https://open.spotify.com/track/1MZumerORC8Ppu0Q4DWe5W"
@@ -11448,7 +11488,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 218685,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2eqIYvwLkyGGBWEf6q9EHZ"
@@ -12546,7 +12586,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 208378,
       "name": "Innuendo (I Get U)",
       "url": "https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4"
@@ -13374,7 +13414,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 112432,
       "name": "keep it calm",
       "url": "https://open.spotify.com/track/2J9oH9m2vmqJQS4qUNgqGx"
@@ -13570,7 +13610,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 153215,
       "name": "Knackered",
       "url": "https://open.spotify.com/track/09VkoNLmL8XwFvfYTBKuU1"
@@ -13738,7 +13778,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 205500,
       "name": "Kwik Trip",
       "url": "https://open.spotify.com/track/4A3WcbBuUQMpcBIgmUzLBY"
@@ -13774,7 +13814,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -16589,6 +16629,24 @@
     },
     {
       "album": {
+        "name": "mwah",
+        "url": "https://open.spotify.com/album/7JwkpZSxFZDzETuuXG4UBb"
+      },
+      "artists": [
+        {
+          "name": "Coupdekat",
+          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102625,
+      "name": "mwah",
+      "url": "https://open.spotify.com/track/2Lx8KxpVFrVUq2FRdPid4Y"
+    },
+    {
+      "album": {
         "name": "my bad bro",
         "url": "https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm"
       },
@@ -16774,7 +16832,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 144750,
       "name": "NAIV",
       "url": "https://open.spotify.com/track/2QhztKJs02D1szEWKim8pn"
@@ -19654,6 +19712,24 @@
       "duration_ms": 175328,
       "name": "professional heartbreaker",
       "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
+    },
+    {
+      "album": {
+        "name": "AVANT NOVA",
+        "url": "https://open.spotify.com/album/1VBKHNvJ4Ncn9QJYr9HLDv"
+      },
+      "artists": [
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "promise",
+      "url": "https://open.spotify.com/track/3M1QxosuSy3XPJkoeogqlf"
     },
     {
       "album": {
@@ -24375,6 +24451,24 @@
     },
     {
       "album": {
+        "name": "thief",
+        "url": "https://open.spotify.com/album/6PE9hlLbYlEhLWPynte4hs"
+      },
+      "artists": [
+        {
+          "name": "Pellowclouds",
+          "url": "https://open.spotify.com/artist/4mcZlZNLeNshtdZ0wL6CoP"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95441,
+      "name": "thief",
+      "url": "https://open.spotify.com/track/3ZDSJdl5eLxwU61S2EhYsJ"
+    },
+    {
+      "album": {
         "name": "Thing About You",
         "url": "https://open.spotify.com/album/5juwSNDpmN5ujCVoqGt76D"
       },
@@ -24458,7 +24552,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 133725,
       "name": "third degree",
       "url": "https://open.spotify.com/track/7tGtSYXBIi5x8DxQD2oDlf"
@@ -26114,7 +26208,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 190000,
       "name": "Way Too Kind",
       "url": "https://open.spotify.com/track/53H0Nz8aFhncjCeveiFlKQ"
@@ -27374,6 +27468,24 @@
       "duration_ms": 152450,
       "name": "you're a parasite",
       "url": "https://open.spotify.com/track/5CoMPjfMO8XnNc6aNKYSo1"
+    },
+    {
+      "album": {
+        "name": "trinket",
+        "url": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145422,
+      "name": "You're serious, aren't you ?",
+      "url": "https://open.spotify.com/track/4Igg8mbd6pk97aFdMpTFf1"
     },
     {
       "album": {

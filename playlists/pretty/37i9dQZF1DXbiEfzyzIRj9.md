@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,610 likes - 98 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,616 likes - 98 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

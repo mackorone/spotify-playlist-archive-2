@@ -4,7 +4,7 @@
 
 > This is Big Thief\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 38 min
+44 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,10 @@
 | [Haley](https://open.spotify.com/track/7933H8AtrJHG5afYmlQlTX) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:32 | 2026-05-16 |  |
 | [Heavy Bend](https://open.spotify.com/track/6qopJBPesEVIrIT0qMtbNs) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 1:36 | 2026-05-16 |  |
 | [How Could I Have Known](https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 | 2026-05-16 |  |
+| [Humans](https://open.spotify.com/track/20g9uu9hwEaBHFqZ68TN6j) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 3:23 | 2026-07-19 |  |
 | [I Was Young When I Left Home \(feat\. Big Thief\)](https://open.spotify.com/track/63KU6CDZK4fzBQhSEFymBn) | [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG), [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Decoration Day, Vol\. 4](https://open.spotify.com/album/67uMXsEywNemsQDRbZV35D) | 4:24 | 2026-05-16 |  |
 | [Incomprehensible](https://open.spotify.com/track/5GTRE7cnySeaYBanwM5FIt) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:53 | 2026-05-16 |  |
-| [Lorraine \- 2023 Remaster](https://open.spotify.com/track/2slEcqyUG0Hvf8xsFva4tG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 1:53 | 2026-05-16 |  |
+| [Lorraine \- 2023 Remaster](https://open.spotify.com/track/2slEcqyUG0Hvf8xsFva4tG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 1:53 | 2026-05-16 | 2026-07-19 |
 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 | 2026-05-16 |  |
 | [Love In Mine](https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Love In Mine](https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB) | 3:18 | 2026-05-16 |  |
 | [Mary](https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 5:30 | 2026-05-16 |  |

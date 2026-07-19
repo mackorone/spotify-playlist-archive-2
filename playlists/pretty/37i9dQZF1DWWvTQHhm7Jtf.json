@@ -343,22 +343,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Touch me & die",
-      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Gave in Rest",
         "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 210716,
       "name": "Gilded",
       "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Touch me & die",
+      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Children of the Sun",
-        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
-      },
-      "artists": [
-        {
-          "name": "S A D",
-          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
-        }
-      ],
-      "duration_ms": 285338,
-      "name": "Desert Wax",
-      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
-    },
-    {
       "added_at": "2023-11-15 16:20:30",
       "album": {
         "name": "Hypermyth",
@@ -1031,6 +1015,22 @@
       "duration_ms": 271680,
       "name": "Bl\u00e5ne II",
       "url": "https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Children of the Sun",
+        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
+      },
+      "artists": [
+        {
+          "name": "S A D",
+          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
+        }
+      ],
+      "duration_ms": 285338,
+      "name": "Desert Wax",
+      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
     },
     {
       "added_at": "2022-12-21 20:36:53",

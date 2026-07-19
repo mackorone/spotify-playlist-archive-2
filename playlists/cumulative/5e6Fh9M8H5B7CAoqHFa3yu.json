@@ -8351,6 +8351,24 @@
     },
     {
       "album": {
+        "name": "Kinderliedjes",
+        "url": "https://open.spotify.com/album/2RhxVBAN6FejpxNd3jxxR2"
+      },
+      "artists": [
+        {
+          "name": "Meester Do",
+          "url": "https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144880,
+      "name": "Dans Mee",
+      "url": "https://open.spotify.com/track/6le0KKPybTfs6BNL1AzRoD"
+    },
+    {
+      "album": {
         "name": "SUNSET MUSIC SELECT BY Mario FURCERI",
         "url": "https://open.spotify.com/album/2QJcb9tVLjboqZwhHqnXsc"
       },
@@ -24312,8 +24330,8 @@
           "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
         },
         {
-          "name": "Jos\u00e8 Sechi",
-          "url": "https://open.spotify.com/artist/13nlBFWZVZjdFKwE8ynV16"
+          "name": "Jos\u00e9 Sechi",
+          "url": "https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi"
         },
         {
           "name": "Davide Caddeo",

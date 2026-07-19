@@ -5631,6 +5631,24 @@
     },
     {
       "album": {
+        "name": "Robots Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Louxor j'adore",
+      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
+    },
+    {
+      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 165899,
       "name": "Ma chanson pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/6TVJ1b2N8gFUa6HuEKqJ69"

@@ -167,6 +167,32 @@
     },
     {
       "album": {
+        "name": "Adamma",
+        "url": "https://open.spotify.com/album/0jnmt7emWLRgWxkf9b69bR"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Izztopik",
+          "url": "https://open.spotify.com/artist/3xV6vHDr8Ca4GHDZT0JSRt"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203100,
+      "name": "Adamma",
+      "url": "https://open.spotify.com/track/1nf2dhwY1wgNZE9eg1NbHh"
+    },
+    {
+      "album": {
         "name": "Agege",
         "url": "https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR"
       },
@@ -182,7 +208,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 196257,
       "name": "Agege",
       "url": "https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 344 likes - 2,481 songs - 6 day 2 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 345 likes - 2,482 songs - 6 day 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2351,7 +2351,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2341 | [A Mais de Cem](https://open.spotify.com/track/2XwFNh4EqmDaYH5OlLdFb9) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 3:15 |
 | 2342 | [No Alto do Morro](https://open.spotify.com/track/6KDYoFFNyhV6tvqJlPUiRU) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 3:09 |
 | 2343 | [Tambor](https://open.spotify.com/track/1hiKFyb43retm8bO3MZvLK) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 2:19 |
-| 2344 | [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [Josè Sechi](https://open.spotify.com/artist/13nlBFWZVZjdFKwE8ynV16), [Davide Caddeo](https://open.spotify.com/artist/3xAmH4xE6tJXOvq3U9c5TW) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 |
+| 2344 | [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi), [Davide Caddeo](https://open.spotify.com/artist/3xAmH4xE6tJXOvq3U9c5TW) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 |
 | 2345 | [Meditherranea \- Extended Mix](https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 4:03 |
 | 2346 | [Avocado Face](https://open.spotify.com/track/2QmDLGr82ouVDgyF3LAXrE) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Avocado Face](https://open.spotify.com/album/0gfsmZYVu1qwTFxlVLLOKk) | 2:36 |
 | 2347 | [I'll be back](https://open.spotify.com/track/28YNy52CqI0UwMa5n70wwA) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [I'll be back](https://open.spotify.com/album/31d7cMUoGxAt9bIKedgJJV) | 4:22 |
@@ -2489,5 +2489,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2479 | [Sun Halo](https://open.spotify.com/track/5CorUGns21UoE4FgC8WoGg) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Look Up II](https://open.spotify.com/album/2FwRGEgXRI02BA1DcSJTkI) | 2:18 |
 | 2480 | [Gaslight](https://open.spotify.com/track/64Cz7y89nR5IHv3gnhTRnk) | [Pilgrim's Fire](https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn) | [Field Report](https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1) | 4:42 |
 | 2481 | [Warehouse Warriors](https://open.spotify.com/track/2sXCKcmCbwAIWeIIxGYkk0) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Warehouse Warriors](https://open.spotify.com/album/5tzKvbtHmvpsX48kQwpoB7) | 2:01 |
+| 2482 | [Dans Mee](https://open.spotify.com/track/6le0KKPybTfs6BNL1AzRoD) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [Kinderliedjes](https://open.spotify.com/album/2RhxVBAN6FejpxNd3jxxR2) | 2:24 |
 
-Snapshot ID: `AAAKgQuz04zWT9ycr+a1b9K5sK0G5iVU`
+Snapshot ID: `AAAKgrJPmlLBLl2cXYalLstdICt/vktK`

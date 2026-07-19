@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\.  Cover: Xenia Manasseh
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\.  Cover: Njerae
 
 361 songs - 20 hr 22 min
 

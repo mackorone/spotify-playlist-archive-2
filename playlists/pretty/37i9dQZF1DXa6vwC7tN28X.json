@@ -1,6 +1,6 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 32727,
+  "num_followers": 32735,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,18 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 221934,
-      "name": "Chiquil\u00edn de Bach\u00edn",
-      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+      "duration_ms": 278133,
+      "name": "Por Una Cabeza",
+      "url": "https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK"
     },
     {
       "added_at": "2023-05-05 14:11:37",
@@ -379,18 +375,22 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
-        "name": "Ritual De Los Pericos",
-        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 278133,
-      "name": "Por Una Cabeza",
-      "url": "https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK"
+      "duration_ms": 221934,
+      "name": "Chiquil\u00edn de Bach\u00edn",
+      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
     },
     {
       "added_at": "2023-05-05 14:11:37",

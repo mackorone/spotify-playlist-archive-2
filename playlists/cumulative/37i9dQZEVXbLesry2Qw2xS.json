@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 187178,
       "name": "armastan, ei armasta",
       "url": "https://open.spotify.com/track/7gy6n6xauco1dttxquR39d"
@@ -5424,7 +5424,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -14124,7 +14124,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 194117,
       "name": "Eks sa ise otsusta",
       "url": "https://open.spotify.com/track/6H185nWC1FcihgEbRKsphB"
@@ -16280,7 +16280,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -16976,7 +16976,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 158117,
       "name": "FREAKED OUT",
       "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
@@ -17460,6 +17460,28 @@
       "duration_ms": 166255,
       "name": "Fulenn",
       "url": "https://open.spotify.com/track/43UejonUIN69O8NNAFRu5X"
+    },
+    {
+      "album": {
+        "name": "Full Send (WRC Rally Estonia Anthem)",
+        "url": "https://open.spotify.com/album/4IXUTlvvBAUsRCf8MS4jyk"
+      },
+      "artists": [
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        },
+        {
+          "name": "FRENCHGRL",
+          "url": "https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188570,
+      "name": "Full Send (WRC Rally Estonia Anthem)",
+      "url": "https://open.spotify.com/track/7wGSfp3leisv33jvp6Wh3D"
     },
     {
       "album": {
@@ -27045,6 +27067,28 @@
     },
     {
       "album": {
+        "name": "kissitavad silmad",
+        "url": "https://open.spotify.com/album/3nnUTdxUH7jM4OUqGMTYQ9"
+      },
+      "artists": [
+        {
+          "name": "s\u00e4m",
+          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
+        },
+        {
+          "name": "ALIKA",
+          "url": "https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184071,
+      "name": "kissitavad silmad",
+      "url": "https://open.spotify.com/track/5ZWgjqA6lUcRxZLxHnwSzM"
+    },
+    {
+      "album": {
         "name": "Louder Than Roots",
         "url": "https://open.spotify.com/album/74Yx70TF95m78dV16e6w9W"
       },
@@ -29538,7 +29582,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 173142,
       "name": "Lihtsalt kaaslane",
       "url": "https://open.spotify.com/track/0StAgispgjih4elmadtyRY"
@@ -34049,6 +34093,24 @@
     },
     {
       "album": {
+        "name": "Miniseelik",
+        "url": "https://open.spotify.com/album/7E3Nu9zdrhESvWuMdeYM1U"
+      },
+      "artists": [
+        {
+          "name": "LEGEND",
+          "url": "https://open.spotify.com/artist/3blKy1JFcGJzhAHQmxApSM"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119554,
+      "name": "Miniseelik",
+      "url": "https://open.spotify.com/track/1c2IsgJcyt2k2SMlBXLY9X"
+    },
+    {
+      "album": {
         "name": "MINNA KOOS (feat. Nublu)",
         "url": "https://open.spotify.com/album/4yIfI7L2z6tUO6AliLakZR"
       },
@@ -38026,7 +38088,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 170948,
       "name": "N\u00e4lg",
       "url": "https://open.spotify.com/track/2pCih9J1SLfoYF8KyWKqdE"
@@ -51222,7 +51284,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 190400,
       "name": "tabuuu",
       "url": "https://open.spotify.com/track/1MyTCLYyJ547w6FLSjb3om"
@@ -58216,7 +58278,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,382 likes - 146 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,421 likes - 146 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 145 | [Title Theme](https://open.spotify.com/track/7xiqFMenX3KY3kINA88d8Q) | [Russell Shaw](https://open.spotify.com/artist/5wuYDMU4DPsiqWaB8QBZU5) | [Fable Legends:The Rosewood](https://open.spotify.com/album/1FdHeXxHiE06U5anAfv4H2) | 4:15 |
 | 146 | [Skalitz 1403](https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 2:21 |
 
-Snapshot ID: `AAAAAHsaubV4npzbAN0vLWlRwnEBmaOF`
+Snapshot ID: `AAAAAHsK2+wUUZyvdAJlf+10OE09tCm0`

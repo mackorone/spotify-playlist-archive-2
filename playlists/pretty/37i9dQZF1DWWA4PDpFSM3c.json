@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 107490,
+  "num_followers": 107542,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -299,26 +299,6 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
-        "url": "https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        }
-      ],
-      "duration_ms": 294115,
-      "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
-      "url": "https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 253773,
       "name": "Ay Pilla - Telugu",
       "url": "https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
+        "url": "https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        }
+      ],
+      "duration_ms": 294115,
+      "name": "Nagumomu Thaarale (From \"Radhe Shyam\")",
+      "url": "https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt"
     },
     {
       "added_at": "2024-02-12 05:31:53",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf"
     },
     {
+      "added_at": "2025-09-22 10:53:22",
+      "album": {
+        "name": "Hey Radha - Single",
+        "url": "https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG"
+      },
+      "artists": [
+        {
+          "name": "Amar Dudam",
+          "url": "https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "Hey Radha",
+      "url": "https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu"
+    },
+    {
       "added_at": "2026-01-05 05:30:29",
       "album": {
         "name": "Patang",
@@ -679,22 +695,6 @@
       "duration_ms": 268027,
       "name": "Tai Tai Tai",
       "url": "https://open.spotify.com/track/6rcCn2P4aStaUetsDy3Npg"
-    },
-    {
-      "added_at": "2025-09-22 10:53:22",
-      "album": {
-        "name": "Hey Radha - Single",
-        "url": "https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG"
-      },
-      "artists": [
-        {
-          "name": "Amar Dudam",
-          "url": "https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2"
-        }
-      ],
-      "duration_ms": 243809,
-      "name": "Hey Radha",
-      "url": "https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu"
     },
     {
       "added_at": "2026-01-27 11:14:07",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Neeve",
-        "url": "https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 307335,
-      "name": "Neeve",
-      "url": "https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP"
-    },
-    {
       "added_at": "2021-05-18 09:57:44",
       "album": {
         "name": "Mirchi",
@@ -855,6 +839,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
+        "name": "Neeve",
+        "url": "https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "duration_ms": 307335,
+      "name": "Neeve",
+      "url": "https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
         "name": "Saahasam Swaasaga Saagipo",
         "url": "https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J"
       },
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 262488,
-      "name": "Seethakaalam",
-      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
-    },
-    {
       "added_at": "2022-09-02 08:32:31",
       "album": {
         "name": "Pokiri",
@@ -943,6 +927,22 @@
       "duration_ms": 293840,
       "name": "Nuvvena",
       "url": "https://open.spotify.com/track/4k6N1wRZ5Im7KmbINgBdO3"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "duration_ms": 262488,
+      "name": "Seethakaalam",
+      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -999,18 +999,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8"
+        "name": "Nuvvu Nenu Prema",
+        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
       },
       "artists": [
         {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Naresh Ayar",
+          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
         }
       ],
-      "duration_ms": 354346,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p"
+      "duration_ms": 354368,
+      "name": "Preminche Premava",
+      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
     }
   ],
   "unique_name": "Mellow Telugu",

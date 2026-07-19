@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 33645,
+  "num_followers": 33669,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 200583,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Any Port in a Storm (Special Edition)",
         "url": "https://open.spotify.com/album/7scLSyggM3EvytUY325PKC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 191280,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/02ypv5cnkwTGBCMfhpRT86"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 200583,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Love Is Wicked",
         "url": "https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 222853,
       "name": "Love Is Wicked",
       "url": "https://open.spotify.com/track/5kEfk2sb4xoEvk2zWbTGpt"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
-      },
-      "artists": [
-        {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
-        }
-      ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Mi Plan",
         "url": "https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 209093,
       "name": "Manos Al Aire",
       "url": "https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Holding Onto Strings Better Left To Fray",
-        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 224067,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Bom Bom",
         "url": "https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 174033,
       "name": "Bom Bom - Radio Edit",
       "url": "https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Holding Onto Strings Better Left To Fray",
+        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 224067,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Every Second Counts",
         "url": "https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 170213,
       "name": "Our Time Now",
       "url": "https://open.spotify.com/track/3CE3PYF64qJBjq54Uf9ZiW"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Secondhand Rapture",
-        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
-      },
-      "artists": [
-        {
-          "name": "MS MR",
-          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "The Secret Life Of...",
         "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 192560,
       "name": "When It All Falls Apart",
       "url": "https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Secondhand Rapture",
+        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Sleep Talking",
-        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Sleep Talking",
-      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "BREAD",
         "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 279591,
       "name": "Perfect Someone",
       "url": "https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Sleep Talking",
+        "url": "https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Sleep Talking",
+      "url": "https://open.spotify.com/track/0ojtOskzapucZWX767nQrc"
     },
     {
       "added_at": "2026-02-13 19:31:47",

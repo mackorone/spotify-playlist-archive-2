@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4371200,
+  "num_followers": 4370947,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-07-17 14:57:04",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
-    },
-    {
-      "added_at": "2026-07-17 14:57:04",
-      "album": {
         "name": "Money Made Me A Savage (Calabria)",
         "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 123854,
       "name": "Money Made Me A Savage - Calabria",
       "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
+    },
+    {
+      "added_at": "2026-07-17 14:57:04",
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2026-07-17 14:57:04",
@@ -747,8 +747,8 @@
     {
       "added_at": "2026-07-17 14:57:04",
       "album": {
-        "name": "Opalite (Ely Oaks Remix)",
-        "url": "https://open.spotify.com/album/72hPyRss6soJeGQLEek1qr"
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
       "artists": [
         {
@@ -756,13 +756,13 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 206245,
-      "name": "Opalite - Ely Oaks Remix",
-      "url": "https://open.spotify.com/track/5t1wMjV9ldVDdYs4l7mG2g"
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
     },
     {
       "added_at": "2026-07-17 14:57:04",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-17 14:57:04",
       "album": {
-        "name": "Aquamarine / Arcamarine",
-        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 194180,
-      "name": "Aquamarine / Arcamarine",
-      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
-      "added_at": "2026-07-17 14:57:04",
-      "album": {
         "name": "Your Love (Diplo Remix)",
         "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 155625,
       "name": "Your Love - Diplo Remix",
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
+    },
+    {
+      "added_at": "2026-07-17 14:57:04",
+      "album": {
+        "name": "Aquamarine / Arcamarine",
+        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Aquamarine / Arcamarine",
+      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
     },
     {
       "added_at": "2026-07-17 14:57:04",
@@ -855,8 +855,8 @@
     {
       "added_at": "2026-07-17 14:57:04",
       "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+        "name": "Opalite (Ely Oaks Remix)",
+        "url": "https://open.spotify.com/album/72hPyRss6soJeGQLEek1qr"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         }
       ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+      "duration_ms": 206245,
+      "name": "Opalite - Ely Oaks Remix",
+      "url": "https://open.spotify.com/track/5t1wMjV9ldVDdYs4l7mG2g"
     },
     {
       "added_at": "2026-07-17 14:57:04",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-07-17 14:57:04",
       "album": {
-        "name": "Fabulous (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/1MvjwsMhesKPDq503pQWxR"
-      },
-      "artists": [
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        },
-        {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Fabulous - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/6Lr9mVWFH5LwcdLej5OVjW"
-    },
-    {
-      "added_at": "2026-07-17 14:57:04",
-      "album": {
         "name": "Abracadabra (Gesaffelstein Remix)",
         "url": "https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 211735,
       "name": "Abracadabra - Gesaffelstein Remix",
       "url": "https://open.spotify.com/track/17sOAutZqK3xM5O6Cc2pMj"
+    },
+    {
+      "added_at": "2026-07-17 14:57:04",
+      "album": {
+        "name": "Fabulous (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/1MvjwsMhesKPDq503pQWxR"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        },
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Fabulous - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/6Lr9mVWFH5LwcdLej5OVjW"
     },
     {
       "added_at": "2026-07-17 14:57:04",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-07-17 14:57:04",
       "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "added_at": "2026-07-17 14:57:04",
+      "album": {
         "name": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
         "url": "https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 169383,
       "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
       "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
-    },
-    {
-      "added_at": "2026-07-17 14:57:04",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     }
   ],
   "unique_name": "Pop Remix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Hermanos Espinoza, Oscar Maydon, RØZ & Young Cister, Jasiel Nuñez  & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,476 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,511 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

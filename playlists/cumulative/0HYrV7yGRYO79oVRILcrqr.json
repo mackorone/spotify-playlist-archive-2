@@ -8045,6 +8045,24 @@
     },
     {
       "album": {
+        "name": "Recipe",
+        "url": "https://open.spotify.com/album/0rbqeuSrlS68u3gMD0qvN0"
+      },
+      "artists": [
+        {
+          "name": "Eric Schenkman",
+          "url": "https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276119,
+      "name": "Recipe",
+      "url": "https://open.spotify.com/track/0Ym4Dc0ohJCHsYLjCWSj9m"
+    },
+    {
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/4vM6Z43GlIZ5SrLsXNOekc"
       },

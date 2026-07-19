@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78422,
+  "num_followers": 78425,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "TANK IT",
+        "url": "https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "TANK IT",
+      "url": "https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "A Tropical Entropy",
         "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 248730,
       "name": "Ghost Orchid",
       "url": "https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "TANK IT",
-        "url": "https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "TANK IT",
-      "url": "https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r"
     },
     {
       "added_at": "2025-12-03 12:15:55",

@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/5wTy809VEb9S7mA7qzw74z"
+      },
+      "artists": [
+        {
+          "name": "Strange Waves",
+          "url": "https://open.spotify.com/artist/1oa5Kzosk1DffIXOU4Hurt"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165202,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/0N68KyW2UKZYS71W3zwiXn"
+    },
+    {
+      "album": {
         "name": "Angerman River",
         "url": "https://open.spotify.com/album/1E6gQKEFdx5kMFlS27TdGZ"
       },
@@ -3644,7 +3662,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 223400,
       "name": "Boomer - Radio Edit",
       "url": "https://open.spotify.com/track/4SCiIGi4ABefuefthusjd5"
@@ -6088,7 +6106,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 92065,
       "name": "COUSINS",
       "url": "https://open.spotify.com/track/2QaOL88QSB8GoFxnD1KJQ7"
@@ -7444,7 +7462,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 125000,
       "name": "DIBS",
       "url": "https://open.spotify.com/track/0c5JMjSMXRygZ8LCPLpZ15"
@@ -12460,7 +12478,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 170494,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/2uUKhuPSy7oXjmfUAmhEvq"
@@ -15996,7 +16014,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 185000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/6QVoeDc36SyDzkIN31FECj"
@@ -16216,6 +16234,24 @@
       "duration_ms": 155548,
       "name": "kleinmut",
       "url": "https://open.spotify.com/track/2FILjSIzG7cAzom43equdp"
+    },
+    {
+      "album": {
+        "name": "Road Rash",
+        "url": "https://open.spotify.com/album/0OTmUWGAtV1DYXmfVr5nUp"
+      },
+      "artists": [
+        {
+          "name": "Forsaken Profits",
+          "url": "https://open.spotify.com/artist/3GNim3zSxCtWuLFdK8a7uW"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Knives",
+      "url": "https://open.spotify.com/track/779mltpju9qg4gAXY8xUVX"
     },
     {
       "album": {
@@ -19452,7 +19488,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 190013,
       "name": "Mutual Destruction",
       "url": "https://open.spotify.com/track/59koUom8jGksEiQNgBclFp"
@@ -19920,7 +19956,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 186283,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/7BdwT6SxISlukR6aYy9yUU"
@@ -21294,7 +21330,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 194000,
       "name": "Orbit Uber Woonsocket",
       "url": "https://open.spotify.com/track/3HRru9gWruIUX7bswLjRC8"
@@ -22826,7 +22862,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 170280,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/5IrHwr1Ul8vkOrCkHoyLL2"
@@ -23814,6 +23850,24 @@
       "duration_ms": 220750,
       "name": "Resistance (remaster)",
       "url": "https://open.spotify.com/track/0dq6lmjXEcwFDa6E7ZPWua"
+    },
+    {
+      "album": {
+        "name": "Resistance Now",
+        "url": "https://open.spotify.com/album/5gQNXwMntk18fwdwqNE2NG"
+      },
+      "artists": [
+        {
+          "name": "Raskob Rails",
+          "url": "https://open.spotify.com/artist/77EKsnOxnfclOe0lu1k1zB"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148308,
+      "name": "Resistance Now",
+      "url": "https://open.spotify.com/track/40uJWg50xNLMj5Hn9b7y5I"
     },
     {
       "album": {
@@ -26681,6 +26735,24 @@
     },
     {
       "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/6gWp4YW0FYuFMMkwaB3xkm"
+      },
+      "artists": [
+        {
+          "name": "Ethan Brown",
+          "url": "https://open.spotify.com/artist/5W55dgAAq0SZRlnxQ6LGAI"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2pIvsXURw64kbuAyUmQCHs"
+    },
+    {
+      "album": {
         "name": "Back from Space",
         "url": "https://open.spotify.com/album/27tnJpudwkWUHBq4YT7YVb"
       },
@@ -28166,6 +28238,24 @@
       "duration_ms": 202105,
       "name": "Surge",
       "url": "https://open.spotify.com/track/4tQsM9IalKTHhkhHVQiltP"
+    },
+    {
+      "album": {
+        "name": "Surprise, Surprise",
+        "url": "https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk"
+      },
+      "artists": [
+        {
+          "name": "Friends With Boats",
+          "url": "https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184309,
+      "name": "Surprise, Surprise",
+      "url": "https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo"
     },
     {
       "album": {
@@ -29998,7 +30088,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 206162,
       "name": "The Play Pretend",
       "url": "https://open.spotify.com/track/7cyguPlCccOIqCWBRzxuMC"

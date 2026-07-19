@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 16424,
+  "num_followers": 16442,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAABcopfilDfP4sUHbqIwYoPe",
+  "snapshot_id": "allwgAAAAACLRpcNXrtXUBTctbEqLW+h",
   "tracks": [
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Chavosa",
-        "url": "https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Diabelsmusic",
-          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Mina Chavosa",
-      "url": "https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tente Outra Vez",
         "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 114196,
       "name": "Tente Outra Vez",
       "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Chavosa",
+        "url": "https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Diabelsmusic",
+          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Mina Chavosa",
+      "url": "https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w"
     },
     {
       "added_at": null,

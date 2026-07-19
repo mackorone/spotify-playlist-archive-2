@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 133255,
+  "num_followers": 133273,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAABOajceQHr9fUzcBuCiVdmx",
+  "snapshot_id": "allwgAAAAAA4MpacmTznLsf1cY3W4fou",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Yourself / With My Whole Heart",
+        "url": "https://open.spotify.com/album/73IMTdj6ERTJdITZNNBIpE"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 103014,
+      "name": "Love Yourself (Short Reprise)",
+      "url": "https://open.spotify.com/track/0EMcBp9cy8tf18RInxD5hP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Delighted People",
         "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
       },
@@ -831,26 +847,6 @@
       "duration_ms": 175040,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/3bKXWcC7H2oBGVq73gK5yX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/64U7yOMQtMNro5WD9rw5e2"
-      },
-      "artists": [
-        {
-          "name": "Meg Lui",
-          "url": "https://open.spotify.com/artist/0ei3gCD1ByhH4bn6DeGBsJ"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 234003,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0lDmaJqbfQLbnhOGGQvSxE"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

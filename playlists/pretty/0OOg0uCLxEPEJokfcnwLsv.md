@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,168 likes - 128 songs - 7 hr 56 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,170 likes - 130 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 126 | [Apothecary](https://open.spotify.com/track/7hj1rSYzSvd6Fl1QoWhdr3) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Rebel Heart](https://open.spotify.com/album/4ntykUJB1DDCEa6PKHFh84) | 3:52 |
 | 127 | [My Rebirth](https://open.spotify.com/track/37PjHfN79hZxX1BWZbeEdQ) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:27 |
 | 128 | [Garden](https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4E9KtAlL6nobcjWgvidsY3) | 3:36 |
+| 129 | [Little Demon](https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Little Demon](https://open.spotify.com/album/6WUXUmnb4DMvyDKyfRg3W7) | 3:47 |
+| 130 | [Dirty Water](https://open.spotify.com/track/5G2BUm8AtT8toVdU6qV544) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Dirty Water](https://open.spotify.com/album/0nDu8Onvw6twzghMc55BiA) | 3:18 |
 
-Snapshot ID: `AAAGpsGI4rvYAO8sh8FUaaQCKAE3RV4C`
+Snapshot ID: `AAAGqLnCY3k+JQS7X1ZhPzPkXhYBjG0G`

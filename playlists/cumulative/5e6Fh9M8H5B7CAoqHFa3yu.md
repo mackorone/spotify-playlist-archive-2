@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,402 songs - 5 day 21 hr 40 min
+2,403 songs - 5 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Danger](https://open.spotify.com/track/7tjdbdGvdJgcQhWOiDkgcU) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Danger](https://open.spotify.com/album/4gQjAd5z6YAQlMolMKfSs0) | 3:40 | 2025-11-08 |  |
 | [Dangerous and Famous](https://open.spotify.com/track/4Yq6P7LsUxxRPNKpAXS2qP) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 8:22 | 2024-05-01 |  |
 | [Daniel In The Lion's Den](https://open.spotify.com/track/59QBRtkC16b4PYDkwkoitA) | [O.L.M.](https://open.spotify.com/artist/5ILLxboYauCyB25YEmfWor) | [Book Of Daniel](https://open.spotify.com/album/2XzXT3GWKksLTxcaCoQc6I) | 3:38 | 2024-03-25 |  |
+| [Dans Mee](https://open.spotify.com/track/6le0KKPybTfs6BNL1AzRoD) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [Kinderliedjes](https://open.spotify.com/album/2RhxVBAN6FejpxNd3jxxR2) | 2:24 | 2026-07-18 |  |
 | [DANZA \- REMIX Mario FURCERI](https://open.spotify.com/track/38ThDyEQ6SBnA8il9B5Hx2) | [Sigle Animazione Villaggi](https://open.spotify.com/artist/0lYLbo908pCzPD5jQEt1bm) | [SUNSET MUSIC SELECT BY Mario FURCERI](https://open.spotify.com/album/2QJcb9tVLjboqZwhHqnXsc) | 2:24 | 2024-03-04 |  |
 | [Darker](https://open.spotify.com/track/4KYddvFoEOSInKUECmNecU) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Darker](https://open.spotify.com/album/3GJ38upPq5UzkPHqeya4pt) | 2:52 | 2025-11-08 |  |
 | [Das Más](https://open.spotify.com/track/7KKNh5uJvEaga9NtFT20hm) | [Glittery Stuff](https://open.spotify.com/artist/3sGqc2JJ2bMyi0HPutjt7S) | [Das Más](https://open.spotify.com/album/5qairliawi1EsgedE5edIu) | 2:56 | 2025-06-04 |  |
@@ -1283,7 +1284,7 @@
 | [Media melanco](https://open.spotify.com/track/1oxoK3rc47doNVKCMCduFz) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw) | [Media melanco](https://open.spotify.com/album/7pSTfD8VVcvjek0m0EqGSE) | 3:27 | 2025-05-20 |  |
 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 | 2026-02-20 |  |
 | [Meditation Version](https://open.spotify.com/track/4xz1AZQVP23FfxMomfYlz0) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 4:14 | 2024-07-06 |  |
-| [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [Josè Sechi](https://open.spotify.com/artist/13nlBFWZVZjdFKwE8ynV16), [Davide Caddeo](https://open.spotify.com/artist/3xAmH4xE6tJXOvq3U9c5TW) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 | 2026-05-28 |  |
+| [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi), [Davide Caddeo](https://open.spotify.com/artist/3xAmH4xE6tJXOvq3U9c5TW) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 | 2026-05-28 |  |
 | [Meditherranea \- Extended Mix](https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 4:03 | 2026-05-28 |  |
 | [Meglio \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/0FWI6Glw2QagTUM8XI2d9U) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Bugatti Cristian](https://open.spotify.com/album/2JFwpVw1ZdevcYCWPrOZKF) | 3:28 | 2023-03-15 |  |
 | [Mejorar la Especie](https://open.spotify.com/track/2fHnu29xq4544B0aXdwAow) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Mejorar la Especie](https://open.spotify.com/album/27awH2vQ8fb0UH2e7rVA9Q) | 2:54 | 2025-08-05 |  |

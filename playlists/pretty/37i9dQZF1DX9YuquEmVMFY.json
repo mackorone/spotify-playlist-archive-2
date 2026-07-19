@@ -1,378 +1,354 @@
 {
-  "description": "The 18th Seoul Jazz Festival 2026, 5/22(FRI) @\uc62c\ub9bc\ud53d\uacf5\uc6d0",
-  "num_followers": 40812,
-  "original_name": "On Tour Korea: Janelle Mon\u00e1e",
+  "description": "One Universe Festival 2026, July 26th(Sat) @PARADISE CITY",
+  "num_followers": 40806,
+  "original_name": "On Tour Korea: The xx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1",
+  "snapshot_id": "AAAAAHXDmI34RiPB+ML95ytn9kh2GO4l",
   "tracks": [
     {
-      "added_at": "2026-05-21 15:00:15",
+      "added_at": "2026-07-18 15:00:15",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Crystalised",
+      "url": "https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 238373,
+      "name": "Say Something Loving",
+      "url": "https://open.spotify.com/track/2C5YDhSJqLFCHrymIBzNSg"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 216853,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "We're New Here",
+        "url": "https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
         },
         {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+          "name": "Jamie Smith",
+          "url": "https://open.spotify.com/artist/2PZO2EvqY5QjyW65YSKj7F"
         }
       ],
-      "duration_ms": 242166,
-      "name": "Float (feat. Seun Kuti & Egypt 80)",
-      "url": "https://open.spotify.com/track/6CUZbMz66qGGdinwKcaeFN"
+      "duration_ms": 282906,
+      "name": "I'll Take Care of U",
+      "url": "https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA"
     },
     {
-      "added_at": "2026-05-21 15:00:15",
+      "added_at": "2026-07-18 15:00:15",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
+        "name": "Shelter (Live Remix 2017)",
+        "url": "https://open.spotify.com/album/0HF2b91QfZVxmJ2zIBEtGV"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Champagne Shit",
-      "url": "https://open.spotify.com/track/7j6VDmpHFnUaxZSBOqZuZ1"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Django Jane",
-      "url": "https://open.spotify.com/track/56RfNBJGUgL1ZFCB1KEJrQ"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The Electric Lady",
-        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         },
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 310480,
-      "name": "Q.U.E.E.N. (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/3HW030T8eqPs8wpsgZqCGM"
+      "duration_ms": 315506,
+      "name": "Shelter - Live Remix 2017",
+      "url": "https://open.spotify.com/track/05wchP5ISggJEECvXNDpQn"
     },
     {
-      "added_at": "2026-05-21 15:00:15",
+      "added_at": "2026-07-18 15:00:15",
       "album": {
-        "name": "The Electric Lady",
-        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 313386,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2qKioq4HNraWk0DXH4Rdut"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/0Cr3j6qhDItBeFbAzdXtN2"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "Roman GianArthur",
-          "url": "https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Loud Places",
+      "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 135835,
+      "name": "Wanna",
+      "url": "https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 240580,
+      "name": "Treat Each Other Right",
+      "url": "https://open.spotify.com/track/3pjX4hC8adabkXGu3X9GTC"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "Hideous Bastard",
+        "url": "https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "GMT",
+      "url": "https://open.spotify.com/track/0Y3dpX5KtEdMknoP9DKWaL"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+    },
+    {
+      "added_at": "2026-07-18 15:00:15",
+      "album": {
+        "name": "I See You (Remixes)",
+        "url": "https://open.spotify.com/album/53QnY8X6gaMHYWIu9LmpaQ"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         },
         {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 308893,
-      "name": "Electric Lady (feat. Solange)",
-      "url": "https://open.spotify.com/track/69vzkewKl2LPquyEiqD8BB"
+      "duration_ms": 371533,
+      "name": "On Hold - Jamie xx Remix",
+      "url": "https://open.spotify.com/track/513Ndbo32DnhMfZdiUKnQW"
     },
     {
-      "added_at": "2026-05-21 15:00:15",
+      "added_at": "2026-07-18 15:00:15",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 169386,
-      "name": "Lipstick Lover",
-      "url": "https://open.spotify.com/track/4bHMjuuSyavLJ5qRuLo3rD"
+      "duration_ms": 233280,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8"
     },
     {
-      "added_at": "2026-05-21 15:00:15",
+      "added_at": "2026-07-18 15:00:15",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 106026,
-      "name": "Paid In Pleasure",
-      "url": "https://open.spotify.com/track/7bFwLJ3GFSs634CuICP8Y9"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Pynk (feat. Grimes)",
-      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 200338,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 194230,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/5al9is1AQnaI3lTi20DUG6"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 262586,
-      "name": "Tightrope (feat. Big Boi) - Big Boi Vocal Edit",
-      "url": "https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Come Alive (War of the Roses)",
-      "url": "https://open.spotify.com/track/4197HGpsH7jGRz5gInEkfC"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The Electric Lady",
-        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 280080,
-      "name": "Primetime (feat. Miguel)",
-      "url": "https://open.spotify.com/track/5dzV75f9qVXVvdXLTqIG4L"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Crazy, Classic, Life",
-      "url": "https://open.spotify.com/track/06EAtSDu3KSoi4fbA3ZjoB"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "What Is Love",
-        "url": "https://open.spotify.com/album/0OFZKxIxJDZeSHuSK39hgD"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/4qwD0NoxEl2xKbYxx2vhcg"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 226287,
-      "name": "I Got the Juice (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/5Yfq9uugLFchtFymQQWxgt"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Oh, Maker",
-      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Nia Long",
-          "url": "https://open.spotify.com/artist/6BM4RlXELVhbs7U0H1OlnH"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "The Rush (feat. Nia Long & Amaarae)",
-      "url": "https://open.spotify.com/track/0tfXPXdQkxVjMhQtF68MnZ"
-    },
-    {
-      "added_at": "2026-05-21 15:00:15",
-      "album": {
-        "name": "The Electric Lady",
-        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Dance Apocalyptic",
-      "url": "https://open.spotify.com/track/3dUMuxNadGxCE3qXuhCwqa"
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
     }
   ],
-  "unique_name": "On Tour Korea: Janelle Mon\u00e1e",
+  "unique_name": "On Tour Korea: The xx",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY"
 }

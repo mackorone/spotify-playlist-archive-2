@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > don't know the half of it, I wish you did ❤️‍🩹❤️‍🩹❤️‍🩹 gracie abrams on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,838 likes - 141 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,861 likes - 141 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

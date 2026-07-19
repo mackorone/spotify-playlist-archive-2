@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Cristo.",
-  "num_followers": 22416,
+  "num_followers": 22467,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Ave de Paso",
-        "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Ave de Paso",
-      "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
         "name": "CULPA NUESTRA",
         "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 181001,
       "name": "NOIS",
       "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "Ave de Paso",
+        "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Ave de Paso",
+      "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
-      },
-      "artists": [
-        {
-          "name": "UMEN",
-          "url": "https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf"
-        },
-        {
-          "name": "Cascales",
-          "url": "https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X"
-        }
-      ],
-      "duration_ms": 172650,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
         "name": "Satisfacer Tu Deseo De Hombre",
         "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 167856,
       "name": "Se te est\u00e1 olvidando",
       "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
+      },
+      "artists": [
+        {
+          "name": "UMEN",
+          "url": "https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf"
+        },
+        {
+          "name": "Cascales",
+          "url": "https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X"
+        }
+      ],
+      "duration_ms": 172650,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
     },
     {
       "added_at": "2026-07-13 22:00:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,420,701 likes - 144 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,420,722 likes - 144 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 143 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 |
 | 144 | [Bourgogne](https://open.spotify.com/track/7o4WGcO36C0d6ouMsJOylY) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Bourgogne](https://open.spotify.com/album/1DUWrx08k0dAUfM2ZwIXuT) | 2:01 |
 
-Snapshot ID: `AAAAAN8cp+JiMP+oKq4m+u1CEtaJ+ONS`
+Snapshot ID: `AAAAANoasIOn0eMMURQ4uT+FbMXqsImO`

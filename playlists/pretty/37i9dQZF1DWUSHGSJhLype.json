@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez",
-  "num_followers": 759900,
+  "num_followers": 759960,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -623,30 +623,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Rebolando",
-        "url": "https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t"
-      },
-      "artists": [
-        {
-          "name": "Kew",
-          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Dj LK da Esc\u00f3cia",
-          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
-        }
-      ],
-      "duration_ms": 106685,
-      "name": "Rebolando",
-      "url": "https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "Na Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 114044,
       "name": "Na Imagina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Rebolando",
+        "url": "https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t"
+      },
+      "artists": [
+        {
+          "name": "Kew",
+          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        }
+      ],
+      "duration_ms": 106685,
+      "name": "Rebolando",
+      "url": "https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "Olha Eu Sorrindo",
+        "url": "https://open.spotify.com/album/0E5XITaUAXAh7h0HXTqZue"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clareou",
+          "url": "https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Olha Eu Sorrindo",
+      "url": "https://open.spotify.com/track/1GIr3VE6AWRxOyrj3VXUzr"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "Baile no Rio",
         "url": "https://open.spotify.com/album/2vQ5OHlDaVPObQyAcv4MtF"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 178285,
       "name": "Baile no Rio",
       "url": "https://open.spotify.com/track/1BInZuNY6XMXr89Pn3cJYL"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Olha Eu Sorrindo",
-        "url": "https://open.spotify.com/album/0E5XITaUAXAh7h0HXTqZue"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clareou",
-          "url": "https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Olha Eu Sorrindo",
-      "url": "https://open.spotify.com/track/1GIr3VE6AWRxOyrj3VXUzr"
     },
     {
       "added_at": "2026-06-26 03:00:56",

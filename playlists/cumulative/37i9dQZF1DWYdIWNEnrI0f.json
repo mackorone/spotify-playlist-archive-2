@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 187875,
       "name": "balance",
       "url": "https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 81375,
       "name": "honestly",
       "url": "https://open.spotify.com/track/24PHDi7Uhz1LO8Xi2pJoDQ"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 145263,
       "name": "insideout",
       "url": "https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 218703,
       "name": "Nitnoi",
       "url": "https://open.spotify.com/track/4kwmLBF0lsSxAz2dVGrU8M"
@@ -632,10 +632,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 207766,
       "name": "ole",
       "url": "https://open.spotify.com/track/5GktrSt0vCcZjJALP61bak"
+    },
+    {
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146014,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
     },
     {
       "album": {
@@ -726,7 +744,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 292700,
       "name": "raw material",
       "url": "https://open.spotify.com/track/0J4xZOSAotgO9MKTXKWbrO"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 173367,
       "name": "Scintillate",
       "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
@@ -1000,10 +1018,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 112013,
       "name": "Stories & Studies",
       "url": "https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200061,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "album": {
@@ -1070,7 +1106,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 154949,
       "name": "Tokiwa",
       "url": "https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk"
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 223390,
       "name": "Worldwide",
       "url": "https://open.spotify.com/track/6Qs9NTmOxaPs4gEcho8hJa"
@@ -1282,7 +1318,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 207882,
       "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
       "url": "https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv"
@@ -1326,7 +1362,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 326000,
       "name": "\u8ff7\u3044\u306e\u68ee",
       "url": "https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn"

@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1229,
+  "num_followers": 1230,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "kiara",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAAB1GV5NPNvDeAPufSi8Ef86GSzpnxD",
+  "snapshot_id": "AAAB2MYAqS38zS3iD2wOP4whaS7HuIQC",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -6869,22 +6869,6 @@
       "url": "https://open.spotify.com/track/1c1FCwWrBH8A0PX3C0k50N"
     },
     {
-      "added_at": "2025-04-24 06:42:35",
-      "album": {
-        "name": "Dreamscape",
-        "url": "https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt"
-      },
-      "artists": [
-        {
-          "name": "Arctica The Fox",
-          "url": "https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8"
-        }
-      ],
-      "duration_ms": 217025,
-      "name": "Goodnight For Now",
-      "url": "https://open.spotify.com/track/3u9b0gYCyQEu3CiTKJYEQY"
-    },
-    {
       "added_at": "2025-04-24 06:42:39",
       "album": {
         "name": "Dreamscape",
@@ -8363,6 +8347,54 @@
       "duration_ms": 160384,
       "name": "Top 10 Things to Do Before You Die",
       "url": "https://open.spotify.com/track/7tKvP8aMFoNyMFjx4qPxbz"
+    },
+    {
+      "added_at": "2026-07-18 09:45:12",
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "duration_ms": 255079,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h"
+    },
+    {
+      "added_at": "2026-07-18 22:17:13",
+      "album": {
+        "name": "what the",
+        "url": "https://open.spotify.com/album/5oJwI2DMsXCCq0tiinA843"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "what the",
+      "url": "https://open.spotify.com/track/6QY4EGyvY1sKaIUEJAk00e"
+    },
+    {
+      "added_at": "2026-07-18 22:17:16",
+      "album": {
+        "name": "Forgive Me Please",
+        "url": "https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Just a Little Better",
+      "url": "https://open.spotify.com/track/13jSiZCcJYHaBYUWYdc637"
     }
   ],
   "unique_name": "My favourite furry songs",

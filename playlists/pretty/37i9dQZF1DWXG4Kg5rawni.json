@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115660,
+  "num_followers": 115675,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "Wilian Nascimento Falando de Amor",
+        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 261085,
+      "name": "Beijo no Altar",
+      "url": "https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Cantares",
         "url": "https://open.spotify.com/album/0YkLal3wUjbk9c02TekuVO"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 205593,
       "name": "Deus me deu voc\u00ea Aleluia",
       "url": "https://open.spotify.com/track/3pgViD9u5HevoCKdgdS7dG"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "Wilian Nascimento Falando de Amor",
-        "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 261085,
-      "name": "Beijo no Altar",
-      "url": "https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "do avesso",
-        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
-      },
-      "artists": [
-        {
-          "name": "Marcos Martins",
-          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "do avesso",
-      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "do avesso",
+        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
+      },
+      "artists": [
+        {
+          "name": "Marcos Martins",
+          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 246917,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Rom\u00e2nticos",
-        "url": "https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Can\u00e7\u00e3o pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "Deus Voc\u00ea e Eu",
         "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 219440,
       "name": "Deus Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Rom\u00e2nticos",
+        "url": "https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Can\u00e7\u00e3o pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF"
     },
     {
       "added_at": "2026-06-12 03:01:50",

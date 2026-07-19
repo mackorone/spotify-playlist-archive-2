@@ -44313,6 +44313,24 @@
     },
     {
       "album": {
+        "name": "\u3054\u3081\u3093\u3068\u3001\u3059\u304d\u3068\u3001",
+        "url": "https://open.spotify.com/album/4Ue0U8o0J3B7LGLG31g4nZ"
+      },
+      "artists": [
+        {
+          "name": "Akina Nakamori",
+          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+        }
+      ],
+      "date_added": "2026-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308773,
+      "name": "\u3054\u3081\u3093\u3068\u3001\u3059\u304d\u3068\u3001",
+      "url": "https://open.spotify.com/track/7CWq0YtZJ2skGJG0MfzpD3"
+    },
+    {
+      "album": {
         "name": "\u3054\u3081\u3093\u306d",
         "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
       },
@@ -44906,7 +44924,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 217000,
       "name": "\u305c\u3093\u3076\u53ef\u611b\u3044\u306e\u305b\u3044",
       "url": "https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ"

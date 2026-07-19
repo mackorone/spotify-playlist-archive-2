@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 895750,
+  "num_followers": 895735,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-07-16 22:01:16",
       "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
+    },
+    {
+      "added_at": "2026-07-16 22:01:16",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-07-16 22:01:16",
       "album": {
-        "name": "With You Around",
-        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 233218,
-      "name": "With You Around",
-      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
-    },
-    {
-      "added_at": "2026-07-16 22:01:16",
-      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 257400,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "added_at": "2026-07-16 22:01:16",
+      "album": {
+        "name": "With You Around",
+        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 233218,
+      "name": "With You Around",
+      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
     },
     {
       "added_at": "2026-07-16 22:01:16",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-07-16 22:01:16",
       "album": {
-        "name": "Singing",
-        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 217264,
-      "name": "Moon Not Mine",
-      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
-    },
-    {
-      "added_at": "2026-07-16 22:01:16",
-      "album": {
         "name": "Elle laisse (Radio Edit)",
         "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 208031,
       "name": "Beautiful Thingz",
       "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+    },
+    {
+      "added_at": "2026-07-16 22:01:16",
+      "album": {
+        "name": "Singing",
+        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 217264,
+      "name": "Moon Not Mine",
+      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
     },
     {
       "added_at": "2026-07-16 22:01:16",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2026-07-16 22:01:16",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
-    },
-    {
-      "added_at": "2026-07-16 22:01:16",
-      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-07-16 22:01:16",
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "added_at": "2026-07-16 22:01:16",
+      "album": {
         "name": "Never Give Up (Acoustic Version)",
         "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 187863,
       "name": "Never Give Up (Acoustic Version)",
       "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
-    },
-    {
-      "added_at": "2026-07-16 22:01:16",
-      "album": {
-        "name": "Things I've Seen",
-        "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
-      },
-      "artists": [
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
     }
   ],
   "unique_name": "Au calme",

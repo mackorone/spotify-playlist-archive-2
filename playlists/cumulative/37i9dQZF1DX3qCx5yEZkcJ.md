@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-589 songs - 1 day 0 hr 32 min
+590 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Flor de Terciopelo](https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Flor de Terciopelo](https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6) | 2:15 | 2021-10-31 | 2024-04-26 |
 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 | 2025-04-04 |  |
 | [Flowers](https://open.spotify.com/track/4f7J3uf3NbMluibhVHy1vR) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/4DCZnmEKuQveUtUYSKmuSw) | 3:28 | 2022-06-23 | 2022-07-29 |
+| [Flute Echoes](https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [Flute Echoes](https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT) | 2:27 | 2026-07-18 |  |
 | [Fly](https://open.spotify.com/track/3er5KNqecEwHMz5PPLIT6r) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Fly](https://open.spotify.com/album/4W5dc5jMDJGO5SbaZ8oXew) | 2:34 | 2020-06-29 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs) | 2:38 | 2022-07-28 | 2023-03-08 |
@@ -430,7 +431,7 @@
 | [Romantic Rain](https://open.spotify.com/track/0ONPyowm9YQFY7mtx45GaD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Romantic Rain](https://open.spotify.com/album/1tQiRd5m1st2e60sbyvbcS) | 2:50 | 2020-08-30 | 2026-04-03 |
 | [Roses](https://open.spotify.com/track/1u0Xo3j20ST5IOZIffErzh) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [For Her](https://open.spotify.com/album/3sRbCMv1Rj5vRbnQT3npdu) | 1:35 | 2022-11-17 | 2024-04-19 |
 | [Roses](https://open.spotify.com/track/3rDtYwyfZNfTfxjyivntg5) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [For Her](https://open.spotify.com/album/4O4tlQX1aDjudqgHFBaRqS) | 1:35 | 2019-05-26\* | 2022-11-19 |
-| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2023-02-10 |  |
+| [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2023-02-10 | 2026-07-19 |
 | [Rostrum](https://open.spotify.com/track/6FBdKFeFKVveyC8v6l0KMg) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/14k8oEMytKKBos3mUQYgeM) | 2:15 | 2023-02-11 | 2024-04-19 |
 | [Rubberband](https://open.spotify.com/track/1kSWi8ycKlP4WSkuXOl9Rv) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/0i7o6n9c8pGHgfmqlMD9uz) | 1:51 | 2022-11-17 | 2024-04-19 |
 | [Rubberband](https://open.spotify.com/track/3gCnoDKLaiHoScvQuUAKeh) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/3YTUVIwwsncLHLshRd6saT) | 1:51 | 2020-06-19 | 2022-11-20 |

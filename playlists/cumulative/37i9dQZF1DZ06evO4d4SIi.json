@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222847,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
+    },
+    {
+      "album": {
         "name": "Like God Intended",
         "url": "https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1"
       },

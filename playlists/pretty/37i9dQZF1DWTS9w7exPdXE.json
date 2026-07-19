@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 167929,
+  "num_followers": 168018,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Drink Rode Wijn (Feestmix)",
-        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
+        "name": "Haal Alles Uit Het Leven",
+        "url": "https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a"
       },
       "artists": [
         {
-          "name": "Donny Ponsen",
-          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Drink Rode Wijn - Feestmix",
-      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
+      "duration_ms": 178868,
+      "name": "Haal Alles Uit Het Leven",
+      "url": "https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Haal Alles Uit Het Leven",
-        "url": "https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a"
+        "name": "Drink Rode Wijn (Feestmix)",
+        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
       },
       "artists": [
         {
-          "name": "Wolter Kroes",
-          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
         }
       ],
-      "duration_ms": 178868,
-      "name": "Haal Alles Uit Het Leven",
-      "url": "https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R"
+      "duration_ms": 174466,
+      "name": "Drink Rode Wijn - Feestmix",
+      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1579,18 +1579,26 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Zo Ben Ik Mezelf",
-        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
+        "name": "Vluchtstrook",
+        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
       "artists": [
         {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
-      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
+      "duration_ms": 148467,
+      "name": "Vluchtstrook",
+      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1615,6 +1623,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Zo Ben Ik Mezelf",
+        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
+      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
@@ -1631,30 +1655,6 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Vluchtstrook",
-        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "Vluchtstrook",
-      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
       "added_at": "2026-06-17 07:46:41",

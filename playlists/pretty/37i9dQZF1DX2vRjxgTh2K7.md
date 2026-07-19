@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vRjxgTh2K7.md) - [plain]
 
 > The official soundtrack and score of Project Hail Mary, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,635 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,245 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

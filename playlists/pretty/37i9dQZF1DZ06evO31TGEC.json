@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55726,
+  "num_followers": 55732,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAAC2jy/Jwc4vPMWV7ilSf2cH",
+  "snapshot_id": "allwgAAAAAC1n3lKukSsGUcbXipdLz+K",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
@@ -643,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Va A Gustar",
-        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 198720,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
+      "duration_ms": 190133,
+      "name": "De Cristal O De Papel",
+      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
     },
     {
       "added_at": null,
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Va A Gustar",
-        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 190133,
-      "name": "De Cristal O De Papel",
-      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
+      "duration_ms": 147051,
+      "name": "Esa Fue Mi Novia",
+      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 205213,
       "name": "Mayor de Edad (Banda)",
       "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 147051,
-      "name": "Esa Fue Mi Novia",
-      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "The 18th Seoul Jazz Festival 2026, 5/22(FRI) @\uc62c\ub9bc\ud53d\uacf5\uc6d0",
-  "name": "On Tour Korea: Janelle Mon\u00e1e",
+  "description": "One Universe Festival 2026, July 26th(Sat) @PARADISE CITY",
+  "name": "On Tour Korea: The xx",
   "tracks": [
     {
       "album": {
@@ -732,6 +732,24 @@
       "duration_ms": 251866,
       "name": "amayo no seppun",
       "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
+    },
+    {
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
     },
     {
       "album": {
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 143200,
       "name": "Champagne Shit",
       "url": "https://open.spotify.com/track/7j6VDmpHFnUaxZSBOqZuZ1"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 203626,
       "name": "Cold War",
       "url": "https://open.spotify.com/track/5al9is1AQnaI3lTi20DUG6"
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 202026,
       "name": "Come Alive (War of the Roses)",
       "url": "https://open.spotify.com/track/4197HGpsH7jGRz5gInEkfC"
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 286626,
       "name": "Crazy, Classic, Life",
       "url": "https://open.spotify.com/track/06EAtSDu3KSoi4fbA3ZjoB"
@@ -2583,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201946,
+      "name": "Crystalised",
+      "url": "https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH"
+    },
+    {
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
       },
@@ -2612,7 +2648,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 205200,
       "name": "Dance Apocalyptic",
       "url": "https://open.spotify.com/track/3dUMuxNadGxCE3qXuhCwqa"
@@ -2836,7 +2872,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 190288,
       "name": "Django Jane",
       "url": "https://open.spotify.com/track/56RfNBJGUgL1ZFCB1KEJrQ"
@@ -3242,7 +3278,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 308893,
       "name": "Electric Lady (feat. Solange)",
       "url": "https://open.spotify.com/track/69vzkewKl2LPquyEiqD8BB"
@@ -3322,6 +3358,24 @@
       "duration_ms": 156020,
       "name": "enemy",
       "url": "https://open.spotify.com/track/4v8jCYnK4NPjHzujzucsPu"
+    },
+    {
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5"
     },
     {
       "album": {
@@ -3843,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
+    },
+    {
+      "album": {
         "name": "in all of my lonely nights",
         "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
       },
@@ -3982,7 +4054,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 242166,
       "name": "Float (feat. Seun Kuti & Egypt 80)",
       "url": "https://open.spotify.com/track/6CUZbMz66qGGdinwKcaeFN"
@@ -4502,6 +4574,24 @@
       "duration_ms": 189293,
       "name": "Given Up",
       "url": "https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"
+    },
+    {
+      "album": {
+        "name": "Hideous Bastard",
+        "url": "https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "GMT",
+      "url": "https://open.spotify.com/track/0Y3dpX5KtEdMknoP9DKWaL"
     },
     {
       "album": {
@@ -5349,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8"
+    },
+    {
+      "album": {
         "name": "i don't think i love you anymore",
         "url": "https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01"
       },
@@ -5400,7 +5508,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 226287,
       "name": "I Got the Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/5Yfq9uugLFchtFymQQWxgt"
@@ -5552,7 +5660,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 200338,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA"
@@ -5842,6 +5950,32 @@
       "duration_ms": 184560,
       "name": "I'd Rather Pretend (with d4vd)",
       "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
+    },
+    {
+      "album": {
+        "name": "We're New Here",
+        "url": "https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Jamie Smith",
+          "url": "https://open.spotify.com/artist/2PZO2EvqY5QjyW65YSKj7F"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "I'll Take Care of U",
+      "url": "https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA"
     },
     {
       "album": {
@@ -6136,6 +6270,60 @@
       "duration_ms": 213283,
       "name": "indigo",
       "url": "https://open.spotify.com/track/1s0mF56zdGht07Qw4h7Dd3"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313386,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2qKioq4HNraWk0DXH4Rdut"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
     },
     {
       "album": {
@@ -6966,7 +7154,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 169386,
       "name": "Lipstick Lover",
       "url": "https://open.spotify.com/track/4bHMjuuSyavLJ5qRuLo3rD"
@@ -7212,7 +7400,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
@@ -7474,7 +7662,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 194230,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
@@ -8187,6 +8375,24 @@
     },
     {
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216853,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR"
+    },
+    {
+      "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
       },
@@ -8488,7 +8694,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 226253,
       "name": "Oh, Maker",
       "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
@@ -8510,6 +8716,46 @@
       "duration_ms": 165960,
       "name": "Omakase",
       "url": "https://open.spotify.com/track/40FFG6wi7mFGRJ5YR5ZoFJ"
+    },
+    {
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+    },
+    {
+      "album": {
+        "name": "I See You (Remixes)",
+        "url": "https://open.spotify.com/album/53QnY8X6gaMHYWIu9LmpaQ"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371533,
+      "name": "On Hold - Jamie xx Remix",
+      "url": "https://open.spotify.com/track/513Ndbo32DnhMfZdiUKnQW"
     },
     {
       "album": {
@@ -8850,7 +9096,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 106026,
       "name": "Paid In Pleasure",
       "url": "https://open.spotify.com/track/7bFwLJ3GFSs634CuICP8Y9"
@@ -9370,7 +9616,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 280080,
       "name": "Primetime (feat. Miguel)",
       "url": "https://open.spotify.com/track/5dzV75f9qVXVvdXLTqIG4L"
@@ -9468,7 +9714,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 240426,
       "name": "Pynk (feat. Grimes)",
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
@@ -9490,7 +9736,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 310480,
       "name": "Q.U.E.E.N. (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/3HW030T8eqPs8wpsgZqCGM"
@@ -10105,6 +10351,24 @@
     },
     {
       "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238373,
+      "name": "Say Something Loving",
+      "url": "https://open.spotify.com/track/2C5YDhSJqLFCHrymIBzNSg"
+    },
+    {
+      "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
@@ -10182,6 +10446,28 @@
       "duration_ms": 253386,
       "name": "She",
       "url": "https://open.spotify.com/track/5WzfCu5fhgm7jv896EN1Md"
+    },
+    {
+      "album": {
+        "name": "Shelter (Live Remix 2017)",
+        "url": "https://open.spotify.com/album/0HF2b91QfZVxmJ2zIBEtGV"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315506,
+      "name": "Shelter - Live Remix 2017",
+      "url": "https://open.spotify.com/track/05wchP5ISggJEECvXNDpQn"
     },
     {
       "album": {
@@ -11215,6 +11501,24 @@
     },
     {
       "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
+    },
+    {
+      "album": {
         "name": "supercuts",
         "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
       },
@@ -11884,7 +12188,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 163733,
       "name": "The Rush (feat. Nia Long & Amaarae)",
       "url": "https://open.spotify.com/track/0tfXPXdQkxVjMhQtF68MnZ"
@@ -12102,7 +12406,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 262586,
       "name": "Tightrope (feat. Big Boi) - Big Boi Vocal Edit",
       "url": "https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC"
@@ -12412,7 +12716,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 240580,
       "name": "Treat Each Other Right",
       "url": "https://open.spotify.com/track/3pjX4hC8adabkXGu3X9GTC"
@@ -12797,6 +13101,24 @@
     },
     {
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/0Cr3j6qhDItBeFbAzdXtN2"
+    },
+    {
+      "album": {
         "name": "Violet Hill",
         "url": "https://open.spotify.com/album/5A2FItyDVQ2YxaqCw4X5x2"
       },
@@ -12972,7 +13294,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 135835,
       "name": "Wanna",
       "url": "https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p"
@@ -13114,7 +13436,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 212293,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/4qwD0NoxEl2xKbYxx2vhcg"

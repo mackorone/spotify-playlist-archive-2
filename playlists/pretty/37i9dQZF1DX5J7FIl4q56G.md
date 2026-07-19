@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Boundaries
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,135 likes - 151 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,185 likes - 151 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 45 | [La Sdrega](https://open.spotify.com/track/5ts8eNirmt2q0I5a5kcc8O) | [Hesperia](https://open.spotify.com/artist/0jeCh42LIdsAuU7YE4Xa6D) | [La Sdrega](https://open.spotify.com/album/6il0Ld365Sqj2KARs8KoYP) | 9:09 |
 | 46 | [Feverdream](https://open.spotify.com/track/1PNavXQEEdQamBVfDVlF5c) | [Embrace The Silence](https://open.spotify.com/artist/3p3Xhk8v0h5iYp9pRRKNnp) | [Feverdream](https://open.spotify.com/album/6PoQ506XJV1vdXa9BcjcdQ) | 3:22 |
 | 47 | [Innocent Death](https://open.spotify.com/track/4OLPnk6qSOG3CQRqJfpNWp) | [Drøver](https://open.spotify.com/artist/16IeL2H0tdmTogkC7Rm4fU) | [Innocent Death](https://open.spotify.com/album/7JC0NCEnL6GpkYgVkOVMZf) | 3:01 |
-| 48 | [Invertebrate](https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [Invertebrate](https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef) | 3:57 |
+| 48 | [Invertebrate](https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [Invertebrate](https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef) | 3:01 |
 | 49 | [The Edge of Perfection](https://open.spotify.com/track/6kjTtIArHMwFHFHCDfbwzJ) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [The Edge of Perfection](https://open.spotify.com/album/3jucDb8TuReR3xPjdkgm9D) | 6:46 |
 | 50 | [Upphaf](https://open.spotify.com/track/1QfeSgrrRMPiywQWiFDY7L) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Upphaf](https://open.spotify.com/album/1Pi6Re7Laq42e5T7FvN847) | 4:32 |
 | 51 | [Sanctified In Scars](https://open.spotify.com/track/0hGCzgZIFELWikdga55FHh) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Strike and Kill](https://open.spotify.com/album/4edSFAqCClUwSmgeAouR12) | 4:03 |

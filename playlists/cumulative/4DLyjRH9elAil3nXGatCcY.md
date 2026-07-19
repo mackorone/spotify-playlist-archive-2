@@ -4,7 +4,7 @@
 
 > 
 
-572 songs - 1 day 13 hr 21 min
+573 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-05-09 |  |
 | [Escape From Midwich Valley](https://open.spotify.com/track/1jBP9dV1MJhVcNh75yCT6I) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 6:43 | 2025-10-15 |  |
 | [Escapism \- Original Mix](https://open.spotify.com/track/1kkXrOWL2Ui4xPpusTNTgZ) | [cYsmix](https://open.spotify.com/artist/01D5XnAKpuAbd9PrYSRCuR) | [Escapism](https://open.spotify.com/album/50zuTV6dJOElR3mcYOKR5l) | 5:00 | 2020-03-11 |  |
+| [eternal spell](https://open.spotify.com/track/3gMcNUCdCFVvpeUEJjgUwv) | [cupsy](https://open.spotify.com/artist/75jzqyFMR0AvSPNB9qne7S), [4evrx](https://open.spotify.com/artist/25iVu5L3b8XUxDj1jdTPwh) | [recursus\*](https://open.spotify.com/album/4AMO4wrdcCCDcdUmuhZv2k) | 3:49 | 2026-07-19 |  |
 | [Every Day Is Night](https://open.spotify.com/track/493bj9QGvnC3bxgOD4saqH) | [Garoad](https://open.spotify.com/artist/1oMOdABcJgXgiplesecR1U) | [VA\-11 Hall\-A \(Original Soundtrack: Second Round\)](https://open.spotify.com/album/666rsOsL45p68o5BzooByj) | 3:40 | 2025-10-15 |  |
 | [Everything Is Going to Be Okay](https://open.spotify.com/track/6f0vJU8my3VKiLlHkUyO4K) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Everything Is Going to Be Okay](https://open.spotify.com/album/1IgBUzBGm2yHSAqkb1zT5V) | 2:29 | 2025-10-15 |  |
 | [Everything Is Going to Be Okay](https://open.spotify.com/track/5xF4RLMluqmNFKQZpqd55M) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Prey \(Original Game Soundtrack\)](https://open.spotify.com/album/0kV3ikh8inhOOQ3KMYbisF) | 2:29 | 2025-10-15 |  |

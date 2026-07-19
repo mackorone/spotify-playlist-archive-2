@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,457 songs - 3 day 7 hr 17 min
+1,458 songs - 3 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-11 | 2024-11-23 |
 | [12 DAYS LEFT \- Hell Driver Remix](https://open.spotify.com/track/1RHvXmmlPxZDa6JX6USUbR) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS), [Hell Driver](https://open.spotify.com/artist/4ODfmNqfSwEUjZvC2UCm7e) | [12 DAYS LEFT](https://open.spotify.com/album/1HRsCvxDlCVKsPzYYKqRhZ) | 6:38 | 2020-09-21\* | 2021-01-23 |
 | [1348](https://open.spotify.com/track/037mBLViT1JsW9xq7FX1Hd) | [Bentley Dean](https://open.spotify.com/artist/2yazcd9mOGErgHm7VaBaNT) | [We Are Friends, Vol\. 9](https://open.spotify.com/album/4bqlqWxtEGHnwyqvQJS6YT) | 4:14 | 2020-09-21\* | 2021-02-20 |
+| [1998](https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5) | 3:38 | 2026-07-17 |  |
 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 | 2022-09-23 | 2023-07-15 |
 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-11-08 | 2026-05-09 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-06 | 2024-04-19 |
@@ -488,7 +489,7 @@
 | [Go Head](https://open.spotify.com/track/1XUM16N9IFPKb5RA0bRHmf) | [Ryden](https://open.spotify.com/artist/1Y5qZuVu8BdlAcTRInoT4B) | [Go Head](https://open.spotify.com/album/5Ryo4aP0ruj6kONX3bsVcB) | 3:07 | 2021-10-23 | 2022-03-12 |
 | [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2022-04-01 | 2023-02-16 |
 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 | 2023-10-05 |
-| [Goddess](https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [What U Like EP](https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX) | 3:13 | 2026-07-10 |  |
+| [Goddess](https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [What U Like EP](https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX) | 3:13 | 2026-07-10 | 2026-07-19 |
 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-03-27 | 2021-09-18 |
 | [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 | 2026-06-08 |  |
 | [Gold \- DubVision Remix](https://open.spotify.com/track/6cZk2cg2H9XgWUcRaeRStT) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Gold \(Remixes\)](https://open.spotify.com/album/7Ind88GGJrY1KtDu07D06v) | 3:29 | 2021-07-07 | 2021-09-18 |

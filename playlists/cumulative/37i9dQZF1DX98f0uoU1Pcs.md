@@ -4,7 +4,7 @@
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-915 songs - 2 day 3 hr 28 min
+916 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Hole In The Ground](https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [A Hole In The Ground](https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru) | 3:07 | 2024-09-27 | 2025-02-09 |
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 | 2022-08-17 |
 | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/track/4BwPKXsMkinmd1okNTryUc) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/album/4qq5LjTdwWXVdMAjubHwnK) | 2:56 | 2021-10-07 | 2022-02-22 |
+| [Accent](https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Accent](https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT) | 3:57 | 2026-07-17 |  |
 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 | 2022-01-31 | 2022-10-08 |
 | [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 | 2024-04-22 | 2025-09-13 |
 | [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 | 2025-01-31 | 2025-04-17 |
@@ -586,7 +587,7 @@
 | [Nothing's Changed](https://open.spotify.com/track/6LHUubtVwmThrbG7GA3W8K) | [Maxband](https://open.spotify.com/artist/0p6j5TgQxg0Cwc1TPI3fhR), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Nothing's Changed](https://open.spotify.com/album/33ghK9oXVXJNkEOjT2yWF5) | 4:40 | 2024-01-13 | 2024-04-13 |
 | [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 | 2026-02-20 |  |
 | [Nurse!](https://open.spotify.com/track/2gBHfUuzqb4JP662SOIX7O) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:48 | 2023-05-22 | 2023-09-23 |
-| [O, My Love](https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [O, My Love](https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD) | 2:58 | 2025-09-12 |  |
+| [O, My Love](https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [O, My Love](https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD) | 2:58 | 2025-09-12 | 2026-07-19 |
 | [Odds Are It's Blue](https://open.spotify.com/track/6ZvXyUlPkuFK04sAqaWY6U) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Odds Are It's Blue](https://open.spotify.com/album/1WHx1beOfbbcKHxBJUOnmd) | 3:04 | 2021-10-07 | 2022-01-08 |
 | [Oh Well](https://open.spotify.com/track/7hTKP9eipC9wQLklpbojTX) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [Oh Well](https://open.spotify.com/album/0FwS50JVXScaE4efsASruE) | 4:03 | 2024-08-23 | 2025-02-01 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-26 | 2023-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,998 likes - 50 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,012 likes - 50 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 47 | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL) | 3:22 |
 | 48 | [Came Too Far \(feat\. Maverick City Music & My Mom\)](https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [My Mom](https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:51 |
 | 49 | [Mi Oración \(La Niña de Tus Ojos\) \[feat\. Melody Adorno\]](https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 8:35 |
-| 50 | [Diamond \(I See the Glory\) feat\. Mara Justine](https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Mara Justine](https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw) | [Diamond \(I See the Glory\) feat\. Mara Justine](https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy) | 5:43 |
+| 50 | [Such an Awesome God \(feat\. Maryanne J\. George\)](https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:12 |
 
-Snapshot ID: `algfAAAAAABEG+IKT04822flq6joz+Ma`
+Snapshot ID: `allwgAAAAAAGXCU66gYUhRhINesqhvl3`

@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Luke Tyler Shelton
 
-343 songs - 20 hr 27 min
+344 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Good Together](https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Together](https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk) | 3:21 | 2024-03-01 |  |
 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 | 2022-02-11 |  |
 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 | 2021-10-01 |  |
-| [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 | 2024-09-06 |  |
+| [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 | 2024-09-06 | 2026-07-19 |
 | [Hangin' On](https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw) | [Frank Mastra](https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv) | [Hangin' On](https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9) | 3:31 | 2026-07-17 |  |
 | [Heart Shaped Necklace](https://open.spotify.com/track/6H2iR8II829eMS8jFYWLMA) | [Cassidy Daniels](https://open.spotify.com/artist/7tkuLHX8bn8WkTZtJ5AqiM) | [Heart Shaped Necklace](https://open.spotify.com/album/2xXvur0dTkNBBHWxFoTGYR) | 3:42 | 2026-05-22 | 2026-06-06 |
 | [Hello Miss Lonesome](https://open.spotify.com/track/0BcPWBAYXbYP6QvoOVGiU8) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/4YZFCwN1KJOYs6bdm3aKhI) | 3:15 | 2021-10-01 | 2022-07-29 |
@@ -128,6 +128,7 @@
 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 | 2022-06-01 | 2023-09-15 |
 | [How Bad We Need Each Other](https://open.spotify.com/track/5m2LyVfBZhEmOvBlBGBX1l) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [How Bad We Need Each Other](https://open.spotify.com/album/7iJxwENQQ1RZVPiUanIToJ) | 3:13 | 2021-10-01 | 2022-02-04 |
 | [How Do You Get By](https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [How Do You Get By](https://open.spotify.com/album/698NNT71NehpuCIDRFXWic) | 4:10 | 2024-09-06 |  |
+| [How To Get Away With Murder](https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [How To Get Away With Murder](https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD) | 2:51 | 2026-07-17 |  |
 | [I Don't Care About You](https://open.spotify.com/track/2dnPbSzygNNtD8oHxYLLM7) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [I Don't Care About You](https://open.spotify.com/album/07Xs3SwxYjd7SapLCsFaar) | 3:37 | 2021-10-01 | 2022-07-29 |
 | [I Don't Care About You](https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 3:37 | 2022-06-01 | 2024-04-19 |
 | [I Don't Really Care For You](https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [I Don't Really Care For You](https://open.spotify.com/album/2WVqGcJwbqBQxJCeytGbvx) | 4:03 | 2021-10-01 | 2022-07-29 |

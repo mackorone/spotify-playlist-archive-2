@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Marian Oviedo y Laraim \ud83d\udd25",
-  "num_followers": 579848,
+  "num_followers": 579833,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANT3aVtFTQR3KPY9WALLO+QHhgxs",
+  "snapshot_id": "AAAAAE++vQzvIsYmiun+NHTUASuEHMd8",
   "tracks": [
     {
       "added_at": "2026-07-10 06:00:52",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
+        "name": "Que Pretendes",
+        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
+      },
+      "artists": [
+        {
+          "name": "Ximena Cuevas",
+          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
+        }
+      ],
+      "duration_ms": 145121,
+      "name": "Que Pretendes",
+      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
         "name": "Obvio No",
         "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
-        "name": "Que Pretendes",
-        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
-      },
-      "artists": [
-        {
-          "name": "Ximena Cuevas",
-          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
-        }
-      ],
-      "duration_ms": 145121,
-      "name": "Que Pretendes",
-      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/1DnEi9oGgsPRGpzNzlKn1d"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0OTBMEBx7m0WssMZanksqd"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 140854,
       "name": "\u00bfARDIDA QUI\u00c9N?",
       "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1DnEi9oGgsPRGpzNzlKn1d"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0OTBMEBx7m0WssMZanksqd"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/4bVgWPQapsIgTVUjsupTCS"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Mariana Millan",
-          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/76habhthICzyHAigjvZmxm"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Coleccionando Heridas",
         "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 201340,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/4bVgWPQapsIgTVUjsupTCS"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Mariana Millan",
+          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76habhthICzyHAigjvZmxm"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Herencias De Mi Madre (Volumen 2)",
-        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez Hija",
-          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
-        }
-      ],
-      "duration_ms": 138931,
-      "name": "La Silla Vac\u00eda",
-      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "No Me Vengas A Decir",
         "url": "https://open.spotify.com/album/5QeSWUvRuC1V7yUrLw3p4r"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "A Pierna Suelta",
-        "url": "https://open.spotify.com/album/3MvE3jfLf0X7PJAZlJjmFR"
+        "name": "Herencias De Mi Madre (Volumen 2)",
+        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
       },
       "artists": [
         {
-          "name": "Lili Zetina",
-          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
+          "name": "Chayito Valdez Hija",
+          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
         }
       ],
-      "duration_ms": 177840,
-      "name": "A Pierna Suelta",
-      "url": "https://open.spotify.com/track/4bXD3k2GRkqjxCe9hTEyps"
+      "duration_ms": 138931,
+      "name": "La Silla Vac\u00eda",
+      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -971,6 +955,22 @@
       "duration_ms": 156013,
       "name": "De Beso En Cuando",
       "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "A Pierna Suelta",
+        "url": "https://open.spotify.com/album/3MvE3jfLf0X7PJAZlJjmFR"
+      },
+      "artists": [
+        {
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "A Pierna Suelta",
+      "url": "https://open.spotify.com/track/4bXD3k2GRkqjxCe9hTEyps"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
       },
       "artists": [
         {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
-      },
-      "artists": [
-        {
-          "name": "Ximena Ocampo",
-          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "\u00bfQui\u00e9n Es Usted?",
-      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Cuando Ama Una Mujer",
         "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "\u00bfQui\u00e9n Es Usted?",
+      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Ya Pa' Que",
-        "url": "https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim"
-      },
-      "artists": [
-        {
-          "name": "Gabby Tamez",
-          "url": "https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2"
-        }
-      ],
-      "duration_ms": 157317,
-      "name": "Ya Pa' Que",
-      "url": "https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Completamente Yo",
         "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Si A\u00fan Me Piensas",
-        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
+        "name": "Ya Pa' Que",
+        "url": "https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim"
       },
       "artists": [
         {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+          "name": "Gabby Tamez",
+          "url": "https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2"
         }
       ],
-      "duration_ms": 178265,
-      "name": "Tragos de amargo licor",
-      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
+      "duration_ms": 157317,
+      "name": "Ya Pa' Que",
+      "url": "https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1375,6 +1359,22 @@
       "duration_ms": 189884,
       "name": "El Hielo Est\u00e1 Quemando",
       "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Si A\u00fan Me Piensas",
+        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 178265,
+      "name": "Tragos de amargo licor",
+      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
-        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
-      },
-      "artists": [
-        {
-          "name": "Liz Ocampo",
-          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
-      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/5JoE7qRxFl2gBMyKpddgV6"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 214864,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/4XRJ2OjlS5Trp66QQSDAVC"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
+        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
+      },
+      "artists": [
+        {
+          "name": "Liz Ocampo",
+          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
+      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Canciones Sin Tiempo",
-        "url": "https://open.spotify.com/album/0uKJ1IJ62Bx0xvy4pdXD1y"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 179649,
-      "name": "Mi M\u00e9xico (Radio Edit)",
-      "url": "https://open.spotify.com/track/2Ba99BWC1xQ0sVn2TP5lAf"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Que Te Cambie La Suerte",
         "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 207614,
       "name": "Que Te Cambie La Suerte",
       "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Canciones Sin Tiempo",
+        "url": "https://open.spotify.com/album/0uKJ1IJ62Bx0xvy4pdXD1y"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        }
+      ],
+      "duration_ms": 179649,
+      "name": "Mi M\u00e9xico (Radio Edit)",
+      "url": "https://open.spotify.com/track/2Ba99BWC1xQ0sVn2TP5lAf"
     },
     {
       "added_at": "2026-07-10 06:00:52",

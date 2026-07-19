@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Hadise",
-  "num_followers": 584669,
+  "num_followers": 584753,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-07-15 06:25:24",
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
+      },
+      "artists": [
+        {
+          "name": "KARM6",
+          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "\u0130htimal",
+      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
+    },
+    {
+      "added_at": "2026-07-15 06:25:24",
+      "album": {
         "name": "sanma ki ya\u015f\u0131yorum",
         "url": "https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 149567,
       "name": "sanma ki ya\u015f\u0131yorum",
       "url": "https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs"
-    },
-    {
-      "added_at": "2026-07-15 06:25:24",
-      "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
-      },
-      "artists": [
-        {
-          "name": "KARM6",
-          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "\u0130htimal",
-      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
     },
     {
       "added_at": "2026-07-15 06:25:24",

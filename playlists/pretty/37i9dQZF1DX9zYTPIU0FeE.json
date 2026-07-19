@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: SPARTZ",
-  "num_followers": 14248,
+  "num_followers": 14289,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-16 22:00:10",
       "album": {
-        "name": "Common Ground",
-        "url": "https://open.spotify.com/album/0CxcBTRqAXosN7Ux6aNqAw"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 398891,
-      "name": "Inveterate",
-      "url": "https://open.spotify.com/track/3rADL2yuY67rUBUs5o2Zib"
-    },
-    {
-      "added_at": "2026-07-16 22:00:10",
-      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 258920,
       "name": "Elusive Freedom",
       "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2026-07-16 22:00:10",
+      "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/0CxcBTRqAXosN7Ux6aNqAw"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 398891,
+      "name": "Inveterate",
+      "url": "https://open.spotify.com/track/3rADL2yuY67rUBUs5o2Zib"
     },
     {
       "added_at": "2026-07-16 22:00:10",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-07-16 22:00:10",
       "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
-    },
-    {
-      "added_at": "2026-07-16 22:00:10",
-      "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 302022,
       "name": "The Waters",
       "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
+    },
+    {
+      "added_at": "2026-07-16 22:00:10",
+      "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
     },
     {
       "added_at": "2026-07-16 22:00:10",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-07-16 22:00:10",
       "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
       },
       "artists": [
         {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
         }
       ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "added_at": "2026-07-16 22:00:10",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-07-16 22:00:10",
       "album": {
-        "name": "MaBrrrrrrrrr",
-        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
       },
       "artists": [
         {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
         }
       ],
-      "duration_ms": 296678,
-      "name": "MaBrrrrrrrrr",
-      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
     },
     {
       "added_at": "2026-07-16 22:00:10",
@@ -939,22 +939,6 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
-    },
-    {
-      "added_at": "2026-07-16 22:00:10",
-      "album": {
-        "name": "Born Coloured, not Born-Free",
-        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Jephta",
-          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
-        }
-      ],
-      "duration_ms": 334300,
-      "name": "Gadija (Pt. 1)",
-      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
     },
     {
       "added_at": "2026-07-16 22:00:10",
@@ -987,6 +971,22 @@
     {
       "added_at": "2026-07-16 22:00:10",
       "album": {
+        "name": "Born Coloured, not Born-Free",
+        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "duration_ms": 334300,
+      "name": "Gadija (Pt. 1)",
+      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
+    },
+    {
+      "added_at": "2026-07-16 22:00:10",
+      "album": {
         "name": "A Semblance: Of Return",
         "url": "https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-16 22:00:10",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 349750,
-      "name": "Journey of Gratitude",
-      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
-    },
-    {
-      "added_at": "2026-07-16 22:00:10",
-      "album": {
         "name": "ISIGQI (live at the bird's eye)",
         "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 440654,
       "name": "Kwandebele (Live)",
       "url": "https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E"
+    },
+    {
+      "added_at": "2026-07-16 22:00:10",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Journey of Gratitude",
+      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
     },
     {
       "added_at": "2026-07-16 22:00:10",

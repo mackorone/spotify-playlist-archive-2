@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 340148,
+  "num_followers": 340201,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "No Creo",
-        "url": "https://open.spotify.com/album/5UJHiUjGUoCV5fGKo3QjWZ"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        },
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        }
-      ],
-      "duration_ms": 217166,
-      "name": "No Creo",
-      "url": "https://open.spotify.com/track/3AatxyEZQLtJ06Q3iFnKEQ"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Y Qu\u00e9 Tal Si Te Escapas Del Cielo",
         "url": "https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 206191,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "No Creo",
+        "url": "https://open.spotify.com/album/5UJHiUjGUoCV5fGKo3QjWZ"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "duration_ms": 217166,
+      "name": "No Creo",
+      "url": "https://open.spotify.com/track/3AatxyEZQLtJ06Q3iFnKEQ"
     },
     {
       "added_at": "2026-07-01 22:36:45",

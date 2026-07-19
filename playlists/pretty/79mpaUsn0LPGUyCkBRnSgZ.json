@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJUgsJk7bOM6s8c7m4wY+mvsbnP/qU",
+  "snapshot_id": "AAAJVp9XB0bh7X3CQPhejOM0jWLcXdIf",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -12615,6 +12615,74 @@
       "duration_ms": 54226,
       "name": "Horizontalator",
       "url": "https://open.spotify.com/track/7e0txSRbMf7qaSixVhBFLP"
+    },
+    {
+      "added_at": "2026-07-18 22:53:48",
+      "album": {
+        "name": "The Sunset Tree (2025 Remaster)",
+        "url": "https://open.spotify.com/album/11dEkFnGUXKGDBuGQY8O5z"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "You Or Your Memory - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1jjnxtyzO921D6LcTf17dn"
+    },
+    {
+      "added_at": "2026-07-18 22:54:02",
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Tallahassee",
+      "url": "https://open.spotify.com/track/5dLdGFhxgw4mRF8d4ErBkT"
+    },
+    {
+      "added_at": "2026-07-18 22:58:35",
+      "album": {
+        "name": "Moon Colony Bloodbath",
+        "url": "https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        },
+        {
+          "name": "John Vanderslice",
+          "url": "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/66dcthbkYBL1JGB0NvZfFM"
+    },
+    {
+      "added_at": "2026-07-18 22:58:53",
+      "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "Amy aka Spent Gladiator 1",
+      "url": "https://open.spotify.com/track/7LIAbwsjWwIdKMfw46bkKY"
     }
   ],
   "unique_name": "Zacklog",

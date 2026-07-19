@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18405,
+  "num_followers": 18413,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAABsA73AjLb0llJr3TgSmreH",
+  "snapshot_id": "allwgAAAAABdRrY+cJ15SedykNCF/nN6",
   "tracks": [
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 176840,
-      "name": "Colette Shows Him Le Ropes",
-      "url": "https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4"
+      "duration_ms": 101173,
+      "name": "Cast of Cooks",
+      "url": "https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hot Fursuit",
-      "url": "https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Him Go (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
       },
@@ -551,6 +531,22 @@
       "duration_ms": 109466,
       "name": "The Break Of Dawn",
       "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 61160,
+      "name": "Star Trek",
+      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
       "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
         {
           "name": "Michael Giacchino",
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 61160,
-      "name": "Star Trek",
-      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+      "duration_ms": 175026,
+      "name": "Hot Fursuit",
+      "url": "https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incredibles 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO"
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 50706,
-      "name": "Episode 2",
-      "url": "https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ"
+      "duration_ms": 260360,
+      "name": "Nomanisone Island/National Movers",
+      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 260360,
-      "name": "Nomanisone Island/National Movers",
-      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
         "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 202560,
       "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
       "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incredibles 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 50706,
+      "name": "Episode 2",
+      "url": "https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ"
     },
     {
       "added_at": null,

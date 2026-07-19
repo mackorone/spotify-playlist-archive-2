@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 219428,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/0mNgHk38nt7ikBi3lunV9b"
@@ -9950,6 +9950,28 @@
       "duration_ms": 226206,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3R4WdX1bQ5S8QPZankvZxa"
+    },
+    {
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "M\u00c6DM",
+          "url": "https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
     },
     {
       "album": {

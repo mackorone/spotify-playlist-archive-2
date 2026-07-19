@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "TIRA A MINHA PAZ",
+        "url": "https://open.spotify.com/album/0DibVbs9azBbDXD6nQXDyE"
+      },
+      "artists": [
+        {
+          "name": "Alice Ianes",
+          "url": "https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152418,
+      "name": "TIRA A MINHA PAZ",
+      "url": "https://open.spotify.com/track/6BUjTU0YhrrrlQwjYjSJAS"
+    },
+    {
+      "album": {
         "name": "Toca em Mim de Novo",
         "url": "https://open.spotify.com/album/7dXoY31LdmobYZ35BjLW1d"
       },
@@ -3004,6 +3022,28 @@
       "duration_ms": 278773,
       "name": "Vem Me Consumir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6DSgDbw6imY1A1g0RnQ4wg"
+    },
+    {
+      "album": {
+        "name": "Verdadeiro Altar",
+        "url": "https://open.spotify.com/album/2webt0Pb9KJdVgBIyfzGtY"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524023,
+      "name": "Verdadeiro Altar",
+      "url": "https://open.spotify.com/track/6b8l0R9wcrBSSEYfQnfEPy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- AtharvaMusic\n",
-  "num_followers": 135077,
+  "num_followers": 135087,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
-        "name": "Banda Kaam Ka",
-        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
-      },
-      "artists": [
-        {
-          "name": "Chaar Diwaari",
-          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        }
-      ],
-      "duration_ms": 248947,
-      "name": "Banda Kaam Ka",
-      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
         "name": "Kaahe Mose",
         "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 219097,
       "name": "Kaahe Mose",
       "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
+        "name": "Banda Kaam Ka",
+        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 248947,
+      "name": "Banda Kaam Ka",
+      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Kya Batayein",
+        "url": "https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7"
+      },
+      "artists": [
+        {
+          "name": "Samyak Prasana",
+          "url": "https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "duration_ms": 180543,
+      "name": "Kya Batayein",
+      "url": "https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "Pyar Se",
         "url": "https://open.spotify.com/album/1RpjHqJ8iU602vplOTYxMA"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 162845,
       "name": "Pyar Se",
       "url": "https://open.spotify.com/track/6Pe0vVB8zA7ZMRDSWhNxaD"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Kya Batayein",
-        "url": "https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7"
-      },
-      "artists": [
-        {
-          "name": "Samyak Prasana",
-          "url": "https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY"
-        },
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        }
-      ],
-      "duration_ms": 180543,
-      "name": "Kya Batayein",
-      "url": "https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Baawra Mann",
+        "url": "https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN"
+      },
+      "artists": [
+        {
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+        }
+      ],
+      "duration_ms": 252717,
+      "name": "Baawra Mann",
+      "url": "https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "Better With You (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 174065,
       "name": "Better With You (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Baawra Mann",
-        "url": "https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN"
-      },
-      "artists": [
-        {
-          "name": "Shunya",
-          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
-        }
-      ],
-      "duration_ms": 252717,
-      "name": "Baawra Mann",
-      "url": "https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "duration_ms": 186393,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "MOON (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 183944,
       "name": "MOON (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Sukoon",
-        "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
-      },
-      "artists": [
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        }
-      ],
-      "duration_ms": 186393,
-      "name": "Sukoon",
-      "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -1085,26 +1085,6 @@
       "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
     },
     {
-      "added_at": "2026-07-10 05:24:52",
-      "album": {
-        "name": "Safar Khoobsurat",
-        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Shubham Agrawal",
-          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Safar Khoobsurat",
-      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
-    },
-    {
       "added_at": "2026-07-02 08:56:31",
       "album": {
         "name": "Firki",
@@ -1135,6 +1115,26 @@
       "duration_ms": 164081,
       "name": "Raaz",
       "url": "https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag"
+    },
+    {
+      "added_at": "2026-07-10 05:24:52",
+      "album": {
+        "name": "Safar Khoobsurat",
+        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Safar Khoobsurat",
+      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
-        "name": "Marhaba",
-        "url": "https://open.spotify.com/album/4kCfwjaL8DhDfUwFn98FH0"
-      },
-      "artists": [
-        {
-          "name": "Euphoria",
-          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
-        },
-        {
-          "name": "Palash Sen",
-          "url": "https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/611RzhEYT8vSiLt24sKnm1"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
         "name": "maikhana",
         "url": "https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 228000,
       "name": "maikhana",
       "url": "https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
+        "name": "Marhaba",
+        "url": "https://open.spotify.com/album/4kCfwjaL8DhDfUwFn98FH0"
+      },
+      "artists": [
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
+        },
+        {
+          "name": "Palash Sen",
+          "url": "https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/611RzhEYT8vSiLt24sKnm1"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
-        "name": "Aakhri Baat",
-        "url": "https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu"
-      },
-      "artists": [
-        {
-          "name": "Dikshant",
-          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Aakhri Baat",
-      "url": "https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
         "name": "Maan Jao",
         "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
+        "name": "Aakhri Baat",
+        "url": "https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Aakhri Baat",
+      "url": "https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je"
     },
     {
       "added_at": "2026-07-02 08:56:31",

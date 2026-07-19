@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,621 songs - 3 day 9 hr 17 min
+1,622 songs - 3 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -991,7 +991,7 @@
 | [Makina](https://open.spotify.com/track/5jvhTc0g18kwYQNUJM5C4e) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:31 | 2021-03-27\* | 2022-03-30 |
 | [Makossa](https://open.spotify.com/track/7BTcDCfp3kWquEvHepCAFM) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Dila Bahar](https://open.spotify.com/artist/5ZvhKqku2nxAO5tDDBFGpQ) | [Makossa](https://open.spotify.com/album/1mlGZ3ye1g5NTCqM2k4YZg) | 2:05 | 2025-10-22 | 2025-11-02 |
 | [MANDALINA](https://open.spotify.com/track/4Z0gQavxUSCqj9cx55Owtp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [MANDALINA](https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS) | 3:29 | 2026-05-28 | 2026-06-05 |
-| [Manifest](https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:29 | 2025-06-14 | 2026-07-18 |
+| [Manifest](https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:29 | 2025-06-14 |  |
 | [Manolya](https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Manolya](https://open.spotify.com/album/1bXqjBmgsbKO0I8lUdGCKb) | 3:05 | 2023-07-08 | 2024-02-10 |
 | [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 | 2025-06-07 | 2025-06-15 |
 | [Maraton](https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Maraton](https://open.spotify.com/album/4N2Xljd6DWSjCoSpXj2nLE) | 3:33 | 2025-12-27 |  |
@@ -1139,7 +1139,7 @@
 | [Outro](https://open.spotify.com/track/0vEYBkV3DplIMNE3TSDg7Z) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 1:25 | 2025-06-14 | 2025-06-16 |
 | [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 | 2022-11-13 |
 | [Outro](https://open.spotify.com/track/17w46UZMA2shsYOEMTlD6g) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 1:13 | 2026-02-21 | 2026-02-23 |
-| [Outro II](https://open.spotify.com/track/7Bg8I75fRGSZKyy5mH57LD) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan II](https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn) | 2:30 | 2026-07-11 |  |
+| [Outro II](https://open.spotify.com/track/7Bg8I75fRGSZKyy5mH57LD) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan II](https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn) | 2:30 | 2026-07-11 | 2026-07-19 |
 | [Oynar](https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Oynar](https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm) | 2:47 | 2023-06-18 | 2023-06-25 |
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Padişah](https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [Bu Devirde](https://open.spotify.com/album/0cPDRCMFqgs0CFVaUyxCGt) | 3:52 | 2023-05-14 | 2024-04-05 |
@@ -1595,6 +1595,7 @@
 | [ÖLÜ SESLER](https://open.spotify.com/track/0xvD7ihRvRhFDXjY8lI1QO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 3:42 | 2026-06-20 | 2026-06-22 |
 | [Ölümle Yaşam Arasında](https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Ölümle Yaşam Arasında](https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C) | 2:56 | 2022-10-06 | 2023-07-15 |
 | [Ölümsüz Aşklar](https://open.spotify.com/track/07ZQcQlbituG3sDXGKu4p3) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Evet](https://open.spotify.com/album/4qVhbJmTGKwexO8waGFXVv) | 4:50 | 2025-11-02 | 2025-11-21 |
+| [Ölürüm Daha İyi](https://open.spotify.com/track/7AZFyg2bqG4lcxCWpXYfup) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Ölürüm Daha İyi](https://open.spotify.com/album/2ZNObyR8dNJNyKYHH65LkT) | 4:08 | 2026-07-18 |  |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-06-29 | 2024-10-31 |
 | [Ömrüm](https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Ömrüm](https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN) | 2:54 | 2026-03-22 |  |
 | [Ömrüm](https://open.spotify.com/track/0GwSSml9L21vNI7VGLz1ae) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Ömrüm](https://open.spotify.com/album/0Hnmp3HmLAReVVeCc4Bd9Y) | 4:00 | 2021-09-05 | 2022-01-30 |
@@ -1628,6 +1629,6 @@
 | [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 | 2023-07-23 |
 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 | 2025-06-28 | 2025-07-20 |
 | [ŞUT](https://open.spotify.com/track/2C2m9namPfgkvcPgO0S6Xj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 3:04 | 2025-01-18 | 2025-02-01 |
-| [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 | 2026-07-02 |  |
+| [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 | 2026-07-02 | 2026-07-19 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

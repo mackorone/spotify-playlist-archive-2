@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Camin, Yan Block, Gonzy, Álvaro de Luna, Gracie Abrams y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,444 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,443 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

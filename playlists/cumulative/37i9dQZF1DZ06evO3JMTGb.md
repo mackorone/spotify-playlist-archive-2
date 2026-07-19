@@ -4,7 +4,7 @@
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-62 songs - 5 hr 38 min
+63 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Loph](https://open.spotify.com/track/0amgnDpCcLGBIlEvewxQnz) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 4:32 | 2026-03-19 |  |
 | [Love object](https://open.spotify.com/track/4zkUkLBt2YV8eIZkvLyWxo) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:20 | 2026-03-19 |  |
 | [Me of Ocean](https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:41 | 2026-03-19 |  |
+| [Miarai](https://open.spotify.com/track/7tOto1kPAY3Y6mgwAsJQXE) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Miarai](https://open.spotify.com/album/1L06JWVmYUbYe9jNzx0JI8) | 3:12 | 2026-07-19 |  |
 | [Miocene](https://open.spotify.com/track/2y2YE8SUxYf0tNkhcZucG9) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Kasper Bjørke Quartet: Mother](https://open.spotify.com/album/4gVmGXQuFXzKRAE4c7nGwR) | 11:44 | 2026-04-24 | 2026-06-09 |
 | [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2026-04-15 |  |
 | [Morning Room I](https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:16 | 2026-04-27 | 2026-05-22 |

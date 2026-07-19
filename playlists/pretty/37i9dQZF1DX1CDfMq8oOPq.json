@@ -1,6 +1,6 @@
 {
   "description": "tuuudo conspirando a favor  \ud83c\udf13//  Amanda Sarmento",
-  "num_followers": 102412,
+  "num_followers": 102451,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
-      },
-      "artists": [
-        {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
-    },
-    {
-      "added_at": "2026-07-03 20:55:51",
-      "album": {
         "name": "Milimetricamente",
         "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 122834,
       "name": "Milimetricamente",
       "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+    },
+    {
+      "added_at": "2026-07-03 20:55:51",
+      "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
     },
     {
       "added_at": "2026-07-03 20:55:51",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "MEUS ERROS DE NOVO",
-        "url": "https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "Ryam Beatz",
-          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
-        }
-      ],
-      "duration_ms": 178312,
-      "name": "Destino em Pap\u00e9is",
-      "url": "https://open.spotify.com/track/6901cgMx3F5s2J2HKFZf5T"
-    },
-    {
-      "added_at": "2026-07-03 20:55:51",
-      "album": {
         "name": "Imp\u00e9rio",
         "url": "https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 125076,
       "name": "Imp\u00e9rio",
       "url": "https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06"
+    },
+    {
+      "added_at": "2026-07-03 20:55:51",
+      "album": {
+        "name": "MEUS ERROS DE NOVO",
+        "url": "https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        }
+      ],
+      "duration_ms": 178312,
+      "name": "Destino em Pap\u00e9is",
+      "url": "https://open.spotify.com/track/6901cgMx3F5s2J2HKFZf5T"
     },
     {
       "added_at": "2026-07-03 20:55:51",

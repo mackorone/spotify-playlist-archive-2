@@ -774,10 +774,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 213920,
       "name": "Positive Vibration",
       "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
+    },
+    {
+      "album": {
+        "name": "Positive Vibration / Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
+        "url": "https://open.spotify.com/album/4po2v4hpXE9EoE4qsE0I92"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214415,
+      "name": "Positive Vibration - Live At The Hammersmith Odeon, London, UK - June, 1976",
+      "url": "https://open.spotify.com/track/6zaUdq5VMHhKrtlCBNGXMn"
     },
     {
       "album": {

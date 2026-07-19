@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAABBOaVOvDREthBbkTRmTVBB",
+  "snapshot_id": "allwgAAAAACV4F1MI2Jv06WRftyRI7CJ",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHARTiANDO",
         "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
       },
@@ -219,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actua",
-        "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
       },
       "artists": [
         {
@@ -228,33 +208,13 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Actua",
-      "url": "https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 182988,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0whPfP5Sh4eBJFAV1HcRUB"
+      "duration_ms": 284000,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
     },
     {
       "added_at": null,
@@ -299,6 +259,46 @@
       "duration_ms": 337846,
       "name": "Tan Tan Brazil - Remix",
       "url": "https://open.spotify.com/track/4lCjpDhelnVjEjJBzYYLph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actua",
+        "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Actua",
+      "url": "https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 182988,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0whPfP5Sh4eBJFAV1HcRUB"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Vibrador",
-      "url": "https://open.spotify.com/track/3ufzAfK6nd0geAJ7nAavce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kikito & Ruta (Live)",
         "url": "https://open.spotify.com/album/1pNcgSOUIuTHfqVbOhrla9"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 254420,
       "name": "Kikito & Ruta - Live",
       "url": "https://open.spotify.com/track/52ePYVTq0HMddJkQABmZyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vibrador",
+      "url": "https://open.spotify.com/track/3ufzAfK6nd0geAJ7nAavce"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 217419,
-      "name": "Maulla",
-      "url": "https://open.spotify.com/track/4qgUxeBwAMHVWrk6H9mDms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu No Me Conoces",
         "url": "https://open.spotify.com/album/0Kf2Cxcg7mLyurZaNlpbbe"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 211000,
       "name": "Tu No Me Conoces",
       "url": "https://open.spotify.com/track/5hagWOIk1mHOJBlnaf5Sl0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 217419,
+      "name": "Maulla",
+      "url": "https://open.spotify.com/track/4qgUxeBwAMHVWrk6H9mDms"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Provoca",
+        "url": "https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 206785,
+      "name": "Provoca",
+      "url": "https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desire (Deluxe)",
         "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
       },
@@ -532,25 +548,9 @@
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 183200,
-      "name": "Comerte",
-      "url": "https://open.spotify.com/track/7xkWVbwY8h8956yAxBdPyM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Provoca",
-        "url": "https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 206785,
-      "name": "Provoca",
-      "url": "https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz"
+      "duration_ms": 156521,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/4gmypDnA21tw6dLXFutNn5"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/4gmypDnA21tw6dLXFutNn5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrando en Calor",
         "url": "https://open.spotify.com/album/2CsK2MEVkZba0TUKKDMO6Y"
       },
@@ -627,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruta",
-        "url": "https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I"
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
       },
       "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         }
       ],
-      "duration_ms": 150508,
-      "name": "Ruta",
-      "url": "https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ"
+      "duration_ms": 183200,
+      "name": "Comerte",
+      "url": "https://open.spotify.com/track/7xkWVbwY8h8956yAxBdPyM"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 198231,
       "name": "Olvidando el pasado",
       "url": "https://open.spotify.com/track/4W4GNgS2O0YbrkXsTdkBVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ"
     },
     {
       "added_at": null,

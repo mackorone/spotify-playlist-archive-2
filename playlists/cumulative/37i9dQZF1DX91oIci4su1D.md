@@ -4,11 +4,12 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,329 songs - 3 day 7 hr 17 min
+1,330 songs - 3 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:11](https://open.spotify.com/track/67kvPk3D86SDCv7MfBEDfs) | [Metta & Glyde](https://open.spotify.com/artist/3EwTsHqJhfcUgV3zv2yHxQ) | [11:11](https://open.spotify.com/album/3Pg0dwHdCPG1KxWN4RM6gY) | 3:48 | 2022-06-24 | 2022-06-29 |
+| [1998](https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5) | 3:38 | 2026-07-16 |  |
 | [1998 \- Anfisa Letyago Remix](https://open.spotify.com/track/0J0FhbUPbiddqk4xbrIDrh) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [1998 \(Anfisa Letyago Remix\)](https://open.spotify.com/album/4eO1VRh3jrgJRDzNs3RE25) | 4:04 | 2024-07-26 |  |
 | [1998 \- Victor Ruiz Remix](https://open.spotify.com/track/3fnWgtjqolErwSW3XS0vy5) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [1998 \(Victor Ruiz Remix\)](https://open.spotify.com/album/1WYFR2jvaXaZ1DvlodiGuK) | 4:12 | 2024-01-19 | 2025-07-26 |
 | [2008](https://open.spotify.com/track/5Ig3vNOOWqu4DauHpT55K8) | [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Stefkoo](https://open.spotify.com/artist/59mpplQfhpO0dLMIjTz7j5), [CEA](https://open.spotify.com/artist/2UigI5MV3775YMLTOhiNyn) | [2008](https://open.spotify.com/album/36vQUG9rGJYeMtzw7MAxml) | 3:34 | 2021-12-17 | 2022-10-15 |
@@ -625,7 +626,7 @@
 | [Keep Your Dreams Alive \- Darren Porter Remix](https://open.spotify.com/track/2mKxcfN51nrBjW1eAYPaHa) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA) | [Keep Your Dreams Alive \(Darren Porter Remix\)](https://open.spotify.com/album/3oMxejv2qL1i8qMw3PAkNC) | 3:35 | 2025-10-03 | 2026-07-17 |
 | [Keep Your Light On](https://open.spotify.com/track/0CREqJyyUoyTzmr2IFF7VP) | [AK](https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH), [Eric Lumiere](https://open.spotify.com/artist/4TSqSBlGY1wV5qhnX6vVwB), [Alex Kunnari](https://open.spotify.com/artist/5t8dw8yCWNAezW6wP3ZOGh) | [Keep Your Light On](https://open.spotify.com/album/7FGgy8Nsh012QlkS7b4kQ2) | 3:43 | 2022-04-22 | 2023-04-09 |
 | [Kenmore \(Meant To Be\)](https://open.spotify.com/track/19mJwav2Z8Ar8NZZ2glMZy) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Kenmore \(Meant To Be\)](https://open.spotify.com/album/3nSSM9zYWQ37fCsvgRPb6P) | 3:48 | 2023-07-21 | 2024-09-14 |
-| [Kick It](https://open.spotify.com/track/5D0raSenwu2KadnM5fUzOS) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL) | [Kick It](https://open.spotify.com/album/68P5Ie37aH4kHSLssBESy5) | 2:25 | 2025-05-16 |  |
+| [Kick It](https://open.spotify.com/track/5D0raSenwu2KadnM5fUzOS) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL) | [Kick It](https://open.spotify.com/album/68P5Ie37aH4kHSLssBESy5) | 2:25 | 2025-05-16 | 2026-07-19 |
 | [Kiki](https://open.spotify.com/track/3d62qyrB8lYUH480rtz7ev) | [Fehrplay](https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF) | [Kiki / Yoyogi / Newspeak](https://open.spotify.com/album/77XCSGHSiHeCNqxeYka45W) | 3:30 | 2021-12-17 | 2022-02-26 |
 | [Killer Zone](https://open.spotify.com/track/17yDqFqMZpy3fpDH67GKbD) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Lyd14](https://open.spotify.com/artist/4ExXsMNYJjGYRV02EQnvKU) | [Killer Zone](https://open.spotify.com/album/3EGEGf6CmyAhvXJMpqXmNv) | 3:36 | 2023-12-08 | 2024-12-07 |
 | [King's Secret Garden](https://open.spotify.com/track/0VNjHw4IngGNVHw8eyqlqx) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [King's Secret Garden](https://open.spotify.com/album/7rK8O7wufgwaB3QKTfjLUB) | 2:59 | 2026-02-06 | 2026-06-26 |

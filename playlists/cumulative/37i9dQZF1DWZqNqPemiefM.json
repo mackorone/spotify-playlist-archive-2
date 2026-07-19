@@ -3497,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "Conversation 3",
+        "url": "https://open.spotify.com/album/2k5HAjy3uCMwKkWWs5nu9Z"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353278,
+      "name": "Conversation 3",
+      "url": "https://open.spotify.com/track/0nIbSZ4o2L2gtwWtKwmnZP"
+    },
+    {
+      "album": {
         "name": "CHRONO TRIGGER Original Soundtrack\u3010DS Edition\u3011",
         "url": "https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH"
       },
@@ -7222,7 +7244,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 227477,
       "name": "I had always been here",
       "url": "https://open.spotify.com/track/4eLndetXjlewTGKO6Emm3t"
@@ -10228,7 +10250,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 215800,
       "name": "Mist awaiting the light",
       "url": "https://open.spotify.com/track/0mmGwGuWrmSY85frP2kuHh"
@@ -15533,6 +15555,24 @@
     },
     {
       "album": {
+        "name": "Still Water",
+        "url": "https://open.spotify.com/album/5tkzME9xg15CNkLXXhuUIs"
+      },
+      "artists": [
+        {
+          "name": "Takuro Okada",
+          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198848,
+      "name": "Still Water",
+      "url": "https://open.spotify.com/track/1bIW4vG9WyPDtT2EjYwz42"
+    },
+    {
+      "album": {
         "name": "Stof en Ruis",
         "url": "https://open.spotify.com/album/5qcybUKDkh5ecLKILxhbJu"
       },
@@ -18940,6 +18980,32 @@
       "duration_ms": 325500,
       "name": "You Retreat In Time And Space",
       "url": "https://open.spotify.com/track/5m3Uzjuiyj8656EGM1bwhk"
+    },
+    {
+      "album": {
+        "name": "The Mountain I See",
+        "url": "https://open.spotify.com/album/4rQ9LbF8o5HRNlRRAuMEzN"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "Josefina Tai",
+          "url": "https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0"
+        },
+        {
+          "name": "Daniel H Pereira",
+          "url": "https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289966,
+      "name": "You within me",
+      "url": "https://open.spotify.com/track/5m4eFtSwBy5nmHkYpRVpyX"
     },
     {
       "album": {

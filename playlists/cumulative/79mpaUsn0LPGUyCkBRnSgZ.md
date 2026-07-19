@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,179 songs - 3 day 4 hr 11 min
+1,183 songs - 3 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 | 2023-11-05 | 2024-03-15 |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2023-10-30 |  |
 | [ALWAYS FUN](https://open.spotify.com/track/0wP2MyjuY6AfutvReaJ8UU) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [LOVER TOFU FRUIT](https://open.spotify.com/album/7H4FaX0yjTsY8KqYKItKzK) | 4:19 | 2026-03-16 |  |
+| [Amy aka Spent Gladiator 1](https://open.spotify.com/track/7LIAbwsjWwIdKMfw46bkKY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:27 | 2026-07-18 |  |
 | [Amén](https://open.spotify.com/track/1OhlcrOBfQYntksbcryXKC) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 0:57 | 2024-01-12 |  |
 | [An Endless Cycle \(Wayne’s Theme\)](https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Mason Lindroth](https://open.spotify.com/artist/351QVu3AeeqlLWDqy2CBIH) | [Moonage Lobotomy \- A Hylics 2 Musical Expansion](https://open.spotify.com/album/2Cl3Bk4c2oUCapf8yQuFXb) | 6:00 | 2024-02-23 | 2024-06-06 |
 | [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 | 2024-01-26 |  |
@@ -956,6 +957,7 @@
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-10-22 | 2023-04-03 |
 | [Sunrise](https://open.spotify.com/track/3gaH8NE0t7SBKhUIjv0SYv) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [All Hour Cymbals](https://open.spotify.com/album/6mVyKlhq3v2IHeksO38syx) | 4:06 | 2024-07-21 |  |
 | [Surrogate Lover](https://open.spotify.com/track/5exXNIuQMsdSJKXmxAVG9A) | [Acaciawood](https://open.spotify.com/artist/6pwMJ1pUGI34NwTtHH55nW) | [Acaciawood](https://open.spotify.com/album/31LTbP6O3O7RVnCY5pyEO4) | 4:52 | 2024-04-14 | 2024-06-08 |
+| [Surrounded](https://open.spotify.com/track/66dcthbkYBL1JGB0NvZfFM) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5), [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Moon Colony Bloodbath](https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj) | 2:24 | 2026-07-18 |  |
 | [Suspended From Class](https://open.spotify.com/track/2YDmCSVs46QrhD2sqYGGqx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:46 | 2023-06-08 | 2024-01-07 |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2024-01-08 |  |
 | [Sweet Adeline](https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:15 | 2023-09-29 |  |
@@ -963,6 +965,7 @@
 | [Swing \(In A Dream\)](https://open.spotify.com/track/3L7aQYaKfELkdsoMUAv8zN) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 4:29 | 2023-09-17 |  |
 | [ta1lsd001](https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u) | [ta1lsd0ll](https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe) | [cursed001](https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9) | 1:38 | 2024-02-24 | 2024-03-09 |
 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 | 2026-03-23 |  |
+| [Tallahassee](https://open.spotify.com/track/5dLdGFhxgw4mRF8d4ErBkT) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 4:43 | 2026-07-18 |  |
 | [Tambourine Dream](https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 0:33 | 2025-01-18 | 2025-02-03 |
 | [Tapdance In Limbo](https://open.spotify.com/track/04LZdlv8Ccy3FezHBiBQGW) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [Fate Euphoric](https://open.spotify.com/album/7q6joHybfVw0FSgoMqY882) | 4:30 | 2026-02-25 |  |
 | [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 | 2026-04-13 | 2026-04-16 |
@@ -1174,6 +1177,7 @@
 | [You May Die \(Intro\)](https://open.spotify.com/track/5katW3JH8JM3jiEdrr2zuR) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 1:06 | 2023-11-17 |  |
 | [You Moved In](https://open.spotify.com/track/4YrxrrMT6534Ba8wrnnvZz) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [The Doctor Came At Dawn](https://open.spotify.com/album/5UEChIc8yAxAvJY9cz7q5y) | 4:34 | 2025-03-29 |  |
 | [You Never Know](https://open.spotify.com/track/7alJbTUjMt8RWwonkin3uf) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Light Verse](https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q) | 4:50 | 2024-04-29 |  |
+| [You Or Your Memory \- 2025 Remaster](https://open.spotify.com/track/1jjnxtyzO921D6LcTf17dn) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree \(2025 Remaster\)](https://open.spotify.com/album/11dEkFnGUXKGDBuGQY8O5z) | 2:16 | 2026-07-18 |  |
 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 | 2024-01-18 |  |
 | [YouUgly \(with Westside Gunn\)](https://open.spotify.com/track/2m2AbCpeWgms32FdLfBBdk) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:43 | 2025-08-08 | 2025-08-13 |
 | [Zion I](https://open.spotify.com/track/2noAezCPjG8U5W5hi1smLK) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/06vHyS1KFTcMIyxKzuRAbK) | 3:30 | 2026-05-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Kelela en portada.",
-  "num_followers": 684055,
+  "num_followers": 684040,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALx9HB3xGyjjGV4fp7yYJT7T4WcI",
+  "snapshot_id": "AAAAAMetV22IaNvP/wy62vs6GRSoxOUO",
   "tracks": [
     {
       "added_at": "2026-07-10 06:00:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-10 06:00:38",
       "album": {
-        "name": "Sweet Hallelujah",
-        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 182156,
-      "name": "Sweet Hallelujah",
-      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
-    },
-    {
-      "added_at": "2026-07-10 06:00:38",
-      "album": {
         "name": "Basic Being Basic",
         "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
       },
@@ -855,22 +839,34 @@
     {
       "added_at": "2026-07-10 06:00:38",
       "album": {
-        "name": "rain in the sunset",
-        "url": "https://open.spotify.com/album/6dfHxqfLgCsbOP2ea1zrAn"
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
       },
       "artists": [
         {
-          "name": "Stevie Daniels",
-          "url": "https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK"
-        },
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 176584,
-      "name": "rain in the sunset",
-      "url": "https://open.spotify.com/track/1jXk0WkZ70LqDFJ4MRTtom"
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
+    },
+    {
+      "added_at": "2026-07-10 06:00:38",
+      "album": {
+        "name": "hey there [i have a compulsive complex]",
+        "url": "https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 173570,
+      "name": "hey there [i have a compulsive complex]",
+      "url": "https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS"
     }
   ],
   "unique_name": "el indie no es un g\u00e9nero ",

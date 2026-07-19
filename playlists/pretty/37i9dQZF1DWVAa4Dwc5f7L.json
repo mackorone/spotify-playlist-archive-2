@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma",
-  "num_followers": 398465,
+  "num_followers": 398469,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "Con El Machete En La Mano",
-        "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
-      },
-      "artists": [
-        {
-          "name": "Zafra Negra",
-          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "No Llores Por Ella",
-      "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 302213,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "Con El Machete En La Mano",
+        "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
+      },
+      "artists": [
+        {
+          "name": "Zafra Negra",
+          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "No Llores Por Ella",
+      "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G"
-      },
-      "artists": [
-        {
-          "name": "Zafra Negra",
-          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
-        }
-      ],
-      "duration_ms": 277803,
-      "name": "Coqueta y Sabrosa",
-      "url": "https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 277946,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G"
+      },
+      "artists": [
+        {
+          "name": "Zafra Negra",
+          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+        }
+      ],
+      "duration_ms": 277803,
+      "name": "Coqueta y Sabrosa",
+      "url": "https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Lo Mejor de Lo Mejor - Tropical",
         "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 286026,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "\u00a1Que Vaina!",
-        "url": "https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS"
-      },
-      "artists": [
-        {
-          "name": "Francisco Ulloa",
-          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "QUIERO",
         "url": "https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 227646,
       "name": "QUIERO",
       "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "\u00a1Que Vaina!",
+        "url": "https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS"
+      },
+      "artists": [
+        {
+          "name": "Francisco Ulloa",
+          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
     },
     {
       "added_at": "2026-03-27 04:00:26",

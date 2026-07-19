@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Mis peores enemigos
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,829 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,835 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 45 | [Profundidad](https://open.spotify.com/track/5jD4eHnfm9Cd4Ku7l8PZaq) | [Señorita Miel](https://open.spotify.com/artist/2vtY6RM8G4akW8owAYZepV) | [Algo Que Se Quiere Meter en Mí a la Fuerza](https://open.spotify.com/album/3DVAdhCL1HwVg7Daj5ePan) | 3:53 |
 | 46 | [Paseo](https://open.spotify.com/track/7HeeBo0KDEZhP5nnybrtTQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Paseo](https://open.spotify.com/album/7LNPDZZwdAavuSpfEgvuat) | 4:22 |
 | 47 | [Bendiciones](https://open.spotify.com/track/6PZetjmHVWDR2eMlJZd6fE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Bendiciones](https://open.spotify.com/album/3jNBH9AvasMDmqi0wnPQbf) | 2:44 |
-| 48 | [Sigo buscando](https://open.spotify.com/track/60j0ke3oHU1R7yNW4vPeah) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Sigo buscando](https://open.spotify.com/album/6GieE23s44BPEMIAtrq45T) | 2:55 |
+| 48 | [sigo buscando](https://open.spotify.com/track/60j0ke3oHU1R7yNW4vPeah) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [sigo buscando](https://open.spotify.com/album/6GieE23s44BPEMIAtrq45T) | 2:55 |
 | 49 | [Nunca lo van a Entender \- Spotify Sessions](https://open.spotify.com/track/0GGoZVwLBRuRTxz2qY19Tw) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BLAIR \- Spotify Sessions](https://open.spotify.com/album/3i0tFySe2LNwrrMJ430gLT) | 4:10 |
 | 50 | [Las Luces](https://open.spotify.com/track/2eF9ePyLBCM7PBVr71jiNf) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Las Luces](https://open.spotify.com/album/1crf2xeBOgxUp7EBZ8uUTb) | 4:29 |
 | 51 | [SOMOS PROFESIONALES](https://open.spotify.com/track/3XgVioizYsrzqnkbtXVb66) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SOMOS PROFESIONALES](https://open.spotify.com/album/0deIeSsYeNUehBW1yfxfoT) | 3:14 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 95 | [Estrellate Estrellita](https://open.spotify.com/track/2wIvD1QzMVlshMuMk4QMWN) | [FLETES RAKEL](https://open.spotify.com/artist/1tTem1ochSScdXVMZnXVJD) | [NO](https://open.spotify.com/album/3GDRzdZnEjkT4WUBykPWLT) | 5:39 |
 | 96 | [Pero ella no](https://open.spotify.com/track/5IhwgSrKFfQufwMSK0LCjF) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Pero ella no](https://open.spotify.com/album/4THExkvbRXmYNt5ij7y52s) | 2:28 |
 | 97 | [Ataques en mi ciudad](https://open.spotify.com/track/5bPlBlbed488nYF8lWkvvX) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Ataques en mi ciudad](https://open.spotify.com/album/5Uf4QqRyjV8sVwzCGjDAcC) | 2:39 |
-| 98 | [Páramo](https://open.spotify.com/track/4weH787j8LRxnSfCC9HGgB) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Páramo](https://open.spotify.com/album/55sbDjtpxbSQwC7kpfqEho) | 4:27 |
+| 98 | [páramo](https://open.spotify.com/track/4weH787j8LRxnSfCC9HGgB) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [páramo](https://open.spotify.com/album/55sbDjtpxbSQwC7kpfqEho) | 4:27 |
 | 99 | [Cuidado!](https://open.spotify.com/track/72GGPzaWYpeEHstvhkMcBH) | [Parásito Paraíso](https://open.spotify.com/artist/0H6YoMqKk2CF7Z0TPtraUZ) | [Imagen, Defecto](https://open.spotify.com/album/47wbKgA1KXkTfTYsAAp0Zd) | 2:59 |
 | 100 | [Una Lapicera Clavada en el Corazón \(En Vivo\)](https://open.spotify.com/track/7a4yl8x5ycWCwepUEt48zX) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [En Vivo Niceto Club](https://open.spotify.com/album/3ATIMeiIMkuujwJmTlBXsj) | 3:44 |
 

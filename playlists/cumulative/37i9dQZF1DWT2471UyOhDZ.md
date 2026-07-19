@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Mystery Jets
 
-472 songs - 1 day 6 hr 32 min
+473 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-07 | 2026-06-19 |
 | [Illinois Again](https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Illinois Again](https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN) | 3:56 | 2026-06-12 |  |
 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-05-08 | 2025-07-03 |
-| [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 | 2026-06-25 |  |
+| [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 | 2026-06-25 | 2026-07-19 |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-06 | 2026-06-07 |
 | [Infinity Peaking](https://open.spotify.com/track/54k6mnmbMRJ25Z2AY4C32F) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/1UZaE72xUgScFlEuBWKRWC) | 5:41 | 2025-01-17 | 2025-02-08 |
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-06-14 | 2025-02-26 |
@@ -370,6 +370,7 @@
 | [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 | 2026-06-25 |  |
 | [Sober](https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Sober](https://open.spotify.com/album/52VNpXFgf7DENnJb4MXdkH) | 4:46 | 2025-05-08 | 2025-07-21 |
 | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/track/7oA9S6NHRiaI7TUbPwKOCF) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/album/3D8hTdaS1LPiA8gayUlGdR) | 4:03 | 2024-10-06 | 2024-10-17 |
+| [Something Else to Give](https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Something Else to Give](https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0) | 4:45 | 2026-07-16 |  |
 | [Something Now](https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Something Now](https://open.spotify.com/album/0ESfeXr4ZLjlrnGlm64ly5) | 3:07 | 2024-06-14 | 2024-07-12 |
 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-11 | 2025-11-26 |
 | [Soul\-net](https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Soul\-net](https://open.spotify.com/album/00kD3E9hxwyMrzHq5EjCiQ) | 4:24 | 2024-06-14 | 2024-07-21 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
-  "num_followers": 153975,
+  "num_followers": 153971,
   "original_name": "Lista de LOS40 (Oficial) - Shakira y Burna Boy  en el N\u00ba1",
   "owner": {
     "name": "LOS40",
     "url": "https://open.spotify.com/user/los40_spain"
   },
-  "snapshot_id": "AAAs64EkaZG3ZactpurAr8Z6qGDsReIf",
+  "snapshot_id": "AAAtFC7Yfp+iPDSYdPzdglApw4v/DoTp",
   "tracks": [
     {
       "added_at": "2026-07-12 12:00:19",
@@ -29,60 +29,24 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-07-12 12:00:19",
+      "added_at": "2026-07-18 12:30:32",
       "album": {
-        "name": "LA GRACIOSA",
-        "url": "https://open.spotify.com/album/0WijS8Oq1zVzbVCepggKgV"
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 257713,
-      "name": "LA GRACIOSA",
-      "url": "https://open.spotify.com/track/0b3Bkp0UfCkNqquAUmoP5m"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "Ayer La Vi (BPA26)",
-        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Ayer La Vi (BPA26)",
-      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+      "duration_ms": 222161,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -107,6 +71,62 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
+        "name": "LA GRACIOSA",
+        "url": "https://open.spotify.com/album/0WijS8Oq1zVzbVCepggKgV"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 257713,
+      "name": "LA GRACIOSA",
+      "url": "https://open.spotify.com/track/0b3Bkp0UfCkNqquAUmoP5m"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "Ayer La Vi (BPA26)",
+        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Ayer La Vi (BPA26)",
+      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -123,6 +143,26 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "pa ti toa <3",
+        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 213001,
+      "name": "pa ti toa <3",
+      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -159,46 +199,6 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
-        "name": "pa ti toa <3",
-        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 213001,
-      "name": "pa ti toa <3",
-      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "Bring Your Love",
-        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 222161,
-      "name": "Bring Your Love",
-      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
         "name": "dime d\u00f3nde est\u00e1s",
         "url": "https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 163895,
       "name": "dime d\u00f3nde est\u00e1s",
       "url": "https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -255,38 +271,6 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "En Unos A\u00f1os",
-        "url": "https://open.spotify.com/album/7ayiPbT8eXGxLqxxbqqk1U"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "En Unos A\u00f1os",
-      "url": "https://open.spotify.com/track/0afuGOGxfL5PpfcEwxZvLf"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
         "name": "ALGO T\u00da",
         "url": "https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo"
       },
@@ -307,6 +291,38 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
+        "name": "En Unos A\u00f1os",
+        "url": "https://open.spotify.com/album/7ayiPbT8eXGxLqxxbqqk1U"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "En Unos A\u00f1os",
+      "url": "https://open.spotify.com/track/0afuGOGxfL5PpfcEwxZvLf"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "\u00bfPor qu\u00e9 me mir\u00e1is as\u00ed?",
+        "url": "https://open.spotify.com/album/2EP6hTf9D9mXgrW9u17sKt"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        }
+      ],
+      "duration_ms": 202948,
+      "name": "La mitad de la mitad",
+      "url": "https://open.spotify.com/track/0ME64uBdktSeXd159WabnJ"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Reliquia",
-      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -359,34 +359,18 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
-        "name": "\u00bfPor qu\u00e9 me mir\u00e1is as\u00ed?",
-        "url": "https://open.spotify.com/album/2EP6hTf9D9mXgrW9u17sKt"
+        "name": "Por un Pendejo no se llora",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
       },
       "artists": [
         {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 202948,
-      "name": "La mitad de la mitad",
-      "url": "https://open.spotify.com/track/0ME64uBdktSeXd159WabnJ"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -407,50 +391,18 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
-        "name": "Por un Pendejo no se llora",
-        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 151146,
-      "name": "Por un Pendejo no se llora",
-      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "Qu\u00e9date conmigo hasta el amanecer",
-        "url": "https://open.spotify.com/album/2iE5hyRtQnjielyxKiC3kh"
-      },
-      "artists": [
-        {
-          "name": "Bombai",
-          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
-        }
-      ],
-      "duration_ms": 168299,
-      "name": "Qu\u00e9date conmigo hasta el amanecer",
-      "url": "https://open.spotify.com/track/2DwS2IJswJygJy6J5YU9TO"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "las guapas no morimos de verdad",
-        "url": "https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "las guapas no morimos de verdad",
-      "url": "https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N"
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -479,18 +431,50 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+        "name": "Qu\u00e9date conmigo hasta el amanecer",
+        "url": "https://open.spotify.com/album/2iE5hyRtQnjielyxKiC3kh"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Bombai",
+          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
         }
       ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+      "duration_ms": 168299,
+      "name": "Qu\u00e9date conmigo hasta el amanecer",
+      "url": "https://open.spotify.com/track/2DwS2IJswJygJy6J5YU9TO"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "Pistoletazo de salida",
+        "url": "https://open.spotify.com/album/0laCOGaD7dAgqIFagBEZnQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Tuduri",
+          "url": "https://open.spotify.com/artist/0RvRK3lAtCszsu5IaYvCtm"
+        }
+      ],
+      "duration_ms": 163834,
+      "name": "Pistoletazo de salida",
+      "url": "https://open.spotify.com/track/0VYsFvL9seNKxU4Bu8okFR"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -511,6 +495,22 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
+        "name": "las guapas no morimos de verdad",
+        "url": "https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "las guapas no morimos de verdad",
+      "url": "https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "Pistoletazo de salida",
-        "url": "https://open.spotify.com/album/0laCOGaD7dAgqIFagBEZnQ"
-      },
-      "artists": [
-        {
-          "name": "Lola Tuduri",
-          "url": "https://open.spotify.com/artist/0RvRK3lAtCszsu5IaYvCtm"
-        }
-      ],
-      "duration_ms": 163834,
-      "name": "Pistoletazo de salida",
-      "url": "https://open.spotify.com/track/0VYsFvL9seNKxU4Bu8okFR"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -567,22 +551,6 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
         "name": "Los Paraca\u00eddas",
         "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
       },
@@ -599,6 +567,54 @@
     {
       "added_at": "2026-07-12 12:00:19",
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+    },
+    {
+      "added_at": "2026-07-18 12:35:14",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
         "name": "SANTUARIO CLUB",
         "url": "https://open.spotify.com/album/4mg6VMJYCyQhcxvpJILkbU"
       },
@@ -611,54 +627,6 @@
       "duration_ms": 144173,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/1sq8vx9D6M7jtM4F59msxf"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Loco X Verte",
-      "url": "https://open.spotify.com/track/1TP9auslksX7yv9KuYzs5g"
-    },
-    {
-      "added_at": "2026-07-12 12:00:19",
-      "album": {
-        "name": "TUTTO PASSA",
-        "url": "https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 160927,
-      "name": "\u2060LUCI\u00c9RNAGAS",
-      "url": "https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk"
     },
     {
       "added_at": "2026-07-12 12:00:19",
@@ -697,20 +665,52 @@
       "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
-      "added_at": "2026-07-12 12:00:19",
+      "added_at": "2026-07-18 12:39:03",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/32e8CUDjoRpOjQ2pGHF0nF"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Daniela Blasco",
+          "url": "https://open.spotify.com/artist/18Vhlc8r07wfrblTyfHEcg"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+      "duration_ms": 158149,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/0i4sWDxoPeQBiSySgL5cnd"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "TUTTO PASSA",
+        "url": "https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 160927,
+      "name": "\u2060LUCI\u00c9RNAGAS",
+      "url": "https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk"
+    },
+    {
+      "added_at": "2026-07-12 12:00:19",
+      "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Loco X Verte",
+      "url": "https://open.spotify.com/track/1TP9auslksX7yv9KuYzs5g"
     }
   ],
   "unique_name": "Lista de LOS40 (Oficial) - Shakira y Burna Boy  en el N\u00ba1",

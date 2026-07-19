@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-885 songs - 1 day 12 hr 49 min
+886 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Falling Upward](https://open.spotify.com/track/0YRWFIuLMW5xTukssiTfJk) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Falling Upward](https://open.spotify.com/album/6S7siWeWOfuP5PsLgduBth) | 2:44 | 2024-10-06 | 2025-09-27 |
 | [Familiar](https://open.spotify.com/track/0eLUwTgJuz6K9dL12GGlgp) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Familiar](https://open.spotify.com/album/2zQBzQieDGZKzHZ8ve78XL) | 2:08 | 2024-12-13 | 2025-11-15 |
 | [Farewell](https://open.spotify.com/track/3Ag1s6QNlZyu6snGQIIxzf) | [JAMMI](https://open.spotify.com/artist/7xtiaT1jm9ea1LcG9JxmSL), [sha\-quest](https://open.spotify.com/artist/2pvGNqZefMQhTEy1k64c1P), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Farewell](https://open.spotify.com/album/4kyM8jLGH13XIiApUMl1Fx) | 3:20 | 2025-04-11 | 2025-08-30 |
+| [Feeling Home](https://open.spotify.com/track/2LOddRsOzlwxHjgsJ1gdlE) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Feeling Home](https://open.spotify.com/album/7709daMFkAJrKmsphyeLVd) | 1:46 | 2026-07-17 |  |
 | [Feels Like Yesterday](https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Feels Like Yesterday](https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk) | 2:09 | 2024-08-23 | 2025-04-26 |
 | [Fields](https://open.spotify.com/track/6DGmI9u4RiSIbbSJOqMDKc) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Fields](https://open.spotify.com/album/5H2oHjZ0rrVt5rcpvtSnfU) | 2:04 | 2025-10-24 | 2026-02-21 |
 | [Filigrani](https://open.spotify.com/track/4IWWbsB2He38Nt6TPpwghj) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Filigrani](https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3) | 3:28 | 2023-11-24 | 2025-04-12 |
@@ -846,7 +847,7 @@
 | [Views](https://open.spotify.com/track/1Nd9zUYiVdp82bmnLkLr0o) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Horizons Pt\. 2](https://open.spotify.com/album/5B4L57Jkz9p9iv3Lp6XzbC) | 2:30 | 2025-02-07 | 2025-03-04 |
 | [Villa Palmera](https://open.spotify.com/track/2efRw4Puze8guf4W68QM7x) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Villa Palmera](https://open.spotify.com/album/5V4obvLyYdjls5uiBenn0o) | 3:55 | 2025-01-24 | 2025-03-04 |
 | [Violet](https://open.spotify.com/track/1oP3XTius4A9ud6YQ9IzXw) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ChonRa](https://open.spotify.com/artist/40HCEgHD85SwIN4YXSzDUv), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Shades of Purple](https://open.spotify.com/album/7miWMBvHaL5L5xTJxqSfxU) | 2:50 | 2024-11-08 | 2025-11-29 |
-| [violet](https://open.spotify.com/track/5bKHuX3cPzbRMT8JIyWIHF) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [violet](https://open.spotify.com/album/6nDz7o5fIE1HmVG1dGd8HF) | 2:27 | 2025-09-12 |  |
+| [violet](https://open.spotify.com/track/5bKHuX3cPzbRMT8JIyWIHF) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [violet](https://open.spotify.com/album/6nDz7o5fIE1HmVG1dGd8HF) | 2:27 | 2025-09-12 | 2026-07-19 |
 | [Vital](https://open.spotify.com/track/5llxwM7zuQpWr63NGnlBOe) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Vital](https://open.spotify.com/album/6DTlO8cCPgWfzCCUjDLEMw) | 2:25 | 2025-09-26 | 2026-03-14 |
 | [Volpaia](https://open.spotify.com/track/1lrgfwOihRFHBUy3xGIeBB) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Volpaia](https://open.spotify.com/album/1ELKh52boFPAkRyVYAUpm8) | 2:13 | 2024-03-20 | 2024-06-08 |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-08-22 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Twinkle Aggrwal",
-  "num_followers": 106407,
+  "num_followers": 106431,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,38 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
+      },
+      "artists": [
+        {
+          "name": "Rohansh & Abeer",
+          "url": "https://open.spotify.com/artist/29chcgLzEwBHYK7Jtuol4q"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Rohansh Pandit",
+          "url": "https://open.spotify.com/artist/6iNqU9VWAjoLk2TjLzJ8Uy"
+        },
+        {
+          "name": "Abeer Pandit",
+          "url": "https://open.spotify.com/artist/1ozk9HrVfLsGEyTdyOohaz"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/2JBnAP4CJoG3XQTMor1qoP"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
         "name": "Na Lage Nazar",
         "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
       },
@@ -739,38 +771,6 @@
       "duration_ms": 255584,
       "name": "Chand Mera Dil - Shreya Ghoshal",
       "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
-      },
-      "artists": [
-        {
-          "name": "Rohansh & Abeer",
-          "url": "https://open.spotify.com/artist/29chcgLzEwBHYK7Jtuol4q"
-        },
-        {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Rohansh Pandit",
-          "url": "https://open.spotify.com/artist/6iNqU9VWAjoLk2TjLzJ8Uy"
-        },
-        {
-          "name": "Abeer Pandit",
-          "url": "https://open.spotify.com/artist/1ozk9HrVfLsGEyTdyOohaz"
-        },
-        {
-          "name": "Anvita Dutt",
-          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/2JBnAP4CJoG3XQTMor1qoP"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -923,6 +923,30 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 255652,
+      "name": "Ishq Nibhaavan De - Neeti Mohan (From \"Chand Mera Dil\")",
+      "url": "https://open.spotify.com/track/3N6ZUiJdoHPAyYDebUobCw"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
         "name": "Saanware",
         "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 214400,
       "name": "Saanware",
       "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
-        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 255652,
-      "name": "Ishq Nibhaavan De - Neeti Mohan (From \"Chand Mera Dil\")",
-      "url": "https://open.spotify.com/track/3N6ZUiJdoHPAyYDebUobCw"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
+        "name": "Kya Batayein",
+        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
+      },
+      "artists": [
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "Kya Batayein",
+      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
         "name": "Daira",
         "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
       },
@@ -1163,6 +1183,22 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
+        "name": "Seven And a Half Dates",
+        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Duniya",
+      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
         "name": "Birha",
         "url": "https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv"
       },
@@ -1179,22 +1215,6 @@
       "duration_ms": 157931,
       "name": "Birha",
       "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
-        "name": "Seven And a Half Dates",
-        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Duniya",
-      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1227,26 +1247,6 @@
       "duration_ms": 234913,
       "name": "Leta Jaijo Re | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
-        "name": "Kya Batayein",
-        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
-      },
-      "artists": [
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        },
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        }
-      ],
-      "duration_ms": 260640,
-      "name": "Kya Batayein",
-      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1403,42 +1403,6 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Kaise Hum",
-        "url": "https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
-        }
-      ],
-      "duration_ms": 234166,
-      "name": "Kaise Hum",
-      "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
-      },
-      "artists": [
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        }
-      ],
-      "duration_ms": 268989,
-      "name": "Tu Kuja",
-      "url": "https://open.spotify.com/track/4wRPxzdZfvgPZbTZiWKkYt"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
         "name": "Ek Din (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
       },
@@ -1463,6 +1427,22 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "duration_ms": 268989,
+      "name": "Tu Kuja",
+      "url": "https://open.spotify.com/track/4wRPxzdZfvgPZbTZiWKkYt"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
         "name": "Tum Mere Hona",
         "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 189356,
       "name": "Tum Mere Hona",
       "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
+        "name": "Kaise Hum",
+        "url": "https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "duration_ms": 234166,
+      "name": "Kaise Hum",
+      "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/3cgRZU6NFFHXPpMvI0YnLe"
+      },
+      "artists": [
+        {
+          "name": "Raveena Paul",
+          "url": "https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se"
+        },
+        {
+          "name": "Aman Sharma",
+          "url": "https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/4sgBqGDsKiNzc65jGaEnr3"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
         "name": "Koyaliya",
         "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
       },
@@ -1587,26 +1607,6 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Saanjh",
-        "url": "https://open.spotify.com/album/3cgRZU6NFFHXPpMvI0YnLe"
-      },
-      "artists": [
-        {
-          "name": "Raveena Paul",
-          "url": "https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se"
-        },
-        {
-          "name": "Aman Sharma",
-          "url": "https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Saanjh",
-      "url": "https://open.spotify.com/track/4sgBqGDsKiNzc65jGaEnr3"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
         "name": "Mohabbat Kisi Aur Se",
         "url": "https://open.spotify.com/album/6PQlFEjN7wU9Yyj8NXghRI"
       },
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Rooh",
-        "url": "https://open.spotify.com/album/0RjWEQbdNDcml5itl9UYsI"
-      },
-      "artists": [
-        {
-          "name": "Dirty Jays",
-          "url": "https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft"
-        },
-        {
-          "name": "Kamakshi Khanna",
-          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
-        }
-      ],
-      "duration_ms": 215994,
-      "name": "Rooh",
-      "url": "https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
         "name": "Ankhiyan Roye",
         "url": "https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 195789,
       "name": "Ankhiyan Roye",
       "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
+        "name": "Rooh",
+        "url": "https://open.spotify.com/album/0RjWEQbdNDcml5itl9UYsI"
+      },
+      "artists": [
+        {
+          "name": "Dirty Jays",
+          "url": "https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft"
+        },
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        }
+      ],
+      "duration_ms": 215994,
+      "name": "Rooh",
+      "url": "https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v"
     },
     {
       "added_at": "2026-07-06 04:12:42",

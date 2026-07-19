@@ -4,7 +4,7 @@
 
 > 
 
-3,156 songs - 6 day 18 hr 29 min
+3,157 songs - 6 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2537,6 +2537,7 @@
 | [Stay the Night](https://open.spotify.com/track/65rSOyocOD1hEMIxJ3eVfX) | [Synthaesthetica](https://open.spotify.com/artist/1n8BkVXRdmsbDJ2EHLUdRY), [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [Stay the Night](https://open.spotify.com/album/35DxqDMycqq4MP7kCrRQG8) | 2:45 | 2025-11-02 |  |
 | [Stay Tonight \- Extended Mix](https://open.spotify.com/track/5u1enW64UeniKZQuFcglut) | [Darren Tyler](https://open.spotify.com/artist/45MTI1GXLIefJC6tgYFMzb), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Stay Tonight](https://open.spotify.com/album/6vGcQMxDaFhCgX4dmLLPE2) | 3:29 | 2023-10-19 |  |
 | [STAY UP ALL NIGHT](https://open.spotify.com/track/129LZJeFs3pSLMQQJ1iBiN) | [DAMP](https://open.spotify.com/artist/3s4SjE8neU2R1WIUE09rkC), [No\-ID](https://open.spotify.com/artist/2WnebvByOc6B4noQxHvX32), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [Zensory](https://open.spotify.com/artist/5s1DlberCZD8Yu4HgfmHli) | [STAY UP ALL NIGHT](https://open.spotify.com/album/6YN4RY1KDHodwvq73iQ4Fy) | 4:03 | 2025-09-07 |  |
+| [Stay With Me](https://open.spotify.com/track/1G2RvUIeR9GaM4WbGj0VQw) | [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [Stay With Me](https://open.spotify.com/album/28K9zGz3sU8Z9RlonwgogS) | 2:24 | 2026-07-18 |  |
 | [Stay With Me Tonight](https://open.spotify.com/track/6G6WHlhJq7wPOoyTDh1vHj) | [Madkat](https://open.spotify.com/artist/451lPjl3JgfqNwqoYiZCv8), [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs) | [Stay With Me Tonight](https://open.spotify.com/album/2gxd0LWy1EoXTKfwwCNdC7) | 5:11 | 2023-08-11 |  |
 | [Step By Step](https://open.spotify.com/track/4jsJfGlnvk287nUPHpXo2i) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Step By Step](https://open.spotify.com/album/0UAJBDPq8gzJ3bt7C2Tnmq) | 2:24 | 2024-06-08 |  |
 | [Step Into The Light](https://open.spotify.com/track/0CUeNPfczZYcb0IdV1CeqL) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/album/6m5mmcB1gIUvS8khA3n1we) | 4:12 | 2025-01-13 |  |

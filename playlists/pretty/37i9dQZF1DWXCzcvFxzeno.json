@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
-  "num_followers": 516726,
+  "num_followers": 517066,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Dance In The Light",
-        "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 230886,
-      "name": "Dance In The Light",
-      "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Fuck This",
         "url": "https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 207631,
       "name": "Fuck This",
       "url": "https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Dance In The Light",
+        "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "Dance In The Light",
+      "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Rolling",
-        "url": "https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Rolling",
-      "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Dopamin",
         "url": "https://open.spotify.com/album/3cf02iCcXJRAZDLk7kkR8b"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 168124,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Rolling",
+        "url": "https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "303 101",
-        "url": "https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt"
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
         }
       ],
-      "duration_ms": 184645,
-      "name": "303 101",
-      "url": "https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK"
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1071,34 +1071,18 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "2 LOUD",
-        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+        "name": "303 101",
+        "url": "https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt"
       },
       "artists": [
         {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         }
       ],
-      "duration_ms": 303483,
-      "name": "2 LOUD",
-      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "NEVER SAY",
-        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
-      },
-      "artists": [
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
-        }
-      ],
-      "duration_ms": 187507,
-      "name": "NEVER SAY",
-      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
+      "duration_ms": 184645,
+      "name": "303 101",
+      "url": "https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1119,6 +1103,22 @@
       "duration_ms": 240020,
       "name": "DANCE NOW",
       "url": "https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "NEVER SAY",
+        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "NEVER SAY",
+      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1291,22 +1291,30 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Weisse Nase",
-        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+        "name": "Keep Me High",
+        "url": "https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         },
         {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        },
+        {
+          "name": "ALYSSA",
+          "url": "https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Weisse Nase",
-      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
+      "duration_ms": 147695,
+      "name": "Keep Me High",
+      "url": "https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1355,30 +1363,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Keep Me High",
-        "url": "https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia"
+        "name": "Weisse Nase",
+        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        },
-        {
-          "name": "Wasback",
-          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
-        },
-        {
-          "name": "ALYSSA",
-          "url": "https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         }
       ],
-      "duration_ms": 147695,
-      "name": "Keep Me High",
-      "url": "https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd"
+      "duration_ms": 183000,
+      "name": "Weisse Nase",
+      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1399,22 +1399,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Data Corrupted",
-        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
+        "name": "HIT IT BOY",
+        "url": "https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u"
       },
       "artists": [
         {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
           "name": "Kruelty",
           "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        },
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Data Corrupted",
-      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
+      "duration_ms": 141390,
+      "name": "HIT IT BOY",
+      "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "HIT IT BOY",
-        "url": "https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u"
+        "name": "Data Corrupted",
+        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
       },
       "artists": [
         {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         },
         {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
         }
       ],
-      "duration_ms": 141390,
-      "name": "HIT IT BOY",
-      "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
+      "duration_ms": 147000,
+      "name": "Data Corrupted",
+      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "H\u00d6LLE IM HERZ",
+        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "H\u00d6LLE IM HERZ",
+      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "Check This Out",
         "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
-      },
-      "artists": [
-        {
-          "name": "Luciid",
-          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
-        }
-      ],
-      "duration_ms": 294207,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "HOMEWARD BOUND",
         "url": "https://open.spotify.com/album/77qphqm55wE28WErICmvo5"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "H\u00d6LLE IM HERZ",
-        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
       },
       "artists": [
         {
-          "name": "Michael Klotz",
-          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
         }
       ],
-      "duration_ms": 150193,
-      "name": "H\u00d6LLE IM HERZ",
-      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
+      "duration_ms": 294207,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+      },
+      "artists": [
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "Renegade Master",
         "url": "https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 127241,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
-      },
-      "artists": [
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Mystical Energy EP",
+        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "Mystical Energy",
+      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "NEVER STOP",
         "url": "https://open.spotify.com/album/62bT2QRBas9WTZ6wIJo3PM"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 225750,
       "name": "NEVER STOP",
       "url": "https://open.spotify.com/track/3NV8bjW1TNXpjFbixuo1xm"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Mystical Energy EP",
-        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "Mystical Energy",
-      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
     }
   ],
   "unique_name": "Hard Techno",

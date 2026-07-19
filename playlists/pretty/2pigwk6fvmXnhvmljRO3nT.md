@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,515 songs - 21 day 16 hr 12 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,518 songs - 21 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8523,5 +8523,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8513 | [雨のち青天](https://open.spotify.com/track/10zauRjTKtpR363FAKz2ea) | [ShibayanRecords](https://open.spotify.com/artist/0h8tSYXnFjmrLdUSGOKNSX) | [TOHO BOSSA NOVA 3](https://open.spotify.com/album/6fwWmCRqBuFXl03lga3yyK) | 3:45 |
 | 8514 | [Desecrated Cathedral](https://open.spotify.com/track/3IXcM1MovXneZmFIPBTjWh) | [グローリー・コーラス・トウキョウ](https://open.spotify.com/artist/2fm3Vj9l9hVd2FQEURGvVV), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Metaphor: ReFantazio Special Soundtrack](https://open.spotify.com/album/4t0OSUQj2rwY3vQnWRYXVm) | 2:12 |
 | 8515 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
+| 8516 | [bossa uh](https://open.spotify.com/track/4JVget5dabGLIGgVkEKvDi) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [ivy league](https://open.spotify.com/album/2xpMqe8hvW0e4iL0dovGYO) | 3:30 |
+| 8517 | [letting go](https://open.spotify.com/track/55YSCSjuIKRDObXdXj83ku) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 3:18 |
+| 8518 | [food court](https://open.spotify.com/track/0IgVx5YfbBTte8btlLlSOI) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:15 |
 
-Snapshot ID: `AAAMWJfJit7M9dv9HbGaquozdJ07QD4W`
+Snapshot ID: `AAAMW0dOxfKVx3O409oPef7zw92ZLN6V`

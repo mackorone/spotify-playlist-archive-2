@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Classics by Billy Strayhorn, Vol. 1",
+        "url": "https://open.spotify.com/album/1ObPYLjXyABeJNCVVUDOaH"
+      },
+      "artists": [
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 606484,
+      "name": "Cue's Blue Noe",
+      "url": "https://open.spotify.com/track/4hjKdJ4jfpYVIIOuMIGJMy"
+    },
+    {
+      "album": {
         "name": "The Bright Mississippi",
         "url": "https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy"
       },
@@ -3099,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "The Peaceful Side Of Jazz",
+        "url": "https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0"
+      },
+      "artists": [
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Passion Flower",
+      "url": "https://open.spotify.com/track/7moptFxhLMCEBZZAumSKjq"
+    },
+    {
+      "album": {
         "name": "The Duke Plays Ellington",
         "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
       },
@@ -3128,7 +3164,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 410200,
       "name": "Passion Flower",
       "url": "https://open.spotify.com/track/2mfpGIGrScpKgWrhxPnn5E"

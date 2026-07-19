@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover:  Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,611 likes - 68 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,616 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 67 | [Set Me Free](https://open.spotify.com/track/44BnVxLWwuuxVylFGb104G) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:55 |
 | 68 | [Call Me](https://open.spotify.com/track/3mcfpjbuhVHCAdNvbEXAQS) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [T's & C's Apply](https://open.spotify.com/album/6DoiLrHITwH7KRzqoNXfIr) | 3:26 |
 
-Snapshot ID: `AAAAADKyh252wuXWHjfktyGVsCzGO8v6`
+Snapshot ID: `AAAAACpuTeKNyX8oSshxy0YA+/RztBJx`

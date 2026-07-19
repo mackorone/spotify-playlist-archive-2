@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: S\u00e4m Wilder ",
-  "num_followers": 2003,
+  "num_followers": 2004,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Into pieces",
-        "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
-      },
-      "artists": [
-        {
-          "name": "Imme",
-          "url": "https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV"
-        }
-      ],
-      "duration_ms": 203190,
-      "name": "Into pieces",
-      "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
         "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki"
+        "name": "Into pieces",
+        "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
       },
       "artists": [
         {
-          "name": "Gus Walker",
-          "url": "https://open.spotify.com/artist/1gSwhX1NwBba7xxXkKRvrU"
+          "name": "Imme",
+          "url": "https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV"
         }
       ],
-      "duration_ms": 211339,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/5jYAixv8fA6tj5fspUIEjB"
+      "duration_ms": 203190,
+      "name": "Into pieces",
+      "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -347,18 +331,18 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Jongens van het Dorp",
-        "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki"
       },
       "artists": [
         {
-          "name": "Mick Spek",
-          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+          "name": "Gus Walker",
+          "url": "https://open.spotify.com/artist/1gSwhX1NwBba7xxXkKRvrU"
         }
       ],
-      "duration_ms": 125419,
-      "name": "Jongens van het Dorp",
-      "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
+      "duration_ms": 211339,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/5jYAixv8fA6tj5fspUIEjB"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -379,18 +363,18 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Wie weet",
-        "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
+        "name": "Jongens van het Dorp",
+        "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
       },
       "artists": [
         {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
         }
       ],
-      "duration_ms": 195459,
-      "name": "Wie weet",
-      "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"
+      "duration_ms": 125419,
+      "name": "Jongens van het Dorp",
+      "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -423,6 +407,22 @@
       "duration_ms": 160517,
       "name": "okaydokay_",
       "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Wie weet",
+        "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "Wie weet",
+      "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "lOvE",
-        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
-      },
-      "artists": [
-        {
-          "name": "Lola Louii",
-          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "lOvE",
-      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Snelle Planga",
         "url": "https://open.spotify.com/album/1DnQAKM1LkDyrWZAUGwLSQ"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Looking At You",
-        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
+        "name": "lOvE",
+        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
       },
       "artists": [
         {
-          "name": "Loeck",
-          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
+          "name": "Lola Louii",
+          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Looking At You",
-      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
+      "duration_ms": 138666,
+      "name": "lOvE",
+      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -535,6 +519,22 @@
       "duration_ms": 148000,
       "name": "In My Head Today",
       "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Looking At You",
+        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
+      },
+      "artists": [
+        {
+          "name": "Loeck",
+          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Looking At You",
+      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "TWISTED",
-        "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
-      },
-      "artists": [
-        {
-          "name": "F.I.X.",
-          "url": "https://open.spotify.com/artist/4NWDPe87t2vGT8IpC1XGrv"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "TWISTED",
-      "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "GYL",
         "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 171023,
       "name": "GYL",
       "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "TWISTED",
+        "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
+      },
+      "artists": [
+        {
+          "name": "F.I.X.",
+          "url": "https://open.spotify.com/artist/4NWDPe87t2vGT8IpC1XGrv"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "TWISTED",
+      "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Mad Again",
-        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
-      },
-      "artists": [
-        {
-          "name": "Doris Vosters",
-          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
-        }
-      ],
-      "duration_ms": 262224,
-      "name": "Mad Again",
-      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Odesa Twilight Session (live)",
         "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
+        "name": "Mad Again",
+        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
+      },
+      "artists": [
+        {
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+        }
+      ],
+      "duration_ms": 262224,
+      "name": "Mad Again",
+      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
         "name": "WAS DIT ALLES?",
         "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 132681,
       "name": "WAS DIT ALLES?",
       "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "deadbeat (how long)",
+        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
+      },
+      "artists": [
+        {
+          "name": "crashing",
+          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "deadbeat (how long)",
+      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -895,22 +911,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "deadbeat (how long)",
-        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
-      },
-      "artists": [
-        {
-          "name": "crashing",
-          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "deadbeat (how long)",
-      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 129333,
       "name": "Life",
       "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
-        "name": "see-through",
-        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
-      },
-      "artists": [
-        {
-          "name": "NEBULA",
-          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
-        }
-      ],
-      "duration_ms": 236750,
-      "name": "see-through",
-      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -959,6 +943,22 @@
       "duration_ms": 131338,
       "name": "Kleine Liefde",
       "url": "https://open.spotify.com/track/3run92YHEJHsOa8EIttJru"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "see-through",
+        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
+      },
+      "artists": [
+        {
+          "name": "NEBULA",
+          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "see-through",
+      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
-      },
-      "artists": [
-        {
-          "name": "Vonder",
-          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
-        }
-      ],
-      "duration_ms": 310015,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Please you",
         "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 242474,
       "name": "Please you",
       "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
+      },
+      "artists": [
+        {
+          "name": "Vonder",
+          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
+        }
+      ],
+      "duration_ms": 310015,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "BAD CHI",
-        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
-      },
-      "artists": [
-        {
-          "name": "Kidd Nebula",
-          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
-        }
-      ],
-      "duration_ms": 223974,
-      "name": "BAD CHI - Single Version",
-      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Vallen",
         "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 161226,
       "name": "Vallen",
       "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "BAD CHI",
+        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
+      },
+      "artists": [
+        {
+          "name": "Kidd Nebula",
+          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
+        }
+      ],
+      "duration_ms": 223974,
+      "name": "BAD CHI - Single Version",
+      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
-        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
-      },
-      "artists": [
-        {
-          "name": "Coalmine Canary",
-          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "bandnamegenerator",
-      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 199013,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
+        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
+      },
+      "artists": [
+        {
+          "name": "Coalmine Canary",
+          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "bandnamegenerator",
+      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
     },
     {
       "added_at": "2026-06-30 11:07:37",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "WEET NIET WAT JE ZIET IN MIJ",
-        "url": "https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ"
-      },
-      "artists": [
-        {
-          "name": "kruzer",
-          "url": "https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "ME HART IS OP",
-      "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
+        "name": "WEET NIET WAT JE ZIET IN MIJ",
+        "url": "https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ"
+      },
+      "artists": [
+        {
+          "name": "kruzer",
+          "url": "https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "ME HART IS OP",
+      "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
         "name": "Warm Light",
         "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-06-30 11:07:37",
       "album": {
-        "name": "Magnum Opus",
-        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
-      },
-      "artists": [
-        {
-          "name": "Keely Westwood",
-          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Magnum Opus",
-      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
-    },
-    {
-      "added_at": "2026-06-30 11:07:37",
-      "album": {
         "name": "Machine (Radio Edit)",
         "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 213152,
       "name": "Machine (Radio Edit)",
       "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
+    },
+    {
+      "added_at": "2026-06-30 11:07:37",
+      "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
+      },
+      "artists": [
+        {
+          "name": "Keely Westwood",
+          "url": "https://open.spotify.com/artist/6UvI51uzYzaeJCxBcEdAGC"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Magnum Opus",
+      "url": "https://open.spotify.com/track/1YgvtcSX1pBBDy5RfKkUA1"
     },
     {
       "added_at": "2026-06-30 11:07:37",

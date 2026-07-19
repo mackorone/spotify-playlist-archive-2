@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-635 songs - 1 day 15 hr 36 min
+636 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/track/01QUv8IT64cWSmq4TafHYg) | [Banda KaVva](https://open.spotify.com/artist/0EF4MYnsNtVXBAi2yitscA) | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/album/38dc7ED7uhnLSMdhn1w5TK) | 4:15 | 2026-07-04 | 2026-07-12 |
 | [QUIERO DECIRTE](https://open.spotify.com/track/36PDGZXQCtWfnCUpzVSTOP) | [ESTEBAN](https://open.spotify.com/artist/2Jmxf1QvEltShBfsb02gNr) | [QUIERO DECIRTE](https://open.spotify.com/album/76v6Ky3t1sLnnBmCQ7msUt) | 2:34 | 2026-06-06 | 2026-06-18 |
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
+| [Recipe](https://open.spotify.com/track/0Ym4Dc0ohJCHsYLjCWSj9m) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Recipe](https://open.spotify.com/album/0rbqeuSrlS68u3gMD0qvN0) | 4:36 | 2026-07-18 |  |
 | [Red Flags](https://open.spotify.com/track/38RZyMyR07gV4f9Fbc6O6a) | [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [Red Flags](https://open.spotify.com/album/4vM6Z43GlIZ5SrLsXNOekc) | 3:10 | 2026-07-08 |  |
 | [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 | 2026-06-18 |  |
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |

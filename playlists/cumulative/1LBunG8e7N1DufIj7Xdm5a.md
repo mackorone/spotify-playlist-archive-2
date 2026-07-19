@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,533 songs - 10 day 3 hr 10 min
+4,537 songs - 10 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Bailando en el Viento \(another\)](https://open.spotify.com/track/49BC14dh1TgdhAZgP6IEJa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 3:14 | 2025-09-17 |  |
 | [Bailar Toda La Noche](https://open.spotify.com/track/20gI06rYlXNEswpmVfDuSs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Latin American Dance Music](https://open.spotify.com/album/1Y6WnTXfRkYnbOg87hIbPS) | 2:25 | 2025-09-18 |  |
 | [Bailar Toda La Noche \(another\)](https://open.spotify.com/track/32xUPfppXKID4Yc4jsaqOe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Latin American Dance Music](https://open.spotify.com/album/1Y6WnTXfRkYnbOg87hIbPS) | 2:26 | 2025-09-18 |  |
+| [Baile que se queda](https://open.spotify.com/track/15SMagEaGFr24YneYUn7jW) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:11 | 2026-07-18 |  |
 | [Bajo las garras del hombre completo \(Radio edit\)](https://open.spotify.com/track/3eer7szXdn3cqdUTA9DTZ1) | [Culebrilla](https://open.spotify.com/artist/1aNuBa063q2B4zZkRrMT7r) | [Cyberia \(Yellow Edition\)](https://open.spotify.com/album/5CSMkBwuUSnaz8mWi4cOZd) | 3:24 | 2025-05-05 |  |
 | [Balla Come Se Nessuno Guarda](https://open.spotify.com/track/3ADZP1wOpookRkjvxUAWUb) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 2:37 | 2025-09-15 |  |
 | [Balla Come Se Nessuno Guarda \(another\)](https://open.spotify.com/track/1AkkaYZS4nzjGBJdT9gFva) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 2:16 | 2025-09-15 |  |
@@ -2131,6 +2132,7 @@
 | [L'orologio](https://open.spotify.com/track/40qjk81JFCtfHHCi1QIY3N) | [Simone Magnani](https://open.spotify.com/artist/5KXkiYrdBO06mQKTdIojtV) | [L'orologio](https://open.spotify.com/album/3SYNEKOO2kwbBQgGwHrMsl) | 2:56 | 2025-06-28 |  |
 | [L'ultimo respiro](https://open.spotify.com/track/02YRw852WILWVYa8ohXjoI) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [L'ultimo respiro](https://open.spotify.com/album/1E1MzAJBkrGw0vLbeu2jaV) | 4:17 | 2025-06-04 |  |
 | [L\. \- Demo Version](https://open.spotify.com/track/63cBVtluSwFYpkN7mlhxno) | [Sunglasses](https://open.spotify.com/artist/5w6Xd09yAf8hmzTF363zV4) | [L\. \(Demo Version\)](https://open.spotify.com/album/7cBEzuDQckINm2KoUIJAFl) | 3:08 | 2026-05-15 |  |
+| [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 | 2026-07-18 |  |
 | [La Barca di Carta](https://open.spotify.com/track/2wlov7eejGYcFolQYkNjNF) | [Cow Lee](https://open.spotify.com/artist/3WM2c0I49ITR5o3BeXeBQe) | [La Barca di Carta](https://open.spotify.com/album/3nwwk9sgPJtnAyPEZL8qIq) | 4:26 | 2025-07-03 |  |
 | [LA CADUTA DI ICARO](https://open.spotify.com/track/0CutG7jNSXkTeowjtHBDN7) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 6:53 | 2026-02-01 |  |
 | [LA CADUTA DI ICARO \- 2023 Remastered Version](https://open.spotify.com/track/5oF8sAXwyjaTQvTlv9syvM) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [LA CADUTA DI ICARO \(2023 Remastered Version\)](https://open.spotify.com/album/6RjZtdBul4rmXNABVmX2eJ) | 6:53 | 2026-02-01 |  |
@@ -3136,6 +3138,7 @@
 | [Raging Against the Silence](https://open.spotify.com/track/6eTUAY29a6T0J1oiE74JMU) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 5:09 | 2025-09-14 |  |
 | [Raging Against the Silence \(another\)](https://open.spotify.com/track/19CTwrrc1tuFsKe9II2SUF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 4:32 | 2025-09-14 |  |
 | [Ragni \- Versione Rock \- Sessione Intima](https://open.spotify.com/track/5BW9jqpWIEdON36ymFvJgh) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 3:32 | 2025-04-04 |  |
+| [Rain from above](https://open.spotify.com/track/05718WfMl81IkNunWjieWX) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Summer party hits](https://open.spotify.com/album/3kYq7GQwzORjxBoh7Jx23N) | 3:54 | 2026-07-18 |  |
 | [Raindrops on Tape](https://open.spotify.com/track/2jc8EmYCCOTk1323zAV7ZE) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Raindrops on Tape](https://open.spotify.com/album/54b8ervzuPB07kVJqEv3HA) | 1:50 | 2025-06-05 |  |
 | [Raise the Jolly Roger](https://open.spotify.com/track/24LE4OczzhrtQeicROhu5y) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Raise the Jolly Roger](https://open.spotify.com/album/2fes4SUDmlPJYWtiQqCMMu) | 3:07 | 2025-12-10 |  |
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2026-03-24 |  |
@@ -3745,6 +3748,7 @@
 | [Stun like a Deadly Flower](https://open.spotify.com/track/0qyL6l8lQzpUFipfRHrHE3) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [The Creation of Birds](https://open.spotify.com/album/7HfTwE4MRUwwzFpkwxbl6Z) | 3:19 | 2025-11-05 |  |
 | [Stunt](https://open.spotify.com/track/5mp3J2EBk1NBaBDgzRFrnv) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Stunt](https://open.spotify.com/album/1W9V8eWitTMYjnwXeFEzHW) | 2:42 | 2025-07-24 |  |
 | [Stupida](https://open.spotify.com/track/03LixzS8VQZOUgEvQUNrpc) | [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [Oltre il buio](https://open.spotify.com/album/2HrhB7xfNDGOgvZCAqzJWx) | 2:48 | 2025-07-03 |  |
+| [Stupida Malinconia](https://open.spotify.com/track/1L10nxkefiXTsxpJueUtgA) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:52 | 2026-07-18 |  |
 | [style](https://open.spotify.com/track/3jrY4AAWTvZfmwGs3E7QcN) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [style](https://open.spotify.com/album/0TsOGVBOr7qFFZvtDO21bP) | 1:39 | 2025-07-28 |  |
 | [Stürmechopf](https://open.spotify.com/track/4OnguK5zT9LMs8IBAojynG) | [Stürmechopf](https://open.spotify.com/artist/3ShY5j2uqPvxNfXrq9iekD) | [Entscheidig](https://open.spotify.com/album/6GDRSsTunDwFQUayu0VYtd) | 3:53 | 2025-10-03 |  |
 | [su\-per\-giu](https://open.spotify.com/track/0O6Mr5aP09pZoIJ8AcwBiV) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Su\-PER\-GIu](https://open.spotify.com/album/4yPh7FzQJJ31adWMGLUZfZ) | 1:17 | 2026-02-01 |  |

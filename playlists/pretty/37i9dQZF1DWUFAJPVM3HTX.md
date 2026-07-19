@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN?si=bc4OEJ1JT7qFbXZz4zgZ\_g">Ezra</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,431 likes - 130 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,483 likes - 130 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

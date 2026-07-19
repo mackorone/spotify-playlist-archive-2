@@ -6,7 +6,7 @@
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAEZCmiikfxxie5oPrNRdH6wGXi4ujw",
+  "snapshot_id": "AAAEZjJzruz14QB/IjSBsq10WAuQcsyH",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -17879,6 +17879,38 @@
       "duration_ms": 238153,
       "name": "Busca Soluciones",
       "url": "https://open.spotify.com/track/2PRtmCnP8N1gpNJO8sgrEa"
+    },
+    {
+      "added_at": "2026-07-18 11:30:27",
+      "album": {
+        "name": "Roter Opel Corsa",
+        "url": "https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP"
+      },
+      "artists": [
+        {
+          "name": "Kurz Nach Zwei",
+          "url": "https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6"
+        }
+      ],
+      "duration_ms": 182490,
+      "name": "Roter Opel Corsa",
+      "url": "https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx"
+    },
+    {
+      "added_at": "2026-07-18 11:30:30",
+      "album": {
+        "name": "Five Million Ways to Die",
+        "url": "https://open.spotify.com/album/0BCu84kJvCDGbHm03cPL6T"
+      },
+      "artists": [
+        {
+          "name": "RamShackle",
+          "url": "https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV"
+        }
+      ],
+      "duration_ms": 198003,
+      "name": "Five Million Ways to Die",
+      "url": "https://open.spotify.com/track/1v5995U5wIjCYs2AHkPgEF"
     }
   ],
   "unique_name": "Rock Square",

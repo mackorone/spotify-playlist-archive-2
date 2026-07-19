@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Divyam Sodhi, Khwaab, Yawar Abdal and other exciting artists.
 
-1,522 songs - 3 day 11 hr 41 min
+1,523 songs - 3 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Badra](https://open.spotify.com/track/2fy26eIUwm4frudbpMFp6G) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD) | [Badra](https://open.spotify.com/album/1poqXY7CjbFGT58Ihmr8UR) | 2:46 | 2024-08-16 | 2024-09-28 |
 | [Badra](https://open.spotify.com/track/0yImatBZVxcXruTOJRsIUB) | [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC), [Radhika Bhide](https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c) | [Badra](https://open.spotify.com/album/781zLqsHUB2bBN1wfroqkw) | 5:02 | 2026-06-19 |  |
 | [Badshah Zero](https://open.spotify.com/track/3jcMbFg9ofN8wQDMlbG7ot) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Badshah Zero](https://open.spotify.com/album/5ulhHYrQFWKIHDRH9rAAC5) | 3:25 | 2024-08-09 | 2024-09-07 |
+| [Baebo](https://open.spotify.com/track/4HYkpGxtJLYhnlJk3Uqa4Y) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo), [Anmol Salh](https://open.spotify.com/artist/3s4qjRqGggLI6gRiEefxDw) | [Baebo](https://open.spotify.com/album/5YlMtNplWS8oMGlON23E5W) | 3:15 | 2026-07-17 |  |
 | [Bahaane](https://open.spotify.com/track/2qsEw2ppdcdXNw6JtpJEkg) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ), [Rahul Pais](https://open.spotify.com/artist/0iByQOkheGQaW823yagplF) | [Friday Night Plan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tcYcevPh9JYTtznxgUE4S) | 3:32 | 2023-12-08 | 2024-01-06 |
 | [Bahaane](https://open.spotify.com/track/7eQBzDRjBJ2bCkRKxNPbXm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Bahaane](https://open.spotify.com/album/0R3qoIMGjyEOrntY9seZCk) | 2:42 | 2023-10-27 | 2023-12-09 |
 | [Bahane](https://open.spotify.com/track/29BjRUeGcNMyNrNjd8sFWB) | [Vasu Kainth](https://open.spotify.com/artist/4ABmINOwfRxQr5SDuEsoCp) | [Silsile](https://open.spotify.com/album/02UchzFlHWHE3LZTOUGjqQ) | 2:44 | 2024-05-23 | 2024-06-22 |
@@ -821,7 +822,7 @@
 | [Left Alone](https://open.spotify.com/track/3KsMBjhfj4qEIhInnKu01b) | [Utope](https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Left Alone](https://open.spotify.com/album/6dYmfArvR1XN3W7OMX5sBR) | 2:27 | 2024-03-01 | 2024-03-16 |
 | [Leher](https://open.spotify.com/track/1pip69c3zep9RvjTBZCbLn) | [Sarthak Saksena](https://open.spotify.com/artist/3rGPKj1qScQgEsDyL8PKfu), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti) | [Leher](https://open.spotify.com/album/4MBOf5Jqvbfz9eFKCE9I1r) | 3:04 | 2025-12-19 | 2026-02-07 |
 | [Lifafey](https://open.spotify.com/track/2jYibhnPksqxoHE4ayFS2t) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Lifafey](https://open.spotify.com/album/5GExlGBfZVy3avzGPAYa2X) | 3:03 | 2024-03-08 | 2024-06-01 |
-| [Life and Times of Pinocchio](https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK) | [Shashwat Bulusu](https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO) | [Life and Times of Pinocchio](https://open.spotify.com/album/3Lds3f9UqdKGRuR1csX61m) | 2:59 | 2026-07-10 |  |
+| [Life and Times of Pinocchio](https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK) | [Shashwat Bulusu](https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO) | [Life and Times of Pinocchio](https://open.spotify.com/album/3Lds3f9UqdKGRuR1csX61m) | 2:59 | 2026-07-10 | 2026-07-19 |
 | [Life Is Certain](https://open.spotify.com/track/3TBCLwcRX4I4cd4Wc0UzMv) | [Parikrama](https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn) | [Life Is Certain](https://open.spotify.com/album/2LzWmQaeUY3rh0ok7THjLq) | 4:34 | 2024-01-26 | 2024-02-17 |
 | [Listen](https://open.spotify.com/track/4heuLQuyeST64cfOXQpxL9) | [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Listen](https://open.spotify.com/album/2cMDOueosDY7NUegSENIN6) | 3:21 | 2023-07-07 | 2023-08-05 |
 | [little things](https://open.spotify.com/track/2rfHzzJly9NRjFLc3eBGMh) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Shariva Parulkar](https://open.spotify.com/artist/24mPm1zXXsdJBQc4lok9Jc) | [little things](https://open.spotify.com/album/5EuOEycZWVKFOUfjhsBouu) | 2:50 | 2025-10-10 | 2025-10-17 |

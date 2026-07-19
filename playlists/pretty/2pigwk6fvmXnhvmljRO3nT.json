@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMWJfJit7M9dv9HbGaquozdJ07QD4W",
+  "snapshot_id": "AAAMW0dOxfKVx3O409oPef7zw92ZLN6V",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -151239,6 +151239,54 @@
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
+    },
+    {
+      "added_at": "2026-07-18 17:18:25",
+      "album": {
+        "name": "ivy league",
+        "url": "https://open.spotify.com/album/2xpMqe8hvW0e4iL0dovGYO"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 210064,
+      "name": "bossa uh",
+      "url": "https://open.spotify.com/track/4JVget5dabGLIGgVkEKvDi"
+    },
+    {
+      "added_at": "2026-07-18 17:37:39",
+      "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 198825,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/55YSCSjuIKRDObXdXj83ku"
+    },
+    {
+      "added_at": "2026-07-18 17:41:09",
+      "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 135862,
+      "name": "food court",
+      "url": "https://open.spotify.com/track/0IgVx5YfbBTte8btlLlSOI"
     }
   ],
   "unique_name": "Purge",

@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "k\u00e4rlek (is not enough)",
+        "url": "https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql"
+      },
+      "artists": [
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173957,
+      "name": "k\u00e4rlek (is not enough)",
+      "url": "https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj"
+    },
+    {
+      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },

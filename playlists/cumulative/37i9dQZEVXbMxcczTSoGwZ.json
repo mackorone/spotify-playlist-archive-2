@@ -5890,7 +5890,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 117111,
       "name": "Booty call",
       "url": "https://open.spotify.com/track/3QPg31MaFb80iUBkDUmaJq"
@@ -10304,7 +10304,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 182348,
       "name": "Ehk\u00e4 Se Siit\u00e4",
       "url": "https://open.spotify.com/track/30McQzUzWjcZbqQbW3Smd3"
@@ -16556,7 +16556,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 191097,
       "name": "Helahoito",
       "url": "https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ"
@@ -20912,6 +20912,24 @@
       "duration_ms": 182104,
       "name": "Itke sit",
       "url": "https://open.spotify.com/track/5HlCvsft3oLyM6vjNYHW5h"
+    },
+    {
+      "album": {
+        "name": "Itsek\u00e4s",
+        "url": "https://open.spotify.com/album/7yHOXNQSlLATlZCcuIsKS0"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139732,
+      "name": "Itsek\u00e4s",
+      "url": "https://open.spotify.com/track/52IP4Idp9XyaSHyHwG4dgD"
     },
     {
       "album": {
@@ -26493,6 +26511,28 @@
     },
     {
       "album": {
+        "name": "Kovat Ajat (feat. Sliki)",
+        "url": "https://open.spotify.com/album/4LgMr1OLg7xbM01SXjrfVs"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172862,
+      "name": "Kovat Ajat (feat. Sliki)",
+      "url": "https://open.spotify.com/track/3sP8BtUMZdUjMUyBq9Et9G"
+    },
+    {
+      "album": {
         "name": "jvg.fi",
         "url": "https://open.spotify.com/album/7vfkONUIKza4cZEcRqO788"
       },
@@ -31054,6 +31094,28 @@
       "duration_ms": 157563,
       "name": "L\u00e4hell\u00e4",
       "url": "https://open.spotify.com/track/4fflBMDuMbpr2nIo7KFnOR"
+    },
+    {
+      "album": {
+        "name": "L\u00e4hemm\u00e4s (feat. Pyrythekid)",
+        "url": "https://open.spotify.com/album/1UzPmpgbFnaZXFGZUMGTrY"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        },
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "L\u00e4hemm\u00e4s (feat. Pyrythekid)",
+      "url": "https://open.spotify.com/track/3nHdqGCHnEcuBrZrQkrAC9"
     },
     {
       "album": {
@@ -44128,7 +44190,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 151000,
       "name": "Poitsu",
       "url": "https://open.spotify.com/track/5W14lDIUvUFfHtuC2JabRu"
@@ -47982,6 +48044,28 @@
       "duration_ms": 179200,
       "name": "Sama poika (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/41mznSqza0Gz28bZMAj6gA"
+    },
+    {
+      "album": {
+        "name": "samaa kielt\u00e4",
+        "url": "https://open.spotify.com/album/4Qx9aUlZP3Yx4jD7o6T7Vz"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182936,
+      "name": "samaa kielt\u00e4",
+      "url": "https://open.spotify.com/track/7nV9CgCYx7vzMTJUNIXBYA"
     },
     {
       "album": {
@@ -60854,7 +60938,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 169646,
       "name": "Vanhasta Uuteen",
       "url": "https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ"
@@ -64286,6 +64370,24 @@
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
       "album": {

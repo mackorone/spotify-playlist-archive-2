@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1174,
+  "num_followers": 1173,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFjO9lZzQ6L1LANgiRLHKH8+gLS2TN",
+  "snapshot_id": "AAAFj83bx8ktEEFJF37qeoLj5AkDn2BI",
   "tracks": [
     {
       "added_at": "2026-07-17 07:43:03",
@@ -155,6 +155,22 @@
       "duration_ms": 240971,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/2SyfIgwttOZb13cyYhjC4b"
+    },
+    {
+      "added_at": "2026-07-19 02:35:28",
+      "album": {
+        "name": "bound",
+        "url": "https://open.spotify.com/album/1JpukiqrKVnipgp2xIy8Da"
+      },
+      "artists": [
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "duration_ms": 175741,
+      "name": "bound",
+      "url": "https://open.spotify.com/track/6VhKv3V6Hj67qfXeRYwAsI"
     },
     {
       "added_at": "2026-07-13 06:02:32",

@@ -4,7 +4,7 @@
 
 > 
 
-1,083 songs - 2 day 20 hr 14 min
+1,085 songs - 2 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Fire and Tears](https://open.spotify.com/track/44RkVTwt2QHbzzjK6IRwXf) | [Fire and Tears](https://open.spotify.com/artist/0OT0MSuwhoLbE5SC3dMBC1) | [Fire and Tears](https://open.spotify.com/album/3rmUcVwvSLZ6Mqe4GOGdNy) | 4:28 | 2025-08-21 |  |
 | [FireFlame](https://open.spotify.com/track/0lv6y5nNi7TlN8ajmjlh38) | [FireFlame](https://open.spotify.com/artist/4mEfbEt2oPJDjGcTy8Uqug) | [The FireFlame](https://open.spotify.com/album/6lNSex3MPHh9pPe0sPLS8S) | 4:47 | 2025-02-07 |  |
 | [First Story](https://open.spotify.com/track/2nUPC26oC2Qj8AbvBJcm47) | [RM\-RF](https://open.spotify.com/artist/0zA22m0n4OsZdZfuVuL6E3) | [First Story](https://open.spotify.com/album/4aP9M3PQnskVqdZr2ijbOp) | 3:28 | 2025-04-24 |  |
+| [Five Million Ways to Die](https://open.spotify.com/track/1v5995U5wIjCYs2AHkPgEF) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Five Million Ways to Die](https://open.spotify.com/album/0BCu84kJvCDGbHm03cPL6T) | 3:18 | 2026-07-18 |  |
 | [Flesh Projection](https://open.spotify.com/track/337B25QSylikjVPxYvciV9) | [D00K](https://open.spotify.com/artist/1XGQf5yXO7hP3cv5uUAiVe) | [Flesh Projection](https://open.spotify.com/album/6Ga7S2YUXkm9OaJQPsxk4E) | 3:33 | 2026-01-06 |  |
 | [Flores al revés](https://open.spotify.com/track/40wT4j2yDJcv0qkwa1nY9Q) | [Presión alta](https://open.spotify.com/artist/6To2DHH1TIPvIRijfDpLys) | [Flores al revés](https://open.spotify.com/album/0Gt2EjjnABtJ03GqIDEnBS) | 3:05 | 2025-09-18 |  |
 | [Flow](https://open.spotify.com/track/4CSS1rP9SmErDPlqEa7pMX) | [Timothy Sawyer Shepard](https://open.spotify.com/artist/2TL0CQ2kwNxyjyfQ7DkBMd) | [Long Ago Forgotten](https://open.spotify.com/album/3I8ECdpJOJhfyekWyMC4WZ) | 3:19 | 2024-12-04 |  |
@@ -744,6 +745,7 @@
 | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/track/7rp1lXXfooQnfaQMhicOhR) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/album/4mjaOkc5BcPOfDewUkK5Xq) | 3:42 | 2025-02-07 |  |
 | [Rose Sea](https://open.spotify.com/track/6Y8hTCeGXMcXbPjveDfk1O) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Rose Sea](https://open.spotify.com/album/3DO0kqTiYffJTXOK0QhYTt) | 3:26 | 2025-08-21 |  |
 | [Roses In The Sea](https://open.spotify.com/track/7nLoVD1SPIZYHOAsoQTBtF) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [Back To The Sixties](https://open.spotify.com/album/0EWFXv6Sb9Hg53ExC68GgV) | 3:03 | 2025-07-26 |  |
+| [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 | 2026-07-18 |  |
 | [Run to You](https://open.spotify.com/track/0oQUmnTa4r4nN1YniB7umn) | [Lost Like Lions](https://open.spotify.com/artist/0wg1sFLR3OowB5S1r7OjIV) | [Fear of Letting Go](https://open.spotify.com/album/2Sa44qNejccHk3whnsYRki) | 3:37 | 2024-12-12 |  |
 | [Running](https://open.spotify.com/track/4vW7O1J1BeWSCbQJ7Jv3V9) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [The Vision](https://open.spotify.com/album/5oWV4RkkOCjWe577NByopU) | 3:36 | 2026-06-06 |  |
 | [Russian Car Crashes](https://open.spotify.com/track/2tQ7ZgZ6JOohBwdqds23aR) | [Eponymous](https://open.spotify.com/artist/3UtYdv03lSFy9ax1KZ4CZH) | [Singularity](https://open.spotify.com/album/2SeRDN9VsngIZWN2k4DCQW) | 4:17 | 2025-03-18 |  |

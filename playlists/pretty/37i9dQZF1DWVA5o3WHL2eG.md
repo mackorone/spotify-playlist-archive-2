@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,265 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,259 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [hausverbot](https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [wofür es sich zu leben lohnt](https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E) | 2:16 |
 | 10 | [HAUS AM SEE](https://open.spotify.com/track/6sRK4yi2tLstoer3aBj6OH) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LOVE & DRAMA EP](https://open.spotify.com/album/5gt210h6ghl9bNDdiOfqxt) | 2:50 |
 | 11 | [liebesbriefe](https://open.spotify.com/track/69MCaMdyBZdEbQ8Cmm4KR8) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [liebesbriefe](https://open.spotify.com/album/7cVKmiIAgdECyVNcLp6DNI) | 2:36 |
-| 12 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:42 |
+| 12 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 |
 | 13 | [Knutschen auf der Parkbank](https://open.spotify.com/track/4ykIk22caYVdMwa0u4hvHw) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A), [HugoBass303](https://open.spotify.com/artist/6XNqxmXgwyt8DMm3V5qJEe), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi), [boundxry](https://open.spotify.com/artist/1ptaodI1Jp1koSslcbGHEf) | [Knutschen auf der Parkbank](https://open.spotify.com/album/0b0XGbnBxlOMaiXco0PIYQ) | 2:40 |
 | 14 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
 | 15 | [WHERE’S THE FUN?](https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [WHERE’S THE FUN?](https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl) | 3:25 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [Novoline](https://open.spotify.com/track/5rlXHLJzJ6uVr4I2ZHvyWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Novoline](https://open.spotify.com/album/0gcQR26sMH4jKJobJUAWGt) | 3:55 |
 | 35 | [mama](https://open.spotify.com/track/7eLvcOXD9tGss0MTMtmrqg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [mama](https://open.spotify.com/album/4Z96xMS4QstoYt0ajepsuZ) | 2:19 |
 | 36 | [Marlow first](https://open.spotify.com/track/48f31aoDxpekF9fCCMGSqx) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Marlow first](https://open.spotify.com/album/7b9jgWE9Vu3CoIFcfgIikb) | 2:38 |
-| 37 | [Federleicht](https://open.spotify.com/track/6m2HLUFt7U9aweAPqJ92wQ) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Federleicht](https://open.spotify.com/album/5EDa5xMsCklcpQcAvxOijk) | 3:24 |
-| 38 | [Ich Ich](https://open.spotify.com/track/0QUa24xMNtEviDZyNB9eTG) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Ich Ich](https://open.spotify.com/album/6wjDyA1Yx4GfbDlFnIGIiJ) | 3:20 |
+| 37 | [Ich Ich](https://open.spotify.com/track/0QUa24xMNtEviDZyNB9eTG) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Ich Ich](https://open.spotify.com/album/6wjDyA1Yx4GfbDlFnIGIiJ) | 3:20 |
+| 38 | [Federleicht](https://open.spotify.com/track/6m2HLUFt7U9aweAPqJ92wQ) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Federleicht](https://open.spotify.com/album/5EDa5xMsCklcpQcAvxOijk) | 3:24 |
 | 39 | [MON CHÉRI](https://open.spotify.com/track/0ETTeq8wof8q3llTA3stYP) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [MON CHÉRI](https://open.spotify.com/album/2LRQ7FmjQBSSATRzNrPak5) | 2:28 |
 | 40 | [do it for the plot](https://open.spotify.com/track/4yUNvSK5PBu2L0qa3315Xv) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [do it for the plot](https://open.spotify.com/album/6dhgGDHp0iBo2w72uHG4G5) | 2:28 |
 | 41 | [primetime](https://open.spotify.com/track/2Vj5ENVmd7BM1hSDA0dUs4) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [primetime](https://open.spotify.com/album/1Gct02nOLfBFJ34XXzm0rN) | 3:18 |

@@ -1,6 +1,6 @@
 {
   "description": "Free your mind from distraction with calming white noise.",
-  "num_followers": 225879,
+  "num_followers": 226018,
   "original_name": "Noise Canceling",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "White Noise Healing Energies",
-        "url": "https://open.spotify.com/album/3m9IYueKuKljNp9NvqQWs2"
-      },
-      "artists": [
-        {
-          "name": "Hum Humming",
-          "url": "https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF"
-        }
-      ],
-      "duration_ms": 275632,
-      "name": "White Noise Healing Energies",
-      "url": "https://open.spotify.com/track/6N5IDVq97uM3g54wipzint"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "The Soothing White",
         "url": "https://open.spotify.com/album/6Px4kwmPHxUuFW3EZeDFzD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 145500,
       "name": "The Soothing White",
       "url": "https://open.spotify.com/track/5GLRvtuG1ax5W3IZpdmzHP"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "White Noise Healing Energies",
+        "url": "https://open.spotify.com/album/3m9IYueKuKljNp9NvqQWs2"
+      },
+      "artists": [
+        {
+          "name": "Hum Humming",
+          "url": "https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF"
+        }
+      ],
+      "duration_ms": 275632,
+      "name": "White Noise Healing Energies",
+      "url": "https://open.spotify.com/track/6N5IDVq97uM3g54wipzint"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
+        "name": "Silver Fox White Noise",
+        "url": "https://open.spotify.com/album/4renNYQr7zpkSayTwxStcr"
+      },
+      "artists": [
+        {
+          "name": "Madame Blanc's White Noise",
+          "url": "https://open.spotify.com/artist/56aahVIOH4PvwQeFIGok9z"
+        }
+      ],
+      "duration_ms": 219033,
+      "name": "Silver Fox White Noise",
+      "url": "https://open.spotify.com/track/72XAy5nWhNtyjxPqHl3Txb"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
         "name": "White Dreams",
         "url": "https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 254907,
       "name": "White Noise Sleeping Pill",
       "url": "https://open.spotify.com/track/37EoUoGfIfSEprR0UboDNp"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
-        "name": "Silver Fox White Noise",
-        "url": "https://open.spotify.com/album/4renNYQr7zpkSayTwxStcr"
-      },
-      "artists": [
-        {
-          "name": "Madame Blanc's White Noise",
-          "url": "https://open.spotify.com/artist/56aahVIOH4PvwQeFIGok9z"
-        }
-      ],
-      "duration_ms": 219033,
-      "name": "Silver Fox White Noise",
-      "url": "https://open.spotify.com/track/72XAy5nWhNtyjxPqHl3Txb"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Sky Full Of Noise",
-        "url": "https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc"
-      },
-      "artists": [
-        {
-          "name": "Libronics",
-          "url": "https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "Lost In Noise",
-      "url": "https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Gentle White Noise",
         "url": "https://open.spotify.com/album/5xkCmZcbrEmogpsAgwHXd8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 164725,
       "name": "Snowy Serenity",
       "url": "https://open.spotify.com/track/6dgZEk3lBngRHrUodnCY3y"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Sky Full Of Noise",
+        "url": "https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc"
+      },
+      "artists": [
+        {
+          "name": "Libronics",
+          "url": "https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "Lost In Noise",
+      "url": "https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Lean Noise",
-        "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
+        "name": "White Tonality",
+        "url": "https://open.spotify.com/album/69U1JNZagRXGoegXk8DaYN"
       },
       "artists": [
         {
-          "name": "Factorial FX",
-          "url": "https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu"
+          "name": "Blazerod",
+          "url": "https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS"
         }
       ],
-      "duration_ms": 137820,
-      "name": "Lean Noise",
-      "url": "https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp"
+      "duration_ms": 177000,
+      "name": "White Tonality",
+      "url": "https://open.spotify.com/track/3BAUrjO1MvnrTPtEGje79S"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "White Tonality",
-        "url": "https://open.spotify.com/album/69U1JNZagRXGoegXk8DaYN"
+        "name": "Lean Noise",
+        "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
       },
       "artists": [
         {
-          "name": "Blazerod",
-          "url": "https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS"
+          "name": "Factorial FX",
+          "url": "https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu"
         }
       ],
-      "duration_ms": 177000,
-      "name": "White Tonality",
-      "url": "https://open.spotify.com/track/3BAUrjO1MvnrTPtEGje79S"
+      "duration_ms": 137820,
+      "name": "Lean Noise",
+      "url": "https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Peaceful Noise",
-        "url": "https://open.spotify.com/album/0TzsBKtyXENx8IOpE0Qa1Z"
-      },
-      "artists": [
-        {
-          "name": "Hz Catchers",
-          "url": "https://open.spotify.com/artist/6Bea98kSgFYBJdaRDgAnG5"
-        }
-      ],
-      "duration_ms": 132260,
-      "name": "Peaceful Noise",
-      "url": "https://open.spotify.com/track/0bTtBofndeBvvzv2BuJTCK"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "White Noise - REM Sleep",
         "url": "https://open.spotify.com/album/4CqWnCw84Gb9fTEfPzpQnP"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 197065,
       "name": "White Noise - REM Sleep",
       "url": "https://open.spotify.com/track/3spnIMQNyQKet0F5lELlt4"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Peaceful Noise",
+        "url": "https://open.spotify.com/album/0TzsBKtyXENx8IOpE0Qa1Z"
+      },
+      "artists": [
+        {
+          "name": "Hz Catchers",
+          "url": "https://open.spotify.com/artist/6Bea98kSgFYBJdaRDgAnG5"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Peaceful Noise",
+      "url": "https://open.spotify.com/track/0bTtBofndeBvvzv2BuJTCK"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Reposez-vous Avec Le Bruit",
-        "url": "https://open.spotify.com/album/6C7tg2sHkbLLb7eDX4HRpr"
-      },
-      "artists": [
-        {
-          "name": "Horace Ocean",
-          "url": "https://open.spotify.com/artist/1qncsXzEvFlwPccRiCD5g3"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Reposez-vous Avec Le Bruit",
-      "url": "https://open.spotify.com/track/5liBIh7MBD4o6Qb3xRt9PS"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Deep Sleep Symphony",
         "url": "https://open.spotify.com/album/3BTy3cuUIMf0Ngxek8mzhR"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 129246,
       "name": "White Noise Dreams",
       "url": "https://open.spotify.com/track/77YUu6scEKZ600YOkdlQFg"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Reposez-vous Avec Le Bruit",
+        "url": "https://open.spotify.com/album/6C7tg2sHkbLLb7eDX4HRpr"
+      },
+      "artists": [
+        {
+          "name": "Horace Ocean",
+          "url": "https://open.spotify.com/artist/1qncsXzEvFlwPccRiCD5g3"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Reposez-vous Avec Le Bruit",
+      "url": "https://open.spotify.com/track/5liBIh7MBD4o6Qb3xRt9PS"
     },
     {
       "added_at": "2026-03-31 15:18:30",

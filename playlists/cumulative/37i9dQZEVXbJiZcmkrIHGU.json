@@ -7319,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "Augenblick",
+        "url": "https://open.spotify.com/album/0VrSTsqdT4I9BrDmqlA4lC"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127071,
+      "name": "Augenblick",
+      "url": "https://open.spotify.com/track/628h6njwRhD653gUi1Hxbb"
+    },
+    {
+      "album": {
         "name": "Augenma\u00df (feat. Lucio101, Nizi19, Omar101 & Karamel19)",
         "url": "https://open.spotify.com/album/1qwstLPWrhJkXWoFe042vH"
       },
@@ -18966,7 +18984,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -19032,7 +19050,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 216352,
       "name": "Danza Kuduro - Version MTO",
       "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"
@@ -31152,7 +31170,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 185377,
       "name": "Ghetto Superstars",
       "url": "https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S"
@@ -38441,6 +38459,28 @@
     },
     {
       "album": {
+        "name": "Ikkimel die Geile EP",
+        "url": "https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN"
+      },
+      "artists": [
+        {
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115575,
+      "name": "Ikkimel die Geile",
+      "url": "https://open.spotify.com/track/5M9YGWs77ZXuHJ9WEDJ5Xx"
+    },
+    {
+      "album": {
         "name": "Iko Iko (My Bestie)",
         "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
       },
@@ -42071,6 +42111,24 @@
     },
     {
       "album": {
+        "name": "Kaybeden",
+        "url": "https://open.spotify.com/album/7Ae3Ud9M6m2hyK00CIT0U5"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Kaybeden",
+      "url": "https://open.spotify.com/track/6XtYVT7q73CjAsHTLNrqkd"
+    },
+    {
+      "album": {
         "name": "KAYIP PERSONA",
         "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
       },
@@ -42394,6 +42452,24 @@
       "duration_ms": 156024,
       "name": "Kein Zur\u00fcck",
       "url": "https://open.spotify.com/track/3i0pKkdca9nJ5YW2Ubpi2e"
+    },
+    {
+      "album": {
+        "name": "Keine Angst",
+        "url": "https://open.spotify.com/album/15d6XT5XuVWkYrFrFaGgfv"
+      },
+      "artists": [
+        {
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427565,
+      "name": "Keine Angst",
+      "url": "https://open.spotify.com/track/3JZQu2KQwQ0mwtzZEaKB0W"
     },
     {
       "album": {
@@ -47148,7 +47224,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -47742,7 +47818,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -51184,6 +51260,24 @@
       "duration_ms": 237045,
       "name": "Meine Tr\u00e4nen",
       "url": "https://open.spotify.com/track/0qGZkkxnyfGrUBLflKwBQG"
+    },
+    {
+      "album": {
+        "name": "Meine Welt",
+        "url": "https://open.spotify.com/album/3uCXw3zomzkSPHe9LX3HXB"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149061,
+      "name": "Meine Welt",
+      "url": "https://open.spotify.com/track/00m8Dz5zDd1joPYxkHGKEl"
     },
     {
       "album": {
@@ -57718,7 +57812,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -60157,6 +60251,28 @@
     },
     {
       "album": {
+        "name": "EUROSPORT 2",
+        "url": "https://open.spotify.com/album/3kGWxBmfA7DjfWe597cvCC"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/5rYFpVwHIgyzB869ECyKfY"
+    },
+    {
+      "album": {
         "name": "Paff Paff",
         "url": "https://open.spotify.com/album/41TiaX0ZPy3y1Hs2krJvlg"
       },
@@ -60401,6 +60517,24 @@
     },
     {
       "album": {
+        "name": "Panzer",
+        "url": "https://open.spotify.com/album/0AbZubrn6Ae9Ii5ArPFuxc"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200639,
+      "name": "Panzer",
+      "url": "https://open.spotify.com/track/5UCFY6rqiEb066i9PzsGmm"
+    },
+    {
+      "album": {
         "name": "panzerknacker.wav",
         "url": "https://open.spotify.com/album/5JYJnF442DvvARK8o9RAAQ"
       },
@@ -60430,7 +60564,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 156363,
       "name": "panzerknacker.wav",
       "url": "https://open.spotify.com/track/40NjASTBlqkyCZ9bPVDcMK"
@@ -67331,6 +67465,28 @@
     },
     {
       "album": {
+        "name": "S.U.L.",
+        "url": "https://open.spotify.com/album/78HRaSj9UYYFVMjENErZjy"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "S.U.L.",
+      "url": "https://open.spotify.com/track/2SlvpDfgl78OHWxTFjUaOk"
+    },
+    {
+      "album": {
         "name": "S1",
         "url": "https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ"
       },
@@ -69564,7 +69720,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 151741,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
@@ -71964,6 +72120,28 @@
       "duration_ms": 126538,
       "name": "Sonne Geht Auf",
       "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
+    },
+    {
+      "album": {
+        "name": "Sonne \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/27QReVTi8x2TlM819taRAq"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152459,
+      "name": "Sonne \u00fcber Berlin",
+      "url": "https://open.spotify.com/track/2dw6tVaptSJwYvKK0hVrge"
     },
     {
       "album": {
@@ -74998,7 +75176,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -76878,7 +77056,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -76954,7 +77132,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -77044,7 +77222,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -78788,7 +78966,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 267360,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
@@ -82832,6 +83010,32 @@
       "duration_ms": 185200,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/34EclK5pWi2OqUz5cDm2X2"
+    },
+    {
+      "album": {
+        "name": "Vollgas",
+        "url": "https://open.spotify.com/album/4FKZ47NtA3evQUu2Cf4aRi"
+      },
+      "artists": [
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144478,
+      "name": "Vollgas",
+      "url": "https://open.spotify.com/track/4Loq1Zsw5NkBO9B0KUGT05"
     },
     {
       "album": {
@@ -89028,6 +89232,24 @@
       "duration_ms": 156781,
       "name": "Z0RNIG [2O24]",
       "url": "https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x"
+    },
+    {
+      "album": {
+        "name": "ZAHA HADID / BETTY BOO",
+        "url": "https://open.spotify.com/album/16UlU7ToiHTxgcCFNzFsmD"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "ZAHA HADID",
+      "url": "https://open.spotify.com/track/2WPEmFV04K6e4h9ewm8eyh"
     },
     {
       "album": {

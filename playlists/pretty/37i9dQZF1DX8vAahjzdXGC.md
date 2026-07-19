@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Gracie Abrams , Shabrina Leanor, Katyana, Nadhif Basalamah, Carly Rae Jepsen dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,308 likes - 83 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,293 likes - 83 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 71 | [鬼事](https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [鬼事](https://open.spotify.com/album/7IxbIYQOOQKgoQZzpFTArJ) | 3:00 |
 | 72 | [Peach](https://open.spotify.com/track/25daS9NP6OyeqyWgnsbBut) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Crazy Rainbow](https://open.spotify.com/album/7oyNub5nsPkJoyV6xatDcN) | 2:16 |
 | 73 | [I Feel You](https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Lost On The Way To Paradise](https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan) | 2:39 |
-| 74 | [a smooth sea never made a skilled sailor](https://open.spotify.com/track/3MiqYhylob4wO8kZ27qQCy) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [evertree](https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6) | [Tomorrow the sun won't rise](https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7) | 2:42 |
+| 74 | [a smooth sea never made a skilled sailor](https://open.spotify.com/track/3MiqYhylob4wO8kZ27qQCy) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV), [evertree](https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6) | [Tomorrow the sun won't rise](https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7) | 2:42 |
 | 75 | [failed tailors](https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [failed tailors](https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05) | 2:42 |
 | 76 | [Easy Street](https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Easy Street](https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n) | 3:51 |
 | 77 | [My Forever Drug](https://open.spotify.com/track/2dImL4FJ7gJvILH9NXOgPL) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [My Forever Drug](https://open.spotify.com/album/13VyIN1hudh1P4aT1xbOQ0) | 3:01 |

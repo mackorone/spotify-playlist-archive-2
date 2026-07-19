@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-570 songs - 1 day 6 hr 10 min
+571 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [BONNIE](https://open.spotify.com/track/21Y9F54jhNFQK7A0D9LZHu) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:21 | 2025-07-04 |  |
 | [book of mending \- interlude](https://open.spotify.com/track/5xoSwE3PZWwfMDoA7AU1d6) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 1:39 | 2025-02-03 | 2026-03-01 |
 | [boosterpack fx](https://open.spotify.com/track/1LfzbK5FAHP7C1kIZCAUzz) | [bea4real](https://open.spotify.com/artist/2TLhLQc2Y4cIGC5gg65zSH), [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx), [coldpizza](https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 3:12 | 2024-05-28 | 2025-10-05 |
+| [bound](https://open.spotify.com/track/6VhKv3V6Hj67qfXeRYwAsI) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [bound](https://open.spotify.com/album/1JpukiqrKVnipgp2xIy8Da) | 2:55 | 2026-07-19 |  |
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-09-12 | 2025-04-14 |
 | [break my teeth!](https://open.spotify.com/track/5175pAIG48D5o4h9apqmCi) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [all lizards go to heaven!!!](https://open.spotify.com/album/1CRlPPBbbvKRuyyam4ypvP) | 2:40 | 2025-01-25 |  |
 | [brighter day](https://open.spotify.com/track/59nYXwfY6lyUc9zgY7l03L) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 4:15 | 2024-08-15 |  |

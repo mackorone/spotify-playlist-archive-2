@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Thank \u611b You",
+        "url": "https://open.spotify.com/album/4GZAIEVZKnoQEm4Z5w9fXD"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u85e4\u771f\u5f66",
+          "url": "https://open.spotify.com/artist/6QrcT9aVwvCirIh3PXv8Nm"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231342,
+      "name": "\u30b9\u30cb\u30fc\u30ab\u30fc\u3076\u308b\uff5e\u3059",
+      "url": "https://open.spotify.com/track/3gIywJkRd9dDu7lAyaykns"
+    },
+    {
+      "album": {
         "name": "\u90f7\u3072\u308d\u307f\u5168\u96c6/'72\uff5e'85 DANDYISM",
         "url": "https://open.spotify.com/album/6XNgAXrJWe4ySXl2GDVV7y"
       },

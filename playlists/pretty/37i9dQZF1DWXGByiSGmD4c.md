@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGByiSGmD4c.md) - [plain]
 
 > Enjoy the LE SSERAFIM WORLD TOUR \[PUREFLOW\] BEST SET for the upcoming concert! \(다가오는 르세라핌의 투어를 준비하며 히트곡  BEST SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303 likes - 25 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGByiSGmD4c.md) - [plain]
 | 24 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 |
 | 25 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
 
-Snapshot ID: `AAAAAAiT16CzVMQ/ndtirDKCJtzlff8a`
+Snapshot ID: `AAAAAHqcd6bD/UKh5WUFQWVhzdKeFKAm`

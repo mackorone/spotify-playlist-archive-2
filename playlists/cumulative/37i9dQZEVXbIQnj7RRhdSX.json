@@ -5734,7 +5734,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 177934,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
@@ -8412,6 +8412,24 @@
       "duration_ms": 195555,
       "name": "BOOSTER",
       "url": "https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i"
+    },
+    {
+      "album": {
+        "name": "BOP BOP",
+        "url": "https://open.spotify.com/album/5PGTq47um2SyPb07sm58pY"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "BOP BOP",
+      "url": "https://open.spotify.com/track/7lnA7L04Q3ELVmMoMVeFrw"
     },
     {
       "album": {
@@ -44640,7 +44658,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 303032,
       "name": "Ora che non ho pi\u00f9 te",
       "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
@@ -49620,7 +49638,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 207870,
       "name": "QUANDO DORME LA CITT\u00c0",
       "url": "https://open.spotify.com/track/77uiPp5CwS14DPThQSLsNs"

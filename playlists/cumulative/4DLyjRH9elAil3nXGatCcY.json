@@ -2747,6 +2747,28 @@
     },
     {
       "album": {
+        "name": "recursus*",
+        "url": "https://open.spotify.com/album/4AMO4wrdcCCDcdUmuhZv2k"
+      },
+      "artists": [
+        {
+          "name": "cupsy",
+          "url": "https://open.spotify.com/artist/75jzqyFMR0AvSPNB9qne7S"
+        },
+        {
+          "name": "4evrx",
+          "url": "https://open.spotify.com/artist/25iVu5L3b8XUxDj1jdTPwh"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229050,
+      "name": "eternal spell",
+      "url": "https://open.spotify.com/track/3gMcNUCdCFVvpeUEJjgUwv"
+    },
+    {
+      "album": {
         "name": "VA-11 Hall-A (Original Soundtrack: Second Round)",
         "url": "https://open.spotify.com/album/666rsOsL45p68o5BzooByj"
       },

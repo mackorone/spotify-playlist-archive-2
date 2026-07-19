@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 51613,
+  "num_followers": 51646,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAABLBmSUbj3xmHZxQ3+daK64",
+  "snapshot_id": "allwgAAAAAC972kPxL4mQJoDmfwTvCbV",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goated",
-        "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 138997,
-      "name": "Goated",
-      "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUJI MOTO",
         "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 163200,
       "name": "UP",
       "url": "https://open.spotify.com/track/3txOxWfFWDxo5e8mxqIdgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 138997,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
     },
     {
       "added_at": null,

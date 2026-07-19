@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 348200,
+  "num_followers": 348239,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAAB2cJYLbiHn3VtSKJ6ID0Mv",
+  "snapshot_id": "allwgAAAAAA9aO/89/I+oQM9KxH36bFb",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Quisiera Ser Pajarillo",
-      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez Canta Corridos al Estilo Culiac\u00e1n (Remastered 2025)",
         "url": "https://open.spotify.com/album/0jcI7bVG13NCyxphp60wCG"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 165360,
       "name": "Corrido de Rosalino - Remastered 2025",
       "url": "https://open.spotify.com/track/2nYtDxtPjn5TQXPAnsn8uU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Quisiera Ser Pajarillo",
+      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hermos\u00edsimo Lucero",
         "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
@@ -867,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+        "name": "El Pela Vacas (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
       },
       "artists": [
         {
@@ -876,9 +892,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 163546,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
+      "duration_ms": 191906,
+      "name": "Dinast\u00eda de los Ochoa - Remastered 2025",
+      "url": "https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn"
     },
     {
       "added_at": null,
@@ -899,22 +915,6 @@
       "duration_ms": 213507,
       "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
       "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Dinast\u00eda de los Ochoa - Remastered 2025",
-      "url": "https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn"
     }
   ],
   "unique_name": "This Is Chalino Sanchez",

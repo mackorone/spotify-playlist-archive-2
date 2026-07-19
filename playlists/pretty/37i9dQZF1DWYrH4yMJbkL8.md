@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > These are some of LOV's favourite songs by Indigenous artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,046 likes - 33 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,049 likes - 33 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 32 | [Run As One](https://open.spotify.com/track/0hnCRnn9fx0zqLiRpp1UDW) | [C\-Weed Band](https://open.spotify.com/artist/7u2wjefZiVTpr0scEi9r5t) | [Run As One](https://open.spotify.com/album/4iAUZXTDtbuQkN4s1wCCPc) | 6:23 |
 | 33 | [Stay Awhile](https://open.spotify.com/track/6bLoxsdxSPvN6sn2XyoVtj) | [Ernest Monias](https://open.spotify.com/artist/7KF4feJQfiUhHtMrguWdi8) | [Original Recordings](https://open.spotify.com/album/55p6gvGwAZx1pnmUzOQc2f) | 3:05 |
 
-Snapshot ID: `AAAAALUM5Qob31b7DnOhNt+2u563idlH`
+Snapshot ID: `AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo`

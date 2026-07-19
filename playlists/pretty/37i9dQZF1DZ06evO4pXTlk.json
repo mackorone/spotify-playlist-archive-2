@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAAAI0TI4pYtCnO+dd+fMhKBh",
+  "snapshot_id": "allwgAAAAAAP4tuHXoiNvFCJc3HPpaDX",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 215933,
-      "name": "rinse repeat",
-      "url": "https://open.spotify.com/track/6MjPqcnMFAumdddQ802SmO"
+      "duration_ms": 168893,
+      "name": "losing it",
+      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Live Like This",
-      "url": "https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy"
+      "duration_ms": 202550,
+      "name": "Kids On Drugs",
+      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 168893,
-      "name": "losing it",
-      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
+      "duration_ms": 215933,
+      "name": "rinse repeat",
+      "url": "https://open.spotify.com/track/6MjPqcnMFAumdddQ802SmO"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Kids On Drugs",
-      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
+      "duration_ms": 216578,
+      "name": "Live Like This",
+      "url": "https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 219280,
-      "name": "First Kiss Feeling",
-      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
+      "duration_ms": 229640,
+      "name": "Drive Me Wild",
+      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Drive Me Wild",
-      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
+      "duration_ms": 219280,
+      "name": "First Kiss Feeling",
+      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 202440,
       "name": "I Scare Easy",
       "url": "https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 167813,
-      "name": "Let's Run",
-      "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
     }
   ],
   "unique_name": "This Is The XCERTS",

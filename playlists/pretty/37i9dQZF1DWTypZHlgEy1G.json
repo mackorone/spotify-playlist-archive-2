@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 533130,
+  "num_followers": 533125,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        },
-        {
-          "name": "Alain Delon",
-          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Paroles\u2026 paroles\u2026",
-      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "France Gall CD Story",
+        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Santiano",
         "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 186693,
       "name": "Fais comme l'oiseau",
       "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "France Gall CD Story",
-        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
-      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
     },
     {
       "added_at": "2024-07-25 13:22:22",

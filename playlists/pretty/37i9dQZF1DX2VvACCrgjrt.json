@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Disco Lines",
-  "num_followers": 1313035,
+  "num_followers": 1313057,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Shook Ones, PT. III",
+        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 218398,
+      "name": "Shook Ones, PT. III",
+      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Focus (feat. CLOVES) [Alok Remix]",
         "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 207761,
       "name": "Focus (feat. CLOVES) - Alok Remix",
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Shook Ones, PT. III",
-        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
-      },
-      "artists": [
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 218398,
-      "name": "Shook Ones, PT. III",
-      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "CODEINE",
-        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CODEINE",
-      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Fashion From France",
         "url": "https://open.spotify.com/album/4XgWx25OZd07OphjZQxsvz"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 132760,
       "name": "Fashion From France",
       "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "CODEINE",
+        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CODEINE",
+      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1505,6 +1505,26 @@
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
       "added_at": "2026-03-20 04:00:50",
       "album": {
         "name": "Miami Bass EP",
@@ -1527,26 +1547,6 @@
       "duration_ms": 208593,
       "name": "Miami Bass",
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1693,30 +1693,6 @@
       "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
-      "added_at": "2026-04-10 04:02:08",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/4GuJDoFp7yhWiW9IVGgMYN"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "JDG",
-          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 125199,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2M2mxEsoQpXXUujuxxBayv"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Big Bad Sound",
@@ -1751,6 +1727,30 @@
       "duration_ms": 153750,
       "name": "Somn Like Dis",
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+    },
+    {
+      "added_at": "2026-04-10 04:02:08",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/4GuJDoFp7yhWiW9IVGgMYN"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "JDG",
+          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 125199,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2M2mxEsoQpXXUujuxxBayv"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1793,6 +1793,22 @@
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
+      "added_at": "2026-04-10 04:02:08",
+      "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 204242,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
+    },
+    {
       "added_at": "2026-06-19 04:01:19",
       "album": {
         "name": "Mine",
@@ -1813,22 +1829,6 @@
       "url": "https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ"
     },
     {
-      "added_at": "2026-04-10 04:02:08",
-      "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
-    },
-    {
       "added_at": "2026-02-06 05:00:42",
       "album": {
         "name": "KODAK",
@@ -1847,6 +1847,26 @@
       "duration_ms": 173913,
       "name": "KODAK",
       "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
+    },
+    {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "WIN WIN",
+          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1871,26 +1891,6 @@
       "duration_ms": 225000,
       "name": "N9",
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "WIN WIN",
-          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1923,6 +1923,38 @@
       "duration_ms": 145846,
       "name": "Candela",
       "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
+    },
+    {
+      "added_at": "2026-07-10 04:01:45",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe"
+    },
+    {
+      "added_at": "2026-07-10 04:01:45",
+      "album": {
+        "name": "Bangarang",
+        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Bangarang",
+      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1977,22 +2009,6 @@
       "url": "https://open.spotify.com/track/56IGqraB3HCjOi5PY4mHXn"
     },
     {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e"
-      },
-      "artists": [
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Earthquake",
@@ -2007,22 +2023,6 @@
       "duration_ms": 182272,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
-      "added_at": "2026-06-19 04:01:19",
-      "album": {
-        "name": "LIGHTS FLASH IN MY EYES",
-        "url": "https://open.spotify.com/album/53eFxmMXTKdbOMCunnnrWk"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "LIGHTS FLASH IN MY EYES",
-      "url": "https://open.spotify.com/track/0Wzbg3Ak8N6Yrg1cgUe30q"
     },
     {
       "added_at": "2026-01-16 05:00:37",
@@ -2045,6 +2045,22 @@
       "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
+      "added_at": "2026-06-19 04:01:19",
+      "album": {
+        "name": "LIGHTS FLASH IN MY EYES",
+        "url": "https://open.spotify.com/album/53eFxmMXTKdbOMCunnnrWk"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "LIGHTS FLASH IN MY EYES",
+      "url": "https://open.spotify.com/track/0Wzbg3Ak8N6Yrg1cgUe30q"
+    },
+    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "Oye Manita",
@@ -2063,22 +2079,6 @@
       "duration_ms": 131250,
       "name": "Oye Manita",
       "url": "https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9"
-    },
-    {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "Bangarang",
-        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Bangarang",
-      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2123,6 +2123,42 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "duration_ms": 167633,
+      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Off The Hook",
         "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
       },
@@ -2155,42 +2191,6 @@
       "duration_ms": 200712,
       "name": "BABYLON",
       "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
-        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
-        }
-      ],
-      "duration_ms": 167633,
-      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
-      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 140624,
       "name": "Sound of da Police",
       "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
     },
     {
       "added_at": "2026-01-09 16:39:37",

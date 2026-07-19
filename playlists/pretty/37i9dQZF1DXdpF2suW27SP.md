@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > LEO2745 entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,053 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,054 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [AfterHours](https://open.spotify.com/track/1liMuad86a8bz9IqisJGWJ) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [AfterHours](https://open.spotify.com/album/1A3KgyELfj7Npb3zZAeBJU) | 2:56 |
 | 70 | [AMANHÃ TRABALHAS](https://open.spotify.com/track/5YWEif2g5ZlaP1qqz7Ytra) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [B1](https://open.spotify.com/artist/5v1vIsZCUl7WPhVzhsyquv), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [AMANHÃ TRABALHAS](https://open.spotify.com/album/7lWoaxJ11avux4ChkF93XT) | 3:10 |
 
-Snapshot ID: `AAAAAIjluI1IgLWnpfeqRYUQbRGTSq9+`
+Snapshot ID: `AAAAAMUpG6+Viqv8NBVxSwPO1wwLI2RL`

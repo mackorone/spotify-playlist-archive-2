@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-249 songs - 18 hr 35 min
+251 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Clementine](https://open.spotify.com/track/2CbCBgI5XgzcQ0NiNIRkmm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 2:40 | 2023-09-25 |  |
 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 | 2022-09-08 |  |
 | [Congo Square](https://open.spotify.com/track/6VyjJ9aklXIyIdYuNr9vMc) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Laika](https://open.spotify.com/artist/1x7QlgJUVrLv1SSyeknnJq) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:47 | 2022-09-08 |  |
+| [Cue's Blue Noe](https://open.spotify.com/track/4hjKdJ4jfpYVIIOuMIGJMy) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Classics by Billy Strayhorn, Vol\. 1](https://open.spotify.com/album/1ObPYLjXyABeJNCVVUDOaH) | 10:06 | 2026-07-18 |  |
 | [Day Dream](https://open.spotify.com/track/30UOF78PgVxrIY9VWubzzz) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 5:25 | 2022-09-08 | 2022-10-03 |
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-09-08 | 2026-06-20 |
 | [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 | 2022-10-02 |  |
@@ -167,8 +168,9 @@
 | [Orson](https://open.spotify.com/track/2oKMb55RKeEfMqUnL7sMsZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:52 | 2022-09-08 |  |
 | [Paradise](https://open.spotify.com/track/42sWDtFKf9tWByohvmKokH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:13 | 2022-09-08 |  |
 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 | 2022-09-08 |  |
+| [Passion Flower](https://open.spotify.com/track/7moptFxhLMCEBZZAumSKjq) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:42 | 2026-07-18 |  |
 | [Passion Flower](https://open.spotify.com/track/5j5zeHWqdXWybCCIowBM6G) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 3:06 | 2026-06-19 | 2026-07-12 |
-| [Passion Flower](https://open.spotify.com/track/2mfpGIGrScpKgWrhxPnn5E) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Meet Oliver Nelson](https://open.spotify.com/album/27wtPwpJTg1cU1Arz98D4o) | 6:50 | 2026-07-11 |  |
+| [Passion Flower](https://open.spotify.com/track/2mfpGIGrScpKgWrhxPnn5E) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Meet Oliver Nelson](https://open.spotify.com/album/27wtPwpJTg1cU1Arz98D4o) | 6:50 | 2026-07-11 | 2026-07-19 |
 | [Passion Flower \- Instrumental](https://open.spotify.com/track/0O727spQJQDjTLEBnnchAG) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Roy Haynes](https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo) | [Wanton Spirit With Charlie Haden And Roy Haynes](https://open.spotify.com/album/014Yi62dTNyZsmXlTsU4zj) | 7:36 | 2022-09-08 |  |
 | [Pentonsilic](https://open.spotify.com/track/4z6uEbBkt5mV4YXqykCrSV) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 11:56 | 2022-09-08 |  |
 | [Pomegranate](https://open.spotify.com/track/3lLtXQWEAsiohpXyVl9o36) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:56 | 2022-09-08 |  |

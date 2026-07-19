@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\.  Cover: Xenia Manasseh
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\.  Cover: Njerae
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,807 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,835 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mbuzi](https://open.spotify.com/track/1SzKFZl29eYYOodwIQOtDO) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:09 |
-| 2 | [Tabasamu](https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Tabasamu](https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5) | 3:28 |
-| 3 | [Sasa Hivi](https://open.spotify.com/track/6qUhxq1OABIQjWhVsmI3CV) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 4:25 |
-| 4 | [Niwache](https://open.spotify.com/track/1LHYQ6x4I6DCbalbbyjBCP) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Lick Back](https://open.spotify.com/album/08DXRawHAxPzzamzypr5QU) | 2:52 |
-| 5 | [Options](https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [MAYBE II](https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv) | 3:42 |
-| 6 | [9 to 5](https://open.spotify.com/track/7MCcXsGunhdXUyMf1jsnuk) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 2:51 |
-| 7 | [Valentine](https://open.spotify.com/track/2YHRgKuVcX7BdqYX1qv4RU) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Valentine](https://open.spotify.com/album/1p6jjEyugFr6byxcPJOAnK) | 3:16 |
-| 8 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
-| 9 | [Aki Sioni](https://open.spotify.com/track/4OQFHjQA3gzS3LiGjSALmT) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Aki Sioni](https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr) | 3:03 |
+| 1 | [Aki Sioni](https://open.spotify.com/track/4OQFHjQA3gzS3LiGjSALmT) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Aki Sioni](https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr) | 3:03 |
+| 2 | [Mbuzi](https://open.spotify.com/track/1SzKFZl29eYYOodwIQOtDO) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:09 |
+| 3 | [Tabasamu](https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Tabasamu](https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5) | 3:28 |
+| 4 | [Sasa Hivi](https://open.spotify.com/track/6qUhxq1OABIQjWhVsmI3CV) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 4:25 |
+| 5 | [Niwache](https://open.spotify.com/track/1LHYQ6x4I6DCbalbbyjBCP) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Lick Back](https://open.spotify.com/album/08DXRawHAxPzzamzypr5QU) | 2:52 |
+| 6 | [Options](https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [MAYBE II](https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv) | 3:42 |
+| 7 | [9 to 5](https://open.spotify.com/track/7MCcXsGunhdXUyMf1jsnuk) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 2:51 |
+| 8 | [Valentine](https://open.spotify.com/track/2YHRgKuVcX7BdqYX1qv4RU) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Valentine](https://open.spotify.com/album/1p6jjEyugFr6byxcPJOAnK) | 3:16 |
+| 9 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
 | 10 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 |
 | 11 | [Fight For You](https://open.spotify.com/track/1h8UJllAoBEIjmTdPvCCvC) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word](https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF) | 3:12 |
 | 12 | [Rudia](https://open.spotify.com/track/6eKfO7SKMlrMLgo1SvsL4B) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [MAYBE II](https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 49 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 |
 | 50 | [Kitenge](https://open.spotify.com/track/2SYTN0287HIiXyqqO8EowW) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:18 |
 
-Snapshot ID: `AAAAAJEHQlyIGy0/aLxov1YLOAYv9jLj`
+Snapshot ID: `AAAAAF76NY3m/235FltEzKnDGtflCyVc`

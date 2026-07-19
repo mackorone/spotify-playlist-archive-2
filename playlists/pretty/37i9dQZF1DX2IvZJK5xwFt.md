@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,094 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,108 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Don't Tell Me It's Over](https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket \(25 Year Anniversary Edition\)](https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu) | 2:32 |
 | 75 | [Running Up That Hill](https://open.spotify.com/track/2jg7LvBk23JEwUNSkemL1I) | [Bobby Amaru](https://open.spotify.com/artist/34PG4GDHF9s9LxgaMKiIVk), [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Running Up That Hill](https://open.spotify.com/album/5c18gnE5jNZH4nB9IafiJ1) | 3:36 |
 
-Snapshot ID: `AAAAANDFzuxg2N8pXevC3Baj1EWAQ8Ki`
+Snapshot ID: `AAAAABLwFBWytKwmhCpSwZ7Z1sT5z1Mn`

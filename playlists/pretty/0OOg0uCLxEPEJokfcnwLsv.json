@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1168,
+  "num_followers": 1170,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGpsGI4rvYAO8sh8FUaaQCKAE3RV4C",
+  "snapshot_id": "AAAGqLnCY3k+JQS7X1ZhPzPkXhYBjG0G",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2083,6 +2083,38 @@
       "duration_ms": 216750,
       "name": "Garden",
       "url": "https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp"
+    },
+    {
+      "added_at": "2026-07-18 14:30:10",
+      "album": {
+        "name": "Little Demon",
+        "url": "https://open.spotify.com/album/6WUXUmnb4DMvyDKyfRg3W7"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "duration_ms": 227024,
+      "name": "Little Demon",
+      "url": "https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL"
+    },
+    {
+      "added_at": "2026-07-18 14:34:04",
+      "album": {
+        "name": "Dirty Water",
+        "url": "https://open.spotify.com/album/0nDu8Onvw6twzghMc55BiA"
+      },
+      "artists": [
+        {
+          "name": "Dave Christen",
+          "url": "https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dirty Water",
+      "url": "https://open.spotify.com/track/5G2BUm8AtT8toVdU6qV544"
     }
   ],
   "unique_name": "Unsigned Rock",

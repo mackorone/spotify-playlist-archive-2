@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137305,
+  "num_followers": 137308,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "A Dan\u00e7a do Mundo",
+        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 202209,
+      "name": "Tibeth\u00e2nica",
+      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "SalDoce",
         "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "A Dan\u00e7a do Mundo",
-        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 202209,
-      "name": "Tibeth\u00e2nica",
-      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
+      "duration_ms": 237306,
+      "name": "Entretanto",
+      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -891,22 +907,6 @@
       "duration_ms": 275333,
       "name": "Apesar de Voc\u00ea",
       "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Minha Cara",
-        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Entretanto",
-      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
     },
     {
       "added_at": "2025-12-05 19:00:22",

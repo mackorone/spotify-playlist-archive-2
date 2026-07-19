@@ -1,6 +1,6 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 162278,
+  "num_followers": 162614,
   "original_name": "Calming Nature Music",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Temple of Wisdom",
-        "url": "https://open.spotify.com/album/77K6oTNgMz5Q6LOfF7Lysx"
-      },
-      "artists": [
-        {
-          "name": "Chasing Storms",
-          "url": "https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Temple of Wisdom",
-      "url": "https://open.spotify.com/track/422zAkZWnFYsYBKBEz4ETV"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Rebalanced",
         "url": "https://open.spotify.com/album/58zk4RDP4DnF1nObrEpn8L"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 169190,
       "name": "Rebalanced",
       "url": "https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Temple of Wisdom",
+        "url": "https://open.spotify.com/album/77K6oTNgMz5Q6LOfF7Lysx"
+      },
+      "artists": [
+        {
+          "name": "Chasing Storms",
+          "url": "https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Temple of Wisdom",
+      "url": "https://open.spotify.com/track/422zAkZWnFYsYBKBEz4ETV"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Peaceful Oasis",
-        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
-      },
-      "artists": [
-        {
-          "name": "Harlow Moss",
-          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Peaceful Oasis",
-      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Garden of Hope",
         "url": "https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 176366,
       "name": "Garden of Hope",
       "url": "https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Peaceful Oasis",
+        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
+      },
+      "artists": [
+        {
+          "name": "Harlow Moss",
+          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Peaceful Oasis",
+      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "meloh",
-        "url": "https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd"
-      },
-      "artists": [
-        {
-          "name": "Julio Raass",
-          "url": "https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "meloh",
-      "url": "https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Autonara",
         "url": "https://open.spotify.com/album/0QIEJuKkMKaikayK0gUarO"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Nemuru",
-        "url": "https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS"
+        "name": "meloh",
+        "url": "https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd"
       },
       "artists": [
         {
-          "name": "Aydols",
-          "url": "https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv"
+          "name": "Julio Raass",
+          "url": "https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4"
         }
       ],
-      "duration_ms": 168785,
-      "name": "Nemuru",
-      "url": "https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz"
+      "duration_ms": 180000,
+      "name": "meloh",
+      "url": "https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -763,6 +747,22 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
+        "name": "Nemuru",
+        "url": "https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS"
+      },
+      "artists": [
+        {
+          "name": "Aydols",
+          "url": "https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv"
+        }
+      ],
+      "duration_ms": 168785,
+      "name": "Nemuru",
+      "url": "https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
         "name": "Floe",
         "url": "https://open.spotify.com/album/7KeNkCZ64bAfBaRXgUa0IU"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 160077,
       "name": "Floe",
       "url": "https://open.spotify.com/track/2mdsmyXRZGdzogMfDmTnf4"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Iuxta Flumen",
+        "url": "https://open.spotify.com/album/7GpF75n8t9V3NHem6TnWZH"
+      },
+      "artists": [
+        {
+          "name": "Caius Biel",
+          "url": "https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq"
+        }
+      ],
+      "duration_ms": 149189,
+      "name": "Iuxta Flumen",
+      "url": "https://open.spotify.com/track/7tnqtHCzE2MZaTsYdpn2l4"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -807,22 +823,6 @@
       "duration_ms": 143452,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/1fwZhkpRv1Y268qIPIc8jb"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
-        "name": "Iuxta Flumen",
-        "url": "https://open.spotify.com/album/7GpF75n8t9V3NHem6TnWZH"
-      },
-      "artists": [
-        {
-          "name": "Caius Biel",
-          "url": "https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq"
-        }
-      ],
-      "duration_ms": 149189,
-      "name": "Iuxta Flumen",
-      "url": "https://open.spotify.com/track/7tnqtHCzE2MZaTsYdpn2l4"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Mystic Nature",
-        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
-      },
-      "artists": [
-        {
-          "name": "Dawe Natauk",
-          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
-        }
-      ],
-      "duration_ms": 202789,
-      "name": "Mystic Nature",
-      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Drifted Roots",
         "url": "https://open.spotify.com/album/5qFw7xLFqM8smKkcSQAXbP"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 167773,
       "name": "Drifted Roots",
       "url": "https://open.spotify.com/track/0bHg0FMaPM01Nfw7dc1JuH"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Live from Nature",
-        "url": "https://open.spotify.com/album/7LZsm151E7Nj3W74AIsw9p"
-      },
-      "artists": [
-        {
-          "name": "Center of Attention",
-          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
-        }
-      ],
-      "duration_ms": 133428,
-      "name": "The Breathing Woods",
-      "url": "https://open.spotify.com/track/72xNutGVljPsyIjn0GiODR"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Areal",
         "url": "https://open.spotify.com/album/7jFuzAjDvq7uMGZuofQL10"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 154153,
       "name": "Areal",
       "url": "https://open.spotify.com/track/3KDp84OrH2TLsjs85tS37b"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Live from Nature",
+        "url": "https://open.spotify.com/album/7LZsm151E7Nj3W74AIsw9p"
+      },
+      "artists": [
+        {
+          "name": "Center of Attention",
+          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
+        }
+      ],
+      "duration_ms": 133428,
+      "name": "The Breathing Woods",
+      "url": "https://open.spotify.com/track/72xNutGVljPsyIjn0GiODR"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Blue River Hills",
-        "url": "https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9"
-      },
-      "artists": [
-        {
-          "name": "Nolan West",
-          "url": "https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "Blue River Hills",
-      "url": "https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Inner Stream",
         "url": "https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 141000,
       "name": "Inner Stream",
       "url": "https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Blue River Hills",
+        "url": "https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9"
+      },
+      "artists": [
+        {
+          "name": "Nolan West",
+          "url": "https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "Blue River Hills",
+      "url": "https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Mama Nature",
-        "url": "https://open.spotify.com/album/3upxOhPupKRO3raIHyjl5v"
-      },
-      "artists": [
-        {
-          "name": "Aisher Rami",
-          "url": "https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ"
-        }
-      ],
-      "duration_ms": 177237,
-      "name": "Mama Nature",
-      "url": "https://open.spotify.com/track/2CEBHHT6BzgFKYhBssqqQg"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Lunar Serenade 432Hz",
         "url": "https://open.spotify.com/album/7hJvjekmC9YgzSwhsw7deN"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 161538,
       "name": "Lunar Serenade 432Hz",
       "url": "https://open.spotify.com/track/6LjnYMLTLIlJWt2gsqabia"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Mama Nature",
+        "url": "https://open.spotify.com/album/3upxOhPupKRO3raIHyjl5v"
+      },
+      "artists": [
+        {
+          "name": "Aisher Rami",
+          "url": "https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ"
+        }
+      ],
+      "duration_ms": 177237,
+      "name": "Mama Nature",
+      "url": "https://open.spotify.com/track/2CEBHHT6BzgFKYhBssqqQg"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Evening",
-        "url": "https://open.spotify.com/album/2kFHJtAsoZBCkGN7NnzZX3"
-      },
-      "artists": [
-        {
-          "name": "Solace Sonique",
-          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
-        }
-      ],
-      "duration_ms": 130200,
-      "name": "Evening",
-      "url": "https://open.spotify.com/track/52afCNwqDO3OrW8kKXTIFb"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Blue Spruce",
         "url": "https://open.spotify.com/album/2yQbp9WEyvRS2YUGfEAvNY"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 187472,
       "name": "Blue Spruce",
       "url": "https://open.spotify.com/track/64pSoTFsckMZnV691Ya4wJ"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/2kFHJtAsoZBCkGN7NnzZX3"
+      },
+      "artists": [
+        {
+          "name": "Solace Sonique",
+          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
+        }
+      ],
+      "duration_ms": 130200,
+      "name": "Evening",
+      "url": "https://open.spotify.com/track/52afCNwqDO3OrW8kKXTIFb"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "White Flowers",
-        "url": "https://open.spotify.com/album/0IRSWDX59yB3c7uk8DAeyA"
-      },
-      "artists": [
-        {
-          "name": "Mzarta Brokin",
-          "url": "https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf"
-        }
-      ],
-      "duration_ms": 132291,
-      "name": "White Flowers",
-      "url": "https://open.spotify.com/track/0xXfwIlYs3QqNf6DhGfb05"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Birds of Lydia",
         "url": "https://open.spotify.com/album/4x9TbSI7FAwZlBLJ8NU1PC"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 196000,
       "name": "Birds of Lydia",
       "url": "https://open.spotify.com/track/0zBQMEzF6difdESPGXREV4"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "White Flowers",
+        "url": "https://open.spotify.com/album/0IRSWDX59yB3c7uk8DAeyA"
+      },
+      "artists": [
+        {
+          "name": "Mzarta Brokin",
+          "url": "https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf"
+        }
+      ],
+      "duration_ms": 132291,
+      "name": "White Flowers",
+      "url": "https://open.spotify.com/track/0xXfwIlYs3QqNf6DhGfb05"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Sunsetting",
-        "url": "https://open.spotify.com/album/3a1PQuzVvnrHnRRGCwVcuy"
-      },
-      "artists": [
-        {
-          "name": "Knot Released",
-          "url": "https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY"
-        }
-      ],
-      "duration_ms": 164549,
-      "name": "Sunsetting",
-      "url": "https://open.spotify.com/track/04vrvXLHpkdb1D99CAhNf6"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Timeless Voyage",
         "url": "https://open.spotify.com/album/1NN4Jw81N8enQMJU8bGpqr"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 154000,
       "name": "Timeless Voyage",
       "url": "https://open.spotify.com/track/7tGzD3aIB69OOnOO65Cwhs"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Sunsetting",
+        "url": "https://open.spotify.com/album/3a1PQuzVvnrHnRRGCwVcuy"
+      },
+      "artists": [
+        {
+          "name": "Knot Released",
+          "url": "https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY"
+        }
+      ],
+      "duration_ms": 164549,
+      "name": "Sunsetting",
+      "url": "https://open.spotify.com/track/04vrvXLHpkdb1D99CAhNf6"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "softly softly",
-        "url": "https://open.spotify.com/album/0InMpm8lvLDcfj8Mw5RHSG"
-      },
-      "artists": [
-        {
-          "name": "Lierre",
-          "url": "https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku"
-        }
-      ],
-      "duration_ms": 144137,
-      "name": "softly softly",
-      "url": "https://open.spotify.com/track/6QHbTSoQOh8VRwt56OWuNK"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Twilight Ember",
         "url": "https://open.spotify.com/album/5YPDmWNtnH05iCOANQZxqx"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 170689,
       "name": "Twilight Ember",
       "url": "https://open.spotify.com/track/5ctfiQGXKTJZzmTLY3kbIN"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "softly softly",
+        "url": "https://open.spotify.com/album/0InMpm8lvLDcfj8Mw5RHSG"
+      },
+      "artists": [
+        {
+          "name": "Lierre",
+          "url": "https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku"
+        }
+      ],
+      "duration_ms": 144137,
+      "name": "softly softly",
+      "url": "https://open.spotify.com/track/6QHbTSoQOh8VRwt56OWuNK"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Wisdom in Waves",
-        "url": "https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5"
-      },
-      "artists": [
-        {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Wisdom in Waves",
-      "url": "https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/3WEaYyzm7R1aCw2Tr5JJy6"
       },
@@ -1871,6 +1855,22 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
+        "name": "Wisdom in Waves",
+        "url": "https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Wisdom in Waves",
+      "url": "https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
         "name": "Stilled Air",
         "url": "https://open.spotify.com/album/1TLRQyzf4CiddoZaqiNJg8"
       },
@@ -1883,22 +1883,6 @@
       "duration_ms": 181583,
       "name": "Stilled Air",
       "url": "https://open.spotify.com/track/4CpKfxg0gFEO7MpcgXXShr"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
-        "name": "Among the Trees",
-        "url": "https://open.spotify.com/album/44da8CCGVhjzH4EBEMp0Bi"
-      },
-      "artists": [
-        {
-          "name": "Mossfrid",
-          "url": "https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy"
-        }
-      ],
-      "duration_ms": 188636,
-      "name": "Among the Trees",
-      "url": "https://open.spotify.com/track/7kdIJsL9I72X4HA4ySTxsJ"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Mellow Effulgence",
-        "url": "https://open.spotify.com/album/3uhf93g4Y8sDPQQP7vpUy8"
+        "name": "Among the Trees",
+        "url": "https://open.spotify.com/album/44da8CCGVhjzH4EBEMp0Bi"
       },
       "artists": [
         {
-          "name": "Felix Dekker",
-          "url": "https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL"
+          "name": "Mossfrid",
+          "url": "https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy"
         }
       ],
-      "duration_ms": 153669,
-      "name": "Mellow Effulgence",
-      "url": "https://open.spotify.com/track/33PAD7a3vuJfOkAy351o3G"
+      "duration_ms": 188636,
+      "name": "Among the Trees",
+      "url": "https://open.spotify.com/track/7kdIJsL9I72X4HA4ySTxsJ"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1951,18 +1935,18 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Imaginations",
-        "url": "https://open.spotify.com/album/1qtaFw9D2LjV88OogD6JIQ"
+        "name": "Mellow Effulgence",
+        "url": "https://open.spotify.com/album/3uhf93g4Y8sDPQQP7vpUy8"
       },
       "artists": [
         {
-          "name": "Jnana Flow",
-          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
+          "name": "Felix Dekker",
+          "url": "https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL"
         }
       ],
-      "duration_ms": 167692,
-      "name": "Imaginations",
-      "url": "https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW"
+      "duration_ms": 153669,
+      "name": "Mellow Effulgence",
+      "url": "https://open.spotify.com/track/33PAD7a3vuJfOkAy351o3G"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1979,6 +1963,22 @@
       "duration_ms": 154000,
       "name": "Enchanted Sonata",
       "url": "https://open.spotify.com/track/18SdEvypE4zZjqgHiECdXu"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Imaginations",
+        "url": "https://open.spotify.com/album/1qtaFw9D2LjV88OogD6JIQ"
+      },
+      "artists": [
+        {
+          "name": "Jnana Flow",
+          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "Imaginations",
+      "url": "https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW"
     },
     {
       "added_at": "2026-06-18 15:22:41",

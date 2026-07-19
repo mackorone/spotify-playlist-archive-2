@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-171 songs - 12 hr 59 min
+172 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Juventude Actual](https://open.spotify.com/track/4IaQs3UZ9M7xIx4qIVVDQB) | [Sam Mangwana](https://open.spotify.com/artist/2p7l0MAzxkEwRHgtCcLVFB), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lubamba](https://open.spotify.com/album/2gGtpY3immTLCzAYR2kter) | 3:52 | 2022-10-12 | 2023-09-22 |
 | [Kamer Lion](https://open.spotify.com/track/09iL4gDXyDbQiFZd0A75mP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Slim Pezin](https://open.spotify.com/artist/1g8NXo2ny4jfebf55BwY1z), [Chantal Ayissi](https://open.spotify.com/artist/5IqR92nQBNNbxhOByISy3n) | [Past Present Future \(French version\)](https://open.spotify.com/album/3z8UgxUtuEumt2Hj6pUMEF) | 0:58 | 2022-11-06 | 2023-01-29 |
 | [Kamulango](https://open.spotify.com/track/1s8XzRjnsigutXYDvRsdcI) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Merci ! Thank You !, Vol\. 1](https://open.spotify.com/album/2YcPmYfonftIokdUZu2e0Y) | 2:41 | 2025-01-04 | 2026-06-11 |
-| [Kwele](https://open.spotify.com/track/4PYyBVUmrP9Rs7i0ire14N) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wolves of Africa Part \(1/2\)](https://open.spotify.com/album/0S7d8pQYnM3UL5NS5d9vKY) | 3:21 | 2026-02-04 |  |
+| [Kwele](https://open.spotify.com/track/4PYyBVUmrP9Rs7i0ire14N) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wolves of Africa Part \(1/2\)](https://open.spotify.com/album/0S7d8pQYnM3UL5NS5d9vKY) | 3:21 | 2026-02-04 | 2026-07-19 |
 | [Kwele](https://open.spotify.com/track/77mPkxBLi0zaYGorJTWs9Y) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 3:21 | 2024-08-03 | 2026-01-24 |
 | [Lagos Go Slow](https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:48 | 2021-12-28 | 2024-01-06 |
 | [Lagos Go Slow](https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Woodoo](https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv) | 3:50 | 2024-02-05 |  |
@@ -101,6 +101,7 @@
 | [Maladie d'amour](https://open.spotify.com/track/4bDB0hu8475WvhjMw1jXcN) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Jacob Desvarieux](https://open.spotify.com/artist/3rF9KKd6aPZvLa2NbQsiKH) | [Balade en Saxo](https://open.spotify.com/album/4DJqtm93qTlJk2jEynoocr) | 3:28 | 2026-05-06 | 2026-06-03 |
 | [Manga Bolo](https://open.spotify.com/track/1HLgT7DvHzZ7JvEdXrgWCg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 5:43 | 2022-04-05 | 2022-04-07 |
 | [Marabout](https://open.spotify.com/track/4oQPy612SNhvUOABRL1eoA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Marabout](https://open.spotify.com/album/1iSYAl8J4OCu4ca3LrPjG3) | 6:22 | 2026-06-14 |  |
+| [Matumba](https://open.spotify.com/track/6M2b0wI176DMm7Gcld7sKE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Matumba](https://open.spotify.com/album/7we1iGn3aoWir5NvaxA1eo) | 4:36 | 2026-07-19 |  |
 | [Mboa](https://open.spotify.com/track/2RCNYsMZoiX14c3TNCGw46) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:53 | 2022-01-04 | 2022-10-14 |
 | [Mboa Su](https://open.spotify.com/track/0QuidPUEQSwbek3BHVojrr) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M Boa Su](https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP) | 4:27 | 2026-04-05 | 2026-06-17 |
 | [Mboa'Su](https://open.spotify.com/track/7eTdBZfn6na3YwbG2Hjdnx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa'Su \(kamer feelin\)](https://open.spotify.com/album/3qFfN7MgFmCKzEbCKuuYEb) | 4:27 | 2023-04-29 | 2023-07-12 |

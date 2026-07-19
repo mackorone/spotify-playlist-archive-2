@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! To\u00f1o Lizarraga \ud83d\udcf8",
-  "num_followers": 1302598,
+  "num_followers": 1302599,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Me Las Dijo El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Se Cancela",
-      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Aunque me duela",
         "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 228017,
       "name": "Aunque me duela",
       "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Me Las Dijo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Se Cancela",
+      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 152908,
       "name": "Fuiste Mi Todo",
       "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "En Vivo Desde La Oficina",
+        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 144370,
+      "name": "Copa de Vino",
+      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Como Este Loco",
         "url": "https://open.spotify.com/album/67FAnc1ZeFv7B7gv5MFvxa"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 215068,
       "name": "Como Este Loco",
       "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "En Vivo Desde La Oficina",
-        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 144370,
-      "name": "Copa de Vino",
-      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Lo Pasado Pisado",
-        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Lo Pasado Pisado",
-      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "\u00a1Que Viva Antonio Aguilar!",
         "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+        "name": "Lo Pasado Pisado",
+        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
         }
       ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+      "duration_ms": 185250,
+      "name": "Lo Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -975,6 +959,22 @@
       "duration_ms": 209000,
       "name": "Sonri\u00e9ndole A La Vida - En Vivo",
       "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Un D\u00eda Como Hoy",
-        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171175,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Ya Se Muri\u00f3",
         "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 235091,
       "name": "Ya Se Muri\u00f3",
       "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Se Nos Acab\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
-      },
-      "artists": [
-        {
-          "name": "Banda Playa Grande",
-          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Se Nos Acab\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Y Sigues Siendo T\u00fa",
         "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 162911,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Se Nos Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
+      },
+      "artists": [
+        {
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Se Nos Acab\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Si No Me Querias",
-        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 231780,
-      "name": "Si No Me Querias",
-      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Si No Me Querias",
+        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 231780,
+      "name": "Si No Me Querias",
+      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 244650,
-      "name": "Tu Ex Amigo",
-      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
         "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 340016,
       "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
       "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 244650,
+      "name": "Tu Ex Amigo",
+      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
     },
     {
       "added_at": "2026-07-10 06:00:44",

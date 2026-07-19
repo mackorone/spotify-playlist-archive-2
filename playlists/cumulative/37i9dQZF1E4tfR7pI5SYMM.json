@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "All We Left Behind",
+        "url": "https://open.spotify.com/album/3kXKBmGIpZhFK3Y91Cq6u9"
+      },
+      "artists": [
+        {
+          "name": "The Slow Day",
+          "url": "https://open.spotify.com/artist/5Kl7548U8wBj1g3YSnsfZt"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376434,
+      "name": "All We Left Behind",
+      "url": "https://open.spotify.com/track/6Ml4ajqmSgttKOn3nntR8m"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Angels and Demons",
       "url": "https://open.spotify.com/track/3YdXRS9Mecl4G97R11yTkl"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 178190,
       "name": "Bara mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/0tBXwBmJl2wOIzSsnXrFOa"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 235589,
       "name": "Elden",
       "url": "https://open.spotify.com/track/5VcS5mmrBi7LJCTvN6N3oc"
@@ -3550,7 +3568,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 148871,
       "name": "En MC-\u00e5kares liv och d\u00f6d",
       "url": "https://open.spotify.com/track/4tHzyWuyZUMICSd7trB58P"
@@ -3896,7 +3914,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 192214,
       "name": "Farlig",
       "url": "https://open.spotify.com/track/7iJWmbm3MOQrJt2GTqbG0r"
@@ -4732,7 +4750,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -5112,7 +5130,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -5184,7 +5202,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 190080,
       "name": "Henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/3ZkTnTIwiOP5PZ9SQLgUdH"
@@ -6038,7 +6056,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -8248,7 +8266,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -8410,7 +8428,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 185624,
       "name": "New Zealand Code Red Blues",
       "url": "https://open.spotify.com/track/6zsv6QmRXCFv4BPmZOteEZ"
@@ -8652,7 +8670,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -9100,7 +9118,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -9428,7 +9446,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 351146,
       "name": "Passage",
       "url": "https://open.spotify.com/track/3i5lFBoCIBlBoo54xIj3gF"
@@ -9482,7 +9500,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 130000,
       "name": "Penger",
       "url": "https://open.spotify.com/track/3nW6IQCKryhAYgTnsk0zVr"
@@ -10738,10 +10756,28 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 198102,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3FrM4fosCGq1Sg2boHHSWj"
+    },
+    {
+      "album": {
+        "name": "Sinnsyke Sanger",
+        "url": "https://open.spotify.com/album/1ciYPGKf7tAwn9JToXMLyB"
+      },
+      "artists": [
+        {
+          "name": "Svigermors Dr\u00f8m",
+          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200086,
+      "name": "Sinnsyke Sanger",
+      "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
     },
     {
       "album": {
@@ -10918,7 +10954,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -10994,6 +11030,24 @@
       "duration_ms": 462653,
       "name": "Sol Invictus",
       "url": "https://open.spotify.com/track/7MNqZBHxIIUG49zlppn903"
+    },
+    {
+      "album": {
+        "name": "Solar Plexus",
+        "url": "https://open.spotify.com/album/0lPAdq2Nvw6bxgpw6APRwL"
+      },
+      "artists": [
+        {
+          "name": "Drakenberg",
+          "url": "https://open.spotify.com/artist/7LTe0sV1TKrCkV68cpX3mm"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242067,
+      "name": "Solar Plexus",
+      "url": "https://open.spotify.com/track/4MOuNW1ZLeGJGk66dW1j6U"
     },
     {
       "album": {
@@ -11484,7 +11538,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 207623,
       "name": "Stum tystnad",
       "url": "https://open.spotify.com/track/4fTHAUI2k7UbwRZrFIapmU"
@@ -12162,7 +12216,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -12378,7 +12432,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 298320,
       "name": "The Loneliest Place",
       "url": "https://open.spotify.com/track/21y9EJHV1INbYDAvJkzDzP"
@@ -13752,7 +13806,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -14748,7 +14802,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 129210,
       "name": "You Wanted War",
       "url": "https://open.spotify.com/track/77IBEDDiQn7theCjCciL4v"
@@ -14972,7 +15026,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 217667,
       "name": "Zwischen Dreck Und Licht",
       "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"
@@ -15008,7 +15062,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 368713,
       "name": "\u00cd Huldusal",
       "url": "https://open.spotify.com/track/6vSOZthE9SZvjJiiJPgIbQ"

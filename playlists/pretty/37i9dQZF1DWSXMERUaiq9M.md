@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,090 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,627 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 40 | [Make It Bounce](https://open.spotify.com/track/4a11jmFi30269xDsvA8r5T) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Make It Bounce](https://open.spotify.com/album/0sFFmEXtIVT4YvguLcZ5LA) | 2:09 |
 | 41 | [Pumpin](https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pumpin](https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM) | 3:31 |
 | 42 | [Mina Loca](https://open.spotify.com/track/5GaMXeguJikI3iPGCDRFGc) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Rave Therapy EP](https://open.spotify.com/album/5N9VpXOMeh0BJSWbRXPuM6) | 2:48 |
-| 43 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
+| 43 | [Walk \(feat\. Kwabs\)](https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Walk \(feat\. Kwabs\)](https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN) | 2:19 |
 | 44 | [Get Ur Freak On](https://open.spotify.com/track/5YqUFD4Nx1g6bNQJLjwVaz) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Get Ur Freak On](https://open.spotify.com/album/2kMhcYHEV94Q4iUmbhg5Mx) | 2:04 |
-| 45 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
+| 45 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
 | 46 | [Better With You](https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [KIMI](https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4) | [Better With You](https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO) | 3:31 |
-| 47 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
+| 47 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 48 | [Nur Wegen Dir](https://open.spotify.com/track/41o7G3adNC1fBw1k652Cwv) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Nur Wegen Dir](https://open.spotify.com/album/0b2mvyhHnaTxodv8CmhdES) | 3:21 |
-| 49 | [Walk \(feat\. Kwabs\)](https://open.spotify.com/track/38V33Xqt4FUwrtMbJozXK4) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Walk \(feat\. Kwabs\)](https://open.spotify.com/album/4sdOjJNd4xXgRQ3tOeWWEN) | 2:19 |
+| 49 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
 | 50 | [Lost](https://open.spotify.com/track/6BsCZ4Ufsg8pOwi39xbpPN) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lost](https://open.spotify.com/album/3xMa0YI3f57Bwe6k5mlajV) | 3:06 |
 | 51 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
 | 52 | [Nokia](https://open.spotify.com/track/1eTrlwomm1doXZJQ7dKPUM) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [Nokia](https://open.spotify.com/album/6tM1eD2UjRMeHC1s2BH9Kn) | 5:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 664242,
+  "num_followers": 664319,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -119,18 +119,18 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+      "duration_ms": 227369,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -151,18 +151,18 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 227369,
-      "name": "Hino da Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 319924,
+      "name": "Faz Um Milagre em Mim",
+      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 447960,
-      "name": "Restitui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
+        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T"
       },
       "artists": [
         {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 319924,
-      "name": "Faz Um Milagre em Mim",
-      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
+      "duration_ms": 447960,
+      "name": "Restitui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD"
     },
     {
       "added_at": "2025-10-17 18:07:08",

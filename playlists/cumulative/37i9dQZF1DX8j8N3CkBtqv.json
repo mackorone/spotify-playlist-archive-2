@@ -3077,6 +3077,28 @@
     },
     {
       "album": {
+        "name": "Baebo",
+        "url": "https://open.spotify.com/album/5YlMtNplWS8oMGlON23E5W"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        },
+        {
+          "name": "Anmol Salh",
+          "url": "https://open.spotify.com/artist/3s4qjRqGggLI6gRiEefxDw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Baebo",
+      "url": "https://open.spotify.com/track/4HYkpGxtJLYhnlJk3Uqa4Y"
+    },
+    {
+      "album": {
         "name": "Friday Night Plan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tcYcevPh9JYTtznxgUE4S"
       },
@@ -17142,7 +17164,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 179465,
       "name": "Life and Times of Pinocchio",
       "url": "https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK"

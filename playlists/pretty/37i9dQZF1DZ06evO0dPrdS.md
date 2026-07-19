@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,097 likes - 40 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,106 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 | 33 | [Feed Your Love \- Demo](https://open.spotify.com/track/7aKBMW87CsSfE5GJB8rOHF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Wannabe 25](https://open.spotify.com/album/1tFyfGyTsrI95m2xBUjczL) | 5:13 |
 | 34 | [Ain't No Stopping Us Now](https://open.spotify.com/track/3dtI8i1u14msA8noqVucZ2) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Stop](https://open.spotify.com/album/2SkOJGyLKB4B7u4LBQXnGl) | 4:56 |
 | 35 | [Spice Girls Party Mix](https://open.spotify.com/track/0b6QDY3DSV733KWYX6yWTU) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 14:44 |
-| 36 | [One Of These Girls](https://open.spotify.com/track/7a901tm0xql6ytmNPIkS1C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 3:33 |
-| 37 | [We Are Family \- Live From Wembley Stadium, UK /1998](https://open.spotify.com/track/0SnF7B4aTiEg1xRsWeqcWe) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 3:34 |
+| 36 | [We Are Family \- Live From Wembley Stadium, UK /1998](https://open.spotify.com/track/0SnF7B4aTiEg1xRsWeqcWe) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 3:34 |
+| 37 | [One Of These Girls](https://open.spotify.com/track/7a901tm0xql6ytmNPIkS1C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 3:33 |
 | 38 | [Spice Invaders](https://open.spotify.com/track/08DJaUZjWzdRhr9EIdEgg0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice Up Your Life](https://open.spotify.com/album/4XIOBbf2ELRI4NHelbxRCq) | 3:38 |
-| 39 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 |
-| 40 | [Sisters \(Are Doing It For Themselves\) \- Live From Wembley Stadium, UK / 1998](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 |
+| 39 | [Sisters \(Are Doing It For Themselves\) \- Live From Wembley Stadium, UK / 1998](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 |
+| 40 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 |
 
-Snapshot ID: `algfAAAAAADhTgn3Iq+XFrXUjmC9bnAC`
+Snapshot ID: `allwgAAAAAC0OFScXPf14fVYBMY4dJAw`

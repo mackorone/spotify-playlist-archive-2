@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
-  "num_followers": 542457,
+  "num_followers": 542406,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "SALUDITOS A LOS EX",
+        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
+      },
+      "artists": [
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "SALUDITOS A LOS EX",
+      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Hazy x Ti",
         "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
-        "name": "SALUDITOS A LOS EX",
-        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
-      },
-      "artists": [
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "SALUDITOS A LOS EX",
-      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 112500,
       "name": "Cuando Yo Fui Tu Clavel",
       "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Oda",
         "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 224798,
       "name": "oda",
       "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Para tu",
-        "url": "https://open.spotify.com/album/4SO9zx0X5TtvHHHAdWCpOj"
-      },
-      "artists": [
-        {
-          "name": "Lalo San",
-          "url": "https://open.spotify.com/artist/3fHQGl6g2gODc8e9iKDmxr"
-        }
-      ],
-      "duration_ms": 186166,
-      "name": "Para tu",
-      "url": "https://open.spotify.com/track/0xSIPnktUNBmTtE4xrmfXJ"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Para tu",
+        "url": "https://open.spotify.com/album/4SO9zx0X5TtvHHHAdWCpOj"
+      },
+      "artists": [
+        {
+          "name": "Lalo San",
+          "url": "https://open.spotify.com/artist/3fHQGl6g2gODc8e9iKDmxr"
+        }
+      ],
+      "duration_ms": 186166,
+      "name": "Para tu",
+      "url": "https://open.spotify.com/track/0xSIPnktUNBmTtE4xrmfXJ"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "No me Importa",
-        "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        },
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "No Me Importa",
-      "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 232221,
       "name": "Idas y Vueltas",
       "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "No me Importa",
+        "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Aquellos Ojos Verdes",
         "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Maquiav\u00e9lico",
-        "url": "https://open.spotify.com/album/6CEZ6nXauK20afWpvCkoYf"
-      },
-      "artists": [
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Maquiav\u00e9lico",
-      "url": "https://open.spotify.com/track/6POa4yNzSmqQLoqnwKtngG"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Enclave de Bolero",
         "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 207997,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Maquiav\u00e9lico",
+        "url": "https://open.spotify.com/album/6CEZ6nXauK20afWpvCkoYf"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Maquiav\u00e9lico",
+      "url": "https://open.spotify.com/track/6POa4yNzSmqQLoqnwKtngG"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Jaque Mate",
-        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
-      },
-      "artists": [
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Jaque Mate",
-      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "nomeolvides",
         "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
       },
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Una Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Bolero Para El Que No Esper\u00f3",
-        "url": "https://open.spotify.com/album/1hnIdv3iAXrpEaasJABJOx"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Bolero Para El Que No Esper\u00f3",
-      "url": "https://open.spotify.com/track/2qgNQyXPhIgeIrX660JKKY"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 180933,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Bolero Para El Que No Esper\u00f3",
+        "url": "https://open.spotify.com/album/1hnIdv3iAXrpEaasJABJOx"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Bolero Para El Que No Esper\u00f3",
+      "url": "https://open.spotify.com/track/2qgNQyXPhIgeIrX660JKKY"
     },
     {
       "added_at": "2026-05-22 06:00:54",

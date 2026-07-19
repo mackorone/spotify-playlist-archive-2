@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-542 songs - 1 day 4 hr 37 min
+543 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Lost](https://open.spotify.com/track/5YLcn3phEgL6CPwZszT9Uu) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Lost](https://open.spotify.com/album/6IS8A4ifndtdmwvCY5r2rp) | 3:08 | 2022-05-27 | 2022-06-18 |
 | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok) | [KEVIN DAVE](https://open.spotify.com/artist/16Qu3P3jA0IIlZoKvY51q4), [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/album/2lTLB7ycN5uURBbRqf2pJs) | 3:15 | 2023-08-25 | 2023-09-09 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-04-21 | 2023-06-18 |
+| [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 | 2026-07-17 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-06-04 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-05-27 | 2024-03-30 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-06-04 |  |
@@ -298,7 +299,7 @@
 | [Léa](https://open.spotify.com/track/3fCaC9bSUH4dG24RhDYcba) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Léa](https://open.spotify.com/album/67woYgYe60Ig41gtjvPhfL) | 2:55 | 2025-06-13 | 2026-05-05 |
 | [L’ironie du sort](https://open.spotify.com/track/3bXmv3vHYHWdCaj3XnxsbS) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Le ciel est au plancher](https://open.spotify.com/album/6jjFXEMWjC8uFPyp9cUlQX) | 4:06 | 2022-05-27 | 2022-07-15 |
 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 | 2023-05-26 | 2024-03-30 |
-| [Ma chanson préférée](https://open.spotify.com/track/6TVJ1b2N8gFUa6HuEKqJ69) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Ma chanson préférée](https://open.spotify.com/album/7ar4ggbBmvZyrWXtT2EdpY) | 2:45 | 2026-05-22 |  |
+| [Ma chanson préférée](https://open.spotify.com/track/6TVJ1b2N8gFUa6HuEKqJ69) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Ma chanson préférée](https://open.spotify.com/album/7ar4ggbBmvZyrWXtT2EdpY) | 2:45 | 2026-05-22 | 2026-07-19 |
 | [Ma Way](https://open.spotify.com/track/5YUmEBCcg6hu8lpNegrZ7n) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Ma Way](https://open.spotify.com/album/4CdBkVYkTRu3IT2N4s5X8i) | 2:31 | 2022-05-27 | 2023-06-02 |
 | [Madame](https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Madame](https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P) | 1:58 | 2026-07-17 |  |
 | [Maison ouverte](https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif) | 3:59 | 2022-05-27 | 2022-06-16 |

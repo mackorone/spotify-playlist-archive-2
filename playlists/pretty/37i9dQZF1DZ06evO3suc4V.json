@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10956,
+  "num_followers": 10963,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAABa4XAKQyO379glljO/rf0b",
+  "snapshot_id": "allwgAAAAAC9vM0yQpUg+0L69JFLsWew",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Deep In The World",
+      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -707,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "Room 25",
+        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
       },
       "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 192373,
-      "name": "Deep In The World",
-      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
+      "duration_ms": 163616,
+      "name": "Montego Bae",
+      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
     },
     {
       "added_at": null,
@@ -739,26 +759,6 @@
       "duration_ms": 163796,
       "name": "Glo-Fi (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Room 25",
-        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163616,
-      "name": "Montego Bae",
-      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Blossom Dearie",
+      "url": "https://open.spotify.com/track/1Q9ya4CIJwY9AbSqgtZEza"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maybe in Nirvana",
         "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 285802,
       "name": "Tequan (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Blossom Dearie",
-      "url": "https://open.spotify.com/track/1Q9ya4CIJwY9AbSqgtZEza"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Right of Spring",
+      "url": "https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
         "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 153133,
       "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
       "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Right of Spring",
-      "url": "https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh"
     },
     {
       "added_at": null,

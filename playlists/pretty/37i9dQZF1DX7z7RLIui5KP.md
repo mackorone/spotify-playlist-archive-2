@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\. Cover: Coster Ojwang
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,239 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,272 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

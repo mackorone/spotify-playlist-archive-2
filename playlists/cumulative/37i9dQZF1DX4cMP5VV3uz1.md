@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-673 songs - 1 day 14 hr 35 min
+674 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Essex Girls \(feat\. Jaykae, Silky & Janice Robinson\)](https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef) | [Rude Kid](https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Essex Girls \(feat\. Jaykae, Silky & Janice Robinson\)](https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1) | 2:40 | 2022-09-30 | 2024-06-28 |
 | [Everybody Over](https://open.spotify.com/track/4No1alSr6ux0ttjJqjAx8A) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Everybody Over](https://open.spotify.com/album/5efKfj820nvc1oQ71S43YC) | 2:46 | 2025-08-22 | 2025-10-03 |
 | [Everybody's Free](https://open.spotify.com/track/1YI0NUNAROg5jc0s0xZdfk) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb), [Nat Conway](https://open.spotify.com/artist/39VO9YJvBMtLvnp2keFHdx) | [Everybody's Free](https://open.spotify.com/album/2LnHts58u2QnjpsTlJfxjL) | 4:20 | 2023-12-27 | 2024-01-12 |
-| [Excalibur](https://open.spotify.com/track/0mNgHk38nt7ikBi3lunV9b) | [Audit](https://open.spotify.com/artist/2mdUxq6jvOoW7CMsoffuVJ) | [Excalibur \- EP](https://open.spotify.com/album/7gCJWtzX4A83C6lPwxfCvh) | 3:39 | 2026-04-23 |  |
+| [Excalibur](https://open.spotify.com/track/0mNgHk38nt7ikBi3lunV9b) | [Audit](https://open.spotify.com/artist/2mdUxq6jvOoW7CMsoffuVJ) | [Excalibur \- EP](https://open.spotify.com/album/7gCJWtzX4A83C6lPwxfCvh) | 3:39 | 2026-04-23 | 2026-07-19 |
 | [Eye Of The Storm](https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Eye Of The Storm](https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk) | 2:56 | 2026-01-23 | 2026-07-11 |
 | [Eyes On Me \- VIP](https://open.spotify.com/track/51NB3wz43oc8U2tUmXPH7F) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Eyes On Me \(VIP\)](https://open.spotify.com/album/4xAZ9I19zSBJIpXdANdmj1) | 3:43 | 2025-02-07 | 2025-11-28 |
 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 | 2025-10-02 |  |
@@ -464,6 +464,7 @@
 | [POW](https://open.spotify.com/track/3u7Iti3x8N4fKWUy0xgGOn) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [POW](https://open.spotify.com/album/1y2JrNJFsvZmSoE3BjrjYZ) | 4:34 | 2024-07-25 | 2024-10-04 |
 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 | 2024-02-23 | 2024-09-06 |
 | [Pressure](https://open.spotify.com/track/3R4WdX1bQ5S8QPZankvZxa) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL) | [Pressure](https://open.spotify.com/album/0UzMLcEabs37Ba6XC5X8Ij) | 3:46 | 2025-01-17 | 2025-08-23 |
+| [PSYCHO](https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [MÆDM](https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178) | [PSYCHO](https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu) | 2:03 | 2026-07-06 |  |
 | [Pulverturm \- DJ Tomcraft Remix](https://open.spotify.com/track/3AiWNYHODUJJzx0UVPANBr) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Pulverturm](https://open.spotify.com/album/4M5IhzDex16tGtC9u5EZ9g) | 9:14 | 2023-12-27 | 2024-01-12 |
 | [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 | 2025-05-22 | 2026-01-23 |
 | [Push It Up Selecta](https://open.spotify.com/track/00TyTDR9NDG04clCgYIPk5) | [Drumsound & Bassline Smith](https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh) | [Push It Up Selecta](https://open.spotify.com/album/59wNH1Hu4OpQZKDSJZmwI3) | 3:24 | 2025-11-14 | 2026-01-25 |

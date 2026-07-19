@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1254902,
+  "num_followers": 1254874,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-17 04:00:46",
       "album": {
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 254516,
       "name": "You",
       "url": "https://open.spotify.com/track/1KCMF9fdF7sNE74R2V46af"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-07-17 04:00:46",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 160344,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 160344,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-07-17 04:00:46",
       "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2026-07-17 04:00:46",
       "album": {
-        "name": "This Is Our Life",
-        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "This Is Our Life",
-      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/7omszKcmeM2AvJ61dGoAsT"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 188307,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/0v4y0mPJaLyCKOWC5khfmg"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
+        "name": "This Is Our Life",
+        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "This Is Our Life",
+      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -1927,6 +1927,26 @@
       "duration_ms": 174146,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
+        "name": "All In For You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 174566,
+      "name": "All In For You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -2151,6 +2171,22 @@
     {
       "added_at": "2026-07-17 04:00:46",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
         "name": "You & Me (Always Forever)",
         "url": "https://open.spotify.com/album/4C1eeJfuCEclF1gqK0jdij"
       },
@@ -2167,22 +2203,6 @@
       "duration_ms": 172981,
       "name": "You & Me (Always Forever)",
       "url": "https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -2227,6 +2247,22 @@
       "duration_ms": 205182,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -2363,22 +2399,6 @@
     {
       "added_at": "2026-07-17 04:00:46",
       "album": {
-        "name": "SOMETHING BEAUTIFUL",
-        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 111566,
-      "name": "SOMETHING BEAUTIFUL",
-      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/0cREGEa2AUt4GUCLVVVRqo"
       },
@@ -2391,6 +2411,22 @@
       "duration_ms": 288780,
       "name": "You And I",
       "url": "https://open.spotify.com/track/1kVfH3uPqVvGJxaSGdqlEp"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
+        "name": "SOMETHING BEAUTIFUL",
+        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "duration_ms": 111566,
+      "name": "SOMETHING BEAUTIFUL",
+      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -2455,22 +2491,6 @@
     {
       "added_at": "2026-07-17 04:00:46",
       "album": {
-        "name": "Tell Me That You Love Me",
-        "url": "https://open.spotify.com/album/6u5miPvMbyHLzqNE7YOdjR"
-      },
-      "artists": [
-        {
-          "name": "Jacob Vallen",
-          "url": "https://open.spotify.com/artist/4cpsDjOCHa98YDBMlkjaUl"
-        }
-      ],
-      "duration_ms": 143709,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/5twVbF7fNd93mdVs2MpbKN"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8"
       },
@@ -2483,6 +2503,22 @@
       "duration_ms": 208039,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0"
+    },
+    {
+      "added_at": "2026-07-17 04:00:46",
+      "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/6u5miPvMbyHLzqNE7YOdjR"
+      },
+      "artists": [
+        {
+          "name": "Jacob Vallen",
+          "url": "https://open.spotify.com/artist/4cpsDjOCHa98YDBMlkjaUl"
+        }
+      ],
+      "duration_ms": 143709,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/5twVbF7fNd93mdVs2MpbKN"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -2503,26 +2539,6 @@
       "duration_ms": 206129,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0JKliACP4ejGtyxduESutD"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
-        "name": "All In For You (feat. KU\u010cKA)",
-        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 174566,
-      "name": "All In For You (feat. KU\u010cKA)",
-      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
     },
     {
       "added_at": "2026-07-17 04:00:46",
@@ -2611,22 +2627,6 @@
       "duration_ms": 153471,
       "name": "Safe In Your Love",
       "url": "https://open.spotify.com/track/7n9Kvdjl3Mjvz6tQWXsNiz"
-    },
-    {
-      "added_at": "2026-07-17 04:00:46",
-      "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "added_at": "2026-07-17 04:00:46",

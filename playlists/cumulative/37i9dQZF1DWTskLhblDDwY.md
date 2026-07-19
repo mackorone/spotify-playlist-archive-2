@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-133 songs - 9 hr 36 min
+134 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 | 2023-06-28 | 2024-04-19 |
 | [クルージング・オン](https://open.spotify.com/track/7kl1W8m2O8j3LvE7RCowYR) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/7uXWpfPBgAsG6dVKbJg6nQ) | 4:25 | 2023-06-28 |  |
 | [ジェニーはご機嫌ななめ](https://open.spotify.com/track/3fFWQGjLBSdV0vZIl1ZAs6) | [ジューシィ・フルーツ](https://open.spotify.com/artist/0ggP1vmcErj5IVYW7GrTVg) | [ジューシィ・フルーツ ゴールデン☆ベスト－多汁果実 品質特撰－](https://open.spotify.com/album/20wO3oEd8w51HRmRwWenPM) | 3:44 | 2023-06-28 |  |
+| [スニーカーぶる～す](https://open.spotify.com/track/3gIywJkRd9dDu7lAyaykns) | [近藤真彦](https://open.spotify.com/artist/6QrcT9aVwvCirIh3PXv8Nm) | [Thank 愛 You](https://open.spotify.com/album/4GZAIEVZKnoQEm4Z5w9fXD) | 3:51 | 2026-07-18 |  |
 | [セクシー・ユー \(モンロー・ウォーク\)](https://open.spotify.com/track/3V0qL15FiMlhaPPwaJDSoF) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [郷ひろみ全集/'72～'85 DANDYISM](https://open.spotify.com/album/6XNgAXrJWe4ySXl2GDVV7y) | 3:41 | 2023-06-28 |  |
 | [ダンシング・オールナイト](https://open.spotify.com/track/1UrnsiaBHgqoYWKs2b4kti) | [Monta & Brothers](https://open.spotify.com/artist/0ZB0ohfKwDJBZL8XdQbfw6) | [ゴールデン☆ベスト もんた＆ブラザーズ シングルス・プラス](https://open.spotify.com/album/1boYwdMUOTjSc7H79FXEuh) | 3:58 | 2023-06-28 |  |
 | [トゥナイト](https://open.spotify.com/track/7zXOJdGYeXsalfN6xHKkv2) | [Shanels](https://open.spotify.com/artist/11B3d9x2J59NnHRsyoo4xA) | [BACK TO THE BASIC](https://open.spotify.com/album/5qoFqpqBs0PggBwiEt98j9) | 2:27 | 2023-06-28 |  |

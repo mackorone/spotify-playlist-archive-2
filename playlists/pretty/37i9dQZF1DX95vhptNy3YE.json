@@ -1,6 +1,6 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444066,
+  "num_followers": 444036,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,34 @@
     {
       "added_at": "2026-07-17 18:48:24",
       "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 156374,
+      "name": "Sob a luz do seu olhar",
+      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
+    },
+    {
+      "added_at": "2026-07-17 18:48:24",
+      "album": {
         "name": "THE BOX MEDLEY 12",
         "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
       },
@@ -843,34 +871,6 @@
       "duration_ms": 352951,
       "name": "THE BOX MEDLEY 12",
       "url": "https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu"
-    },
-    {
-      "added_at": "2026-07-17 18:48:24",
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 156374,
-      "name": "Sob a luz do seu olhar",
-      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
     },
     {
       "added_at": "2026-07-17 18:48:24",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-07-17 18:48:24",
       "album": {
+        "name": "Fiz Quase Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 167925,
+      "name": "Fiz Quase Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
+    },
+    {
+      "added_at": "2026-07-17 18:48:24",
+      "album": {
         "name": "MINA QUENTE",
         "url": "https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 151889,
       "name": "MINA QUENTE",
       "url": "https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW"
-    },
-    {
-      "added_at": "2026-07-17 18:48:24",
-      "album": {
-        "name": "Fiz Quase Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "Fiz Quase Tudo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
     },
     {
       "added_at": "2026-07-17 18:48:24",

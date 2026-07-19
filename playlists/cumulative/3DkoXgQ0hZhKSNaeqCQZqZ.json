@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "bound",
+        "url": "https://open.spotify.com/album/1JpukiqrKVnipgp2xIy8Da"
+      },
+      "artists": [
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175741,
+      "name": "bound",
+      "url": "https://open.spotify.com/track/6VhKv3V6Hj67qfXeRYwAsI"
+    },
+    {
+      "album": {
         "name": "Boy kisser (song)",
         "url": "https://open.spotify.com/album/126vT864AneXpsxM2zg75k"
       },

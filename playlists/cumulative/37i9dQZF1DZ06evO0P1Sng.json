@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 360000,
       "name": "Eles N\u00e3o Ligam Pra Gente",
       "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
@@ -2832,6 +2832,32 @@
       "duration_ms": 136470,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/36J1XvwjxZkMumcLROBn7X"
+    },
+    {
+      "album": {
+        "name": "Tempo Qualitativo",
+        "url": "https://open.spotify.com/album/3EiuNT5VuMtVQEbavooqXQ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "BG_Rj",
+          "url": "https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142279,
+      "name": "Resumo",
+      "url": "https://open.spotify.com/track/4iS0FaCsF2viH2Go4bnWUs"
     },
     {
       "album": {

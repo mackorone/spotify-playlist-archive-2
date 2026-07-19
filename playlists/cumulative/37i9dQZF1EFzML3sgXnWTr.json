@@ -610,6 +610,24 @@
     {
       "album": {
         "name": "Cani Sciolti",
+        "url": "https://open.spotify.com/album/1wWGQChySCOYjf01lUYzNp"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221434,
+      "name": "Fulmini Addosso - from the Prime Video Original Movie L'ESTATE PI\u00d9 CALDA",
+      "url": "https://open.spotify.com/track/0Uz6QFIRBIkZ8PamMBjBgq"
+    },
+    {
+      "album": {
+        "name": "Cani Sciolti",
         "url": "https://open.spotify.com/album/3fzEUjbWHpnBIMVsXBSTWY"
       },
       "artists": [
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 221434,
       "name": "Fulmini Addosso - from the Prime Video Original Movie L'ESTATE PI\u00d9 CALDA",
       "url": "https://open.spotify.com/track/5ps2orxLf5i8TE1jIi73En"

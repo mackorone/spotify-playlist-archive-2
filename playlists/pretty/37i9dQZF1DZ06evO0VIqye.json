@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62463,
+  "num_followers": 62461,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "algfAAAAAADMnMzQxufFgLv2yBngLps0",
+  "snapshot_id": "allwgAAAAABM5XSLYcklANhYIi+nDhUB",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Love Me Two Times",
-      "url": "https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
@@ -531,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
       "artists": [
         {
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
+      "duration_ms": 186600,
+      "name": "Love Me Two Times",
+      "url": "https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
       },
       "artists": [
         {
@@ -572,25 +556,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 250573,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5bm9z5HyUXJPpnUzg2Kdzi"
+      "duration_ms": 302760,
+      "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
     },
     {
       "added_at": null,
@@ -611,6 +579,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5bm9z5HyUXJPpnUzg2Kdzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hit List",
         "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Activity Grrrl",
-      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
+      "duration_ms": 215440,
+      "name": "Activity Grrrl",
+      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 247470,
-      "name": "I Hate Myself For Loving You",
-      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
       },
@@ -815,8 +795,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/63eWzC0Z9JSpdlOFsliBm7"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 247470,
+      "name": "I Hate Myself For Loving You",
+      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 270240,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/7f249fAedlAqWStTPmf63j"
+      "duration_ms": 173960,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/7eHhkn6a1MTFKw4NkY3V61"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

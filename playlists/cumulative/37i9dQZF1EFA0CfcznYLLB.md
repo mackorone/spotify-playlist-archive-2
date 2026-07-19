@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-419 songs - 22 hr 6 min
+420 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Yet](https://open.spotify.com/track/0tGZPaV2bO7ED43Ll0MlSZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:08 | 2023-12-13 |  |
 | [You Wouldn't Understand](https://open.spotify.com/track/0veO6y9anwdVTaRuW7y8NJ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 2:50 | 2023-12-13 |  |
 | [Your Song \- Cheat Codes Remix](https://open.spotify.com/track/2h578j1vqX32f3yBdMoZAI) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Cheat Codes Remix\)](https://open.spotify.com/album/2SIvZeZQ9bsUCy7GL7BNfx) | 3:35 | 2023-12-13 | 2025-06-28 |
+| [まーいいや](https://open.spotify.com/track/7dtY6CoVdmqXtiLwjL20xi) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [まーいいや](https://open.spotify.com/album/7anhdzDVk7v6z8VR6nV3cf) | 3:13 | 2026-07-18 |  |
 | [玉](https://open.spotify.com/track/7fNS68yphpEsbIyNzxpLA7) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [蓮](https://open.spotify.com/album/0RC2WnrP7RwfII4HTX4vPM) | 3:19 | 2023-12-13 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

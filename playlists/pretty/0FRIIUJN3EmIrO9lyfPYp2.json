@@ -6,8 +6,116 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACmu7joc60H6kht35EJjkaCOWLlYQA",
+  "snapshot_id": "AAACoDNw+qwtTK9f3ovTBYczIl5UUVyJ",
   "tracks": [
+    {
+      "added_at": "2026-07-18 22:02:17",
+      "album": {
+        "name": "too far to fall",
+        "url": "https://open.spotify.com/album/4bRsuHLrKcJZCQCadQxqCG"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "too far to fall",
+      "url": "https://open.spotify.com/track/4cEekFzwt9leQVM8Jcm1TZ"
+    },
+    {
+      "added_at": "2026-07-18 22:02:27",
+      "album": {
+        "name": "new journey",
+        "url": "https://open.spotify.com/album/6i6uksWzeCvMYy1Qp7dBqw"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 139534,
+      "name": "new journey",
+      "url": "https://open.spotify.com/track/2yVNL9VtrJNkzofd17L4Yg"
+    },
+    {
+      "added_at": "2026-07-18 22:02:36",
+      "album": {
+        "name": "still alive",
+        "url": "https://open.spotify.com/album/0imv1sa0OByGNRLgR5xAFU"
+      },
+      "artists": [
+        {
+          "name": "ihatemyjob",
+          "url": "https://open.spotify.com/artist/56FljFqP7tSmnd0jx4lpzO"
+        },
+        {
+          "name": "Fujiwara",
+          "url": "https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "still alive",
+      "url": "https://open.spotify.com/track/5Av4iy3GQCgdIpnAEz2z6q"
+    },
+    {
+      "added_at": "2026-07-18 22:02:45",
+      "album": {
+        "name": "loved you for eternity",
+        "url": "https://open.spotify.com/album/26cMDHcVExpqH0furIYAWX"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        },
+        {
+          "name": "Kub0",
+          "url": "https://open.spotify.com/artist/1G0DoICczjBpWjARx4g1yO"
+        }
+      ],
+      "duration_ms": 134181,
+      "name": "loved you for eternity",
+      "url": "https://open.spotify.com/track/1tGb1oicUbl2b98igk4K1J"
+    },
+    {
+      "added_at": "2026-07-18 22:02:53",
+      "album": {
+        "name": "my ketamine",
+        "url": "https://open.spotify.com/album/61uhowHKsHPPpbZka1LiCr"
+      },
+      "artists": [
+        {
+          "name": "lostveil",
+          "url": "https://open.spotify.com/artist/12BFZ5HVau26yVNfvImaNk"
+        }
+      ],
+      "duration_ms": 129750,
+      "name": "my ketamine",
+      "url": "https://open.spotify.com/track/6f7KFijZVaxOtOBAHQLzqT"
+    },
+    {
+      "added_at": "2026-07-18 22:03:05",
+      "album": {
+        "name": "i am still here",
+        "url": "https://open.spotify.com/album/3gHc3zDax0xHEOefevOv4C"
+      },
+      "artists": [
+        {
+          "name": "astr\u00aal",
+          "url": "https://open.spotify.com/artist/1p6MhlA1Z7sr1temNBJjgk"
+        }
+      ],
+      "duration_ms": 103228,
+      "name": "i am still here",
+      "url": "https://open.spotify.com/track/2buNzdbIshytVvtUR3X28N"
+    },
     {
       "added_at": "2026-07-03 23:05:32",
       "album": {

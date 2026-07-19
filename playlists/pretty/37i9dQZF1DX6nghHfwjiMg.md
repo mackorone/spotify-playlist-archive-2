@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,928 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,930 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 39 | [LOS COLONOS](https://open.spotify.com/track/7MktbGIccRK3UxTfzcLN2l) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o), [Majo Chicar](https://open.spotify.com/artist/7yZIq6IICjh94zRexdl2fR) | [LOS COLONOS](https://open.spotify.com/album/4jr9MY9VU6JFVjyhCOO8KT) | 3:17 |
 | 40 | [bajare](https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D) | [Lito](https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW) | [bajare](https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW) | 2:27 |
 | 41 | [Genio del Abasto](https://open.spotify.com/track/0kjrG36QkUzHmJHJ5Db6M9) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Club Camionero](https://open.spotify.com/album/19MHzE83J3kPtnYoP2ph61) | 5:08 |
-| 42 | [No esperes nada](https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [No esperes nada](https://open.spotify.com/album/7wwlW8Om4ZeOHNDdD1TIpr) | 3:54 |
+| 42 | [no esperes nada](https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [no esperes nada](https://open.spotify.com/album/7wwlW8Om4ZeOHNDdD1TIpr) | 3:54 |
 | 43 | [Eresi](https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [Pavlo, cada vez menos...](https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ) | 3:15 |
 | 44 | [Libros](https://open.spotify.com/track/1HNbpzg02LwvscJiyR5Adk) | [Joako Garcia](https://open.spotify.com/artist/0UDzdnndviQU4dtzQ47zqz), [Cofran Olima](https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967) | [Libros](https://open.spotify.com/album/1afjwi14YT8ZfrHu7asnSl) | 3:30 |
 | 45 | [Federico](https://open.spotify.com/track/5vHufHC11jJb37ChBg2aqe) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Federico](https://open.spotify.com/album/2UhkIha5ZUIx02k54KLtQF) | 3:39 |

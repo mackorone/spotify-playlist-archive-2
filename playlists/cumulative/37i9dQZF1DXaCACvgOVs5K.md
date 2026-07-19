@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-560 songs - 1 day 9 hr 4 min
+561 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-04-04 | 2025-04-18 |
 | [Come Back Tomorrow](https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Come Back Tomorrow](https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO) | 3:22 | 2026-06-11 |  |
 | [Come To Ibiza](https://open.spotify.com/track/1bmdydwhGsiyVjjUujujQH) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Timeless oracle](https://open.spotify.com/artist/04WRRkb2yqJrFCeNm7WRmt) | [Come To Ibiza](https://open.spotify.com/album/0kLe0sqL5ThvwtkCnOwn14) | 3:06 | 2026-04-10 | 2026-06-12 |
-| [Come Together](https://open.spotify.com/track/0UHlwUPHTAfWOMn0b87Rek) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Simon Doty](https://open.spotify.com/artist/50FbFWVwBL78hlkBk7POoD) | [Come Together](https://open.spotify.com/album/5A22WKOk4zqAaTXhKJH6Zr) | 3:48 | 2026-07-01 |  |
+| [Come Together](https://open.spotify.com/track/0UHlwUPHTAfWOMn0b87Rek) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Simon Doty](https://open.spotify.com/artist/50FbFWVwBL78hlkBk7POoD) | [Come Together](https://open.spotify.com/album/5A22WKOk4zqAaTXhKJH6Zr) | 3:48 | 2026-07-01 | 2026-07-19 |
 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 | 2025-04-17 | 2026-05-01 |
 | [Contesto](https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva) | [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Contesto](https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA) | 3:26 | 2025-07-03 | 2026-07-02 |
 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2023-05-19 | 2024-04-20 |
@@ -365,6 +365,7 @@
 | [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-06-28 | 2026-04-11 |
 | [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 | 2026-04-30 |  |
 | [Only You](https://open.spotify.com/track/26EARfSu4b4dUhNDkfCRbP) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Only You](https://open.spotify.com/album/75IwgNsbTf2zWuhhOXI480) | 3:47 | 2026-04-30 | 2026-07-18 |
+| [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 | 2026-07-16 |  |
 | [Out of My Mind](https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU) | 3:24 | 2026-04-10 |  |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2024-04-19 | 2024-06-14 |
 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 | 2024-04-19 | 2024-05-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 304298,
+  "num_followers": 304308,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 303054,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Put Your Head On My Shoulder",
         "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 151649,
       "name": "Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 303054,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Victoria Bigelow",
+          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
         }
       ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+      "duration_ms": 258665,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Fade Into You",
-        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
       "artists": [
         {
-          "name": "Victoria Bigelow",
-          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 258665,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Let's Dance to Joy Division",
-        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
-      },
-      "artists": [
-        {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Let's Dance to Joy Division",
-      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 260101,
       "name": "Under The Milky Way",
       "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Let's Dance to Joy Division",
+        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
+      },
+      "artists": [
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Thank You for Sending Me an Angel",
-        "url": "https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Thank You for Sending Me an Angel",
-      "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/6tKQyT3LHSMOsObqfk264N"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 282773,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/2HDycU1sqxlfYQloriXcK1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Thank You for Sending Me an Angel",
+        "url": "https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Thank You for Sending Me an Angel",
+      "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
     },
     {
       "added_at": "2026-03-06 05:00:19",

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 205240,
+  "num_followers": 205303,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-06-08 19:26:07",
       "album": {
+        "name": "Passar pela Moenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 321728,
+      "name": "Passar pela Moenda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
+    },
+    {
+      "added_at": "2026-06-08 19:26:07",
+      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar",
         "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 340411,
       "name": "Voc\u00ea N\u00e3o Vai Parar",
       "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
-    },
-    {
-      "added_at": "2026-06-08 19:26:07",
-      "album": {
-        "name": "Passar pela Moenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 321728,
-      "name": "Passar pela Moenda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
     },
     {
       "added_at": "2026-06-08 19:26:07",
@@ -999,6 +999,30 @@
       "duration_ms": 461540,
       "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
+    },
+    {
+      "added_at": "2026-06-08 19:26:07",
+      "album": {
+        "name": "Tempo de Espera",
+        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
+      },
+      "artists": [
+        {
+          "name": "Ketelyn Amanda",
+          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Tempo de Espera",
+      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
     },
     {
       "added_at": "2026-06-08 19:26:07",
@@ -1043,30 +1067,6 @@
       "duration_ms": 647185,
       "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X"
-    },
-    {
-      "added_at": "2026-06-08 19:26:07",
-      "album": {
-        "name": "Tempo de Espera",
-        "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
-      },
-      "artists": [
-        {
-          "name": "Ketelyn Amanda",
-          "url": "https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Tempo de Espera",
-      "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
     },
     {
       "added_at": "2026-06-08 19:26:07",

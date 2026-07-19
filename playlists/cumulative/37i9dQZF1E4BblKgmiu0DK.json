@@ -996,7 +996,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 227693,
       "name": "Breakdown Love",
       "url": "https://open.spotify.com/track/0iPggvigBtlcgfD7q26tWR"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 174093,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7iT3p4EKVOjUohTul7aDf4"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -4180,7 +4180,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -5078,7 +5078,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -6200,7 +6200,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -6632,7 +6632,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 120799,
       "name": "Mumbai Monsoon Riff, Yaar",
       "url": "https://open.spotify.com/track/0M7fBG1M0RfhXcA9Hru297"
@@ -6650,7 +6650,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -6960,7 +6960,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 168000,
       "name": "No One's Home",
       "url": "https://open.spotify.com/track/4H32i9x2H1RiAv9xAGm3rg"
@@ -7630,7 +7630,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 227453,
       "name": "Outta Nowhere",
       "url": "https://open.spotify.com/track/6BKh4T3IFUq139xk3dWbCL"
@@ -8156,7 +8156,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 198613,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/5ncpD1l5Nxk0besmoLybcs"
@@ -8852,7 +8852,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -8967,6 +8967,24 @@
     },
     {
       "album": {
+        "name": "shadow of the girl i was",
+        "url": "https://open.spotify.com/album/1lZew6mRw6T7Hb1GARfvlJ"
+      },
+      "artists": [
+        {
+          "name": "Selah Fire",
+          "url": "https://open.spotify.com/artist/6MLPJEMCk5TWTuSdn2A5qR"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "stadium lights in scranton",
+      "url": "https://open.spotify.com/track/70dURMTccyDNfU17rdviDE"
+    },
+    {
+      "album": {
         "name": "FINO + BLEED",
         "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
       },
@@ -9014,7 +9032,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 158680,
       "name": "staying down",
       "url": "https://open.spotify.com/track/4m7PZuBI9DdltTHJwOi7up"
@@ -9068,7 +9086,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -9166,6 +9184,24 @@
       "duration_ms": 253504,
       "name": "Strangers Maybe",
       "url": "https://open.spotify.com/track/6ACIERQsynWxTMibwZmAEz"
+    },
+    {
+      "album": {
+        "name": "greenwich mess",
+        "url": "https://open.spotify.com/album/6nCJyAeIfCRzq6L3ENc8yn"
+      },
+      "artists": [
+        {
+          "name": "Jinx & The Royals",
+          "url": "https://open.spotify.com/artist/4GxNvNMOqFsUGWevXoUNul"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "stuck w me",
+      "url": "https://open.spotify.com/track/1wQmWPUcaDdP5tWEnxMJHq"
     },
     {
       "album": {
@@ -9508,7 +9544,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -9544,7 +9580,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -10038,7 +10074,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 234640,
       "name": "Upside Down Cross",
       "url": "https://open.spotify.com/track/0lM3X9CdTPbL5B7wnFsBs8"
@@ -10834,7 +10870,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 224811,
       "name": "Your Ex-Girlfriend",
       "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"
@@ -10852,7 +10888,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 181301,
       "name": "Your Face",
       "url": "https://open.spotify.com/track/6DCXh9uCO1aG2RzjKm8qQ8"

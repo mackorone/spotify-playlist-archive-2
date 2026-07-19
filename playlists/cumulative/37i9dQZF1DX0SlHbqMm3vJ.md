@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover:  Victony
 
-1,001 songs - 2 day 0 hr 33 min
+1,002 songs - 2 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 | 2024-10-18 |
 | [Aben Woha](https://open.spotify.com/track/6s5lxd4GY2oD4pc6DyFcjw) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Cici Yeboah](https://open.spotify.com/artist/42BdLr2baIh7zRnOZPUnfo) | [Tori's Lounge](https://open.spotify.com/album/2bAzheXuEsDOWH4JXZFh4O) | 2:41 | 2022-02-17 | 2022-02-28 |
 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 | 2025-10-10 | 2026-02-06 |
+| [Adaeze](https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Where Did Love Go?](https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS) | 2:34 | 2026-07-17 |  |
 | [Adamma, Asanwa, Asampete](https://open.spotify.com/track/6aQKRinH6dP5nU3mZdQMYB) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 3:55 | 2025-06-13 | 2025-06-24 |
 | [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-15 | 2025-02-20 |
 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 | 2024-10-18 |  |
@@ -567,7 +568,7 @@
 | [Lucy](https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Wayyy Saucy](https://open.spotify.com/album/4ZG7gMykuBh6qo1uhpbxl6) | 2:18 | 2024-01-19 | 2024-02-03 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 | 2026-01-15 |
 | [Luv You](https://open.spotify.com/track/1UND1NooKdD1nW8zKLaSF9) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Luv You](https://open.spotify.com/album/6EMCwCvW8DACv8CdvhFcFQ) | 2:50 | 2024-01-26 | 2024-03-16 |
-| [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 | 2025-06-20 |  |
+| [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 | 2025-06-20 | 2026-07-19 |
 | [LV N ATTN feat\. Wizkid](https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2021-10-14 | 2022-09-24 |
 | [M D D W](https://open.spotify.com/track/1nJzOnVqkx3jQDDVHriT6E) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg) | [M D D W](https://open.spotify.com/album/7HxZJFjebeHjJcKya0ebY7) | 3:21 | 2021-11-18 | 2022-03-18 |
 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/21cWOgbAzKGuc4iT4GKKhU) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 | 2023-12-08 | 2024-06-28 |

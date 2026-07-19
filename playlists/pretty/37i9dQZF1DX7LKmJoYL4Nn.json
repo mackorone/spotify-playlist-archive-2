@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63140,
+  "num_followers": 63138,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Eden\u300cThe Bible of The \u201cEden\u201d\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/6WxMTnJbj1qmdWnmMVdvXR"
-      },
-      "artists": [
-        {
-          "name": "Eden",
-          "url": "https://open.spotify.com/artist/6OvhFi6jhjbkcxcNn4U3sL"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 359773,
-      "name": "The Bible of The \u201cEden\u201d",
-      "url": "https://open.spotify.com/track/33wWNHn9Nc1SbrDRN3KeXT"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
         "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 280665,
       "name": "\u30bb\u30c4\u30caDrops",
       "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Eden\u300cThe Bible of The \u201cEden\u201d\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/6WxMTnJbj1qmdWnmMVdvXR"
+      },
+      "artists": [
+        {
+          "name": "Eden",
+          "url": "https://open.spotify.com/artist/6OvhFi6jhjbkcxcNn4U3sL"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 359773,
+      "name": "The Bible of The \u201cEden\u201d",
+      "url": "https://open.spotify.com/track/33wWNHn9Nc1SbrDRN3KeXT"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "Dear World (Short ver.)",
+        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 145300,
+      "name": "Dear World - Short ver.",
+      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "Lancetta\u300c\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 293011,
       "name": "\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26",
       "url": "https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "Dear World (Short ver.)",
-        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 145300,
-      "name": "Dear World - Short ver.",
-      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "MaM\u300c\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/05TqJzyb4R2ShnKHmiEcqa"
-      },
-      "artists": [
-        {
-          "name": "MaM",
-          "url": "https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 230317,
-      "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc",
-      "url": "https://open.spotify.com/track/5flbNqi1DBVQkTZR1SALCY"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u5927\u795e \u6643\u7259\u300cSCAB\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 208201,
       "name": "SCAB",
       "url": "https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "MaM\u300c\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/05TqJzyb4R2ShnKHmiEcqa"
+      },
+      "artists": [
+        {
+          "name": "MaM",
+          "url": "https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 230317,
+      "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc",
+      "url": "https://open.spotify.com/track/5flbNqi1DBVQkTZR1SALCY"
     },
     {
       "added_at": "2026-04-21 15:00:41",

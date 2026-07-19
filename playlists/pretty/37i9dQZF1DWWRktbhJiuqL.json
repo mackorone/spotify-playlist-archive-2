@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2034191,
+  "num_followers": 2034190,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 334906,
+      "name": "I Am the Highway",
+      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 234600,
       "name": "Safari Song",
       "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 334906,
-      "name": "I Am the Highway",
-      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "Road to Ruin (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 1999 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 177597,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 191813,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 177597,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
+        "name": "Blood on the Bone",
+        "url": "https://open.spotify.com/album/1HEJyjclrdNapUGwNs9Pl0"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 225735,
+      "name": "Blood on the Bone",
+      "url": "https://open.spotify.com/track/2neNFxrx4wiAemOcykU7NO"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 312200,
       "name": "Meeting The Master",
       "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
-        "name": "Blood on the Bone",
-        "url": "https://open.spotify.com/album/1HEJyjclrdNapUGwNs9Pl0"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 225735,
-      "name": "Blood on the Bone",
-      "url": "https://open.spotify.com/track/2neNFxrx4wiAemOcykU7NO"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/5ZbFqFJFLaNnmmZiIJ1I5Q"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 281693,
+      "name": "The Only Horse In Town",
+      "url": "https://open.spotify.com/track/0Cx7nTtBZTo8tEPNf3FMkQ"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/5ZbFqFJFLaNnmmZiIJ1I5Q"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 281693,
-      "name": "The Only Horse In Town",
-      "url": "https://open.spotify.com/track/0Cx7nTtBZTo8tEPNf3FMkQ"
     },
     {
       "added_at": "2026-07-17 00:16:35",

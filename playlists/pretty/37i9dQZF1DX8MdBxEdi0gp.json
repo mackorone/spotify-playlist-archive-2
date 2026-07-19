@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 177552,
+  "num_followers": 177584,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Alma, Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
-      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Serie Doble: Los Brios y Los Angeles De Chile",
         "url": "https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 207480,
       "name": "Yo Se Que Te Acordaras",
       "url": "https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Alma, Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
+      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Bienvenido al Club",
-        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "Por volverte a ver",
-      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "30 Anos De Exitos",
         "url": "https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 161386,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Bienvenido al Club",
+        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "Por volverte a ver",
+      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Castillos en el aire",
-        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Castillos en el aire",
-      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 2 - Mexico)",
         "url": "https://open.spotify.com/album/3BiU9Rlr6rLAAUPoaCMt8n"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 225586,
       "name": "Dos Enamorados",
       "url": "https://open.spotify.com/track/4PfMg0efe5q1104vAWyRMT"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Castillos en el aire",
+        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Castillos en el aire",
+      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Ver\u00f3nica",
-      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Tatiana y Johnny",
         "url": "https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 223477,
       "name": "Cuando Estemos Juntos",
       "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "17 Super Exitos",
         "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 206000,
       "name": "Como Me Gusta Quererte",
       "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 162017,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 182626,
       "name": "A D\u00f3nde Va Nuestro Amor?",
       "url": "https://open.spotify.com/track/4y5SzY2HuX5UM4cFJTkaxS"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 162017,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Solo un Hombre",
-        "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Fresa Salvaje",
-      "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Tal Como Eramos",
         "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 210453,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Solo un Hombre",
+        "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Fresa Salvaje",
+      "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "15 Canciones Favoritas",
-        "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "El Muchacho de los Ojos Tristes",
-      "url": "https://open.spotify.com/track/3DWkS3HT9Z0kE4z1tMGxaJ"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Canciones De Amor",
         "url": "https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 209733,
       "name": "Total",
       "url": "https://open.spotify.com/track/32vg03zWdgSxMiNj6Xzm5I"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "El Muchacho de los Ojos Tristes",
+      "url": "https://open.spotify.com/track/3DWkS3HT9Z0kE4z1tMGxaJ"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "15 Canciones Favoritas",
-        "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/5qF73eA5EDS1rWtIzG24WR"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Te Quiero Todo",
         "url": "https://open.spotify.com/album/3j6gu7vVE7Ur4emsraRonJ"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 218346,
       "name": "Te Acuerdas?",
       "url": "https://open.spotify.com/track/6PVBvmaAUXgvqoshDY4KkB"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/5qF73eA5EDS1rWtIzG24WR"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/0qhnQyxYMnPvldjR0x0Ofe"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/1wCddPsdYzh8fBUuxgE7UD"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Estela Nu\u00f1ez... Sus Primeras E Inolvidables Grabaciones",
         "url": "https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 233293,
       "name": "Una L\u00e1grima (Una Lacrima)",
       "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/0qhnQyxYMnPvldjR0x0Ofe"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/1wCddPsdYzh8fBUuxgE7UD"
     },
     {
       "added_at": "2024-07-11 01:42:53",

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Cojo, Delia",
-  "num_followers": 23407,
+  "num_followers": 23415,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,6 @@
     {
       "added_at": "2026-07-16 21:00:29",
       "album": {
-        "name": "BACCARAT",
-        "url": "https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "BACCARAT",
-      "url": "https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz"
-    },
-    {
-      "added_at": "2026-07-16 21:00:29",
-      "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
       },
@@ -263,6 +243,22 @@
     {
       "added_at": "2026-07-16 21:00:29",
       "album": {
+        "name": "SCRISOARE DE CARTIER",
+        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        }
+      ],
+      "duration_ms": 101015,
+      "name": "SCRISOARE DE CARTIER",
+      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
+    },
+    {
+      "added_at": "2026-07-16 21:00:29",
+      "album": {
         "name": "FURAM CURENT",
         "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
       },
@@ -283,18 +279,22 @@
     {
       "added_at": "2026-07-16 21:00:29",
       "album": {
-        "name": "SCRISOARE DE CARTIER",
-        "url": "https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP"
+        "name": "BACCARAT",
+        "url": "https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2"
       },
       "artists": [
         {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
         }
       ],
-      "duration_ms": 101015,
-      "name": "SCRISOARE DE CARTIER",
-      "url": "https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c"
+      "duration_ms": 161684,
+      "name": "BACCARAT",
+      "url": "https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz"
     },
     {
       "added_at": "2026-07-16 21:00:29",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-07-16 21:00:29",
       "album": {
-        "name": "Arunca-ma La Lei",
-        "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        },
-        {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        }
-      ],
-      "duration_ms": 152144,
-      "name": "Arunca-ma La Lei",
-      "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
-    },
-    {
-      "added_at": "2026-07-16 21:00:29",
-      "album": {
         "name": "Voila",
         "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 139200,
       "name": "Voila",
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
+    },
+    {
+      "added_at": "2026-07-16 21:00:29",
+      "album": {
+        "name": "Arunca-ma La Lei",
+        "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        }
+      ],
+      "duration_ms": 152144,
+      "name": "Arunca-ma La Lei",
+      "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
     },
     {
       "added_at": "2026-07-16 21:00:29",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-16 21:00:29",
       "album": {
-        "name": "Sa MM Care Pleaca",
-        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 119343,
-      "name": "Sa MM Care Pleaca",
-      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
-    },
-    {
-      "added_at": "2026-07-16 21:00:29",
-      "album": {
         "name": "PLAYBOY CITY - THE ALBUM",
         "url": "https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 146400,
       "name": "FORME AI",
       "url": "https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU"
+    },
+    {
+      "added_at": "2026-07-16 21:00:29",
+      "album": {
+        "name": "Sa MM Care Pleaca",
+        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 119343,
+      "name": "Sa MM Care Pleaca",
+      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
       "added_at": "2026-07-16 21:00:29",
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-07-16 21:00:29",
       "album": {
+        "name": "Ani \u0218i Ani La R\u00e2nd",
+        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
+      },
+      "artists": [
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Ciresan",
+          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Ani \u0218i Ani La R\u00e2nd",
+      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
+    },
+    {
+      "added_at": "2026-07-16 21:00:29",
+      "album": {
         "name": "minte-ma",
         "url": "https://open.spotify.com/album/3ZeWtDkuvKcc6G4aSmLw0O"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 266162,
       "name": "minte-ma",
       "url": "https://open.spotify.com/track/59IMQsBR85fCtsElaT6Dmv"
-    },
-    {
-      "added_at": "2026-07-16 21:00:29",
-      "album": {
-        "name": "Ani \u0218i Ani La R\u00e2nd",
-        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
-      },
-      "artists": [
-        {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
-        },
-        {
-          "name": "Ciresan",
-          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Ani \u0218i Ani La R\u00e2nd",
-      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
     },
     {
       "added_at": "2026-07-16 21:00:29",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-07-16 21:00:29",
       "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2026-07-16 21:00:29",
+      "album": {
         "name": "AVIREX",
         "url": "https://open.spotify.com/album/2HJoxNWFuEN9f9r5Imog36"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 208211,
       "name": "Stiu ca ai vrea",
       "url": "https://open.spotify.com/track/5uwyjLLf5mHOgFSsxIrxx5"
-    },
-    {
-      "added_at": "2026-07-16 21:00:29",
-      "album": {
-        "name": "Vise La Plic",
-        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vise La Plic",
-      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     }
   ],
   "unique_name": "Suflet + Sunet",

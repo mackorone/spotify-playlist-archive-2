@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,639 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,676 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 71 | [Sweet Peach Tree](https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr) | [Alone Together](https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd) | 6:58 |
 | 72 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
 | 73 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
-| 74 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
-| 75 | [Drumette](https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9) | [Pete Candoli](https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7) | [From The Top \(Digitally Remastered\)](https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ) | 3:44 |
-| 76 | [Cottage for Sale](https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Walter Bolden](https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf) | [Dusty Blue](https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU) | 4:27 |
-| 77 | [Hub Cap](https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Hubsongs](https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB) | 4:25 |
+| 74 | [Drumette](https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9) | [Pete Candoli](https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7) | [From The Top \(Digitally Remastered\)](https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ) | 3:44 |
+| 75 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
+| 76 | [Hub Cap](https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Hubsongs](https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB) | 4:25 |
+| 77 | [Cottage for Sale](https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Walter Bolden](https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf) | [Dusty Blue](https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU) | 4:27 |
 | 78 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 |
 | 79 | [Tin Roof Blues](https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6) | [Mugsy Spanier](https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx) | [Mugsy Spanier Sentimental Journey, Vol\. 3](https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL) | 2:56 |
 | 80 | [Lonely Woman \- Live](https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Ed Blackwell](https://open.spotify.com/artist/6OyNnPUKtNrjm5QQkK0Px9) | [The Montreal Tapes \(Live\)](https://open.spotify.com/album/7yrhOwYjYhptIlD2HU6xUe) | 11:41 |

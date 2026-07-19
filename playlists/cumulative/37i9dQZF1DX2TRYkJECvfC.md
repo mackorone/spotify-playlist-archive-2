@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-709 songs - 2 day 10 hr 1 min
+710 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 | 2023-08-04 | 2026-02-07 |
 | [Closer To You](https://open.spotify.com/track/3WHDzLmx5Nndrh9mHvx1gQ) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk), [Lost Miracle](https://open.spotify.com/artist/0SnGv2ybYofUyE1IZyr198) | [Closer To You](https://open.spotify.com/album/7LuXAPiAzcShywUuDajqWV) | 3:38 | 2025-10-17 |  |
 | [Come On Back With Your Love \- Sunrise Mix](https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Come On Back With Your Love](https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf) | 3:26 | 2025-01-17 | 2025-09-06 |
+| [Continents](https://open.spotify.com/track/5tzI9AZdB6rZd0nD0NF4yt) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ) | [Continents](https://open.spotify.com/album/7HcEngUuRmcXqWGZYpbigV) | 4:49 | 2026-07-17 |  |
 | [Cosmic Burst](https://open.spotify.com/track/08cpxxd1LWWD0ThphypIB6) | [Jason Krupp](https://open.spotify.com/artist/1IwXiIpWgZQ7txUBbdqCFf) | [Cosmic Burst](https://open.spotify.com/album/6NdKNFmfFEooVNv0SYCAK3) | 3:12 | 2024-03-01 | 2025-09-06 |
 | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 | 2025-07-11 |  |
 | [could you not go?](https://open.spotify.com/track/7KZ9PE9btCfgqqhMGDh7P6) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [could you not go?](https://open.spotify.com/album/7qE5I0RQDSp3xt5QYPMuF1) | 2:47 | 2024-07-12 | 2025-04-05 |
@@ -163,7 +164,7 @@
 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [dreamforever](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [dreamforever](https://open.spotify.com/album/7AdGCHuoZzGY8IK9Cbbz2H) | 2:50 | 2025-03-28 |  |
 | [Drift](https://open.spotify.com/track/3v6NLDBeSPq8RT1QPB3tZo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fire on the Water / Drift](https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t) | 4:30 | 2026-07-10 |  |
-| [Drift A Little Longer](https://open.spotify.com/track/1OAh0KnUISxYNSjsIFpPMj) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Drift](https://open.spotify.com/album/5xK8Z9uFGbnNm00Iutom6R) | 3:52 | 2026-06-26 |  |
+| [Drift A Little Longer](https://open.spotify.com/track/1OAh0KnUISxYNSjsIFpPMj) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Drift](https://open.spotify.com/album/5xK8Z9uFGbnNm00Iutom6R) | 3:52 | 2026-06-26 | 2026-07-19 |
 | [Echoes](https://open.spotify.com/track/5iQf9pkvWsCr04zimLkusr) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Echoes](https://open.spotify.com/album/1nm30Bq5LbhXGUiTDoGSj8) | 3:49 | 2025-04-11 |  |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 | 2023-09-12 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 | 2026-05-16 |

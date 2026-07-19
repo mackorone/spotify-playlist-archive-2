@@ -4,7 +4,7 @@
 
 > 
 
-8,727 songs - 22 day 5 hr 12 min
+8,730 songs - 22 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,6 +940,7 @@
 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 | 2025-01-04 |  |
 | [Bosco \(Forest\)](https://open.spotify.com/track/5xgctu8pfsFGaYmBNb7HJS) | [Hemio](https://open.spotify.com/artist/2056Yz5AikkYkjm3HYaVNO) | [Love Does Soul Like Water on Withered Soil](https://open.spotify.com/album/0bZKlXn4Pm46J3y6iyBwp0) | 2:22 | 2025-10-22 |  |
 | [bossa uh](https://open.spotify.com/track/03tIAGs2JdAAKBm4Ew43x7) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [ivy league](https://open.spotify.com/album/1LBB5TSN1liTmK8ArWXptA) | 3:30 | 2025-01-15 |  |
+| [bossa uh](https://open.spotify.com/track/4JVget5dabGLIGgVkEKvDi) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [ivy league](https://open.spotify.com/album/2xpMqe8hvW0e4iL0dovGYO) | 3:30 | 2026-07-18 |  |
 | [Both \(feat\. Drake\)](https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:10 | 2025-01-03 |  |
 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:59 | 2025-01-03 |  |
 | [Bottle Rocket](https://open.spotify.com/track/10adw9QpJhaYdPQPdfjcij) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Saturday Morning](https://open.spotify.com/album/6yLxPkUxQi9UxLwTFX8I9y) | 0:54 | 2025-04-30 |  |
@@ -2243,6 +2244,7 @@
 | [Foggy Scenes of a Town Passing By](https://open.spotify.com/track/1x82mzGHG8gDGOknyd9z6S) | [Minuano](https://open.spotify.com/artist/4gBAA2nKYYBUsr01k0EVY4) | [Spring Lovers](https://open.spotify.com/album/5B10Jy0L9Lbks24hqhRC8D) | 4:06 | 2026-07-12 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2025-01-03 |  |
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-25 |  |
+| [food court](https://open.spotify.com/track/0IgVx5YfbBTte8btlLlSOI) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:15 | 2026-07-18 |  |
 | [Foolish love](https://open.spotify.com/track/6j6DIMn0dNIAgENJXyzqep) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Life Sentence](https://open.spotify.com/album/4OHf2kGbaAy2a2aduTNN1z) | 4:21 | 2025-04-20 |  |
 | [Foolish Love](https://open.spotify.com/track/7I7TTfKcDDAeSf6HPgbdPT) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 3:32 | 2025-03-24 |  |
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2026-03-26 |  |
@@ -3774,6 +3776,7 @@
 | [Letter To My Son \(Call Your Father\) \(feat\. Usher & Brian King Joseph\)](https://open.spotify.com/track/5PdUh1GU1rveAjCRXeJliX) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Brian King Joseph](https://open.spotify.com/artist/3AEGa5t5Hi77Hrg8EMuT84) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 4:05 | 2025-01-03 |  |
 | [Letter to myself](https://open.spotify.com/track/2xQHSbt0xDiuAq1TWBxJF9) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [Myself](https://open.spotify.com/album/1VAGcoDkrvxGURbqzh7m5l) | 4:50 | 2025-01-15 |  |
 | [Letter to myself](https://open.spotify.com/track/3maPKFJ0C44eM3ZUSEkUfx) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [Myself](https://open.spotify.com/album/201xIzWgRnQlZXGSkaqYQy) | 4:50 | 2025-06-04 |  |
+| [letting go](https://open.spotify.com/track/55YSCSjuIKRDObXdXj83ku) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 3:18 | 2026-07-18 |  |
 | [Let’s Walk Slowly](https://open.spotify.com/track/7pLKSDJ0Um28V3VtIuF9ip) | [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Cheap Coffee](https://open.spotify.com/album/2WcvcQy0nHCG34UxlSraiI) | 4:09 | 2025-01-03 |  |
 | [Level Tipping Scales](https://open.spotify.com/track/0bOZ9Im5CYFoaDCusSub2u) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Super Tecmo Bo](https://open.spotify.com/album/5leBUcbk6qAb5cDHYuVwBO) | 1:35 | 2024-12-14 |  |
 | [Levels](https://open.spotify.com/track/6pf9datdAtxQj4EU8UYHSx) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 2:47 | 2025-01-04 |  |

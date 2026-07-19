@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bury Tomorrow
 
-1,624 songs - 4 day 2 hr 35 min
+1,625 songs - 4 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Breaking Teeth](https://open.spotify.com/track/3HWyHrobRg5FYzGS0oP5FV) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Breaking Teeth](https://open.spotify.com/album/2KONHMjnO0RbxX997M2eEg) | 2:33 | 2023-09-29 | 2023-10-28 |
 | [Breaking Teeth](https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Fear Of Letting Go](https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy) | 2:33 | 2023-10-27 | 2024-08-13 |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-03-31 | 2025-05-09 |
-| [Breathe Me In](https://open.spotify.com/track/5eNdJtiLJnXtIZwqx6Cr2c) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Breathe Me In](https://open.spotify.com/album/1uSejhLVG5cZty8Legn8xZ) | 3:32 | 2025-12-12 |  |
+| [Breathe Me In](https://open.spotify.com/track/5eNdJtiLJnXtIZwqx6Cr2c) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Breathe Me In](https://open.spotify.com/album/1uSejhLVG5cZty8Legn8xZ) | 3:32 | 2025-12-12 | 2026-07-19 |
 | [Bring Back The Noise](https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Bring Back The Noise](https://open.spotify.com/album/7yaFrxjzkynJH2jQ45vJs4) | 2:10 | 2023-12-06 | 2024-02-10 |
 | [Broken](https://open.spotify.com/track/75MIRMjPWIY43XZTIFUjG0) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Broken](https://open.spotify.com/album/01aC7sE5ND2VgB7k4Vh2YL) | 2:49 | 2025-04-25 | 2025-06-01 |
 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 | 2023-11-27 | 2024-04-13 |
@@ -933,6 +933,7 @@
 | [My Empire](https://open.spotify.com/track/1vawlriAwEHXEOZXhpeIVD) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [My Empire](https://open.spotify.com/album/4zbOqdR8aNega4scGbV1eR) | 2:49 | 2025-06-13 | 2026-03-11 |
 | [My Everything](https://open.spotify.com/track/1Zsy3xy9TvYELEGg1js4yw) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:53 | 2023-03-10 | 2024-01-13 |
 | [My Father's Son \- Redux](https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [My Father's Son \(Redux\)](https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq) | 3:42 | 2024-08-25 | 2025-05-10 |
+| [My Forever Drug](https://open.spotify.com/track/2dImL4FJ7gJvILH9NXOgPL) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [My Forever Drug](https://open.spotify.com/album/13VyIN1hudh1P4aT1xbOQ0) | 3:01 | 2026-07-17 |  |
 | [My Resolve](https://open.spotify.com/track/6AVYG4ZmRx6UznbAFeakQs) | [Above Snakes](https://open.spotify.com/artist/65ypgVh5p50BgrYjQylzBv) | [My Resolve](https://open.spotify.com/album/7g9urEsJsD6kz99SLTbjK6) | 3:08 | 2025-12-12 | 2026-03-11 |
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |
 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 | 2022-06-24 | 2022-11-05 |

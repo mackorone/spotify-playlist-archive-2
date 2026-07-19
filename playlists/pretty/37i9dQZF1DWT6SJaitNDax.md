@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Davido and NO11
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,883 likes - 113 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,001 likes - 113 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

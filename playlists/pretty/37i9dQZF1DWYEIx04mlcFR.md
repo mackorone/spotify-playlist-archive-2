@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con BB ASUL y TAICHU en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,873 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,871 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Me gustas 1.1](https://open.spotify.com/track/2rt28dAHQibVUP6fQuTDRP) | [Jacqueline Prochet](https://open.spotify.com/artist/16e8iY0aAVoNzaV1sG4rKr) | [Creo que siempre te voy a querer](https://open.spotify.com/album/6mVUmMSwfxGdkEQUwXUNuR) | 2:52 |
 | 50 | [Estás DISTANTE](https://open.spotify.com/track/6tYwbdJWWrHo1l7OrymbUS) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [DISTANTE & tarde !!!](https://open.spotify.com/album/2EYql05GEvhAARlphRH6xH) | 3:02 |
 
-Snapshot ID: `AAAAAK1SY7UJIuIKOCyxSwM/HSK9Vzcl`
+Snapshot ID: `AAAAAC27rdHNAYatXVzvHReJE3GhSXcW`

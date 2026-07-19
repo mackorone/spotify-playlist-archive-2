@@ -1,6 +1,6 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.. Cover: Jason Crabb",
-  "num_followers": 433468,
+  "num_followers": 433506,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/0oBPRWV1lYq0Z4vnpQt6se"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/5XJ9YAEZsQxl0yRLNx1EBX"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
         }
       ],
-      "duration_ms": 213924,
-      "name": "Living Water",
-      "url": "https://open.spotify.com/track/53eAz1xAe54QMFBr1zjein"
+      "duration_ms": 214872,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/115KAd9VbsmqjrGVRbsIVC"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -155,18 +155,34 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/5XJ9YAEZsQxl0yRLNx1EBX"
+        "name": "Hands To The Sky",
+        "url": "https://open.spotify.com/album/7GwhxjMIst4GqsunHYgOD3"
       },
       "artists": [
         {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
         }
       ],
-      "duration_ms": 214872,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/115KAd9VbsmqjrGVRbsIVC"
+      "duration_ms": 193533,
+      "name": "Hands To The Sky",
+      "url": "https://open.spotify.com/track/6SQPn39jz1neqPQq0ZaS3t"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/0oBPRWV1lYq0Z4vnpQt6se"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 213924,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/53eAz1xAe54QMFBr1zjein"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -187,22 +203,6 @@
       "duration_ms": 478285,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "Hands To The Sky",
-        "url": "https://open.spotify.com/album/7GwhxjMIst4GqsunHYgOD3"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Hands To The Sky",
-      "url": "https://open.spotify.com/track/6SQPn39jz1neqPQq0ZaS3t"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "HOLY PLACE",
-        "url": "https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4"
-      },
-      "artists": [
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 257892,
-      "name": "HOLY PLACE",
-      "url": "https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "GO FOR BROKE",
         "url": "https://open.spotify.com/album/1FwwG1ESCyEWGqWT00IXWo"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 228029,
       "name": "GO FOR BROKE",
       "url": "https://open.spotify.com/track/0DKjNA405jiAQgkimXJqb5"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "HOLY PLACE",
+        "url": "https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 257892,
+      "name": "HOLY PLACE",
+      "url": "https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "FAITH",
-        "url": "https://open.spotify.com/album/6lzmdWMbhGb0vbW17XHhco"
+        "name": "Child of God Freestyle",
+        "url": "https://open.spotify.com/album/0OMWid10YXeS5mRuNucssd"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Jaz Donell",
+          "url": "https://open.spotify.com/artist/2AOPxALbQxgAhG49uFEmgb"
         }
       ],
-      "duration_ms": 181700,
-      "name": "FAITH",
-      "url": "https://open.spotify.com/track/1cwtGw7v2peqfQ5mH1L1s1"
+      "duration_ms": 153571,
+      "name": "Child of God Freestyle",
+      "url": "https://open.spotify.com/track/72tYDPXmZTOSNy3EFum0LR"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -651,18 +651,34 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Child of God Freestyle",
-        "url": "https://open.spotify.com/album/0OMWid10YXeS5mRuNucssd"
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/0YVYzRqRJdBAPSBqjNU4zF"
       },
       "artists": [
         {
-          "name": "Jaz Donell",
-          "url": "https://open.spotify.com/artist/2AOPxALbQxgAhG49uFEmgb"
+          "name": "Tate Butts",
+          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
         }
       ],
-      "duration_ms": 153571,
-      "name": "Child of God Freestyle",
-      "url": "https://open.spotify.com/track/72tYDPXmZTOSNy3EFum0LR"
+      "duration_ms": 200038,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "FAITH",
+        "url": "https://open.spotify.com/album/6lzmdWMbhGb0vbW17XHhco"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 181700,
+      "name": "FAITH",
+      "url": "https://open.spotify.com/track/1cwtGw7v2peqfQ5mH1L1s1"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -687,22 +703,6 @@
       "duration_ms": 323548,
       "name": "I Was Dead, Now I'm Alive - Live",
       "url": "https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/0YVYzRqRJdBAPSBqjNU4zF"
-      },
-      "artists": [
-        {
-          "name": "Tate Butts",
-          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
-        }
-      ],
-      "duration_ms": 200038,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -811,30 +811,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Holy Is He",
-        "url": "https://open.spotify.com/album/5NKhmZWg5cDaI2JxxcFGo5"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Kate Tamsen",
-          "url": "https://open.spotify.com/artist/5268DeVAJPgvGRryvIj1EE"
-        },
-        {
-          "name": "Chardon Lewis",
-          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
-        }
-      ],
-      "duration_ms": 376453,
-      "name": "Holy Is He",
-      "url": "https://open.spotify.com/track/15UfzWcb7zBgDqnBMf1Ptc"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Worthy Of It All (Worthy)",
         "url": "https://open.spotify.com/album/2LTIMGeqlFibHPJhpwOti7"
       },
@@ -855,6 +831,22 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/5S09TGVYHzj6QPJWUgNfHG"
+      },
+      "artists": [
+        {
+          "name": "NOURI",
+          "url": "https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW"
+        }
+      ],
+      "duration_ms": 178965,
+      "name": "Change in Your Name",
+      "url": "https://open.spotify.com/track/50k7ISfsdVnX0qwYinBmrp"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "far too small a word",
         "url": "https://open.spotify.com/album/2QrzUEcgypzGH3i7HToMEK"
       },
@@ -871,18 +863,26 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "No Place Like Home",
-        "url": "https://open.spotify.com/album/5S09TGVYHzj6QPJWUgNfHG"
+        "name": "Holy Is He",
+        "url": "https://open.spotify.com/album/5NKhmZWg5cDaI2JxxcFGo5"
       },
       "artists": [
         {
-          "name": "NOURI",
-          "url": "https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Kate Tamsen",
+          "url": "https://open.spotify.com/artist/5268DeVAJPgvGRryvIj1EE"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
         }
       ],
-      "duration_ms": 178965,
-      "name": "Change in Your Name",
-      "url": "https://open.spotify.com/track/50k7ISfsdVnX0qwYinBmrp"
+      "duration_ms": 376453,
+      "name": "Holy Is He",
+      "url": "https://open.spotify.com/track/15UfzWcb7zBgDqnBMf1Ptc"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "Andrae Crouch Medley (Live)",
         "url": "https://open.spotify.com/album/6UwJlxMwD6xcO2KSGAdJMx"
       },
@@ -1095,6 +1111,26 @@
       "duration_ms": 157963,
       "name": "Bout My Father's Business",
       "url": "https://open.spotify.com/track/3qYliDvUmeAw2o1UUXOpWn"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "My Redeemer Lives (He Lives)",
+        "url": "https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Southland",
+          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
+        }
+      ],
+      "duration_ms": 275786,
+      "name": "My Redeemer Lives (He Lives)",
+      "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1155,26 +1191,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "My Redeemer Lives (He Lives)",
-        "url": "https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Culture Worship",
-          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
-        },
-        {
-          "name": "Southland",
-          "url": "https://open.spotify.com/artist/12Zrq1PlpqldPe1bfR5boK"
-        }
-      ],
-      "duration_ms": 275786,
-      "name": "My Redeemer Lives (He Lives)",
-      "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "THE WORLD IS WATCHING",
         "url": "https://open.spotify.com/album/1kRFMO0oo6kkxjRf5h5IW9"
       },
@@ -1215,6 +1231,22 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/571AhobBqvp9atelYipeoa"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6XK57F1bH8p1zDDhU6v0kK"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "All Consuming Light",
         "url": "https://open.spotify.com/album/69eC1bHMUdEbed0TF9fZSA"
       },
@@ -1231,6 +1263,22 @@
       "duration_ms": 446820,
       "name": "Heaven Sings Holy",
       "url": "https://open.spotify.com/track/5kI4rMT8uDfEfLyVc0m5li"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "God Loves Us",
+        "url": "https://open.spotify.com/album/6IsJWTjqbUUbErOAYcEHws"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 165185,
+      "name": "God Loves Us",
+      "url": "https://open.spotify.com/track/2eetE5CK4TR510YmI1eWYo"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1255,38 +1303,6 @@
       "duration_ms": 168000,
       "name": "The Love of God",
       "url": "https://open.spotify.com/track/4wGtkg4JTISnP2aOTge6Id"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/571AhobBqvp9atelYipeoa"
-      },
-      "artists": [
-        {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/6XK57F1bH8p1zDDhU6v0kK"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "God Loves Us",
-        "url": "https://open.spotify.com/album/6IsJWTjqbUUbErOAYcEHws"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 165185,
-      "name": "God Loves Us",
-      "url": "https://open.spotify.com/track/2eetE5CK4TR510YmI1eWYo"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "This Is The Christ",
-        "url": "https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB"
-      },
-      "artists": [
-        {
-          "name": "Emu Music",
-          "url": "https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "This Is The Christ",
-      "url": "https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Not For Nothing",
         "url": "https://open.spotify.com/album/3t4jeHoOlorl3UD51Q1wsk"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3YW5GQekAtAus55D00IGnb"
+        "name": "This Is The Christ",
+        "url": "https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Emu Music",
+          "url": "https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip"
         }
       ],
-      "duration_ms": 141882,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/4MVtatngW7MKOp8mF3eVYA"
+      "duration_ms": 205000,
+      "name": "This Is The Christ",
+      "url": "https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP"
     }
   ],
   "unique_name": "Faith Rising",

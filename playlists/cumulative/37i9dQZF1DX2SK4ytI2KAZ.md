@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-696 songs - 1 day 14 hr 16 min
+697 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Back in Love](https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:14 | 2026-07-17 |  |
 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-10 | 2026-07-18 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2024-01-12 |  |
+| [Backseat Drivin'](https://open.spotify.com/track/6v65wlluPMQEiWXFeRf06r) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Backseat Drivin'](https://open.spotify.com/album/4lVPQp1OOjw0OxYKHZC2eO) | 3:47 | 2026-07-17 |  |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-05-05 | 2024-09-03 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-21 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-08 | 2024-04-19 |
@@ -217,7 +218,7 @@
 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 | 2022-06-27 | 2022-07-30 |
 | [Flashback](https://open.spotify.com/track/1TB6VEurAmNzFmgKCml86F) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Flashback](https://open.spotify.com/album/6gKpoRKgrLIb1hjSXwuEZn) | 3:14 | 2022-04-01 | 2022-05-05 |
 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2024-08-16 | 2025-02-01 |
-| [Flinch](https://open.spotify.com/track/1a6WaZ08ESI5JibXxKqYzo) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F) | 2:15 | 2026-07-17 |  |
+| [Flinch](https://open.spotify.com/track/1a6WaZ08ESI5JibXxKqYzo) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F) | 2:15 | 2026-07-17 | 2026-07-19 |
 | [Fools](https://open.spotify.com/track/7a0VLUciBUdE2RmpEnod9O) | [ufo ufo](https://open.spotify.com/artist/1TsvuGn3XJ4F04fRavTonu) | [Fools](https://open.spotify.com/album/1pKwcCYYMtYWsKnXvpmNYP) | 3:40 | 2022-03-11 | 2022-07-30 |
 | [for your love](https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [for your love](https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3) | 3:05 | 2026-07-17 |  |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 | 2021-03-10 |  |

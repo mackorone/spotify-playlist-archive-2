@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Not For Radio",
-  "num_followers": 1611754,
+  "num_followers": 1611633,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-07-06 19:19:49",
       "album": {
+        "name": "Hold It Together",
+        "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 222021,
+      "name": "Hold It Together",
+      "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
+    },
+    {
+      "added_at": "2026-07-06 19:19:49",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2026-07-06 19:19:49",
       "album": {
-        "name": "Hold It Together",
-        "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 222021,
-      "name": "Hold It Together",
-      "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
-    },
-    {
-      "added_at": "2026-07-06 19:19:49",
-      "album": {
         "name": "Melt",
         "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-06 19:19:49",
       "album": {
-        "name": "flora maniia",
-        "url": "https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk"
-      },
-      "artists": [
-        {
-          "name": "Temachii",
-          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "may you never forget me",
-      "url": "https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx"
-    },
-    {
-      "added_at": "2026-07-06 19:19:49",
-      "album": {
         "name": "Modus Vivendi",
         "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 213333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
+    },
+    {
+      "added_at": "2026-07-06 19:19:49",
+      "album": {
+        "name": "flora maniia",
+        "url": "https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk"
+      },
+      "artists": [
+        {
+          "name": "Temachii",
+          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "may you never forget me",
+      "url": "https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx"
     },
     {
       "added_at": "2026-07-06 19:19:49",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-06 19:19:49",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
-    },
-    {
-      "added_at": "2026-07-06 19:19:49",
-      "album": {
         "name": "Ooh Rap I Ya",
         "url": "https://open.spotify.com/album/2kvz9frUn3LUK83imD2BQS"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-07-06 19:19:49",
       "album": {
-        "name": "Becoming X",
-        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
       "artists": [
         {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 228840,
-      "name": "6 Underground",
-      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
+      "duration_ms": 192961,
+      "name": "Bruises Off The Peach",
+      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
     },
     {
       "added_at": "2026-07-06 19:19:49",
@@ -1063,6 +1047,22 @@
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2026-07-06 19:19:49",
+      "album": {
+        "name": "Becoming X",
+        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
+      },
+      "artists": [
+        {
+          "name": "Sneaker Pimps",
+          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "6 Underground",
+      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
     },
     {
       "added_at": "2026-07-06 19:19:49",

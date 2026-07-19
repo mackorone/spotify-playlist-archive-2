@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm?si=qDrrgDxzRmaX8kBOPHa7MQ">tg.blk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,031 likes - 98 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,048 likes - 98 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

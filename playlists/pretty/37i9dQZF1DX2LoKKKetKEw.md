@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Essence Natay & Vic Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,910 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,977 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 79 | [Jehovah](https://open.spotify.com/track/2wdm39BvRjYNFLeWKkwSfJ) | [Steady Okurame](https://open.spotify.com/artist/64Wsmm4lbVQA1rGHfnpe8E) | [Jehovah](https://open.spotify.com/album/7oTrRW5IxocG3UOog8LwCX) | 2:58 |
 | 80 | [Never Leaving \(Tete\)](https://open.spotify.com/track/34Ah7sYgMVHuemzd8BN58P) | [Mister Pryz](https://open.spotify.com/artist/5qTx80xfDGeoEIHHHZPlxs) | [Never Leaving \(Tete\)](https://open.spotify.com/album/2loSsDK6FsYGgOHpU0oZAy) | 3:04 |
 
-Snapshot ID: `AAAAAGlvLe/HgEBhI9zAWJ3dJKQBXV7k`
+Snapshot ID: `AAAAAP09BTym2fs6MK1PbpkbfpwNH2px`

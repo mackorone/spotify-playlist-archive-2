@@ -6,7 +6,7 @@
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABgEKdueYxVQbBRcNro5rHb9zepwHd",
+  "snapshot_id": "AAABgTkUPD/z1KmCSFgcmbYhRzQojNWC",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -10171,6 +10171,26 @@
       "duration_ms": 283124,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7lTwzE6Pa0BI9O1ok3KYZW"
+    },
+    {
+      "added_at": "2026-07-19 02:59:41",
+      "album": {
+        "name": "recursus*",
+        "url": "https://open.spotify.com/album/4AMO4wrdcCCDcdUmuhZv2k"
+      },
+      "artists": [
+        {
+          "name": "cupsy",
+          "url": "https://open.spotify.com/artist/75jzqyFMR0AvSPNB9qne7S"
+        },
+        {
+          "name": "4evrx",
+          "url": "https://open.spotify.com/artist/25iVu5L3b8XUxDj1jdTPwh"
+        }
+      ],
+      "duration_ms": 229050,
+      "name": "eternal spell",
+      "url": "https://open.spotify.com/track/3gMcNUCdCFVvpeUEJjgUwv"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

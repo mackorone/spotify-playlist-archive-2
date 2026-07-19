@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-904 songs - 2 day 15 hr 42 min
+905 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,7 +571,7 @@
 | [Nearly Everything](https://open.spotify.com/track/6Kn1gBPHZ7EHpvjNNrYhWQ) | [Teotima](https://open.spotify.com/artist/5Nt0nt9CR5Fi2BUEv0weLZ) | [Counting the Ways](https://open.spotify.com/album/0xn7sakWRxz29Ve9T6eQ63) | 8:42 | 2022-04-17 | 2022-06-04 |
 | [Nefertiti \- David Walters Remix](https://open.spotify.com/track/1m0OvusfKEUnCp5yeu2n5w) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Nefertiti \(David Walters Remix\)](https://open.spotify.com/album/23m1mFoYRTki07i4WBUtUH) | 3:28 | 2021-10-06 | 2025-07-23 |
 | [Negro Santo](https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:58 | 2022-04-05 | 2025-12-31 |
-| [Nen Lambo](https://open.spotify.com/track/6zWn8wLNdQnn80WJWV6TaO) | [Bill Loko](https://open.spotify.com/artist/0r6b4CqtfIXtTkKR9aqQQA) | [Pop Makossa \(Analog Africa No\. 23\)](https://open.spotify.com/album/5oxWoRY1NLhmCwBEKA3ZJa) | 6:23 | 2021-10-06 |  |
+| [Nen Lambo](https://open.spotify.com/track/6zWn8wLNdQnn80WJWV6TaO) | [Bill Loko](https://open.spotify.com/artist/0r6b4CqtfIXtTkKR9aqQQA) | [Pop Makossa \(Analog Africa No\. 23\)](https://open.spotify.com/album/5oxWoRY1NLhmCwBEKA3ZJa) | 6:23 | 2021-10-06 | 2026-07-19 |
 | [Netseweth Sifassan Nagh](https://open.spotify.com/track/2SWXWkmpjPsZDYeOhbmjdO) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 4:27 | 2021-12-17 | 2022-07-19 |
 | [Netseweth Sifassan Nagh \(Habibi Funk 017\)](https://open.spotify.com/track/32w5a6z6eG2Dyx69yBbH0q) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Netseweth Sifassan Nagh \(Habibi Funk 017\)](https://open.spotify.com/album/2MkZrAcy15VY2xFvzK48J8) | 4:27 | 2022-01-14 | 2022-04-13 |
 | [Never Understand \- Habibi Funk 024](https://open.spotify.com/track/4GiYIQr4qEMxJDT9OPaYji) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Never Understand \(Habibi Funk 024\)](https://open.spotify.com/album/5IINb7SuoBdORtAqr8uafK) | 3:54 | 2023-09-18 | 2023-11-29 |
@@ -851,6 +851,7 @@
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-10-06 | 2024-04-28 |
 | [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 | 2022-11-22 |
 | [Waile](https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 5:15 | 2023-10-05 | 2024-01-23 |
+| [Waiting](https://open.spotify.com/track/0ecKLqDfhBU9BIrSfo97w6) | [Willy Delphia](https://open.spotify.com/artist/3cOrJsMYcSXlIhz5eQ7dzX), [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Waiting](https://open.spotify.com/album/2emcK2s7FxbczdlFqKlDKC) | 5:04 | 2026-06-25 |  |
 | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp) | 3:23 | 2025-06-03 | 2026-06-26 |
 | [Warni Warni](https://open.spotify.com/track/3cAeVEM3e2qv2V4lVhMpdR) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 6:52 | 2025-05-09 | 2025-06-27 |
 | [Watany Al Kabir](https://open.spotify.com/track/4Uompvio1rSmz6geQU9Pkl) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [The Father of Libyan Reggae \(Habibi Funk 024\)](https://open.spotify.com/album/0SmSMo59rx6TuI0B8lsQuZ) | 5:44 | 2023-11-13 | 2024-06-02 |

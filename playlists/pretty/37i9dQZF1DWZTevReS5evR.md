@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,527 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,536 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 99 | [Pengganti Aku](https://open.spotify.com/track/0NrGEbLL9aggrUwsWJUWaT) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 3:58 |
 | 100 | [Badut](https://open.spotify.com/track/1f9g3LPKeaxNje4eCSxgap) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Badut, Pt\. 2](https://open.spotify.com/album/4YGjzOfIQyZ0cMmPNz6juQ) | 7:19 |
 
-Snapshot ID: `AAAAABFstNgsTDsIKQTrh3U8wEwf/29g`
+Snapshot ID: `AAAAADSq+7KYLJjhFroVv0S6eywk4DOX`

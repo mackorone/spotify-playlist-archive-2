@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,880 likes - 75 songs - 4 hr 59 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,878 likes - 76 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 73 | [DISDAINED:REANIMATED](https://open.spotify.com/track/0QCQ8vdVwTVj3uzte89TCi) | [Soulbloom](https://open.spotify.com/artist/5zDTFu6FMdanKfmNNVvPiW) | [DISDAINED:REANIMATED](https://open.spotify.com/album/0L5E3eEcCcrK1Z1TZIyQYF) | 2:25 |
 | 74 | [Haga Lo Que Haga](https://open.spotify.com/track/7rtCC8R2Id26sFryZuO13A) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Haga Lo Que Haga](https://open.spotify.com/album/1VKklGTrS2IZ2HlskmH7Ql) | 2:34 |
 | 75 | [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 |
+| 76 | [Recipe](https://open.spotify.com/track/0Ym4Dc0ohJCHsYLjCWSj9m) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Recipe](https://open.spotify.com/album/0rbqeuSrlS68u3gMD0qvN0) | 4:36 |
 
-Snapshot ID: `AAAMCBHrxvRwLL204VmHnSQDNTf76B0X`
+Snapshot ID: `AAAMCZZ0y7N3Umlr1UEhtfN7sKxP1S09`

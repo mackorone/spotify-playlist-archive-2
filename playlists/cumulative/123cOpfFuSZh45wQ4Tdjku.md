@@ -4,7 +4,7 @@
 
 > mostly furry
 
-470 songs - 22 hr 49 min
+473 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Gone Away](https://open.spotify.com/track/2Q4BM6mCDIqadoG6T8kKSy) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 1:28 | 2025-04-24 |  |
 | [Good Old Green Days](https://open.spotify.com/track/46t9sTC5suAbc3l4CMDDah) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 | 2025-02-10 |  |
 | [Good Old Green Days \(Slappy Hours Mix\)](https://open.spotify.com/track/2PC17V6KxPHmKxvzaBgBof) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 | 2025-02-10 |  |
-| [Goodnight For Now](https://open.spotify.com/track/3u9b0gYCyQEu3CiTKJYEQY) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 3:37 | 2025-04-24 |  |
+| [Goodnight For Now](https://open.spotify.com/track/3u9b0gYCyQEu3CiTKJYEQY) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 3:37 | 2025-04-24 | 2026-07-19 |
 | [Gospel for Triumph](https://open.spotify.com/track/0HqHMuxRCndUaivcYjUBqR) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 3:23 | 2026-04-28 |  |
 | [GOT UR NUMB3R \(v2\)](https://open.spotify.com/track/3zBr59QfL64HNPcGcrQUX6) | [bugcried](https://open.spotify.com/artist/5lvB2ZiSrNidq4GaFrWHK2) | [GOT UR NUMB3R \(v2\)](https://open.spotify.com/album/4pO6bXk0KG5XzhZCjg76GW) | 2:33 | 2026-07-17 |  |
 | [Green N Purple](https://open.spotify.com/track/3R0l4sETdGJWzXplxXHFuT) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Green N Purple](https://open.spotify.com/album/5WU4D4OuWWQuEi1wGhAfON) | 4:35 | 2024-05-15 |  |
@@ -208,6 +208,7 @@
 | [It's Normal](https://open.spotify.com/track/51Fh6eKnXxxfavzeI4Ejrg) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [It's Normal](https://open.spotify.com/album/1A5DWtVa5xOPkLe3X1YHOy) | 4:22 | 2024-05-23 |  |
 | [JayJay](https://open.spotify.com/track/3RBZeFw260x4gmlYYk45bm) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 4:29 | 2025-04-24 |  |
 | [JuiceBox](https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [JuiceBox](https://open.spotify.com/album/7aVYiNPz1HtCitbhFBg5V2) | 2:53 | 2025-04-26 |  |
+| [Just a Little Better](https://open.spotify.com/track/13jSiZCcJYHaBYUWYdc637) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 3:08 | 2026-07-18 |  |
 | [Just Don't Let Go](https://open.spotify.com/track/2X9uiAucwbxCzslbudXA98) | [Martyrs of Apathy](https://open.spotify.com/artist/0CqyREwcnKy21Xw0GMJvrv) | [\(FIN\)](https://open.spotify.com/album/469y4tsZ0wvxDhg3IUqB2i) | 5:06 | 2024-01-20 |  |
 | [Just Let Go](https://open.spotify.com/track/4feZEeR7rlX0ieNAD53bEG) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [On My Way](https://open.spotify.com/album/1l9aUUdoUKf9dKZyoNaTPy) | 2:25 | 2025-04-22 |  |
 | [KATAMARI](https://open.spotify.com/track/1lAQkl0GrOlTi5zREtyH9V) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/6wjbmZMsDypQDhrdTmDcrx) | 2:38 | 2026-07-17 |  |
@@ -372,6 +373,7 @@
 | [SLUGCAT PINBALL](https://open.spotify.com/track/1wkOvV481vWHJcBi0C4Zq0) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [SLUGCAT PINBALL](https://open.spotify.com/album/1A8lHXbpi3RawUMlqwq8vN) | 3:25 | 2024-05-15 |  |
 | [Smile Like You Mean It \(Alastor's Offer\)](https://open.spotify.com/track/0ZdXVZDwHIcFJJOJvo6T1k) | [PARANOiD DJ](https://open.spotify.com/artist/1ErI35SxG33WMpluWpSe08) | [Smile Like You Mean It \(Alastor's Offer\)](https://open.spotify.com/album/7rnKTM5Ea8rt7OGT8C7lhB) | 3:35 | 2024-05-14 |  |
 | [Smile's a Symptom](https://open.spotify.com/track/3NhUcH1719H2yBtElNXh0D) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Rebirth](https://open.spotify.com/album/64ZoM34QVrRj0zzAOqRhA7) | 2:48 | 2026-04-28 |  |
+| [So Long](https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [So Long](https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz) | 4:15 | 2026-07-18 |  |
 | [Someday](https://open.spotify.com/track/2RE376psVAKY5bJYz3XzIH) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Someday](https://open.spotify.com/album/1rvUqeSftZSFTF2ThaU86g) | 3:06 | 2024-07-12 |  |
 | [Soul Astray](https://open.spotify.com/track/43jrAbJbPwB2czCopVKrak) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Soul Astray](https://open.spotify.com/album/0QQQPxwS5UEL8hg8mmcbtD) | 3:09 | 2024-05-15 |  |
 | [Spark](https://open.spotify.com/track/7mYnwn9MTh54dkdkfvUcjB) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Spark](https://open.spotify.com/album/56U4jCvtAQLLAy1kDhMgJ3) | 4:08 | 2023-11-18 |  |
@@ -453,6 +455,7 @@
 | [Welcome To Heaven](https://open.spotify.com/track/1Hqk4SHLCLSQYfORVEcWkf) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Shoba Narayan](https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj), [Patina Miller](https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 1:00 | 2024-05-14 |  |
 | [What a Hellhole \- Sinner Adam Song](https://open.spotify.com/track/4IZnhuNYLbLpn7jxo10uF8) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO), [EggOnYourLeg](https://open.spotify.com/artist/1JINyD79RTJCCR1kf8WKen) | [What a Hellhole \(Sinner Adam Song\)](https://open.spotify.com/album/2Dk8I86os3rOvKRyZTuuaf) | 2:52 | 2024-12-20 |  |
 | [What I'll Do](https://open.spotify.com/track/3DPCLI7pZXjSiZilX0gehv) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Wag My Tail](https://open.spotify.com/album/2sBXtD2bY1FaiXTzIft4qB) | 3:48 | 2024-05-15 |  |
+| [what the](https://open.spotify.com/track/6QY4EGyvY1sKaIUEJAk00e) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [what the](https://open.spotify.com/album/5oJwI2DMsXCCq0tiinA843) | 1:53 | 2026-07-18 |  |
 | [What's It Like Having A Hometown?](https://open.spotify.com/track/1Sh6AZpMkX6RoLpsZqLnSN) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 1:52 | 2025-04-24 |  |
 | [Whatever It Takes](https://open.spotify.com/track/42zkB4Eh0PAxwnTaXP6HxU) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [James Monroe Iglehart](https://open.spotify.com/artist/1RHbG28m5gaCOeIgaxEgLb) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:57 | 2024-05-14 |  |
 | [Whatever U Want Me 2 Be](https://open.spotify.com/track/70ViO6ChzdWHdDjVfU6jrn) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 3:11 | 2023-11-18 |  |

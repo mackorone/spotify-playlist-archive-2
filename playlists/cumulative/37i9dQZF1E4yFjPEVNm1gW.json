@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Fashionista",
+        "url": "https://open.spotify.com/album/36dTjSuI4blQIEkwVgx9LY"
+      },
+      "artists": [
+        {
+          "name": "g4lato",
+          "url": "https://open.spotify.com/artist/1vq8ttsGEpuQthHNnKfzvn"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Fashionista",
+      "url": "https://open.spotify.com/track/0foI0eeyZdtnlEreN89s2I"
+    },
+    {
+      "album": {
         "name": "Fire in my heart",
         "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
@@ -1812,6 +1830,28 @@
       "duration_ms": 144055,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/2JegRQblXBHcGA6oGpoxrn"
+    },
+    {
+      "album": {
+        "name": "HARD 2 SEE",
+        "url": "https://open.spotify.com/album/6KotDeJ4l49ug8vHuiTOE3"
+      },
+      "artists": [
+        {
+          "name": "WeAreFuturr",
+          "url": "https://open.spotify.com/artist/0SJSc5z8sv4KZuNmB1mXfc"
+        },
+        {
+          "name": "Wifisfuneral",
+          "url": "https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123085,
+      "name": "HARD 2 SEE",
+      "url": "https://open.spotify.com/track/1N8f4otTcDC6Pvieasc5MQ"
     },
     {
       "album": {
@@ -2230,7 +2270,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
@@ -3356,7 +3396,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -4831,6 +4871,28 @@
     },
     {
       "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0v6q9ZHtwRs9PnFaoPnBLf"
+      },
+      "artists": [
+        {
+          "name": "4ford",
+          "url": "https://open.spotify.com/artist/5aNgGhyngFTE9D7PYbFWzt"
+        },
+        {
+          "name": "1oneam",
+          "url": "https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104783,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2qj9YzI5BDAPNBOjnfWo9H"
+    },
+    {
+      "album": {
         "name": "Tuck Blick",
         "url": "https://open.spotify.com/album/3ISOMp3jA6STWoglv2jtF2"
       },
@@ -5100,7 +5162,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 174202,
       "name": "WHITE T",
       "url": "https://open.spotify.com/track/1L3dcYffJhpNn07abhGCgF"
@@ -5328,7 +5390,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-19",
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"

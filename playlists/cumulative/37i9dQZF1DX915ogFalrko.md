@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-238 songs - 13 hr 58 min
+239 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Pretty](https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Pretty](https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3) | 3:23 | 2025-08-07 | 2025-11-16 |
 | [Quand on arrive en ville](https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Quand on arrive en ville](https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE) | 3:38 | 2025-07-18 |  |
 | [Rapids of Love](https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm) | [Rapids of Love](https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D) | 2:45 | 2025-12-18 | 2026-01-15 |
-| [Reach Heaven](https://open.spotify.com/track/2pFixY1kWsWfe7A914ZvJa) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Reach Heaven](https://open.spotify.com/album/43Y06TOVNU5uPUTBvrD73s) | 3:38 | 2026-07-16 |  |
+| [Reach Heaven](https://open.spotify.com/track/2pFixY1kWsWfe7A914ZvJa) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Reach Heaven](https://open.spotify.com/album/43Y06TOVNU5uPUTBvrD73s) | 3:38 | 2026-07-16 | 2026-07-19 |
 | [red top](https://open.spotify.com/track/1R01UctoTNIDuyZA8nhKf3) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [red top](https://open.spotify.com/album/0rCjLkKlUfNnGAQrd9hUdz) | 2:03 | 2026-03-20 | 2026-04-11 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-07-18 | 2025-08-22 |
 | [revolver](https://open.spotify.com/track/0ZsmQPfjB6s5PTTC8OJiGx) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [revolver](https://open.spotify.com/album/0znbpnfnE9qDPWEBngkKIw) | 3:44 | 2026-07-02 | 2026-07-17 |
@@ -194,6 +194,7 @@
 | [Sua Alma](https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [D'Alma](https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us) | [Umoja](https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA) | 4:42 | 2025-07-18 |  |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-18 | 2025-11-15 |
 | [Such Great Heights \- From "Tell Me Lies \(Season 3\)"](https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Such Great Heights \[From "Tell Me Lies \(Season 3\)"\]](https://open.spotify.com/album/3Qabstvdx4TfWujTzy5Gee) | 4:27 | 2026-02-19 | 2026-03-07 |
+| [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 | 2026-07-16 |  |
 | [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-08-01 | 2025-10-17 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-07-18 | 2025-08-08 |
 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 | 2025-07-18 |  |

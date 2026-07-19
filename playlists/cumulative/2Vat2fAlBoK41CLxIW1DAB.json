@@ -5459,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "Five Million Ways to Die",
+        "url": "https://open.spotify.com/album/0BCu84kJvCDGbHm03cPL6T"
+      },
+      "artists": [
+        {
+          "name": "RamShackle",
+          "url": "https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198003,
+      "name": "Five Million Ways to Die",
+      "url": "https://open.spotify.com/track/1v5995U5wIjCYs2AHkPgEF"
+    },
+    {
+      "album": {
         "name": "Flesh Projection",
         "url": "https://open.spotify.com/album/6Ga7S2YUXkm9OaJQPsxk4E"
       },
@@ -13594,6 +13612,24 @@
       "duration_ms": 183199,
       "name": "Roses In The Sea",
       "url": "https://open.spotify.com/track/7nLoVD1SPIZYHOAsoQTBtF"
+    },
+    {
+      "album": {
+        "name": "Roter Opel Corsa",
+        "url": "https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP"
+      },
+      "artists": [
+        {
+          "name": "Kurz Nach Zwei",
+          "url": "https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182490,
+      "name": "Roter Opel Corsa",
+      "url": "https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx"
     },
     {
       "album": {
