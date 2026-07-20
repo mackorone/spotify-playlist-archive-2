@@ -4,7 +4,7 @@
 
 > ¡Música que representa a Cuba! Cover: Dany Ome & Kevincito El 13
 
-194 songs - 11 hr 5 min
+195 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Besito Con Lengua](https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Yakarta](https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG) | [Party Full Nasty \(Deluxe Edition\)](https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw) | 3:28 | 2022-02-25 | 2026-07-01 |
 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 | 2022-04-08 | 2024-04-19 |
 | [Bla Bla Bla](https://open.spotify.com/track/1j7gz0GQdnBjxySqB8DAK7) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Latin Hits 2015 Club Edition \- 60 Latin Music Hits \(Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton, Kuduro, Latin Fitness\)](https://open.spotify.com/album/5vgDG3G3YEENAKiZv0bbOY) | 3:32 | 2022-02-25 | 2022-07-29 |
-| [BORRACHO](https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3) | [Un Titico](https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX) | [TE VIRÉ EL CASETTE](https://open.spotify.com/album/6HuNpYO5oiXanjfMiyq7F2) | 4:00 | 2026-06-30 |  |
+| [BORRACHO](https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3) | [Un Titico](https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX) | [TE VIRÉ EL CASETTE](https://open.spotify.com/album/6HuNpYO5oiXanjfMiyq7F2) | 4:00 | 2026-06-30 | 2026-07-20 |
 | [Bruto](https://open.spotify.com/track/4ZK2XiI1L3ceiH8GU9rifk) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Yakarta](https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG) | [Bruto](https://open.spotify.com/album/3zHyS1ZIzdzSkVTdsI8oYF) | 3:14 | 2022-02-25 | 2026-07-01 |
 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 | 2022-04-08 | 2024-04-19 |
 | [Calentando la Habana](https://open.spotify.com/track/5D5eHsVVy8JEHBOUXlhd4t) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Calentando la Habana](https://open.spotify.com/album/07Gy6UBWNbNzzOs4lmSZKC) | 4:13 | 2022-04-08 | 2022-12-26 |
@@ -202,5 +202,6 @@
 | [Yo Lo Se](https://open.spotify.com/track/4Wg0arjOVJ0cGYpm1lZqoJ) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/3Ni4EcYEa90suVEg4lqj08) | 3:27 | 2022-02-25 | 2026-07-01 |
 | [Yo Lo Se](https://open.spotify.com/track/3tpOjFm3syJjeQoccgSY8C) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/2qoZ3vyrc6bhjUdewwkmqP) | 3:27 | 2022-04-08 | 2024-04-19 |
 | [Yo Si Y Tú No](https://open.spotify.com/track/6FPxiFg1qKRueB2KMItMUL) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [2.45](https://open.spotify.com/album/1BPhyOHsr7BSBTXTaRgf1w) | 3:39 | 2023-02-10 | 2026-07-01 |
+| [Yo Voy A Mi](https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI) | [Ya Ice Dilan](https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA), [JipMusic Global](https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Yo Voy A Mi](https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn) | 2:44 | 2026-07-17 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

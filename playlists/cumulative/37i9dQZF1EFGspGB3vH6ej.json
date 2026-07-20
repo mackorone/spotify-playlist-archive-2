@@ -331,6 +331,36 @@
     },
     {
       "album": {
+        "name": "Daydream (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3KGlZ9YeHexP80A3scG86n"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Da Brat",
+          "url": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
+        },
+        {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281451,
+      "name": "Always Be My Baby (feat. Da Brat & Xscape) - Mr. Dupri Mix",
+      "url": "https://open.spotify.com/track/1ue6dtgVbVN6LYI13gE8pa"
+    },
+    {
+      "album": {
         "name": "Always Be My Baby EP",
         "url": "https://open.spotify.com/album/4g1rP0VXfdQgbTp6j8GOB8"
       },
@@ -354,7 +384,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 281520,
       "name": "Always Be My Baby (feat. Da Brat & Xscape) - Mr. Dupri Mix",
       "url": "https://open.spotify.com/track/4ItpMQkpwBPICtRQE3yUMb"
@@ -720,7 +750,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 266826,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa"
@@ -1060,7 +1090,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 319106,
       "name": "Crybaby (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5DkHYNiEqDnyKHW5r1Esj6"
@@ -1876,7 +1906,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 118979,
       "name": "Hero",
       "url": "https://open.spotify.com/track/2lnhv1xueIli5KwybGi9Vk"
@@ -1894,7 +1924,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 257921,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
@@ -3230,7 +3260,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 308018,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST"
@@ -5230,7 +5260,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 250466,
       "name": "Triumphant (Get 'Em)",
       "url": "https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL"
@@ -5502,7 +5532,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"

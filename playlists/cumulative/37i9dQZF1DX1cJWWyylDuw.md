@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Bring Me The Horizon
 
-823 songs - 2 day 4 hr 14 min
+824 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Chrome Moon](https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Starfire](https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0) | 4:04 | 2024-06-25 |  |
 | [chump change](https://open.spotify.com/track/3QkC8Q2o3NoH3a8to0VKmu) | [GRITMONGER](https://open.spotify.com/artist/67LJ4pQ9f28qmfPGSGvd1i), [Tumaggz](https://open.spotify.com/artist/56kfj4Dao75l6Dfjqxvobd) | [type shit](https://open.spotify.com/album/0cKGSCBNTdT9RaXg8ZbNrl) | 1:35 | 2025-08-22 | 2026-01-19 |
 | [Cicada](https://open.spotify.com/track/09XcghmEqtPUmGsXHy1VA7) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Cicada](https://open.spotify.com/album/1gJQH2yB80CLagucfP6sze) | 3:01 | 2021-12-17 | 2022-07-29 |
-| [Circus Sapiens](https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ) | [NECROTTED](https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl) | [Circus Sapiens](https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja) | 3:21 | 2026-03-22 |  |
+| [Circus Sapiens](https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ) | [NECROTTED](https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl) | [Circus Sapiens](https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja) | 3:21 | 2026-03-22 | 2026-07-20 |
 | [Civic Assault](https://open.spotify.com/track/1XHcJ9I73gB6uwKtryfC9B) | [Waking the Cadaver](https://open.spotify.com/artist/0Y7lDsDZc8qYny9MTq8xG2) | [Authority Through Intimidation](https://open.spotify.com/album/4vfoJ5Ixw4Ae8zQrKIPWWW) | 3:19 | 2021-12-17 | 2022-07-24 |
 | [Claustrophobic](https://open.spotify.com/track/0RlDBgXlhYVqatgogKYo1F) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Alan Grnja](https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L) | [Claustrophobic](https://open.spotify.com/album/1AHEHHN7GwDnbAeU3pM5aJ) | 4:01 | 2022-04-08 | 2022-04-20 |
 | [Clouded Retinas \(feat\. Will Ramos\)](https://open.spotify.com/track/4uuG66FRhvdVenLtyfWx5h) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Clouded Retinas \(feat\. Will Ramos\)](https://open.spotify.com/album/6GpJYLV6rt9lPXz84nZuaM) | 3:12 | 2025-06-06 | 2025-08-24 |
@@ -418,6 +418,7 @@
 | [Into the Abyss](https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [Into the Abyss](https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t) | 3:23 | 2023-04-14 | 2025-08-16 |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 | 2023-04-29 |
 | [Introspection \(Loathing\)](https://open.spotify.com/track/0UWiDloT2S7C1qL84U8Z3z) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Introspection \(Loathing\)](https://open.spotify.com/album/5q2xn0gUDH4TP8lN5UCeV2) | 2:44 | 2021-12-17 | 2022-07-27 |
+| [Invertebrate](https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [Invertebrate](https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef) | 3:01 | 2026-07-17 |  |
 | [INVERTED SPEAR OF HEAVEN](https://open.spotify.com/track/1c5WFko3iRB0uCshh5YCjZ) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER](https://open.spotify.com/album/0dHQH04nSGugSUSQOHOUpF) | 3:14 | 2025-07-25 | 2026-07-18 |
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2021-12-17 | 2022-07-28 |
 | [It Comes For You](https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [It Comes For You](https://open.spotify.com/album/50teRCEaNpo7gWCnQ74yVU) | 3:54 | 2025-09-12 |  |

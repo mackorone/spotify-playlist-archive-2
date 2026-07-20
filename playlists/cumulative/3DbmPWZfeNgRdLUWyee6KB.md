@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,313 songs - 3 day 4 hr 20 min
+1,314 songs - 3 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Il vaccino e' vicino](https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Il vaccino e' vicino](https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS) | 2:38 | 2026-02-05 | 2026-03-07 |
 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 | 2026-01-28 | 2026-02-28 |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 | 2026-01-05 |
+| [In Slow Motion \- Acoustic](https://open.spotify.com/track/4ioRmTEXJEOrbfRSA6Cox2) | [Snawfus Screamers](https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu) | [In Slow Motion \(Acoustic\)](https://open.spotify.com/album/0C2WHZjFbNEYdeKsHuJnIM) | 3:30 | 2026-07-19 |  |
 | [In the Rain](https://open.spotify.com/track/2UxTpgqN3i6IRuJCNEnBWZ) | [Tyell](https://open.spotify.com/artist/3vn1K9sRLk08d2DV2A6Y2B) | [In the Rain](https://open.spotify.com/album/7dtUQxnDwg3rrQioBDRW0K) | 4:26 | 2026-02-24 | 2026-03-25 |
 | [In The Sunlight](https://open.spotify.com/track/4jYaU3mgWePgJI5zmPJZ7c) | [Orla Monelle](https://open.spotify.com/artist/2ZcTiMux6U6EaaBd8nkmWa) | [In The Sunlight](https://open.spotify.com/album/77cbNhYzqMpynHkQfC6l0v) | 2:52 | 2026-05-18 | 2026-07-03 |
 | [In Your Dreams](https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [In Your Dreams](https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77) | 2:17 | 2026-04-02 | 2026-05-03 |

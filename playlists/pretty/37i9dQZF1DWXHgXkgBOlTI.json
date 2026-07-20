@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u4e0b\u4e2d\u6d0b\u4ecb",
-  "num_followers": 33095,
+  "num_followers": 33096,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "MELODICA",
-        "url": "https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3"
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP"
       },
       "artists": [
         {
           "name": "haruka nakamura",
           "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        },
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
         }
       ],
-      "duration_ms": 400106,
-      "name": "Lamp (feat. Nujabes)",
-      "url": "https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU"
+      "duration_ms": 245500,
+      "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

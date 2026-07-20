@@ -4,7 +4,7 @@
 
 > This is Hannah Montana\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 51 min
+35 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | [Best of Both Worlds \- Live from Arrowhead Pond, Anaheim, U.S.A./2008](https://open.spotify.com/track/1R7pKucmSJSGyRt81RbYSY) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana/Miley Cyrus: Best of Both Worlds Concert](https://open.spotify.com/album/2zJLYnSCi9TzjI7FaONPTC) | 3:27 | 2026-03-26 |  |
 | [Chris Cox Megamix \- Bonus Remix](https://open.spotify.com/track/7LhiZsqxtozBHAFcqXvShP) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 2: Non\-Stop Dance Party](https://open.spotify.com/album/398W68f0UTcaLjmeNJvoiS) | 3:11 | 2026-03-26 |  |
 | [Don't Wanna Be Torn](https://open.spotify.com/track/4vAc0cSE6cW1bWMmLAgfjf) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:28 | 2026-03-26 |  |
+| [Every Part of Me](https://open.spotify.com/track/2JhsSzXa2mSA35Y5EVmmrt) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:30 | 2026-07-20 |  |
 | [Gonna Get This](https://open.spotify.com/track/1y6Y28gA3mNHSs7RDLrDKs) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 3:16 | 2026-03-26 |  |
 | [He Could Be the One](https://open.spotify.com/track/07HPV6hzecJmMJwsIX8YVU) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:00 | 2026-03-26 |  |
 | [I Got Nerve](https://open.spotify.com/track/3bSq5OpEWmLK1o8F7saR2F) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:04 | 2026-03-26 |  |
 | [I Wanna Know You](https://open.spotify.com/track/6ftcAmQPmGbk7Gkr5MJe4T) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 2:46 | 2026-03-26 |  |
 | [I'll Always Remember You](https://open.spotify.com/track/60c0p6GGnuwdKcQnmuM2zC) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 3:53 | 2026-03-26 |  |
 | [I'm Still Good](https://open.spotify.com/track/5NdwMwDT64WOqpi6XbOtqP) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 3:18 | 2026-03-26 |  |
-| [Ice Cream Freeze \(Let's Chill\)](https://open.spotify.com/track/3FRuUuqmFDk3BYHaDzAjTI) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:07 | 2026-03-26 |  |
+| [Ice Cream Freeze \(Let's Chill\)](https://open.spotify.com/track/3FRuUuqmFDk3BYHaDzAjTI) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:07 | 2026-03-26 | 2026-07-20 |
 | [If We Were A Movie](https://open.spotify.com/track/52Dw5hXeylenurLTKoFJfZ) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:03 | 2026-03-26 |  |
 | [Just Like You](https://open.spotify.com/track/1qsN5cpqU6quWtL9lgyA1v) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:14 | 2026-03-26 |  |
 | [Let's Do This](https://open.spotify.com/track/0xT6NXgkrkJyId4XDVBrW9) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:32 | 2026-03-26 |  |

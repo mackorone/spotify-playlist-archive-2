@@ -1,6 +1,6 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2318136,
+  "num_followers": 2317986,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
@@ -1569,26 +1569,6 @@
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
-      "added_at": "2026-05-08 06:38:19",
-      "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
-    },
-    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "Gahdamn!",
@@ -1607,6 +1587,26 @@
       "duration_ms": 171373,
       "name": "Caretaker (feat. SZA)",
       "url": "https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY"
+    },
+    {
+      "added_at": "2026-05-08 06:38:19",
+      "album": {
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
     },
     {
       "added_at": "2023-02-24 05:00:00",

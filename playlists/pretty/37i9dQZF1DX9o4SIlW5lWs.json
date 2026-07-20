@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 281446,
+  "num_followers": 281484,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -559,38 +559,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Latidos",
-        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "ADICTO",
         "url": "https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 194651,
       "name": "ADICTO",
       "url": "https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Echar de Menos",
-        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 225943,
-      "name": "Echar de Menos",
-      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Tu Sacaganas",
         "url": "https://open.spotify.com/album/7vWrU6A3G7XhVUKEFnspB0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 193083,
       "name": "Tu Sacaganas",
       "url": "https://open.spotify.com/track/2E7VxFwGSmvqLfsFoGDSi9"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Echar de Menos",
+        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 225943,
+      "name": "Echar de Menos",
+      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "A Chillar a Otra Parte",
         "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 221204,
       "name": "A Chillar a Otra Parte",
       "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "MALA",
+        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Cacho Deicas",
+          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
+        }
+      ],
+      "duration_ms": 197121,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "PRELUDIOS (EN VIVO)",
         "url": "https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq"
       },
@@ -1671,22 +1691,6 @@
       "duration_ms": 207485,
       "name": "FUE ELLA, FUI YO - EN VIVO",
       "url": "https://open.spotify.com/track/4oe4Yi4dv1rviTg6w2kLj0"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Hay Mas de Mi",
-        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Si Me Lo Pide Otra Vez",
-      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1743,6 +1747,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Hay Mas de Mi",
+        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Si Me Lo Pide Otra Vez",
+      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Date cuenta",
         "url": "https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 157244,
       "name": "Date cuenta",
       "url": "https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "MALA",
-        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Cacho Deicas",
-          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
-        }
-      ],
-      "duration_ms": 197121,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Coraz\u00f3n de Madera",
+        "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Coraz\u00f3n De Madera",
+      "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Coraz\u00f3n de Madera",
-        "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Coraz\u00f3n De Madera",
-      "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
     },
     {
       "added_at": "2026-06-19 03:00:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,392 likes - 131 songs - 7 hr 49 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,392 likes - 133 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 129 | [Ardiendo](https://open.spotify.com/track/43R4CBW7vMDdNZN3DNTNAM) | [Lily Suarez](https://open.spotify.com/artist/4n5pyBbmvQPxXYhWzOhobk) | [Ardiendo](https://open.spotify.com/album/6Vw8vEcr8V7mWYS2xOpkc0) | 4:11 |
 | 130 | [Heroes](https://open.spotify.com/track/596u2SUCqdCMgkvHSMHzsi) | [La Nuit Américaine](https://open.spotify.com/artist/5WJizH3K1fRjTS2dYtpVCf) | [Heroes](https://open.spotify.com/album/74FBbLrQfVb69foIIgCT35) | 6:43 |
 | 131 | [Shadow](https://open.spotify.com/track/2RUuKH2kkwsPETkKpj6olS) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Shadow](https://open.spotify.com/album/47yjPAh22GX8w75mZky7K1) | 3:06 |
+| 132 | [Shelley](https://open.spotify.com/track/2pAKTXfyggF2PUbTB4FjUO) | [Lacuna](https://open.spotify.com/artist/5XG9KwVdGoHTfnHLwkpT14) | [Shelley](https://open.spotify.com/album/4sgiHbundnHSkl4FFtYxju) | 3:55 |
+| 133 | [Robin](https://open.spotify.com/track/2ljwE5BHmknuF3lbt2pVUV) | [Lacuna](https://open.spotify.com/artist/5XG9KwVdGoHTfnHLwkpT14) | [Robin](https://open.spotify.com/album/0fXwQNJFqTDxNPG67QkuQU) | 3:32 |
 
-Snapshot ID: `AAB8hyE3nTqtqXn87KGK04pTXK9Kko0a`
+Snapshot ID: `AAB8iiwUPdEQh7nvUf4Ej0+lLF3LCo2a`

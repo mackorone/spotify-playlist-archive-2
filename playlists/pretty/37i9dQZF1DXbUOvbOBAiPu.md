@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Gracie Abrams, Tiësto x Caleb Arredondo, GIMS x Mauvais Djo, disiz and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,427 likes - 117 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,418 likes - 117 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 73169,
+  "num_followers": 73175,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -959,22 +959,26 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/6fdZRonvktqAVoiKX9go5A"
+        "name": "Como La Flor",
+        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
         },
         {
-          "name": "Escoto",
-          "url": "https://open.spotify.com/artist/6iOkWCB8Iz30zjtSpr7cvP"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 297230,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2QN3Ua30KIlbi5hP7DHnrX"
+      "duration_ms": 174555,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -999,26 +1003,22 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "Como La Flor",
-        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/6fdZRonvktqAVoiKX9go5A"
       },
       "artists": [
         {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         },
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Escoto",
+          "url": "https://open.spotify.com/artist/6iOkWCB8Iz30zjtSpr7cvP"
         }
       ],
-      "duration_ms": 174555,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+      "duration_ms": 297230,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2QN3Ua30KIlbi5hP7DHnrX"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "HOUSE PA LAS BANDIS",
-        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
-      },
-      "artists": [
-        {
-          "name": "REYPA",
-          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
-        },
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 182989,
-      "name": "HOUSE PA LAS BANDIS",
-      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "PVTIVUELTA",
         "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 143798,
       "name": "PVTIVUELTA",
       "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "HOUSE PA LAS BANDIS",
+        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        },
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 182989,
+      "name": "HOUSE PA LAS BANDIS",
+      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
+        "name": "Yo Solo Quiero Que Me Quieras Como Yo Te Quiero",
+        "url": "https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 204945,
+      "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
+      "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
         "name": "coraz\u00f3n negro",
         "url": "https://open.spotify.com/album/6Ishs6DC7Msxjvq4Tbzkxh"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 151181,
       "name": "coraz\u00f3n negro",
       "url": "https://open.spotify.com/track/24wmCaxb62soCdelRPXKYM"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "Yo Solo Quiero Que Me Quieras Como Yo Te Quiero",
-        "url": "https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 204945,
-      "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
-      "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
     },
     {
       "added_at": "2026-07-03 06:00:25",

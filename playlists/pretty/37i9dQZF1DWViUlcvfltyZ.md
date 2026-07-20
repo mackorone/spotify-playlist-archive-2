@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🚗 VAEVA sui vostri schermi
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,549 likes - 108 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,548 likes - 108 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

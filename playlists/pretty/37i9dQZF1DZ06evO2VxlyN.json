@@ -1,12 +1,12 @@
 {
   "description": "This is Bella Kay. The essential tracks, all in one playlist.",
-  "num_followers": 2138,
+  "num_followers": 2181,
   "original_name": "This Is Bella Kay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAAAw0Tgo3eMEec3HqSJ+/cgr",
+  "snapshot_id": "alrCAAAAAABq5rtzBvBDRJdk6eDQ7NxW",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 128404,
-      "name": "swu",
-      "url": "https://open.spotify.com/track/1vdBUAjKRjqLVFBPVdiLjZ"
+      "duration_ms": 192293,
+      "name": "marrow",
+      "url": "https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 192293,
-      "name": "marrow",
-      "url": "https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui"
+      "duration_ms": 128404,
+      "name": "swu",
+      "url": "https://open.spotify.com/track/1vdBUAjKRjqLVFBPVdiLjZ"
     },
     {
       "added_at": null,

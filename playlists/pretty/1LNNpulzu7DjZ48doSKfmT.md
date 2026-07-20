@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 464 likes - 521 songs - 1 day 2 hr 22 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 465 likes - 527 songs - 1 day 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -529,5 +529,11 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 519 | [Proximous](https://open.spotify.com/track/0FkVZtOVNVD0rgDX0ktLxq) | [Jaythelostking](https://open.spotify.com/artist/2gOLOXhUsESg792W0XuiCE) | [Proximous](https://open.spotify.com/album/3C1n6oeT5HHFRcOr7SRNvb) | 3:26 |
 | 520 | [Give Me Just a Little Bit](https://open.spotify.com/track/023VWs77Xaoap2iQ5tYZB4) | [Tony Z](https://open.spotify.com/artist/44OiXiN2wAuOyUcC4pKJv3), [Ricky Z](https://open.spotify.com/artist/3K8T8sJ3eoxK2WPVMq3WiR) | [Give Me Just a Little Bit](https://open.spotify.com/album/5NRT0PKsGVLs6oeiSvuNwM) | 4:07 |
 | 521 | [GARDEN PARADISE \- Prod\. Marc Qzh](https://open.spotify.com/track/03LNDRC1VcAA7CofqOnisU) | [KING BALAM](https://open.spotify.com/artist/0QEjQD5QCqqLQmc77TdsHI), [Mc Foyeck](https://open.spotify.com/artist/1AdHO4SiLUjmczfkAgGCSI) | [GARDEN PARADISE \(Prod\. Marc Qzh\)](https://open.spotify.com/album/0YPcmdHiExeKyqq6ZfIElh) | 2:01 |
+| 522 | [EN LA OSCURIDAD](https://open.spotify.com/track/2jb29mYmq3ckmlrxoMjocQ) | [R.PIKA](https://open.spotify.com/artist/4jBOFlrT04gqRPSfXkHve1) | [EN LA OSCURIDAD](https://open.spotify.com/album/0aQfgd0GcxnaKySVypnat5) | 2:33 |
+| 523 | [En un vuelo](https://open.spotify.com/track/0TchwGmX7FGIRE4RwZHjtL) | [Humo Verde Records](https://open.spotify.com/artist/1BHFulATMbw3Su2wg5HbiM) | [En un vuelo](https://open.spotify.com/album/2b3KTB6GcQUHISmdDpzM9T) | 3:07 |
+| 524 | [Laps Around Your House](https://open.spotify.com/track/0vylYrRtFezFAaN4b6wjcH) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Laps Around Your House](https://open.spotify.com/album/6UNJWcbTBu2xTI56ISsKw7) | 2:22 |
+| 525 | [Main Royaan](https://open.spotify.com/track/069uuAX0uZs0caRa8oVUwT) | [Prince Bajpai](https://open.spotify.com/artist/7AQra0C5O3jVIUKbMqsuWN) | [Pieces Of Me](https://open.spotify.com/album/6nKz5xA1VdA5hD7vowC9lz) | 2:57 |
+| 526 | [Dark Thoughts](https://open.spotify.com/track/2AjBlNWJ2XIqVVTDXfDaVi) | [CN Cyanide](https://open.spotify.com/artist/2XPYw2Yhzb2jC09kXJe6R4), [MISFIT FUEL](https://open.spotify.com/artist/3Eac1ayEzygt70it6WMIPU) | [Dark Thoughts](https://open.spotify.com/album/3bQ31doMWYc6k53acLyPqf) | 2:32 |
+| 527 | [Much pride](https://open.spotify.com/track/22iOjeXh4Bel7GfujcjqfJ) | [Fiat DeluXXe](https://open.spotify.com/artist/38M0dEg9LFd78ATuRgF0cw), [Lia Taylor](https://open.spotify.com/artist/4VwuZGRL91TOFZDs5x7qcZ) | [Much pride](https://open.spotify.com/album/5OzW5qXaHNxSjKQjk45pMy) | 3:41 |
 
-Snapshot ID: `AAAcsv7RDyamv+E8/v1WiMCqhk+EDHs5`
+Snapshot ID: `AAAcuLMuFzuOFB2nM6E/MNpm0LZnG7SU`

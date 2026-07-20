@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 138005,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/6Zs5Ub2gLL3FDl2bAtAVh9"
@@ -8839,6 +8839,28 @@
     },
     {
       "album": {
+        "name": "La puissance de l\u2019amour",
+        "url": "https://open.spotify.com/album/3fKsYozk8Gijd3qTPGslcn"
+      },
+      "artists": [
+        {
+          "name": "Isaac Bukasa",
+          "url": "https://open.spotify.com/artist/4hDlHt08OIAgnRiQlDUTlX"
+        },
+        {
+          "name": "Emmanim Gospel",
+          "url": "https://open.spotify.com/artist/6P84FqPeUbV8zaG7O0B6wI"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468945,
+      "name": "La puissance de l\u2019amour",
+      "url": "https://open.spotify.com/track/1z6VlP3bxWuplJtj03QhYO"
+    },
+    {
+      "album": {
         "name": "Lead Me",
         "url": "https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy"
       },
@@ -11084,6 +11106,24 @@
       "duration_ms": 445533,
       "name": "Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/0QWtBHKR8yLhA2H55TyB2h"
+    },
+    {
+      "album": {
+        "name": "Nothing Without Him",
+        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
+      },
+      "artists": [
+        {
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176565,
+      "name": "Nothing Without Him",
+      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
       "album": {
@@ -15568,7 +15608,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 296031,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/4DosoX2PHIxHN3xVsfJ9kW"

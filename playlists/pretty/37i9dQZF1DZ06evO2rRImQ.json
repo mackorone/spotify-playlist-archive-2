@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 206572,
+  "num_followers": 206579,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAABzYrttFEi4/H73MNmB0GG9",
+  "snapshot_id": "alrCAAAAAAC9YwmKBEp6sB0L+2F6JW6X",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Est\u00e1 Gustando",
-        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Recu\u00e9rdenme As\u00ed",
-      "url": "https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Ti Solita",
         "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 197253,
       "name": "Sin Autorizaci\u00f3n",
       "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Recu\u00e9rdenme As\u00ed",
+      "url": "https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+        "name": "Piratita",
+        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 197546,
-      "name": "Tres Recuerdos",
-      "url": "https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb"
+      "duration_ms": 176603,
+      "name": "Lo Mejor Fui Yo",
+      "url": "https://open.spotify.com/track/7jpMB927DJ0FkSRMQOUf4U"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piratita",
-        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 176603,
-      "name": "Lo Mejor Fui Yo",
-      "url": "https://open.spotify.com/track/7jpMB927DJ0FkSRMQOUf4U"
+      "duration_ms": 197546,
+      "name": "Tres Recuerdos",
+      "url": "https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+        "name": "Piratita",
+        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 168773,
-      "name": "Los Gustos Que Me Doy",
-      "url": "https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB"
+      "duration_ms": 115826,
+      "name": "Piratita",
+      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piratita",
-        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 115826,
-      "name": "Piratita",
-      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
+      "duration_ms": 168773,
+      "name": "Los Gustos Que Me Doy",
+      "url": "https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Coma Inducido",
-        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "En Coma Inducido",
-      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 174413,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Coma Inducido",
+        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "En Coma Inducido",
+      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir La Vida",
-        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Vivir La Vida",
-      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 200800,
       "name": "Esta Va Por Ti",
       "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Vivir La Vida",
+      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "Que A Toda Madre (Que A Todo Dar)",
+      "url": "https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 175560,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "Que A Toda Madre (Que A Todo Dar)",
-      "url": "https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQu\u00e9 Plan?",
-        "url": "https://open.spotify.com/album/0z4Mw0Vmw8zWNy67ebMaDH"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 170450,
-      "name": "\u00bfQu\u00e9 Plan?",
-      "url": "https://open.spotify.com/track/1ODjIEfW3cbLw31vMlVYJc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Toda Madre",
         "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 141280,
       "name": "Voy A Pistear",
       "url": "https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfQu\u00e9 Plan?",
+        "url": "https://open.spotify.com/album/0z4Mw0Vmw8zWNy67ebMaDH"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 170450,
+      "name": "\u00bfQu\u00e9 Plan?",
+      "url": "https://open.spotify.com/track/1ODjIEfW3cbLw31vMlVYJc"
     }
   ],
   "unique_name": "This Is Banda Los Recoditos",

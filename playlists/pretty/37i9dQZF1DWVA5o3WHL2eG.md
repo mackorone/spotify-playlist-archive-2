@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,259 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,262 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 45 | [supersexy](https://open.spotify.com/track/7w7ncCA51LlnTfgcqsQnzY) | [pixxi](https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE) | [supersexy](https://open.spotify.com/album/7DAHk01LDcEiRXNyyzbPLu) | 2:24 |
 | 46 | [2k16//capriKid](https://open.spotify.com/track/7m40TgwNJ8MkeHGFdbQfA7) | [Naomi Westlake](https://open.spotify.com/artist/6VmEzQSpeEOCSvUdCp8tml) | [2k16//capriKid](https://open.spotify.com/album/5covX8DwctSAofDqDheVJ3) | 2:16 |
 | 47 | [Everybody Knows](https://open.spotify.com/track/4VRfMVqeTN6CGCWkobs7Nu) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [A Deep Breath Out](https://open.spotify.com/album/3VaMQq9rS8aGIALKEeJ0qL) | 3:15 |
-| 48 | [sonnenmond](https://open.spotify.com/track/1124okt8bynAcxo4O4QtC8) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [klein sein](https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG) | 2:40 |
-| 49 | [daddy issues](https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [daddy issues](https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy) | 2:07 |
+| 48 | [daddy issues](https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [daddy issues](https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy) | 2:07 |
+| 49 | [sonnenmond](https://open.spotify.com/track/1124okt8bynAcxo4O4QtC8) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [klein sein](https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG) | 2:40 |
 | 50 | [Live](https://open.spotify.com/track/1gsotXTOgjdbReDxNpXDqE) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Live](https://open.spotify.com/album/7EfBBLRVpkw9nDgTPviap7) | 2:13 |
 
 Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

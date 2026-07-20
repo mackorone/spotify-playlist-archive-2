@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-330 songs - 20 hr 27 min
+332 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Religion](https://open.spotify.com/track/0K43NLGhw6vlmkmcSyo2le) | [Wynona Bleach](https://open.spotify.com/artist/3U7XDjbMZWVbis1wAUzjMq) | [Religion](https://open.spotify.com/album/2i1YlSnbcFKPb3Vmel2KCj) | 3:50 | 2026-03-21 | 2026-06-15 |
 | [Resolve](https://open.spotify.com/track/3RpfSH6LHxSmobNd50FZo4) | [Socialites](https://open.spotify.com/artist/6viYhJ4Hkq8WrahWIOO1HR) | [Resolve](https://open.spotify.com/album/3OCIIDu3Yv1PfisV8LPHmL) | 4:37 | 2025-11-16 | 2025-12-01 |
 | [Revivir](https://open.spotify.com/track/2EAXV5bCg2btXELg2oE3dl) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY), [Cesar Huesca](https://open.spotify.com/artist/21nAHY9slnhfM52jJ7XKBa), [Ricardo Oso Cortez](https://open.spotify.com/artist/3fenvl60yRFmYvlNYomhGc), [Sinuhé Borre Castro](https://open.spotify.com/artist/26U7J9tJDGQazyPAVzDFN9) | [Revivir](https://open.spotify.com/album/6XJaSh56NOMktClJoKK4ca) | 3:41 | 2026-06-09 | 2026-06-20 |
+| [Robin](https://open.spotify.com/track/2ljwE5BHmknuF3lbt2pVUV) | [Lacuna](https://open.spotify.com/artist/5XG9KwVdGoHTfnHLwkpT14) | [Robin](https://open.spotify.com/album/0fXwQNJFqTDxNPG67QkuQU) | 3:32 | 2026-07-19 |  |
 | [Roots Gal Party](https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE) | [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a), [Escape Roots](https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf) | [Roots Gal Party](https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0) | 3:40 | 2026-03-01 | 2026-03-07 |
 | [Roses](https://open.spotify.com/track/5xLKMsU6RoJ8Gg10vsuxVO) | [brittle](https://open.spotify.com/artist/6nTGjlKzh92A8qlAwQ0clg) | [Roses](https://open.spotify.com/album/3h8yWxYigpNvZIRuZJgPXg) | 4:21 | 2026-02-01 | 2026-06-20 |
 | [Ruby](https://open.spotify.com/track/6fFwLDOdA2S6IlrcT2GNn6) | [Midnight Painters](https://open.spotify.com/artist/4MJUXjc8wPHrTd03EhO7pu) | [Midnight Painters: Volume One](https://open.spotify.com/album/74msnQUjGbc4OVnFa4pMHU) | 3:29 | 2026-04-10 | 2026-05-04 |
@@ -262,6 +263,7 @@
 | [Shadow](https://open.spotify.com/track/2RUuKH2kkwsPETkKpj6olS) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Shadow](https://open.spotify.com/album/47yjPAh22GX8w75mZky7K1) | 3:06 | 2026-07-16 |  |
 | [She's So Down](https://open.spotify.com/track/7nrvqXLYdijBwwzl02jbkh) | [Eyes of Home](https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55) | [She's So Down](https://open.spotify.com/album/5DPLkxiSMxjgwxsQuciirv) | 3:12 | 2026-05-03 |  |
 | [She's The Sun](https://open.spotify.com/track/4C9JbwnKAXRFPm31mNYBv1) | [pedalo](https://open.spotify.com/artist/1fqIzizZUwYjMHQfjOj7Bk) | [She's The Sun](https://open.spotify.com/album/0fFgmiohyxnGcNBiuVRzbi) | 3:24 | 2025-11-16 | 2025-11-24 |
+| [Shelley](https://open.spotify.com/track/2pAKTXfyggF2PUbTB4FjUO) | [Lacuna](https://open.spotify.com/artist/5XG9KwVdGoHTfnHLwkpT14) | [Shelley](https://open.spotify.com/album/4sgiHbundnHSkl4FFtYxju) | 3:55 | 2026-07-19 |  |
 | [Shiver](https://open.spotify.com/track/0HVvVxGh2gMKpJRgeSYmYp) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Shiver](https://open.spotify.com/album/3B57Qv6jReWQPiNJ9BhIeD) | 2:16 | 2026-02-02 | 2026-02-09 |
 | [Shortest Road Home](https://open.spotify.com/track/0YhOC9ETJGVe72Lyjha8gt) | [Static Echoes](https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7) | [Shortest Road Home](https://open.spotify.com/album/61kd7rxYDkqyWK6UnLPxZJ) | 4:03 | 2026-07-11 |  |
 | [Show yourself](https://open.spotify.com/track/3fujlOlbpvP1QSkEriGy3S) | [Paul Martin](https://open.spotify.com/artist/1XIrTZoEDMzWssZ149WWZ8) | [winter rose](https://open.spotify.com/album/0BpLBp0VpUu2avnutskwT0) | 3:15 | 2025-11-16 | 2026-02-02 |

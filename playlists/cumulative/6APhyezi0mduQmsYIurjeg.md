@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-580 songs - 1 day 11 hr 10 min
+581 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 | 2026-06-07 |  |
 | [Street Stage Show](https://open.spotify.com/track/1pdHBhPmWl07wjTsq5njDY) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Street Stage Show](https://open.spotify.com/album/48qESzJLlP7XmVij4lrVqw) | 3:31 | 2024-12-26 |  |
 | [Sueños](https://open.spotify.com/track/0Aki3a0rP66G8sCistpgvM) | [Insomnica](https://open.spotify.com/artist/1WGqXSVmEIk0KwwobbUUiV) | [Sueños](https://open.spotify.com/album/0tkDmIkp2BrNeI3ewzy94A) | 3:45 | 2024-01-25 |  |
+| [Summer's Coming](https://open.spotify.com/track/3pZ0udMevYZ2hMfMi36fd4) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | [Summer's Coming](https://open.spotify.com/album/659iFoyJLdw2GxfdGcWFmd) | 3:08 | 2026-07-19 |  |
 | [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 | 2025-03-15 |  |
 | [Super\-Heróis](https://open.spotify.com/track/6LDXpZyQXfT3YhQeDFuaSn) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heróis](https://open.spotify.com/album/1QLpxqo89sJiEJa0IEbEtx) | 3:19 | 2025-03-31 |  |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2023-01-10 |  |

@@ -1593,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "N\u00d3MADA",
+        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230463,
+      "name": "Tus Palabras",
+      "url": "https://open.spotify.com/track/1J0dHJece2LVkqNXwDrWXS"
+    },
+    {
+      "album": {
         "name": "UN D\u00cdA ENTENDER\u00c1S",
         "url": "https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB"
       },
@@ -1648,7 +1670,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 211680,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/3ocmPc60trEPUVKHnQtuIc"

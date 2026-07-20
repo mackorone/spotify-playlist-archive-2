@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,277 likes - 586 songs - 1 day 11 hr 32 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,277 likes - 587 songs - 1 day 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -594,5 +594,6 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 584 | [Get Around \- Live](https://open.spotify.com/track/6FRUWqJX0eKWb7hl2bpBSi) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Live](https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK) | 3:00 |
 | 585 | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 |
 | 586 | [Hey Woman \- Live](https://open.spotify.com/track/6752pDfyK4wjdx461bV7CD) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Live](https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK) | 3:04 |
+| 587 | [Summer's Coming](https://open.spotify.com/track/3pZ0udMevYZ2hMfMi36fd4) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | [Summer's Coming](https://open.spotify.com/album/659iFoyJLdw2GxfdGcWFmd) | 3:08 |
 
-Snapshot ID: `AAAC33xmWT+w+A6xsMN5LvSKR+pNnNnd`
+Snapshot ID: `AAAC4OP5JvYSOXhoZ8Eq8k22Ax39roZ0`

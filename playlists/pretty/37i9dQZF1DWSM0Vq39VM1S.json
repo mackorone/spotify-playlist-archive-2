@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388479,
+  "num_followers": 388500,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Welcome to the Mood / Sundown",
         "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 135866,
       "name": "Welcome to the Mood",
       "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
-      },
-      "artists": [
-        {
-          "name": "Malted Milk",
-          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
-        }
-      ],
-      "duration_ms": 241398,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Grateful For",
         "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219779,
       "name": "Grateful For",
       "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
+      },
+      "artists": [
+        {
+          "name": "Malted Milk",
+          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
+        }
+      ],
+      "duration_ms": 241398,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Not a Love Song",
-        "url": "https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO"
-      },
-      "artists": [
-        {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
-        }
-      ],
-      "duration_ms": 184399,
-      "name": "Not a Love Song",
-      "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "L.A.B VI",
         "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 137148,
       "name": "Home",
       "url": "https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Not a Love Song",
+        "url": "https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 184399,
+      "name": "Not a Love Song",
+      "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
     },
     {
       "added_at": "2026-07-02 22:01:46",

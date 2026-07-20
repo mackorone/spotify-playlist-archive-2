@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 130235,
+  "num_followers": 130225,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "A Lucid Dream",
-      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Strong Feelings",
         "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213042,
       "name": "Sinking Feeling",
       "url": "https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "A Lucid Dream",
+      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Lost Day",
+        "url": "https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG"
+      },
+      "artists": [
+        {
+          "name": "Other Lives",
+          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Lost Day",
+      "url": "https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Sand On The Beach",
         "url": "https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Lost Day",
-        "url": "https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG"
+        "name": "Love is the Answer",
+        "url": "https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr"
       },
       "artists": [
         {
-          "name": "Other Lives",
-          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+          "name": "Las Robertas",
+          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
         }
       ],
-      "duration_ms": 175453,
-      "name": "Lost Day",
-      "url": "https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY"
+      "duration_ms": 360259,
+      "name": "Love is the Answer",
+      "url": "https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1167,22 +1183,6 @@
       "duration_ms": 193000,
       "name": "We Cannot Resist - Edit",
       "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Love is the Answer",
-        "url": "https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr"
-      },
-      "artists": [
-        {
-          "name": "Las Robertas",
-          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
-        }
-      ],
-      "duration_ms": 360259,
-      "name": "Love is the Answer",
-      "url": "https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON"
     },
     {
       "added_at": "2024-07-12 23:20:36",

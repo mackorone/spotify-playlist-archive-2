@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Pinned Comment, Autoimmune and more",
+  "description": "With Jon Drake, Dan Fearon, Facula and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 178190,
       "name": "Bara mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/0tBXwBmJl2wOIzSsnXrFOa"
@@ -1092,6 +1092,24 @@
       "duration_ms": 249297,
       "name": "Blau",
       "url": "https://open.spotify.com/track/2bXwmzlSSo7QoP1YqDC7Jz"
+    },
+    {
+      "album": {
+        "name": "Rusty Nail",
+        "url": "https://open.spotify.com/album/1WZBzXbvJdfmvAqMiRJG0P"
+      },
+      "artists": [
+        {
+          "name": "Dan Fearon",
+          "url": "https://open.spotify.com/artist/3qGPLapNg04OVN7m8gQoaW"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Bleeding Hearts",
+      "url": "https://open.spotify.com/track/6h1tQ40ohFgYc7FYVjeuvf"
     },
     {
       "album": {
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -3294,7 +3312,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -4696,7 +4714,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 253909,
       "name": "Genom sm\u00e4rta",
       "url": "https://open.spotify.com/track/79OhJsAo6NtdoFPB4f0wnH"
@@ -5130,7 +5148,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -6056,7 +6074,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -6338,6 +6356,24 @@
       "duration_ms": 312096,
       "name": "Kas Mes?",
       "url": "https://open.spotify.com/track/55eUd1ieePkJ3aPmSDud1i"
+    },
+    {
+      "album": {
+        "name": "G\u00e9n\u00e9rique Extraordinaire",
+        "url": "https://open.spotify.com/album/1zVDpEqaczJuOKx2Uyf2bM"
+      },
+      "artists": [
+        {
+          "name": "La Discorde",
+          "url": "https://open.spotify.com/artist/7tLbUNc4XLMwPlRytDiENI"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Kazablancas",
+      "url": "https://open.spotify.com/track/4Nn9YnkWCaT2FVyaxwg1MY"
     },
     {
       "album": {
@@ -7234,7 +7270,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 156059,
       "name": "Love G\u00f8n",
       "url": "https://open.spotify.com/track/5CmSzc54ocQrVUON7XX9Lg"
@@ -8670,7 +8706,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -10774,7 +10810,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 200086,
       "name": "Sinnsyke Sanger",
       "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
@@ -12216,7 +12252,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -12432,7 +12468,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 298320,
       "name": "The Loneliest Place",
       "url": "https://open.spotify.com/track/21y9EJHV1INbYDAvJkzDzP"
@@ -13777,6 +13813,24 @@
     },
     {
       "album": {
+        "name": "Venceremos",
+        "url": "https://open.spotify.com/album/4QcGYsGrtp30XjPbX9UCI9"
+      },
+      "artists": [
+        {
+          "name": "Villagers of Ioannina City",
+          "url": "https://open.spotify.com/artist/0N8D2mPKMd3MWIhqdfpTBp"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "Venceremos",
+      "url": "https://open.spotify.com/track/2VV6JYiKbYFF9LtD6fJgHj"
+    },
+    {
+      "album": {
         "name": "Verschworen",
         "url": "https://open.spotify.com/album/4mlNPeEtSPNXhMDRQM2aYO"
       },
@@ -13806,7 +13860,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"

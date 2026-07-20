@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 248074,
       "name": "Acto Salvaje",
       "url": "https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5"
@@ -1376,6 +1376,28 @@
       "duration_ms": 266773,
       "name": "So Please - Versi\u00f3n 25 A\u00f1os",
       "url": "https://open.spotify.com/track/3Uqykrseya62eyLuusZsM0"
+    },
+    {
+      "album": {
+        "name": "Solta Teu Cabelo",
+        "url": "https://open.spotify.com/album/3aJGHKcgw4jqRwRKbe0RkY"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Solta Teu Cabelo",
+      "url": "https://open.spotify.com/track/3pl7k5kcNHe8eHlx4qOVPz"
     },
     {
       "album": {

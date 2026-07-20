@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295474,
+  "num_followers": 295468,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Where's My Dini? (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 283998,
-      "name": "Where's My Dini? - Spotify Singles",
-      "url": "https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Jeans",
         "url": "https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 207466,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Where's My Dini? (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 283998,
+      "name": "Where's My Dini? - Spotify Singles",
+      "url": "https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Okarena",
+        "url": "https://open.spotify.com/album/1RQisl8XADZWUdDJ7PBb8M"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Okarena",
+      "url": "https://open.spotify.com/track/798dd3c3Ag1Cqxknm2lWZK"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Okarena",
-        "url": "https://open.spotify.com/album/1RQisl8XADZWUdDJ7PBb8M"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Okarena",
-      "url": "https://open.spotify.com/track/798dd3c3Ag1Cqxknm2lWZK"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "It's a Beautiful Place",
         "url": "https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Pain to Power",
-        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 313746,
-      "name": "Saoirse",
-      "url": "https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Sleep In It",
         "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 179133,
       "name": "Sleep In It",
       "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Pain to Power",
+        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 313746,
+      "name": "Saoirse",
+      "url": "https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 233197,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Girth",
         "url": "https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 204123,
       "name": "Still Around",
       "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Florida Water Blues",
-        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 233197,
-      "name": "Riding",
-      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Surprise Wish",
+        "url": "https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu"
+      },
+      "artists": [
+        {
+          "name": "Dari Bay",
+          "url": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC"
+        }
+      ],
+      "duration_ms": 210968,
+      "name": "Chevy",
+      "url": "https://open.spotify.com/track/5JPlMByDvtriNCFh1JfXax"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Public Luxury",
         "url": "https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Surprise Wish",
-        "url": "https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu"
-      },
-      "artists": [
-        {
-          "name": "Dari Bay",
-          "url": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC"
-        }
-      ],
-      "duration_ms": 210968,
-      "name": "Chevy",
-      "url": "https://open.spotify.com/track/5JPlMByDvtriNCFh1JfXax"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Sunshine and Balance Beams",
         "url": "https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 208935,
       "name": "The Best Tears of Your Life",
       "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "duration_ms": 237059,
+      "name": "Accent",
+      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Late Nighter",
-        "url": "https://open.spotify.com/album/7Abp5xiFR69l5OZiH1Sg3T"
-      },
-      "artists": [
-        {
-          "name": "The Paranoyds",
-          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
-        }
-      ],
-      "duration_ms": 184667,
-      "name": "Tracy Don't",
-      "url": "https://open.spotify.com/track/6sSvhZTbMmy3Jc1kz4FoJ9"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Late Nighter",
+        "url": "https://open.spotify.com/album/7Abp5xiFR69l5OZiH1Sg3T"
+      },
+      "artists": [
+        {
+          "name": "The Paranoyds",
+          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+        }
+      ],
+      "duration_ms": 184667,
+      "name": "Tracy Don't",
+      "url": "https://open.spotify.com/track/6sSvhZTbMmy3Jc1kz4FoJ9"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1415,22 +1431,6 @@
       "duration_ms": 189609,
       "name": "After Party",
       "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Accent",
-        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
-      },
-      "artists": [
-        {
-          "name": "Sweeping Promises",
-          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
-        }
-      ],
-      "duration_ms": 237059,
-      "name": "Accent",
-      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Glass and Bones",
-        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
-      },
-      "artists": [
-        {
-          "name": "Makthaverskan",
-          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
-        }
-      ],
-      "duration_ms": 227129,
-      "name": "Won't Wait",
-      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Wet Brain",
         "url": "https://open.spotify.com/album/3Fe59iFbf9HvNsGi3jUnen"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 137750,
       "name": "Wet Brain",
       "url": "https://open.spotify.com/track/0hGvkifKlk8MbqrhQloipy"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Glass and Bones",
+        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
+      },
+      "artists": [
+        {
+          "name": "Makthaverskan",
+          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
+        }
+      ],
+      "duration_ms": 227129,
+      "name": "Won't Wait",
+      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "I'm The Outside",
-        "url": "https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS"
-      },
-      "artists": [
-        {
-          "name": "Angel Du$t",
-          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
-        }
-      ],
-      "duration_ms": 111666,
-      "name": "I'm The Outside",
-      "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Mind's a Lie",
         "url": "https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 286029,
       "name": "Mind's a Lie",
       "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "I'm The Outside",
+        "url": "https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS"
+      },
+      "artists": [
+        {
+          "name": "Angel Du$t",
+          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        }
+      ],
+      "duration_ms": 111666,
+      "name": "I'm The Outside",
+      "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
     },
     {
       "added_at": "2026-07-17 17:28:38",

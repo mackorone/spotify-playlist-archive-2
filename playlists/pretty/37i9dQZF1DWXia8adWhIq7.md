@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,762 likes - 85 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,761 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 2 | [Abrigo](https://open.spotify.com/track/1LBP2k9FkNfTr2RgcbsdSD) | [Lincoln Baena](https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57), [Anderson Feitosa](https://open.spotify.com/artist/1tL8rvbJP6z3qhIV7Sy5qj) | [Abrigo](https://open.spotify.com/album/43RY8qE0hl6LGdiLXX03n5) | 4:10 |
 | 3 | [Excede o Entendimento \- Live Session](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Live Session\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 |
 | 4 | [Samaritana](https://open.spotify.com/track/73dmnilfUdTkyWbeGYErDI) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Samaritana](https://open.spotify.com/album/7uW5JSvS0J8JSX9KHnVh01) | 3:33 |
-| 5 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 |
-| 6 | [Exaltado](https://open.spotify.com/track/65syH0P18vj4pWJZyTIYA8) | [Milena](https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Exaltado](https://open.spotify.com/album/4RysOxHBjUxOhxY7CLm8wZ) | 6:31 |
+| 5 | [Exaltado](https://open.spotify.com/track/65syH0P18vj4pWJZyTIYA8) | [Milena](https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Exaltado](https://open.spotify.com/album/4RysOxHBjUxOhxY7CLm8wZ) | 6:31 |
+| 6 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 |
 | 7 | [Flutuar](https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Flutuar](https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX) | 3:34 |
 | 8 | [Copinho de Extrato de Tomate](https://open.spotify.com/track/1lVd6sm5t1GxblrTsicl9A) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Copinho de Extrato de Tomate](https://open.spotify.com/album/7ktV3hvFEh2JABI8JDX55C) | 4:36 |
 | 9 | [Entre Milhões](https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1) | [Entre Milhões](https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ) | 4:11 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 36 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
 | 37 | [Até Sermos Um](https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41) | [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Até Sermos Um](https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG) | 2:58 |
 | 38 | [Sonhar](https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw) | [Sonhar](https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK) | 2:18 |
-| 39 | [Esqueço Até o Tempo](https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Feliz7Play](https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG) | [Esqueço Até o Tempo](https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV) | 2:40 |
-| 40 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 |
+| 39 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 |
+| 40 | [Esqueço Até o Tempo](https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Feliz7Play](https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG) | [Esqueço Até o Tempo](https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV) | 2:40 |
 | 41 | [Testemunho](https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Testemunho](https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ) | 2:19 |
 | 42 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 |
 | 43 | [Iluminado](https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [Iluminado](https://open.spotify.com/album/6WidAThASUspFTkUzM9X88) | 4:00 |

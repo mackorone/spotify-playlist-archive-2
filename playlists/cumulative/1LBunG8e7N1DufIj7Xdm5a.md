@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,537 songs - 10 day 3 hr 23 min
+4,539 songs - 10 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Baci A Mare \(another\)](https://open.spotify.com/track/3icpncy7tDYOLGMJTbqagp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:06 | 2025-09-18 |  |
 | [Baciami Nel Sole](https://open.spotify.com/track/3FcTMjhRUZOAfg5YWJnbJw) | [ORTENSIA](https://open.spotify.com/artist/1cen8Bh8SOKMW8quzIZinl) | [Luce](https://open.spotify.com/album/5BjRPCaw5iFDurDEyuWg2x) | 2:14 | 2026-02-13 |  |
 | [BACK 2 BACK](https://open.spotify.com/track/3nPaidN1MIVHO3vzwfyatz) | [Trapitta](https://open.spotify.com/artist/4Ley4wNwUVGDlOxnAQOlsl), [LeveTheWorld](https://open.spotify.com/artist/2lkOfmdz5QMCrQABmw4oD5), [Duff Mardino](https://open.spotify.com/artist/3BVUBVewO9R4QSlVebawXD), [Warlet](https://open.spotify.com/artist/5keBmiYTHVHRf9NnccO0o2), [J u í c e](https://open.spotify.com/artist/2HDxL2FLrBV27HFzcf55pe) | [BACK 2 BACK](https://open.spotify.com/album/0L2CzroPFTCwwAghMP4Nsp) | 2:29 | 2025-11-08 |  |
+| [Back on the Clock](https://open.spotify.com/track/39dr9QgeIicvj2SBEJmv2j) | [Pilgrim's Fire](https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn) | [Field Report](https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1) | 4:21 | 2026-07-19 |  |
 | [Back to the Blues](https://open.spotify.com/track/4UvgjFubjWWzAGnYJh43PQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop Blues](https://open.spotify.com/album/1jO4P3dNnDAqdLsZrs1XWM) | 2:45 | 2025-09-19 |  |
 | [Back to the Blues \(another\)](https://open.spotify.com/track/2hJKn0nR7eA45ahHoa5cq1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop Blues](https://open.spotify.com/album/1jO4P3dNnDAqdLsZrs1XWM) | 2:32 | 2025-09-19 |  |
 | [Back to you \- Chill in love](https://open.spotify.com/track/0sfN8C0ifWZmh2cGbH1Eyk) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Back to you \(Chill in love\)](https://open.spotify.com/album/2JyqAtwRrFi2jJVzAnq60V) | 3:53 | 2025-08-28 |  |
@@ -4279,6 +4280,7 @@
 | [Wait](https://open.spotify.com/track/5IvM45tlTeTYoqijBy5MKu) | [Prince Pe](https://open.spotify.com/artist/6lVwACmv0KZrhjPzJoSblh), [Kulez](https://open.spotify.com/artist/3ZWmPTZc1dNIMYBhT5rrwj) | [Wait](https://open.spotify.com/album/44ms4yQdRFlHdR9Ays6Hcq) | 3:47 | 2025-06-05 |  |
 | [Wait Fa Us](https://open.spotify.com/track/2ifG2nelXORLbdWS2pytb8) | [Yhapojj](https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X) | [T.L.Y.](https://open.spotify.com/album/5q8Z2TtfzKXqC8FlzUS8c9) | 1:48 | 2025-06-23 |  |
 | [Wake Up](https://open.spotify.com/track/6zxDEmItdAiOLmEbPrmmsQ) | [Glasess](https://open.spotify.com/artist/04jFeoskw4vFWX6asrVMn4) | [Wake Up](https://open.spotify.com/album/1Lwr9v7H8QNNwIXXwHanvh) | 2:48 | 2025-06-04 |  |
+| [Wake Up From My Dream \(Rework\)](https://open.spotify.com/track/3cLbAMRBcNI9EKPtk2MJKL) | [Müzab](https://open.spotify.com/artist/59RdDdUFswXJaIwVcccyga) | [Wake Up From My Dream \(Rework\)](https://open.spotify.com/album/6JosFOcSGwJ8G2jOMrNOEt) | 3:30 | 2026-07-19 |  |
 | [Walk in the park](https://open.spotify.com/track/2vk4jSuHrVuvmFjrlz5yJ5) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Walk in the park](https://open.spotify.com/album/24kJnyycwGzWbSBSWAGEPp) | 1:25 | 2025-07-28 |  |
 | [WALK IT OFF](https://open.spotify.com/track/31QkpuGiQQiu6AxchCWYNV) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:16 | 2025-09-08 |  |
 | [Walking on Air](https://open.spotify.com/track/77JKb2d4oLkGa6SMe7ihjl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 3:10 | 2025-09-19 |  |

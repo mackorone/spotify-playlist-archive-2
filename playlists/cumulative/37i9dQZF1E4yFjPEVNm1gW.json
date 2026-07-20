@@ -956,7 +956,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 128026,
       "name": "CURRY SLIDE",
       "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "F.E.A.R. - feat. Niontay",
       "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 170177,
       "name": "God Made It",
       "url": "https://open.spotify.com/track/2En3Lfa3fqExSPrFOuD4Q8"
@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -3252,6 +3252,24 @@
       "duration_ms": 81176,
       "name": "not enn a diss",
       "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
+    },
+    {
+      "album": {
+        "name": "Neighborhood Superstar III",
+        "url": "https://open.spotify.com/album/5xnE66PPKZKiznZ2wCiJAt"
+      },
+      "artists": [
+        {
+          "name": "IceBirds",
+          "url": "https://open.spotify.com/artist/2jEbgXtvUzAKfLynbfjwnw"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146351,
+      "name": "Not Him",
+      "url": "https://open.spotify.com/track/6sMQVMzECzNoz4Nuy5KpUs"
     },
     {
       "album": {
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 137000,
       "name": "Survival Mode",
       "url": "https://open.spotify.com/track/6J1qkQoOtEC66i6gwz112z"
@@ -4572,7 +4590,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
@@ -4886,10 +4904,32 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 104783,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/2qj9YzI5BDAPNBOjnfWo9H"
+    },
+    {
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/2Jr0XKB5ZgEnJVxpA5hV7r"
+      },
+      "artists": [
+        {
+          "name": "Subiibabii",
+          "url": "https://open.spotify.com/artist/4b2zSLyjiG70vaoFYKuyGk"
+        },
+        {
+          "name": "4ford",
+          "url": "https://open.spotify.com/artist/5aNgGhyngFTE9D7PYbFWzt"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104783,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/1fTGL1jQWbVgjpDMEvrM8K"
     },
     {
       "album": {
@@ -5394,6 +5434,24 @@
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"
+    },
+    {
+      "album": {
+        "name": "\u0160teez file\u0161",
+        "url": "https://open.spotify.com/album/6Es5D57bsgWKPcvG8MEpvG"
+      },
+      "artists": [
+        {
+          "name": "\u0136ing\u0161teez\u20a9",
+          "url": "https://open.spotify.com/artist/5Kejvz1p0s9pxuJR2F5GYr"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159683,
+      "name": "\u0160onic",
+      "url": "https://open.spotify.com/track/2mCeEdHTCbaTaewIRHUchu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW"

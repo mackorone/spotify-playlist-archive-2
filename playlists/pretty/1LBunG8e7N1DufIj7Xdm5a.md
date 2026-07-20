@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,609 songs - 10 day 7 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,611 songs - 10 day 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4617,5 +4617,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4607 | [Rain from above](https://open.spotify.com/track/05718WfMl81IkNunWjieWX) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Summer party hits](https://open.spotify.com/album/3kYq7GQwzORjxBoh7Jx23N) | 3:54 |
 | 4608 | [L.A.](https://open.spotify.com/track/01N7qM9e4LAMRRL93rgkxt) | [Hospital Radio.](https://open.spotify.com/artist/7MSnhcDh82G5xAI63J6QDr) | [L.A.](https://open.spotify.com/album/0PyBnHTI0E3wnEHPie9tQW) | 2:58 |
 | 4609 | [Stupida Malinconia](https://open.spotify.com/track/1L10nxkefiXTsxpJueUtgA) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:52 |
+| 4610 | [Wake Up From My Dream \(Rework\)](https://open.spotify.com/track/3cLbAMRBcNI9EKPtk2MJKL) | [Müzab](https://open.spotify.com/artist/59RdDdUFswXJaIwVcccyga) | [Wake Up From My Dream \(Rework\)](https://open.spotify.com/album/6JosFOcSGwJ8G2jOMrNOEt) | 3:30 |
+| 4611 | [Back on the Clock](https://open.spotify.com/track/39dr9QgeIicvj2SBEJmv2j) | [Pilgrim's Fire](https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn) | [Field Report](https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1) | 4:21 |
 
-Snapshot ID: `AAAJPrkHWC6dzjXuNbPFDKyClQwxfa+A`
+Snapshot ID: `AAAJRGtTxMaYUU28jJl5Ug+/Tcm01/Yx`

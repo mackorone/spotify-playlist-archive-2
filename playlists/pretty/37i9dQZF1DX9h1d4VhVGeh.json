@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 223942,
+  "num_followers": 223962,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
-        "name": "El Makina",
-        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
-      },
-      "artists": [
-        {
-          "name": "Jadal",
-          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
-        }
-      ],
-      "duration_ms": 260243,
-      "name": "Ana Bakhaf Min El Commitment",
-      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
+        "name": "El Makina",
+        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
+      },
+      "artists": [
+        {
+          "name": "Jadal",
+          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
+        }
+      ],
+      "duration_ms": 260243,
+      "name": "Ana Bakhaf Min El Commitment",
+      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
     },
     {
       "added_at": "2026-05-23 04:25:38",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
-        "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
-        "url": "https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 168803,
-      "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
-      "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
         "name": "Halalalalaya",
         "url": "https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 137058,
       "name": "Halalalalaya",
       "url": "https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
+        "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
+        "url": "https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
+      "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
     },
     {
       "added_at": "2026-05-23 04:25:38",

@@ -4,7 +4,7 @@
 
 > 
 
-386 songs - 22 hr 37 min
+387 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [In The Dark](https://open.spotify.com/track/1pbHy9VBpSyZh56xuujZz0) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [The Night The Sun Came Up](https://open.spotify.com/album/7dlFcF17qY2IGoaAsdwRnt) | 3:46 | 2021-10-01 |  |
 | [In Your Beat](https://open.spotify.com/track/5Lec2Zk91VY8fFLH8CyCSb) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Marble Skies](https://open.spotify.com/album/61rOk6XQluHCZmn5Htw8ET) | 3:49 | 2021-10-01 |  |
 | [Inner Ninja](https://open.spotify.com/track/1qjADgyPMiFFJvs8arLtCq) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [Classified](https://open.spotify.com/album/5TYSSxnlKxgI85Fihljco4) | 3:11 | 2023-07-13 |  |
+| [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2026-07-19 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2023-07-13 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2023-07-13 |  |
 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 | 2025-10-03 |  |

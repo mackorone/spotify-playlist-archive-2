@@ -462,7 +462,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA"
@@ -1294,6 +1294,36 @@
       "duration_ms": 272435,
       "name": "The Pessimist (feat. J. Cole)",
       "url": "https://open.spotify.com/track/3b3SSIcnE9a77XoUEtG5Jm"
+    },
+    {
+      "album": {
+        "name": "MMG Presents: Self Made, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6i5RM49EP7GbJiHX7D2eV6"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "This Thing of Ours (feat. Rick Ross & Nas)",
+      "url": "https://open.spotify.com/track/4Izv8YcbPkIXOZW76h68hG"
     },
     {
       "album": {

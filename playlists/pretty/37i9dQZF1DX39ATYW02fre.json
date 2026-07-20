@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 274261,
+  "num_followers": 274289,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
-        "name": "Easy Come Easy Go",
-        "url": "https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T"
-      },
-      "artists": [
-        {
-          "name": "Tilja",
-          "url": "https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4"
-        }
-      ],
-      "duration_ms": 113246,
-      "name": "Easy Come Easy Go",
-      "url": "https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl"
-    },
-    {
-      "added_at": "2026-06-25 23:00:14",
-      "album": {
         "name": "is this real love",
         "url": "https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 166299,
       "name": "is this real love",
       "url": "https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0"
+    },
+    {
+      "added_at": "2026-06-25 23:00:14",
+      "album": {
+        "name": "Easy Come Easy Go",
+        "url": "https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T"
+      },
+      "artists": [
+        {
+          "name": "Tilja",
+          "url": "https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4"
+        }
+      ],
+      "duration_ms": 113246,
+      "name": "Easy Come Easy Go",
+      "url": "https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl"
     },
     {
       "added_at": "2026-06-25 23:00:14",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 278379,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2026-06-25 23:00:14",
-      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
-        "name": "If You're Here With Me",
-        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
       "artists": [
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
         }
       ],
-      "duration_ms": 208000,
-      "name": "If You're Here With Me",
-      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
+      "duration_ms": 278379,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
     },
     {
       "added_at": "2026-06-25 23:00:14",
@@ -807,6 +791,22 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
+        "name": "If You're Here With Me",
+        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "If You're Here With Me",
+      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
+    },
+    {
+      "added_at": "2026-06-25 23:00:14",
+      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 187125,
       "name": "Lydia (please make it better)",
       "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
-    },
-    {
-      "added_at": "2026-06-25 23:00:14",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2026-06-25 23:00:14",
@@ -859,6 +839,26 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+    },
+    {
+      "added_at": "2026-06-25 23:00:14",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2026-06-25 23:00:14",
@@ -895,18 +895,22 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+      "duration_ms": 254346,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ"
     }
   ],
   "unique_name": "Melantronic",

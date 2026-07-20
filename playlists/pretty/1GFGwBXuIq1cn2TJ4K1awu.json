@@ -1,196 +1,204 @@
 {
-  "description": "Ten or eleven songs a week. Updated every Sunday. Enjoy.",
-  "num_followers": 35,
+  "description": "Updated every Sunday. Ten songs plus a bonus. Enjoy.",
+  "num_followers": 36,
   "original_name": "Songs of the Week by Roy",
   "owner": {
     "name": "royva06",
     "url": "https://open.spotify.com/user/royva06"
   },
-  "snapshot_id": "AAALZHClenUqtvFjXrHObzEr2lMgeiXd",
+  "snapshot_id": "AAALew13P+20wybCiHZ/lQPJ4/TWGejs",
   "tracks": [
     {
-      "added_at": "2026-07-12 15:31:21",
+      "added_at": "2026-07-19 15:45:22",
       "album": {
-        "name": "Leaves in the River",
-        "url": "https://open.spotify.com/album/6WC3AqZcdJkfRxYRo2iXSL"
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
       "artists": [
         {
-          "name": "Sea Wolf",
-          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 215560,
-      "name": "You're a Wolf",
-      "url": "https://open.spotify.com/track/4cFMT3DwTYChrjBT71hqGy"
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
-      "added_at": "2026-07-12 15:31:35",
+      "added_at": "2026-07-19 15:45:32",
       "album": {
-        "name": "Foxwarren",
-        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
+        "name": "EELS",
+        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
       "artists": [
         {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "duration_ms": 213904,
+      "name": "Van Goes",
+      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2026-07-19 15:45:40",
+      "album": {
+        "name": "Dollar A Day",
+        "url": "https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 209256,
+      "name": "Crucified Son",
+      "url": "https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa"
+    },
+    {
+      "added_at": "2026-07-19 15:45:51",
+      "album": {
+        "name": "Down With The King",
+        "url": "https://open.spotify.com/album/26gFD7tL928WDDcse3rPls"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         },
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
         },
         {
-          "name": "Darryl Kissick",
-          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+          "name": "C.L. Smooth",
+          "url": "https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb"
         }
       ],
-      "duration_ms": 260090,
-      "name": "Sunset Canyon",
-      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+      "duration_ms": 302626,
+      "name": "Down With the King (feat. Pete Rock & C.L. Smooth)",
+      "url": "https://open.spotify.com/track/2oSPru8bef0EMhF9tvMSLn"
     },
     {
-      "added_at": "2026-07-12 15:31:44",
+      "added_at": "2026-07-19 15:46:08",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+        "name": "i don\u2019t know who needs to hear this...",
+        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
         }
       ],
-      "duration_ms": 222655,
-      "name": "Da Art of Storytellin' (Pt. 1)",
-      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      "duration_ms": 285943,
+      "name": "idkwntht",
+      "url": "https://open.spotify.com/track/3AZyeUG0UUzENA5t0V9O09"
     },
     {
-      "added_at": "2026-07-12 15:31:54",
+      "added_at": "2026-07-19 15:46:17",
       "album": {
-        "name": "Beware of the Dogs",
-        "url": "https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW"
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/0MxaxnSjmQAKW3buoBRKog"
       },
       "artists": [
         {
-          "name": "Stella Donnelly",
-          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+          "name": "Prism Bitch",
+          "url": "https://open.spotify.com/artist/7ungoomfqCNHmx5No3a0py"
         }
       ],
-      "duration_ms": 174395,
-      "name": "Die",
-      "url": "https://open.spotify.com/track/0Ysr0TWPvuV0g5eKRe5qJk"
+      "duration_ms": 175000,
+      "name": "Ya Ya",
+      "url": "https://open.spotify.com/track/2XUYTPkDrF0Qx9iGkOw4qA"
     },
     {
-      "added_at": "2026-07-12 15:32:06",
+      "added_at": "2026-07-19 15:46:25",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+        "name": "In My Own Time",
+        "url": "https://open.spotify.com/album/6Ai4Saejkb08NrsC7182Px"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
         }
       ],
-      "duration_ms": 253733,
-      "name": "I Need Never Get Old",
-      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
+      "duration_ms": 203346,
+      "name": "Something On Your Mind",
+      "url": "https://open.spotify.com/track/23KI77aH4TKcb3rOMsYiSg"
     },
     {
-      "added_at": "2026-07-12 15:32:16",
+      "added_at": "2026-07-19 15:46:33",
       "album": {
-        "name": "The Archer",
-        "url": "https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8"
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
       },
       "artists": [
         {
-          "name": "Alexandra Savior",
-          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 162944,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/5Qh2q9g7iP4WXZofuX0WXZ"
+      "duration_ms": 725722,
+      "name": "black screen",
+      "url": "https://open.spotify.com/track/0AUp2LQdUSJRtQa5rTx3fJ"
     },
     {
-      "added_at": "2026-07-12 15:32:24",
+      "added_at": "2026-07-19 15:46:42",
       "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+        "name": "Imperius Rex",
+        "url": "https://open.spotify.com/album/3xpY0WG5GkPed4rBYIbEMt"
       },
       "artists": [
         {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+          "name": "Sean Price",
+          "url": "https://open.spotify.com/artist/4VMwZeCtQ2I9ne0bLvTqWw"
+        },
+        {
+          "name": "DOOM",
+          "url": "https://open.spotify.com/artist/3IZVDB8rcinQTKxCjvMag6"
+        },
+        {
+          "name": "Ike Eyez",
+          "url": "https://open.spotify.com/artist/4AzPDisIP1y4k9ezmQmByO"
         }
       ],
-      "duration_ms": 259453,
-      "name": "Sound Bwoy Bureill",
-      "url": "https://open.spotify.com/track/3enjxX3aOAsFyaKeH1O9jO"
+      "duration_ms": 220056,
+      "name": "Negus",
+      "url": "https://open.spotify.com/track/0oWcVb7OQ2ClG6iv8hwNrU"
     },
     {
-      "added_at": "2026-07-12 15:32:38",
+      "added_at": "2026-07-19 15:46:51",
       "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/3yYeYX26WNepcjOFY34ki4"
+        "name": "My Morning Jacket",
+        "url": "https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Break It Down Again",
-      "url": "https://open.spotify.com/track/15kc3DJyYixeEEq5kRRrOm"
+      "duration_ms": 496813,
+      "name": "I Never Could Get Enough",
+      "url": "https://open.spotify.com/track/0GJQO6odBx7Ha2BjiyhlXo"
     },
     {
-      "added_at": "2026-07-12 15:32:47",
+      "added_at": "2026-07-19 15:46:59",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "Know Better Learn Faster",
+        "url": "https://open.spotify.com/album/1AkgsMneGDu0rLVeB4Gnwn"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "THAO",
+          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2026-07-12 15:32:56",
-      "album": {
-        "name": "Is This Real?",
-        "url": "https://open.spotify.com/album/531Pc0lZ2aJIHJfyO7q0Ny"
-      },
-      "artists": [
-        {
-          "name": "Wipers",
-          "url": "https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "D-7",
-      "url": "https://open.spotify.com/track/4Av6uLF5s1A1mvSCP8fLR6"
-    },
-    {
-      "added_at": "2026-07-12 15:33:07",
-      "album": {
-        "name": "Mountain Music",
-        "url": "https://open.spotify.com/album/1DegGDbKzEP9xthtOV9ldL"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 180294,
-      "name": "Lovin' You Is Killin' Me",
-      "url": "https://open.spotify.com/track/62GC0zI1PGLBhEEG0ZY0vE"
+      "duration_ms": 229866,
+      "name": "Know Better Learn Faster",
+      "url": "https://open.spotify.com/track/6uNZ2ixwMy1fj7NOEEJEBA"
     }
   ],
   "unique_name": "Songs of the Week by Roy",

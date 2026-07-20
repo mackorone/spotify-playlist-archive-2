@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 240000,
       "name": "BORRACHO",
       "url": "https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3"
@@ -4398,6 +4398,32 @@
       "duration_ms": 219221,
       "name": "Yo Si Y T\u00fa No",
       "url": "https://open.spotify.com/track/6FPxiFg1qKRueB2KMItMUL"
+    },
+    {
+      "album": {
+        "name": "Yo Voy A Mi",
+        "url": "https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164009,
+      "name": "Yo Voy A Mi",
+      "url": "https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWM5o62BfFWh"

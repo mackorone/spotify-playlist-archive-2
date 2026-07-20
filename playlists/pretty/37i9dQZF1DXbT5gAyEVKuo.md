@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,672 likes - 80 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,712 likes - 80 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 79 | [Blood is Still the Blood \- Live](https://open.spotify.com/track/4PWBFMQuYfdZpj1SDXrxtP) | [Hope City Worship](https://open.spotify.com/artist/56nadbKWQJwbBUyVipnV1d), [Kim Onyia](https://open.spotify.com/artist/7hHsKjcEhsJV8NiOwVqgEQ), [Rodney Douglas Jr.](https://open.spotify.com/artist/3nyHKNDuPdpMHyGK5iPcRg) | [Hope City Worship Sunday Sessions \(Live\)](https://open.spotify.com/album/5atBr5nvmqObn2UAGbkLMq) | 6:12 |
 | 80 | [Still On The Throne](https://open.spotify.com/track/24JCZziAKrLDHWYCemnPR0) | [Joann Rosario](https://open.spotify.com/artist/4i7ABzLzb1JhYq3Js3MXnJ) | [Still On The Throne](https://open.spotify.com/album/6LNkZUjI2t6N8XKNwuaY75) | 3:40 |
 
-Snapshot ID: `AAAAAAmbN6/Cq8z3NQGJ2M7iRmVyR4lL`
+Snapshot ID: `AAAAAI3tQnLGEX/wD73/k3nm4uML+78Y`

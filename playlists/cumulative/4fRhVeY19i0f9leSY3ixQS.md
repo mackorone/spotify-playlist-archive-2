@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,916 songs - 4 day 11 hr 6 min
+1,919 songs - 4 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Breaking the Rules with a Smile On](https://open.spotify.com/track/2aHauPdAZxgXqBpJsLv7zb) | [Two Stories Away](https://open.spotify.com/artist/6pK1e6SbO06aoLnICdXNR4) | [Breaking the Rules with a Smile On](https://open.spotify.com/album/5BqUe4Yz6dJ4mKCouEI1Mj) | 3:17 | 2026-04-25 | 2026-05-27 |
 | [BREATHE](https://open.spotify.com/track/3ALJaDfdUCrARTslgZig5k) | [dmncles](https://open.spotify.com/artist/6AXQbXnTcpATjFnocZgBK3) | [BREATHE](https://open.spotify.com/album/3ngaCH0ImMqEuCnlO1F84m) | 2:34 | 2025-11-21 | 2025-12-24 |
 | [Breather](https://open.spotify.com/track/676IBfIXDIiidngkSKSJHY) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 0:42 | 2025-08-03 |  |
+| [Breathing In The Ashes](https://open.spotify.com/track/0Cw9SVAcy1f370toyrPDbc) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Shapes Of The Gloom](https://open.spotify.com/album/5ifTQ8XktSfaReA6cHjg4P) | 4:12 | 2026-07-19 |  |
 | [Bright Cage](https://open.spotify.com/track/1Ia9J1id6IATwq69K6lumD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Bright Cage](https://open.spotify.com/album/0YDGcRYWG4prbDIQgFSznC) | 5:22 | 2025-12-16 | 2026-01-06 |
 | [Bright Idea](https://open.spotify.com/track/3XpC1K3CTlpdJxLFJkmgNh) | [This Time Only](https://open.spotify.com/artist/3U8Y9kZdHdKtTwpDlWHM7j) | [Bright Idea](https://open.spotify.com/album/7foURBDxGdqpTOQK0YvP8O) | 3:04 | 2026-04-02 | 2026-05-04 |
 | [Bring You Back](https://open.spotify.com/track/38XC9TOfjyc83NpcRek9ty) | [Tackle](https://open.spotify.com/artist/6mEjnZ7to0xvEYyuIvUdXl) | [Bring You Back](https://open.spotify.com/album/39xfESFxWASwVu6CBJJ8i5) | 3:09 | 2026-05-11 | 2026-06-12 |
@@ -336,7 +337,7 @@
 | [Copperhead Road](https://open.spotify.com/track/4NfsyrdSYaB3fqRtuwgchM) | [Jack Rumbolt](https://open.spotify.com/artist/2Kgps6ghbut0HP4IiVavVP) | [Steel Rebellion](https://open.spotify.com/album/4fulHPnGCeBufyxLArrYuX) | 5:33 | 2026-06-17 | 2026-07-04 |
 | [CORNERS OF MY MIND](https://open.spotify.com/track/6FriLnIJPHFcVu0D2IMq42) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 3:18 | 2026-07-14 |  |
 | [Corriendo \(think about you\)](https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY) | [Corriendo \(think about you\)](https://open.spotify.com/album/0MluI6wYBnfjejhvD53V00) | 3:17 | 2025-12-16 | 2026-01-06 |
-| [Cosmic Joke](https://open.spotify.com/track/3BiWFVUXaQ8umDscUOWvdB) | [Chopsaw](https://open.spotify.com/artist/7jPL5mP2uyyjQ3WGsx95wW) | [Cosmic Joke](https://open.spotify.com/album/5STHgTWvnsyRwhswjBfI98) | 1:07 | 2026-06-18 |  |
+| [Cosmic Joke](https://open.spotify.com/track/3BiWFVUXaQ8umDscUOWvdB) | [Chopsaw](https://open.spotify.com/artist/7jPL5mP2uyyjQ3WGsx95wW) | [Cosmic Joke](https://open.spotify.com/album/5STHgTWvnsyRwhswjBfI98) | 1:07 | 2026-06-18 | 2026-07-20 |
 | [Cosquilleo](https://open.spotify.com/track/0p7lNfxGLkLLw6mXqLjwJB) | [Hanz Ruiz](https://open.spotify.com/artist/492JvkAgPNolAHLI8QPXP8) | [Cosquilleo](https://open.spotify.com/album/08LkhNcZlKqlVCnprQVXo8) | 3:24 | 2026-04-17 | 2026-05-08 |
 | [Could've Been a Lady](https://open.spotify.com/track/6jxdNyMoG2bTCRXDeioI3p) | [The Grunges](https://open.spotify.com/artist/2NM1MCdBmXIbziFHGLBWjN), [Semantik](https://open.spotify.com/artist/5KDq9vPopEITAxvHLIAtdX) | [Polaroid](https://open.spotify.com/album/6Q6B8bGZhKL9I3CBuS4EKq) | 4:00 | 2026-07-09 |  |
 | [Counting Hours](https://open.spotify.com/track/5oZPVbwy0pcc9lGJ8IVXv7) | [Mistakes Were Made](https://open.spotify.com/artist/74OkFEDckmNXkC9WIruX51) | [Corporate Punks](https://open.spotify.com/album/6EuXTJyTYLQaA2NGsCRRxV) | 2:53 | 2026-07-09 |  |
@@ -981,7 +982,7 @@
 | [Lovely Head](https://open.spotify.com/track/1zgep5cR2ZjHRKLi3qqbl8) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 3:49 | 2025-08-03 |  |
 | [LOVING](https://open.spotify.com/track/3O8vass2SxwRzROlx3LTUz) | [Jacob Ryan](https://open.spotify.com/artist/7DgMrk1x4fR1xtITgESbIV) | [LOVING](https://open.spotify.com/album/6EjBcnbJOy4tSNDZFzAhZr) | 3:51 | 2026-05-14 | 2026-06-06 |
 | [Low\-Poly Demake](https://open.spotify.com/track/59abIdqujbaNscfsMEnAoy) | [Aflu Enza](https://open.spotify.com/artist/3DYCDgO6xWXXUPg7fHPyxz) | [THELASTIME](https://open.spotify.com/album/6RscKRqZ5aTdYOgYDMi0jT) | 2:50 | 2026-05-05 | 2026-05-30 |
-| [Lucid Machines](https://open.spotify.com/track/5Rw575EtFpnISsdfpOt87w) | [Gnarwhal](https://open.spotify.com/artist/2AxX3x7VTOFZaUpQ46seKa) | [Lucid Machines](https://open.spotify.com/album/3BKJiTYuFo4lrURSx8ig42) | 4:30 | 2026-06-18 |  |
+| [Lucid Machines](https://open.spotify.com/track/5Rw575EtFpnISsdfpOt87w) | [Gnarwhal](https://open.spotify.com/artist/2AxX3x7VTOFZaUpQ46seKa) | [Lucid Machines](https://open.spotify.com/album/3BKJiTYuFo4lrURSx8ig42) | 4:30 | 2026-06-18 | 2026-07-20 |
 | [Lycoris](https://open.spotify.com/track/1gL1QvP17ZY5JJDjDi1q1N) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 5:00 | 2025-12-16 | 2026-01-06 |
 | [Lykkeland](https://open.spotify.com/track/65VqFJa0WStL5umZ3k0Mmw) | [Lysne](https://open.spotify.com/artist/4RsfxkBO6jZw4qHNEJp5xm) | [Lykkeland](https://open.spotify.com/album/4Ew3xeUtj2zLVJyq2IKioi) | 2:14 | 2026-01-14 | 2026-02-03 |
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-15 | 2026-02-03 |
@@ -1135,6 +1136,7 @@
 | [nomad](https://open.spotify.com/track/3qZpVtOkVmO5vTcAPhpf2l) | [Noorag](https://open.spotify.com/artist/00pawg55oM8J4PPbekB1IT) | [nomad](https://open.spotify.com/album/6PpcohKzSTc8n3UOOLYbBl) | 2:48 | 2026-06-11 | 2026-07-04 |
 | [Non hai mai capito un cazzo](https://open.spotify.com/track/3ujVDluuhVb3Yej7wxJYv0) | [B\-erre](https://open.spotify.com/artist/5RoNocaWSwVXPlWzh61GbT) | [Profondo Rosso](https://open.spotify.com/album/2gEACwgO3Ai5NuSuxFjyRY) | 1:29 | 2026-01-17 | 2026-02-05 |
 | [Nonstop](https://open.spotify.com/track/1FBo9A315j7URLFVTao8XY) | [Prizecard](https://open.spotify.com/artist/1BcCMApD8OexJp7iyqjhv8) | [Nonstop](https://open.spotify.com/album/184kqhFDdnSWdUOnAgkjwV) | 3:22 | 2026-01-21 | 2026-02-12 |
+| [Normal](https://open.spotify.com/track/4vepTEp0O8iO0v6m1Je4p9) | [Titx Colletti](https://open.spotify.com/artist/1e77CCof6xxzniAC8VKPLs) | [Normal](https://open.spotify.com/album/4BvrUFAgcW2jjZk5vXh2HT) | 2:28 | 2026-07-19 |  |
 | [Northern Exposure](https://open.spotify.com/track/5n317q7FbwiLzPv3V75g3c) | [High Wasted Genes](https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC) | [Northern Exposure](https://open.spotify.com/album/5apcLtBbZJ8q89x0sTeRly) | 4:30 | 2025-10-27 | 2025-12-10 |
 | [Not Impossible](https://open.spotify.com/track/13A7t1eO7q54LPksREtz8O) | [GEDI](https://open.spotify.com/artist/4VCBj7Ppx98AOG6uIOqKG8) | [Not Impossible](https://open.spotify.com/album/2Pua89TfvXac1NyGGyGDrg) | 3:01 | 2026-07-17 |  |
 | [Not The Same](https://open.spotify.com/track/0CSbXOO9ORfFb8wnEOJ8lF) | [Destination Unknown](https://open.spotify.com/artist/5cECVFXset9kdxbP3K1Bmi) | [Not The Same](https://open.spotify.com/album/3bLUgzgWT2eqiVXqrDeKLt) | 3:42 | 2026-04-29 | 2026-05-31 |
@@ -1142,7 +1144,7 @@
 | [Not Today](https://open.spotify.com/track/1ldlVDxNRGQwL0RNqq2vx4) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Not Today](https://open.spotify.com/album/25ZQIHmnsP3DTxPhQ4lVsQ) | 2:32 | 2026-06-14 | 2026-07-04 |
 | [Not Yours](https://open.spotify.com/track/6SbfNWFnUKkjsmn43bS33B) | [Scarlet Saboteur](https://open.spotify.com/artist/3VP7XAWza67jguPChArk3m) | [Not Yours](https://open.spotify.com/album/5XnhS2Twp3e1Oi6wbh8dvm) | 2:41 | 2026-06-16 | 2026-07-04 |
 | [Nothing But Strangers](https://open.spotify.com/track/2Qplmt0uHxndVNM0m5xfjq) | [Sludder](https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n) | [Nothing But Strangers](https://open.spotify.com/album/1Mb1abSud7y3ScV5Ojmzrh) | 3:33 | 2025-12-29 | 2026-01-30 |
-| [Nothing Ever Changes](https://open.spotify.com/track/7nsqbGkeTfXU2GqofZ5gMP) | [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [Nothing Ever Changes](https://open.spotify.com/album/4j67iWoiV4uzsRsiaNApBI) | 3:24 | 2026-06-18 |  |
+| [Nothing Ever Changes](https://open.spotify.com/track/7nsqbGkeTfXU2GqofZ5gMP) | [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [Nothing Ever Changes](https://open.spotify.com/album/4j67iWoiV4uzsRsiaNApBI) | 3:24 | 2026-06-18 | 2026-07-20 |
 | [Nothing To Say](https://open.spotify.com/track/31koy7libiolbDXN0ZQozQ) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:44 | 2025-08-03 | 2026-01-15 |
 | [notwhatiexpected](https://open.spotify.com/track/2tGn18N8m9HsjUoGaFnMtk) | [SUNPRAYER](https://open.spotify.com/artist/2VjHiKZv3FNnnVCXL97e4s), [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [depresso espresso](https://open.spotify.com/album/27g0aGZYUMPb6H7kLM2a7x) | 2:55 | 2025-11-16 | 2025-12-10 |
 | [Nouveau Riche](https://open.spotify.com/track/7Kj7i0nQv51E3osrC0wwj5) | [Buddy Wynkoop](https://open.spotify.com/artist/56Y4IMRJDQcagdjb8J47Ns) | [Nouveau Riche](https://open.spotify.com/album/7LnVZZ7gfec6VYoCBKEeB1) | 2:29 | 2026-05-12 | 2026-06-13 |
@@ -1190,6 +1192,7 @@
 | [Out of My Hands](https://open.spotify.com/track/5qfOG0Nf4sWEp7w33XuvYR) | [Bubby](https://open.spotify.com/artist/7yDuo9SBzKYQYYs9bPKXDp) | [Out of My Hands / I Can't Look](https://open.spotify.com/album/6DHqiHUgpp8eAnZw4YZbP2) | 3:20 | 2026-03-16 | 2026-04-07 |
 | [Out of Sight](https://open.spotify.com/track/2ZWhP6xzlkiPXxvk6aap1a) | [Casual Drag](https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N) | [Revolution Will Eat Itself](https://open.spotify.com/album/5N4MJy0un9XlNiUpv0wT8D) | 3:57 | 2026-01-28 | 2026-03-01 |
 | [Outcast](https://open.spotify.com/track/0bANwo9DVN8mKM0VoPM3LC) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Outcast](https://open.spotify.com/album/5iZuZfaqkDIeYe6v3JnjSl) | 3:03 | 2025-12-15 | 2026-06-11 |
+| [Outcry](https://open.spotify.com/track/4yXtjTanAXiptY0ZKtRrhk) | [Sadcult](https://open.spotify.com/artist/30cagb6OxXV1wv3kAfeWHJ) | [Outcry](https://open.spotify.com/album/6hqmN8hgOWAcPytCIlSdxz) | 2:44 | 2026-07-19 |  |
 | [Outlaw](https://open.spotify.com/track/6rGaEVsfWKNjsciPwtXQpC) | [Sunset Black](https://open.spotify.com/artist/3pARkfTZuMZlfV8WujY3gk), [Gent Jack](https://open.spotify.com/artist/2AbQjpqeCOrrCZfMPYlfeY) | [Outlaw](https://open.spotify.com/album/7sVv57xJ2OgY0tTX902Dno) | 2:24 | 2026-05-18 | 2026-06-06 |
 | [over you](https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [over you](https://open.spotify.com/album/71UV6jFNDCAiDsJpK0qhNE) | 2:57 | 2026-03-31 | 2026-05-02 |
 | [Overdose](https://open.spotify.com/track/64z8MJOjjUkuYK5EGqfPkH) | [Drexl Bowie](https://open.spotify.com/artist/42gYTrrgVcmssefJRBi2Je) | [Overdose](https://open.spotify.com/album/6JQRMV9HN4NHzdMuZEHg8Q) | 2:47 | 2026-04-28 | 2026-05-30 |

@@ -3049,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "Spur Of The Moment",
+        "url": "https://open.spotify.com/album/6OGkY4dqAZI4E0SDiJJsNN"
+      },
+      "artists": [
+        {
+          "name": "The BoykinZ",
+          "url": "https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210355,
+      "name": "Spur Of The Moment",
+      "url": "https://open.spotify.com/track/6kZhMmAGqjQ1x6b0znord0"
+    },
+    {
+      "album": {
         "name": "Open Bars",
         "url": "https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a"
       },

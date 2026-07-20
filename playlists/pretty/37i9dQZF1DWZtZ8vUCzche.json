@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1579483,
+  "num_followers": 1579711,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "The Singles 86-98",
-        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Moondance",
         "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 205613,
       "name": "Into the Mystic - 2013 Remaster",
       "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "The Singles 86-98",
+        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Talkin' Bout a Revolution",
+      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 262306,
       "name": "No One's Watching Me (feat. Olivia Dean)",
       "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Talkin' Bout a Revolution",
-      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 551786,
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Curyman",
         "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 225826,
       "name": "Existe Uma Voz",
       "url": "https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 551786,
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Sandusky",
-      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/2FpXNwmewH9F2bytZMevuS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 324680,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/1hVXZoSAkZ3P5Lp6fKOcgx"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 272685,
-      "name": "Man in the Long Black Coat",
-      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 382360,
       "name": "Original - Remastered",
       "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 272685,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "In Rainbows",
-        "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 328293,
-      "name": "House Of Cards",
-      "url": "https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "R-Kive",
         "url": "https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 263560,
       "name": "Solsbury Hill - 2002 Remaster",
       "url": "https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 328293,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky"
       },
@@ -2351,18 +2331,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "In Your Room",
-        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 144133,
-      "name": "Situation - 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2395,6 +2379,22 @@
       "duration_ms": 381040,
       "name": "Speedway At Nazareth",
       "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "In Your Room",
+        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Situation - 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2539,6 +2539,22 @@
       "duration_ms": 265866,
       "name": "Organ Donor - Extended Overhaul",
       "url": "https://open.spotify.com/track/0woxBVfznRP84kRSUS4Fuc"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "The Mouse and The Mask (Bonus Version)",
+        "url": "https://open.spotify.com/album/72ddtidR7JZCZg8mAZJ8g7"
+      },
+      "artists": [
+        {
+          "name": "DANGERDOOM",
+          "url": "https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Crosshairs",
+      "url": "https://open.spotify.com/track/0uGmhcJP4QQUIpaqKK6ESx"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2803,22 +2819,6 @@
       "duration_ms": 234626,
       "name": "Six Underground - Nellee Hooper Mix",
       "url": "https://open.spotify.com/track/5riz3aldYFYpWSsSRFZDw3"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "The Mouse and The Mask (Bonus Version)",
-        "url": "https://open.spotify.com/album/72ddtidR7JZCZg8mAZJ8g7"
-      },
-      "artists": [
-        {
-          "name": "DANGERDOOM",
-          "url": "https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Crosshairs",
-      "url": "https://open.spotify.com/track/0uGmhcJP4QQUIpaqKK6ESx"
     },
     {
       "added_at": "2026-05-15 12:32:26",

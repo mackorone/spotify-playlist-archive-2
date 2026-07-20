@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Vintara Saradaga \- VISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,189 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,187 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Jigithara \(From "Chennai Love Story"\)](https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Jigithara \(From "Chennai Love Story"\)](https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ) | 4:12 |
 | 50 | [Prema Premisthunna \(From "Oh Sukumari"\)](https://open.spotify.com/track/0L4lDS5xKNRZO7e2iavSOw) | [Bharath Manchiraju](https://open.spotify.com/artist/0IwPGyWLTlaS0TXIvVEqb7), [James Thakara](https://open.spotify.com/artist/3uRhRME6wArdeaQ2s26Q0A), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j), [Thiruveer](https://open.spotify.com/artist/2CN77hzGZNr4cOlEQwBIbS), [Aishwarya Rajesh](https://open.spotify.com/artist/4eiylYaB9g7znXt6m9KN3u) | [Prema Premisthunna \(From "Oh Sukumari"\)](https://open.spotify.com/album/1ftVZCd6uYlRw9tT9VHaMO) | 3:50 |
 
-Snapshot ID: `AAAAAJ5cXlOV8G2dAYaYzjA9EeF6qP2+`
+Snapshot ID: `AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al`

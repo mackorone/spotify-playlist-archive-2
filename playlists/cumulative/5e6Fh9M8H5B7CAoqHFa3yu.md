@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,403 songs - 5 day 21 hr 42 min
+2,405 songs - 5 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [Harness Your Hopes](https://open.spotify.com/track/2Otn5oxyBmqvOSWQCgqrNa) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:15 | 2026-06-15 |  |
 | [Hasta el Más Allá](https://open.spotify.com/track/3gSDO1m8SzYqFImINjHrFe) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Hasta el Más Allá](https://open.spotify.com/album/2wxFNeFCKuXgmFeWUcyhnZ) | 2:53 | 2026-05-19 |  |
 | [Have I Finally Gone Insane](https://open.spotify.com/track/35mqV0lFpYxBfneC07cTqi) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:04 | 2025-07-02 |  |
+| [Have you seen my Lady](https://open.spotify.com/track/5XuwWlQbjFSInOrPvxyUNi) | [Ryhan Music](https://open.spotify.com/artist/3bdlsepaCRkmp8DA109WFW) | [Have you seen my Lady](https://open.spotify.com/album/0Z5B2BSxGA4ByQi4cpfEdX) | 3:23 | 2026-07-19 |  |
 | [Hawaii](https://open.spotify.com/track/1GF0C543lkF0gTuLrCrSSO) | [Alan](https://open.spotify.com/artist/4pCnnAarSOFMmTPeVlEEHC) | [Hawaii](https://open.spotify.com/album/2tmpTDmeKCoIUpvVNZXDLW) | 3:37 | 2024-06-19 |  |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 |  |
 | [He Is Alive in Dub](https://open.spotify.com/track/34Hn5bCyc8m18UOnwSH2jt) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Queen Merry](https://open.spotify.com/artist/2VZH0NsBu8jaZWiQThdgyI), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 4:44 | 2024-05-01 |  |
@@ -2342,6 +2343,7 @@
 | [You Don't Say](https://open.spotify.com/track/34P3RVgt9fSk1Wry78boEL) | [Hero Pattern](https://open.spotify.com/artist/5V5zpvPCoO7CJ1SjI17Dav) | [The Deception EP](https://open.spotify.com/album/39gruS3bKlFiHEHu48HcYh) | 3:06 | 2024-03-04 |  |
 | [You Dub, I Fly](https://open.spotify.com/track/4hFpR4cuQduUDYXOvbdYKA) | [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [You Step, I Dub](https://open.spotify.com/album/7fHfDYTeDZ6kL1nq57oOkM) | 4:06 | 2024-03-23 |  |
 | [You Fly, I Ascend](https://open.spotify.com/track/7qNJ7c0kgp8SVSonQjuszW) | [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [You Step, I Dub](https://open.spotify.com/album/7fHfDYTeDZ6kL1nq57oOkM) | 3:49 | 2024-03-23 |  |
+| [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2026-07-19 |  |
 | [You Step, I Dub](https://open.spotify.com/track/585xM27ufdlG3STUJ6u1fn) | [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [You Step, I Dub](https://open.spotify.com/album/7fHfDYTeDZ6kL1nq57oOkM) | 4:06 | 2024-03-23 |  |
 | [You're The Impulse I Give Into](https://open.spotify.com/track/0LbB72Ix2Qg5bvFBQisRjq) | [Garnish](https://open.spotify.com/artist/7gzl8VXW9zr9AxxctNIU5D) | [Junior](https://open.spotify.com/album/3MiTKwbyrQzlcaoGZWt5gu) | 2:37 | 2025-02-07 |  |
 | [you're the reason i'm coughing & wheezing](https://open.spotify.com/track/6UCGYZAb5kzosynnBckTGu) | [Bleed Myxo](https://open.spotify.com/artist/3ZXDIX32kKe2F47cRFTtA9) | [you're the reason i'm coughing & wheezing](https://open.spotify.com/album/7xR8fuxMbF0F6yH0H1PScz) | 2:06 | 2025-06-22 |  |

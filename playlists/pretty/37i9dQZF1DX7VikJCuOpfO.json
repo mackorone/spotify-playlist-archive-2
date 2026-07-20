@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alta Consigna\ud83d\udcf8",
-  "num_followers": 368343,
+  "num_followers": 368355,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
+        "name": "El Hombre Que Yo Amo",
+        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 235338,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 210471,
       "name": "Vives En M\u00ed",
       "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
-        "name": "El Hombre Que Yo Amo",
-        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 235338,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Bien, \u00bfy t\u00fa?",
-        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bien, \u00bfy t\u00fa?",
-      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 196766,
       "name": "Se Me Va A Pasar",
       "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Bien, \u00bfy t\u00fa?",
+        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
+      },
+      "artists": [
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bien, \u00bfy t\u00fa?",
+      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Emilia",
-        "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "Emilia",
-      "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Emilia",
+        "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "Emilia",
+      "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
-      },
-      "artists": [
-        {
-          "name": "Mirla Avila",
-          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
-        },
-        {
-          "name": "Ray El Ingeniero",
-          "url": "https://open.spotify.com/artist/7o4cCOAbQcgEDcAQIN8Knn"
-        }
-      ],
-      "duration_ms": 217735,
-      "name": "Monarca",
-      "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
         "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
       },
       "artists": [
         {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+          "name": "Mirla Avila",
+          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+        },
+        {
+          "name": "Ray El Ingeniero",
+          "url": "https://open.spotify.com/artist/7o4cCOAbQcgEDcAQIN8Knn"
         }
       ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
+      "duration_ms": 217735,
+      "name": "Monarca",
+      "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
       },
       "artists": [
         {
-          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
-          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
         }
       ],
-      "duration_ms": 227338,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1091,6 +1075,22 @@
       "duration_ms": 207830,
       "name": "Los Amigos Asi",
       "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+        }
+      ],
+      "duration_ms": 227338,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Cuando Ama Una Mujer",
-        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
-      },
-      "artists": [
-        {
-          "name": "Diana Hoyos",
-          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Cuando Ama Una Mujer",
-      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 195245,
       "name": "\u00bfQui\u00e9n Es Usted?",
       "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Cuando Ama Una Mujer",
+        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
+      },
+      "artists": [
+        {
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Cuando Ama Una Mujer",
+      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Se\u00f1or Dios",
-        "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 189162,
-      "name": "Se\u00f1or Dios",
-      "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
-    },
-    {
-      "added_at": "2026-07-03 06:00:19",
-      "album": {
         "name": "Ya Es Muy Tarde",
         "url": "https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy"
       },
@@ -1347,8 +1331,24 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Pintando sue\u00f1os",
-        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
+        "name": "Se\u00f1or Dios",
+        "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 189162,
+      "name": "Se\u00f1or Dios",
+      "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
+    },
+    {
+      "added_at": "2026-07-03 06:00:19",
+      "album": {
+        "name": "Porque la vida fue tan injusta",
+        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
         }
       ],
-      "duration_ms": 222080,
-      "name": "Pintando sue\u00f1os",
-      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
+      "duration_ms": 182424,
+      "name": "Porque la vida fue tan injusta",
+      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
     },
     {
       "added_at": "2026-07-03 06:00:19",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2026-07-03 06:00:19",
       "album": {
-        "name": "Porque la vida fue tan injusta",
-        "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
+        "name": "Pintando sue\u00f1os",
+        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
         }
       ],
-      "duration_ms": 182424,
-      "name": "Porque la vida fue tan injusta",
-      "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
+      "duration_ms": 222080,
+      "name": "Pintando sue\u00f1os",
+      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
     },
     {
       "added_at": "2026-07-03 06:00:19",

@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 80934,
+  "num_followers": 80937,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Drunk Girls (Holy Ghost! Remix)",
-        "url": "https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        },
-        {
-          "name": "Holy Ghost!",
-          "url": "https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6"
-        }
-      ],
-      "duration_ms": 450546,
-      "name": "Drunk Girls - Holy Ghost! Remix",
-      "url": "https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Waters of Nazareth (The Remixes)",
         "url": "https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 372600,
       "name": "Waters of Nazareth - Erol Alkan Remix",
       "url": "https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Drunk Girls (Holy Ghost! Remix)",
+        "url": "https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        },
+        {
+          "name": "Holy Ghost!",
+          "url": "https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6"
+        }
+      ],
+      "duration_ms": 450546,
+      "name": "Drunk Girls - Holy Ghost! Remix",
+      "url": "https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Suspense Is Killing Me EP",
+        "url": "https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR"
+      },
+      "artists": [
+        {
+          "name": "Boy 8-Bit",
+          "url": "https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam"
+        }
+      ],
+      "duration_ms": 293882,
+      "name": "Suspense Is Killing Me",
+      "url": "https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Acceptable In The 80s",
         "url": "https://open.spotify.com/album/3pPwssIXWoFz7r5Wjusbme"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 431973,
       "name": "Acceptable in the 80's - Tom Neville Remix",
       "url": "https://open.spotify.com/track/5kPgxhET1iRXB9kvOvzEFb"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Suspense Is Killing Me EP",
-        "url": "https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR"
-      },
-      "artists": [
-        {
-          "name": "Boy 8-Bit",
-          "url": "https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam"
-        }
-      ],
-      "duration_ms": 293882,
-      "name": "Suspense Is Killing Me",
-      "url": "https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju"
     },
     {
       "added_at": "2024-08-08 18:53:25",

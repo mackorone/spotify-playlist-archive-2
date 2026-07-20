@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAAAP4tuHXoiNvFCJc3HPpaDX",
+  "snapshot_id": "alrCAAAAAAB0qeWWMLx4XAEMrP1xfHHv",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "pretty ugly",
-        "url": "https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb"
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 183386,
-      "name": "pretty ugly",
-      "url": "https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c"
+      "duration_ms": 100467,
+      "name": "GIMME",
+      "url": "https://open.spotify.com/track/1kF9MH9sg8Ls0kXzA8pwrZ"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
       "duration_ms": 181040,
       "name": "bury you",
       "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 100467,
-      "name": "GIMME",
-      "url": "https://open.spotify.com/track/1kF9MH9sg8Ls0kXzA8pwrZ"
     },
     {
       "added_at": null,
@@ -167,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "losing it",
-      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -195,6 +163,22 @@
       "duration_ms": 214880,
       "name": "We Are Gonna Live",
       "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "losing it",
+      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
     },
     {
       "added_at": null,
@@ -231,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "rinse repeat",
-      "url": "https://open.spotify.com/track/6MjPqcnMFAumdddQ802SmO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -259,6 +227,22 @@
       "duration_ms": 199528,
       "name": "Hold on to Your Heart",
       "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 183386,
+      "name": "pretty ugly",
+      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
     },
     {
       "added_at": null,
@@ -295,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i think i want to go home now.",
-        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 227490,
-      "name": "breathe in what was",
-      "url": "https://open.spotify.com/track/6lMHJ1NVPwHoEW71SNBf9O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -327,38 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i think i want to go home now.",
         "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
       },
@@ -368,25 +304,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 248306,
-      "name": "dream you in",
-      "url": "https://open.spotify.com/track/14kzyWKBUGHYw9wQVBvlcS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold on to Your Heart",
-        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "First Kiss Feeling",
-      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
+      "duration_ms": 215933,
+      "name": "rinse repeat",
+      "url": "https://open.spotify.com/track/6MjPqcnMFAumdddQ802SmO"
     },
     {
       "added_at": null,
@@ -416,15 +336,15 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 292628,
-      "name": "Aberdeen 1987",
-      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+        "name": "Hold on to Your Heart",
+        "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
       "artists": [
         {
@@ -432,9 +352,57 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 192982,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/023xxv7rjUWJexmw1RCQb4"
+      "duration_ms": 219280,
+      "name": "First Kiss Feeling",
+      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i think i want to go home now.",
+        "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 227490,
+      "name": "breathe in what was",
+      "url": "https://open.spotify.com/track/6lMHJ1NVPwHoEW71SNBf9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Pop Song",
+      "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -451,6 +419,22 @@
       "duration_ms": 212026,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 192982,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/023xxv7rjUWJexmw1RCQb4"
     },
     {
       "added_at": null,
@@ -480,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 292628,
+      "name": "Aberdeen 1987",
+      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
     },
     {
       "added_at": null,
@@ -683,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Mean Everything",
         "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
       },
@@ -724,9 +692,41 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
       "duration_ms": 202440,
       "name": "I Scare Easy",
       "url": "https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 167813,
+      "name": "Let's Run",
+      "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
     }
   ],
   "unique_name": "This Is The XCERTS",

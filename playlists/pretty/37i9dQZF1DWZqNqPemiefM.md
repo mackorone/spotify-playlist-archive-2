@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Haruomi Hosono
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,078 likes - 183 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,109 likes - 183 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

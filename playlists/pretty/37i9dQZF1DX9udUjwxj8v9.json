@@ -223,22 +223,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Saulo Ao Vivo",
-        "url": "https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk"
-      },
-      "artists": [
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Raiz de Todo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Tete a Tete Margareth",
         "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 334133,
       "name": "Fara\u00f3",
       "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Saulo Ao Vivo",
+        "url": "https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk"
+      },
+      "artists": [
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Raiz de Todo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Portela Na Avenida",
-      "url": "https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 206560,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Portela Na Avenida",
+      "url": "https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2"
     },
     {
       "added_at": "2025-07-11 03:00:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > chill vibes for lazy mornings, sun\-soaked afternoons, and late\-night breezes 🏖️☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,625 likes - 103 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,686 likes - 103 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

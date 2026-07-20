@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,171 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,187 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 74 | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 |
 | 75 | [Paradise](https://open.spotify.com/track/441ccqwRNDOt7MIKN2kAYh) | [Val Fleury](https://open.spotify.com/artist/2Ql2PvnHtaP4FL8nI13mSv), [Res](https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7) | [Paradise](https://open.spotify.com/album/1L4CwZqL8i4ZmkY7aCyeXS) | 3:54 |
 
-Snapshot ID: `AAAAAG7998SnTPWa3FOwfuI7ILJ081vM`
+Snapshot ID: `AAAAAOXmOKXniTrsmR2ZjZ8PZg1JTSwM`

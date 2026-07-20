@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 51054,
+  "num_followers": 51078,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHd0BBN9R613lhqgEI2K229CyeIE",
+  "snapshot_id": "AAAAANArfZbZ3DkiNSxDEdPw5lmmDTbb",
   "tracks": [
     {
       "added_at": "2026-07-10 12:30:26",
@@ -611,18 +611,26 @@
     {
       "added_at": "2026-07-10 12:30:26",
       "album": {
-        "name": "Nikka Jeha",
-        "url": "https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO"
+        "name": "Suhe Ve Cheere Waliya Chill Flip",
+        "url": "https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY"
       },
       "artists": [
         {
-          "name": "Dolly Guleria",
-          "url": "https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ"
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        },
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        },
+        {
+          "name": "Prakash Kaur",
+          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
         }
       ],
-      "duration_ms": 314053,
-      "name": "Ambarsare De Papad",
-      "url": "https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax"
+      "duration_ms": 147500,
+      "name": "Suhe Ve Cheere Waliya Chill Flip",
+      "url": "https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU"
     },
     {
       "added_at": "2026-07-10 12:30:26",
@@ -647,26 +655,18 @@
     {
       "added_at": "2026-07-10 12:30:26",
       "album": {
-        "name": "Suhe Ve Cheere Waliya Chill Flip",
-        "url": "https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY"
+        "name": "Nikka Jeha",
+        "url": "https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO"
       },
       "artists": [
         {
-          "name": "Mann Taneja",
-          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
-        },
-        {
-          "name": "Surinder Kaur",
-          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
-        },
-        {
-          "name": "Prakash Kaur",
-          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
+          "name": "Dolly Guleria",
+          "url": "https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ"
         }
       ],
-      "duration_ms": 147500,
-      "name": "Suhe Ve Cheere Waliya Chill Flip",
-      "url": "https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU"
+      "duration_ms": 314053,
+      "name": "Ambarsare De Papad",
+      "url": "https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax"
     },
     {
       "added_at": "2026-07-10 12:30:26",

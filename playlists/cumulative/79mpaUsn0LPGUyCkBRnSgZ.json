@@ -16159,6 +16159,24 @@
     },
     {
       "album": {
+        "name": "en Hollande",
+        "url": "https://open.spotify.com/album/2TavFn7bYedGdHDLhFFdJR"
+      },
+      "artists": [
+        {
+          "name": "Sourakata Koit\u00e9",
+          "url": "https://open.spotify.com/artist/1aEXvBo9XF1pXQJwKbg0aX"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326703,
+      "name": "Seremende",
+      "url": "https://open.spotify.com/track/0EQ2CmWPsKqUcPHSvGLvVt"
+    },
+    {
+      "album": {
         "name": "URGH",
         "url": "https://open.spotify.com/album/2W2pytiTdjR0VArgmbQD3M"
       },
@@ -18008,6 +18026,28 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "album": {
+        "name": "Tche Belew",
+        "url": "https://open.spotify.com/album/67ZrxrYM4ZErIrGYpA13Q0"
+      },
+      "artists": [
+        {
+          "name": "Hailu Mergia",
+          "url": "https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm"
+        },
+        {
+          "name": "The Walias",
+          "url": "https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300991,
+      "name": "Tche Belew",
+      "url": "https://open.spotify.com/track/2BxCRD3CZ65suyXj6KeGuU"
     },
     {
       "album": {
@@ -21878,7 +21918,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 136506,
       "name": "You Or Your Memory - 2025 Remaster",
       "url": "https://open.spotify.com/track/1jjnxtyzO921D6LcTf17dn"

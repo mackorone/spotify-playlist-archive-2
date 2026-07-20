@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Frsh kiest zijn 20 tunes\. zomer ID: 🕶️ main character summer\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,996 likes - 204 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,994 likes - 204 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

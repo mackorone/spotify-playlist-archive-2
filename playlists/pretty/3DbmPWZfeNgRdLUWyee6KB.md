@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,316 likes - 96 songs - 5 hr 31 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,316 likes - 97 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 94 | [Bye Bye](https://open.spotify.com/track/6YyaeaYdMHPUU8ccujMuln) | [VOOVANT](https://open.spotify.com/artist/1NssdMrNeczZv8ZhjXlCFW) | [Bye Bye](https://open.spotify.com/album/5rD8SBGMNQldKfmlpYFqdt) | 3:13 |
 | 95 | [Badly Scripted Film](https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Badly Scripted Film](https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7) | 3:23 |
 | 96 | [Primer acto](https://open.spotify.com/track/47fzrHw42KM9RzQ58nXsoC) | [wezconzeta](https://open.spotify.com/artist/1eIFyGwFvtvyKGCX5ACYK5), [Eddy Ballester](https://open.spotify.com/artist/31uTlsIzQtJfv6j1EaE6on) | [Primer acto](https://open.spotify.com/album/30tZq0dAqLvIRZiSSQfBLR) | 2:27 |
+| 97 | [In Slow Motion \- Acoustic](https://open.spotify.com/track/4ioRmTEXJEOrbfRSA6Cox2) | [Snawfus Screamers](https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu) | [In Slow Motion \(Acoustic\)](https://open.spotify.com/album/0C2WHZjFbNEYdeKsHuJnIM) | 3:30 |
 
-Snapshot ID: `AAAWdaRTsaVYhiHLIMKmzuYfAFdRUs2g`
+Snapshot ID: `AAAWdjwvMBMb3Ss684t0AIIWMpnylfQJ`

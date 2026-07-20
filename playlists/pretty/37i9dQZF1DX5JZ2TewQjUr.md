@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Novel Fergus & 床哥
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,502 likes - 119 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,508 likes - 119 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

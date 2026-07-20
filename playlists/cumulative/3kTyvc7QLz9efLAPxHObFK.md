@@ -4,7 +4,7 @@
 
 > 
 
-3,157 songs - 6 day 18 hr 32 min
+3,159 songs - 6 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2105,6 +2105,7 @@
 | [Paradise](https://open.spotify.com/track/3vyw1KgD1UNpWbupv7vkE4) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Paradise](https://open.spotify.com/album/3yIhfMPqfXeCpE30K34fer) | 3:33 | 2022-11-29 |  |
 | [Paralyzed](https://open.spotify.com/track/6HBVDYgKZZhwGJju9wR72o) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Paralyzed](https://open.spotify.com/album/4bC0XkoPsDtiEG9y3Fgf61) | 3:37 | 2025-03-22 |  |
 | [Paralyzed](https://open.spotify.com/track/5AoVmr5L9Fn6HEfi1hg221) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm) | [Paralyzed EP](https://open.spotify.com/album/2QddjErYpyseMIbwg7qu3x) | 2:45 | 2025-09-26 |  |
+| [PARANOIA](https://open.spotify.com/track/1BC3FNWuB6ikhM3q88LmG2) | [ONYX](https://open.spotify.com/artist/7LDgld7Fj9yqmGskMG8Pro), [Dejection](https://open.spotify.com/artist/6zZaIorzBeHeXNSEb7JB1u) | [PARANOIA](https://open.spotify.com/album/70mg99AORW4dgkEPoj3XNQ) | 2:45 | 2026-07-19 |  |
 | [Part Of Me](https://open.spotify.com/track/5bLhjyVULXOLXL0najbsi5) | [Revizion](https://open.spotify.com/artist/0lTYNo03gjOgtN5X59uuL9), [DEATH CODE](https://open.spotify.com/artist/4TxNiQlZXcBj79ySTx9f2o) | [Part Of Me](https://open.spotify.com/album/3PFVvLRGrZeIYHiS9NoSIH) | 2:16 | 2025-02-01 |  |
 | [Part Of Me](https://open.spotify.com/track/5xGztpKzv6GueZM5cNHVin) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [Part Of Me](https://open.spotify.com/album/7sluTzesUGenBdxesrZHaJ) | 3:19 | 2024-04-26 |  |
 | [PART OF ME \- UPTEMPO](https://open.spotify.com/track/3UsOWyJ7kgpmYhyabYcPCQ) | [CLOWNS ON KETAMINE](https://open.spotify.com/artist/4FrXH5wo0JHeoOqHXy3NPY), [UPTEMPROS](https://open.spotify.com/artist/3siOvvyXkDPlt02AC750yM) | [PART OF ME \(UPTEMPO\)](https://open.spotify.com/album/6PHwSxVmTtXp7YSF2BkBQO) | 2:02 | 2024-04-01 |  |
@@ -2777,6 +2778,7 @@
 | [This Feeling](https://open.spotify.com/track/37F4i9CXwnd3uQc3v33oJI) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [This Feeling](https://open.spotify.com/album/3MOTDoBloF9MWbqZFIAekA) | 3:05 | 2025-04-26 |  |
 | [This Feeling](https://open.spotify.com/track/7ubvIKBNO2ILQ4aK8wRNXE) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [This Feeling](https://open.spotify.com/album/3C6xQ2rrGIwyXFcydyxlDV) | 2:58 | 2025-06-15 |  |
 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 | 2023-12-26 |  |
+| [This Feeling](https://open.spotify.com/track/7FEek31MAYDD301G55GAeB) | [Krause](https://open.spotify.com/artist/6P4IBgSaCo8hhyP7IeTsSa), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [This Feeling](https://open.spotify.com/album/3epM8xiJcnbU0TDC0gq12z) | 2:24 | 2026-07-19 |  |
 | [This Feeling](https://open.spotify.com/track/1M9yOCorO9qzQvYTLrH3JE) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [This Feeling](https://open.spotify.com/album/2VVMSs0pDqbbzo36TjW9Fz) | 2:37 | 2025-04-26 |  |
 | [This Is A FKN Banger](https://open.spotify.com/track/3a3w8duhEE9Ba4H6UYUgfP) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [This Is A FKN Banger](https://open.spotify.com/album/0vxwBQ5ErOk0z30smQTDvI) | 3:19 | 2022-02-17 |  |
 | [This Is Fckn DOPE!](https://open.spotify.com/track/2Q0JfS8vKjDOw6B1yRD0uI) | [Double Trouble](https://open.spotify.com/artist/5GPepE4EJ70TsAFBlkaF7A) | [This Is Fckn DOPE!](https://open.spotify.com/album/023hK4rk5SsTOHQZh5Qmp7) | 2:05 | 2026-02-13 |  |

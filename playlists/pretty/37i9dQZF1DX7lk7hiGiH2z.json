@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61183,
+  "num_followers": 61201,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
+        "name": "Sommer-Hits zum Tanzen",
+        "url": "https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk"
+      },
+      "artists": [
+        {
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 174403,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
         "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
         "url": "https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg"
       },
@@ -639,30 +659,6 @@
       "duration_ms": 119341,
       "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
-        "name": "Ferien / Vacanza",
-        "url": "https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99"
-      },
-      "artists": [
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Vanessa Civiello",
-          "url": "https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu"
-        },
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "Ferien / Vacanza",
-      "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -691,6 +687,30 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
+        "name": "Ferien / Vacanza",
+        "url": "https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99"
+      },
+      "artists": [
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Vanessa Civiello",
+          "url": "https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu"
+        },
+        {
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "Ferien / Vacanza",
+      "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
         "name": "Schmetterlingskacke",
         "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 182213,
       "name": "Glitzer",
       "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
-        "name": "Sommer-Hits zum Tanzen",
-        "url": "https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk"
-      },
-      "artists": [
-        {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 174403,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Wenn ich den See seh'",
-        "url": "https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR"
-      },
-      "artists": [
-        {
-          "name": "3Berlin",
-          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
-        }
-      ],
-      "duration_ms": 143053,
-      "name": "Wenn ich den See seh'",
-      "url": "https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
         "name": "Unter meinem Bett. Best Of",
         "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191400,
       "name": "M\u00fccken nerven Leute",
       "url": "https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
+        "name": "Wenn ich den See seh'",
+        "url": "https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR"
+      },
+      "artists": [
+        {
+          "name": "3Berlin",
+          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
+        }
+      ],
+      "duration_ms": 143053,
+      "name": "Wenn ich den See seh'",
+      "url": "https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

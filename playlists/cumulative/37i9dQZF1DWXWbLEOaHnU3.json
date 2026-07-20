@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 149690,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix"
@@ -5964,6 +5964,36 @@
       "duration_ms": 287323,
       "name": "The Flute",
       "url": "https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf"
+    },
+    {
+      "album": {
+        "name": "The God Molecule",
+        "url": "https://open.spotify.com/album/7qTszsvHWUe5M5FCuldRQW"
+      },
+      "artists": [
+        {
+          "name": "Tristan",
+          "url": "https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc"
+        },
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Burn In Noise",
+          "url": "https://open.spotify.com/artist/3O4xHzuHaiM4UVNlSd44xK"
+        },
+        {
+          "name": "Altruism",
+          "url": "https://open.spotify.com/artist/6L29hqhEPpMUQXjPKrs0bC"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414246,
+      "name": "The God Molecule",
+      "url": "https://open.spotify.com/track/6dVtpUoj8vXgqkRJ2jTuHL"
     },
     {
       "album": {

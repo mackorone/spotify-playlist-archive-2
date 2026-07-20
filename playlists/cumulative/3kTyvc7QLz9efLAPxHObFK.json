@@ -43383,6 +43383,28 @@
     },
     {
       "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/70mg99AORW4dgkEPoj3XNQ"
+      },
+      "artists": [
+        {
+          "name": "ONYX",
+          "url": "https://open.spotify.com/artist/7LDgld7Fj9yqmGskMG8Pro"
+        },
+        {
+          "name": "Dejection",
+          "url": "https://open.spotify.com/artist/6zZaIorzBeHeXNSEb7JB1u"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/1BC3FNWuB6ikhM3q88LmG2"
+    },
+    {
+      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/3PFVvLRGrZeIYHiS9NoSIH"
       },
@@ -57484,6 +57506,28 @@
       "duration_ms": 188000,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/2H0eRy9vmts59596rouqUy"
+    },
+    {
+      "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/3epM8xiJcnbU0TDC0gq12z"
+      },
+      "artists": [
+        {
+          "name": "Krause",
+          "url": "https://open.spotify.com/artist/6P4IBgSaCo8hhyP7IeTsSa"
+        },
+        {
+          "name": "Schlot",
+          "url": "https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/7FEek31MAYDD301G55GAeB"
     },
     {
       "album": {

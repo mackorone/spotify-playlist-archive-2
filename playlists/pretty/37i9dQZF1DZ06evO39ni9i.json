@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 30563,
+  "num_followers": 30565,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAAAhCIqPWLZCrmeSTVF6Q5Gy",
+  "snapshot_id": "alrCAAAAAADMXFNnvvRwnqo2q3v5sNB9",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Poet",
-      "url": "https://open.spotify.com/track/6rQ7RXlfojwjHnUbAseB7D"
+      "duration_ms": 176400,
+      "name": "(You Caught Me) Smilin' - Single Version",
+      "url": "https://open.spotify.com/track/2Q2RWHHUWlrOcot38Q3OPI"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 176400,
-      "name": "(You Caught Me) Smilin' - Single Version",
-      "url": "https://open.spotify.com/track/2Q2RWHHUWlrOcot38Q3OPI"
+      "duration_ms": 182866,
+      "name": "Poet",
+      "url": "https://open.spotify.com/track/6rQ7RXlfojwjHnUbAseB7D"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Family: Live At Winchester Cathedral 1967",
-        "url": "https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7"
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 267546,
-      "name": "Skate Now - Live At Winchester Cathedral 1967",
-      "url": "https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM"
+      "duration_ms": 198520,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+        "name": "There's A Riot Goin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 198520,
-      "name": "Say You Will",
-      "url": "https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB"
+      "duration_ms": 252333,
+      "name": "That's Pretty Clean - Instrumental",
+      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's A Riot Goin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
+        "name": "The First Family: Live At Winchester Cathedral 1967",
+        "url": "https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 252333,
-      "name": "That's Pretty Clean - Instrumental",
-      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
+      "duration_ms": 267546,
+      "name": "Skate Now - Live At Winchester Cathedral 1967",
+      "url": "https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Family: Live At Winchester Cathedral 1967",
-        "url": "https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7"
+        "name": "Sly & The Family Stone: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 298080,
-      "name": "Show Me - Live At Winchester Cathedral 1967",
-      "url": "https://open.spotify.com/track/4A2rQDVPQGswdDxN9U2PjK"
+      "duration_ms": 470666,
+      "name": "Medley: Higher/Music Lover - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU"
     }
   ],
   "unique_name": "This Is Sly & The Family Stone",

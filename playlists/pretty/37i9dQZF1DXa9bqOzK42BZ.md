@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks.Cover: Moses Luka
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks.Cover: Timeless Noel
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,212 likes - 102 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,254 likes - 102 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 101 | [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 |
 | 102 | [Kila Kitu Kitakuwa Sawa](https://open.spotify.com/track/1ZQv07GhXuM16IQuJZaGXC) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Kila Kitu Kitakuwa Sawa](https://open.spotify.com/album/7JBip5TLo2wmmslUmyXmw8) | 5:28 |
 
-Snapshot ID: `AAAAANxc2+gJUSy/JruW2Ap1gcp3VmHT`
+Snapshot ID: `AAAAAH5U5+P3JOdgRnQUHSpYDi+XhIrd`

@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 511,
+  "num_followers": 512,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAABwCfECXvHvH12dC96UpA/q",
+  "snapshot_id": "alrCAAAAAABKXIjNzA4gGwpS6d5BNrF6",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Never Broke My Heart",
-        "url": "https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "If You Never Broke My Heart",
-      "url": "https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Car",
         "url": "https://open.spotify.com/album/759nkzilX3qEZTil0BPm4H"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 219960,
       "name": "Same Car",
       "url": "https://open.spotify.com/track/0EMsXbJHyW0217asHoeMhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Never Broke My Heart",
+        "url": "https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "If You Never Broke My Heart",
+      "url": "https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD"
     },
     {
       "added_at": null,
@@ -360,21 +360,21 @@
       },
       "artists": [
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         },
         {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         },
         {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 212121,
-      "name": "One and Only You (Reprise)",
-      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
+      "duration_ms": 222022,
+      "name": "To Have You Stay",
+      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
     },
     {
       "added_at": null,
@@ -432,21 +432,21 @@
       },
       "artists": [
         {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         },
         {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         },
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         }
       ],
-      "duration_ms": 222022,
-      "name": "To Have You Stay",
-      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
+      "duration_ms": 212121,
+      "name": "One and Only You (Reprise)",
+      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
     },
     {
       "added_at": null,

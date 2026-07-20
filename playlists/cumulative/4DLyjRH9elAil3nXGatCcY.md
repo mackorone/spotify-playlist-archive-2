@@ -4,7 +4,7 @@
 
 > 
 
-573 songs - 1 day 13 hr 25 min
+574 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Missing Voices](https://open.spotify.com/track/3N9XjYjs2PH07aY9Nwhz1A) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Encore](https://open.spotify.com/album/0W1a9jzDHNNJvnIXhdhEYc) | 4:00 | 2026-07-09 |  |
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2025-10-15 |  |
 | [Molly](https://open.spotify.com/track/6EuGXhdN6gSv9wN89XXYbE) | [Le Matos](https://open.spotify.com/artist/5nrAu9uBcj8NcdZHo09qG9) | [Join Us](https://open.spotify.com/album/7MDFWbbFE27CuKen5DHAL3) | 5:48 | 2025-10-15 |  |
+| [Money](https://open.spotify.com/track/2iHzRnacYLM0bTo1LKE2zy) | [Nacho Picasso](https://open.spotify.com/artist/5oib7h2INOpWPRLaSQxdY0) | [Stoned and Dethroned](https://open.spotify.com/album/5Xu1V0bHgoOguvwbbILH8p) | 3:31 | 2026-07-19 |  |
 | [Monkey Drum](https://open.spotify.com/track/72BIzFc0fzsEY19wPWCCXW) | [Underbelly](https://open.spotify.com/artist/0sRH4nJGFNV1pu9cutNw5O), [PixelWax](https://open.spotify.com/artist/2qIJTRKKGhMMyq1zwNH3q5) | [Monkey Drum](https://open.spotify.com/album/3qdFlyT1BcQOea46kccVE0) | 3:28 | 2022-05-09 |  |
 | [Moody! \(feat\. Saba\)](https://open.spotify.com/track/3GH8eacML602pwvPdKiLAc) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 1:45 | 2022-05-09 |  |
 | [MORE](https://open.spotify.com/track/65pHtEdxGt4e3Fv1ncPi6V) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [Seraphine](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [MORE](https://open.spotify.com/album/5v3ALaT37zXgVHr3MZTVVx) | 3:37 | 2025-10-15 |  |

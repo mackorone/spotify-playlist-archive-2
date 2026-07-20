@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: for KING & COUNTRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,840 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,874 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [Through The Fire](https://open.spotify.com/track/6S8CrWrDVYPCvh9fqjAQ8r) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Ashleigh Crabb Brown](https://open.spotify.com/artist/1JObURmpxnNjSaLuyKDy4H) | [Through The Fire](https://open.spotify.com/album/4Jsl5J5qaRkQ7R7r2uIwef) | 3:29 |
 | 80 | [VULTURES](https://open.spotify.com/track/224F8pm7xEtO1WyBBKOavP) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [MẸSAN \- SONGS THAT ARE TOO REAL FOR AI](https://open.spotify.com/album/13iA1nX7yE7wZhhO2TcOzA) | 4:17 |
 
-Snapshot ID: `AAAAAOgzu65tQuLfOT5z4xLQ/Zu81o/B`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

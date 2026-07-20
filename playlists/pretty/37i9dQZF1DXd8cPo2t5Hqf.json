@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 417578,
+  "num_followers": 417601,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Just Be Friends",
-        "url": "https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv"
-      },
-      "artists": [
-        {
-          "name": "Dixie Flatline",
-          "url": "https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80"
-        }
-      ],
-      "duration_ms": 301469,
-      "name": "Just Be Friends",
-      "url": "https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "GHOST",
         "url": "https://open.spotify.com/album/1MqEDMHRTcStBWG9nJWcrf"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 210000,
       "name": "\u30b4\u30fc\u30b9\u30c8\u30eb\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0IEl6PAxLIueFQp08vq07B"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Just Be Friends",
+        "url": "https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv"
+      },
+      "artists": [
+        {
+          "name": "Dixie Flatline",
+          "url": "https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80"
+        }
+      ],
+      "duration_ms": 301469,
+      "name": "Just Be Friends",
+      "url": "https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -567,22 +567,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Hand in Hand",
-        "url": "https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d"
+        "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
       },
       "artists": [
         {
-          "name": "livetune",
-          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
         }
       ],
-      "duration_ms": 312187,
-      "name": "Hand in Hand",
-      "url": "https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO"
+      "duration_ms": 220108,
+      "name": "\u8133\u5185\u9769\u547d\u30ac\u30fc\u30eb2016 ver.",
+      "url": "https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -619,22 +615,6 @@
       "duration_ms": 194000,
       "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
-        "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
-      },
-      "artists": [
-        {
-          "name": "Maretu",
-          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
-        }
-      ],
-      "duration_ms": 220108,
-      "name": "\u8133\u5185\u9769\u547d\u30ac\u30fc\u30eb2016 ver.",
-      "url": "https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -683,6 +663,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u30c8\u30e9\u30dc\u30c6\u30a3\u30c3\u30af\u30fb\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB"
+      },
+      "artists": [
+        {
+          "name": "Toraboruta",
+          "url": "https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4"
+        }
+      ],
+      "duration_ms": 282865,
+      "name": "\u30b3\u30b3\u30ed",
+      "url": "https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/2DWNJqjSMxk1CJbXPOppkw"
       },
@@ -699,6 +695,26 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "Hand in Hand",
+        "url": "https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d"
+      },
+      "artists": [
+        {
+          "name": "livetune",
+          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 312187,
+      "name": "Hand in Hand",
+      "url": "https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
         "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 154480,
       "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
       "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u30c8\u30e9\u30dc\u30c6\u30a3\u30c3\u30af\u30fb\u30c1\u30e5\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB"
-      },
-      "artists": [
-        {
-          "name": "Toraboruta",
-          "url": "https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4"
-        }
-      ],
-      "duration_ms": 282865,
-      "name": "\u30b3\u30b3\u30ed",
-      "url": "https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
-      },
-      "artists": [
-        {
-          "name": "ryo (supercell)",
-          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
-        }
-      ],
-      "duration_ms": 414040,
-      "name": "ODDS&ENDS -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/6WDtVilnzePTUujzcVKq59"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210000,
       "name": "\u30c6\u30aa",
       "url": "https://open.spotify.com/track/6LpbtlqwvwxnRKC3xyu1CR"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        }
+      ],
+      "duration_ms": 414040,
+      "name": "ODDS&ENDS -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc"
-      },
-      "artists": [
-        {
-          "name": "tanaka B",
-          "url": "https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO"
-        }
-      ],
-      "duration_ms": 277700,
-      "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "crystaL",
         "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 230053,
       "name": "erase or zero",
       "url": "https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc"
+      },
+      "artists": [
+        {
+          "name": "tanaka B",
+          "url": "https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO"
+        }
+      ],
+      "duration_ms": 277700,
+      "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Neko seT",
-        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
-      },
-      "artists": [
-        {
-          "name": "daniwellP",
-          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "39 (feat. \u521d\u97f3\u30df\u30af)",
         "url": "https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 219979,
       "name": "39 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5ZVKlvVj2I3uvNPXsQTxAW"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Neko seT",
+        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
+      },
+      "artists": [
+        {
+          "name": "daniwellP",
+          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
+        }
+      ],
+      "duration_ms": 234404,
+      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u5fd8\u5374\u5fc3\u4e2d",
+        "url": "https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG"
+      },
+      "artists": [
+        {
+          "name": "0-9",
+          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
+        }
+      ],
+      "duration_ms": 253954,
+      "name": "\u5fd8\u5374\u5fc3\u4e2d",
+      "url": "https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "\u30a2\u30ab\u30c4\u30ad\u30a2\u30e9\u30a4\u30f4\u30a1\u30eb",
         "url": "https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 225936,
       "name": "shake it! -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u5fd8\u5374\u5fc3\u4e2d",
-        "url": "https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG"
-      },
-      "artists": [
-        {
-          "name": "0-9",
-          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
-        }
-      ],
-      "duration_ms": 253954,
-      "name": "\u5fd8\u5374\u5fc3\u4e2d",
-      "url": "https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg"
     },
     {
       "added_at": "2021-05-26 02:37:36",

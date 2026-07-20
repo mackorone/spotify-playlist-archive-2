@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43645,
+  "num_followers": 43650,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,30 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Soul Speech",
+          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "duration_ms": 181921,
+      "name": "It Feels Much Better",
+      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "mangetout (The Dare remix)",
         "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 162673,
       "name": "Round The Block",
       "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Soul Speech",
-          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
-        },
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
-        }
-      ],
-      "duration_ms": 181921,
-      "name": "It Feels Much Better",
-      "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "duration_ms": 215375,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "afters",
         "url": "https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 167979,
       "name": "afters",
       "url": "https://open.spotify.com/track/1V9QgIqKy6Z24EKGgTpfws"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Switch Up",
-        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
-      },
-      "artists": [
-        {
-          "name": "Mike D",
-          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
-        }
-      ],
-      "duration_ms": 215375,
-      "name": "Switch Up",
-      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "TRUTH",
+        "url": "https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 123979,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Like It",
         "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 266923,
       "name": "Like It",
       "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "TRUTH",
-        "url": "https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 123979,
-      "name": "TRUTH",
-      "url": "https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb"
     }
   ],
   "unique_name": "Indie Electronic ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,518 songs - 21 day 16 hr 21 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,529 songs - 21 day 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8526,5 +8526,16 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8516 | [bossa uh](https://open.spotify.com/track/4JVget5dabGLIGgVkEKvDi) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [ivy league](https://open.spotify.com/album/2xpMqe8hvW0e4iL0dovGYO) | 3:30 |
 | 8517 | [letting go](https://open.spotify.com/track/55YSCSjuIKRDObXdXj83ku) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 3:18 |
 | 8518 | [food court](https://open.spotify.com/track/0IgVx5YfbBTte8btlLlSOI) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:15 |
+| 8519 | [bourbon nights](https://open.spotify.com/track/0uL4tVLBoUpA7Xqgd5nMUy) | [take your time](https://open.spotify.com/artist/21PAJwO0H94xCT4wStKtaE) | [jazzy but not too jazzy](https://open.spotify.com/album/35I1NyorvFXQm14NSTQGY4) | 3:05 |
+| 8520 | [little thing](https://open.spotify.com/track/3uQ5Jt14MJxBlIy0zfCR4b) | [take your time](https://open.spotify.com/artist/21PAJwO0H94xCT4wStKtaE) | [jazzy but not too jazzy](https://open.spotify.com/album/35I1NyorvFXQm14NSTQGY4) | 2:56 |
+| 8521 | [Two by Two](https://open.spotify.com/track/4TkHrIRnkWrJr3KYCVc0IT) | [Golden Age Radio](https://open.spotify.com/artist/1K0yw7CzfSuwu5m7uCe6SM) | [New Shoes](https://open.spotify.com/album/4XCWmYC6stqAcMGQXz5PQh) | 2:36 |
+| 8522 | [Aitai](https://open.spotify.com/track/0Lr6ZSpetcpWx8MoIoYAtk) | [iwamizu](https://open.spotify.com/artist/18eCkyTgJAxzinpbmJnY7p) | [Again](https://open.spotify.com/album/6VQyxLddvX53SiMKqan7eI) | 2:38 |
+| 8523 | [have you heard](https://open.spotify.com/track/7MN5LRV9WHIeH0Z026uTpE) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [ivy league](https://open.spotify.com/album/2xpMqe8hvW0e4iL0dovGYO) | 2:42 |
+| 8524 | [seeing your name makes me happy](https://open.spotify.com/track/2v7yI88iezgRO9ka5gtUF1) | [Burbank](https://open.spotify.com/artist/4iHB5bp1wwN5qTbVPaBykO) | [bedroom](https://open.spotify.com/album/6d0FJdfbBcFSAPkpHTVgFt) | 1:47 |
+| 8525 | [Before spring ends（在春天消失之前）](https://open.spotify.com/track/0OgOvU69S4QuJYTMlIurn0) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP), [李天责](https://open.spotify.com/artist/1i1GIYkaUE0jhxvSue4D6b) | [Before Spring Ends](https://open.spotify.com/album/1vg9EvdxxsKHFXkvPWN486) | 2:58 |
+| 8526 | [Double Take](https://open.spotify.com/track/5V54RGJygmDXouFBcDT5QG) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [Double Take](https://open.spotify.com/album/5EbRAA3ghuJulyvLD7EzW0) | 2:48 |
+| 8527 | [愛密集 \- Instrumental](https://open.spotify.com/track/6Lph4zADq2K62XAjVaMWxR) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [愛密集](https://open.spotify.com/album/72rhuz4kgra7VMRVvoGwqp) | 3:24 |
+| 8528 | [Cushion](https://open.spotify.com/track/2psnHevGQE9InS80JRl3Xy) | [bert cussion](https://open.spotify.com/artist/4jgHx3dVfzsmVZDt1JQ1wf), [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Cushion](https://open.spotify.com/album/0YkgeWPXcn5AjhPwECA0MF) | 2:43 |
+| 8529 | [Bossa Mood](https://open.spotify.com/track/35CZrq6hscurQbVMmCdKEa) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bossa Mood](https://open.spotify.com/album/6sRmWIDABxO7lf4W29VHN8) | 2:26 |
 
-Snapshot ID: `AAAMW0dOxfKVx3O409oPef7zw92ZLN6V`
+Snapshot ID: `AAAMZvmATvPRnLikKQQIiVwicVDVa9na`

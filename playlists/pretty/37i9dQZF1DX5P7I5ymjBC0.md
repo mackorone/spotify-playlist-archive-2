@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,447 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,458 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 41 | [Mere Suron Mein](https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Ajoy Chakrabarty](https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 6:27 |
 | 42 | [Dream](https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp) | [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Vari](https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI) | 3:44 |
 | 43 | [Seekho Na](https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 5:55 |
-| 44 | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3) | [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ) | 3:48 |
-| 45 | [Tum Chatur Sughar](https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC) | [Tum Chatur Sughar](https://open.spotify.com/album/1NiNbmVjuaQhb706ijfhEC) | 4:24 |
+| 44 | [Tum Chatur Sughar](https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC) | [Tum Chatur Sughar](https://open.spotify.com/album/1NiNbmVjuaQhb706ijfhEC) | 4:24 |
+| 45 | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3) | [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ) | 3:48 |
 | 46 | [Rangi Saari Gulabi Chunariya](https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Bandish Fusion & More](https://open.spotify.com/album/2adewooNTGv4eFztnfoYAV) | 6:40 |
 | 47 | [Aye Na Baalam](https://open.spotify.com/track/33G967Z68M8rwvQGZe6WRk) | [The Bombay Chill](https://open.spotify.com/artist/05r5zMnYeosNIESUzhbHhd), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs), [Ajay Tiwari](https://open.spotify.com/artist/2lcUlawqk8jssyIOd7GTy5) | [Aye Na Baalam](https://open.spotify.com/album/6puODOC1EE1pJBbFAVq5q4) | 5:33 |
 | 48 | [Mystical Yearning](https://open.spotify.com/track/20rlTK4OGzb4mAYWfmjTCW) | [Dhruvv Bhattacharya](https://open.spotify.com/artist/2GLlCKPLjGGvpuSoo8wIvW) | [Mystical Yearning](https://open.spotify.com/album/46hcksddcEHBzH3SoQLWib) | 4:38 |

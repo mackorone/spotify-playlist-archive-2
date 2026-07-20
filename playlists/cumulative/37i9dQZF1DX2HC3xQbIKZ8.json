@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "Country Mon",
+        "url": "https://open.spotify.com/album/52UufU9ngjQuCvak9HJ8KA"
+      },
+      "artists": [
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        },
+        {
+          "name": "Classick J",
+          "url": "https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265488,
+      "name": "Country Mon",
+      "url": "https://open.spotify.com/track/3ldK4fR05sXHEgX6UEGO0V"
+    },
+    {
+      "album": {
         "name": "Cutie Fasho",
         "url": "https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk"
       },
@@ -782,7 +804,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 223293,
       "name": "Cutie Fasho",
       "url": "https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt"
@@ -912,7 +934,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 188000,
       "name": "Do You Care?",
       "url": "https://open.spotify.com/track/0xfasSrCCUKOXkX4F2Z7gG"
@@ -1426,6 +1448,24 @@
       "duration_ms": 206800,
       "name": "Golden Touch",
       "url": "https://open.spotify.com/track/3Bl1qnkuAmKGatG4EE14BI"
+    },
+    {
+      "album": {
+        "name": "Good on You",
+        "url": "https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221146,
+      "name": "Good on You",
+      "url": "https://open.spotify.com/track/5pFoSyHgHL03w7GahfZDFc"
     },
     {
       "album": {
@@ -2156,6 +2196,24 @@
     {
       "album": {
         "name": "Keep That Smile",
+        "url": "https://open.spotify.com/album/60wNqoSqh81ht02EhQdoXO"
+      },
+      "artists": [
+        {
+          "name": "Son & Water",
+          "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204991,
+      "name": "Keep That Smile",
+      "url": "https://open.spotify.com/track/0XP9YQ2NPHELEc71XD0XZm"
+    },
+    {
+      "album": {
+        "name": "Keep That Smile",
         "url": "https://open.spotify.com/album/3BpWbrwGrCvopzMcZbQt2V"
       },
       "artists": [
@@ -2584,7 +2642,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 209950,
       "name": "Long White Cloud",
       "url": "https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9"

@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: Madeon \\m/",
-  "num_followers": 356598,
+  "num_followers": 356594,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2026-07-17 17:24:11",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/13iD4vvsL8cM0RITfvimmH"
-      },
-      "artists": [
-        {
-          "name": "Brock B",
-          "url": "https://open.spotify.com/artist/5WZagxom0NMqEIFOWCZvYa"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 193349,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/4bMseXqCfosc2uxfsmC3ps"
-    },
-    {
-      "added_at": "2026-07-17 17:24:11",
-      "album": {
         "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
         "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "added_at": "2026-07-17 17:24:11",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/13iD4vvsL8cM0RITfvimmH"
+      },
+      "artists": [
+        {
+          "name": "Brock B",
+          "url": "https://open.spotify.com/artist/5WZagxom0NMqEIFOWCZvYa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 193349,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/4bMseXqCfosc2uxfsmC3ps"
     },
     {
       "added_at": "2026-07-17 17:24:11",
@@ -2495,22 +2495,22 @@
     {
       "added_at": "2026-07-17 17:24:11",
       "album": {
-        "name": "Dark Void EP",
-        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
       "artists": [
         {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Echos",
+          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
         }
       ],
-      "duration_ms": 189200,
-      "name": "Dark Void - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
+      "duration_ms": 246193,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
     }
   ],
   "unique_name": "Rocktronic",

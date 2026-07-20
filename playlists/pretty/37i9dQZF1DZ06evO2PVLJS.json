@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1129436,
+  "num_followers": 1129500,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAACpO78/MPwYKnoOKY0gg6Rd",
+  "snapshot_id": "alrCAAAAAACsyjK4OrEp6rloVPqsqhT6",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Las Llaves de Mi Alma",
+      "url": "https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 174400,
       "name": "Esa Pared (feat. Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Las Llaves de Mi Alma",
-      "url": "https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lobo Herido",
+        "url": "https://open.spotify.com/album/6iCIFwmkD2dPZhD3UwaZGG"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "Borracho Te Recuerdo",
+      "url": "https://open.spotify.com/track/2tICgKCcfgufj9vtfwJ63m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Un Mismo Corazon",
         "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 220320,
       "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lobo Herido",
-        "url": "https://open.spotify.com/album/6iCIFwmkD2dPZhD3UwaZGG"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Borracho Te Recuerdo",
-      "url": "https://open.spotify.com/track/2tICgKCcfgufj9vtfwJ63m"
     },
     {
       "added_at": null,

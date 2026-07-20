@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 20 | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/track/3HC344e1WcJIdIVKXsMsgV) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Smoke Up \(feat\. Emy Perez\)](https://open.spotify.com/album/4SW9pEnVgQBBEeAnUBW8kV) | 2:30 |
 | 21 | [Ain't Seen Before](https://open.spotify.com/track/0VPfF1wyqqmzn40G8ELhY8) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Club Files \#1](https://open.spotify.com/album/48ZrjlS2cfLDzNaXYU6u9f) | 4:19 |
 | 22 | [Firestarter](https://open.spotify.com/track/0QFq6Cgos9qVMGcPgC9fcs) | [Lennert Wolfs](https://open.spotify.com/artist/0T4Qr97ftW9NtSvoyqBvAt), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Firestarter](https://open.spotify.com/album/1qisOburOSHmodwNMGltzp) | 2:36 |
-| 23 | [Bum](https://open.spotify.com/track/4bS57BQrwhwhWROvMPG98U) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Repow](https://open.spotify.com/artist/2o5HEaDbSZee4AcoksPIO2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Bum](https://open.spotify.com/album/5IF6tYxUjg2HPgXkEt8R77) | 2:52 |
-| 24 | [Maria](https://open.spotify.com/track/0i15qwKKzsEBwlOllYxGxi) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Gypsy Woman](https://open.spotify.com/album/3Ik9erPwlTSjT53IULjRm9) | 2:53 |
+| 23 | [Maria](https://open.spotify.com/track/0i15qwKKzsEBwlOllYxGxi) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Gypsy Woman](https://open.spotify.com/album/3Ik9erPwlTSjT53IULjRm9) | 2:53 |
+| 24 | [Bum](https://open.spotify.com/track/4bS57BQrwhwhWROvMPG98U) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Repow](https://open.spotify.com/artist/2o5HEaDbSZee4AcoksPIO2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Bum](https://open.spotify.com/album/5IF6tYxUjg2HPgXkEt8R77) | 2:52 |
 | 25 | [Pienso En El Momento](https://open.spotify.com/track/1DUaFvwLIvXwqlET9Ke14s) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:40 |
 | 26 | [Dumb](https://open.spotify.com/track/1GDcRmGNKfntcKeyM2ZY3p) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 3:18 |
 | 27 | [LA City Limits \(feat\. Emy Perez\)](https://open.spotify.com/track/6aCBL4rBMo9XqmzXgy0jCR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [LA City Limits \(feat\. Emy Perez\)](https://open.spotify.com/album/3Y1UR0IxI6PhZa8moiv5TC) | 2:40 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 53 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
 | 54 | [Honest](https://open.spotify.com/track/0OLnJRIUDiAESj9QtoMnFX) | [Davis Mallory](https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV) | [Let Love Save Us](https://open.spotify.com/album/440wUXlhbctECPUTfyYAMm) | 2:49 |
 
-Snapshot ID: `AcXN8gAAAACHiSedFsMsvyPUFS3kXXgB`
+Snapshot ID: `AcXTkgAAAABD4p1d+X/IHnEUvQg0vKxa`

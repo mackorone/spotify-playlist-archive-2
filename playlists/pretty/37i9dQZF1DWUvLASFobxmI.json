@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Primer Grado en portada.",
-  "num_followers": 530946,
+  "num_followers": 530960,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "EN HOT",
-        "url": "https://open.spotify.com/album/28h4cylRu35ifCbpcTWYsV"
+        "name": "Todo a Su Tiempo",
+        "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 140945,
-      "name": "EN HOT",
-      "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
+      "duration_ms": 180756,
+      "name": "Todo a Su Tiempo",
+      "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -391,22 +395,18 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Todo a Su Tiempo",
-        "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
+        "name": "EN HOT",
+        "url": "https://open.spotify.com/album/28h4cylRu35ifCbpcTWYsV"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 180756,
-      "name": "Todo a Su Tiempo",
-      "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
+      "duration_ms": 140945,
+      "name": "EN HOT",
+      "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Las Filtradas",
+        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 147799,
+      "name": "El Rubio",
+      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "As\u00ed Es La Vida",
         "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 213066,
       "name": "Para Que Ya No Duela",
       "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Las Filtradas",
-        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 147799,
-      "name": "El Rubio",
-      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "La Pen\u00ednsula",
+        "url": "https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 163669,
+      "name": "La Pen\u00ednsula",
+      "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Ni Tu Perro Ni Tu Gato",
         "url": "https://open.spotify.com/album/3PbUM4389tkvMKmgTnf8XA"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "La Pen\u00ednsula",
-        "url": "https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 163669,
-      "name": "La Pen\u00ednsula",
-      "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "RED FLAG",
         "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 186968,
       "name": "RED FLAG",
       "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Jammin' sessions",
-        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
-        }
-      ],
-      "duration_ms": 183562,
-      "name": "Cosas Del Amor - Live",
-      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -967,6 +951,22 @@
       "duration_ms": 198598,
       "name": "A Dios Le Ped\u00eda",
       "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Jammin' sessions",
+        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
+        }
+      ],
+      "duration_ms": 183562,
+      "name": "Cosas Del Amor - Live",
+      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Fondo de Pantalla",
-        "url": "https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        },
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 148504,
-      "name": "Fondo de Pantalla",
-      "url": "https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Al Modo Villa",
         "url": "https://open.spotify.com/album/0yYyjz1d3UK1Lz5AlXDbr9"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 178500,
       "name": "Celos Enfermizos",
       "url": "https://open.spotify.com/track/7EqaHbY1uwWET2CwpCj1c2"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Fondo de Pantalla",
+        "url": "https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 148504,
+      "name": "Fondo de Pantalla",
+      "url": "https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Todav\u00eda Te Siento",
-        "url": "https://open.spotify.com/album/4nzRJeoMp7u5tpv9rVhHIk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 189216,
-      "name": "Todav\u00eda Te Siento",
-      "url": "https://open.spotify.com/track/0b0XADKTOIv7Cz8um7WQ84"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Lo Que He Vivido",
         "url": "https://open.spotify.com/album/0kuxo9eIeNjn0ONHSJMFPV"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 176120,
       "name": "Lo Que He Vivido",
       "url": "https://open.spotify.com/track/1m7H78jmbBzsXFrpIXfKL1"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Todav\u00eda Te Siento",
+        "url": "https://open.spotify.com/album/4nzRJeoMp7u5tpv9rVhHIk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 189216,
+      "name": "Todav\u00eda Te Siento",
+      "url": "https://open.spotify.com/track/0b0XADKTOIv7Cz8um7WQ84"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Un Idiota",
         "url": "https://open.spotify.com/album/1YHjuoRMTTQzrqgLiHW8aa"
       },
@@ -1571,6 +1587,22 @@
       "duration_ms": 178285,
       "name": "Un Idiota",
       "url": "https://open.spotify.com/track/0mMAqCLrHGX5HwIsJmiMRO"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "La Troca Del Mo\u00f1o Negro",
+        "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
+      },
+      "artists": [
+        {
+          "name": "Reos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/4DQnycRabRkXz0mfaLCTSf"
+        }
+      ],
+      "duration_ms": 180617,
+      "name": "La Troca Del Mo\u00f1o Negro",
+      "url": "https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1595,38 +1627,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "La Troca Del Mo\u00f1o Negro",
-        "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
-      },
-      "artists": [
-        {
-          "name": "Reos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/4DQnycRabRkXz0mfaLCTSf"
-        }
-      ],
-      "duration_ms": 180617,
-      "name": "La Troca Del Mo\u00f1o Negro",
-      "url": "https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Dos Botellas De Mezcal",
         "url": "https://open.spotify.com/album/23cru7artXa7AdyifqwPEU"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 220613,
       "name": "Dos Botellas De Mezcal",
       "url": "https://open.spotify.com/track/0ayUOJMUh5fGejMbhdQkcp"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1683,22 +1699,6 @@
       "duration_ms": 257655,
       "name": "El Lunar",
       "url": "https://open.spotify.com/track/5bQO212Zuy5C0dZetIB6BB"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Desde El Charco (En Vivo)",
-        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aktitud",
-          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
-        }
-      ],
-      "duration_ms": 227314,
-      "name": "Como Poder Olvidarte - En Vivo",
-      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Porte Fino",
         "url": "https://open.spotify.com/album/3j4U4t9SGuYRL5RXg7FOGV"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 184000,
       "name": "Porte Fino",
       "url": "https://open.spotify.com/track/0HASNzmL0ZNhtqTuNqny9y"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Desde El Charco (En Vivo)",
+        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        }
+      ],
+      "duration_ms": 227314,
+      "name": "Como Poder Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
     },
     {
       "added_at": "2026-07-17 06:50:08",

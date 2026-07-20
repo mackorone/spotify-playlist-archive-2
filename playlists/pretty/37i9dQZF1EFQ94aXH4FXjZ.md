@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 95 | [Easter Island](https://open.spotify.com/track/4oaPOlfQUPPJyD4PK3DQol) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:42 |
 | 96 | [The Fighter](https://open.spotify.com/track/6aVMMFy0NPCPfmlyCfrkBh) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:41 |
 | 97 | [The Stranger I Love](https://open.spotify.com/track/7x7pV43UAHxtLL65eqFJaK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5tq8ZTX4xFRtStsQ1KNUgZ) | 4:12 |
-| 98 | [Forever In Your Love](https://open.spotify.com/track/3XYnlj4Pk3MTiNWSCTuFbS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:17 |
-| 99 | [Risky Bizness](https://open.spotify.com/track/3ZzdNBo8kQ9BIjgyehSzBz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 2:35 |
+| 98 | [Risky Bizness](https://open.spotify.com/track/3ZzdNBo8kQ9BIjgyehSzBz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 2:35 |
+| 99 | [Forever In Your Love](https://open.spotify.com/track/3XYnlj4Pk3MTiNWSCTuFbS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:17 |
 | 100 | [Spooky Lady's Revenge](https://open.spotify.com/track/1HEyWDpn6BR79ZYlhQgmFg) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:50 |
 | 101 | [Sea Dream](https://open.spotify.com/track/1kXpMmm2ohfNfcE8FZvL0B) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Ocean Strings](https://open.spotify.com/album/3STLTOakm8q0pCyCRod8GO) | 2:37 |
 | 102 | [Lay Me Down and Love the World Away](https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Cedar Creek Sessions](https://open.spotify.com/album/1LPhChpi7Eo9givHrTaAOo) | 3:40 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 108 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 109 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AcXN/AAAAAA3pA/chcz5Oy8gzRZpSqMS`
+Snapshot ID: `AcXTnAAAAAC9pPkJp52gn5D+YAe5BEOW`

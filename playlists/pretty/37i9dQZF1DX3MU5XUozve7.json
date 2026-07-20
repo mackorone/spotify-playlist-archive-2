@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1106351,
+  "num_followers": 1106467,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 187515,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 187515,
-      "name": "Gave You Everything",
-      "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Nervous Breakdown",
-        "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
-      },
-      "artists": [
-        {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
-        }
-      ],
-      "duration_ms": 129173,
-      "name": "Nervous Breakdown",
-      "url": "https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 158573,
       "name": "On A Turntable",
       "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Nervous Breakdown",
+        "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Nervous Breakdown",
+      "url": "https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Lars Frederiksen And The Bastards",
-        "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
-      },
-      "artists": [
-        {
-          "name": "Lars Frederiksen and the Bastards",
-          "url": "https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "To Have And To Have Not",
-      "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Good For Me",
         "url": "https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 239560,
       "name": "The Best I Ever Had",
       "url": "https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Lars Frederiksen And The Bastards",
+        "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
+      },
+      "artists": [
+        {
+          "name": "Lars Frederiksen and the Bastards",
+          "url": "https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "To Have And To Have Not",
+      "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Hello Exile",
-        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 244564,
-      "name": "Strain Your Memory",
-      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 136400,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Hello Exile",
+        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 244564,
+      "name": "Strain Your Memory",
+      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "A War Against You",
-        "url": "https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao"
-      },
-      "artists": [
-        {
-          "name": "Ignite",
-          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Nothing Can Stop Me",
-      "url": "https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 49143,
       "name": "Generational Divide",
       "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "A War Against You",
+        "url": "https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao"
+      },
+      "artists": [
+        {
+          "name": "Ignite",
+          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Nothing Can Stop Me",
+      "url": "https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4"
     },
     {
       "added_at": "2022-07-26 16:46:12",

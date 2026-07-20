@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,252 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,257 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 25 | [Faidherbe Square](https://open.spotify.com/track/2hHNFmRgj2KUCeCcJH0QLP) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 3:27 |
 | 26 | [Shoulder Kiss](https://open.spotify.com/track/3ZB4h7rWKKIMC06EzFiuE9) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF) | [Study Guide](https://open.spotify.com/album/46LudqPGBEIX9l8FlVqe9x) | 2:36 |
 | 27 | [Like I Usually Do](https://open.spotify.com/track/4PHqFuq0cfUP8LblrwcBaK) | [Q Funktion](https://open.spotify.com/artist/603l2mkaHaV6uvQKfuh1B3) | [Like I Usually Do](https://open.spotify.com/album/1p5jDeVqSrZvhPZiJ20Xbl) | 2:48 |
-| 28 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
+| 28 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 29 | [Barfly \- Slo\-Fi Mix](https://open.spotify.com/track/6Cq5rm1CEQcXV1bWXmL8Vq) | [Alex Cortiz](https://open.spotify.com/artist/484XUhtQMjzHZhvU0FrjCX) | [Barfly \(Remixes\)](https://open.spotify.com/album/5quziiwWuBP5sIPMqthYgm) | 5:30 |
 | 30 | [Ladies \(Instrumental\)](https://open.spotify.com/track/1SGQDxceZAPK4IWffYCw8c) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World \(Instrumentals\)](https://open.spotify.com/album/3SFxXvZr27fS5fpOWPckrI) | 4:17 |
 | 31 | [Atlantic Oscillations](https://open.spotify.com/track/0FzxpBbzXCiOjNvSW0Q1NY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/729Ja1YsqDHtt4kVh4nP7J) | 5:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- AtharvaMusic\n",
-  "num_followers": 135087,
+  "num_followers": 135096,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Baarish Mein Phir",
+        "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 176954,
+      "name": "Baarish Mein Phir",
+      "url": "https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "Banda Kaam Ka",
         "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 248947,
       "name": "Banda Kaam Ka",
       "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Baarish Mein Phir",
-        "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 176954,
-      "name": "Baarish Mein Phir",
-      "url": "https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "duration_ms": 134139,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "Kithe Jawan (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/0uGDPyWdO8IhEJ1Md8xixj"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 179693,
       "name": "Kithe Jawan (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/4f0PM72QRUVgpNPw6lCGbw"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Uljhan",
-        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
-      },
-      "artists": [
-        {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        },
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
-        }
-      ],
-      "duration_ms": 134139,
-      "name": "Uljhan",
-      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
-        "name": "Firki",
-        "url": "https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv"
-      },
-      "artists": [
-        {
-          "name": "Bharat Chandak",
-          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
-        }
-      ],
-      "duration_ms": 176823,
-      "name": "Firki",
-      "url": "https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
         "name": "Raaz",
         "url": "https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 164081,
       "name": "Raaz",
       "url": "https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
+        "name": "Firki",
+        "url": "https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chandak",
+          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
+        }
+      ],
+      "duration_ms": 176823,
+      "name": "Firki",
+      "url": "https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM"
     },
     {
       "added_at": "2026-07-10 05:24:52",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
     },
     {
-      "added_at": "2026-07-10 05:24:52",
-      "album": {
-        "name": "Daira",
-        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
-      },
-      "artists": [
-        {
-          "name": "Sanjeeta Bhattacharya",
-          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
-        },
-        {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
-        }
-      ],
-      "duration_ms": 162105,
-      "name": "Daira",
-      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
-    },
-    {
       "added_at": "2026-07-02 08:56:31",
       "album": {
         "name": "Birha",
@@ -1211,6 +1191,26 @@
       "duration_ms": 157931,
       "name": "Birha",
       "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
+    },
+    {
+      "added_at": "2026-07-10 05:24:52",
+      "album": {
+        "name": "Daira",
+        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "duration_ms": 162105,
+      "name": "Daira",
+      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
-        "name": "Ranjhana",
-        "url": "https://open.spotify.com/album/6psi4CQmJrez1TDlSs647E"
-      },
-      "artists": [
-        {
-          "name": "Abhishek Dubey",
-          "url": "https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE"
-        },
-        {
-          "name": "Bandana Datta",
-          "url": "https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Ranjhana",
-      "url": "https://open.spotify.com/track/2Vm3XVjP7oumfIgpf8ifS0"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
         "name": "Dear Maahiya (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 237300,
       "name": "Dear Maahiya (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
+        "name": "Ranjhana",
+        "url": "https://open.spotify.com/album/6psi4CQmJrez1TDlSs647E"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Dubey",
+          "url": "https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE"
+        },
+        {
+          "name": "Bandana Datta",
+          "url": "https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Ranjhana",
+      "url": "https://open.spotify.com/track/2Vm3XVjP7oumfIgpf8ifS0"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Pata",
+        "url": "https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tujhsa Na Koi",
+      "url": "https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "Marhaba",
         "url": "https://open.spotify.com/album/4kCfwjaL8DhDfUwFn98FH0"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 225653,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/611RzhEYT8vSiLt24sKnm1"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Pata",
-        "url": "https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A"
-      },
-      "artists": [
-        {
-          "name": "Akash Kaushal",
-          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tujhsa Na Koi",
-      "url": "https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0"
     },
     {
       "added_at": "2026-07-10 05:24:52",

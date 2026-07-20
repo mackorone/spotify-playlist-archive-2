@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > se pò spezzà nu ciore 'mmiez'ô viento, 'o viento senza ciore addora 'e niente 🩵
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,883 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,867 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

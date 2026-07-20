@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 352523,
+  "num_followers": 352684,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Shall We Begin",
-        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Shall We Begin",
-      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "its never enough",
         "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 98196,
       "name": "its never enough",
       "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Shall We Begin",
+        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Shall We Begin",
+      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
-        },
-        {
-          "name": "Tomasz Bednarczyk",
-          "url": "https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 136800,
       "name": "haunted, but it's ambient",
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
+        },
+        {
+          "name": "Tomasz Bednarczyk",
+          "url": "https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Love Is Colder Than Death",
         "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
         "name": "And They Will Fall",
         "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 241333,
       "name": "And They Will Fall",
       "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Displacement (KMRU rework)",
-        "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
-      },
-      "artists": [
-        {
-          "name": "Rafael Anton Irisarri",
-          "url": "https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4"
-        },
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Displacement - KMRU rework",
-      "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -871,6 +851,26 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
+        "name": "Displacement (KMRU rework)",
+        "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
+      },
+      "artists": [
+        {
+          "name": "Rafael Anton Irisarri",
+          "url": "https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4"
+        },
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Displacement - KMRU rework",
+      "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
         "name": "hexa",
         "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 149333,
       "name": "hexa",
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -903,22 +919,6 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 363284,
       "name": "All That's Left Behind",
       "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Canneto",
         "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 168480,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Bolted (Deconstructed)",
-        "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 91000,
-      "name": "Night Sculpture - Deconstructed",
-      "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1179,6 +1163,22 @@
       "duration_ms": 301863,
       "name": "Lonesome Sound",
       "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Bolted (Deconstructed)",
+        "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 91000,
+      "name": "Night Sculpture - Deconstructed",
+      "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
     },
     {
       "added_at": "2026-06-12 14:06:48",

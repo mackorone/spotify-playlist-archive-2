@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 201468,
       "name": "Circus Sapiens",
       "url": "https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ"
@@ -7802,6 +7802,24 @@
       "duration_ms": 164706,
       "name": "Introspection (Loathing)",
       "url": "https://open.spotify.com/track/0UWiDloT2S7C1qL84U8Z3z"
+    },
+    {
+      "album": {
+        "name": "Invertebrate",
+        "url": "https://open.spotify.com/album/4bQGrNnX0xOhOkcsfsSBef"
+      },
+      "artists": [
+        {
+          "name": "Our Common Collapse",
+          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Invertebrate",
+      "url": "https://open.spotify.com/track/1NmmtuPkji5oAaIEt11KGo"
     },
     {
       "album": {

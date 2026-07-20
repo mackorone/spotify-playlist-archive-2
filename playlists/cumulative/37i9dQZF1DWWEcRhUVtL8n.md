@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,472 songs - 5 day 11 hr 44 min
+2,474 songs - 5 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1812,10 +1812,11 @@
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |
 | [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 | 2023-12-09 |
 | [Rockstar](https://open.spotify.com/track/1fpvdpEUe6jncotfqNGRW8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/3pwHONJw42S7p9b6djAUzA) | 3:28 | 2020-10-13\* | 2020-10-16 |
-| [RODEO](https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [EAVESDROPPING](https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh) | 3:02 | 2026-06-26 |  |
+| [RODEO](https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [EAVESDROPPING](https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh) | 3:02 | 2026-06-26 | 2026-07-20 |
 | [RODEO CLOWN](https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RODEO CLOWN](https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N) | 2:33 | 2026-04-24 |  |
 | [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 | 2024-09-13 | 2024-10-04 |
 | [Rollerskates](https://open.spotify.com/track/2N8JOMhgbI28g9h3C0kPZY) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Emotions on Rollerskates](https://open.spotify.com/album/1gIi3xEGhV2g60G685E9cW) | 3:19 | 2020-10-13\* | 2021-02-26 |
+| [Romanticize](https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Romanticize](https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0) | 3:35 | 2026-07-17 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-06-17 | 2022-10-08 |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-03-23 | 2022-07-29 |
 | [Room in the Desert](https://open.spotify.com/track/0dWNMfDfQaEayowTkCSXj8) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Room in the Desert](https://open.spotify.com/album/0Cyk0SwGH4voYoT9o10U74) | 2:57 | 2022-01-21 | 2022-04-16 |
@@ -2004,7 +2005,7 @@
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-07-12 | 2026-01-17 |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-21 | 2026-01-17 |
 | [Southern Sky](https://open.spotify.com/track/7pTsZpxCcRdX4HP63AvsUT) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [Southern Sky](https://open.spotify.com/album/1rXG9LfEJFUdd3TPKFvClf) | 3:47 | 2024-12-13 | 2024-12-21 |
-| [Southern Youth](https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Southern Youth](https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg) | 4:02 | 2026-06-12 |  |
+| [Southern Youth](https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Southern Youth](https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg) | 4:02 | 2026-06-12 | 2026-07-20 |
 | [Space Cadet](https://open.spotify.com/track/3jK7Phs5IsCWndQVGD4NZz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/14dX5gXAHZFHWmOlOmdxO9) | 4:24 | 2020-10-20 | 2020-10-21 |
 | [Special](https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Special](https://open.spotify.com/album/0XFMxuZD5kbRlBSP5UZI8h) | 3:14 | 2025-06-20 | 2025-07-26 |
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-22 | 2022-04-16 |
@@ -2082,6 +2083,7 @@
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-06-02 | 2021-12-24 |
 | [summer](https://open.spotify.com/track/4y2BTdeHx043EdTbIRtlOs) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [summer + not like you + you should probably just hang up + the movies](https://open.spotify.com/album/3OjYQERjqu3WR7fW2VZkYE) | 2:55 | 2020-10-13\* | 2021-05-26 |
 | [summer again](https://open.spotify.com/track/4JKdZpsEjEvv7qVb12IuH1) | [Free Arlo](https://open.spotify.com/artist/1ePVqRHwkjRf7y2XRyHE2p) | [summer again](https://open.spotify.com/album/2wJvOwpVJ309aWlUzzZVIs) | 2:44 | 2021-10-09 | 2021-10-10 |
+| [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 | 2026-07-17 |  |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-09 | 2024-12-11 |
 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 | 2021-06-02 | 2022-07-23 |
 | [summer&cigarettes](https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [summer&cigarettes](https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6) | 1:54 | 2021-05-03 | 2022-04-13 |

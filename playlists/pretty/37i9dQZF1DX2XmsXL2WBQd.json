@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 453695,
+  "num_followers": 453742,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
+        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Schoolly D",
         "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 221983,
       "name": "I Got It Made",
       "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
-        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
     },
     {
       "added_at": "2024-06-28 10:06:16",

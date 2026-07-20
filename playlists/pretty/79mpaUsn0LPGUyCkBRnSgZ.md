@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 758 songs - 2 day 0 hr 54 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 759 songs - 2 day 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -762,9 +762,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 752 | [How We Be](https://open.spotify.com/track/5jJu4fSQ360D0THFAu9iX6) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Mean Love](https://open.spotify.com/album/6GemHEGZs6e9tgyWfGMDHo) | 4:17 |
 | 753 | [Ascension](https://open.spotify.com/track/3gep63eS5f6oLoEEDol52l) | [The Crystal Ark](https://open.spotify.com/artist/1mLxp9dyQX4cPjduUnlC3z) | [The Crystal Ark](https://open.spotify.com/album/5WzGXuD9LH8bf9LILLllNm) | 5:39 |
 | 754 | [Horizontalator](https://open.spotify.com/track/7e0txSRbMf7qaSixVhBFLP) | [Museum Of Love](https://open.spotify.com/artist/2nIzOTNOvPxPlgzB4GQHPc) | [Museum Of Love \(10th Anniversary Expanded Edition\)](https://open.spotify.com/album/5IFnvmXwn0fgNZo8SlgkJH) | 0:54 |
-| 755 | [You Or Your Memory \- 2025 Remaster](https://open.spotify.com/track/1jjnxtyzO921D6LcTf17dn) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree \(2025 Remaster\)](https://open.spotify.com/album/11dEkFnGUXKGDBuGQY8O5z) | 2:16 |
-| 756 | [Tallahassee](https://open.spotify.com/track/5dLdGFhxgw4mRF8d4ErBkT) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 4:43 |
-| 757 | [Surrounded](https://open.spotify.com/track/66dcthbkYBL1JGB0NvZfFM) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5), [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Moon Colony Bloodbath](https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj) | 2:24 |
-| 758 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/7LIAbwsjWwIdKMfw46bkKY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:27 |
+| 755 | [Tallahassee](https://open.spotify.com/track/5dLdGFhxgw4mRF8d4ErBkT) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 4:43 |
+| 756 | [Surrounded](https://open.spotify.com/track/66dcthbkYBL1JGB0NvZfFM) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5), [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Moon Colony Bloodbath](https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj) | 2:24 |
+| 757 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/7LIAbwsjWwIdKMfw46bkKY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:27 |
+| 758 | [Seremende](https://open.spotify.com/track/0EQ2CmWPsKqUcPHSvGLvVt) | [Sourakata Koité](https://open.spotify.com/artist/1aEXvBo9XF1pXQJwKbg0aX) | [en Hollande](https://open.spotify.com/album/2TavFn7bYedGdHDLhFFdJR) | 5:26 |
+| 759 | [Tche Belew](https://open.spotify.com/track/2BxCRD3CZ65suyXj6KeGuU) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [The Walias](https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2) | [Tche Belew](https://open.spotify.com/album/67ZrxrYM4ZErIrGYpA13Q0) | 5:00 |
 
-Snapshot ID: `AAAJVp9XB0bh7X3CQPhejOM0jWLcXdIf`
+Snapshot ID: `AAAJW1L/O7SDgFfVK/sQLTQKMabG1Ld7`

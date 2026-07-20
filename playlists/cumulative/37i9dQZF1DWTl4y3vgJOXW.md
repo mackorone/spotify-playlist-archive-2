@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Lionel Messi and Lamine Yamal
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Fernando Torres<br/> and Lamine Yamal
 
 924 songs - 1 day 22 hr 55 min
 

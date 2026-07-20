@@ -5223,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "Field Report",
+        "url": "https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1"
+      },
+      "artists": [
+        {
+          "name": "Pilgrim's Fire",
+          "url": "https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261880,
+      "name": "Back on the Clock",
+      "url": "https://open.spotify.com/track/39dr9QgeIicvj2SBEJmv2j"
+    },
+    {
+      "album": {
         "name": "American Pop Blues",
         "url": "https://open.spotify.com/album/1jO4P3dNnDAqdLsZrs1XWM"
       },
@@ -78204,6 +78222,24 @@
       "duration_ms": 168041,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6zxDEmItdAiOLmEbPrmmsQ"
+    },
+    {
+      "album": {
+        "name": "Wake Up From My Dream (Rework)",
+        "url": "https://open.spotify.com/album/6JosFOcSGwJ8G2jOMrNOEt"
+      },
+      "artists": [
+        {
+          "name": "M\u00fczab",
+          "url": "https://open.spotify.com/artist/59RdDdUFswXJaIwVcccyga"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "Wake Up From My Dream (Rework)",
+      "url": "https://open.spotify.com/track/3cLbAMRBcNI9EKPtk2MJKL"
     },
     {
       "album": {

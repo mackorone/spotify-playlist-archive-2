@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Debbii Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,631 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,665 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 |
 | 100 | [Girl of the Hour](https://open.spotify.com/track/5DToj6deasn1CaLqldIWCJ) | [Tabitha Meeks](https://open.spotify.com/artist/5XLLTtjICh1Hsk7NSJW5vv) | [Girl of the Hour](https://open.spotify.com/album/0d9BIuBugjnp2DDW2LlYES) | 3:03 |
 
-Snapshot ID: `AAAAAHhmxnRmRP6m2qkEU9SSd4x/3gk7`
+Snapshot ID: `AAAAAHn/iXIbeFTh1BYVx71MWju7w1dj`

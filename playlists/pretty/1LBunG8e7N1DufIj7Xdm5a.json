@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 281,
+  "num_followers": 280,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJPrkHWC6dzjXuNbPFDKyClQwxfa+A",
+  "snapshot_id": "AAAJRGtTxMaYUU28jJl5Ug+/Tcm01/Yx",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -75191,6 +75191,38 @@
       "duration_ms": 172800,
       "name": "Stupida Malinconia",
       "url": "https://open.spotify.com/track/1L10nxkefiXTsxpJueUtgA"
+    },
+    {
+      "added_at": "2026-07-19 08:46:24",
+      "album": {
+        "name": "Wake Up From My Dream (Rework)",
+        "url": "https://open.spotify.com/album/6JosFOcSGwJ8G2jOMrNOEt"
+      },
+      "artists": [
+        {
+          "name": "M\u00fczab",
+          "url": "https://open.spotify.com/artist/59RdDdUFswXJaIwVcccyga"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Wake Up From My Dream (Rework)",
+      "url": "https://open.spotify.com/track/3cLbAMRBcNI9EKPtk2MJKL"
+    },
+    {
+      "added_at": "2026-07-19 20:40:06",
+      "album": {
+        "name": "Field Report",
+        "url": "https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1"
+      },
+      "artists": [
+        {
+          "name": "Pilgrim's Fire",
+          "url": "https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "Back on the Clock",
+      "url": "https://open.spotify.com/track/39dr9QgeIicvj2SBEJmv2j"
     }
   ],
   "unique_name": "playlist spotify free",

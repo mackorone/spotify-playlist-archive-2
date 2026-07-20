@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1FuIR1555IFwDe3YkUgVml"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "Bones Don't Rust",
+      "url": "https://open.spotify.com/track/2bTmOHrY6iF7fIm06UBY4C"
+    },
+    {
+      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },

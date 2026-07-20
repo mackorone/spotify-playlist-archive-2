@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-319 songs - 1 day 3 hr 54 min
+320 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Orb \- Original](https://open.spotify.com/track/0f6m4aY3YhGXMvRm8LxGqn) | [Middle Mode](https://open.spotify.com/artist/0QNiWFxX9OrK8ly7eH8o0X), [Spinal Fusion](https://open.spotify.com/artist/6MBkvPidn6kQj6ZD8dlAD1) | [Orb](https://open.spotify.com/album/3qDvok6JFIkPtbYbdxpWZ4) | 7:00 | 2022-04-22 | 2022-04-27 |
 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-05-26 |  |
 | [Otherside](https://open.spotify.com/track/5Vx0adNfQ9acNFltwiXd2Z) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Otherside](https://open.spotify.com/album/66mIQU9Et5l2adfdWAQQLD) | 2:25 | 2022-11-17 | 2025-01-25 |
-| [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 | 2025-02-28 |  |
+| [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 | 2025-02-28 | 2026-07-20 |
 | [Out of the Blue \- One Function Remix](https://open.spotify.com/track/7Iw7iKzQPu2sJoiWFwa2mu) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [One Function](https://open.spotify.com/artist/2VdxcRZenJ5qgyMjZv5wOI) | [Out of the Blue](https://open.spotify.com/album/4zSo7sKtXB6ptXa9Z6c8U6) | 8:41 | 2022-06-30 | 2022-07-29 |
 | [Overture](https://open.spotify.com/track/5dP9ZhH0NIMLyjpjFnAVcr) | [Ilai](https://open.spotify.com/artist/11wZf9Pps7qYf5xYlLu2Ku), [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M) | [Overture](https://open.spotify.com/album/3hX1rnC4oFEEBEJ5pp0VW9) | 7:32 | 2022-04-28 | 2022-07-22 |
 | [Pa Moru](https://open.spotify.com/track/2eKgk6fWOsmN7N8R7uhbQI) | [DistinctSide](https://open.spotify.com/artist/5eat6gFMCO6nvWNDOTHSrW), [Formation](https://open.spotify.com/artist/1P2i2PJB5fd73p7lQgBaHH) | [Pa Moru](https://open.spotify.com/album/0VOsdhP7EvjUkb0dDk1QHb) | 5:26 | 2022-07-15 | 2022-08-31 |
@@ -279,6 +279,7 @@
 | [The Call](https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09) | [Mr\. Nobody](https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm) | [The Call](https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8) | 5:05 | 2023-03-15 | 2024-10-06 |
 | [The Dream](https://open.spotify.com/track/1QaKngKWfN3844s6ZcFFd9) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P), [Basscannon](https://open.spotify.com/artist/2cPWCaC4QYh4t2lc0CDMx8) | [The Dream](https://open.spotify.com/album/3ZRU4hhQRHRqiZekakNMbf) | 5:46 | 2022-06-16 | 2022-06-21 |
 | [The Flute](https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf) | [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg) | [The Flute](https://open.spotify.com/album/2Mrn48wJyywIA05mKXbsPl) | 4:47 | 2023-11-10 | 2025-03-02 |
+| [The God Molecule](https://open.spotify.com/track/6dVtpUoj8vXgqkRJ2jTuHL) | [Tristan](https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Burn In Noise](https://open.spotify.com/artist/3O4xHzuHaiM4UVNlSd44xK), [Altruism](https://open.spotify.com/artist/6L29hqhEPpMUQXjPKrs0bC) | [The God Molecule](https://open.spotify.com/album/7qTszsvHWUe5M5FCuldRQW) | 6:54 | 2026-07-17 |  |
 | [The Hook](https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr) | [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [The Hook](https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q) | 4:45 | 2023-11-25 | 2025-10-12 |
 | [The Love](https://open.spotify.com/track/2zcvYKGbJb4wsUfWKId1Iw) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [The Love](https://open.spotify.com/album/48apPEhE41dmuhU9F2zgW9) | 4:56 | 2022-07-15 | 2022-07-19 |
 | [The Oasis \(Zyrus 7 Remix\) \- Original Mix](https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [The Oasis \(Zyrus 7 Remix\)](https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U) | 3:29 | 2022-04-15 |  |

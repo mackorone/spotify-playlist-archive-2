@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Suspended 4th",
-  "num_followers": 134802,
+  "num_followers": 134801,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "THE BAND STAR",
-        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "PEAK'D YELLOW",
-      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
-    },
-    {
-      "added_at": "2026-07-07 15:00:39",
-      "album": {
         "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
         "url": "https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 300306,
       "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
       "url": "https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU"
+    },
+    {
+      "added_at": "2026-07-07 15:00:39",
+      "album": {
+        "name": "THE BAND STAR",
+        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "PEAK'D YELLOW",
+      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
     },
     {
       "added_at": "2026-07-07 15:00:39",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "A FORLORN HOPE",
-        "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
+        "name": "Screaming Newborn Baby",
+        "url": "https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE"
       },
       "artists": [
         {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
         }
       ],
-      "duration_ms": 122493,
-      "name": "DEEP",
-      "url": "https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT"
+      "duration_ms": 176760,
+      "name": "Song About Fat Mike",
+      "url": "https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD"
     },
     {
       "added_at": "2026-07-07 15:00:39",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "Screaming Newborn Baby",
-        "url": "https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE"
+        "name": "A FORLORN HOPE",
+        "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
       },
       "artists": [
         {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Song About Fat Mike",
-      "url": "https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD"
+      "duration_ms": 122493,
+      "name": "DEEP",
+      "url": "https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT"
     },
     {
       "added_at": "2026-07-07 15:00:39",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "\u68b5\u5504 -bonbai-",
-        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
-      },
-      "artists": [
-        {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
-    },
-    {
-      "added_at": "2026-07-07 15:00:39",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 162466,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim"
+    },
+    {
+      "added_at": "2026-07-07 15:00:39",
+      "album": {
+        "name": "\u68b5\u5504 -bonbai-",
+        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
     },
     {
       "added_at": "2026-07-07 15:00:39",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "PAC-MANISM",
-        "url": "https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 127492,
-      "name": "PAC-MANISM",
-      "url": "https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw"
-    },
-    {
-      "added_at": "2026-07-07 15:00:39",
-      "album": {
         "name": "TRAIN-TRAIN",
         "url": "https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 233366,
       "name": "TRAIN-TRAIN",
       "url": "https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks"
+    },
+    {
+      "added_at": "2026-07-07 15:00:39",
+      "album": {
+        "name": "PAC-MANISM",
+        "url": "https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu"
+      },
+      "artists": [
+        {
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
+        }
+      ],
+      "duration_ms": 127492,
+      "name": "PAC-MANISM",
+      "url": "https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw"
     },
     {
       "added_at": "2026-07-07 15:00:39",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
+        "name": "Tarinaika,",
+        "url": "https://open.spotify.com/album/6vZgxKBwHqXH9GRoNKCW6M"
+      },
+      "artists": [
+        {
+          "name": "Wasureranneyo",
+          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+        }
+      ],
+      "duration_ms": 172535,
+      "name": "Tarinaika,",
+      "url": "https://open.spotify.com/track/6RsIqlXQ6uwWvIR7xeCZEm"
+    },
+    {
+      "added_at": "2026-07-07 15:00:39",
+      "album": {
         "name": "Midnight Grow",
         "url": "https://open.spotify.com/album/3HXAGw0DEIjZrLg3b1D9IL"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "\u795e\u69d8\u304b\u3089\u306e\u8d08\u7269 e.p.",
-        "url": "https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY"
-      },
-      "artists": [
-        {
-          "name": "\u30b8\u30fb\u30a8\u30f3\u30d7\u30c6\u30a3",
-          "url": "https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "\u3055\u3088\u306a\u3089\u6d99",
-      "url": "https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c"
-    },
-    {
-      "added_at": "2026-07-07 15:00:39",
-      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -1467,34 +1467,18 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "Tarinaika,",
-        "url": "https://open.spotify.com/album/6vZgxKBwHqXH9GRoNKCW6M"
+        "name": "\u795e\u69d8\u304b\u3089\u306e\u8d08\u7269 e.p.",
+        "url": "https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY"
       },
       "artists": [
         {
-          "name": "Wasureranneyo",
-          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+          "name": "\u30b8\u30fb\u30a8\u30f3\u30d7\u30c6\u30a3",
+          "url": "https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf"
         }
       ],
-      "duration_ms": 172535,
-      "name": "Tarinaika,",
-      "url": "https://open.spotify.com/track/6RsIqlXQ6uwWvIR7xeCZEm"
-    },
-    {
-      "added_at": "2026-07-07 15:00:39",
-      "album": {
-        "name": "Is The New Album Out Yet?",
-        "url": "https://open.spotify.com/album/40GWsNlzUiu4BNVUK3Osr6"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 92240,
-      "name": "Is The New Album Out Yet?",
-      "url": "https://open.spotify.com/track/5ifURZDS0giN09C2usZ7uq"
+      "duration_ms": 151133,
+      "name": "\u3055\u3088\u306a\u3089\u6d99",
+      "url": "https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c"
     },
     {
       "added_at": "2026-07-07 15:00:39",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
+        "name": "Is The New Album Out Yet?",
+        "url": "https://open.spotify.com/album/40GWsNlzUiu4BNVUK3Osr6"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 92240,
+      "name": "Is The New Album Out Yet?",
+      "url": "https://open.spotify.com/track/5ifURZDS0giN09C2usZ7uq"
+    },
+    {
+      "added_at": "2026-07-07 15:00:39",
+      "album": {
         "name": "illuminate",
         "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-07 15:00:39",
       "album": {
-        "name": "\u5fc3\u81d3",
-        "url": "https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw"
-      },
-      "artists": [
-        {
-          "name": "\u9234\u6728\u5b9f\u8cb4\u5b50\u30ba",
-          "url": "https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "\u5fc3\u81d3",
-      "url": "https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn"
-    },
-    {
-      "added_at": "2026-07-07 15:00:39",
-      "album": {
         "name": "MUZIC",
         "url": "https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 222093,
       "name": "MUZIC",
       "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
+    },
+    {
+      "added_at": "2026-07-07 15:00:39",
+      "album": {
+        "name": "\u5fc3\u81d3",
+        "url": "https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u5b9f\u8cb4\u5b50\u30ba",
+          "url": "https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "\u5fc3\u81d3",
+      "url": "https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn"
     },
     {
       "added_at": "2026-07-07 15:00:39",

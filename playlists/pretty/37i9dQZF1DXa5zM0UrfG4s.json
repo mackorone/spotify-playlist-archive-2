@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118121,
+  "num_followers": 118123,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "E45",
+        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 136285,
+      "name": "E45",
+      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Bygdegut (her er eg)",
         "url": "https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 227045,
       "name": "Bygdegut (her er eg)",
       "url": "https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "E45",
-        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 136285,
-      "name": "E45",
-      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Gamlehjem",
         "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 181648,
       "name": "Gamlehjem",
       "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "St\u00f8gg melodi",
+        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "St\u00f8gg melodi",
+      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -887,38 +887,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Eviva Espana (Charterfeber 2026)",
-        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
         }
       ],
-      "duration_ms": 165569,
-      "name": "Eviva Espana - Charterfeber 2026",
-      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -939,18 +919,34 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
       },
       "artists": [
         {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Eviva Espana (Charterfeber 2026)",
+        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Eviva Espana - Charterfeber 2026",
+      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -995,22 +991,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "St\u00f8gg melodi",
-        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "St\u00f8gg melodi",
-      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Ingenting kan stoppe oss",
         "url": "https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 197282,
       "name": "Ingenting kan stoppe oss",
       "url": "https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Her og no",
-        "url": "https://open.spotify.com/album/3UzSZqAsJtaE3fK504GEpB"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 206022,
-      "name": "Her og no",
-      "url": "https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Her og no",
+        "url": "https://open.spotify.com/album/3UzSZqAsJtaE3fK504GEpB"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 206022,
+      "name": "Her og no",
+      "url": "https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq"
     },
     {
       "added_at": "2026-06-25 22:01:29",

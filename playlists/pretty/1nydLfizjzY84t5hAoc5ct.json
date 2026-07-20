@@ -6,7 +6,7 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AAB8hyE3nTqtqXn87KGK04pTXK9Kko0a",
+  "snapshot_id": "AAB8iiwUPdEQh7nvUf4Ej0+lLF3LCo2a",
   "tracks": [
     {
       "added_at": "2026-07-04 18:34:12",
@@ -2119,6 +2119,38 @@
       "duration_ms": 186571,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/2RUuKH2kkwsPETkKpj6olS"
+    },
+    {
+      "added_at": "2026-07-19 09:45:57",
+      "album": {
+        "name": "Shelley",
+        "url": "https://open.spotify.com/album/4sgiHbundnHSkl4FFtYxju"
+      },
+      "artists": [
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/5XG9KwVdGoHTfnHLwkpT14"
+        }
+      ],
+      "duration_ms": 235608,
+      "name": "Shelley",
+      "url": "https://open.spotify.com/track/2pAKTXfyggF2PUbTB4FjUO"
+    },
+    {
+      "added_at": "2026-07-19 09:46:05",
+      "album": {
+        "name": "Robin",
+        "url": "https://open.spotify.com/album/0fXwQNJFqTDxNPG67QkuQU"
+      },
+      "artists": [
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/5XG9KwVdGoHTfnHLwkpT14"
+        }
+      ],
+      "duration_ms": 212522,
+      "name": "Robin",
+      "url": "https://open.spotify.com/track/2ljwE5BHmknuF3lbt2pVUV"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

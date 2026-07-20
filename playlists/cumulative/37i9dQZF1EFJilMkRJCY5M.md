@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-192 songs - 9 hr 58 min
+193 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Somehow, Some Way, Somewhere, Some Day \- Worktape](https://open.spotify.com/track/3mPNkTNYIt14YD75wbbEhM) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Heartbreak Worktapes Vol\. 2](https://open.spotify.com/album/0k9RnyrVHo7mvgdug6CVxp) | 3:01 | 2026-02-28 |  |
 | [Someone Else's Heartbreak](https://open.spotify.com/track/35Asbjj2UV7m6LpCT3EOqA) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:35 | 2024-01-14 |  |
 | [Someone Else's Heartbreak](https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Someone Else's Heartbreak](https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp) | 3:35 | 2023-02-13 | 2024-01-15 |
+| [Spur Of The Moment](https://open.spotify.com/track/6kZhMmAGqjQ1x6b0znord0) | [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Spur Of The Moment](https://open.spotify.com/album/6OGkY4dqAZI4E0SDiJJsNN) | 3:30 | 2026-07-19 |  |
 | [Still Feels The Same](https://open.spotify.com/track/2fOjTmGULGRwVBKoj7unUj) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Open Bars](https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a) | 3:01 | 2025-09-28 | 2025-11-28 |
 | [Still Feels The Same](https://open.spotify.com/track/36ofZpdOk2lb9JSI7Hfyhn) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 3:01 | 2025-11-27 |  |
 | [Still Feels The Same](https://open.spotify.com/track/3S1OoEefEIr19VaP9glJS9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Still Feels The Same](https://open.spotify.com/album/3osSwN8ncik0vVB5TJ7rOB) | 3:01 | 2025-09-16 | 2025-09-29 |

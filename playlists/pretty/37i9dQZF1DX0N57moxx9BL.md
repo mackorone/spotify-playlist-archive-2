@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,440 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,489 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [No One](https://open.spotify.com/track/4hmT4Dmrj45kUTcPdeqvfm) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid) | [No One](https://open.spotify.com/album/2PySo2wK6JkC2qWAJZN2d7) | 3:25 |
 | 75 | [PARALLEL \- Live](https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [PARALLEL \(Live\)](https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8) | 5:38 |
 
-Snapshot ID: `AAAAADL17Pqyn8iiG2BVoJovNXPLAEt1`
+Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`

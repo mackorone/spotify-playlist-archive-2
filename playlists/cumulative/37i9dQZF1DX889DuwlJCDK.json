@@ -22231,6 +22231,24 @@
     },
     {
       "album": {
+        "name": "\u30d7\u30e9\u30a4\u30c9\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6Jk1HTnDsXydXwUk8DZORK"
+      },
+      "artists": [
+        {
+          "name": "Gum-9",
+          "url": "https://open.spotify.com/artist/1YSj6FRViBXAzCzoKKaoGn"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "\u30d7\u30e9\u30a4\u30c9\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3UI7lgO6ywk5dNoZjzUmoW"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30e9\u30a4\u30f4\u30a7\u30fc\u30c8\u30fb\u30ef\u30fc\u30eb\u30c9",
         "url": "https://open.spotify.com/album/0KVU7INmtDo4cNJGzxFJz3"
       },
@@ -24644,7 +24662,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 196282,
       "name": "\u4eba\u751f\u306e\u767b\u5834\u4eba\u7269\u3068\u3057\u3066",
       "url": "https://open.spotify.com/track/4pf2Oro6pXiMBDl72wGocM"
@@ -25758,7 +25776,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 224904,
       "name": "\u5411\u65e5\u8475",
       "url": "https://open.spotify.com/track/5wFG3IPIjDG4m5bNtubR7I"
@@ -26388,7 +26406,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 288984,
       "name": "\u57d2",
       "url": "https://open.spotify.com/track/6y9aKF3jB2rfjbCwjwfw7M"

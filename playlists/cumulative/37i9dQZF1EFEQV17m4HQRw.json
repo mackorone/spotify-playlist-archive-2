@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Pedro, Tiago e Jo\u00e3o",
+        "url": "https://open.spotify.com/album/7HdNjHNGoFDGPkt7hNqY5p"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141730,
+      "name": "Pedro, Tiago e Jo\u00e3o",
+      "url": "https://open.spotify.com/track/5anjf9u1NC8xrToCKq6sIF"
+    },
+    {
+      "album": {
         "name": "Pesadona",
         "url": "https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP"
       },

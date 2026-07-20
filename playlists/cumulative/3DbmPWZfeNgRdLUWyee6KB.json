@@ -9665,6 +9665,24 @@
     },
     {
       "album": {
+        "name": "In Slow Motion (Acoustic)",
+        "url": "https://open.spotify.com/album/0C2WHZjFbNEYdeKsHuJnIM"
+      },
+      "artists": [
+        {
+          "name": "Snawfus Screamers",
+          "url": "https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210884,
+      "name": "In Slow Motion - Acoustic",
+      "url": "https://open.spotify.com/track/4ioRmTEXJEOrbfRSA6Cox2"
+    },
+    {
+      "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/7dtUQxnDwg3rrQioBDRW0K"
       },

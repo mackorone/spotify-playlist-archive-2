@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Aya Nakamura",
-  "num_followers": 17176,
+  "num_followers": 17220,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-06-26 00:01:48",
       "album": {
-        "name": "Garde Ta Position",
-        "url": "https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8"
-      },
-      "artists": [
-        {
-          "name": "Hulk",
-          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
-        }
-      ],
-      "duration_ms": 133584,
-      "name": "Garde Ta Position",
-      "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
-    },
-    {
-      "added_at": "2026-06-26 00:01:48",
-      "album": {
         "name": "BOUCHEKARAILLE",
         "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 186206,
       "name": "BOUCHEKARAILLE",
       "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
+    },
+    {
+      "added_at": "2026-06-26 00:01:48",
+      "album": {
+        "name": "Garde Ta Position",
+        "url": "https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8"
+      },
+      "artists": [
+        {
+          "name": "Hulk",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "duration_ms": 133584,
+      "name": "Garde Ta Position",
+      "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
     },
     {
       "added_at": "2026-06-26 00:01:48",

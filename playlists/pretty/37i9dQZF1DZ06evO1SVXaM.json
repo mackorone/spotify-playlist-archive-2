@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3520490,
+  "num_followers": 3521895,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAADQYACkETpXUceei0jNO/ml",
+  "snapshot_id": "alrCAAAAAACDN7t+c4VZ3aGWloz3G/wR",
   "tracks": [
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 277994,
-      "name": "Get on the Floor",
-      "url": "https://open.spotify.com/track/78XG7U0UueeC86XpzF9O7f"
+      "duration_ms": 269041,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 269041,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+      "duration_ms": 277994,
+      "name": "Get on the Floor",
+      "url": "https://open.spotify.com/track/78XG7U0UueeC86XpzF9O7f"
     },
     {
       "added_at": null,

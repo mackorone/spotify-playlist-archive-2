@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAABVkZmhuyFil4Iz6FTqpubH",
+  "snapshot_id": "alrCAAAAAABheY8quJ5tT9Wwk/adSUob",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "La campanella in G-Sharp Minor (From \"Grandes \u00e9tudes de Paganini\", S. 141/3)",
-      "url": "https://open.spotify.com/track/2Hnurh1BcigGbCGFOb4Uid"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/5e6JUumt6nbvzPrpZxb8vP"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 52186,
       "name": "Kinderszenen, Op. 15: IV. Bittendes Kind",
       "url": "https://open.spotify.com/track/3MV9u27GAg3GZAvpeeBYGx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "La campanella in G-Sharp Minor (From \"Grandes \u00e9tudes de Paganini\", S. 141/3)",
+      "url": "https://open.spotify.com/track/2Hnurh1BcigGbCGFOb4Uid"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
-        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 89280,
-      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
-      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kung Fu Panda 3 (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 108706,
       "name": "Portrait of Mom",
       "url": "https://open.spotify.com/track/0D3J2SJrmHmRMeuaHieHq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
+        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 89280,
+      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
+      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Tekla B\u0105darzewska-Baranowska",
-          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "The Maiden's Prayer, Op. 4",
-      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lang Lang at Royal Albert Hall",
         "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 174013,
       "name": "Intermezzo No. 1 in E Minor",
       "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Tekla B\u0105darzewska-Baranowska",
+          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "The Maiden's Prayer, Op. 4",
+      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 33453,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
-      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: Goldberg Variations (Extended Edt.)",
         "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 33453,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
+      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
         "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
       },
@@ -895,6 +895,26 @@
       "duration_ms": 344466,
       "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
       "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Encore Edition)",
+        "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 404426,
+      "name": "Jasmine Flower (Arr. Schindler for Piano)",
+      "url": "https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Encore Edition)",
-        "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 404426,
-      "name": "Jasmine Flower (Arr. Schindler for Piano)",
-      "url": "https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mozart Album",
         "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
       },
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Elena Kats-Chernin",
-          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
-      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gran Turismo 5 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 268613,
       "name": "Herz und Mund und Tat und Leben, BWV 147: Chorale. Jesus bleibet meine Freude (Arr. for Piano)",
       "url": "https://open.spotify.com/track/2R0vxgZ5SJUD6dLjkgOx5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
+      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
     }
   ],
   "unique_name": "This Is Lang Lang",

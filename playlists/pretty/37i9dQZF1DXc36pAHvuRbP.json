@@ -155,8 +155,8 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Enfantillages 4",
-        "url": "https://open.spotify.com/album/03Zxp3wXQhieUFeJUX2yB5"
+        "name": "Enfantillages 4 (nouvelle \u00e9dition)",
+        "url": "https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u"
       },
       "artists": [
         {
@@ -164,17 +164,13 @@
           "url": "https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS"
         },
         {
-          "name": "Guillaume Meurice",
-          "url": "https://open.spotify.com/artist/2pNYV0azMUQWVzqRApNpEO"
-        },
-        {
-          "name": "Rapha\u00ebl Mezrahi",
-          "url": "https://open.spotify.com/artist/3aZPr20mjkn2hQPYYQH685"
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Mytho-man",
-      "url": "https://open.spotify.com/track/3AfSblJbHhVy6eqoivfSv6"
+      "duration_ms": 180800,
+      "name": "Tout simplement",
+      "url": "https://open.spotify.com/track/0PBk93EyJBctNlOTV7DZ2R"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -243,8 +239,8 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Enfantillages 4 (nouvelle \u00e9dition)",
-        "url": "https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u"
+        "name": "Enfantillages 4",
+        "url": "https://open.spotify.com/album/03Zxp3wXQhieUFeJUX2yB5"
       },
       "artists": [
         {
@@ -252,13 +248,17 @@
           "url": "https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS"
         },
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Guillaume Meurice",
+          "url": "https://open.spotify.com/artist/2pNYV0azMUQWVzqRApNpEO"
+        },
+        {
+          "name": "Rapha\u00ebl Mezrahi",
+          "url": "https://open.spotify.com/artist/3aZPr20mjkn2hQPYYQH685"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Tout simplement",
-      "url": "https://open.spotify.com/track/0PBk93EyJBctNlOTV7DZ2R"
+      "duration_ms": 182613,
+      "name": "Mytho-man",
+      "url": "https://open.spotify.com/track/3AfSblJbHhVy6eqoivfSv6"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
         }
       ],
-      "duration_ms": 225874,
-      "name": "Emoi et moi",
-      "url": "https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX"
+      "duration_ms": 181097,
+      "name": "Les c\u00e2lins",
+      "url": "https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Au bonheur des m\u00f4mes",
-        "url": "https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS"
-      },
-      "artists": [
-        {
-          "name": "BAB et les chats",
-          "url": "https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Diff\u00e9rents",
-      "url": "https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
         "name": "Quand le chat n'est pas l\u00e0... \u00e7a part en live !",
         "url": "https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 182573,
       "name": "Mon pyjama de nuit",
       "url": "https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
+        "name": "Au bonheur des m\u00f4mes",
+        "url": "https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS"
+      },
+      "artists": [
+        {
+          "name": "BAB et les chats",
+          "url": "https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Diff\u00e9rents",
+      "url": "https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
         }
       ],
-      "duration_ms": 181097,
-      "name": "Les c\u00e2lins",
-      "url": "https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m"
+      "duration_ms": 225874,
+      "name": "Emoi et moi",
+      "url": "https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Le mod\u00e8le r\u00e9duit de nos pens\u00e9es",
-        "url": "https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3"
-      },
-      "artists": [
-        {
-          "name": "David Delabrosse",
-          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
-        }
-      ],
-      "duration_ms": 189462,
-      "name": "J'm'aime pas comme papa",
-      "url": "https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
         "name": "Quand le chat n'est pas l\u00e0... \u00e7a part en live !",
         "url": "https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 164893,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/4eYQxnxsePWIkFgWRrUncV"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
+        "name": "Le mod\u00e8le r\u00e9duit de nos pens\u00e9es",
+        "url": "https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3"
+      },
+      "artists": [
+        {
+          "name": "David Delabrosse",
+          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
+        }
+      ],
+      "duration_ms": 189462,
+      "name": "J'm'aime pas comme papa",
+      "url": "https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -754,15 +754,11 @@
         {
           "name": "Rit qui qui",
           "url": "https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ"
-        },
-        {
-          "name": "Pascal Peroteau",
-          "url": "https://open.spotify.com/artist/6SANO2sCHf6LhTTCvhmecK"
         }
       ],
-      "duration_ms": 177453,
-      "name": "Super flemmard",
-      "url": "https://open.spotify.com/track/4u57MxyzGESjI1yoeLuinS"
+      "duration_ms": 192080,
+      "name": "La r\u00e9volution des doudous",
+      "url": "https://open.spotify.com/track/51i15bMvzYVhqF0jIGsB9M"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -838,11 +834,15 @@
         {
           "name": "Rit qui qui",
           "url": "https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ"
+        },
+        {
+          "name": "Pascal Peroteau",
+          "url": "https://open.spotify.com/artist/6SANO2sCHf6LhTTCvhmecK"
         }
       ],
-      "duration_ms": 192080,
-      "name": "La r\u00e9volution des doudous",
-      "url": "https://open.spotify.com/track/51i15bMvzYVhqF0jIGsB9M"
+      "duration_ms": 177453,
+      "name": "Super flemmard",
+      "url": "https://open.spotify.com/track/4u57MxyzGESjI1yoeLuinS"
     },
     {
       "added_at": "2023-08-08 08:47:20",

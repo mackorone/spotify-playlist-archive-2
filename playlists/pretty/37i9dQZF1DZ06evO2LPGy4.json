@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 479995,
+  "num_followers": 480038,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAABQBWjYZLblUjG5RCjHK8Vd",
+  "snapshot_id": "alrCAAAAAADcVivrZRkKXTEm3Cc4OOkZ",
   "tracks": [
     {
       "added_at": null,
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplar",
-        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
+        "name": "Ariel Camacho Para Siempre",
+        "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
       },
       "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 141500,
-      "name": "Afectado",
-      "url": "https://open.spotify.com/track/6Yn0bQfVdMLln9vYB31zKc"
+      "duration_ms": 211776,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Another Kingdom Is Gone (Kleerup Rework)",
+        "url": "https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Another Kingdom Is Gone (Kleerup Rework)",
+      "url": "https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC"
+    },
+    {
+      "album": {
         "name": "Ansiktenas mystik",
         "url": "https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ"
       },
@@ -4992,7 +5014,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 229770,
       "name": "Inner City Ghosts",
       "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"

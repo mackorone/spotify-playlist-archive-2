@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Bon Appetit",
+        "url": "https://open.spotify.com/album/4CIMlywsdaGgVEiObGZM9o"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "date_added": "2026-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "El Fantasma Enamorado",
+      "url": "https://open.spotify.com/track/2D7yfNs7wWzAD33FMCOIPN"
+    },
+    {
+      "album": {
         "name": "Caracoles",
         "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
       },
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 276133,
       "name": "No Es Serio Este Cementerio",
       "url": "https://open.spotify.com/track/7LTz3mBUUA3C6keITI7yhK"

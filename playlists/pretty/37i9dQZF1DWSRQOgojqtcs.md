@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,646 likes - 336 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,659 likes - 336 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 182 | [Better Left Unsaid](https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Better Left Unsaid](https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ) | 3:15 |
 | 183 | [Meet Her at the Loveparade](https://open.spotify.com/track/3DmaIugALtDelUzCinhilO) | [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [Meet Her at the Loveparade](https://open.spotify.com/album/3fZi7YuMyHtqV0WkmaxdTe) | 9:35 |
 | 184 | [One of the Girls](https://open.spotify.com/track/2FucjATNZ2BiiwJ1sa8jAo) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [One of the Girls](https://open.spotify.com/album/1pgkV0Qz0zEhTyDPjY3qyl) | 3:51 |
-| 185 | [Go On \- Lew E Remix](https://open.spotify.com/track/5LswLGhagyyyrmDq2Km6nl) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O), [Lew E](https://open.spotify.com/artist/6Uj8Oy04i9TYNLv7BtMlBg) | [a.s.o\. \(remixed\)](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 7:30 |
+| 185 | [Go On \- Lew E Remix](https://open.spotify.com/track/5LswLGhagyyyrmDq2Km6nl) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Lew E](https://open.spotify.com/artist/6Uj8Oy04i9TYNLv7BtMlBg), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O) | [a.s.o\. \(remixed\)](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 7:30 |
 | 186 | [Sad Music](https://open.spotify.com/track/7H3EFWwrJbyeBgrMdmKNlL) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Sad Music](https://open.spotify.com/album/13VUEwn5YHKGXEQk4SCsXw) | 3:33 |
 | 187 | [Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Desire](https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn) | 4:56 |
 | 188 | [Streets Favorite](https://open.spotify.com/track/7bqC6DLFezvj127pWIiDQR) | [Capone](https://open.spotify.com/artist/5tZCG7dzZBfmr64xw9elgL) | [Pain, Time and Glory](https://open.spotify.com/album/3YDljCwPIk6r7CHQgMbTqs) | 2:47 |

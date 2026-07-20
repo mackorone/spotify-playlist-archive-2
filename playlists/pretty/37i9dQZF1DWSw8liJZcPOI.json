@@ -1,6 +1,6 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 249436,
+  "num_followers": 249480,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Elva",
         "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 176062,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Un r\u00eave blanc",
         "url": "https://open.spotify.com/album/5FMdaxHAacLY86UUx0ZsgU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 188797,
       "name": "Un r\u00eave blanc",
       "url": "https://open.spotify.com/track/2aZ8toXl69phNC20raidDn"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/1b9j5iCjAHD8pW3ymNIQtR"
-      },
-      "artists": [
-        {
-          "name": "Rusanda Panfili",
-          "url": "https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc"
-        },
-        {
-          "name": "Johannes Winkler",
-          "url": "https://open.spotify.com/artist/26H2bmjstmhJsKxacvLKLk"
-        }
-      ],
-      "duration_ms": 249947,
-      "name": "11 Dimensions",
-      "url": "https://open.spotify.com/track/7cTVvjLlJrEgIg7z2N8fbf"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 170539,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1b9j5iCjAHD8pW3ymNIQtR"
+      },
+      "artists": [
+        {
+          "name": "Rusanda Panfili",
+          "url": "https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc"
+        },
+        {
+          "name": "Johannes Winkler",
+          "url": "https://open.spotify.com/artist/26H2bmjstmhJsKxacvLKLk"
+        }
+      ],
+      "duration_ms": 249947,
+      "name": "11 Dimensions",
+      "url": "https://open.spotify.com/track/7cTVvjLlJrEgIg7z2N8fbf"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Fairytail",
-        "url": "https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 170860,
-      "name": "Fairytail",
-      "url": "https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Triptych III for Piano",
         "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 201013,
       "name": "Triptych III for Piano",
       "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Fairytail",
+        "url": "https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 170860,
+      "name": "Fairytail",
+      "url": "https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/52drnTv2Acfw2rv1y3lfVX"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 205625,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2q1n8PgOnPj9hIu6muIPXC"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/52drnTv2Acfw2rv1y3lfVX"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2q1n8PgOnPj9hIu6muIPXC"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "We All Have Places That We Miss",
-        "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Remembered Words",
-      "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Circle 23 (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 323855,
       "name": "Circle 23 - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "We All Have Places That We Miss",
+        "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Remembered Words",
+      "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Back to Loneliness",
-        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
-      },
-      "artists": [
-        {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
-        }
-      ],
-      "duration_ms": 257152,
-      "name": "Back to Loneliness",
-      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "little dreamer",
         "url": "https://open.spotify.com/album/4CoWKpxq9OVUjxfeEWL3SP"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 209174,
       "name": "little dreamer",
       "url": "https://open.spotify.com/track/36juCwMJPa6YR57IV3yKbd"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Back to Loneliness",
+        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
+      },
+      "artists": [
+        {
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+        }
+      ],
+      "duration_ms": 257152,
+      "name": "Back to Loneliness",
+      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "The True Meaning Of Forever",
-        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 173927,
-      "name": "Coda",
-      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "saudade (feat. Ardie Son)",
         "url": "https://open.spotify.com/album/2Fra3qAyV4EHYX72KtA4QV"
       },
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
+        "name": "The True Meaning Of Forever",
+        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 173927,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
         "name": "Shimmerfall",
         "url": "https://open.spotify.com/album/2xdIc7jSQcnMlRZ3y6i3E1"
       },
@@ -1815,22 +1815,6 @@
       "duration_ms": 234685,
       "name": "Shimmerfall",
       "url": "https://open.spotify.com/track/4J1WTuWrYmv6z7FbKFUh7V"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
-        "name": "Impression, Skyline",
-        "url": "https://open.spotify.com/album/53AXZR0XL1gMBU08OoumdL"
-      },
-      "artists": [
-        {
-          "name": "Dardust",
-          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
-        }
-      ],
-      "duration_ms": 221408,
-      "name": "Impression, Skyline",
-      "url": "https://open.spotify.com/track/3F4unb6FxZuMV78D3t3Yb9"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
+        "name": "Impression, Skyline",
+        "url": "https://open.spotify.com/album/53AXZR0XL1gMBU08OoumdL"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "duration_ms": 221408,
+      "name": "Impression, Skyline",
+      "url": "https://open.spotify.com/track/3F4unb6FxZuMV78D3t3Yb9"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
         "name": "Candle Flickers",
         "url": "https://open.spotify.com/album/4gAaXS2qlVgp3AqFY8ajgq"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 164320,
       "name": "Candle Flickers (feat. Peter Gregson) - Adagio",
       "url": "https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1911,18 +1927,18 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+        "name": "Somnambulant Cycles",
+        "url": "https://open.spotify.com/album/3h9QjkAdxLZGgZgbqjU2S4"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
+      "duration_ms": 237560,
+      "name": "Even",
+      "url": "https://open.spotify.com/track/7u8lwYST0jm0HxwCW6imHq"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -1943,22 +1959,6 @@
       "duration_ms": 221133,
       "name": "Song for Octave",
       "url": "https://open.spotify.com/track/0a1V9soqYkcKEzSqjfLf3W"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
-        "name": "Somnambulant Cycles",
-        "url": "https://open.spotify.com/album/3h9QjkAdxLZGgZgbqjU2S4"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Even",
-      "url": "https://open.spotify.com/track/7u8lwYST0jm0HxwCW6imHq"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Elusive Scent",
-        "url": "https://open.spotify.com/album/2YmL8ONiVXVJVXWL3ovQLk"
-      },
-      "artists": [
-        {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
-        }
-      ],
-      "duration_ms": 228855,
-      "name": "Elusive Scent",
-      "url": "https://open.spotify.com/track/2Xo1zM2lm9wfuaRL9vHOzk"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Pavane (Sam Thompson Rework)",
         "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 323693,
       "name": "Pavane - Sam Thompson Rework",
       "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Elusive Scent",
+        "url": "https://open.spotify.com/album/2YmL8ONiVXVJVXWL3ovQLk"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Elusive Scent",
+      "url": "https://open.spotify.com/track/2Xo1zM2lm9wfuaRL9vHOzk"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -2195,34 +2195,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Pieces of Wood: III",
-        "url": "https://open.spotify.com/album/3DTH6RyTH4Radg7XaDsEEB"
-      },
-      "artists": [
-        {
-          "name": "Oliver Davis",
-          "url": "https://open.spotify.com/artist/3BRizPspINkIYljgzP1x6J"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Julian Kershaw",
-          "url": "https://open.spotify.com/artist/7rO9aeXffLJgawjhuFek0k"
-        },
-        {
-          "name": "Kerenza Peacock",
-          "url": "https://open.spotify.com/artist/2oWyRS6YfCVoVKl50eBsAq"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Pieces of Wood: III",
-      "url": "https://open.spotify.com/track/4s07pjALnom4zRAA500c4s"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Nobody travelling",
         "url": "https://open.spotify.com/album/2oVFDW0fz8lYL6fP4Kdotb"
       },
@@ -2271,6 +2243,50 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
+        "name": "Fredag",
+        "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+        }
+      ],
+      "duration_ms": 182759,
+      "name": "Fredag",
+      "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Pieces of Wood: III",
+        "url": "https://open.spotify.com/album/3DTH6RyTH4Radg7XaDsEEB"
+      },
+      "artists": [
+        {
+          "name": "Oliver Davis",
+          "url": "https://open.spotify.com/artist/3BRizPspINkIYljgzP1x6J"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Julian Kershaw",
+          "url": "https://open.spotify.com/artist/7rO9aeXffLJgawjhuFek0k"
+        },
+        {
+          "name": "Kerenza Peacock",
+          "url": "https://open.spotify.com/artist/2oWyRS6YfCVoVKl50eBsAq"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Pieces of Wood: III",
+      "url": "https://open.spotify.com/track/4s07pjALnom4zRAA500c4s"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
         "name": "Beautifully Lost Mind",
         "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
       },
@@ -2303,18 +2319,18 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Fredag",
-        "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
+        "name": "s\u00e9r\u00e9nades",
+        "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
       },
       "artists": [
         {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
         }
       ],
-      "duration_ms": 182759,
-      "name": "Fredag",
-      "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
+      "duration_ms": 284543,
+      "name": "yanni (piano)",
+      "url": "https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -2339,38 +2355,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "s\u00e9r\u00e9nades",
-        "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 284543,
-      "name": "yanni (piano)",
-      "url": "https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
-        "name": "Adrift",
-        "url": "https://open.spotify.com/album/5P7Ya8ZFwgDwvHjHyKmfZO"
-      },
-      "artists": [
-        {
-          "name": "Jacob M\u00fchlrad",
-          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Adrift",
-      "url": "https://open.spotify.com/track/27tGyDDI8wCogLgQahP16g"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "is this really it?",
         "url": "https://open.spotify.com/album/0iAe8b0UeOxLbQHsippL5M"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 172716,
       "name": "is this really it?",
       "url": "https://open.spotify.com/track/2A8n9X3Jvw2oh7DH8OozPu"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Adrift",
+        "url": "https://open.spotify.com/album/5P7Ya8ZFwgDwvHjHyKmfZO"
+      },
+      "artists": [
+        {
+          "name": "Jacob M\u00fchlrad",
+          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/27tGyDDI8wCogLgQahP16g"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Acqua",
-        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Arabesque",
         "url": "https://open.spotify.com/album/2u8jIYNrBc5obxvbXlAIYx"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 123656,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/4u1fQ9pvtLh1XDlivrHrPJ"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -2747,6 +2747,26 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/0brYnL9IbHnqPYOqEEkNrC"
+      },
+      "artists": [
+        {
+          "name": "Jim Wallis",
+          "url": "https://open.spotify.com/artist/2bvFPvB1oS49jPbQ68yKqL"
+        },
+        {
+          "name": "Nick Goss",
+          "url": "https://open.spotify.com/artist/3H4QM9olbUCc7po6geVsfB"
+        }
+      ],
+      "duration_ms": 402933,
+      "name": "Seventh Man",
+      "url": "https://open.spotify.com/track/66wsgXCHuYUJMVdh1t09jy"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
         "name": "Stillness (Reimagined by Alexandra Hamilton-Ayres)",
         "url": "https://open.spotify.com/album/6P8DlrS62hQZqR0ZjYdBOa"
       },
@@ -2767,22 +2787,22 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/0brYnL9IbHnqPYOqEEkNrC"
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
       },
       "artists": [
         {
-          "name": "Jim Wallis",
-          "url": "https://open.spotify.com/artist/2bvFPvB1oS49jPbQ68yKqL"
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
         },
         {
-          "name": "Nick Goss",
-          "url": "https://open.spotify.com/artist/3H4QM9olbUCc7po6geVsfB"
+          "name": "Valente Bertelli",
+          "url": "https://open.spotify.com/artist/7kbDeufcUnqAmbShMeEnAC"
         }
       ],
-      "duration_ms": 402933,
-      "name": "Seventh Man",
-      "url": "https://open.spotify.com/track/66wsgXCHuYUJMVdh1t09jy"
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -2815,26 +2835,6 @@
       "duration_ms": 241390,
       "name": "Step Step Step",
       "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        },
-        {
-          "name": "Valente Bertelli",
-          "url": "https://open.spotify.com/artist/7kbDeufcUnqAmbShMeEnAC"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2026-06-26 04:00:54",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2026-06-26 04:00:54",
       "album": {
-        "name": "Euphoria Denied",
-        "url": "https://open.spotify.com/album/1dSwxclslxGIOmDkUBjBqQ"
-      },
-      "artists": [
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Euphoria Denied",
-      "url": "https://open.spotify.com/track/3x1sl7uY24NqU71gY2HQGd"
-    },
-    {
-      "added_at": "2026-06-26 04:00:54",
-      "album": {
         "name": "Funambulist",
         "url": "https://open.spotify.com/album/1TPzJjS62EhCLh2LbSCJNY"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 191450,
       "name": "Funambulist",
       "url": "https://open.spotify.com/track/6pjVWTuwxL7QkRTbCBNE2i"
+    },
+    {
+      "added_at": "2026-06-26 04:00:54",
+      "album": {
+        "name": "Euphoria Denied",
+        "url": "https://open.spotify.com/album/1dSwxclslxGIOmDkUBjBqQ"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Euphoria Denied",
+      "url": "https://open.spotify.com/track/3x1sl7uY24NqU71gY2HQGd"
     },
     {
       "added_at": "2026-06-26 04:00:54",

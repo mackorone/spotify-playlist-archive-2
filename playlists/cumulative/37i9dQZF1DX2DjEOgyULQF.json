@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 174545,
       "name": "Falling Freely",
       "url": "https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben"
@@ -3506,6 +3506,24 @@
       "duration_ms": 219952,
       "name": "Harmony Embrace",
       "url": "https://open.spotify.com/track/2BvGnRld5Kg2pjnL1JRhYq"
+    },
+    {
+      "album": {
+        "name": "Harmony Haven",
+        "url": "https://open.spotify.com/album/4zVgIsyQUUA5amABecQCRv"
+      },
+      "artists": [
+        {
+          "name": "A Place Of Solace",
+          "url": "https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Harmony Haven",
+      "url": "https://open.spotify.com/track/1QTkKOIRpvU66GAeE1q0MX"
     },
     {
       "album": {

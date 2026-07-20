@@ -27,6 +27,22 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
+        "name": "Leave (Get Out)",
+        "url": "https://open.spotify.com/album/1my8gamil8Wif5N92EeMkv"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 201551,
+      "name": "Leave (Get Out)",
+      "url": "https://open.spotify.com/track/6Lue9MrOY1bv852jhqjwF7"
+    },
+    {
+      "added_at": "2026-07-17 04:00:00",
+      "album": {
         "name": "Welcome the End",
         "url": "https://open.spotify.com/album/4ai4El3CBrFkRXROwRumXA"
       },
@@ -47,42 +63,6 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
-        "name": "Leave (Get Out)",
-        "url": "https://open.spotify.com/album/1my8gamil8Wif5N92EeMkv"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 201551,
-      "name": "Leave (Get Out)",
-      "url": "https://open.spotify.com/track/6Lue9MrOY1bv852jhqjwF7"
-    },
-    {
-      "added_at": "2026-07-17 04:00:00",
-      "album": {
-        "name": "Beard",
-        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 269028,
-      "name": "Any Time (feat. James Fauntleroy)",
-      "url": "https://open.spotify.com/track/6GmUxZzoAdxuZBcVWq2Gpk"
-    },
-    {
-      "added_at": "2026-07-17 04:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
       },
@@ -95,70 +75,6 @@
       "duration_ms": 222847,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
-    },
-    {
-      "added_at": "2026-07-17 04:00:00",
-      "album": {
-        "name": "In a Silent Way Reimagined (Live at Big Ears)",
-        "url": "https://open.spotify.com/album/2c8PslweUITteZc6hbOsNm"
-      },
-      "artists": [
-        {
-          "name": "Joel Harrison",
-          "url": "https://open.spotify.com/artist/6BXA5FDonefcAe2hg4T7K5"
-        },
-        {
-          "name": "Brandon Seabrook",
-          "url": "https://open.spotify.com/artist/4ifJc3icwlell38NYGXpOb"
-        },
-        {
-          "name": "Sam Sadigursky",
-          "url": "https://open.spotify.com/artist/1rpWIEpiSSEibIl6pviQQp"
-        },
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        },
-        {
-          "name": "Jerome Harris",
-          "url": "https://open.spotify.com/artist/0BLhUsMlOfOupCibR5w3PE"
-        },
-        {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Tim Keiper",
-          "url": "https://open.spotify.com/artist/1stHHjOFTWBdAsEUNRkWEu"
-        },
-        {
-          "name": "Silas the Soundmaker",
-          "url": "https://open.spotify.com/artist/1jer5VAaJCHrOdxtYpcGqX"
-        }
-      ],
-      "duration_ms": 2218040,
-      "name": "In a Silent Way / What About Time - Live at Big Ears",
-      "url": "https://open.spotify.com/track/15VTTCmsGg3eT5lszhYiQq"
-    },
-    {
-      "added_at": "2026-07-17 04:00:00",
-      "album": {
-        "name": "Too Too Bad",
-        "url": "https://open.spotify.com/album/5PHqWQBqM7GO5kVUKy0lZj"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 160998,
-      "name": "Satisfy Me (feat. Ari Lennox)",
-      "url": "https://open.spotify.com/track/1K0xROvNycpdtPL8aynDAJ"
     },
     {
       "added_at": "2026-07-17 04:00:00",
@@ -219,6 +135,90 @@
       "duration_ms": 191847,
       "name": "BHBC Roll Call (with Damn Skippy, Jarv, Wax, Nahte Renmus, Loser Chris, & DJ Hoppa)",
       "url": "https://open.spotify.com/track/3wqjZbUM9WrXIbQbarrXE0"
+    },
+    {
+      "added_at": "2026-07-17 04:00:00",
+      "album": {
+        "name": "Beard",
+        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/6GmUxZzoAdxuZBcVWq2Gpk"
+    },
+    {
+      "added_at": "2026-07-17 04:00:00",
+      "album": {
+        "name": "Too Too Bad",
+        "url": "https://open.spotify.com/album/5PHqWQBqM7GO5kVUKy0lZj"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 160998,
+      "name": "Satisfy Me (feat. Ari Lennox)",
+      "url": "https://open.spotify.com/track/1K0xROvNycpdtPL8aynDAJ"
+    },
+    {
+      "added_at": "2026-07-17 04:00:00",
+      "album": {
+        "name": "In a Silent Way Reimagined (Live at Big Ears)",
+        "url": "https://open.spotify.com/album/2c8PslweUITteZc6hbOsNm"
+      },
+      "artists": [
+        {
+          "name": "Joel Harrison",
+          "url": "https://open.spotify.com/artist/6BXA5FDonefcAe2hg4T7K5"
+        },
+        {
+          "name": "Brandon Seabrook",
+          "url": "https://open.spotify.com/artist/4ifJc3icwlell38NYGXpOb"
+        },
+        {
+          "name": "Sam Sadigursky",
+          "url": "https://open.spotify.com/artist/1rpWIEpiSSEibIl6pviQQp"
+        },
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        },
+        {
+          "name": "Jerome Harris",
+          "url": "https://open.spotify.com/artist/0BLhUsMlOfOupCibR5w3PE"
+        },
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Tim Keiper",
+          "url": "https://open.spotify.com/artist/1stHHjOFTWBdAsEUNRkWEu"
+        },
+        {
+          "name": "Silas the Soundmaker",
+          "url": "https://open.spotify.com/artist/1jer5VAaJCHrOdxtYpcGqX"
+        }
+      ],
+      "duration_ms": 2218040,
+      "name": "In a Silent Way / What About Time - Live at Big Ears",
+      "url": "https://open.spotify.com/track/15VTTCmsGg3eT5lszhYiQq"
     },
     {
       "added_at": "2026-07-17 04:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
+    },
+    {
+      "added_at": "2026-07-17 04:00:00",
+      "album": {
         "name": "Satisfy (James Poole Remix)",
         "url": "https://open.spotify.com/album/0S5z3uSXJW1v8cNUJSW4OA"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
-        "name": "Foreign Tongues",
-        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+        "name": "ReLoad (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/4ogbSOvBvqT0kqCO0fI1rW"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 274061,
-      "name": "Mr Charm",
-      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
+      "duration_ms": 238760,
+      "name": "Sweat - \"Attitude\" Vocal Idea",
+      "url": "https://open.spotify.com/track/5uAGevWFuONPMlefEycnvr"
     },
     {
       "added_at": "2026-07-17 04:00:00",
@@ -383,18 +399,18 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
-        "name": "ReLoad (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/4ogbSOvBvqT0kqCO0fI1rW"
+        "name": "Upphaf",
+        "url": "https://open.spotify.com/album/1Pi6Re7Laq42e5T7FvN847"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 238760,
-      "name": "Sweat - \"Attitude\" Vocal Idea",
-      "url": "https://open.spotify.com/track/5uAGevWFuONPMlefEycnvr"
+      "duration_ms": 272840,
+      "name": "Upphaf",
+      "url": "https://open.spotify.com/track/1QfeSgrrRMPiywQWiFDY7L"
     },
     {
       "added_at": "2026-07-17 04:00:00",
@@ -443,22 +459,6 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
-        "name": "Upphaf",
-        "url": "https://open.spotify.com/album/1Pi6Re7Laq42e5T7FvN847"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "Upphaf",
-      "url": "https://open.spotify.com/track/1QfeSgrrRMPiywQWiFDY7L"
-    },
-    {
-      "added_at": "2026-07-17 04:00:00",
-      "album": {
         "name": "Grey Hun",
         "url": "https://open.spotify.com/album/3VUzrAnLKwA8YKPnThEwxp"
       },
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
         }
       ],
-      "duration_ms": 279982,
-      "name": "Martian Monster - Live",
-      "url": "https://open.spotify.com/track/6Wyi0TWZOBxZNstaWcF7Ia"
+      "duration_ms": 239587,
+      "name": "Strawberry Letter 23 - Live",
+      "url": "https://open.spotify.com/track/4RnJfCUsZu6hlC9IZS6au4"
     },
     {
       "added_at": "2026-07-17 04:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 233335,
-      "name": "ghost (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
-    },
-    {
-      "added_at": "2026-07-17 04:00:00",
-      "album": {
         "name": "winning",
         "url": "https://open.spotify.com/album/3jzFyINlPivDTfXI5yr9F4"
       },
@@ -623,30 +603,22 @@
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
-        "name": "Dem Goats",
-        "url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh"
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
       },
       "artists": [
         {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Anthony Q.",
-          "url": "https://open.spotify.com/artist/2pae36JwIwwS5a9G0qqI82"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 218456,
-      "name": "Choose Wisely (feat. Killer Mike and Anthony Q.)",
-      "url": "https://open.spotify.com/track/5naKXc6f6FwCBEJwQ2gOPS"
+      "duration_ms": 233335,
+      "name": "ghost (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
     },
     {
       "added_at": "2026-07-17 04:00:00",
@@ -671,6 +643,34 @@
       "duration_ms": 209295,
       "name": "Everybody Lies A Little",
       "url": "https://open.spotify.com/track/1dasu8Qw1WLdsIKHtzmF0F"
+    },
+    {
+      "added_at": "2026-07-17 04:00:00",
+      "album": {
+        "name": "Dem Goats",
+        "url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Anthony Q.",
+          "url": "https://open.spotify.com/artist/2pae36JwIwwS5a9G0qqI82"
+        }
+      ],
+      "duration_ms": 218456,
+      "name": "Choose Wisely (feat. Killer Mike and Anthony Q.)",
+      "url": "https://open.spotify.com/track/5naKXc6f6FwCBEJwQ2gOPS"
     },
     {
       "added_at": "2026-07-17 04:00:00",

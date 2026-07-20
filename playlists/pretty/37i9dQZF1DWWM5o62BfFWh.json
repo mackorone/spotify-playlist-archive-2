@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 167099,
+  "num_followers": 167124,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,34 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
+        "name": "El Doctorado (Version Reparto)",
+        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Seikan Anikila",
+          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "duration_ms": 221671,
+      "name": "El Doctorado - Version Reparto",
+      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -335,30 +363,22 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "El Doctorado (Version Reparto)",
-        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
+        "name": "El Sano",
+        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
       },
       "artists": [
         {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
         },
         {
-          "name": "Seikan Anikila",
-          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+          "name": "Lex White",
+          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
         }
       ],
-      "duration_ms": 221671,
-      "name": "El Doctorado - Version Reparto",
-      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
+      "duration_ms": 199307,
+      "name": "El Sano",
+      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -399,26 +419,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "El Sano",
-        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Lex White",
-          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "El Sano",
-      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "Mi GANA2",
         "url": "https://open.spotify.com/album/77c5MxJaSR6v6sG0pG1FF3"
       },
@@ -435,26 +435,6 @@
       "duration_ms": 162782,
       "name": "Mi GANA2",
       "url": "https://open.spotify.com/track/06p0dR5xGENHul3ZdawDl6"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "Todos Los D\u00edas Son Iguales",
-        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "El Bandolero",
-          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
-        }
-      ],
-      "duration_ms": 151086,
-      "name": "Sellito y Foto - Prod. by El Bandolero",
-      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -479,6 +459,26 @@
       "duration_ms": 161725,
       "name": "Te Echo de Menos",
       "url": "https://open.spotify.com/track/1aQCtqOkz7UQDvGignacjA"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "Todos Los D\u00edas Son Iguales",
+        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "El Bandolero",
+          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
+        }
+      ],
+      "duration_ms": 151086,
+      "name": "Sellito y Foto - Prod. by El Bandolero",
+      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Suave y Rico",
-        "url": "https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i"
-      },
-      "artists": [
-        {
-          "name": "Chucho Flash",
-          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
-        },
-        {
-          "name": "Wildey",
-          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Suave y Rico",
-      "url": "https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "UN TIEMPO",
         "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 178909,
       "name": "UN TIEMPO",
       "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "Suave y Rico",
+        "url": "https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i"
+      },
+      "artists": [
+        {
+          "name": "Chucho Flash",
+          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
+        },
+        {
+          "name": "Wildey",
+          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Suave y Rico",
+      "url": "https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "LA SOGA",
-        "url": "https://open.spotify.com/album/4wcnXDHVslHX2OVHkI3qoB"
-      },
-      "artists": [
-        {
-          "name": "Big Junnior",
-          "url": "https://open.spotify.com/artist/1H4oRWXKJbKcyNeiddCdHs"
-        },
-        {
-          "name": "Harryson",
-          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
-        }
-      ],
-      "duration_ms": 190930,
-      "name": "LA SOGA",
-      "url": "https://open.spotify.com/track/24zist2zjKuQV3OKeAQo7o"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "El Men2 Remix",
         "url": "https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg"
       },
@@ -1055,18 +1035,46 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+        "name": "LA SOGA",
+        "url": "https://open.spotify.com/album/4wcnXDHVslHX2OVHkI3qoB"
       },
       "artists": [
         {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+          "name": "Big Junnior",
+          "url": "https://open.spotify.com/artist/1H4oRWXKJbKcyNeiddCdHs"
+        },
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
-      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+      "duration_ms": 190930,
+      "name": "LA SOGA",
+      "url": "https://open.spotify.com/track/24zist2zjKuQV3OKeAQo7o"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "Yo Voy A Mi",
+        "url": "https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Yo Voy A Mi",
+      "url": "https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -1091,6 +1099,22 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
         "name": "Stupida",
         "url": "https://open.spotify.com/album/6sGFiVC4ka6WZwcmVFJb1U"
       },
@@ -1103,6 +1127,22 @@
       "duration_ms": 213978,
       "name": "Stupida",
       "url": "https://open.spotify.com/track/1nXAJekMyzc98RABqZarAt"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "C\u00f3digo Afro",
+        "url": "https://open.spotify.com/album/3carARE3JaXPwnLOIbV4kr"
+      },
+      "artists": [
+        {
+          "name": "Yomil",
+          "url": "https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Sant\u00edsimo",
+      "url": "https://open.spotify.com/track/5u8HRyAdAadrlWuMVjsOR5"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -1131,38 +1171,6 @@
       "duration_ms": 153891,
       "name": "LO MEJOR DE LO MEJOR",
       "url": "https://open.spotify.com/track/7KxHYPDF3WKt3mzjZifL9U"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "C\u00f3digo Afro",
-        "url": "https://open.spotify.com/album/3carARE3JaXPwnLOIbV4kr"
-      },
-      "artists": [
-        {
-          "name": "Yomil",
-          "url": "https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Sant\u00edsimo",
-      "url": "https://open.spotify.com/track/5u8HRyAdAadrlWuMVjsOR5"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "TE VIR\u00c9 EL CASETTE",
-        "url": "https://open.spotify.com/album/6HuNpYO5oiXanjfMiyq7F2"
-      },
-      "artists": [
-        {
-          "name": "Un Titico",
-          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3"
     }
   ],
   "unique_name": "Hecho en Cuba",

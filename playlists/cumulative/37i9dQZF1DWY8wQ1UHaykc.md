@@ -2,9 +2,9 @@
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
-> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
+> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-213 songs - 14 hr 35 min
+214 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Sumpah dan Cinta Matiku](https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA) | 4:45 | 2024-01-05 |  |
 | [Surat Cinta Untuk Starla](https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3) | 5:08 | 2024-01-05 |  |
 | [Sweet Scar](https://open.spotify.com/track/3R0FDwQSXOiO5gaOZFxKZ5) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi), [Reza Oktovian](https://open.spotify.com/artist/2lM2f6loqD5wA5lWgmB3il), [Billy Taner](https://open.spotify.com/artist/2wDPEmGxZefhW42RGBOJxP) | [Sweet Scar](https://open.spotify.com/album/3IlfbLXXM2MHrb5Yv8CJn1) | 3:14 | 2025-02-07 |  |
+| [Symphoni Yang Indah \- Remastered 2026](https://open.spotify.com/track/0wSoLJv6R8yrJF88iyii0z) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Symphoni Yang Indah \(Remastered 2026\)](https://open.spotify.com/album/3TicgRNsgQBzjIzSHaunil) | 5:03 | 2026-07-20 |  |
 | [Tak Kan Pernah Ada](https://open.spotify.com/track/0SbIIWkcFv72jdZSzjq3Vd) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Yang Ngehits 2000an](https://open.spotify.com/album/0wWk8fGY4MfjwHPc9exwpE) | 3:34 | 2024-01-05 | 2024-04-19 |
 | [Tak Kan Pernah Ada](https://open.spotify.com/track/4cXRA1wHbs4YwUqdINY1bh) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Anugrah Terindah](https://open.spotify.com/album/4CLnW54mkGKD4RLOsS7tAA) | 3:34 | 2024-04-19 |  |
 | [Tak Lagi Sama](https://open.spotify.com/track/6UXFqV37k4fzxYaocJunaF) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 5:15 | 2024-01-05 |  |

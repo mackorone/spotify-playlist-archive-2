@@ -1433,6 +1433,28 @@
     },
     {
       "album": {
+        "name": "El Rey De Corazones",
+        "url": "https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233443,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/4R5fDuGTh3qi9GxtjzTbK7"
+    },
+    {
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -2066,7 +2088,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 244517,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAACHEn5CdHhSDn8l8iVvrvPI",
+  "snapshot_id": "alrCAAAAAABiAbqxbDTcReSjb/q278aj",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tus Ojos",
-        "url": "https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
-        }
-      ],
-      "duration_ms": 140936,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amistades",
         "url": "https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 211017,
       "name": "Esta Tristeza Mia",
       "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tus Ojos",
+        "url": "https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "duration_ms": 140936,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Tssara, Die Mannequin, Jinx & The Royals and more",
+  "description": "With Tssara, Die Mannequin, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 190466,
       "name": "Bipolar Bear",
       "url": "https://open.spotify.com/track/0bSHjRFTb2RO3niMTSoMJB"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 227693,
       "name": "Breakdown Love",
       "url": "https://open.spotify.com/track/0iPggvigBtlcgfD7q26tWR"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 191140,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 158720,
       "name": "CEO OF MY FACE",
       "url": "https://open.spotify.com/track/4lx9KQP9qnHYarlnFp6Rqo"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 106159,
       "name": "Ginza Voltage, Senpai",
       "url": "https://open.spotify.com/track/7IymNg6Ov2DMkO5bHFJua4"
@@ -5626,7 +5626,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -6200,7 +6200,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -6960,7 +6960,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "No One's Home",
       "url": "https://open.spotify.com/track/4H32i9x2H1RiAv9xAGm3rg"
@@ -7176,7 +7176,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 201434,
       "name": "Now & Always",
       "url": "https://open.spotify.com/track/3v8P91WmREhtM0gd624Wzp"
@@ -8704,7 +8704,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
@@ -9093,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "Four on the Floor",
+        "url": "https://open.spotify.com/album/1XLORBItExFS3M3a8wMwQQ"
+      },
+      "artists": [
+        {
+          "name": "Juliette & The Licks",
+          "url": "https://open.spotify.com/artist/5leGNiJMZus51YMNgB18iG"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Sticky Honey",
+      "url": "https://open.spotify.com/track/5NXsSgIvDLPmazTKCkcPys"
+    },
+    {
+      "album": {
         "name": "Circuit Breaker",
         "url": "https://open.spotify.com/album/4S69eT3alR0GILe9lqqBe8"
       },
@@ -9288,7 +9306,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-20",
       "duration_ms": 120959,
       "name": "Sunset Strip Fever Dream",
       "url": "https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r"
@@ -9490,7 +9508,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 133773,
       "name": "The Gold Medal",
       "url": "https://open.spotify.com/track/0eCumdc2LPmsI0XSsqNlAY"
@@ -10294,6 +10312,24 @@
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"
+    },
+    {
+      "album": {
+        "name": "Watching You Watching Her",
+        "url": "https://open.spotify.com/album/5Yl0cwiXQPpnywEk1Ew406"
+      },
+      "artists": [
+        {
+          "name": "Mia Morris",
+          "url": "https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177890,
+      "name": "Watching You Watching Her",
+      "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
     },
     {
       "album": {

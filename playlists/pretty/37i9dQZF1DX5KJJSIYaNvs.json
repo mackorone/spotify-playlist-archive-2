@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Twinkle Aggrwal",
-  "num_followers": 106431,
+  "num_followers": 106456,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -367,34 +367,6 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Maskara (From \"Main Vaapas Aaunga\")",
-        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vedang Raina",
-          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
-        },
-        {
-          "name": "Nilanjana Ghosh",
-          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 233741,
-      "name": "Maskara (From \"Main Vaapas Aaunga\")",
-      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
         "name": "Finding Her (Female Version)",
         "url": "https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL"
       },
@@ -419,6 +391,34 @@
       "duration_ms": 206735,
       "name": "Finding Her (Female Version) (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
+        "name": "Maskara (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vedang Raina",
+          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
+        },
+        {
+          "name": "Nilanjana Ghosh",
+          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 233741,
+      "name": "Maskara (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -671,30 +671,6 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Tum Yun Mile Ho",
-        "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
-      },
-      "artists": [
-        {
-          "name": "Reet Talwar",
-          "url": "https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Hiten",
-          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
-        }
-      ],
-      "duration_ms": 153124,
-      "name": "Tum Yun Mile Ho",
-      "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
         "name": "Alpha",
         "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 160026,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/2JBnAP4CJoG3XQTMor1qoP"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
+        "name": "Tum Yun Mile Ho",
+        "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
+      },
+      "artists": [
+        {
+          "name": "Reet Talwar",
+          "url": "https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "duration_ms": 153124,
+      "name": "Tum Yun Mile Ho",
+      "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1163,22 +1163,34 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Daira",
-        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
+        "name": "Leta Jaijo Re | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
       },
       "artists": [
         {
-          "name": "Sanjeeta Bhattacharya",
-          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
         },
         {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Chotu Khan",
+          "url": "https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p"
+        },
+        {
+          "name": "Jaipur Kawa Brass Band",
+          "url": "https://open.spotify.com/artist/3sKQnFP3Mx4Xg8H9EVXJbf"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
         }
       ],
-      "duration_ms": 162105,
-      "name": "Daira",
-      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
+      "duration_ms": 234913,
+      "name": "Leta Jaijo Re | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1219,54 +1231,22 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Leta Jaijo Re | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
+        "name": "Daira",
+        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
       },
       "artists": [
         {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
         },
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Chotu Khan",
-          "url": "https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p"
-        },
-        {
-          "name": "Jaipur Kawa Brass Band",
-          "url": "https://open.spotify.com/artist/3sKQnFP3Mx4Xg8H9EVXJbf"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
         }
       ],
-      "duration_ms": 234913,
-      "name": "Leta Jaijo Re | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
-        "name": "Adatein",
-        "url": "https://open.spotify.com/album/0s2Hnav57wS4qNzS0dIljY"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        },
-        {
-          "name": "Charan Preet",
-          "url": "https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Adatein",
-      "url": "https://open.spotify.com/track/1vzy1cPfT9f4Op2z4Gmg3i"
+      "duration_ms": 162105,
+      "name": "Daira",
+      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1295,6 +1275,26 @@
       "duration_ms": 228631,
       "name": "Churaaiyaan - From \"Call Me Bae\"",
       "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
+        "name": "Adatein",
+        "url": "https://open.spotify.com/album/0s2Hnav57wS4qNzS0dIljY"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Charan Preet",
+          "url": "https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Adatein",
+      "url": "https://open.spotify.com/track/1vzy1cPfT9f4Op2z4Gmg3i"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
-        "name": "Seven And a Half Dates",
-        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
-      },
-      "artists": [
-        {
-          "name": "Simran Choudhary",
-          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Aye Kyon The",
-      "url": "https://open.spotify.com/track/7xg20yggdJbh63cJYqwmO8"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
         "name": "Saanjh",
         "url": "https://open.spotify.com/album/3cgRZU6NFFHXPpMvI0YnLe"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 164705,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/4sgBqGDsKiNzc65jGaEnr3"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
+        "name": "Seven And a Half Dates",
+        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
+      },
+      "artists": [
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Aye Kyon The",
+      "url": "https://open.spotify.com/track/7xg20yggdJbh63cJYqwmO8"
     },
     {
       "added_at": "2026-07-06 04:12:42",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-07-06 04:12:42",
       "album": {
+        "name": "Madhaniya",
+        "url": "https://open.spotify.com/album/4nRwLnyRapoBH2tmde8RPV"
+      },
+      "artists": [
+        {
+          "name": "Ragini Tandan",
+          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Madhaniya",
+      "url": "https://open.spotify.com/track/2G2Hj6kWQbD81whGiagW99"
+    },
+    {
+      "added_at": "2026-07-06 04:12:42",
+      "album": {
         "name": "Rooh",
         "url": "https://open.spotify.com/album/0RjWEQbdNDcml5itl9UYsI"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 215994,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v"
-    },
-    {
-      "added_at": "2026-07-06 04:12:42",
-      "album": {
-        "name": "Madhaniya",
-        "url": "https://open.spotify.com/album/4nRwLnyRapoBH2tmde8RPV"
-      },
-      "artists": [
-        {
-          "name": "Ragini Tandan",
-          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "Madhaniya",
-      "url": "https://open.spotify.com/track/2G2Hj6kWQbD81whGiagW99"
     },
     {
       "added_at": "2026-07-06 04:12:42",

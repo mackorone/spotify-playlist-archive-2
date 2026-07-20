@@ -2,7 +2,7 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks.Cover: Moses Luka
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks.Cover: Timeless Noel
 
 345 songs - 1 day 6 hr 9 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 669193,
+  "num_followers": 669289,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "En La Luna",
-        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
-      },
-      "artists": [
-        {
-          "name": "Los Carlos",
-          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "P\u00eddeme La Luna",
-      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Bronco Amigo",
         "url": "https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 227120,
       "name": "Amigo Bronco - Remasterizado",
       "url": "https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "En La Luna",
+        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
+      },
+      "artists": [
+        {
+          "name": "Los Carlos",
+          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -947,18 +947,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+        "name": "Por El Mundo",
+        "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
       },
       "artists": [
         {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+      "duration_ms": 211346,
+      "name": "Adoro (with Armando Manzanero) - Remasterizado",
+      "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -979,22 +983,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Por El Mundo",
-        "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Adoro (with Armando Manzanero) - Remasterizado",
-      "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Album de Platino... 20 Super Exitos",
+        "url": "https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Miramar",
+          "url": "https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Una Lagrima y un Recuerdo",
+      "url": "https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Tu Nunca Lo Sabr\u00e1s (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/3kZP79R86LZxnLIU1FGcCa"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 185333,
       "name": "Tu Nunca Lo Sabr\u00e1s (Versi\u00f3n Cumbia)",
       "url": "https://open.spotify.com/track/7nd0pe3OCrz2HfsuYxHmIw"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Album de Platino... 20 Super Exitos",
-        "url": "https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Miramar",
-          "url": "https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Una Lagrima y un Recuerdo",
-      "url": "https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
       "artists": [
         {
-          "name": "Felinos",
-          "url": "https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 226417,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64"
+      "duration_ms": 203253,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH"
+      },
+      "artists": [
+        {
+          "name": "Felinos",
+          "url": "https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy"
+        }
+      ],
+      "duration_ms": 226417,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Gran Encuentro",
         "url": "https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 157706,
       "name": "Te V\u00ed Con El",
       "url": "https://open.spotify.com/track/1BoUHrabgfNoIJ3Wk4iwsg"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Te Quiero Todav\u00eda",
-        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
       "artists": [
         {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 221648,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
+      "duration_ms": 203560,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Te Quiero Todav\u00eda",
+        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+        }
+      ],
+      "duration_ms": 221648,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0j51KX0YG6HivxxPVwGzby"
       },
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
       },
@@ -1903,6 +1903,22 @@
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Me Duele Estar Solo",
+      "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1955,22 +1971,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Me Duele Estar Solo",
-      "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Amor Vendido, Vol. 4",
         "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
       },
@@ -1983,6 +1983,22 @@
       "duration_ms": 204669,
       "name": "Hola Como Estas",
       "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 189213,
+      "name": "C\u00f3mo Me Duele Amor",
+      "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -2015,22 +2031,6 @@
       "duration_ms": 210976,
       "name": "A Mentir A La Calle",
       "url": "https://open.spotify.com/track/7mGWklhUXaOYARbuq7woAQ"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Solo Recuerdos",
-        "url": "https://open.spotify.com/album/1lgoq6hR2YzfGrNoQ86ucQ"
-      },
-      "artists": [
-        {
-          "name": "Los Rodarte",
-          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Ves Que No Es Igual",
-      "url": "https://open.spotify.com/track/1hrzBjDejPytQ81qzQk4kD"
     }
   ],
   "unique_name": "Romance Grupero",

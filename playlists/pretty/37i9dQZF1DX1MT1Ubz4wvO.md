@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Azul de Viena
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,858 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,862 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 15 | [Tú y Yo](https://open.spotify.com/track/69usIlLrtImIS0qbj781HA) | [La Hornet](https://open.spotify.com/artist/0ZaHLLaesvl7sheG6ujS8B) | [Tú y Yo](https://open.spotify.com/album/1XtrWnKpt6BqbrHms6Frdk) | 3:18 |
 | 16 | [La Antorcha Humana](https://open.spotify.com/track/5vpkeYkB97A29v47O1n171) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [La Antorcha Humana](https://open.spotify.com/album/2Rldi77m1IlNjsVHH5TNRk) | 3:04 |
 | 17 | [Disfraz](https://open.spotify.com/track/4Vqal6bjkhk0z9tDWjaxXT) | [Lupa](https://open.spotify.com/artist/1irAnp5ZINd8GXPbcvR2bI) | [Disfraz](https://open.spotify.com/album/5OXreVEXQN0Pj4lEQiSVu5) | 3:11 |
-| 18 | [MAÑANA TE LO PAGO](https://open.spotify.com/track/5vV7Kqvzy9P7YSQtuXFhhC) | [TIO FACUNDO](https://open.spotify.com/artist/3MRDl2PnX4ALBO4oK2yhaW), [Symarip](https://open.spotify.com/artist/62WqEN59Hl7Q1K8Vlt33Mo), [The Blues Busters](https://open.spotify.com/artist/4xdiDvZzvenKNDHXmYFMVV) | [MAÑANA TE LO PAGO](https://open.spotify.com/album/0KciOZIPtVJAgLUtqAVjAG) | 3:16 |
+| 18 | [MAÑANA TE LO PAGO](https://open.spotify.com/track/5vV7Kqvzy9P7YSQtuXFhhC) | [TIO FACUNDO](https://open.spotify.com/artist/3MRDl2PnX4ALBO4oK2yhaW), [The Blues Busters](https://open.spotify.com/artist/4xdiDvZzvenKNDHXmYFMVV), [Los Comebolsas](https://open.spotify.com/artist/5lvg3cFvs5rYCVtINlbkpx) | [MAÑANA TE LO PAGO](https://open.spotify.com/album/0KciOZIPtVJAgLUtqAVjAG) | 3:16 |
 | 19 | [Heridas de Juventud](https://open.spotify.com/track/2cqCaEX2rLwnuLaWbeRL4l) | [Memocracia](https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH) | [Heridas de Juventud](https://open.spotify.com/album/1eYBbIv16orjYDfs85746o) | 2:53 |
 | 20 | [Bigger Splash](https://open.spotify.com/track/1Iglg0BzSGKUh1bdoloFpb) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Bigger Splash](https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6) | 4:30 |
 | 21 | [La Física Del Fracaso](https://open.spotify.com/track/6RzRZDuQceMj5fWad0N5Jl) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Física Del Fracaso](https://open.spotify.com/album/2hwtXWDK9gC4ENJ9iUGZdu) | 3:19 |

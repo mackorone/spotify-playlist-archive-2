@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15709,
+  "num_followers": 15711,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAAC7T8qTY7JoHGzkdhKBN59t",
+  "snapshot_id": "alrCAAAAAAB1G44DiHDFLX8JngOLW8ph",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 321760,
-      "name": "Weather 42",
-      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More than Flowers",
         "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 313093,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetic Justice: Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+      "duration_ms": 321760,
+      "name": "Weather 42",
+      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
     },
     {
       "added_at": null,

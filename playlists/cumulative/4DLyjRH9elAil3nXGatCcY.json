@@ -6031,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "Stoned and Dethroned",
+        "url": "https://open.spotify.com/album/5Xu1V0bHgoOguvwbbILH8p"
+      },
+      "artists": [
+        {
+          "name": "Nacho Picasso",
+          "url": "https://open.spotify.com/artist/5oib7h2INOpWPRLaSQxdY0"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2iHzRnacYLM0bTo1LKE2zy"
+    },
+    {
+      "album": {
         "name": "Monkey Drum",
         "url": "https://open.spotify.com/album/3qdFlyT1BcQOea46kccVE0"
       },

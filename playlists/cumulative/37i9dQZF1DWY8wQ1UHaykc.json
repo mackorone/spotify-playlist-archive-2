@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Fatin",
+  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Once Mekel",
   "name": "Ngetren di 2010an",
   "tracks": [
     {
@@ -3282,6 +3282,24 @@
       "duration_ms": 194854,
       "name": "Sweet Scar",
       "url": "https://open.spotify.com/track/3R0FDwQSXOiO5gaOZFxKZ5"
+    },
+    {
+      "album": {
+        "name": "Symphoni Yang Indah (Remastered 2026)",
+        "url": "https://open.spotify.com/album/3TicgRNsgQBzjIzSHaunil"
+      },
+      "artists": [
+        {
+          "name": "Once Mekel",
+          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303919,
+      "name": "Symphoni Yang Indah - Remastered 2026",
+      "url": "https://open.spotify.com/track/0wSoLJv6R8yrJF88iyii0z"
     },
     {
       "album": {

@@ -8591,6 +8591,24 @@
     },
     {
       "album": {
+        "name": "Summer's Coming",
+        "url": "https://open.spotify.com/album/659iFoyJLdw2GxfdGcWFmd"
+      },
+      "artists": [
+        {
+          "name": "Narcotic Hearts",
+          "url": "https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0"
+        }
+      ],
+      "date_added": "2026-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188583,
+      "name": "Summer's Coming",
+      "url": "https://open.spotify.com/track/3pZ0udMevYZ2hMfMi36fd4"
+    },
+    {
+      "album": {
         "name": "sunshine",
         "url": "https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl"
       },

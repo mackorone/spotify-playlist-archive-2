@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 345 likes - 2,482 songs - 6 day 2 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 345 likes - 2,484 songs - 6 day 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2490,5 +2490,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2480 | [Gaslight](https://open.spotify.com/track/64Cz7y89nR5IHv3gnhTRnk) | [Pilgrim's Fire](https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn) | [Field Report](https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1) | 4:42 |
 | 2481 | [Warehouse Warriors](https://open.spotify.com/track/2sXCKcmCbwAIWeIIxGYkk0) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Warehouse Warriors](https://open.spotify.com/album/5tzKvbtHmvpsX48kQwpoB7) | 2:01 |
 | 2482 | [Dans Mee](https://open.spotify.com/track/6le0KKPybTfs6BNL1AzRoD) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [Kinderliedjes](https://open.spotify.com/album/2RhxVBAN6FejpxNd3jxxR2) | 2:24 |
+| 2483 | [Have you seen my Lady](https://open.spotify.com/track/5XuwWlQbjFSInOrPvxyUNi) | [Ryhan Music](https://open.spotify.com/artist/3bdlsepaCRkmp8DA109WFW) | [Have you seen my Lady](https://open.spotify.com/album/0Z5B2BSxGA4ByQi4cpfEdX) | 3:23 |
+| 2484 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
 
-Snapshot ID: `AAAKgrJPmlLBLl2cXYalLstdICt/vktK`
+Snapshot ID: `AAAKhKkaLmGJT5jwlctn3Z1K7/spYA6e`

@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-117 songs - 20 hr 11 min
+118 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Iba F'Oluwa/Ajokodabi Ile \(Highlife Juju Yoruba\)](https://open.spotify.com/track/6kkJJ1jkn03m7TVR8DyXFA) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 7:37 | 2021-12-28 |  |
 | [Iba Folouwa](https://open.spotify.com/track/4a2npWSuIXbcAP9H4ihPZ9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 3:50 | 2021-12-28 |  |
 | [Iba Lo Ye Ka Se Medley](https://open.spotify.com/track/2jY15gQFGRrPE4kUXoGl0q) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey @ 70](https://open.spotify.com/album/5v8ddiIYTFRVuDHotcK9mw) | 1:03 | 2021-12-28 | 2025-10-21 |
-| [Ibadan \(Juju Yoruba\)](https://open.spotify.com/track/0EFqxIoVWjF3Zjz71n86bc) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:09 | 2021-12-28 |  |
+| [Ibadan](https://open.spotify.com/track/1QslDCZASnNFS8zkRcYd6y) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Edumare Adupe](https://open.spotify.com/album/5X19xBZ7i4bR8t61MEWIjU) | 3:02 | 2026-07-20 |  |
+| [Ibadan \(Juju Yoruba\)](https://open.spotify.com/track/0EFqxIoVWjF3Zjz71n86bc) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:09 | 2021-12-28 | 2026-07-20 |
 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 | 2022-04-12 | 2024-07-02 |
 | [Igba Owuro Lawa Medley, Pt.1](https://open.spotify.com/track/4Rtx3AeqRBU6HljCtL7PXe) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Igba Owuro Lawa](https://open.spotify.com/album/6PWBwe1Bv5RAjVQhRRulrE) | 20:11 | 2024-10-11 |  |
 | [Ija Pari, Pt\. 1](https://open.spotify.com/track/7yDmN4ygRPPzhT0vwDDvYU) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:43 | 2021-12-28 | 2023-12-26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 81271,
+  "num_followers": 81282,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "allwgAAAAABaPE4mBuCST/ZZ9hTxl9xv",
+  "snapshot_id": "alrCAAAAAADYnka1A3LTdN1RxKGfj0Zr",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 259693,
-      "name": "Enemy Within",
-      "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 260680,
       "name": "Liars & Thieves",
       "url": "https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Enemy Within",
+      "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
     },
     {
       "added_at": null,
